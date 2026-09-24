@@ -22,6 +22,7 @@
     </a>
     <nav class="topnav">
       <a href="#carte">Piocher</a>
+      <a href="#solo">Solo</a>
       <a href="#partie">Partie</a>
       <a href="#parcourir">Parcourir</a>
       <a href="#imprimer">Imprimer</a>
@@ -42,6 +43,10 @@
         <a class="menu-item" href="#carte">
           <span class="menu-titre">Piocher une carte</span>
           <span class="menu-desc">Pour jouer avec votre plateau : une carte, six questions, réponses au dos.</span>
+        </a>
+        <a class="menu-item" href="#solo">
+          <span class="menu-titre">Solo</span>
+          <span class="menu-desc">Une série de questions, des points selon la difficulté, et votre record à battre.</span>
         </a>
         <a class="menu-item" href="#partie">
           <span class="menu-titre">Partie sans plateau</span>
@@ -74,6 +79,42 @@
         <button type="button" class="btn" id="pioche-suivante">Carte suivante</button>
       </div>
       <p class="astuce">Touchez une question pour voir sa réponse.</p>
+    </section>
+
+    <!-- SOLO -->
+    <section class="vue" data-vue="solo" hidden>
+      <div id="solo-config" hidden>
+        <h2>Solo</h2>
+        <form id="form-solo" class="formulaire">
+          <fieldset>
+            <legend>Format</legend>
+            <div class="choix">
+              <label><input type="radio" name="format" value="10" checked> 10 questions</label>
+              <label><input type="radio" name="format" value="20"> 20 questions</label>
+              <label><input type="radio" name="format" value="30"> 30 questions</label>
+              <label><input type="radio" name="format" value="survie"> Survie (3 erreurs)</label>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>Catégorie</legend>
+            <div class="choix" id="solo-cats"></div>
+          </fieldset>
+          <fieldset>
+            <legend>Difficulté des questions</legend>
+            <div class="choix">
+              <label><input type="radio" name="niveau" value="0" checked> Toutes</label>
+              <label><input type="radio" name="niveau" value="1"> Faciles</label>
+              <label><input type="radio" name="niveau" value="2"> Faciles et moyennes</label>
+              <label><input type="radio" name="niveau" value="3"> Moyennes et difficiles</label>
+            </div>
+          </fieldset>
+          <p class="regle">Facile : 1 point · moyenne : 2 · difficile : 3.
+            À partir de 3 bonnes réponses d'affilée, chaque bonne réponse rapporte 1 point de plus.</p>
+          <button type="submit" class="btn">Commencer</button>
+        </form>
+        <div id="solo-records"></div>
+      </div>
+      <div id="solo-jeu" hidden></div>
     </section>
 
     <!-- PARTIE -->

@@ -1,5 +1,5 @@
 /* Service worker : tout le jeu est mis en cache pour fonctionner hors ligne. */
-const VERSION = 'trivial1000-v1';
+const VERSION = 'trivial1000-v2';
 const FICHIERS = [
   './',
   'index.html',

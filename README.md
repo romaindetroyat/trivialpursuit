@@ -16,6 +16,11 @@ dans une application web progressive (PWA) installable sur téléphone et utilis
 
 - **Piocher une carte** : pour jouer avec un vrai plateau. Le paquet est mélangé et aucune carte
   ne ressort avant d'avoir vu les 1000. Touchez une question pour voir sa réponse.
+- **Solo** : séries de 10, 20 ou 30 questions, ou mode survie (fin à la 3e erreur), sur toutes les
+  catégories ou une seule. Une bonne réponse rapporte 1, 2 ou 3 points selon la difficulté, plus 1 point
+  de bonus à partir de 3 bonnes réponses d'affilée. Le record de chaque réglage est conservé, et l'écran
+  de fin détaille le score par catégorie et rappelle les réponses manquées. Les questions déjà vues en
+  solo ne reviennent qu'une fois toutes les autres épuisées.
 - **Partie sans plateau** : 2 à 6 joueurs. Le dé tire une couleur, une bonne réponse rapporte le
   camembert de la couleur et permet de rejouer. Avec les 6 camemberts, les autres joueurs choisissent
   la catégorie de la question finale. Réglages : difficulté des questions, nombre de bonnes
