@@ -1,94 +1,542 @@
 [
-  {"q": "Quel animateur a présenté « Questions pour un champion » de 1988 à 2015 ?", "r": "Julien Lepers", "d": 1, "t": "Jeux télé"},
-  {"q": "Dans quel jeu télévisé un candidat annonce-t-il « Le compte est bon » ?", "r": "Des chiffres et des lettres", "d": 1, "t": "Jeux télé"},
-  {"q": "Quel ours en peluche descend d'un nuage pour souhaiter bonne nuit aux enfants dans « Bonne nuit les petits » ?", "r": "Nounours", "d": 1, "t": "Émissions jeunesse"},
-  {"q": "Quel personnage barbu pose des énigmes aux candidats du haut de la vigie de Fort Boyard ?", "r": "Le Père Fouras", "d": 1, "t": "Jeux télé"},
-  {"q": "Quelle émission de TF1, lancée en 2001, réunissait de jeunes candidats dans un château pour devenir chanteurs ?", "r": "Star Academy", "d": 1, "t": "Téléréalité"},
-  {"q": "Quelle émission de M6, diffusée en 2001 avec Loana parmi les candidats, est considérée comme la première téléréalité française ?", "r": "Loft Story", "d": 1, "t": "Téléréalité"},
-  {"q": "Dans quelle émission de Canal+ des marionnettes en latex parodiaient-elles l'actualité chaque soir ?", "r": "Les Guignols de l'info", "d": 1, "t": "Émissions"},
-  {"q": "Quel acteur a incarné le commissaire Navarro dans la série de TF1 ?", "r": "Roger Hanin", "d": 1, "t": "Séries françaises"},
-  {"q": "Quel feuilleton de France 3 se déroulait dans le quartier du Mistral, à Marseille ?", "r": "Plus belle la vie", "d": 1, "t": "Séries françaises"},
-  {"q": "Quelle actrice incarne Joséphine, l'ange gardien de la série de TF1 ?", "r": "Mimie Mathy", "d": 1, "t": "Séries françaises"},
-  {"q": "Quelle série courte des années 2000 mettait en scène Chouchou et Loulou, joués par Jean Dujardin et Alexandra Lamy ?", "r": "Un gars, une fille", "d": 1, "t": "Séries françaises"},
-  {"q": "Quelle série d'Alexandre Astier revisite avec humour la légende du roi Arthur ?", "r": "Kaamelott", "d": 1, "t": "Séries françaises"},
-  {"q": "Quel animateur présentait le jeu « Le Bigdil » sur TF1 ?", "r": "Vincent Lagaf'", "d": 1, "t": "Animateurs"},
-  {"q": "Dans quel jeu de France 2 présenté par Nagui les candidats doivent-ils chanter la suite exacte des paroles d'une chanson ?", "r": "N'oubliez pas les paroles !", "d": 1, "t": "Jeux télé"},
-  {"q": "Quel concours culinaire de M6, lancé en 2010, oppose des cuisiniers professionnels jugés par de grands chefs ?", "r": "Top Chef", "d": 1, "t": "Émissions"},
-  {"q": "Quel journaliste a présenté le journal de 13 heures de TF1 de 1988 à 2020 ?", "r": "Jean-Pierre Pernaut", "d": 1, "t": "Animateurs"},
-  {"q": "Quelle animatrice a donné son nom au programme jeunesse de TF1 diffusé de 1987 à 1997 ?", "r": "Dorothée", "d": 1, "t": "Émissions jeunesse"},
-  {"q": "Dans le jeu « Intervilles », quels animaux les candidats devaient-ils esquiver dans l'arène ?", "r": "Des vachettes", "d": 1, "t": "Jeux télé"},
-  {"q": "Quel animateur a présenté « Qui veut gagner des millions ? » sur TF1 à partir de 2000 ?", "r": "Jean-Pierre Foucault", "d": 1, "t": "Jeux télé"},
-  {"q": "Quelle émission du dimanche après-midi Michel Drucker a-t-il lancée sur France 2 en 1998 ?", "r": "Vivement dimanche", "d": 1, "t": "Émissions"},
-  {"q": "Quelle actrice a incarné la commissaire Julie Lescaut sur TF1 ?", "r": "Véronique Genest", "d": 1, "t": "Séries françaises"},
-  {"q": "Quel animateur a présenté « Le Petit Journal » sur Canal+ avant de lancer « Quotidien » sur TMC ?", "r": "Yann Barthès", "d": 1, "t": "Animateurs"},
-  {"q": "Quel acteur incarne Assane Diop, gentleman cambrioleur, dans la série Netflix « Lupin » ?", "r": "Omar Sy", "d": 1, "t": "Séries françaises"},
-  {"q": "Quelle émission de Jacques Martin faisait chanter des enfants devant leur idole ?", "r": "L'École des fans", "d": 1, "t": "Émissions"},
-  {"q": "Quel animateur a créé le magazine d'aventure et de nature « Ushuaïa » sur TF1 ?", "r": "Nicolas Hulot", "d": 1, "t": "Animateurs"},
-  {"q": "Dans quelle émission de vulgarisation scientifique Fred et Jamy sillonnaient-ils la France en camion ?", "r": "C'est pas sorcier", "d": 1, "t": "Émissions"},
-  {"q": "Quel jeu de France 2 présenté par Thierry Beccaro consistait à trouver des mots dont on connaissait la première lettre ?", "r": "Motus", "d": 1, "t": "Jeux télé"},
-  {"q": "Dans quel jeu d'aventure de TF1 éteint-on la torche des candidats éliminés lors du conseil ?", "r": "Koh-Lanta", "d": 1, "t": "Téléréalité"},
-  {"q": "Dans « The Voice », que font les coachs pour montrer qu'ils veulent un candidat lors des auditions à l'aveugle ?", "r": "Ils retournent leur fauteuil", "d": 1, "t": "Émissions"},
-  {"q": "Quel gros dinosaure orange était le héros de « L'Île aux enfants » ?", "r": "Casimir", "d": 1, "t": "Émissions jeunesse"},
-  {"q": "Quels oiseaux absurdes passaient leur temps à pomper dans une célèbre série animée de l'ORTF ?", "r": "Les Shadoks", "d": 1, "t": "Dessins animés"},
-  {"q": "Quel chat bleu est harcelé par trois cafards nommés Joey, Dee Dee et Marky ?", "r": "Oggy", "d": 1, "t": "Dessins animés"},
-  {"q": "Quelle héroïne parisienne masquée combat les méchants aux côtés de Chat Noir ?", "r": "Ladybug", "d": 1, "t": "Dessins animés"},
-  {"q": "Quelle émission de TF1 diffusait des vidéos amateurs de chutes et de maladresses ?", "r": "Vidéo Gag", "d": 1, "t": "Émissions"},
-  {"q": "Quel jeu télévisé parodique d'Alain Chabat oppose l'équipe Ketchup et l'équipe Mayo ?", "r": "Burger Quiz", "d": 1, "t": "Jeux télé"},
-  {"q": "Quels félins gardent la salle du trésor dans « Fort Boyard » ?", "r": "Des tigres", "d": 1, "t": "Jeux télé"},
-
-  {"q": "Quel animateur a présenté « Le Juste Prix » sur TF1 de 1988 à 2001 ?", "r": "Philippe Risoli", "d": 2, "t": "Animateurs"},
-  {"q": "Comment s'appelle le vieux sage à barbe blanche de la série « Il était une fois… » ?", "r": "Maestro", "d": 2, "t": "Dessins animés"},
-  {"q": "Quelle animatrice présentait « Le Maillon faible » sur TF1 dans les années 2000 ?", "r": "Laurence Boccolini", "d": 2, "t": "Animateurs"},
-  {"q": "Quel acteur incarne Jean-Claude Convenant dans la série « Caméra Café » ?", "r": "Yvan Le Bolloc'h", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel homme politique surnommé « le Tigre » a créé les brigades mobiles qui ont inspiré la série « Les Brigades du Tigre » ?", "r": "Georges Clemenceau", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel acteur incarnait Louis, le brocanteur enquêteur de « Louis la Brocante » ?", "r": "Victor Lanoux", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel acteur a incarné le commissaire Maigret à la télévision de 1991 à 2005 ?", "r": "Bruno Cremer", "d": 2, "t": "Séries françaises"},
-  {"q": "De quel romancier est adaptée la saga télévisée « Les Rois maudits » ?", "r": "Maurice Druon", "d": 2, "t": "Séries françaises"},
-  {"q": "Quelle émission s'achevait par « les décors sont de Roger Harth et les costumes de Donald Cardwell » ?", "r": "Au théâtre ce soir", "d": 2, "t": "Émissions"},
-  {"q": "Quel objet mystérieux, sujet d'un jeu de Guy Lux, a été rendu célèbre par un sketch de Coluche ?", "r": "Le Schmilblick", "d": 2, "t": "Jeux télé"},
-  {"q": "Quelle émission de Canal+ était coprésentée par Philippe Gildas et Antoine de Caunes à la fin des années 1980 ?", "r": "Nulle part ailleurs", "d": 2, "t": "Émissions"},
-  {"q": "Quel groupe comique de Canal+ réunissait Alain Chabat, Chantal Lauby, Dominique Farrugia et Bruno Carette ?", "r": "Les Nuls", "d": 2, "t": "Émissions"},
-  {"q": "Quel pays imaginaire, présidé par Christophe Salengro, est au cœur d'une émission satirique de Canal+ ?", "r": "Groland", "d": 2, "t": "Émissions"},
-  {"q": "Quelle série courte de M6 suit la vie de plusieurs couples, dont les vieux chamailleurs Raymond et Huguette ?", "r": "Scènes de ménages", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel acteur incarne Tom, le gérant du camping de la série de TF1 « Camping Paradis » ?", "r": "Laurent Ournac", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel service de renseignement français est au cœur de la série « Le Bureau des légendes » ?", "r": "La DGSE", "d": 2, "t": "Séries françaises"},
-  {"q": "Quelle série de France 2 suit les agents de stars de l'agence ASK ?", "r": "Dix pour cent", "d": 2, "t": "Séries françaises"},
-  {"q": "Dans quel type d'établissement se déroule la sitcom « H » avec Jamel Debbouze, Éric et Ramzy ?", "r": "Un hôpital", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel magazine de France 3, présenté par Georges Pernoud, était consacré à la mer ?", "r": "Thalassa", "d": 2, "t": "Émissions"},
-  {"q": "Quel journaliste animait l'émission littéraire « Apostrophes » ?", "r": "Bernard Pivot", "d": 2, "t": "Animateurs"},
-  {"q": "Quel jeu testait la complicité de couples, présenté par Tex puis par Bruno Guillon ?", "r": "Les Z'amours", "d": 2, "t": "Jeux télé"},
-  {"q": "Quelle course de M6 impose aux binômes de voyager avec un euro par jour et par personne ?", "r": "Pékin Express", "d": 2, "t": "Téléréalité"},
-  {"q": "Quelle émission musicale, présentée par Nagui, fait jouer les artistes en direct avec des musiciens ?", "r": "Taratata", "d": 2, "t": "Émissions"},
-  {"q": "Quel groupe féminin est issu de la première saison française de « Popstars » en 2001 ?", "r": "L5", "d": 2, "t": "Téléréalité"},
-  {"q": "Quel chanteur surnommé « la Tortue » a remporté la « Nouvelle Star » en 2006 ?", "r": "Christophe Willem", "d": 2, "t": "Téléréalité"},
-  {"q": "Quel jeune héros des « Mystérieuses Cités d'or » porte un médaillon en forme de soleil ?", "r": "Esteban", "d": 2, "t": "Dessins animés"},
-  {"q": "Comment s'appelle la nièce de l'inspecteur Gadget dans la version française ?", "r": "Sophie", "d": 2, "t": "Dessins animés"},
-  {"q": "Quel dessin animé franco-japonais transpose l'Odyssée d'Homère au XXXIe siècle ?", "r": "Ulysse 31", "d": 2, "t": "Dessins animés"},
-  {"q": "Quel dessin animé français met en scène des collégiens combattant le virus XANA dans un monde virtuel ?", "r": "Code Lyoko", "d": 2, "t": "Dessins animés"},
-  {"q": "Quels sont les prénoms des trois espionnes de « Totally Spies » ?", "r": "Sam, Clover et Alex", "d": 2, "t": "Dessins animés"},
-  {"q": "Quelle famille de personnages capables de changer de forme a été créée par Annette Tison et Talus Taylor ?", "r": "Les Barbapapa", "d": 2, "t": "Dessins animés"},
-  {"q": "Quel humoriste a créé et incarné le héros de la série « Bref » sur Canal+ ?", "r": "Kyan Khojandi", "d": 2, "t": "Séries françaises"},
-  {"q": "Dans quelle ville de l'Hérault se déroule le feuilleton « Demain nous appartient » ?", "r": "Sète", "d": 2, "t": "Séries françaises"},
-  {"q": "Quel animateur a présenté « Les Enfants de la télé » pendant de nombreuses années ?", "r": "Arthur", "d": 2, "t": "Animateurs"},
-  {"q": "Quel jeu télévisé européen opposait des villes de plusieurs pays dans des épreuves loufoques et costumées ?", "r": "Jeux sans frontières", "d": 2, "t": "Jeux télé"},
-  {"q": "Quel animateur a présenté « La Chance aux chansons » ?", "r": "Pascal Sevran", "d": 2, "t": "Animateurs"},
-
-  {"q": "Quel commissaire de la série « Les Cinq Dernières Minutes » s'exclamait « Bon sang, mais c'est bien sûr ! » ?", "r": "Le commissaire Bourrel", "d": 3, "t": "Séries françaises"},
-  {"q": "Quel jeu télévisé des années 1960 associait un candidat cérébral et un candidat sportif chargé de rattraper ses erreurs ?", "r": "La Tête et les Jambes", "d": 3, "t": "Jeux télé"},
-  {"q": "Quel producteur de télévision a créé le jeu « Des chiffres et des lettres » ?", "r": "Armand Jammot", "d": 3, "t": "Jeux télé"},
-  {"q": "Quel metteur en scène a créé avec Macha Makeïeff la famille des Deschiens, diffusée sur Canal+ ?", "r": "Jérôme Deschamps", "d": 3, "t": "Émissions"},
-  {"q": "Quelle série policière de Canal+ suit notamment la capitaine Laure Berthaud et le juge Roban ?", "r": "Engrenages", "d": 3, "t": "Séries françaises"},
-  {"q": "Quelle série de Canal+ de 2012 raconte le retour inexpliqué de morts dans une petite ville de montagne ?", "r": "Les Revenants", "d": 3, "t": "Séries françaises"},
-  {"q": "Quel journaliste présentait la grande émission de variétés « Le Grand Échiquier » ?", "r": "Jacques Chancel", "d": 3, "t": "Animateurs"},
-  {"q": "Quel acteur prêtait sa voix au narrateur des « Shadoks » ?", "r": "Claude Piéplu", "d": 3, "t": "Dessins animés"},
-  {"q": "Quelle émission des années 1980 était présentée par un chat, Groucha, et une autruche, Lola ?", "r": "Téléchat", "d": 3, "t": "Émissions jeunesse"},
-  {"q": "Quel réalisateur a créé la série éducative « Il était une fois… la Vie » ?", "r": "Albert Barillé", "d": 3, "t": "Dessins animés"},
-  {"q": "Quel acteur incarne Perceval, le chevalier naïf de « Kaamelott » ?", "r": "Franck Pitiot", "d": 3, "t": "Séries françaises"},
-  {"q": "Quelles deux familles aux valeurs opposées sont les héroïnes de « Fais pas ci, fais pas ça » ?", "r": "Les Lepic et les Bouley", "d": 3, "t": "Séries françaises"},
-  {"q": "Quelle actrice incarnait l'héroïne de la sitcom « Maguy » sur Antenne 2 ?", "r": "Rosy Varte", "d": 3, "t": "Séries françaises"},
-  {"q": "Quel acteur jouait le commissaire Cordier dans « Les Cordier, juge et flic » ?", "r": "Pierre Mondy", "d": 3, "t": "Séries françaises"},
-  {"q": "Quel acteur incarnait Arsène Lupin dans la série télévisée française des années 1970 ?", "r": "Georges Descrières", "d": 3, "t": "Séries françaises"},
-  {"q": "Quel animateur québécois présentait « Surprise sur prise » ?", "r": "Marcel Béliveau", "d": 3, "t": "Animateurs"},
-  {"q": "Comment s'appelle le chien du « Manège enchanté » ?", "r": "Pollux", "d": 3, "t": "Émissions jeunesse"},
-  {"q": "Quel acteur incarnait le commissaire Moulin dans la série du même nom ?", "r": "Yves Rénier", "d": 3, "t": "Séries françaises"}
+ {
+  "q": "Quel animateur a présenté « Questions pour un champion » de 1988 à 2015 ?",
+  "r": "Julien Lepers",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Dans quel jeu télévisé un candidat annonce-t-il « Le compte est bon » ?",
+  "r": "Des chiffres et des lettres",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel ours en peluche descend d'un nuage pour souhaiter bonne nuit aux enfants dans « Bonne nuit les petits » ?",
+  "r": "Nounours",
+  "d": 1,
+  "t": "Émissions jeunesse"
+ },
+ {
+  "q": "Quel personnage barbu pose des énigmes aux candidats du haut de la vigie de Fort Boyard ?",
+  "r": "Le Père Fouras",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quelle émission de TF1, lancée en 2001, réunissait de jeunes candidats dans un château pour devenir chanteurs ?",
+  "r": "Star Academy",
+  "d": 1,
+  "t": "Téléréalité"
+ },
+ {
+  "q": "Quelle émission de M6, diffusée en 2001 avec Loana parmi les candidats, est considérée comme la première téléréalité française ?",
+  "r": "Loft Story",
+  "d": 1,
+  "t": "Téléréalité"
+ },
+ {
+  "q": "Dans quelle émission de Canal+ des marionnettes en latex parodiaient-elles l'actualité chaque soir ?",
+  "r": "Les Guignols de l'info",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel acteur a incarné le commissaire Navarro dans la série de TF1 ?",
+  "r": "Roger Hanin",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel feuilleton de France 3 se déroulait dans le quartier du Mistral, à Marseille ?",
+  "r": "Plus belle la vie",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle actrice incarne Joséphine, l'ange gardien de la série de TF1 ?",
+  "r": "Mimie Mathy",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle série courte de France 2 mettait en scène Chouchou et Loulou, joués par Jean Dujardin et Alexandra Lamy ?",
+  "r": "Un gars, une fille",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle série d'Alexandre Astier revisite avec humour la légende du roi Arthur ?",
+  "r": "Kaamelott",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel animateur présentait le jeu « Le Bigdil » sur TF1 ?",
+  "r": "Vincent Lagaf'",
+  "d": 1,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Dans quel jeu de France 2 présenté par Nagui les candidats doivent-ils chanter la suite exacte des paroles d'une chanson ?",
+  "r": "N'oubliez pas les paroles !",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel concours culinaire de M6, lancé en 2010, oppose des cuisiniers professionnels jugés par de grands chefs ?",
+  "r": "Top Chef",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel journaliste a présenté le journal de 13 heures de TF1 de 1988 à 2020 ?",
+  "r": "Jean-Pierre Pernaut",
+  "d": 1,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quelle animatrice a donné son nom au programme jeunesse de TF1 diffusé de 1987 à 1997 ?",
+  "r": "Dorothée",
+  "d": 1,
+  "t": "Émissions jeunesse"
+ },
+ {
+  "q": "Dans le jeu « Intervilles », quels animaux les candidats devaient-ils esquiver dans l'arène ?",
+  "r": "Des vachettes",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel animateur a présenté « Qui veut gagner des millions ? » sur TF1 à partir de 2000 ?",
+  "r": "Jean-Pierre Foucault",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quelle émission du dimanche après-midi Michel Drucker a-t-il lancée sur France 2 en 1998 ?",
+  "r": "Vivement dimanche",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quelle actrice a incarné la commissaire Julie Lescaut sur TF1 ?",
+  "r": "Véronique Genest",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel animateur a présenté « Le Petit Journal » sur Canal+ avant de lancer « Quotidien » sur TMC ?",
+  "r": "Yann Barthès",
+  "d": 1,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quel acteur incarne Assane Diop, gentleman cambrioleur, dans la série Netflix « Lupin » ?",
+  "r": "Omar Sy",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle émission de Jacques Martin faisait chanter des enfants devant leur idole ?",
+  "r": "L'École des fans",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel animateur a créé le magazine d'aventure et de nature « Ushuaïa » sur TF1 ?",
+  "r": "Nicolas Hulot",
+  "d": 1,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Dans quelle émission de vulgarisation scientifique Fred et Jamy sillonnaient-ils la France en camion ?",
+  "r": "C'est pas sorcier",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel jeu de France 2 présenté par Thierry Beccaro consistait à trouver des mots dont on connaissait la première lettre ?",
+  "r": "Motus",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Dans quel jeu d'aventure de TF1 éteint-on la torche des candidats éliminés lors du conseil ?",
+  "r": "Koh-Lanta",
+  "d": 1,
+  "t": "Téléréalité"
+ },
+ {
+  "q": "Dans « The Voice », que font les coachs pour montrer qu'ils veulent un candidat lors des auditions à l'aveugle ?",
+  "r": "Ils retournent leur fauteuil",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel gros dinosaure orange était le héros de « L'Île aux enfants » ?",
+  "r": "Casimir",
+  "d": 1,
+  "t": "Émissions jeunesse"
+ },
+ {
+  "q": "Quels oiseaux absurdes passaient leur temps à pomper dans une célèbre série animée de l'ORTF ?",
+  "r": "Les Shadoks",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quel chat bleu est harcelé par trois cafards nommés Joey, Dee Dee et Marky ?",
+  "r": "Oggy",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quelle héroïne parisienne masquée combat les méchants aux côtés de Chat Noir ?",
+  "r": "Ladybug",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quelle émission de TF1 diffusait des vidéos amateurs de chutes et de maladresses ?",
+  "r": "Vidéo Gag",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel jeu télévisé parodique d'Alain Chabat oppose l'équipe Ketchup et l'équipe Mayo ?",
+  "r": "Burger Quiz",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quels félins gardent la salle du trésor dans « Fort Boyard » ?",
+  "r": "Des tigres",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel animateur a présenté « Le Juste Prix » sur TF1 de 1988 à 2001 ?",
+  "r": "Philippe Risoli",
+  "d": 2,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Comment s'appelle le vieux sage à barbe blanche de la série « Il était une fois… » ?",
+  "r": "Maestro",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quelle animatrice présentait « Le Maillon faible » sur TF1 dans les années 2000 ?",
+  "r": "Laurence Boccolini",
+  "d": 2,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quel acteur incarne Jean-Claude Convenant dans la série « Caméra Café » ?",
+  "r": "Yvan Le Bolloc'h",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel homme politique surnommé « le Tigre » a créé les brigades mobiles qui ont inspiré la série « Les Brigades du Tigre » ?",
+  "r": "Georges Clemenceau",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel acteur incarnait Louis, le brocanteur enquêteur de « Louis la Brocante » ?",
+  "r": "Victor Lanoux",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel acteur a incarné le commissaire Maigret à la télévision de 1991 à 2005 ?",
+  "r": "Bruno Cremer",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "De quel romancier est adaptée la saga télévisée « Les Rois maudits » ?",
+  "r": "Maurice Druon",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle émission s'achevait par « les décors sont de Roger Harth et les costumes de Donald Cardwell » ?",
+  "r": "Au théâtre ce soir",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel objet mystérieux, sujet d'un jeu de Guy Lux, a été rendu célèbre par un sketch de Coluche ?",
+  "r": "Le Schmilblick",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quelle émission de Canal+ était coprésentée par Philippe Gildas et Antoine de Caunes à la fin des années 1980 ?",
+  "r": "Nulle part ailleurs",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel groupe comique de Canal+ réunissait Alain Chabat, Chantal Lauby, Dominique Farrugia et Bruno Carette ?",
+  "r": "Les Nuls",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel pays imaginaire, longtemps présidé par Christophe Salengro, est au cœur d'une émission satirique de Canal+ ?",
+  "r": "Groland",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quelle série courte de M6 suit la vie de plusieurs couples, dont les vieux chamailleurs Raymond et Huguette ?",
+  "r": "Scènes de ménages",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel acteur incarne Tom, le gérant du camping de la série de TF1 « Camping Paradis » ?",
+  "r": "Laurent Ournac",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel service de renseignement français est au cœur de la série « Le Bureau des légendes » ?",
+  "r": "La DGSE",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle série de France 2 suit les agents de stars de l'agence ASK ?",
+  "r": "Dix pour cent",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Dans quel type d'établissement se déroule la sitcom « H » avec Jamel Debbouze, Éric et Ramzy ?",
+  "r": "Un hôpital",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel magazine de France 3, présenté par Georges Pernoud, était consacré à la mer ?",
+  "r": "Thalassa",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel journaliste animait l'émission littéraire « Apostrophes » ?",
+  "r": "Bernard Pivot",
+  "d": 2,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quel jeu testait la complicité de couples, présenté par Tex puis par Bruno Guillon ?",
+  "r": "Les Z'amours",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quelle course de M6 impose aux binômes de voyager avec un euro par jour et par personne ?",
+  "r": "Pékin Express",
+  "d": 2,
+  "t": "Téléréalité"
+ },
+ {
+  "q": "Quelle émission musicale, présentée par Nagui, fait jouer les artistes en direct avec des musiciens ?",
+  "r": "Taratata",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quel groupe féminin est issu de la première saison française de « Popstars » en 2001 ?",
+  "r": "L5",
+  "d": 2,
+  "t": "Téléréalité"
+ },
+ {
+  "q": "Quel chanteur surnommé « la Tortue » a remporté la « Nouvelle Star » en 2006 ?",
+  "r": "Christophe Willem",
+  "d": 2,
+  "t": "Téléréalité"
+ },
+ {
+  "q": "Quel jeune héros des « Mystérieuses Cités d'or » porte un médaillon en forme de soleil ?",
+  "r": "Esteban",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Comment s'appelle la nièce de l'inspecteur Gadget dans la version française ?",
+  "r": "Sophie",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quel dessin animé franco-japonais transpose l'Odyssée d'Homère au XXXIe siècle ?",
+  "r": "Ulysse 31",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quel dessin animé français met en scène des collégiens combattant le virus XANA dans un monde virtuel ?",
+  "r": "Code Lyoko",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quels sont les prénoms des trois espionnes de « Totally Spies » ?",
+  "r": "Sam, Clover et Alex",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quelle famille de personnages capables de changer de forme a été créée par Annette Tison et Talus Taylor ?",
+  "r": "Les Barbapapa",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quel humoriste a cocréé et incarné le héros de la série « Bref » sur Canal+ ?",
+  "r": "Kyan Khojandi",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Dans quelle ville de l'Hérault se déroule le feuilleton « Demain nous appartient » ?",
+  "r": "Sète",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel animateur a présenté « Les Enfants de la télé » pendant de nombreuses années ?",
+  "r": "Arthur",
+  "d": 2,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quel jeu télévisé européen opposait des villes de plusieurs pays dans des épreuves loufoques et costumées ?",
+  "r": "Jeux sans frontières",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel animateur a présenté « La Chance aux chansons » ?",
+  "r": "Pascal Sevran",
+  "d": 2,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quel commissaire de la série « Les Cinq Dernières Minutes » s'exclamait « Bon sang, mais c'est bien sûr ! » ?",
+  "r": "Le commissaire Bourrel",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel jeu télévisé des années 1960 associait un candidat cérébral et un candidat sportif chargé de rattraper ses erreurs ?",
+  "r": "La Tête et les Jambes",
+  "d": 3,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel producteur de télévision a créé le jeu « Des chiffres et des lettres » ?",
+  "r": "Armand Jammot",
+  "d": 3,
+  "t": "Jeux télé"
+ },
+ {
+  "q": "Quel metteur en scène a créé avec Macha Makeïeff la famille des Deschiens, diffusée sur Canal+ ?",
+  "r": "Jérôme Deschamps",
+  "d": 3,
+  "t": "Émissions"
+ },
+ {
+  "q": "Quelle série policière de Canal+ suit notamment la capitaine Laure Berthaud et le juge Roban ?",
+  "r": "Engrenages",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle série de Canal+ de 2012 raconte le retour inexpliqué de morts dans une petite ville de montagne ?",
+  "r": "Les Revenants",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel journaliste présentait la grande émission de variétés « Le Grand Échiquier » ?",
+  "r": "Jacques Chancel",
+  "d": 3,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Quel acteur prêtait sa voix au narrateur des « Shadoks » ?",
+  "r": "Claude Piéplu",
+  "d": 3,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quelle émission des années 1980 était présentée par un chat, Groucha, et une autruche, Lola ?",
+  "r": "Téléchat",
+  "d": 3,
+  "t": "Émissions jeunesse"
+ },
+ {
+  "q": "Quel réalisateur a créé la série éducative « Il était une fois… la Vie » ?",
+  "r": "Albert Barillé",
+  "d": 3,
+  "t": "Dessins animés"
+ },
+ {
+  "q": "Quel acteur incarne Perceval, le chevalier naïf de « Kaamelott » ?",
+  "r": "Franck Pitiot",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelles deux familles aux valeurs opposées sont les héroïnes de « Fais pas ci, fais pas ça » ?",
+  "r": "Les Lepic et les Bouley",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quelle actrice incarnait l'héroïne de la sitcom « Maguy » sur Antenne 2 ?",
+  "r": "Rosy Varte",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel acteur jouait le commissaire Cordier dans « Les Cordier, juge et flic » ?",
+  "r": "Pierre Mondy",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel acteur incarnait Arsène Lupin dans la série télévisée française des années 1970 ?",
+  "r": "Georges Descrières",
+  "d": 3,
+  "t": "Séries françaises"
+ },
+ {
+  "q": "Quel animateur québécois présentait « Surprise sur prise » ?",
+  "r": "Marcel Béliveau",
+  "d": 3,
+  "t": "Animateurs"
+ },
+ {
+  "q": "Comment s'appelle le chien du « Manège enchanté » ?",
+  "r": "Pollux",
+  "d": 3,
+  "t": "Émissions jeunesse"
+ },
+ {
+  "q": "Quel acteur incarnait le commissaire Moulin dans la série du même nom ?",
+  "r": "Yves Rénier",
+  "d": 3,
+  "t": "Séries françaises"
+ }
 ]

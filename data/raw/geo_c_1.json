@@ -90,7 +90,7 @@
   "t": "Asie"
  },
  {
-  "q": "Quelle ville est la capitale officielle (administrative et législative) du Sri Lanka ?",
+  "q": "Quelle ville, siège du Parlement, est la capitale officielle du Sri Lanka ?",
   "r": "Sri Jayawardenepura Kotte",
   "d": 3,
   "t": "Asie"
@@ -486,7 +486,7 @@
   "t": "Amériques"
  },
  {
-  "q": "Quel parc créé en 1872 dans le Wyoming est considéré comme le premier parc national du monde ?",
+  "q": "Quel parc créé en 1872, situé principalement dans le Wyoming, est considéré comme le premier parc national du monde ?",
   "r": "Yellowstone",
   "d": 2,
   "t": "Amériques"
@@ -498,7 +498,7 @@
   "t": "Amériques"
  },
  {
-  "q": "Quel État américain les États-Unis ont-ils acheté à la Russie en 1867 ?",
+  "q": "Quel territoire, aujourd'hui État américain, les États-Unis ont-ils acheté à la Russie en 1867 ?",
   "r": "L'Alaska",
   "d": 1,
   "t": "Amériques"

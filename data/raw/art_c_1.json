@@ -78,7 +78,7 @@
   "t": "Pop art"
  },
  {
-  "q": "Quel peintre de petite taille, habitué de Montmartre, a signé de nombreuses affiches pour le Moulin-Rouge ?",
+  "q": "Quel peintre de petite taille, habitué de Montmartre, a signé de célèbres affiches de cabaret, dont celle du Moulin-Rouge ?",
   "r": "Henri de Toulouse-Lautrec",
   "d": 1,
   "t": "Peintres"
@@ -294,7 +294,7 @@
   "t": "École de Paris"
  },
  {
-  "q": "Quel peintre né à Vitebsk a réalisé en 1964 le nouveau plafond de l'Opéra Garnier ?",
+  "q": "Quel peintre originaire de Vitebsk a réalisé en 1964 le nouveau plafond de l'Opéra Garnier ?",
   "r": "Marc Chagall",
   "d": 2,
   "t": "École de Paris"

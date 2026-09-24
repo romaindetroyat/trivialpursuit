@@ -114,8 +114,8 @@
   "t": "Océanie"
  },
  {
-  "q": "Quel atoll de Polynésie française a servi de site d'essais nucléaires à la France ?",
-  "r": "Mururoa",
+  "q": "Quel atoll de Polynésie française fut le principal site des essais nucléaires français ?",
+  "r": "Mururoa (Moruroa)",
   "d": 2,
   "t": "Océanie"
  },
@@ -223,7 +223,7 @@
  },
  {
   "q": "Quel massif est le point culminant de l'Antarctique ?",
-  "r": "Le mont Vinson",
+  "r": "Le massif Vinson (mont Vinson)",
   "d": 3,
   "t": "Pôles"
  },
@@ -276,7 +276,7 @@
   "t": "Pôles"
  },
  {
-  "q": "Quel peuple autochtone de l'Arctique était autrefois appelé « Esquimaux » ?",
+  "q": "Quel peuple autochtone de l'Arctique canadien et du Groenland était autrefois appelé « Esquimaux » ?",
   "r": "Les Inuits",
   "d": 1,
   "t": "Pôles"
@@ -402,7 +402,7 @@
   "t": "Océans et mers"
  },
  {
-  "q": "Quelle zone de l'Atlantique, entre Miami, les Bermudes et Porto Rico, est associée à des disparitions mystérieuses ?",
+  "q": "Quelle zone de l'Atlantique, au large de la Floride, est associée à de mystérieuses disparitions de navires et d'avions ?",
   "r": "Le triangle des Bermudes",
   "d": 1,
   "t": "Océans et mers"

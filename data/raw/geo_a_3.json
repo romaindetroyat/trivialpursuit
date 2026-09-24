@@ -1,94 +1,542 @@
 [
-  {"q": "Pour l'Exposition universelle de quelle année la tour Eiffel a-t-elle été construite ?", "r": "1889", "d": 1, "t": "Monuments"},
-  {"q": "Quel aqueduc romain à trois niveaux d'arches enjambe le Gardon, près de Remoulins ?", "r": "Le pont du Gard", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle cité médiévale de l'Aude, à la double enceinte fortifiée, fut restaurée par Viollet-le-Duc ?", "r": "Carcassonne", "d": 1, "t": "Monuments"},
-  {"q": "Quel château de la Loire enjambe le Cher grâce à sa galerie sur arches ?", "r": "Chenonceau", "d": 1, "t": "Châteaux"},
-  {"q": "Quel est le plus grand des châteaux de la Loire, célèbre pour son escalier à double révolution ?", "r": "Chambord", "d": 1, "t": "Châteaux"},
-  {"q": "Dans quelle salle du château de Versailles fut signé le traité de paix de 1919 ?", "r": "La galerie des Glaces", "d": 1, "t": "Châteaux"},
-  {"q": "Sous quel monument parisien repose depuis 1921 le Soldat inconnu ?", "r": "L'Arc de triomphe", "d": 1, "t": "Monuments"},
-  {"q": "Dans quel monument parisien se trouve le tombeau de Napoléon Ier ?", "r": "Les Invalides", "d": 1, "t": "Monuments"},
-  {"q": "Quelle basilique blanche domine la butte Montmartre ?", "r": "Le Sacré-Cœur", "d": 1, "t": "Monuments"},
-  {"q": "Quel ouvrage de l'Aveyron, conçu par l'architecte Norman Foster et inauguré en 2004, franchit la vallée du Tarn ?", "r": "Le viaduc de Millau", "d": 1, "t": "Monuments"},
-  {"q": "Quelle cathédrale a été ravagée par un incendie le 15 avril 2019 ?", "r": "Notre-Dame de Paris", "d": 1, "t": "Monuments"},
-  {"q": "Quelle commune du Morbihan est mondialement connue pour ses alignements de menhirs ?", "r": "Carnac", "d": 1, "t": "Monuments"},
-  {"q": "Quel îlot rocheux coiffé d'une abbaye se dresse dans une baie aux confins de la Normandie et de la Bretagne ?", "r": "Le Mont-Saint-Michel", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle cathédrale gothique d'Eure-et-Loir est célèbre pour ses vitraux au bleu inimitable ?", "r": "Chartres", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle ville des Bouches-du-Rhône, dotée d'arènes romaines, fut peinte à de nombreuses reprises par Van Gogh ?", "r": "Arles", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quel ingénieur militaire de Louis XIV a vu douze de ses sites fortifiés inscrits à l'UNESCO en 2008 ?", "r": "Vauban", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle ville de Lorraine a vu ses places Stanislas, de la Carrière et d'Alliance inscrites à l'UNESCO ?", "r": "Nancy", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quel canal, inscrit à l'UNESCO en 1996, relie Toulouse à l'étang de Thau ?", "r": "Le canal du Midi", "d": 1, "t": "Patrimoine UNESCO"},
-  {"q": "Quel monument parisien de la montagne Sainte-Geneviève accueille les « grands hommes » de la nation ?", "r": "Le Panthéon", "d": 1, "t": "Monuments"},
-  {"q": "Sur quelle place parisienne se dresse l'obélisque de Louxor ?", "r": "La place de la Concorde", "d": 1, "t": "Monuments"},
-  {"q": "Quel palais de la rue du Faubourg-Saint-Honoré est la résidence officielle du président de la République ?", "r": "Le palais de l'Élysée", "d": 1, "t": "Monuments"},
-  {"q": "Dans quel quartier d'affaires de l'ouest parisien se dresse la Grande Arche ?", "r": "La Défense", "d": 1, "t": "Monuments"},
-  {"q": "Quel musée parisien, inauguré en 1977, est surnommé « Beaubourg » ?", "r": "Le Centre Pompidou", "d": 1, "t": "Monuments"},
-  {"q": "Quelle basilique marseillaise est surnommée « la Bonne Mère » ?", "r": "Notre-Dame-de-la-Garde", "d": 1, "t": "Monuments"},
-  {"q": "Quelle ville est le chef-lieu de la Martinique ?", "r": "Fort-de-France", "d": 1, "t": "Outre-mer"},
-  {"q": "Quelle ville est le chef-lieu de La Réunion ?", "r": "Saint-Denis", "d": 1, "t": "Outre-mer"},
-  {"q": "Quelle ville est le chef-lieu de la Guyane ?", "r": "Cayenne", "d": 1, "t": "Outre-mer"},
-  {"q": "Quelle ville est la capitale de la Nouvelle-Calédonie ?", "r": "Nouméa", "d": 1, "t": "Outre-mer"},
-  {"q": "Quelle ville, située sur l'île de Tahiti, est la capitale de la Polynésie française ?", "r": "Papeete", "d": 1, "t": "Outre-mer"},
-  {"q": "Quel volcan de La Réunion compte parmi les plus actifs de la planète ?", "r": "Le piton de la Fournaise", "d": 1, "t": "Outre-mer"},
-  {"q": "Quel volcan de Martinique a détruit la ville de Saint-Pierre en 1902 ?", "r": "La montagne Pelée", "d": 1, "t": "Outre-mer"},
-  {"q": "Dans quelle ville de Guyane se trouve le Centre spatial d'où décollent les fusées Ariane ?", "r": "Kourou", "d": 1, "t": "Outre-mer"},
-  {"q": "Quelle île des Antilles est partagée entre la France et le royaume des Pays-Bas ?", "r": "Saint-Martin", "d": 1, "t": "Outre-mer"},
-  {"q": "Quel archipel français se trouve au large de Terre-Neuve, au Canada ?", "r": "Saint-Pierre-et-Miquelon", "d": 1, "t": "Outre-mer"},
-  {"q": "Quelle île de Polynésie française est célèbre pour son lagon et le mont Otemanu ?", "r": "Bora-Bora", "d": 1, "t": "Outre-mer"},
-  {"q": "Quel est le plus vaste département français ?", "r": "La Guyane", "d": 1, "t": "Outre-mer"},
-
-  {"q": "Quel architecte a conçu la pyramide de verre du Louvre ?", "r": "Ieoh Ming Pei", "d": 2, "t": "Monuments"},
-  {"q": "Dans quel manoir d'Amboise Léonard de Vinci a-t-il passé ses dernières années ?", "r": "Le Clos Lucé", "d": 2, "t": "Châteaux"},
-  {"q": "Quelle ville du Vaucluse possède un théâtre antique au mur de scène remarquablement conservé ?", "r": "Orange", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quel est le vrai nom du pont d'Avignon de la chanson ?", "r": "Le pont Saint-Bénézet", "d": 2, "t": "Monuments"},
-  {"q": "Quel célèbre ingénieur a construit le viaduc ferroviaire de Garabit, dans le Cantal ?", "r": "Gustave Eiffel", "d": 2, "t": "Monuments"},
-  {"q": "Quel architecte a conçu la chapelle Notre-Dame-du-Haut à Ronchamp, en Haute-Saône ?", "r": "Le Corbusier", "d": 2, "t": "Monuments"},
-  {"q": "Dans quelle ville se trouve la Cité radieuse, célèbre immeuble de Le Corbusier ?", "r": "Marseille", "d": 2, "t": "Monuments"},
-  {"q": "Dans la cour de quel château Napoléon fit-il ses adieux à la Garde impériale en 1814 ?", "r": "Fontainebleau", "d": 2, "t": "Châteaux"},
-  {"q": "Quel château de Seine-et-Marne, bâti pour le surintendant Fouquet, inspira Versailles à Louis XIV ?", "r": "Vaux-le-Vicomte", "d": 2, "t": "Châteaux"},
-  {"q": "Quelle ville normande, reconstruite par Auguste Perret après la Seconde Guerre mondiale, est inscrite à l'UNESCO depuis 2005 ?", "r": "Le Havre", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Dans quelle ville de Côte-d'Or se trouvent les Hospices fondés en 1443, aux célèbres toits vernissés ?", "r": "Beaune", "d": 2, "t": "Monuments"},
-  {"q": "Quelle cité viticole de Gironde a vu sa juridiction inscrite au patrimoine mondial de l'UNESCO en 1999 ?", "r": "Saint-Émilion", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle ville du Tarn a vu sa cité épiscopale et sa cathédrale en brique inscrites à l'UNESCO en 2010 ?", "r": "Albi", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quel est le plus ancien pont de Paris encore debout ?", "r": "Le Pont-Neuf", "d": 2, "t": "Monuments"},
-  {"q": "Quelle vallée de Dordogne, riche en grottes ornées comme Lascaux, est inscrite à l'UNESCO depuis 1979 ?", "r": "La vallée de la Vézère", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quel château alsacien, restauré au début du XXe siècle sous l'empereur Guillaume II, domine la plaine d'Alsace ?", "r": "Le Haut-Kœnigsbourg", "d": 2, "t": "Châteaux"},
-  {"q": "Quelle colline bourguignonne porte la basilique Sainte-Marie-Madeleine, point de départ d'un chemin de Compostelle ?", "r": "Vézelay", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Les lagons de quel territoire français du Pacifique ont été inscrits à l'UNESCO en 2008 ?", "r": "La Nouvelle-Calédonie", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle ville de Seine-et-Marne, ancienne cité de foires médiévales, est inscrite à l'UNESCO ?", "r": "Provins", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quel paysage industriel du nord de la France, avec ses terrils et ses corons, est inscrit à l'UNESCO depuis 2012 ?", "r": "Le bassin minier du Nord-Pas-de-Calais", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle île française a vu ses « pitons, cirques et remparts » inscrits à l'UNESCO en 2010 ?", "r": "La Réunion", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle ville surnommée « le port de la Lune » est inscrite à l'UNESCO depuis 2007 ?", "r": "Bordeaux", "d": 2, "t": "Patrimoine UNESCO"},
-  {"q": "Dans quel département se trouve Giverny, où Claude Monet peignit ses nymphéas ?", "r": "L'Eure", "d": 2, "t": "Monuments"},
-  {"q": "Quel château Renaissance de Touraine est bâti sur une île de l'Indre ?", "r": "Azay-le-Rideau", "d": 2, "t": "Châteaux"},
-  {"q": "Quel château de la Loire est célèbre pour ses jardins, dont un potager décoratif Renaissance ?", "r": "Villandry", "d": 2, "t": "Châteaux"},
-  {"q": "Quelle ville est la préfecture de la Guadeloupe ?", "r": "Basse-Terre", "d": 2, "t": "Outre-mer"},
-  {"q": "Quel est le point culminant de La Réunion ?", "r": "Le piton des Neiges", "d": 2, "t": "Outre-mer"},
-  {"q": "Quel volcan actif est le point culminant de la Guadeloupe ?", "r": "La Soufrière", "d": 2, "t": "Outre-mer"},
-  {"q": "Quel département d'outre-mer porte le numéro 972 ?", "r": "La Martinique", "d": 2, "t": "Outre-mer"},
-  {"q": "Quel fleuve marque la frontière entre la Guyane et le Suriname ?", "r": "Le Maroni", "d": 2, "t": "Outre-mer"},
-  {"q": "Quel archipel guyanais, qui comprend l'île du Diable, abritait un bagne ?", "r": "Les îles du Salut", "d": 2, "t": "Outre-mer"},
-  {"q": "Quel cirque de La Réunion n'est accessible qu'à pied ou en hélicoptère ?", "r": "Mafate", "d": 2, "t": "Outre-mer"},
-  {"q": "Dans quel archipel de l'océan Indien se trouve le département de Mayotte ?", "r": "Les Comores", "d": 2, "t": "Outre-mer"},
-  {"q": "Quelle collectivité des Antilles françaises a pour chef-lieu Gustavia ?", "r": "Saint-Barthélemy", "d": 2, "t": "Outre-mer"},
-  {"q": "Comment se nomme le peuple autochtone mélanésien de Nouvelle-Calédonie ?", "r": "Les Kanak", "d": 2, "t": "Outre-mer"},
-  {"q": "Dans quel archipel de Polynésie se trouve Hiva Oa, où reposent Paul Gauguin et Jacques Brel ?", "r": "Les Marquises", "d": 2, "t": "Outre-mer"},
-
-  {"q": "Quelle abbaye cistercienne de Côte-d'Or, fondée au XIIe siècle par saint Bernard, est inscrite à l'UNESCO ?", "r": "Fontenay", "d": 3, "t": "Patrimoine UNESCO"},
-  {"q": "Dans quelle commune du Doubs se trouve la saline royale conçue par Claude-Nicolas Ledoux ?", "r": "Arc-et-Senans", "d": 3, "t": "Patrimoine UNESCO"},
-  {"q": "Quel village des Alpes-de-Haute-Provence est célèbre pour son étoile suspendue par une chaîne entre deux falaises ?", "r": "Moustiers-Sainte-Marie", "d": 3, "t": "Monuments"},
-  {"q": "Quel nom porte le patrimoine viticole bourguignon, parcelles de la côte de Nuits et de Beaune, inscrit à l'UNESCO en 2015 ?", "r": "Les climats de Bourgogne", "d": 3, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle chapelle de Vence a été entièrement conçue et décorée par Henri Matisse ?", "r": "La chapelle du Rosaire", "d": 3, "t": "Monuments"},
-  {"q": "Quelle place forte des marais de Charente-Maritime est la ville natale de Samuel de Champlain ?", "r": "Brouage", "d": 3, "t": "Monuments"},
-  {"q": "Quel ingénieur de Béziers a conçu le canal du Midi sous Louis XIV ?", "r": "Pierre-Paul Riquet", "d": 3, "t": "Patrimoine UNESCO"},
-  {"q": "Quel phare de l'estuaire de la Gironde, surnommé « le Versailles de la mer », est inscrit à l'UNESCO depuis 2021 ?", "r": "Le phare de Cordouan", "d": 3, "t": "Patrimoine UNESCO"},
-  {"q": "Quel château cathare de l'Ariège, pris en 1244, vit périr sur le bûcher de nombreux cathares ?", "r": "Montségur", "d": 3, "t": "Châteaux"},
-  {"q": "Quel golfe corse, avec les calanques de Piana et la réserve de Scandola, est inscrit à l'UNESCO ?", "r": "Le golfe de Porto", "d": 3, "t": "Patrimoine UNESCO"},
-  {"q": "Quelle ville est le chef-lieu du département de Mayotte ?", "r": "Mamoudzou", "d": 3, "t": "Outre-mer"},
-  {"q": "Quel fleuve marque la frontière entre la Guyane et le Brésil ?", "r": "L'Oyapock", "d": 3, "t": "Outre-mer"},
-  {"q": "Quel atoll français isolé du Pacifique nord-est porte le nom d'un pirate anglais ?", "r": "Clipperton", "d": 3, "t": "Outre-mer"},
-  {"q": "Quelle île de l'archipel guadeloupéen est surnommée « l'île aux cent moulins » ?", "r": "Marie-Galante", "d": 3, "t": "Outre-mer"},
-  {"q": "Quel îlot au large de la Martinique fut enregistré par les Britanniques comme un navire de guerre en 1804 ?", "r": "Le rocher du Diamant", "d": 3, "t": "Outre-mer"},
-  {"q": "Quel cirque de La Réunion a donné son nom à une eau minérale et à des lentilles réputées ?", "r": "Cilaos", "d": 3, "t": "Outre-mer"},
-  {"q": "Quel étroit bras de mer sépare Basse-Terre et Grande-Terre, en Guadeloupe ?", "r": "La rivière Salée", "d": 3, "t": "Outre-mer"},
-  {"q": "Quel archipel des Terres australes françaises fut surnommé « les îles de la Désolation » ?", "r": "Les Kerguelen", "d": 3, "t": "Outre-mer"}
+ {
+  "q": "Pour l'Exposition universelle de quelle année la tour Eiffel a-t-elle été construite ?",
+  "r": "1889",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel aqueduc romain à trois niveaux d'arches enjambe le Gardon, près de Remoulins ?",
+  "r": "Le pont du Gard",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle cité médiévale de l'Aude, à la double enceinte fortifiée, fut restaurée par Viollet-le-Duc ?",
+  "r": "Carcassonne",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel château de la Loire enjambe le Cher grâce à sa galerie sur arches ?",
+  "r": "Chenonceau",
+  "d": 1,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quel est le plus grand des châteaux de la Loire, célèbre pour son escalier à double révolution ?",
+  "r": "Chambord",
+  "d": 1,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Dans quelle salle du château de Versailles fut signé le traité de paix de 1919 ?",
+  "r": "La galerie des Glaces",
+  "d": 1,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Sous quel monument parisien repose depuis 1921 le Soldat inconnu ?",
+  "r": "L'Arc de triomphe",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Dans quel monument parisien se trouve le tombeau de Napoléon Ier ?",
+  "r": "Les Invalides",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle basilique blanche domine la butte Montmartre ?",
+  "r": "Le Sacré-Cœur",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel ouvrage de l'Aveyron, conçu par l'architecte Norman Foster et inauguré en 2004, franchit la vallée du Tarn ?",
+  "r": "Le viaduc de Millau",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle cathédrale a été ravagée par un incendie le 15 avril 2019 ?",
+  "r": "Notre-Dame de Paris",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle commune du Morbihan est mondialement connue pour ses alignements de menhirs ?",
+  "r": "Carnac",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel îlot rocheux coiffé d'une abbaye se dresse dans une baie aux confins de la Normandie et de la Bretagne ?",
+  "r": "Le Mont-Saint-Michel",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle cathédrale gothique d'Eure-et-Loir est célèbre pour ses vitraux au bleu inimitable ?",
+  "r": "Chartres",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle ville des Bouches-du-Rhône, dotée d'arènes romaines, fut peinte à de nombreuses reprises par Van Gogh ?",
+  "r": "Arles",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel ingénieur militaire de Louis XIV a vu douze de ses sites fortifiés inscrits à l'UNESCO en 2008 ?",
+  "r": "Vauban",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle ville de Lorraine a vu ses places Stanislas, de la Carrière et d'Alliance inscrites à l'UNESCO ?",
+  "r": "Nancy",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel canal, inscrit à l'UNESCO en 1996, relie Toulouse à l'étang de Thau ?",
+  "r": "Le canal du Midi",
+  "d": 1,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel monument parisien de la montagne Sainte-Geneviève accueille les « grands hommes » de la nation ?",
+  "r": "Le Panthéon",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Sur quelle place parisienne se dresse l'obélisque de Louxor ?",
+  "r": "La place de la Concorde",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel palais de la rue du Faubourg-Saint-Honoré est la résidence officielle du président de la République ?",
+  "r": "Le palais de l'Élysée",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Dans quel quartier d'affaires de l'ouest parisien se dresse la Grande Arche ?",
+  "r": "La Défense",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel centre d'art parisien, inauguré en 1977, est surnommé « Beaubourg » ?",
+  "r": "Le Centre Pompidou",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle basilique marseillaise est surnommée « la Bonne Mère » ?",
+  "r": "Notre-Dame-de-la-Garde",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle ville est le chef-lieu de la Martinique ?",
+  "r": "Fort-de-France",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville est le chef-lieu de La Réunion ?",
+  "r": "Saint-Denis",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville est le chef-lieu de la Guyane ?",
+  "r": "Cayenne",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville est la capitale de la Nouvelle-Calédonie ?",
+  "r": "Nouméa",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville, située sur l'île de Tahiti, est la capitale de la Polynésie française ?",
+  "r": "Papeete",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel volcan de La Réunion compte parmi les plus actifs de la planète ?",
+  "r": "Le piton de la Fournaise",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel volcan de Martinique a détruit la ville de Saint-Pierre en 1902 ?",
+  "r": "La montagne Pelée",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Dans quelle ville de Guyane se trouve le Centre spatial d'où décollent les fusées Ariane ?",
+  "r": "Kourou",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle île des Antilles est partagée entre la France et le royaume des Pays-Bas ?",
+  "r": "Saint-Martin",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel archipel français se trouve au large de Terre-Neuve, au Canada ?",
+  "r": "Saint-Pierre-et-Miquelon",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle île de Polynésie française est célèbre pour son lagon et le mont Otemanu ?",
+  "r": "Bora-Bora",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel est le plus vaste département français ?",
+  "r": "La Guyane",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel architecte a conçu la pyramide de verre du Louvre ?",
+  "r": "Ieoh Ming Pei (I. M. Pei)",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Dans quel manoir d'Amboise Léonard de Vinci a-t-il passé ses dernières années ?",
+  "r": "Le Clos Lucé",
+  "d": 2,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quelle ville du Vaucluse possède un théâtre antique au mur de scène remarquablement conservé ?",
+  "r": "Orange",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel est le vrai nom du pont d'Avignon de la chanson ?",
+  "r": "Le pont Saint-Bénézet",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel célèbre ingénieur a construit le viaduc ferroviaire de Garabit, dans le Cantal ?",
+  "r": "Gustave Eiffel",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel architecte a conçu la chapelle Notre-Dame-du-Haut à Ronchamp, en Haute-Saône ?",
+  "r": "Le Corbusier",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Dans quelle ville se trouve la plus célèbre Cité radieuse de Le Corbusier, surnommée « la Maison du fada » ?",
+  "r": "Marseille",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Dans la cour de quel château Napoléon fit-il ses adieux à la Garde impériale en 1814 ?",
+  "r": "Fontainebleau",
+  "d": 2,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quel château de Seine-et-Marne, bâti pour le surintendant Fouquet, inspira Versailles à Louis XIV ?",
+  "r": "Vaux-le-Vicomte",
+  "d": 2,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quelle ville normande, reconstruite par Auguste Perret après la Seconde Guerre mondiale, est inscrite à l'UNESCO depuis 2005 ?",
+  "r": "Le Havre",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Dans quelle ville de Côte-d'Or se trouvent les Hospices fondés en 1443, aux célèbres toits vernissés ?",
+  "r": "Beaune",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle cité viticole de Gironde a vu sa juridiction inscrite au patrimoine mondial de l'UNESCO en 1999 ?",
+  "r": "Saint-Émilion",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle ville du Tarn a vu sa cité épiscopale et sa cathédrale en brique inscrites à l'UNESCO en 2010 ?",
+  "r": "Albi",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel est le plus ancien pont de Paris encore debout ?",
+  "r": "Le Pont-Neuf",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle vallée de Dordogne, riche en grottes ornées comme Lascaux, est inscrite à l'UNESCO depuis 1979 ?",
+  "r": "La vallée de la Vézère",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel château alsacien, restauré au début du XXe siècle sous l'empereur Guillaume II, domine la plaine d'Alsace ?",
+  "r": "Le Haut-Kœnigsbourg",
+  "d": 2,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quelle colline bourguignonne porte la basilique Sainte-Marie-Madeleine, point de départ d'un chemin de Compostelle ?",
+  "r": "Vézelay",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Les lagons de quel territoire français du Pacifique ont été inscrits à l'UNESCO en 2008 ?",
+  "r": "La Nouvelle-Calédonie",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle ville de Seine-et-Marne, ancienne cité de foires médiévales, est inscrite à l'UNESCO ?",
+  "r": "Provins",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel paysage industriel du nord de la France, avec ses terrils et ses corons, est inscrit à l'UNESCO depuis 2012 ?",
+  "r": "Le bassin minier du Nord-Pas-de-Calais",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle île française a vu ses « pitons, cirques et remparts » inscrits à l'UNESCO en 2010 ?",
+  "r": "La Réunion",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle ville surnommée « le port de la Lune » est inscrite à l'UNESCO depuis 2007 ?",
+  "r": "Bordeaux",
+  "d": 2,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Dans quel département se trouve Giverny, où Claude Monet peignit ses nymphéas ?",
+  "r": "L'Eure",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel château Renaissance de Touraine est bâti sur une île de l'Indre ?",
+  "r": "Azay-le-Rideau",
+  "d": 2,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quel château de la Loire est célèbre pour ses jardins, dont un potager décoratif Renaissance ?",
+  "r": "Villandry",
+  "d": 2,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quelle ville est la préfecture de la Guadeloupe ?",
+  "r": "Basse-Terre",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel est le point culminant de La Réunion ?",
+  "r": "Le piton des Neiges",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel volcan actif est le point culminant de la Guadeloupe ?",
+  "r": "La Soufrière",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel département d'outre-mer porte le numéro 972 ?",
+  "r": "La Martinique",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel fleuve marque la frontière entre la Guyane et le Suriname ?",
+  "r": "Le Maroni",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel archipel guyanais, qui comprend l'île du Diable, abritait un bagne ?",
+  "r": "Les îles du Salut",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel cirque de La Réunion n'est accessible qu'à pied ou en hélicoptère ?",
+  "r": "Mafate",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Dans quel archipel de l'océan Indien se trouve le département de Mayotte ?",
+  "r": "Les Comores",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle collectivité des Antilles françaises a pour chef-lieu Gustavia ?",
+  "r": "Saint-Barthélemy",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Comment se nomme le peuple autochtone mélanésien de Nouvelle-Calédonie ?",
+  "r": "Les Kanak",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Dans quel archipel de Polynésie se trouve Hiva Oa, où reposent Paul Gauguin et Jacques Brel ?",
+  "r": "Les Marquises",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle abbaye cistercienne de Côte-d'Or, fondée au XIIe siècle par saint Bernard, est inscrite à l'UNESCO ?",
+  "r": "Fontenay",
+  "d": 3,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Dans quelle commune du Doubs se trouve la saline royale conçue par Claude-Nicolas Ledoux ?",
+  "r": "Arc-et-Senans",
+  "d": 3,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel village des Alpes-de-Haute-Provence est célèbre pour son étoile suspendue par une chaîne entre deux falaises ?",
+  "r": "Moustiers-Sainte-Marie",
+  "d": 3,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel nom porte le patrimoine viticole bourguignon, parcelles de la côte de Nuits et de Beaune, inscrit à l'UNESCO en 2015 ?",
+  "r": "Les climats de Bourgogne",
+  "d": 3,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle chapelle de Vence a été entièrement conçue et décorée par Henri Matisse ?",
+  "r": "La chapelle du Rosaire",
+  "d": 3,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle place forte des marais de Charente-Maritime passe pour être la ville natale de Samuel de Champlain ?",
+  "r": "Brouage",
+  "d": 3,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel ingénieur de Béziers a conçu le canal du Midi sous Louis XIV ?",
+  "r": "Pierre-Paul Riquet",
+  "d": 3,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel phare de l'estuaire de la Gironde, surnommé « le Versailles de la mer », est inscrit à l'UNESCO depuis 2021 ?",
+  "r": "Le phare de Cordouan",
+  "d": 3,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quel château cathare de l'Ariège, pris en 1244, vit périr sur le bûcher de nombreux cathares ?",
+  "r": "Montségur",
+  "d": 3,
+  "t": "Châteaux"
+ },
+ {
+  "q": "Quel golfe corse, avec les calanques de Piana et la réserve de Scandola, est inscrit à l'UNESCO ?",
+  "r": "Le golfe de Porto",
+  "d": 3,
+  "t": "Patrimoine UNESCO"
+ },
+ {
+  "q": "Quelle ville est le chef-lieu du département de Mayotte ?",
+  "r": "Mamoudzou",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel fleuve marque la frontière entre la Guyane et le Brésil ?",
+  "r": "L'Oyapock",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel atoll français isolé du Pacifique nord-est porte le nom d'un pirate anglais ?",
+  "r": "Clipperton",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle île de l'archipel guadeloupéen est surnommée « l'île aux cent moulins » ?",
+  "r": "Marie-Galante",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel îlot au large de la Martinique fut enregistré par les Britanniques comme un navire de guerre en 1804 ?",
+  "r": "Le rocher du Diamant",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel cirque de La Réunion a donné son nom à une eau minérale et à des lentilles réputées ?",
+  "r": "Cilaos",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel étroit bras de mer sépare Basse-Terre et Grande-Terre, en Guadeloupe ?",
+  "r": "La rivière Salée",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel archipel des Terres australes françaises fut surnommé « les îles de la Désolation » ?",
+  "r": "Les Kerguelen",
+  "d": 3,
+  "t": "Outre-mer"
+ }
 ]

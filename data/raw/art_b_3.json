@@ -132,7 +132,7 @@
   "t": "Épopées antiques"
  },
  {
-  "q": "Quelle épopée mésopotamienne, gravée sur des tablettes d'argile, est considérée comme la plus ancienne œuvre littéraire connue ?",
+  "q": "Quelle épopée mésopotamienne, gravée sur des tablettes d'argile, est considérée comme l'une des plus anciennes œuvres littéraires connues ?",
   "r": "L'Épopée de Gilgamesh",
   "d": 2,
   "t": "Épopées antiques"
@@ -283,7 +283,7 @@
  },
  {
   "q": "Dans quel roman latin d'Apulée le jeune Lucius est-il accidentellement transformé en âne ?",
-  "r": "L'Âne d'or",
+  "r": "L'Âne d'or (Les Métamorphoses)",
   "d": 3,
   "t": "Grands textes antiques"
  },
