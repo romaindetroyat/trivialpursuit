@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Dans quelle chanson Jacques Brel affirme-t-il que « plus ça devient vieux, plus ça devient bête » ?",
+  "r": "Les Bourgeois",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Comment s'appelle l'astronaute perdu dans l'espace dans « Space Oddity » de David Bowie ?",
+  "r": "Major Tom",
+  "d": 2,
+  "t": "Rock"
+ },
+ {
+  "q": "Quelle chanson de la comédie musicale « Cats » est chantée par la vieille chatte Grizabella ?",
+  "r": "Memory",
+  "d": 2,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel chanteur fantaisiste de « Big bisou » était le fils de la psychanalyste Françoise Dolto ?",
+  "r": "Carlos",
+  "d": 2,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quelle chanson disco de Claude François est sortie le jour même de ses obsèques, en 1978 ?",
+  "r": "Alexandrie Alexandra",
+  "d": 2,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel auteur-compositeur a créé et joué le rôle-titre de la comédie musicale « Hamilton » à Broadway en 2015 ?",
+  "r": "Lin-Manuel Miranda",
+  "d": 2,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel chanteur a fait scandale avec « Le Zizi » en 1974 ?",
+  "r": "Pierre Perret",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel DJ français a signé « Love Generation » en 2005 ?",
+  "r": "Bob Sinclar",
+  "d": 1,
+  "t": "Électro"
+ },
+ {
+  "q": "Comment appelle-t-on la paire de cymbales actionnée par une pédale dans une batterie ?",
+  "r": "La charleston (hi-hat)",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel genre musical réunionnais, hérité des esclaves, est inscrit au patrimoine immatériel de l'UNESCO depuis 2009 ?",
+  "r": "Le maloya",
+  "d": 3,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel festival créé en 1999 par l'association Solidarité Sida se tient sur l'hippodrome de Longchamp ?",
+  "r": "Solidays",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "q": "De quelle jeune soprano le Fantôme de l'Opéra est-il amoureux dans la comédie musicale d'Andrew Lloyd Webber ?",
+  "r": "Christine Daaé",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quelle chanteuse australienne, révélée par la série « Voisins », a chanté « Can't Get You Out of My Head » ?",
+  "r": "Kylie Minogue",
+  "d": 1,
+  "t": "Pop"
+ },
+ {
+  "q": "Quel duo d'Atlanta, formé d'André 3000 et Big Boi, a chanté « Hey Ya! » en 2003 ?",
+  "r": "OutKast",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel duo formé par Catherine Ringer et Fred Chichin a chanté « Marcia Baïla » ?",
+  "r": "Les Rita Mitsouko",
+  "d": 1,
+  "t": "Rock français"
+ },
+ {
+  "q": "Quelle chanteuse britannique d'origine kosovare a chanté « New Rules » et « Don't Start Now » ?",
+  "r": "Dua Lipa",
+  "d": 2,
+  "t": "Pop"
+ },
+ {
+  "q": "Quel groupe new-yorkais de Lou Reed a une banane sur la pochette de son premier album ?",
+  "r": "The Velvet Underground",
+  "d": 2,
+  "t": "Pochettes"
+ },
+ {
+  "q": "Quel album de Dire Straits, sorti en 1985, contient « Money for Nothing » ?",
+  "r": "Brothers in Arms",
+  "d": 2,
+  "t": "Albums"
+ },
+ {
+  "q": "Quel instrument à soufflet, cousin de l'accordéon, est l'âme du tango argentin ?",
+  "r": "Le bandonéon",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel chanteur a triomphé en 1965 avec « Capri, c'est fini » ?",
+  "r": "Hervé Vilard",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel compositeur brésilien a écrit « La Fille d'Ipanema » avec le poète Vinícius de Moraes ?",
+  "r": "Antônio Carlos Jobim",
+  "d": 3,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quelle chanteuse irlandaise a connu le succès mondial avec « Orinoco Flow » en 1988 ?",
+  "r": "Enya",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Dans quelle ville de Loire-Atlantique se tient le festival de metal Hellfest ?",
+  "r": "Clisson",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "q": "Quel groupe britannique a sorti « Paint It Black » en 1966 ?",
+  "r": "The Rolling Stones",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel chanteur a interprété « Femmes… je vous aime » en 1982 ?",
+  "r": "Julien Clerc",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel groupe français d'Antibes, mené par Anthony Gonzalez, a signé « Midnight City » en 2011 ?",
+  "r": "M83",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel insecte, avec un jeu de mots sur « beat », a inspiré le nom des Beatles ?",
+  "r": "Le scarabée (beetle)",
+  "d": 2,
+  "t": "Noms de groupes"
+ },
+ {
+  "q": "Quel acteur marseillais a chanté « Félicie aussi » en 1939 ?",
+  "r": "Fernandel",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Sous quel nom le chanteur Cat Stevens se fait-il appeler depuis sa conversion à l'islam ?",
+  "r": "Yusuf Islam",
+  "d": 2,
+  "t": "Folk-rock"
+ },
+ {
+  "q": "Quelle chanson d'Édith Piaf, écrite par Georges Moustaki en 1959, s'adresse à un riche voyageur anglais ?",
+  "r": "Milord",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel groupe a chanté « Nuit de folie » en 1988 ?",
+  "r": "Début de soirée",
+  "d": 2,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quelle chanson de Jacques Brel décrit la Belgique avec « la mer du Nord pour dernier terrain vague » ?",
+  "r": "Le Plat Pays",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Comment appelle-t-on un enregistrement de concert diffusé sans autorisation, souvent convoité par les collectionneurs ?",
+  "r": "Un bootleg",
+  "d": 3,
+  "t": "Vocabulaire musical"
+ },
+ {
+  "q": "Quel groupe virtuel, formé de personnages dessinés, a été créé par Damon Albarn et Jamie Hewlett ?",
+  "r": "Gorillaz",
+  "d": 1,
+  "t": "Pop britannique"
+ },
+ {
+  "q": "Quelle chanson de Laurent Voulzy (1985) associe une île bretonne et une île de la Guadeloupe ?",
+  "r": "Belle-Île-en-Mer, Marie-Galante",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quelle chanteuse avignonnaise à la frange au carré a chanté « Mon crédo » en 1966 ?",
+  "r": "Mireille Mathieu",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel album d'Oasis, sorti en 1995, contient « Don't Look Back in Anger » et « Champagne Supernova » ?",
+  "r": "(What's the Story) Morning Glory?",
+  "d": 2,
+  "t": "Albums"
+ },
+ {
+  "q": "Quelle chanteuse indienne, disparue en 2022, fut la voix la plus célèbre des chansons de Bollywood ?",
+  "r": "Lata Mangeshkar",
+  "d": 3,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quelle chanson de Nine Inch Nails Johnny Cash a-t-il reprise en 2002, peu avant sa mort ?",
+  "r": "Hurt",
+  "d": 3,
+  "t": "Reprises"
+ },
+ {
+  "q": "Quelle chanteuse galloise à la voix rauque a chanté « Total Eclipse of the Heart » en 1983 ?",
+  "r": "Bonnie Tyler",
+  "d": 1,
+  "t": "Pop"
+ },
+ {
+  "q": "Avec quel guitariste gallois Jean-Jacques Goldman chante-t-il « Je te donne » en 1985 ?",
+  "r": "Michael Jones",
+  "d": 2,
+  "t": "Duos"
+ },
+ {
+  "q": "Quel chanteur, de son vrai nom Claude Moine, a présenté « La Dernière Séance » à la télévision ?",
+  "r": "Eddy Mitchell",
+  "d": 1,
+  "t": "Rock français"
+ },
+ {
+  "q": "Quelle famille d'instruments regroupe la trompette, le trombone et le tuba ?",
+  "r": "Les cuivres",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel chanteur a représenté la France à l'Eurovision 1993 avec « Mama Corsica » ?",
+  "r": "Patrick Fiori",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "q": "Quelle chanteuse belge a chanté « Sensualité » en 1993 ?",
+  "r": "Axelle Red",
+  "d": 2,
+  "t": "Variété francophone"
+ },
+ {
+  "q": "Quel groupe britannique d'électro-pop a chanté « Enjoy the Silence » en 1990 ?",
+  "r": "Depeche Mode",
+  "d": 2,
+  "t": "Pop britannique"
+ },
+ {
+  "q": "Quelle comédie musicale d'Andrew Lloyd Webber contient « Don't Cry for Me Argentina » ?",
+  "r": "Evita",
+  "d": 1,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quelle chanson de Charles Aznavour (1972) évoque avec pudeur la vie d'un homme homosexuel ?",
+  "r": "Comme ils disent",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel pianiste de rock'n'roll surnommé « The Killer » a chanté « Great Balls of Fire » ?",
+  "r": "Jerry Lee Lewis",
+  "d": 2,
+  "t": "Rock'n'roll"
+ },
+ {
+  "q": "Quelle chanteuse incarnait Esmeralda lors de la création de « Notre-Dame de Paris » en 1998 ?",
+  "r": "Hélène Ségara",
+  "d": 1,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Dans « Et moi, et moi, et moi » de Jacques Dutronc (1966), combien de Chinois y a-t-il ?",
+  "r": "700 millions",
+  "d": 2,
+  "t": "Paroles célèbres"
+ },
+ {
+  "q": "Dans quelle salle de Montparnasse Georges Brassens s'est-il produit à de nombreuses reprises ?",
+  "r": "Bobino",
+  "d": 3,
+  "t": "Salles de concert"
+ },
+ {
+  "q": "Comment appelle-t-on la variante du reggae qui retravaille les morceaux en studio, avec échos et réverbérations ?",
+  "r": "Le dub",
+  "d": 3,
+  "t": "Reggae"
+ },
+ {
+  "q": "Que représentent les quatre lettres du nom du groupe ABBA ?",
+  "r": "Les initiales de ses membres",
+  "d": 1,
+  "t": "Noms de groupes"
+ },
+ {
+  "q": "Quelle chanteuse américaine, fille de Ravi Shankar, a triomphé avec l'album « Come Away with Me » en 2002 ?",
+  "r": "Norah Jones",
+  "d": 2,
+  "t": "Jazz vocal"
+ },
+ {
+  "q": "Quel trompettiste et chanteur du jazz « cool », à la voix fragile, a immortalisé « My Funny Valentine » ?",
+  "r": "Chet Baker",
+  "d": 3,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel est le premier grand succès de Mylène Farmer, sorti en 1984 ?",
+  "r": "Maman a tort",
+  "d": 2,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quel Beatle gaucher jouait sur une basse Höfner en forme de violon ?",
+  "r": "Paul McCartney",
+  "d": 1,
+  "t": "Beatles"
+ },
+ {
+  "q": "Quel chanteur portoricain a signé avec Daddy Yankee le tube planétaire « Despacito » en 2017 ?",
+  "r": "Luis Fonsi",
+  "d": 1,
+  "t": "Pop latino"
+ },
+ {
+  "q": "Quel mot anglais désigne un extrait d'un morceau existant réutilisé dans une nouvelle composition, notamment en rap ?",
+  "r": "Un sample",
+  "d": 2,
+  "t": "Vocabulaire musical"
+ },
+ {
+  "q": "Quel groupe a sorti l'album « Appetite for Destruction » en 1987 ?",
+  "r": "Guns N' Roses",
+  "d": 2,
+  "t": "Hard rock"
+ },
+ {
+  "q": "Quel duo suédois a chanté « It Must Have Been Love », chanson du film « Pretty Woman » ?",
+  "r": "Roxette",
+  "d": 1,
+  "t": "Pop européenne"
+ },
+ {
+  "q": "Quel chanteur a créé « Comme un p'tit coquelicot » en 1952 ?",
+  "r": "Mouloudji",
+  "d": 3,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Sur quel lieu insolite les Beatles ont-ils donné leur dernier concert public, en janvier 1969 ?",
+  "r": "Le toit de leur immeuble",
+  "d": 2,
+  "t": "Beatles"
+ },
+ {
+  "q": "Quelle chanteuse française a rendu hommage à Miriam Makeba avec son tube « Makeba » en 2015 ?",
+  "r": "Jain",
+  "d": 2,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quel chanteur a offert à la France sa première victoire à l'Eurovision, en 1958, avec « Dors, mon amour » ?",
+  "r": "André Claveau",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "q": "Quel groupe de reggae de Birmingham a repris « Red Red Wine » en 1983 ?",
+  "r": "UB40",
+  "d": 2,
+  "t": "Reggae"
+ },
+ {
+  "q": "Dans quelle ville de Ligurie se tient chaque année le célèbre festival de la chanson italienne ?",
+  "r": "Sanremo",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "q": "Quel couple de musiciens aveugles maliens a sorti l'album « Dimanche à Bamako » en 2004 ?",
+  "r": "Amadou et Mariam",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel art de poésie orale et déclamée, né à Chicago dans les années 1980, a été popularisé en France par Grand Corps Malade ?",
+  "r": "Le slam",
+  "d": 1,
+  "t": "Vocabulaire musical"
+ },
+ {
+  "q": "Quel duo rennais, formé par Muriel Moreno et Daniel Chenevez, a chanté « L'amour à la plage » en 1986 ?",
+  "r": "Niagara",
+  "d": 3,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quel album de U2, sorti en 1987, porte le nom d'un arbre du désert américain ?",
+  "r": "The Joshua Tree",
+  "d": 2,
+  "t": "Albums"
+ },
+ {
+  "q": "Quelle chanteuse texane à la voix rauque a enregistré « Me and Bobby McGee », sortie après sa mort en 1971 ?",
+  "r": "Janis Joplin",
+  "d": 2,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel chanteur incarnait Moïse dans le spectacle « Les Dix Commandements » en 2000 ?",
+  "r": "Daniel Lévi",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel classement des ventes de singles, lancé sur Canal+ en 1984 et présenté par Marc Toesca, a marqué les années 1980 ?",
+  "r": "Le Top 50",
+  "d": 1,
+  "t": "Émissions musicales"
+ },
+ {
+  "q": "Dans quel pays se tient le festival de musique électronique Tomorrowland ?",
+  "r": "La Belgique",
+  "d": 1,
+  "t": "Festivals"
+ },
+ {
+  "q": "Que signifie l'expression italienne « a cappella » appliquée au chant ?",
+  "r": "Sans accompagnement instrumental",
+  "d": 1,
+  "t": "Vocabulaire musical"
+ },
+ {
+  "q": "Quelle chanson d'Alain Souchon (1977) met en scène un grand enfant qui appelle sa mère ?",
+  "r": "Allô maman bobo",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel chanteur espagnol, auteur de « Bailando », est le fils de Julio Iglesias ?",
+  "r": "Enrique Iglesias",
+  "d": 1,
+  "t": "Pop latino"
+ },
+ {
+  "q": "Quelle chanteuse française a remporté l'Eurovision 1983 pour le Luxembourg avec « Si la vie est cadeau » ?",
+  "r": "Corinne Hermès",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "q": "Quel chanteur de Genesis a quitté le groupe en 1975 pour une carrière solo ?",
+  "r": "Peter Gabriel",
+  "d": 2,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel village du Gers accueille chaque été l'un des plus grands festivals de jazz d'Europe ?",
+  "r": "Marciac",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "q": "Quelle chanteuse italienne a remporté la catégorie des nouveaux talents du festival de Sanremo en 1993 avec « La solitudine » ?",
+  "r": "Laura Pausini",
+  "d": 3,
+  "t": "Pop européenne"
+ },
+ {
+  "q": "Quel chanteur belge a connu un tube punk en 1977 avec « Ça plane pour moi » ?",
+  "r": "Plastic Bertrand",
+  "d": 1,
+  "t": "Variété francophone"
+ },
+ {
+  "q": "Quel chanteur britannique a enregistré « Les Mots » en duo avec Mylène Farmer en 2001 ?",
+  "r": "Seal",
+  "d": 3,
+  "t": "Duos"
+ }
+]

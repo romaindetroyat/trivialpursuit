@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Sur quelle île de la Seine se trouvait le cœur de Lutèce puis du Paris médiéval ?",
+  "r": "L'île de la Cité",
+  "d": 1,
+  "t": "Villes médiévales"
+ },
+ {
+  "q": "Comment appelle-t-on couramment le navire viking à la proue ornée d'une tête de dragon ?",
+  "r": "Le drakkar",
+  "d": 1,
+  "t": "Vikings"
+ },
+ {
+  "q": "Quelle ville du Languedoc fut fondée en 118 av. J.-C. comme première colonie romaine en Gaule transalpine ?",
+  "r": "Narbonne",
+  "d": 2,
+  "t": "Gaule antique"
+ },
+ {
+  "q": "Combien de deniers valait une livre dans le système monétaire hérité de Charlemagne ?",
+  "r": "240",
+  "d": 3,
+  "t": "Commerce médiéval"
+ },
+ {
+  "q": "Quel concile, réuni de 1414 à 1418, mit fin au Grand Schisme d'Occident ?",
+  "r": "Le concile de Constance",
+  "d": 3,
+  "t": "Religions"
+ },
+ {
+  "q": "De quelle ville de Haute-Loire part la via Podiensis, l'un des chemins de Compostelle ?",
+  "r": "Le Puy-en-Velay",
+  "d": 2,
+  "t": "Religions"
+ },
+ {
+  "q": "Quel courtisan du tyran Denys de Syracuse a donné son nom à une épée symbolisant un danger permanent ?",
+  "r": "Damoclès",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Comment s'appelait le travail gratuit que les paysans devaient à leur seigneur ?",
+  "r": "La corvée",
+  "d": 1,
+  "t": "Féodalité"
+ },
+ {
+  "q": "Quelle espèce humaine archaïque a été identifiée en 2010 grâce à l'ADN d'un os de doigt retrouvé dans une grotte de Sibérie ?",
+  "r": "L'homme de Denisova",
+  "d": 3,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle cité cananéenne, théâtre d'une victoire de Thoutmôsis III, a donné son nom à l'« Armageddon » biblique ?",
+  "r": "Megiddo",
+  "d": 3,
+  "t": "Batailles antiques"
+ },
+ {
+  "q": "Quel navire de guerre grec était propulsé par trois rangs de rameurs superposés ?",
+  "r": "La trière (trirème)",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel ermite égyptien du IVe siècle est considéré comme le père du monachisme chrétien ?",
+  "r": "Saint Antoine le Grand",
+  "d": 3,
+  "t": "Religions"
+ },
+ {
+  "q": "Comment appelle-t-on la structure en bois apparent des maisons médiévales, dont les vides étaient remplis de torchis ?",
+  "r": "Les colombages",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "q": "Quel vêtement drapé de laine blanche était réservé aux citoyens romains ?",
+  "r": "La toge",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "q": "Quelle doctrine, condamnée au concile de Nicée en 325, niait la pleine divinité du Christ ?",
+  "r": "L'arianisme",
+  "d": 2,
+  "t": "Religions"
+ },
+ {
+  "q": "Vers quel escalier de Rome jetait-on les corps des condamnés, à l'origine de l'expression « vouer aux ... » ?",
+  "r": "Les gémonies",
+  "d": 3,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Quel roi vandale pilla Rome pendant deux semaines en 455 ?",
+  "r": "Genséric",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel cheval de bataille des chevaliers est à l'origine de l'expression « monter sur ses grands chevaux » ?",
+  "r": "Le destrier",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Comment s'appelle le combat à cheval, lance en arrêt, entre deux chevaliers ?",
+  "r": "La joute",
+  "d": 1,
+  "t": "Chevalerie"
+ },
+ {
+  "q": "Quelle civilisation mésoaméricaine est célèbre pour ses têtes colossales en basalte ?",
+  "r": "Les Olmèques",
+  "d": 2,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "q": "Comment appelle-t-on la longue période de paix intérieure de l'Empire romain inaugurée par Auguste ?",
+  "r": "La pax romana",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel roi de France, fils posthume de Louis X, ne vécut que cinq jours en 1316 ?",
+  "r": "Jean Ier (le Posthume)",
+  "d": 3,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quelle roche, taillée par percussion, fut le principal matériau des outils préhistoriques en Europe ?",
+  "r": "Le silex",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Comment appelle-t-on le passage d'une vie nomade à un habitat fixe, caractéristique du Néolithique ?",
+  "r": "La sédentarisation",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel poète latin, auteur des Métamorphoses, fut exilé par Auguste sur les bords de la mer Noire ?",
+  "r": "Ovide",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "En l'honneur de quel dieu se tenaient les Jeux olympiques antiques ?",
+  "r": "Zeus",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "En héraldique, quelle couleur désigne le terme « gueules » ?",
+  "r": "Le rouge",
+  "d": 2,
+  "t": "Chevalerie"
+ },
+ {
+  "q": "Quel surnom portait Édouard de Woodstock, fils d'Édouard III, vainqueur à Poitiers en 1356 ?",
+  "r": "Le Prince Noir",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel animal, descendant du loup, est considéré comme le premier domestiqué par l'homme ?",
+  "r": "Le chien",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel jeu de balle collectif, pratiqué en Normandie et en Picardie, est un ancêtre du football et du rugby ?",
+  "r": "La soule",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "q": "Quel peuple venu d'Asie domina le nord de l'Égypte vers 1650 av. J.-C. et y introduisit le char de guerre ?",
+  "r": "Les Hyksos",
+  "d": 3,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quelle ville japonaise, fondée en 794 sous le nom de Heian-kyō, fut la capitale impériale pendant plus de mille ans ?",
+  "r": "Kyoto",
+  "d": 2,
+  "t": "Japon ancien"
+ },
+ {
+  "q": "Quelle branche des mathématiques tire son nom du titre d'un traité d'al-Khwârizmî ?",
+  "r": "L'algèbre",
+  "d": 2,
+  "t": "Sciences médiévales"
+ },
+ {
+  "q": "Quel peuple germanique a donné son nom à l'Angleterre ?",
+  "r": "Les Angles",
+  "d": 1,
+  "t": "Haut Moyen Âge"
+ },
+ {
+  "q": "Quel roi d'Israël, fils de David, fit bâtir le premier Temple de Jérusalem ?",
+  "r": "Salomon",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Quelle ville du Mali est célèbre pour sa grande mosquée, plus grand édifice en terre crue du monde ?",
+  "r": "Djenné",
+  "d": 2,
+  "t": "Afrique ancienne"
+ },
+ {
+  "q": "Quelle cité grecque d'Italie du Sud, réputée pour son luxe, a donné le mot désignant un amateur de plaisirs raffinés ?",
+  "r": "Sybaris",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Quel métal, allié au cuivre, permet d'obtenir le bronze ?",
+  "r": "L'étain",
+  "d": 1,
+  "t": "Techniques anciennes"
+ },
+ {
+  "q": "Quel empereur est associé, dans une chanson des années 1960, à l'invention de l'école ?",
+  "r": "Charlemagne",
+  "d": 1,
+  "t": "Carolingiens"
+ },
+ {
+  "q": "Comment appelle-t-on le monument mégalithique formé d'une grande dalle posée sur des pierres dressées, comme une table ?",
+  "r": "Un dolmen",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Comment appelait-on à Rome un esclave libéré par son maître ?",
+  "r": "Un affranchi",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "q": "Comment s'appellent les chapitres du Coran ?",
+  "r": "Les sourates",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Comment appelait-on les prêtresses chargées d'entretenir le feu sacré de Rome ?",
+  "r": "Les vestales",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Comment appelait-on autrefois le préparateur et vendeur de remèdes, ancêtre du pharmacien ?",
+  "r": "L'apothicaire",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "q": "Comment appelle-t-on l'affrontement de 1351, près de Ploërmel, entre chevaliers bretons et anglais à nombre égal ?",
+  "r": "Le combat des Trente",
+  "d": 3,
+  "t": "Chevalerie"
+ },
+ {
+  "q": "Comment appelait-on la formation où les légionnaires s'abritaient sous leurs boucliers joints ?",
+  "r": "La tortue",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel droit permettait au seigneur de récupérer les biens d'un serf mort sans héritier vivant sous son toit ?",
+  "r": "La mainmorte",
+  "d": 3,
+  "t": "Féodalité"
+ },
+ {
+  "q": "Quel immense complexe de temples, dédié principalement à Amon, se trouve sur la rive est du Nil à Louxor ?",
+  "r": "Karnak",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Dans quelle commune de Côte-d'Or situe-t-on le site de la bataille d'Alésia ?",
+  "r": "Alise-Sainte-Reine",
+  "d": 3,
+  "t": "Gaule antique"
+ },
+ {
+  "q": "Quelle monnaie fut créée en 1360 pour payer la rançon du roi Jean le Bon ?",
+  "r": "Le franc",
+  "d": 2,
+  "t": "Commerce médiéval"
+ },
+ {
+  "q": "Quel navire léger, mis au point par les Portugais au XVe siècle, fut l'outil des grandes découvertes ?",
+  "r": "La caravelle",
+  "d": 1,
+  "t": "Grandes découvertes"
+ },
+ {
+  "q": "Quel peuple de basse Mésopotamie a inventé l'écriture cunéiforme ?",
+  "r": "Les Sumériens",
+  "d": 1,
+  "t": "Mésopotamie"
+ },
+ {
+  "q": "Du haut de quel rocher de Rome précipitait-on les traîtres, rocher « proche du Capitole » selon l'adage ?",
+  "r": "La roche Tarpéienne",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Quelle déesse égyptienne, sœur et épouse d'Osiris, reconstitua son corps démembré ?",
+  "r": "Isis",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quelle dynastie chinoise (618-907) est considérée comme l'âge d'or de la poésie classique ?",
+  "r": "Les Tang",
+  "d": 2,
+  "t": "Dynasties"
+ },
+ {
+  "q": "Quels deux frères, tribuns de la plèbe, tentèrent une réforme agraire à Rome au IIe siècle av. J.-C. ?",
+  "r": "Les Gracques",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel compagnon d'armes de Jeanne d'Arc, maréchal de France, fut exécuté à Nantes en 1440 pour ses crimes ?",
+  "r": "Gilles de Rais",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel philosophe grec a donné son nom à une attitude tournée vers la recherche du plaisir ?",
+  "r": "Épicure",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Quels Grecs d'Asie Mineure fondèrent Marseille vers 600 av. J.-C. ?",
+  "r": "Les Phocéens",
+  "d": 1,
+  "t": "Gaule antique"
+ },
+ {
+  "q": "Quel roi d'Épire a donné son nom à une victoire obtenue au prix de pertes trop lourdes ?",
+  "r": "Pyrrhus",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Quel empereur romain du IVe siècle, proclamé à Lutèce, tenta de restaurer le paganisme ?",
+  "r": "Julien (l'Apostat)",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Comment appelait-on la garde d'élite des rois perses achéménides, forte de 10 000 hommes ?",
+  "r": "Les Immortels",
+  "d": 2,
+  "t": "Perse antique"
+ },
+ {
+  "q": "Quel titre portaient les successeurs de Mahomet à la tête de la communauté musulmane ?",
+  "r": "Calife",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Selon un tarif de péage du XIIIe siècle, quel animal savant permettait à son montreur de passer gratuitement le Petit-Pont de Paris ?",
+  "r": "Le singe",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "q": "Quel jeune roi de Jérusalem, atteint de la lèpre, vainquit Saladin à Montgisard en 1177 ?",
+  "r": "Baudouin IV",
+  "d": 3,
+  "t": "Croisades"
+ },
+ {
+  "q": "À quel pharaon, fils de Khéops, attribue-t-on généralement le grand Sphinx de Gizeh ?",
+  "r": "Khéphren",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quelle grotte ornée de Dordogne est surnommée la « chapelle Sixtine de la préhistoire » ?",
+  "r": "Lascaux",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel chef de la première croisade refusa en 1099 le titre de roi de Jérusalem ?",
+  "r": "Godefroy de Bouillon",
+  "d": 2,
+  "t": "Croisades"
+ },
+ {
+  "q": "Quelle croisade de 1396 fut écrasée par le sultan Bayezid Ier sur le Danube ?",
+  "r": "Nicopolis",
+  "d": 3,
+  "t": "Batailles médiévales"
+ },
+ {
+  "q": "De quel jeu le chaturanga indien est-il l'ancêtre ?",
+  "r": "Les échecs",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "q": "Quel roi de Norvège fut tué à Stamford Bridge en 1066, trois semaines avant Hastings ?",
+  "r": "Harald Hardrada",
+  "d": 3,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "q": "Quelle île du golfe du Morbihan abrite un cairn néolithique aux dalles couvertes de gravures ?",
+  "r": "Gavrinis",
+  "d": 3,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Combien de consuls étaient élus chaque année sous la République romaine ?",
+  "r": "Deux",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle voie romaine, surnommée la « reine des routes », reliait Rome à Brindisi ?",
+  "r": "La via Appia",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle héroïne défendit Beauvais contre les troupes de Charles le Téméraire en 1472 ?",
+  "r": "Jeanne Hachette",
+  "d": 2,
+  "t": "Personnages médiévaux"
+ },
+ {
+  "q": "Selon la Bible, quelle reine venue du sud de l'Arabie rendit visite au roi Salomon ?",
+  "r": "La reine de Saba",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Comment s'appelait l'infanterie d'élite des sultans ottomans ?",
+  "r": "Les janissaires",
+  "d": 1,
+  "t": "Empire ottoman"
+ },
+ {
+  "q": "Quel château de l'Aisne possédait un donjon géant dynamité par l'armée allemande en 1917 ?",
+  "r": "Coucy",
+  "d": 3,
+  "t": "Châteaux forts"
+ },
+ {
+  "q": "Quel mathématicien de Pise diffusa en Europe les chiffres indo-arabes dans son Liber abaci en 1202 ?",
+  "r": "Fibonacci",
+  "d": 2,
+  "t": "Sciences médiévales"
+ },
+ {
+  "q": "Quel ordre monastique, dont saint Bernard fut la grande figure, tire son nom d'une abbaye de Bourgogne fondée en 1098 ?",
+  "r": "Les cisterciens",
+  "d": 2,
+  "t": "Religions"
+ },
+ {
+  "q": "Quels deux frères, missionnaires byzantins auprès des Slaves au IXe siècle, sont à l'origine de l'alphabet dont dérive le cyrillique ?",
+  "r": "Cyrille et Méthode",
+  "d": 2,
+  "t": "Religions"
+ },
+ {
+  "q": "Quelle région française tire son nom de Lothaire II, souverain carolingien du IXe siècle ?",
+  "r": "La Lorraine",
+  "d": 2,
+  "t": "Carolingiens"
+ },
+ {
+  "q": "Quel roi danois du Xe siècle a donné son nom à la technologie sans fil Bluetooth ?",
+  "r": "Harald à la Dent bleue",
+  "d": 2,
+  "t": "Vikings"
+ },
+ {
+  "q": "Quel saint fonda en 1084, dans les Alpes, le monastère de la Grande Chartreuse ?",
+  "r": "Saint Bruno",
+  "d": 2,
+  "t": "Religions"
+ },
+ {
+  "q": "Comment appelait-on l'épreuve judiciaire par le feu ou par l'eau, censée révéler le jugement de Dieu ?",
+  "r": "L'ordalie",
+  "d": 2,
+  "t": "Vie quotidienne"
+ }
+]

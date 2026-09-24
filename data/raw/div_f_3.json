@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle chanteuse irlandaise au crâne rasé a fait de « Nothing Compares 2 U » un tube mondial en 1990 ?",
+  "r": "Sinéad O'Connor",
+  "d": 2,
+  "t": "Reprises"
+ },
+ {
+  "q": "Quel groupe américain a chanté « Hotel California » ?",
+  "r": "Eagles",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "q": "Comment appelle-t-on une séance d'improvisation libre entre musiciens, surtout en jazz ?",
+  "r": "Une jam session (un bœuf)",
+  "d": 1,
+  "t": "Vocabulaire musical"
+ },
+ {
+  "q": "Quel est le nombre maximal de points qu'un jury national attribue à une chanson lors de l'Eurovision ?",
+  "r": "12 points",
+  "d": 1,
+  "t": "Eurovision"
+ },
+ {
+  "q": "Quel groupe de hard rock américain se produit maquillé, avec le bassiste Gene Simmons à la langue démesurée ?",
+  "r": "Kiss",
+  "d": 1,
+  "t": "Hard rock"
+ },
+ {
+  "q": "Quel chef d'orchestre de jazz a fait les grandes heures du Cotton Club de Harlem à la fin des années 1920 ?",
+  "r": "Duke Ellington",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel groupe britannique a chanté « A Whiter Shade of Pale » en 1967 ?",
+  "r": "Procol Harum",
+  "d": 3,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel baladeur à cassettes, lancé par Sony en 1979, a permis d'écouter sa musique en marchant ?",
+  "r": "Le Walkman",
+  "d": 1,
+  "t": "Supports musicaux"
+ },
+ {
+  "q": "Quel chanteur sétois a écrit « La Mauvaise Réputation » en 1952 ?",
+  "r": "Georges Brassens",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel format de compression audio, développé notamment par l'institut allemand Fraunhofer, a permis l'essor de la musique en ligne ?",
+  "r": "Le MP3",
+  "d": 1,
+  "t": "Supports musicaux"
+ },
+ {
+  "q": "Quel groupe a immortalisé l'incendie du casino de Montreux de 1971 dans « Smoke on the Water » ?",
+  "r": "Deep Purple",
+  "d": 2,
+  "t": "Hard rock"
+ },
+ {
+  "q": "Quel alter ego provocateur Serge Gainsbourg s'est-il inventé dans les années 1980 ?",
+  "r": "Gainsbarre",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel genre jamaïcain, ancêtre du reggae, se caractérise par un contretemps rapide et des cuivres ?",
+  "r": "Le ska",
+  "d": 2,
+  "t": "Reggae"
+ },
+ {
+  "q": "Quel groupe antillais a chanté « Le Bal masqué » et « C'est bon pour le moral » ?",
+  "r": "La Compagnie créole",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quelle chanson de Gilbert Bécaud (1961) est devenue « What Now My Love » en anglais ?",
+  "r": "Et maintenant",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quelle comédie musicale de Broadway (1996) transpose l'opéra « La Bohème » dans le New York des années sida ?",
+  "r": "Rent",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel chanteur congolais, roi de la rumba et figure de la « sape », est mort sur scène à Abidjan en 2016 ?",
+  "r": "Papa Wemba",
+  "d": 3,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Dans quelle ville du comté de Los Angeles le groupe N.W.A a-t-il vu le jour ?",
+  "r": "Compton",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel groupe de rap de Chuck D a signé « Fight the Power » pour le film « Do the Right Thing » (1989) ?",
+  "r": "Public Enemy",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel chanteur stéphanois a chanté « On the Road Again » en 1988 ?",
+  "r": "Bernard Lavilliers",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Dans « Les Copains d'abord » de Brassens, à quel célèbre naufrage le bateau des copains n'est-il pas comparé ?",
+  "r": "Le radeau de la Méduse",
+  "d": 2,
+  "t": "Paroles célèbres"
+ },
+ {
+  "q": "Quel compositeur, époux de France Gall, a écrit pour elle « Résiste » et « Babacar » ?",
+  "r": "Michel Berger",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel chanteur a interprété « Savoir aimer » en 1997 ?",
+  "r": "Florent Pagny",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Comment s'appelle la demeure d'Elvis Presley à Memphis, devenue un musée ?",
+  "r": "Graceland",
+  "d": 1,
+  "t": "Rock'n'roll"
+ },
+ {
+  "q": "Quel chanteur refuse une invitation à dîner dans « Le Dîner », son tube de 2005 ?",
+  "r": "Bénabar",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Dans quelle ville américaine le grunge est-il né, avec Nirvana, Pearl Jam et Soundgarden ?",
+  "r": "Seattle",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel guitariste virtuose a popularisé la technique du tapping à deux mains, notamment dans « Eruption » ?",
+  "r": "Eddie Van Halen",
+  "d": 3,
+  "t": "Hard rock"
+ },
+ {
+  "q": "Quelle harpe-luth d'Afrique de l'Ouest, à 21 cordes, accompagne les griots mandingues ?",
+  "r": "La kora",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quelle chanteuse corse a connu le succès avec « Moi… Lolita » en 2000 ?",
+  "r": "Alizée",
+  "d": 1,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quel chanteur québécois a écrit « Mon pays », qui dit « Mon pays, ce n'est pas un pays, c'est l'hiver » ?",
+  "r": "Gilles Vigneault",
+  "d": 3,
+  "t": "Variété francophone"
+ },
+ {
+  "q": "Quelle chanteuse américaine a sorti en 1994 le tube de Noël « All I Want for Christmas Is You » ?",
+  "r": "Mariah Carey",
+  "d": 1,
+  "t": "Pop américaine"
+ },
+ {
+  "q": "Dans quelle rue de Paris se trouve la maison de Serge Gainsbourg, couverte de graffitis ?",
+  "r": "La rue de Verneuil",
+  "d": 3,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Dans quelle ville allemande les Beatles ont-ils fait leurs armes dans des clubs de 1960 à 1962 ?",
+  "r": "Hambourg",
+  "d": 2,
+  "t": "Beatles"
+ },
+ {
+  "q": "Quel saxophoniste soprano américain, installé en France, a composé « Petite Fleur » ?",
+  "r": "Sidney Bechet",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel chanteur britannique est la vedette involontaire du canular Internet appelé « rickroll » ?",
+  "r": "Rick Astley",
+  "d": 1,
+  "t": "Pop britannique"
+ },
+ {
+  "q": "Quelle chanteuse québécoise a créé « Le monde est stone » dans « Starmania » en 1979 ?",
+  "r": "Fabienne Thibeault",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel double album de Jean-Jacques Goldman (1987) contient « Là-bas », en duo avec Sirima ?",
+  "r": "Entre gris clair et gris foncé",
+  "d": 3,
+  "t": "Albums"
+ },
+ {
+  "q": "Quel orgue électrique, souvent associé à une cabine Leslie, a marqué le jazz, la soul et le rock des années 1960 ?",
+  "r": "L'orgue Hammond",
+  "d": 3,
+  "t": "Instruments"
+ },
+ {
+  "q": "Combien de cordes compte une guitare classique standard ?",
+  "r": "6",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel chanteur américain à accroche-cœur a popularisé « Rock Around the Clock » avec ses Comets ?",
+  "r": "Bill Haley",
+  "d": 2,
+  "t": "Rock'n'roll"
+ },
+ {
+  "q": "Quel groupe suédois de hard rock a chanté « The Final Countdown » en 1986 ?",
+  "r": "Europe",
+  "d": 1,
+  "t": "Hard rock"
+ },
+ {
+  "q": "Quel chanteur gitan, vainqueur de « The Voice » en 2014, a chanté « Andalouse » ?",
+  "r": "Kendji Girac",
+  "d": 1,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quel duo de frères rappeurs toulousains a sorti l'album « La Vraie Vie » en 2017 ?",
+  "r": "Bigflo et Oli",
+  "d": 2,
+  "t": "Rap français"
+ },
+ {
+  "q": "Comment Claude François est-il mort en mars 1978 ?",
+  "r": "Électrocuté dans sa baignoire",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel chanteur belge d'origine sicilienne a chanté « Tombe la neige » en 1963 ?",
+  "r": "Salvatore Adamo",
+  "d": 1,
+  "t": "Variété francophone"
+ },
+ {
+  "q": "Quel DJ d'origine jamaïcaine est considéré comme le père fondateur du hip-hop, pour une fête dans le Bronx en 1973 ?",
+  "r": "DJ Kool Herc",
+  "d": 3,
+  "t": "Hip-hop"
+ },
+ {
+  "q": "Quel chanteur français de « Born to Be Alive » (1979) a compté la jeune Madonna parmi ses danseuses ?",
+  "r": "Patrick Hernandez",
+  "d": 2,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel est le véritable prénom de Bono, le chanteur de U2 ?",
+  "r": "Paul",
+  "d": 3,
+  "t": "Noms de scène"
+ },
+ {
+  "q": "Quel chanteur portoricain, ancien membre du groupe Menudo, a chanté « Livin' la Vida Loca » ?",
+  "r": "Ricky Martin",
+  "d": 1,
+  "t": "Pop latino"
+ },
+ {
+  "q": "Quel chanteur américain était surnommé le « King of Pop » ?",
+  "r": "Michael Jackson",
+  "d": 1,
+  "t": "Pop américaine"
+ },
+ {
+  "q": "Quel chanteur brésilien du tropicalisme est devenu ministre de la Culture de son pays en 2003 ?",
+  "r": "Gilberto Gil",
+  "d": 3,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "À quel navigateur disparu en mer en 1978 la chanson « Manureva » d'Alain Chamfort rend-elle hommage ?",
+  "r": "Alain Colas",
+  "d": 2,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel groupe californien, avec le bassiste Flea, a sorti l'album « Californication » en 1999 ?",
+  "r": "Red Hot Chili Peppers",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel chanteur, ancien leader des Commodores, a chanté « Hello » et « All Night Long » ?",
+  "r": "Lionel Richie",
+  "d": 1,
+  "t": "Soul"
+ },
+ {
+  "q": "Quelle chanson Édith Piaf a-t-elle écrite pour Marcel Cerdan, avec les mots « Le ciel bleu sur nous peut s'effondrer » ?",
+  "r": "L'Hymne à l'amour",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel groupe britannique, mené par Chris Martin, a percé en 2000 avec « Yellow » ?",
+  "r": "Coldplay",
+  "d": 1,
+  "t": "Pop-rock britannique"
+ },
+ {
+  "q": "Dans quelle ville du Morbihan se tient chaque été le Festival interceltique ?",
+  "r": "Lorient",
+  "d": 1,
+  "t": "Festivals"
+ },
+ {
+  "q": "Quel impresario surnommé « le Colonel » a géré la carrière d'Elvis Presley ?",
+  "r": "Tom Parker",
+  "d": 3,
+  "t": "Rock'n'roll"
+ },
+ {
+  "q": "Quel chanteur américain d'origine jamaïcaine a popularisé le calypso avec « Banana Boat Song (Day-O) » ?",
+  "r": "Harry Belafonte",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel manager a découvert les Beatles au Cavern Club en 1961 ?",
+  "r": "Brian Epstein",
+  "d": 3,
+  "t": "Beatles"
+ },
+ {
+  "q": "Quelle chanteuse a sorti « La Grenade » en 2018 ?",
+  "r": "Clara Luciani",
+  "d": 2,
+  "t": "Pop française"
+ },
+ {
+  "q": "Quelle chanteuse grecque a remporté l'Eurovision 1972 pour le Luxembourg avec « Après toi » ?",
+  "r": "Vicky Leandros",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "q": "Quelle pédale d'effet pour guitare, au nom imitant le son qu'elle produit, a été popularisée par Jimi Hendrix ?",
+  "r": "La wah-wah",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel musicien extravagant a mené les formations funk Parliament et Funkadelic ?",
+  "r": "George Clinton",
+  "d": 3,
+  "t": "Funk"
+ },
+ {
+  "q": "Quel groupe britannique a chanté « Wonderwall » en 1995 ?",
+  "r": "Oasis",
+  "d": 1,
+  "t": "Pop-rock britannique"
+ },
+ {
+  "q": "Quel chanteur britannique, de son vrai nom Gordon Sumner, doit son surnom à un pull rayé jaune et noir ?",
+  "r": "Sting",
+  "d": 2,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel instrument russe à cordes pincées possède une caisse triangulaire ?",
+  "r": "La balalaïka",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel chanteur a interprété « Et si tu n'existais pas » en 1975 ?",
+  "r": "Joe Dassin",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel chanteur corse a créé « Petit Papa Noël » en 1946 ?",
+  "r": "Tino Rossi",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel ténor né au Pays basque espagnol a chanté « Mexico » en 1951 ?",
+  "r": "Luis Mariano",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quel musicien breton a relancé la harpe celtique dans les années 1970 ?",
+  "r": "Alan Stivell",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel instrument à vent aborigène d'Australie est fait d'une branche d'eucalyptus creusée par les termites ?",
+  "r": "Le didgeridoo",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel chanteur canadien, découvert sur YouTube, a connu un succès mondial avec « Baby » en 2010 ?",
+  "r": "Justin Bieber",
+  "d": 1,
+  "t": "Pop"
+ },
+ {
+  "q": "Quel bassiste de Queen a écrit « Another One Bites the Dust » ?",
+  "r": "John Deacon",
+  "d": 3,
+  "t": "Rock"
+ },
+ {
+  "q": "Quel parolier de « West Side Story » est devenu le compositeur de « Sweeney Todd » ?",
+  "r": "Stephen Sondheim",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quelle chanteuse grecque, reconnaissable à ses lunettes à monture noire, a vendu des millions de disques en France ?",
+  "r": "Nana Mouskouri",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "q": "Quel groupe suédois a chanté « Dancing Queen » en 1976 ?",
+  "r": "ABBA",
+  "d": 1,
+  "t": "Pop européenne"
+ },
+ {
+  "q": "Quel chanteur, célèbre pour son canotier, a chanté « Prosper (Yop la boum) » ?",
+  "r": "Maurice Chevalier",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "q": "Quelle chanteuse écossaise aux cheveux courts formait le duo Eurythmics avec Dave Stewart ?",
+  "r": "Annie Lennox",
+  "d": 1,
+  "t": "Pop britannique"
+ },
+ {
+  "q": "Devant quel quartier d'affaires Jean-Michel Jarre a-t-il donné un concert géant le 14 juillet 1990 ?",
+  "r": "La Défense",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "q": "Quelle artiste belge a chanté « La Bonne du curé » et « Tata Yoyo » ?",
+  "r": "Annie Cordy",
+  "d": 1,
+  "t": "Variété francophone"
+ },
+ {
+  "q": "De quel bluesman une chanson a-t-elle inspiré le nom des Rolling Stones ?",
+  "r": "Muddy Waters",
+  "d": 3,
+  "t": "Noms de groupes"
+ },
+ {
+  "q": "Quelle chanteuse cubaine, reine de la salsa, lançait le cri « ¡Azúcar! » ?",
+  "r": "Celia Cruz",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "De quelle ville anglaise est originaire le groupe Arctic Monkeys ?",
+  "r": "Sheffield",
+  "d": 2,
+  "t": "Pop-rock britannique"
+ },
+ {
+  "q": "De quel instrument indien à cordes Ravi Shankar était-il le maître ?",
+  "r": "Le sitar",
+  "d": 1,
+  "t": "Instruments"
+ }
+]
