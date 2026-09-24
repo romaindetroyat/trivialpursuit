@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel dieu grec de la lumière, de la musique et de la poésie est le frère jumeau d'Artémis ?",
+  "r": "Apollon",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle déesse grecque, épouse jalouse de Zeus, protège le mariage ?",
+  "r": "Héra",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel dieu grec de la guerre, brutal et sanguinaire, est l'amant d'Aphrodite ?",
+  "r": "Arès",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel fruit Perséphone a-t-elle goûté aux Enfers, ce qui l'oblige à y revenir chaque année ?",
+  "r": "La grenade",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle divinité grecque primordiale personnifie la Terre mère ?",
+  "r": "Gaïa",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle Muse préside à la poésie épique et à l'éloquence ?",
+  "r": "Calliope",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelles divinités vengeresses, appelées Furies par les Romains, poursuivent Oreste après le meurtre de sa mère ?",
+  "r": "Les Érinyes",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle déesse grecque de la juste colère divine punit l'orgueil démesuré des mortels ?",
+  "r": "Némésis",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle déesse ailée de la Victoire a donné son nom à une célèbre marque d'articles de sport ?",
+  "r": "Niké",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel dieu grec des songes a donné son nom à un puissant antidouleur tiré de l'opium ?",
+  "r": "Morphée",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel maître des vents offre à Ulysse une outre renfermant les vents contraires ?",
+  "r": "Éole",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle mortelle, aimée d'Éros, n'avait pas le droit de voir le visage de son époux ?",
+  "r": "Psyché",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel dieu grec mi-homme mi-bouc, aux cris effrayants, a donné son nom au mot « panique » ?",
+  "r": "Pan",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel sage centaure fut le précepteur d'Achille, de Jason et d'Asclépios ?",
+  "r": "Chiron",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Dans quel fleuve des Enfers Achille fut-il plongé enfant pour le rendre invulnérable ?",
+  "r": "Le Styx",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle néréide est la mère d'Achille ?",
+  "r": "Thétis",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel roi de Sparte est l'époux d'Hélène, dont l'enlèvement déclenche la guerre de Troie ?",
+  "r": "Ménélas",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel vieux roi de Troie, père d'Hector et de Pâris, vient supplier Achille de lui rendre le corps de son fils ?",
+  "r": "Priam",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle est la réponse à l'énigme du Sphinx : « Qui marche à quatre pattes le matin, à deux à midi et à trois le soir ? » ?",
+  "r": "L'homme",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle reine, épouse d'Agamemnon, est tuée par son propre fils Oreste ?",
+  "r": "Clytemnestre",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel fauve à la peau impénétrable Héraclès doit-il étouffer lors de son premier travail ?",
+  "r": "Le lion de Némée",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel vêtement empoisonné, offert par son épouse Déjanire, cause la mort d'Héraclès ?",
+  "r": "La tunique de Nessus",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel détroit était désigné dans l'Antiquité sous le nom de « colonnes d'Hercule » ?",
+  "r": "Le détroit de Gibraltar",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel roi d'Athènes se jeta dans la mer, qui porte depuis son nom, en voyant revenir les voiles noires de son fils ?",
+  "r": "Égée",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel monstre cracheur de feu, lion, chèvre et serpent à la fois, Bellérophon tua-t-il sur le dos de Pégase ?",
+  "r": "La Chimère",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Comment s'appelait le navire de Jason et de ses compagnons partis chercher la Toison d'or ?",
+  "r": "L'Argo",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelles sœurs, meurtrières de leurs maris le soir des noces, sont condamnées aux Enfers à remplir sans fin un tonneau percé ?",
+  "r": "Les Danaïdes",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel devin aveugle de Thèbes révèle à Œdipe la vérité sur ses crimes ?",
+  "r": "Tirésias",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle tisseuse lydienne, trop fière de son talent, fut changée en araignée par Athéna ?",
+  "r": "Arachné",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle princesse phénicienne, enlevée par Zeus changé en taureau blanc, a donné son nom à un continent ?",
+  "r": "Europe",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Sous la forme de quel oiseau Zeus séduisit-il Léda ?",
+  "r": "Un cygne",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Comment s'appelle le bâton ailé entouré de deux serpents que porte Hermès ?",
+  "r": "Le caducée",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Dans quel sanctuaire la maxime « Connais-toi toi-même » était-elle gravée sur le temple d'Apollon ?",
+  "r": "Delphes",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle chasseresse à la course imbattable fut vaincue par un prétendant qui laissa tomber trois pommes d'or ?",
+  "r": "Atalante",
+  "d": 3,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel vieux couple, seul à accueillir Zeus et Hermès déguisés, fut changé à sa mort en chêne et en tilleul ?",
+  "r": "Philémon et Baucis",
+  "d": 3,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel est le nom romain de Dionysos, dieu du vin ?",
+  "r": "Bacchus",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel est le nom romain d'Artémis, déesse de la chasse ?",
+  "r": "Diane",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu romain des Enfers a donné son nom à une ancienne neuvième planète ?",
+  "r": "Pluton",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quelle déesse romaine des moissons a donné son nom aux céréales ?",
+  "r": "Cérès",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "En l'honneur de quel dieu les Romains célébraient-ils en décembre des fêtes où les esclaves étaient servis par leurs maîtres ?",
+  "r": "Saturne",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quelle déesse romaine, épouse de Jupiter, aurait donné son nom au mois de juin ?",
+  "r": "Junon",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quelle nymphe conseillère du roi Numa a donné un nom commun désignant une inspiratrice ?",
+  "r": "Égérie",
+  "d": 2,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Comment s'appelle le domaine céleste des dieux Ases dans la mythologie nordique ?",
+  "r": "Asgard",
+  "d": 1,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel serpent géant, enfant de Loki, entoure le monde des hommes en se mordant la queue ?",
+  "r": "Jörmungand",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel dieu nordique veille sur le pont Bifröst et doit sonner du cor pour annoncer la fin du monde ?",
+  "r": "Heimdall",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel dieu nordique de la guerre perdit une main dans la gueule du loup Fenrir ?",
+  "r": "Tyr",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quelle déesse nordique de l'amour et de la fertilité voyage sur un char tiré par deux chats ?",
+  "r": "Freyja",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quelle fille de Loki, au visage mi-vivant mi-cadavre, règne sur le royaume des morts ?",
+  "r": "Hel",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Comment appelle-t-on les trois fileuses de la mythologie nordique qui tissent le destin au pied d'Yggdrasil ?",
+  "r": "Les Nornes",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel nom porte le recueil islandais médiéval qui rassemble l'essentiel de la mythologie nordique ?",
+  "r": "L'Edda",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel géant primordial fut tué par Odin et ses frères, son corps servant à façonner le monde ?",
+  "r": "Ymir",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel grand dieu de Thèbes, dont le nom signifie « le caché », fut associé au dieu solaire Rê ?",
+  "r": "Amon",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle déesse égyptienne de l'amour et de la musique est souvent représentée en vache ou avec des cornes ?",
+  "r": "Hathor",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle déesse égyptienne à tête de lionne incarne la fureur destructrice du soleil ?",
+  "r": "Sekhmet",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Lors de la pesée du cœur, à quoi le cœur du défunt est-il comparé sur la balance ?",
+  "r": "Une plume",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel hiéroglyphe en forme de croix surmontée d'une boucle symbolise la vie en Égypte ancienne ?",
+  "r": "L'ânkh",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Comment appelle-t-on l'œil d'Horus, amulette protectrice très répandue en Égypte ancienne ?",
+  "r": "L'oudjat",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel recueil de formules magiques était placé dans les tombes égyptiennes pour guider le défunt dans l'au-delà ?",
+  "r": "Le Livre des morts",
+  "d": 1,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle déesse mésopotamienne de l'amour et de la guerre a donné son nom à une porte de Babylone reconstituée à Berlin ?",
+  "r": "Ishtar",
+  "d": 2,
+  "t": "Mythologie mésopotamienne"
+ },
+ {
+  "q": "De quelle cité de Mésopotamie le héros Gilgamesh était-il le roi ?",
+  "r": "Uruk",
+  "d": 3,
+  "t": "Mythologie mésopotamienne"
+ },
+ {
+  "q": "Quel dieu celte, maître de tous les arts, aurait donné son nom à Lugdunum, l'actuelle Lyon ?",
+  "r": "Lug",
+  "d": 2,
+  "t": "Mythologie celte"
+ },
+ {
+  "q": "Quel dieu gaulois est représenté assis en tailleur, la tête ornée de bois de cerf ?",
+  "r": "Cernunnos",
+  "d": 3,
+  "t": "Mythologie celte"
+ },
+ {
+  "q": "Quelle déesse gauloise protégeait les chevaux et les cavaliers ?",
+  "r": "Épona",
+  "d": 2,
+  "t": "Mythologie celte"
+ },
+ {
+  "q": "Selon Pline l'Ancien, avec quel instrument les druides cueillaient-ils le gui ?",
+  "r": "Une serpe d'or",
+  "d": 2,
+  "t": "Mythologie celte"
+ },
+ {
+  "q": "Quel héros irlandais du cycle d'Ulster doit son nom au chien de garde qu'il tua dans son enfance ?",
+  "r": "Cúchulainn",
+  "d": 3,
+  "t": "Mythologie celte"
+ },
+ {
+  "q": "Quel dieu hindou à tête d'éléphant est invoqué pour lever les obstacles ?",
+  "r": "Ganesh",
+  "d": 1,
+  "t": "Mythologie hindoue"
+ },
+ {
+  "q": "Quel dieu hindou, destructeur et régénérateur, est souvent représenté dansant dans un cercle de flammes ?",
+  "r": "Shiva",
+  "d": 1,
+  "t": "Mythologie hindoue"
+ },
+ {
+  "q": "De quel dieu hindou Rama et Krishna sont-ils des avatars ?",
+  "r": "Vishnu",
+  "d": 2,
+  "t": "Mythologie hindoue"
+ },
+ {
+  "q": "Quel dieu-singe, fidèle allié de Rama, franchit la mer d'un bond pour retrouver Sita ?",
+  "r": "Hanuman",
+  "d": 2,
+  "t": "Mythologie hindoue"
+ },
+ {
+  "q": "Quelle déesse du soleil, ancêtre mythique de la famille impériale japonaise, se cacha dans une grotte, plongeant le monde dans le noir ?",
+  "r": "Amaterasu",
+  "d": 2,
+  "t": "Mythologie japonaise"
+ },
+ {
+  "q": "Quel couple divin de la mythologie japonaise a créé l'archipel en remuant l'océan avec une lance ?",
+  "r": "Izanagi et Izanami",
+  "d": 3,
+  "t": "Mythologie japonaise"
+ },
+ {
+  "q": "Quel dieu aztèque est connu sous le nom de « serpent à plumes » ?",
+  "r": "Quetzalcoatl",
+  "d": 1,
+  "t": "Mythologies d'Amérique"
+ },
+ {
+  "q": "Quel dieu aztèque du soleil et de la guerre aurait guidé les Mexicas jusqu'au site de Tenochtitlan ?",
+  "r": "Huitzilopochtli",
+  "d": 3,
+  "t": "Mythologies d'Amérique"
+ },
+ {
+  "q": "Quel dieu du soleil était vénéré par les Incas comme l'ancêtre de leurs souverains ?",
+  "r": "Inti",
+  "d": 2,
+  "t": "Mythologies d'Amérique"
+ },
+ {
+  "q": "Combien d'animaux compte le cycle du zodiaque chinois ?",
+  "r": "Douze",
+  "d": 1,
+  "t": "Mythologie chinoise"
+ },
+ {
+  "q": "Quel conte d'Andersen raconte le voyage de la petite Gerda pour délivrer son ami Kay, au cœur de glace ?",
+  "r": "La Reine des neiges",
+  "d": 2,
+  "t": "Contes"
+ },
+ {
+  "q": "Dans un conte d'Andersen, quel minuscule objet placé sous vingt matelas prouve qu'une jeune fille est une vraie princesse ?",
+  "r": "Un pois",
+  "d": 1,
+  "t": "Contes"
+ },
+ {
+  "q": "Dans quel conte d'Andersen un enfant s'écrie-t-il que le souverain ne porte rien du tout ?",
+  "r": "Les Habits neufs de l'empereur",
+  "d": 2,
+  "t": "Contes"
+ },
+ {
+  "q": "Quel conte d'Andersen raconte la mort d'une fillette pauvre qui gratte ses allumettes un soir de Nouvel An ?",
+  "r": "La Petite Fille aux allumettes",
+  "d": 1,
+  "t": "Contes"
+ },
+ {
+  "q": "Quel jouet d'Andersen, qui n'a qu'une jambe, tombe amoureux d'une danseuse de papier ?",
+  "r": "Le soldat de plomb",
+  "d": 2,
+  "t": "Contes"
+ },
+ {
+  "q": "Quelle jeune fille enfermée dans une tour sans porte laisse pendre sa longue chevelure pour qu'on y grimpe ?",
+  "r": "Raiponce",
+  "d": 1,
+  "t": "Contes"
+ },
+ {
+  "q": "Dans quelle ville allemande un joueur de flûte, mal payé pour l'avoir débarrassée des rats, emmène-t-il les enfants ?",
+  "r": "Hamelin",
+  "d": 2,
+  "t": "Contes"
+ },
+ {
+  "q": "Dans quelle ville l'âne, le chien, le chat et le coq du conte de Grimm veulent-ils devenir musiciens ?",
+  "r": "Brême",
+  "d": 2,
+  "t": "Contes"
+ },
+ {
+  "q": "Dans un conte de Grimm, quel nain qui file la paille en or exige le premier-né de la reine, sauf si elle devine son nom ?",
+  "r": "Tracassin (Rumpelstilzchen)",
+  "d": 3,
+  "t": "Contes"
+ },
+ {
+  "q": "Dans « Hansel et Gretel », où Gretel pousse-t-elle la sorcière pour s'en débarrasser ?",
+  "r": "Dans le four",
+  "d": 2,
+  "t": "Contes"
+ }
+]

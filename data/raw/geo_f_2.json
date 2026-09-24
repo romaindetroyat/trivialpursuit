@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel quartier de Los Angeles est devenu le symbole de l'industrie du cinéma américain ?",
+  "r": "Hollywood",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Dans quel État américain se trouve la ville de Chicago ?",
+  "r": "L'Illinois",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel surnom donne-t-on à la région du sud de la baie de San Francisco où se concentrent les géants de l'informatique ?",
+  "r": "La Silicon Valley",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel est le seul des cinq boroughs de New York situé principalement sur le continent ?",
+  "r": "Le Bronx",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel est le seul point des États-Unis où se rejoignent quatre États, l'Arizona, l'Utah, le Colorado et le Nouveau-Mexique ?",
+  "r": "Four Corners",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel affluent du Mississippi est la plus longue rivière des États-Unis ?",
+  "r": "Le Missouri",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle rivière, née à Pittsburgh de la rencontre de l'Allegheny et de la Monongahela, rejoint le Mississippi ?",
+  "r": "L'Ohio",
+  "d": 3,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel désert du sud-ouest des États-Unis, où pousse l'arbre de Josué, abrite la Vallée de la Mort ?",
+  "r": "Le désert des Mojaves",
+  "d": 2,
+  "t": "Déserts"
+ },
+ {
+  "q": "Quelle grande chaîne de montagnes s'étend de l'ouest du Canada jusqu'au Nouveau-Mexique ?",
+  "r": "Les montagnes Rocheuses",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel parc national de Floride protège une immense zone marécageuse peuplée d'alligators ?",
+  "r": "Les Everglades",
+  "d": 1,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quel parc national de l'Utah est célèbre pour son amphithéâtre de « hoodoos », cheminées de fées orangées ?",
+  "r": "Bryce Canyon",
+  "d": 3,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Dans quel parc national de Californie se dresse le General Sherman, le plus grand arbre du monde en volume ?",
+  "r": "Le parc national de Sequoia",
+  "d": 2,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quel parc des Rocheuses, créé en 1885 en Alberta, est le plus ancien parc national du Canada ?",
+  "r": "Banff",
+  "d": 2,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quel archipel volcanique de l'Alaska s'étire vers le Kamtchatka ?",
+  "r": "Les îles Aléoutiennes",
+  "d": 2,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle île de la baie de New York fut la porte d'entrée des immigrants entre 1892 et 1954 ?",
+  "r": "Ellis Island",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle ville est la capitale fédérale du Canada ?",
+  "r": "Ottawa",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle rivière, affluent du Saint-Laurent, marque sur une grande partie de son cours la limite entre le Québec et l'Ontario ?",
+  "r": "La rivière des Outaouais",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle est la province la plus peuplée du Canada ?",
+  "r": "L'Ontario",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle province canadienne a pour capitale Victoria ?",
+  "r": "La Colombie-Britannique",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle est la plus petite province du Canada ?",
+  "r": "L'Île-du-Prince-Édouard",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle est la seule province canadienne officiellement bilingue français-anglais ?",
+  "r": "Le Nouveau-Brunswick",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle province a été la dernière à rejoindre la Confédération canadienne, en 1949 ?",
+  "r": "Terre-Neuve-et-Labrador",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel territoire du nord-ouest canadien, dont la capitale est Whitehorse, a connu la ruée vers l'or du Klondike ?",
+  "r": "Le Yukon",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle ville, fondée en 1942 au bord de la baie de Frobisher, est la capitale du Nunavut ?",
+  "r": "Iqaluit",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle région francophone de l'est du Canada vit ses habitants déportés par les Britanniques lors du « Grand Dérangement » de 1755 ?",
+  "r": "L'Acadie",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel fleuve, le plus long du Canada, se jette dans l'océan Arctique ?",
+  "r": "Le Mackenzie",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel lac des Territoires du Nord-Ouest est le plus grand lac entièrement situé au Canada ?",
+  "r": "Le Grand lac de l'Ours",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle station balnéaire mexicaine est célèbre pour ses plongeurs qui sautent des falaises de la Quebrada ?",
+  "r": "Acapulco",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel est le plus vaste État du Mexique, qui a donné son nom à une race de très petits chiens ?",
+  "r": "Le Chihuahua",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Comment appelle-t-on les puits naturels d'eau douce du Yucatán, sacrés pour les anciens Mayas ?",
+  "r": "Les cenotes",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel pays d'Amérique centrale a pour capitale San José ?",
+  "r": "Le Costa Rica",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel est le plus petit pays d'Amérique centrale par la superficie ?",
+  "r": "Le Salvador",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle est la capitale de Cuba ?",
+  "r": "La Havane",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle île des Grandes Antilles a pour capitale Kingston ?",
+  "r": "La Jamaïque",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel archipel de l'Atlantique, au nord de Cuba, a pour capitale Nassau ?",
+  "r": "Les Bahamas",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle île des Caraïbes, territoire associé aux États-Unis, a pour capitale San Juan ?",
+  "r": "Porto Rico",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel pays des Caraïbes a pour capitale Port-au-Prince ?",
+  "r": "Haïti",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle île forme avec Trinité un même État des Caraïbes ?",
+  "r": "Tobago",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelles îles des Caraïbes néerlandaises, au large du Venezuela, sont surnommées les « îles ABC » ?",
+  "r": "Aruba, Bonaire et Curaçao",
+  "d": 2,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle est la capitale du Venezuela ?",
+  "r": "Caracas",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel grand fleuve du Venezuela se jette dans l'Atlantique par un vaste delta ?",
+  "r": "L'Orénoque",
+  "d": 1,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Comment appelle-t-on les hauts plateaux tabulaires aux parois verticales du Venezuela, dont le Roraima ?",
+  "r": "Les tepuys",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Comment appelle-t-on les vastes plaines herbeuses du Venezuela et de la Colombie traversées par l'Orénoque ?",
+  "r": "Les Llanos",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle est la capitale de la Colombie ?",
+  "r": "Bogota",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville colombienne est surnommée « la ville de l'éternel printemps » ?",
+  "r": "Medellín",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle capitale andine, perchée à environ 2 850 m, se trouve tout près de la ligne de l'équateur ?",
+  "r": "Quito",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville, principal port de l'Équateur, en est aussi la ville la plus peuplée ?",
+  "r": "Guayaquil",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle capitale sud-américaine fut fondée par Francisco Pizarro en 1535 ?",
+  "r": "Lima",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel pays d'Amérique du Sud a pour capitale Montevideo ?",
+  "r": "L'Uruguay",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel pays enclavé d'Amérique du Sud a pour capitale Asunción ?",
+  "r": "Le Paraguay",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle est la capitale du Chili ?",
+  "r": "Santiago",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville portuaire chilienne est célèbre pour ses maisons colorées accrochées aux collines et ses funiculaires ?",
+  "r": "Valparaíso",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Dans quel archipel chilien du Pacifique se trouve l'île rebaptisée « Robinson Crusoé » ?",
+  "r": "L'archipel Juan Fernández",
+  "d": 3,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel parc national de la Patagonie chilienne est célèbre pour ses « tours » de granit ?",
+  "r": "Torres del Paine",
+  "d": 2,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quel glacier argentin de Patagonie, près d'El Calafate, est célèbre pour ses spectaculaires effondrements ?",
+  "r": "Le Perito Moreno",
+  "d": 2,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quelle ville argentine, capitale de la Terre de Feu, se présente comme « la ville du bout du monde » ?",
+  "r": "Ushuaïa",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel immense désert de sel bolivien est le plus grand du monde ?",
+  "r": "Le salar d'Uyuni",
+  "d": 1,
+  "t": "Déserts"
+ },
+ {
+  "q": "Quelle ville du nord-est du Brésil, capitale du Pernambouc, est surnommée « la Venise brésilienne » ?",
+  "r": "Recife",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle rivière aux eaux sombres rencontre le Solimões près de Manaus pour former l'Amazone ?",
+  "r": "Le rio Negro",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle immense plaine inondable, partagée entre le Brésil, la Bolivie et le Paraguay, est la plus vaste zone humide tropicale du monde ?",
+  "r": "Le Pantanal",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel est le plus vaste pays d'Amérique du Sud ?",
+  "r": "Le Brésil",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel pays d'Amérique du Sud, dont l'anglais est la langue officielle, a pour capitale Georgetown ?",
+  "r": "Le Guyana",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Comment appelle-t-on les cavaliers gardiens de troupeaux de la pampa argentine ?",
+  "r": "Les gauchos",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quel peuple autochtone vit principalement dans le sud du Chili et de l'Argentine ?",
+  "r": "Les Mapuches",
+  "d": 2,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quelle nation amérindienne possède la plus vaste réserve des États-Unis, à cheval sur l'Arizona, l'Utah et le Nouveau-Mexique ?",
+  "r": "Les Navajos",
+  "d": 2,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Comment appelle-t-on les villages d'adobe des Amérindiens du sud-ouest des États-Unis, comme celui de Taos ?",
+  "r": "Les pueblos",
+  "d": 3,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quelle communauté religieuse de Pennsylvanie refuse l'essentiel des technologies modernes et se déplace en calèche ?",
+  "r": "Les Amish",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Comment appelle-t-on les descendants des Acadiens installés en Louisiane ?",
+  "r": "Les Cajuns",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quelle ville australienne est la capitale de la Nouvelle-Galles du Sud ?",
+  "r": "Sydney",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel est le plus grand lac d'Amérique centrale ?",
+  "r": "Le lac Nicaragua",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quel État australien a pour capitale Brisbane ?",
+  "r": "Le Queensland",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle ville est la capitale de l'Australie-Occidentale ?",
+  "r": "Perth",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville, qui porte le nom d'un célèbre naturaliste, est la capitale du Territoire du Nord australien ?",
+  "r": "Darwin",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville est la capitale de la Tasmanie ?",
+  "r": "Hobart",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel lac salé, point le plus bas d'Australie, ne se remplit que rarement ?",
+  "r": "Le lac Eyre (Kati Thanda)",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel désert australien porte le nom d'une reine britannique ?",
+  "r": "Le Grand désert de Victoria",
+  "d": 3,
+  "t": "Déserts"
+ },
+ {
+  "q": "Quelle longue chaîne de montagnes longe la côte est de l'Australie ?",
+  "r": "La Cordillère australienne",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel parc national du Territoire du Nord australien est célèbre pour ses peintures rupestres aborigènes et ses zones humides ?",
+  "r": "Kakadu",
+  "d": 2,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Comment appelle-t-on les premiers habitants de l'Australie ?",
+  "r": "Les Aborigènes",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quel long instrument à vent en bois, creusé par les termites, est traditionnel chez les Aborigènes du nord de l'Australie ?",
+  "r": "Le didgeridoo",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quels piliers calcaires se dressent dans la mer le long de la Great Ocean Road, dans l'État de Victoria ?",
+  "r": "Les Douze Apôtres",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle île du Queensland, aujourd'hui appelée K'gari, est la plus grande île de sable du monde ?",
+  "r": "L'île Fraser",
+  "d": 3,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel marsupial figure avec l'émeu sur les armoiries de l'Australie ?",
+  "r": "Le kangourou",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel oiseau incapable de voler est l'emblème de la Nouvelle-Zélande et a donné leur surnom à ses habitants ?",
+  "r": "Le kiwi",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle plante, dont le revers des feuilles est argenté, est un emblème de la Nouvelle-Zélande ?",
+  "r": "La fougère argentée",
+  "d": 2,
+  "t": "Symboles nationaux"
+ }
+]

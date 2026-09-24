@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Comment appelle-t-on une pointe de terre qui s'avance dans la mer ?",
+  "r": "Un cap",
+  "d": 1,
+  "t": "Vocabulaire géographique"
+ },
+ {
+  "q": "Comment appelle-t-on les lignes imaginaires qui relient le pôle Nord au pôle Sud ?",
+  "r": "Les méridiens",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on les cercles imaginaires tracés sur le globe parallèlement à l'équateur ?",
+  "r": "Les parallèles",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Sur une carte au 1/25 000, quelle distance réelle représente un centimètre ?",
+  "r": "250 m",
+  "d": 2,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on les lignes qui relient sur une carte les points de même altitude ?",
+  "r": "Les courbes de niveau",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on la figure indiquant les points cardinaux sur une carte ou une boussole ?",
+  "r": "La rose des vents",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Quel cartographe flamand a donné son nom à la projection qu'il publia en 1569 ?",
+  "r": "Gérard Mercator",
+  "d": 2,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Quelle projection cartographique, présentée en 1973, respecte les surfaces et fut popularisée pour contester celle de Mercator ?",
+  "r": "La projection de Peters",
+  "d": 3,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on une carte représentant la totalité du globe terrestre à plat ?",
+  "r": "Un planisphère",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on l'étude de l'origine des noms de lieux ?",
+  "r": "La toponymie",
+  "d": 2,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on le point du globe diamétralement opposé à un autre ?",
+  "r": "Les antipodes",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Quel adjectif désigne ce qui se rapporte à l'hémisphère Sud ?",
+  "r": "Austral",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Comment appelle-t-on, dans l'hémisphère Nord, le jour le plus long de l'année, vers le 21 juin ?",
+  "r": "Le solstice d'été",
+  "d": 1,
+  "t": "Cartographie"
+ },
+ {
+  "q": "Quel terme, popularisé par le géographe français Jean Gottmann, désigne l'immense région urbaine continue de Boston à Washington ?",
+  "r": "Une mégalopole",
+  "d": 2,
+  "t": "Géographie humaine"
+ },
+ {
+  "q": "Comment appelle-t-on le départ massif des habitants des campagnes vers les villes ?",
+  "r": "L'exode rural",
+  "d": 1,
+  "t": "Géographie humaine"
+ },
+ {
+  "q": "Comment appelle-t-on les quartiers d'habitat précaire à flanc de colline des grandes villes brésiliennes ?",
+  "r": "Les favelas",
+  "d": 1,
+  "t": "Géographie humaine"
+ },
+ {
+  "q": "Comment appelle-t-on un territoire entièrement entouré par un autre État ?",
+  "r": "Une enclave",
+  "d": 1,
+  "t": "Géographie humaine"
+ },
+ {
+  "q": "Comment appelle-t-on la science qui étudie les populations humaines, leur taille et leur évolution ?",
+  "r": "La démographie",
+  "d": 1,
+  "t": "Géographie humaine"
+ },
+ {
+  "q": "Quelle religion est pratiquée par la grande majorité des Thaïlandais ?",
+  "r": "Le bouddhisme",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Quelle religion traditionnelle japonaise rend un culte aux kami ?",
+  "r": "Le shintoïsme",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Quelle confession chrétienne est majoritaire aux Philippines ?",
+  "r": "Le catholicisme",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Dans quelle ville de l'État indien du Bihar Bouddha aurait-il atteint l'Éveil ?",
+  "r": "Bodh-Gaya",
+  "d": 3,
+  "t": "Religions"
+ },
+ {
+  "q": "Quelle religion est pratiquée par la majorité des habitants de l'Inde ?",
+  "r": "L'hindouisme",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "q": "Quel peuple autochtone du Japon vit principalement sur l'île d'Hokkaido ?",
+  "r": "Les Aïnous",
+  "d": 2,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quelle ethnie représente plus de 90 % de la population de la Chine ?",
+  "r": "Les Hans",
+  "d": 2,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Comment appelle-t-on les nomades arabes des déserts du Moyen-Orient ?",
+  "r": "Les Bédouins",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Quel peuple de l'Himalaya népalais est réputé pour ses porteurs et guides de haute montagne ?",
+  "r": "Les Sherpas",
+  "d": 1,
+  "t": "Peuples et cultures"
+ },
+ {
+  "q": "Comment appelle-t-on les marches qui descendent vers le Gange à Varanasi ?",
+  "r": "Les ghats",
+  "d": 2,
+  "t": "Géographie humaine"
+ },
+ {
+  "q": "Quelle langue, officielle en Inde avec l'anglais, est la plus parlée du pays ?",
+  "r": "L'hindi",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle écriture sert à noter le sanskrit et l'hindi ?",
+  "r": "La devanagari",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue est la langue nationale du Pakistan ?",
+  "r": "L'ourdou",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue dravidienne est officielle à la fois dans l'État indien du Tamil Nadu et au Sri Lanka ?",
+  "r": "Le tamoul",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quel jésuite avignonnais a contribué au XVIIe siècle à la transcription du vietnamien en alphabet latin ?",
+  "r": "Alexandre de Rhodes",
+  "d": 3,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue est la plus parlée au monde comme langue maternelle ?",
+  "r": "Le mandarin",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quel système de transcription du chinois en alphabet latin fut adopté officiellement par la Chine en 1958 ?",
+  "r": "Le pinyin",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue chinoise est principalement parlée à Hong Kong et à Guangzhou ?",
+  "r": "Le cantonais",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quel alphabet coréen fut créé au XVe siècle sous le règne du roi Sejong ?",
+  "r": "Le hangeul",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Comment appelle-t-on les caractères d'origine chinoise utilisés dans l'écriture japonaise ?",
+  "r": "Les kanjis",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle écriture syllabique japonaise sert surtout à transcrire les mots d'origine étrangère ?",
+  "r": "Les katakanas",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Dans quel sens s'écrit la langue arabe ?",
+  "r": "De droite à gauche",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Dans quel pays parle-t-on principalement le dari et le pachto ?",
+  "r": "L'Afghanistan",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue polynésienne est devenue en 1987 langue officielle de la Nouvelle-Zélande ?",
+  "r": "Le maori",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue créole à base d'anglais est l'une des langues officielles de la Papouasie-Nouvelle-Guinée ?",
+  "r": "Le tok pisin",
+  "d": 3,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue inuite est l'unique langue officielle du Groenland depuis 2009 ?",
+  "r": "Le groenlandais (kalaallisut)",
+  "d": 3,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue est parlée par les Inuits du Nunavut ?",
+  "r": "L'inuktitut",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue est, avec le français, langue officielle d'Haïti ?",
+  "r": "Le créole haïtien",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue, celle de l'Empire inca, est encore parlée par des millions de personnes dans les Andes ?",
+  "r": "Le quechua",
+  "d": 1,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quelle langue amérindienne, officielle au Paraguay, est parlée par la majorité de ses habitants ?",
+  "r": "Le guarani",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "De quelle langue aztèque viennent les mots français « chocolat » et « tomate » ?",
+  "r": "Le nahuatl",
+  "d": 2,
+  "t": "Langues et écritures"
+ },
+ {
+  "q": "Quel pays a une feuille d'érable rouge au centre de son drapeau ?",
+  "r": "Le Canada",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel pays a pour drapeau un disque rouge sur fond blanc, surnommé Hinomaru ?",
+  "r": "Le Japon",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle roue à 24 rayons figure au centre du drapeau indien ?",
+  "r": "La roue d'Ashoka (chakra)",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel pays d'Asie a pour drapeau une étoile jaune sur fond rouge ?",
+  "r": "Le Viêt Nam",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel surnom français donne-t-on au drapeau des États-Unis ?",
+  "r": "La bannière étoilée",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle devise est inscrite sur la bande blanche du drapeau brésilien ?",
+  "r": "« Ordem e Progresso »",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel pays a sur son drapeau un aigle, perché sur un cactus, dévorant un serpent ?",
+  "r": "Le Mexique",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel astre à visage humain orne le centre du drapeau argentin ?",
+  "r": "Le soleil (Soleil de Mai)",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel symbole rouge et bleu, lié au yin et au yang, occupe le centre du drapeau sud-coréen ?",
+  "r": "Le taegeuk",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel pays d'Asie est le seul au monde dont le drapeau national n'est pas rectangulaire ?",
+  "r": "Le Népal",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel monument figure sur le drapeau du Cambodge ?",
+  "r": "Angkor Vat",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle constellation figure à la fois sur les drapeaux de l'Australie et de la Nouvelle-Zélande ?",
+  "r": "La Croix du Sud",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Combien d'étoiles compte le drapeau des États-Unis depuis 1960 ?",
+  "r": "50",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel rapace est l'emblème national des États-Unis ?",
+  "r": "Le pygargue à tête blanche",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle est la monnaie de la Chine ?",
+  "r": "Le yuan (renminbi)",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel rongeur bâtisseur de barrages est l'un des emblèmes officiels du Canada ?",
+  "r": "Le castor",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel hymne national a été composé en 1880 par Calixa Lavallée, sur des paroles d'abord écrites en français ?",
+  "r": "« Ô Canada »",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel est le titre de l'hymne national des États-Unis ?",
+  "r": "The Star-Spangled Banner",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle est la monnaie du Japon ?",
+  "r": "Le yen",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle est la monnaie de la Corée du Sud ?",
+  "r": "Le won",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle est la monnaie de l'Inde ?",
+  "r": "La roupie",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle monnaie a été introduite au Brésil en 1994 ?",
+  "r": "Le real",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle est la monnaie du Viêt Nam ?",
+  "r": "Le dong",
+  "d": 3,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel oiseau aux longues plumes vertes, emblème du Guatemala, a donné son nom à la monnaie du pays ?",
+  "r": "Le quetzal",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle monnaie vénézuélienne porte le nom d'un héros de l'indépendance sud-américaine ?",
+  "r": "Le bolivar",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Rio de Janeiro ?",
+  "r": "Les Cariocas",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Buenos Aires ?",
+  "r": "Les Porteños",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Mayotte ?",
+  "r": "Les Mahorais",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de l'île de Saint-Pierre, dans l'archipel français voisin de Terre-Neuve ?",
+  "r": "Les Saint-Pierrais",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de la Nouvelle-Écosse ?",
+  "r": "Les Néo-Écossais",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants du Nouveau-Brunswick ?",
+  "r": "Les Néo-Brunswickois",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Singapour ?",
+  "r": "Les Singapouriens",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Quel parc national népalais, inscrit à l'UNESCO, englobe le versant sud de l'Everest ?",
+  "r": "Sagarmatha",
+  "d": 3,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quelle immense mangrove du delta du Gange, partagée entre l'Inde et le Bangladesh, est le refuge du tigre du Bengale ?",
+  "r": "Les Sundarbans",
+  "d": 2,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quel parc national de l'Assam abrite la plus grande population de rhinocéros indiens ?",
+  "r": "Kaziranga",
+  "d": 3,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quel parc national des Rocheuses canadiennes, voisin de Banff, abrite le glacier Athabasca ?",
+  "r": "Jasper",
+  "d": 3,
+  "t": "Parcs naturels"
+ }
+]

@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle est la plus septentrionale des quatre grandes îles du Japon ?",
+  "r": "Hokkaido",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle ville japonaise, hôte des Jeux olympiques d'hiver de 1972, est la capitale de l'île d'Hokkaido ?",
+  "r": "Sapporo",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle est la plus méridionale des quatre grandes îles du Japon, où se trouvent Fukuoka et Kagoshima ?",
+  "r": "Kyushu",
+  "d": 2,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle est la plus petite des quatre grandes îles du Japon ?",
+  "r": "Shikoku",
+  "d": 3,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle grande ville japonaise était surnommée autrefois « la cuisine de la nation » pour son rôle dans le commerce du riz ?",
+  "r": "Osaka",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle grande ville portuaire, voisine de Tokyo, abrite le plus grand quartier chinois du Japon ?",
+  "r": "Yokohama",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville japonaise abrite le dôme de Genbaku, ruine conservée en mémoire de la bombe atomique de 1945 ?",
+  "r": "Hiroshima",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle mer intérieure japonaise, parsemée de centaines d'îles, sépare Honshu de Shikoku et de Kyushu ?",
+  "r": "La mer intérieure de Seto",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle ville indienne, capitale du Bengale-Occidental, fut la capitale des Indes britanniques jusqu'en 1911 ?",
+  "r": "Calcutta (Kolkata)",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville indienne, capitale du Karnataka, est surnommée « la Silicon Valley de l'Inde » ?",
+  "r": "Bangalore (Bengaluru)",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel État du sud-ouest de l'Inde, sur la côte de Malabar, est réputé pour ses « backwaters » parcourues en bateau-maison ?",
+  "r": "Le Kerala",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle grande métropole chinoise s'étend près de l'embouchure du Yangzi, face à la mer de Chine orientale ?",
+  "r": "Shanghai",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel État du nord-ouest de l'Inde, couvert en partie par le désert du Thar, a pour capitale Jaipur ?",
+  "r": "Le Rajasthan",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel grand fleuve, né au Tibet, traverse l'Assam avant de rejoindre le Gange au Bangladesh ?",
+  "r": "Le Brahmapoutre",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel fleuve, qui coule principalement au Pakistan, a donné son nom à l'Inde ?",
+  "r": "L'Indus",
+  "d": 1,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel désert s'étend à la frontière de l'Inde et du Pakistan ?",
+  "r": "Le désert du Thar",
+  "d": 2,
+  "t": "Déserts"
+ },
+ {
+  "q": "Quelle région himalayenne de l'Inde, dont la ville principale est Leh, est surnommée « le petit Tibet » ?",
+  "r": "Le Ladakh",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel sommet, troisième plus haut du monde, se dresse à la frontière du Népal et de l'Inde ?",
+  "r": "Le Kangchenjunga",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel pays abrite huit des quatorze sommets de plus de 8 000 mètres ?",
+  "r": "Le Népal",
+  "d": 2,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle ville est la capitale du Népal ?",
+  "r": "Katmandou",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle ville est la capitale du Bhoutan ?",
+  "r": "Thimphou",
+  "d": 3,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel pays est surnommé « le pays du Matin calme » ?",
+  "r": "La Corée",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle ville, construite de toutes pièces dans les années 1960, est la capitale du Pakistan ?",
+  "r": "Islamabad",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale de l'Afghanistan ?",
+  "r": "Kaboul",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Dans quelle chaîne de montagnes se trouve le K2, deuxième sommet du monde ?",
+  "r": "Le Karakoram",
+  "d": 2,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle chaîne de montagnes d'Asie centrale, entre le Kirghizistan et la Chine, porte un nom signifiant « montagnes célestes » ?",
+  "r": "Le Tian Shan",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel sommet du Sri Lanka est vénéré par plusieurs religions pour une empreinte de pied à son sommet ?",
+  "r": "Le pic d'Adam",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel désert du bassin du Tarim, en Chine, a un nom souvent traduit par « on y entre, on n'en ressort pas » ?",
+  "r": "Le Taklamakan",
+  "d": 2,
+  "t": "Déserts"
+ },
+ {
+  "q": "Quelle ville chinoise, capitale du Sichuan, est célèbre pour sa base d'élevage de pandas géants ?",
+  "r": "Chengdu",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville du sud de la Chine, sur la rivière Li, est célèbre pour ses pitons karstiques ?",
+  "r": "Guilin",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle métropole chinoise, capitale du Guangdong, était appelée Canton par les Occidentaux ?",
+  "r": "Guangzhou",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel fleuve traverse Bangkok avant de se jeter dans le golfe de Thaïlande ?",
+  "r": "La Chao Phraya",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel gigantesque barrage chinois, dont le mur a été achevé en 2006, retient les eaux du Yangzi ?",
+  "r": "Le barrage des Trois-Gorges",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel parc chinois du Hunan, aux piliers de grès vertigineux, aurait inspiré les montagnes flottantes du film Avatar ?",
+  "r": "Zhangjiajie",
+  "d": 3,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quelle est la capitale du Viêt Nam ?",
+  "r": "Hanoï",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale du Cambodge ?",
+  "r": "Phnom Penh",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville, sur les rives du Mékong, est la capitale du Laos ?",
+  "r": "Vientiane",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle capitale asiatique porte en langue locale un nom officiel extrêmement long qui commence par « Krung Thep » ?",
+  "r": "Bangkok",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle capitale asiatique s'appelait Batavia à l'époque des Indes néerlandaises ?",
+  "r": "Jakarta",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville vietnamienne, ancien port de commerce classé à l'UNESCO, est célèbre pour ses lanternes de soie ?",
+  "r": "Hội An",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle région du sud du Viêt Nam est surnommée « le grenier à riz » du pays ?",
+  "r": "Le delta du Mékong",
+  "d": 1,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle grotte du centre du Viêt Nam, explorée pour la première fois en 2009, est réputée être la plus vaste galerie souterraine du monde ?",
+  "r": "Hang Son Doong",
+  "d": 3,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Quelle île, la plus grande de Thaïlande, est une destination touristique majeure de la mer d'Andaman ?",
+  "r": "Phuket",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel pays d'Asie du Sud-Est réunit une partie continentale et le nord de l'île de Bornéo ?",
+  "r": "La Malaisie",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel petit sultanat pétrolier se trouve sur la côte nord de l'île de Bornéo, entouré par la Malaisie ?",
+  "r": "Brunei",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel est le plus haut sommet de l'île de Bornéo, dans l'État malaisien du Sabah ?",
+  "r": "Le mont Kinabalu",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle grande île indonésienne, à la forme très découpée, s'appelait autrefois Célèbes ?",
+  "r": "Sulawesi",
+  "d": 2,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle grande île indonésienne, traversée par l'équateur, a pour principale ville Medan ?",
+  "r": "Sumatra",
+  "d": 1,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel lac indonésien occupe la caldeira d'un supervolcan qui a explosé il y a environ 74 000 ans ?",
+  "r": "Le lac Toba",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle île indonésienne a donné son nom au plus grand lézard du monde, le « dragon » que protège un parc national ?",
+  "r": "Komodo",
+  "d": 1,
+  "t": "Parcs naturels"
+ },
+ {
+  "q": "Sur quelle île, la plus grande des Philippines, se trouve la capitale Manille ?",
+  "r": "Luçon",
+  "d": 2,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quel fleuve traverse Séoul d'est en ouest ?",
+  "r": "Le Han",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Comment les Mongols appellent-ils la tente ronde des nomades, que l'on nomme yourte en français ?",
+  "r": "La ger",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle ville fut la capitale du Kazakhstan jusqu'en 1997 ?",
+  "r": "Almaty (Alma-Ata)",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville d'Ouzbékistan, étape de la route de la soie, est dominée par le minaret Kalon ?",
+  "r": "Boukhara",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel pays d'Asie est l'un des deux seuls pays au monde doublement enclavés ?",
+  "r": "L'Ouzbékistan",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle île volcanique sud-coréenne est célèbre pour ses plongeuses en apnée, les haenyeo ?",
+  "r": "Jeju",
+  "d": 2,
+  "t": "Îles et archipels"
+ },
+ {
+  "q": "Quelle ville des Émirats arabes unis est célèbre pour ses îles artificielles en forme de palmier ?",
+  "r": "Dubaï",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville sainte de l'islam, en Arabie saoudite, abrite le tombeau du prophète Mahomet ?",
+  "r": "Médine",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle est la capitale de la Corée du Nord ?",
+  "r": "Pyongyang",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville iranienne, ville natale des poètes Hafez et Saadi, est réputée pour ses jardins ?",
+  "r": "Chiraz",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle chaîne de montagnes du nord de l'Iran, longeant la mer Caspienne, culmine au mont Damavand ?",
+  "r": "L'Elbourz",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "q": "Quelle grande ville portuaire turque sur la mer Égée s'appelait autrefois Smyrne ?",
+  "r": "Izmir",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle grande péninsule, qui forme l'essentiel de la Turquie, est aussi appelée Asie Mineure ?",
+  "r": "L'Anatolie",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel grand fleuve sibérien traverse Iakoutsk avant de se jeter dans la mer de Laptev ?",
+  "r": "La Léna",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel État américain est surnommé le « Sunshine State » ?",
+  "r": "La Floride",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel État américain est surnommé « l'État à l'étoile solitaire » ?",
+  "r": "Le Texas",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel État du nord des États-Unis est surnommé « la terre aux 10 000 lacs » ?",
+  "r": "Le Minnesota",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel État américain doit son nom à la reine Élisabeth Ire d'Angleterre, surnommée « la reine vierge » ?",
+  "r": "La Virginie",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel État américain est le seul dont le nom ne compte qu'une seule syllabe ?",
+  "r": "Le Maine",
+  "d": 3,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel désert couvre la plus grande partie du Turkménistan ?",
+  "r": "Le Karakoum",
+  "d": 2,
+  "t": "Déserts"
+ },
+ {
+  "q": "Quel est le seul État américain à porter le nom d'un président des États-Unis ?",
+  "r": "L'État de Washington",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel est le plus petit des cinquante États américains par la superficie ?",
+  "r": "Le Rhode Island",
+  "d": 2,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quel État américain a pour capitale Honolulu ?",
+  "r": "Hawaï",
+  "d": 1,
+  "t": "États et provinces"
+ },
+ {
+  "q": "Quelle ville est la capitale de la Californie ?",
+  "r": "Sacramento",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle capitale d'État américain, en Alaska, n'est reliée au reste du continent par aucune route ?",
+  "r": "Juneau",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville au nom français est la capitale de la Louisiane ?",
+  "r": "Baton Rouge",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle capitale de l'Iowa porte un nom d'origine française ?",
+  "r": "Des Moines",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville du Nevada est surnommée « la capitale mondiale du jeu » ?",
+  "r": "Las Vegas",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville de l'Utah fut fondée par les mormons en 1847 près d'un grand lac salé ?",
+  "r": "Salt Lake City",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville du Tennessee est considérée comme la capitale de la musique country ?",
+  "r": "Nashville",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville du nord-ouest des États-Unis est dominée par la tour Space Needle ?",
+  "r": "Seattle",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville du Colorado est surnommée « Mile High City » en raison de son altitude ?",
+  "r": "Denver",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville américaine a accueilli les Jeux olympiques de 1996 et abrite le siège de Coca-Cola ?",
+  "r": "Atlanta",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville du Missouri est dominée par une immense arche d'acier, la Gateway Arch ?",
+  "r": "Saint-Louis",
+  "d": 2,
+  "t": "Villes"
+ }
+]
