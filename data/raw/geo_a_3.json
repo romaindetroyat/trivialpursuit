@@ -1,5 +1,5 @@
 [
-  {"q": "Pour quelle Exposition universelle la tour Eiffel a-t-elle été construite ?", "r": "Celle de 1889", "d": 1, "t": "Monuments"},
+  {"q": "Pour l'Exposition universelle de quelle année la tour Eiffel a-t-elle été construite ?", "r": "1889", "d": 1, "t": "Monuments"},
   {"q": "Quel aqueduc romain à trois niveaux d'arches enjambe le Gardon, près de Remoulins ?", "r": "Le pont du Gard", "d": 1, "t": "Patrimoine UNESCO"},
   {"q": "Quelle cité médiévale de l'Aude, à la double enceinte fortifiée, fut restaurée par Viollet-le-Duc ?", "r": "Carcassonne", "d": 1, "t": "Monuments"},
   {"q": "Quel château de la Loire enjambe le Cher grâce à sa galerie sur arches ?", "r": "Chenonceau", "d": 1, "t": "Châteaux"},

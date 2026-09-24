@@ -28,7 +28,6 @@
   {"q": "Quel gaz toxique et inodore, produit par une combustion incomplète, est responsable d'intoxications domestiques ?", "r": "Le monoxyde de carbone", "d": 1, "t": "Chimie : molécules"},
   {"q": "Quel gaz a pour formule O₃ ?", "r": "L'ozone", "d": 2, "t": "Chimie : molécules"},
   {"q": "Quel élément, de numéro atomique 92, sert de combustible dans les centrales nucléaires ?", "r": "L'uranium", "d": 2, "t": "Chimie : éléments"},
-  {"q": "Quel est le numéro atomique du carbone ?", "r": "6", "d": 2, "t": "Chimie : éléments"},
   {"q": "Quel gaz est le principal constituant du gaz naturel ?", "r": "Le méthane", "d": 2, "t": "Chimie : molécules"},
   {"q": "Quel est le métal le plus abondant dans la croûte terrestre ?", "r": "L'aluminium", "d": 2, "t": "Chimie : éléments"},
   {"q": "Quel est l'élément chimique le plus abondant dans la croûte terrestre, en masse ?", "r": "L'oxygène", "d": 3, "t": "Chimie : éléments"},

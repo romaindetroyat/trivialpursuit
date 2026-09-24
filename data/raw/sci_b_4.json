@@ -1,0 +1,566 @@
+[
+ {
+  "q": "Quelle vitamine, fabriquée par la peau sous l'effet du soleil, favorise la fixation du calcium sur les os ?",
+  "r": "La vitamine D",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel minéral, abondant dans les produits laitiers, est le principal constituant des os ?",
+  "r": "Le calcium",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle vitamine, présente dans les légumes verts à feuilles, est indispensable à la coagulation du sang ?",
+  "r": "La vitamine K",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle vitamine porte aussi le nom de rétinol ?",
+  "r": "La vitamine A",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel pigment orange, précurseur de la vitamine A, donne sa couleur à la carotte ?",
+  "r": "Le bêta-carotène",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel médecin écossais a montré en 1747, lors d'un essai à bord d'un navire, que les agrumes guérissent le scorbut ?",
+  "r": "James Lind",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle maladie, due à une carence en vitamine B3, frappait les populations se nourrissant presque uniquement de maïs ?",
+  "r": "La pellagre",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle vitamine, présente presque uniquement dans les produits animaux, doit être complémentée chez les végétaliens ?",
+  "r": "La vitamine B12",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle vitamine du groupe B est prescrite aux femmes enceintes pour prévenir les malformations du tube neural ?",
+  "r": "La vitamine B9 (acide folique)",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelles sont les trois grandes familles de macronutriments ?",
+  "r": "Glucides, lipides, protéines",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Combien de kilocalories apporte un gramme de lipides ?",
+  "r": "9 kcal",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel sucre, principal carburant des cellules, est la source d'énergie quasi exclusive du cerveau ?",
+  "r": "Le glucose",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel sucre est naturellement présent dans le lait ?",
+  "r": "Le lactose",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel sucre donne leur goût sucré aux fruits et au miel ?",
+  "r": "Le fructose",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel est le nom chimique du sucre de table, extrait de la canne ou de la betterave ?",
+  "r": "Le saccharose",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle enzyme fait défaut aux personnes intolérantes au lactose ?",
+  "r": "La lactase",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Sous quelle forme le foie et les muscles stockent-ils le glucose ?",
+  "r": "Le glycogène",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel constituant des parois végétales, non digéré par l'homme, forme l'essentiel des fibres alimentaires ?",
+  "r": "La cellulose",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Comment appelle-t-on les acides aminés que le corps ne sait pas fabriquer et qui doivent venir de l'alimentation ?",
+  "r": "Les acides aminés essentiels",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle famille d'acides gras, abondante dans le saumon et la sardine, est réputée bonne pour le cœur ?",
+  "r": "Les oméga-3",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel indice, obtenu en divisant le poids par le carré de la taille, sert à évaluer la corpulence ?",
+  "r": "L'IMC (indice de masse corporelle)",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "À partir de quelle valeur de l'indice de masse corporelle l'OMS parle-t-elle d'obésité ?",
+  "r": "30",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel indice classe les aliments selon la vitesse à laquelle ils font monter le taux de sucre dans le sang ?",
+  "r": "L'index glycémique",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle hormone, produite par le tissu adipeux, signale au cerveau la satiété ?",
+  "r": "La leptine",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle hormone, sécrétée par l'estomac vide, est surnommée « hormone de la faim » ?",
+  "r": "La ghréline",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel logo nutritionnel à cinq lettres colorées, de A à E, a été officiellement adopté en France en 2017 ?",
+  "r": "Le Nutri-Score",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Combien de portions de fruits et légumes par jour recommande le célèbre slogan de santé publique français ?",
+  "r": "Cinq",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel minéral, apporté notamment par la viande rouge et les lentilles, est indispensable à la fabrication de l'hémoglobine ?",
+  "r": "Le fer",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel élément chimique forme, avec le chlore, le sel de cuisine ?",
+  "r": "Le sodium",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle molécule stimulante est présente dans le café, le thé et le cola ?",
+  "r": "La caféine",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle substance du cacao, proche de la caféine, rend le chocolat toxique pour les chiens ?",
+  "r": "La théobromine",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle molécule est responsable de la sensation de brûlure provoquée par les piments ?",
+  "r": "La capsaïcine",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle échelle, du nom d'un pharmacien américain, mesure la force des piments ?",
+  "r": "L'échelle de Scoville",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel procédé de conservation par chauffage en récipient hermétique porte le nom d'un confiseur français ?",
+  "r": "L'appertisation",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel procédé de chauffage modéré, destiné à détruire les microbes du lait, porte le nom d'un savant français ?",
+  "r": "La pasteurisation",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle réaction chimique, qui brunit la croûte du pain et la viande grillée, porte le nom d'un chimiste français ?",
+  "r": "La réaction de Maillard",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quels micro-organismes transforment le lait en yaourt ?",
+  "r": "Des bactéries lactiques",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Comment appelle-t-on les micro-organismes vivants consommés pour leurs bienfaits sur la flore intestinale ?",
+  "r": "Les probiotiques",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle protéine du lait, qui coagule sous l'action de la présure, est à la base du fromage ?",
+  "r": "La caséine",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle enzyme de l'estomac commence la digestion des protéines ?",
+  "r": "La pepsine",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle substance potentiellement cancérogène se forme dans les frites et les chips cuites à très haute température ?",
+  "r": "L'acrylamide",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel modèle alimentaire, riche en huile d'olive et en légumes, a été inscrit au patrimoine immatériel de l'Unesco en 2010 ?",
+  "r": "La diète méditerranéenne",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Comment appelle-t-on un régime qui exclut viande et poisson mais accepte œufs et produits laitiers ?",
+  "r": "Le végétarisme",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle proportion approximative du poids d'un adulte est constituée d'eau ?",
+  "r": "Environ 60 %",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quelle unité, en plus du kilojoule, sert à exprimer l'énergie apportée par les aliments ?",
+  "r": "La kilocalorie",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "q": "Quel médecin viennois est le fondateur de la psychanalyse ?",
+  "r": "Sigmund Freud",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Selon Freud, quelles sont les trois instances de l'appareil psychique ?",
+  "r": "Le ça, le moi et le surmoi",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel ouvrage de Freud, paru fin 1899, est consacré à l'analyse des rêves ?",
+  "r": "L'Interprétation du rêve",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel complexe freudien tire son nom d'un roi de Thèbes qui tua son père et épousa sa mère ?",
+  "r": "Le complexe d'Œdipe",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel mécanisme de défense décrit par Freud consiste à repousser dans l'inconscient des pensées dérangeantes ?",
+  "r": "Le refoulement",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on en psychanalyse le report sur l'analyste de sentiments éprouvés envers d'autres personnes ?",
+  "r": "Le transfert",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychiatre suisse, d'abord disciple de Freud, a développé la notion d'inconscient collectif ?",
+  "r": "Carl Gustav Jung",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychanalyste français, connu pour son « retour à Freud », a théorisé le « stade du miroir » ?",
+  "r": "Jacques Lacan",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quelle psychanalyste française animait à la radio l'émission « Lorsque l'enfant paraît » dans les années 1970 ?",
+  "r": "Françoise Dolto",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue suisse a décrit les grands stades du développement de l'intelligence chez l'enfant ?",
+  "r": "Jean Piaget",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel physiologiste russe a étudié le réflexe conditionné en faisant saliver des chiens ?",
+  "r": "Ivan Pavlov",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue américain a inventé une boîte expérimentale pour étudier le conditionnement opérant chez les rats et les pigeons ?",
+  "r": "B. F. Skinner",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel courant de la psychologie, lancé par John B. Watson en 1913, ne s'intéresse qu'aux comportements observables ?",
+  "r": "Le béhaviorisme",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue américain a mené à Yale, à partir de 1961, des expériences sur la soumission à l'autorité avec de faux électrochocs ?",
+  "r": "Stanley Milgram",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel film d'Henri Verneuil, sorti en 1979 avec Yves Montand, reconstitue l'expérience de Milgram ?",
+  "r": "I… comme Icare",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue a dirigé en 1971 l'expérience de la prison de Stanford ?",
+  "r": "Philip Zimbardo",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue a démontré en 1951, avec des lignes de longueurs différentes, la force du conformisme de groupe ?",
+  "r": "Solomon Asch",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue américain a représenté la hiérarchie des besoins humains sous forme de pyramide ?",
+  "r": "Abraham Maslow",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel besoin se trouve au sommet de la pyramide de Maslow ?",
+  "r": "L'accomplissement de soi",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue français a conçu en 1905, avec Théodore Simon, le premier test d'intelligence ?",
+  "r": "Alfred Binet",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quelle est, par construction, la valeur moyenne du quotient intellectuel dans une population ?",
+  "r": "100",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel test psychologique projectif demande d'interpréter des taches d'encre ?",
+  "r": "Le test de Rorschach",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on la peur irrationnelle des araignées ?",
+  "r": "L'arachnophobie",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on la peur des espaces clos ?",
+  "r": "La claustrophobie",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on la peur des lieux publics et des espaces d'où il serait difficile de s'échapper ?",
+  "r": "L'agoraphobie",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel syndrome, nommé d'après une prise d'otages dans une banque suédoise en 1973, désigne l'attachement d'otages à leurs ravisseurs ?",
+  "r": "Le syndrome de Stockholm",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel anglicisme désigne l'état d'épuisement professionnel ?",
+  "r": "Le burn-out",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quelle théorie de Leon Festinger (1957) décrit le malaise ressenti face à des croyances ou actes contradictoires ?",
+  "r": "La dissonance cognitive",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on la tendance à privilégier les informations qui confirment ce que l'on pense déjà ?",
+  "r": "Le biais de confirmation",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel effet, décrit en 1999, veut que les moins compétents surestiment le plus leurs capacités ?",
+  "r": "L'effet Dunning-Kruger",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue, prix Nobel d'économie 2002, a étudié les biais cognitifs avec Amos Tversky ?",
+  "r": "Daniel Kahneman",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on la tendance à moins porter secours à une victime lorsque de nombreux témoins sont présents ?",
+  "r": "L'effet du témoin (effet spectateur)",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on l'effet indésirable ressenti par un patient qui s'attend à mal réagir à un traitement pourtant inactif ?",
+  "r": "L'effet nocebo",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel courant psychologique né en Allemagne, dont le nom signifie « forme », affirme que le tout diffère de la somme des parties ?",
+  "r": "La Gestalt (théorie de la forme)",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel savant allemand a fondé à Leipzig, en 1879, le premier laboratoire de psychologie expérimentale ?",
+  "r": "Wilhelm Wundt",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychologue allemand a établi en 1885 la célèbre « courbe de l'oubli » ?",
+  "r": "Hermann Ebbinghaus",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Selon l'article de George Miller paru en 1956, combien d'éléments la mémoire à court terme retient-elle en moyenne ?",
+  "r": "Sept (plus ou moins deux)",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychiatre et psychanalyste britannique est à l'origine de la théorie de l'attachement ?",
+  "r": "John Bowlby",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel neuropsychiatre français, auteur d'« Un merveilleux malheur », a popularisé la notion de résilience ?",
+  "r": "Boris Cyrulnik",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on la phase du sommeil, riche en rêves, marquée par des mouvements oculaires rapides ?",
+  "r": "Le sommeil paradoxal",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel neurobiologiste français a découvert et nommé le sommeil paradoxal à la fin des années 1950 ?",
+  "r": "Michel Jouvet",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quelle expression française désigne l'impression troublante d'avoir déjà vécu une situation présente ?",
+  "r": "Le déjà-vu",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel trouble psychique se caractérise par l'alternance de phases d'exaltation et de dépression ?",
+  "r": "Le trouble bipolaire",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel psychiatre suisse a créé en 1908 le terme « schizophrénie » ?",
+  "r": "Eugen Bleuler",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel médecin aliéniste français, figure de Bicêtre et de la Salpêtrière, est traditionnellement présenté comme celui qui ôta leurs chaînes aux « fous » ?",
+  "r": "Philippe Pinel",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel sigle désigne le trouble psychique fait d'obsessions et de rituels répétitifs, comme se laver sans cesse les mains ?",
+  "r": "Le TOC",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel mot, tiré d'un personnage mythologique amoureux de son reflet, désigne l'amour excessif de soi ?",
+  "r": "Le narcissisme",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Comment appelle-t-on l'état de conscience modifié obtenu par suggestion, dont le nom vient du dieu grec du sommeil ?",
+  "r": "L'hypnose",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "q": "Quel trouble du comportement alimentaire se caractérise par une restriction drastique de nourriture et une peur intense de grossir ?",
+  "r": "L'anorexie mentale",
+  "d": 1,
+  "t": "Psychologie"
+ }
+]

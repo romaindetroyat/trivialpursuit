@@ -1,0 +1,524 @@
+[
+ {
+  "q": "Quel compositeur a écrit l'opéra « La Flûte enchantée », créé à Vienne en 1791 ?",
+  "r": "Mozart",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur, devenu sourd, a pourtant écrit une Neuvième symphonie avec chœur ?",
+  "r": "Beethoven",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur vénitien a écrit le cycle de concertos « Les Quatre Saisons » ?",
+  "r": "Antonio Vivaldi",
+  "d": 1,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Quel compositeur français a écrit l'opéra « Carmen », créé en 1875 ?",
+  "r": "Georges Bizet",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur français a écrit en 1928 le « Boléro », bâti sur un rythme obstiné de caisse claire ?",
+  "r": "Maurice Ravel",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur polonais, installé à Paris, est célèbre pour ses nocturnes et ses polonaises pour piano ?",
+  "r": "Frédéric Chopin",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur italien a écrit l'opéra « La Traviata », d'après « La Dame aux camélias » ?",
+  "r": "Giuseppe Verdi",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur italien a écrit l'opéra « Le Barbier de Séville », créé à Rome en 1816 ?",
+  "r": "Gioachino Rossini",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur viennois, surnommé « le roi de la valse », a écrit « Le Beau Danube bleu » ?",
+  "r": "Johann Strauss fils",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel conte musical de Prokofiev associe chaque personnage à un instrument, comme le canard au hautbois ?",
+  "r": "Pierre et le Loup",
+  "d": 1,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur français a écrit « Le Carnaval des animaux », avec son fameux « Cygne » ?",
+  "r": "Camille Saint-Saëns",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel passage de la Neuvième symphonie de Beethoven a été adopté comme hymne européen ?",
+  "r": "L'Ode à la joie",
+  "d": 1,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Combien de cordes compte un violon ?",
+  "r": "Quatre",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel est l'instrument le plus grave de la famille des cordes frottées dans l'orchestre ?",
+  "r": "La contrebasse",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel compositeur allemand a écrit la Tétralogie « L'Anneau du Nibelung » ?",
+  "r": "Richard Wagner",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur italien a écrit « Madame Butterfly », l'histoire d'une geisha abandonnée ?",
+  "r": "Giacomo Puccini",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Dans quelle ville autrichienne Wolfgang Amadeus Mozart est-il né en 1756 ?",
+  "r": "Salzbourg",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur, cantor de Leipzig, a écrit les « Concertos brandebourgeois » ?",
+  "r": "Jean-Sébastien Bach",
+  "d": 1,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Quel compositeur français a écrit « Clair de lune » et « Prélude à l'après-midi d'un faune » ?",
+  "r": "Claude Debussy",
+  "d": 1,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel ténor italien, né à Modène, a formé les « Trois Ténors » avec Plácido Domingo et José Carreras ?",
+  "r": "Luciano Pavarotti",
+  "d": 1,
+  "t": "Chanteurs lyriques"
+ },
+ {
+  "q": "Quelle soprano, surnommée « la Divina », a triomphé dans « Norma » et « Tosca » ?",
+  "r": "Maria Callas",
+  "d": 1,
+  "t": "Chanteurs lyriques"
+ },
+ {
+  "q": "Comment appelle-t-on la voix d'homme la plus grave ?",
+  "r": "La basse",
+  "d": 1,
+  "t": "Voix"
+ },
+ {
+  "q": "Comment appelle-t-on la voix de femme la plus aiguë ?",
+  "r": "La soprano",
+  "d": 1,
+  "t": "Voix"
+ },
+ {
+  "q": "Comment appelle-t-on le texte d'un opéra ?",
+  "r": "Le livret",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Comment appelle-t-on le morceau instrumental qui ouvre un opéra avant le lever du rideau ?",
+  "r": "L'ouverture",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Combien de lignes compte une portée musicale ?",
+  "r": "Cinq",
+  "d": 1,
+  "t": "Solfège"
+ },
+ {
+  "q": "Quelle clé utilise-t-on généralement pour noter la partie de main gauche au piano ?",
+  "r": "La clé de fa",
+  "d": 1,
+  "t": "Solfège"
+ },
+ {
+  "q": "Combien de noires vaut une ronde ?",
+  "r": "Quatre",
+  "d": 1,
+  "t": "Solfège"
+ },
+ {
+  "q": "Quel luthier de Crémone a laissé son nom latinisé aux violons les plus prestigieux ?",
+  "r": "Antonio Stradivari",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Comment appelle-t-on un ensemble formé de deux violons, un alto et un violoncelle ?",
+  "r": "Un quatuor à cordes",
+  "d": 1,
+  "t": "Formations"
+ },
+ {
+  "q": "Quel instrument de la famille des cuivres possède une coulisse ?",
+  "r": "Le trombone",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Comment appelle-t-on le petit bâton avec lequel le chef dirige l'orchestre ?",
+  "r": "La baguette",
+  "d": 1,
+  "t": "Orchestre"
+ },
+ {
+  "q": "Combien de symphonies Beethoven a-t-il achevées ?",
+  "r": "Neuf",
+  "d": 1,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quelle courte pièce pour piano de Beethoven, en la mineur, est un passage obligé des apprentis pianistes ?",
+  "r": "Lettre à Élise",
+  "d": 1,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quelle salle d'opéra milanaise, inaugurée en 1778, est l'une des plus prestigieuses au monde ?",
+  "r": "La Scala",
+  "d": 1,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel instrument à clavier et à tuyaux trône dans la tribune de nombreuses églises ?",
+  "r": "L'orgue",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "q": "Combien de touches compte un piano moderne standard ?",
+  "r": "88",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "De quelle nationalité était Adolphe Sax, inventeur du saxophone ?",
+  "r": "Belge",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Dans quelle ville de Bavière se tient chaque été un festival consacré aux opéras de Wagner ?",
+  "r": "Bayreuth",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur né en Allemagne et naturalisé anglais a écrit « Le Messie » et « Water Music » ?",
+  "r": "Georg Friedrich Haendel",
+  "d": 2,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Quel compositeur tchèque a écrit la symphonie « Du Nouveau Monde » lors d'un séjour aux États-Unis ?",
+  "r": "Antonín Dvořák",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur norvégien a écrit « Dans l'antre du roi de la montagne » pour « Peer Gynt » ?",
+  "r": "Edvard Grieg",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur français excentrique a écrit les trois « Gymnopédies » pour piano ?",
+  "r": "Erik Satie",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur a déclenché un scandale au Théâtre des Champs-Élysées en 1913 avec « Le Sacre du printemps » ?",
+  "r": "Igor Stravinsky",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur et pianiste virtuose a écrit les « Rhapsodies hongroises » ?",
+  "r": "Franz Liszt",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel opéra de Mozart, sur un livret de Da Ponte, raconte la chute d'un séducteur emporté par la statue du Commandeur ?",
+  "r": "Don Giovanni",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel opéra de Verdi, situé dans l'Égypte des pharaons, a été créé au Caire en 1871 ?",
+  "r": "Aïda",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur a écrit l'opéra-bouffe « Orphée aux Enfers », dont le galop accompagne le French cancan ?",
+  "r": "Jacques Offenbach",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur russe a intégré des coups de canon dans son « Ouverture 1812 » ?",
+  "r": "Piotr Ilitch Tchaïkovski",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur russe a écrit la suite pour piano « Tableaux d'une exposition » ?",
+  "r": "Modeste Moussorgski",
+  "d": 2,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur finlandais a écrit le poème symphonique patriotique « Finlandia » ?",
+  "r": "Jean Sibelius",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur allemand a écrit en 1937 la cantate « Carmina Burana », qui s'ouvre sur « O Fortuna » ?",
+  "r": "Carl Orff",
+  "d": 2,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur autrichien, auteur de 104 symphonies, est surnommé le « père de la symphonie » ?",
+  "r": "Joseph Haydn",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur allemand a écrit les « Danses hongroises » et une célèbre « Berceuse » ?",
+  "r": "Johannes Brahms",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur viennois a écrit le quintette « La Truite » et le cycle de lieder « Le Voyage d'hiver » ?",
+  "r": "Franz Schubert",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur français a écrit en 1830 la « Symphonie fantastique » ?",
+  "r": "Hector Berlioz",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur, maître de chapelle à Vienne, est présenté comme le rival jaloux de Mozart dans le film « Amadeus » ?",
+  "r": "Antonio Salieri",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Dans quel opéra de Puccini le poète Rodolfo tombe-t-il amoureux de la brodeuse Mimi ?",
+  "r": "La Bohème",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel air de « Turandot » de Puccini, chanté par le prince Calaf, est devenu un tube grâce à Pavarotti ?",
+  "r": "Nessun dorma",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Comment appelle-t-on, dans un opéra, la partie déclamée sur un accompagnement léger entre deux airs ?",
+  "r": "Le récitatif",
+  "d": 2,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel instrument donne traditionnellement le la pour accorder l'orchestre ?",
+  "r": "Le hautbois",
+  "d": 2,
+  "t": "Orchestre"
+ },
+ {
+  "q": "Dans quelle ville de Lombardie ont travaillé les grands luthiers Amati, Guarneri et Stradivari ?",
+  "r": "Crémone",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel instrument à clavier baroque produit le son en pinçant les cordes ?",
+  "r": "Le clavecin",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel instrument de percussion en forme de chaudron recouvert d'une peau peut être accordé ?",
+  "r": "La timbale",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel cuivre enroulé sur lui-même, au pavillon tourné vers l'arrière, descend du cor de chasse ?",
+  "r": "Le cor",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "q": "Quel chef d'orchestre autrichien a dirigé l'Orchestre philharmonique de Berlin pendant plus de trente ans, jusqu'en 1989 ?",
+  "r": "Herbert von Karajan",
+  "d": 2,
+  "t": "Chefs d'orchestre"
+ },
+ {
+  "q": "Quel compositeur et chef d'orchestre américain a écrit la musique de « West Side Story » ?",
+  "r": "Leonard Bernstein",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur américain a écrit « Rhapsody in Blue » en 1924 ?",
+  "r": "George Gershwin",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel surintendant de la musique de Louis XIV est mort après s'être blessé au pied avec son bâton de direction ?",
+  "r": "Jean-Baptiste Lully",
+  "d": 2,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Quel compositeur baroque a écrit le « Te Deum » dont le prélude sert d'indicatif à l'Eurovision ?",
+  "r": "Marc-Antoine Charpentier",
+  "d": 2,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Quel compositeur allemand a écrit « Le Chevalier à la rose » et « Ainsi parlait Zarathoustra » ?",
+  "r": "Richard Strauss",
+  "d": 2,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel surnom, lié à sa chevelure et à son état ecclésiastique, portait Antonio Vivaldi ?",
+  "r": "Le Prêtre roux",
+  "d": 3,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Comment surnommait-on le groupe de compositeurs russes réunissant Balakirev, Borodine, Cui, Moussorgski et Rimski-Korsakov ?",
+  "r": "Le groupe des Cinq",
+  "d": 3,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Quel compositeur russe, ancien officier de marine, a écrit la suite symphonique « Shéhérazade » ?",
+  "r": "Nikolaï Rimski-Korsakov",
+  "d": 3,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur français a écrit l'opéra « Lakmé », célèbre pour son « Duo des fleurs » ?",
+  "r": "Léo Delibes",
+  "d": 3,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur français a écrit l'opéra « Faust », créé au Théâtre-Lyrique en 1859 ?",
+  "r": "Charles Gounod",
+  "d": 3,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quelle fréquence, en hertz, correspond au la du diapason de référence ?",
+  "r": "440 Hz",
+  "d": 3,
+  "t": "Solfège"
+ },
+ {
+  "q": "Quel moine italien du XIe siècle a nommé les notes d'après un hymne à saint Jean-Baptiste ?",
+  "r": "Guido d'Arezzo",
+  "d": 3,
+  "t": "Solfège"
+ },
+ {
+  "q": "Quel compositeur américain minimaliste a écrit l'opéra « Einstein on the Beach » ?",
+  "r": "Philip Glass",
+  "d": 3,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur baroque français a écrit l'opéra-ballet « Les Indes galantes » ?",
+  "r": "Jean-Philippe Rameau",
+  "d": 3,
+  "t": "Musique baroque"
+ },
+ {
+  "q": "Quel compositeur autrichien a écrit « Le Chant de la Terre » et laissé une dixième symphonie inachevée ?",
+  "r": "Gustav Mahler",
+  "d": 3,
+  "t": "Compositeurs"
+ },
+ {
+  "q": "Sur quelle île de l'océan Indien se déroule l'opéra « Les Pêcheurs de perles » de Bizet ?",
+  "r": "Ceylan (Sri Lanka)",
+  "d": 3,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur tchèque a décrit le cours d'une rivière dans « La Moldau » ?",
+  "r": "Bedřich Smetana",
+  "d": 3,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur espagnol, aveugle depuis l'enfance, a écrit le « Concierto de Aranjuez » pour guitare ?",
+  "r": "Joaquín Rodrigo",
+  "d": 3,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur français a écrit l'opéra « Werther » d'après Goethe ?",
+  "r": "Jules Massenet",
+  "d": 3,
+  "t": "Opéra"
+ },
+ {
+  "q": "Quel compositeur français a écrit « L'Apprenti sorcier », popularisé par « Fantasia » de Disney ?",
+  "r": "Paul Dukas",
+  "d": 3,
+  "t": "Œuvres"
+ },
+ {
+  "q": "Quel compositeur autrichien a fondé la musique dodécaphonique au début des années 1920 ?",
+  "r": "Arnold Schönberg",
+  "d": 3,
+  "t": "Compositeurs"
+ }
+]

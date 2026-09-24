@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quelle est la plus grande île des Caraïbes ?",
+  "r": "Cuba",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle île des Antilles est partagée entre Haïti et la République dominicaine ?",
+  "r": "Hispaniola",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle île des Antilles françaises a pour chef-lieu Fort-de-France ?",
+  "r": "La Martinique",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle île des Antilles est partagée entre la France et les Pays-Bas ?",
+  "r": "Saint-Martin",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "q": "Quelle est la capitale de l'Australie ?",
+  "r": "Canberra",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel monolithe de grès rouge, sacré pour les Aborigènes, se dresse au centre de l'Australie ?",
+  "r": "Uluru (Ayers Rock)",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel immense ensemble de récifs coralliens longe la côte du Queensland ?",
+  "r": "La Grande Barrière de corail",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle île australienne est séparée du continent par le détroit de Bass ?",
+  "r": "La Tasmanie",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel fleuve australien forme, avec son affluent le Darling, le principal bassin hydrographique du pays ?",
+  "r": "Le Murray",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle ville a servi de capitale provisoire à l'Australie de 1901 à 1927 ?",
+  "r": "Melbourne",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel mot anglais désigne l'immense arrière-pays aride et peu peuplé de l'Australie ?",
+  "r": "L'outback",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel navigateur britannique a exploré et cartographié la côte est de l'Australie en 1770 ?",
+  "r": "James Cook",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle est la capitale de la Nouvelle-Zélande ?",
+  "r": "Wellington",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel nom maori, souvent traduit par « pays du long nuage blanc », désigne la Nouvelle-Zélande ?",
+  "r": "Aotearoa",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel est le point culminant de la Nouvelle-Zélande ?",
+  "r": "L'Aoraki (mont Cook)",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel navigateur néerlandais du XVIIe siècle a donné son nom à une île et à une mer d'Océanie ?",
+  "r": "Abel Tasman",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle collectivité française du Pacifique a pour chef-lieu Nouméa ?",
+  "r": "La Nouvelle-Calédonie",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Sur quelle île de Polynésie française se trouve Papeete ?",
+  "r": "Tahiti",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Dans quel archipel de Polynésie française Paul Gauguin et Jacques Brel sont-ils enterrés ?",
+  "r": "Les Marquises",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel atoll de Polynésie française a servi de site d'essais nucléaires à la France ?",
+  "r": "Mururoa",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle île de Polynésie française, dominée par le mont Otemanu, est surnommée la « perle du Pacifique » ?",
+  "r": "Bora-Bora",
+  "d": 1,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel est le plus vaste pays d'Océanie après l'Australie ?",
+  "r": "La Papouasie-Nouvelle-Guinée",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel État d'Océanie, ancien condominium franco-britannique, s'appelait les Nouvelles-Hébrides ?",
+  "r": "Le Vanuatu",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel royaume du Pacifique a pour capitale Nuku'alofa ?",
+  "r": "Les Tonga",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quelle minuscule république insulaire du Pacifique, sans capitale officielle, a été enrichie puis ruinée par le phosphate ?",
+  "r": "Nauru",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel atoll des îles Marshall, site d'essais nucléaires américains, a donné son nom à un maillot de bain en 1946 ?",
+  "r": "Bikini",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel État insulaire du Pacifique, très menacé par la montée des eaux, a pour capitale Funafuti ?",
+  "r": "Tuvalu",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel État du Pacifique est le seul pays du monde à s'étendre sur les quatre hémisphères ?",
+  "r": "Kiribati",
+  "d": 3,
+  "t": "Océanie"
+ },
+ {
+  "q": "Comment appelle-t-on la région d'Océanie regroupant notamment les Fidji, le Vanuatu et la Nouvelle-Calédonie ?",
+  "r": "La Mélanésie",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "q": "Quel explorateur norvégien a atteint le premier le pôle Sud, en décembre 1911 ?",
+  "r": "Roald Amundsen",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel explorateur britannique est mort en 1912 au retour du pôle Sud, devancé par Amundsen ?",
+  "r": "Robert Falcon Scott",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel continent est à la fois le plus froid, le plus sec et le plus venteux ?",
+  "r": "L'Antarctique",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel traité signé en 1959 réserve l'Antarctique à des activités pacifiques et scientifiques ?",
+  "r": "Le traité sur l'Antarctique",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel volcan actif, le plus austral du monde, se dresse sur l'île de Ross ?",
+  "r": "Le mont Erebus",
+  "d": 3,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quelle station scientifique franco-italienne est installée au Dôme C, sur le plateau antarctique ?",
+  "r": "Concordia",
+  "d": 3,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel navigateur français a découvert la Terre Adélie en 1840 et l'a baptisée du prénom de son épouse ?",
+  "r": "Jules Dumont d'Urville",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quelle station russe de l'Antarctique a relevé une température de -89,2 °C en juillet 1983 ?",
+  "r": "Vostok",
+  "d": 3,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel massif est le point culminant de l'Antarctique ?",
+  "r": "Le mont Vinson",
+  "d": 3,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quelle est la plus grande plate-forme de glace flottante de l'Antarctique ?",
+  "r": "La barrière de Ross",
+  "d": 3,
+  "t": "Pôles"
+ },
+ {
+  "q": "Comment appelle-t-on le phénomène lumineux coloré observé dans le ciel des régions polaires ?",
+  "r": "Une aurore polaire",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Comment appelle-t-on la couche de glace formée par la congélation de l'eau de mer ?",
+  "r": "La banquise",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quelle est la plus grande île du monde, recouverte en grande partie d'un inlandsis ?",
+  "r": "Le Groenland",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel explorateur américain a affirmé avoir atteint le pôle Nord en avril 1909 ?",
+  "r": "Robert Peary",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel archipel norvégien de l'Arctique abrite une réserve mondiale de semences enfouie dans le pergélisol ?",
+  "r": "Le Svalbard",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quelle route maritime relie l'Atlantique au Pacifique par l'archipel arctique canadien ?",
+  "r": "Le passage du Nord-Ouest",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel explorateur français, né en 1907, fonda les Expéditions polaires françaises ?",
+  "r": "Paul-Émile Victor",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel peuple autochtone de l'Arctique était autrefois appelé « Esquimaux » ?",
+  "r": "Les Inuits",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel territoire du Canada, créé en 1999, est majoritairement peuplé d'Inuits ?",
+  "r": "Le Nunavut",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Comment appelle-t-on le phénomène estival où le soleil reste visible toute la nuit au-delà du cercle polaire ?",
+  "r": "Le soleil de minuit",
+  "d": 1,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel archipel français subantarctique de l'océan Indien fut surnommé « îles de la Désolation » par James Cook ?",
+  "r": "Les Kerguelen",
+  "d": 2,
+  "t": "Pôles"
+ },
+ {
+  "q": "Quel est le plus vaste océan du monde ?",
+  "r": "L'océan Pacifique",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle fosse océanique du Pacifique ouest est la plus profonde du monde ?",
+  "r": "La fosse des Mariannes",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Comment s'appelle le point le plus profond de la fosse des Mariannes ?",
+  "r": "Le Challenger Deep",
+  "d": 3,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle étendue d'eau salée, bordée notamment par la Russie, l'Iran et le Kazakhstan, est la plus grande mer fermée du monde ?",
+  "r": "La mer Caspienne",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer d'Asie centrale s'est en grande partie asséchée à cause de l'irrigation des champs de coton ?",
+  "r": "La mer d'Aral",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer de l'Atlantique Nord, dépourvue de côtes, est célèbre pour ses algues flottantes ?",
+  "r": "La mer des Sargasses",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quel courant marin chaud adoucit le climat de l'Europe de l'Ouest ?",
+  "r": "Le Gulf Stream",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quel courant froid remonte le long des côtes du Chili et du Pérou ?",
+  "r": "Le courant de Humboldt",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer étroite sépare la péninsule Arabique de l'Afrique ?",
+  "r": "La mer Rouge",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer, entre la Chine et la Corée, doit son nom à la couleur de ses eaux chargées de limon ?",
+  "r": "La mer Jaune",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quel golfe riche en pétrole est bordé par l'Iran, le Koweït et l'Arabie saoudite ?",
+  "r": "Le golfe Persique",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer baigne la Colombie, le Venezuela et les Antilles ?",
+  "r": "La mer des Caraïbes",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer bordière du Pacifique baigne le Viêt Nam, les Philippines et Bornéo ?",
+  "r": "La mer de Chine méridionale",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quel est le plus petit des océans ?",
+  "r": "L'océan Arctique",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Comment appelle-t-on l'océan qui entoure l'Antarctique ?",
+  "r": "L'océan Austral",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Comment appelle-t-on la bande maritime de 200 milles marins où un État exerce des droits économiques ?",
+  "r": "La zone économique exclusive",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Combien de mètres mesure un mille marin ?",
+  "r": "1 852 m",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle zone de l'Atlantique, entre Miami, les Bermudes et Porto Rico, est associée à des disparitions mystérieuses ?",
+  "r": "Le triangle des Bermudes",
+  "d": 1,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle baie du Canada atlantique, entre le Nouveau-Brunswick et la Nouvelle-Écosse, connaît les plus fortes marées du monde ?",
+  "r": "La baie de Fundy",
+  "d": 3,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Dans quelle mer se trouve la Grande Barrière de corail ?",
+  "r": "La mer de Corail",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quelle mer sépare l'Australie de la Nouvelle-Zélande ?",
+  "r": "La mer de Tasman",
+  "d": 2,
+  "t": "Océans et mers"
+ },
+ {
+  "q": "Quel canal, inauguré en 1869, relie la Méditerranée à la mer Rouge ?",
+  "r": "Le canal de Suez",
+  "d": 1,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel diplomate français a mené le percement du canal de Suez ?",
+  "r": "Ferdinand de Lesseps",
+  "d": 1,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "En quelle année le canal de Panama a-t-il été ouvert à la navigation ?",
+  "r": "1914",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel lac artificiel, traversé par le canal de Panama, fut à sa création le plus grand lac artificiel du monde ?",
+  "r": "Le lac Gatún",
+  "d": 3,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel isthme relie l'Amérique du Nord et l'Amérique du Sud ?",
+  "r": "L'isthme de Panama",
+  "d": 1,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit sépare l'Asie de l'Amérique ?",
+  "r": "Le détroit de Béring",
+  "d": 1,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit stratégique relie le golfe Persique au golfe d'Oman ?",
+  "r": "Le détroit d'Ormuz",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit sépare la péninsule Malaise de l'île de Sumatra ?",
+  "r": "Le détroit de Malacca",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit, dont le nom arabe signifie « porte des lamentations », relie la mer Rouge au golfe d'Aden ?",
+  "r": "Le détroit de Bab-el-Mandeb",
+  "d": 3,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit du sud du Chili sépare le continent américain de la Terre de Feu ?",
+  "r": "Le détroit de Magellan",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel bras de mer sépare le cap Horn de la péninsule Antarctique ?",
+  "r": "Le passage de Drake",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel cap, point le plus austral de la Terre de Feu, est redouté des navigateurs pour ses tempêtes ?",
+  "r": "Le cap Horn",
+  "d": 1,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit traverse Istanbul et relie la mer Noire à la mer de Marmara ?",
+  "r": "Le Bosphore",
+  "d": 1,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit sépare la Corée du Sud du Japon ?",
+  "r": "Le détroit de Corée (Tsushima)",
+  "d": 3,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit sépare le Sri Lanka de l'Inde ?",
+  "r": "Le détroit de Palk",
+  "d": 3,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel détroit sépare les deux îles principales de la Nouvelle-Zélande ?",
+  "r": "Le détroit de Cook",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel canal, ouvert en 1825 dans l'État de New York, relie les Grands Lacs au fleuve Hudson ?",
+  "r": "Le canal Érié",
+  "d": 3,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel canal chinois, le plus long canal artificiel du monde, relie Pékin à Hangzhou ?",
+  "r": "Le Grand Canal",
+  "d": 2,
+  "t": "Détroits et canaux"
+ },
+ {
+  "q": "Quel isthme de Thaïlande constitue la partie la plus étroite de la péninsule Malaise ?",
+  "r": "L'isthme de Kra",
+  "d": 3,
+  "t": "Détroits et canaux"
+ }
+]
