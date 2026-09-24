@@ -1,92 +1,542 @@
 [
-  {"q": "Quel acteur incarne le boxeur Rocky Balboa, dont il a aussi écrit le scénario ?", "r": "Sylvester Stallone", "d": 1, "t": "Acteurs"},
-  {"q": "Quelle actrice britannique joue Hermione Granger dans la saga « Harry Potter » ?", "r": "Emma Watson", "d": 1, "t": "Sagas"},
-  {"q": "Dans « Le Roi Lion » de Disney, comment s'appelle l'oncle traître de Simba ?", "r": "Scar", "d": 1, "t": "Animation"},
-  {"q": "Quel acteur américain incarne le capitaine Jack Sparrow dans « Pirates des Caraïbes » ?", "r": "Johnny Depp", "d": 1, "t": "Personnages"},
-  {"q": "Dans quelle saga de films de course automobile Vin Diesel incarne-t-il Dominic Toretto ?", "r": "Fast and Furious", "d": 1, "t": "Sagas"},
-  {"q": "Comment s'appelle le vaisseau spatial piloté par Han Solo dans « Star Wars » ?", "r": "Le Faucon Millenium", "d": 1, "t": "Sagas"},
-  {"q": "Quel animal est Bambi, le héros du dessin animé de Disney de 1942 ?", "r": "Un faon", "d": 1, "t": "Animation"},
-  {"q": "Quel acteur incarne le général romain Maximus dans « Gladiator » (2000) ?", "r": "Russell Crowe", "d": 1, "t": "Acteurs"},
-  {"q": "Quelle actrice britannique incarne la gouvernante magique dans « Mary Poppins » (1964) ?", "r": "Julie Andrews", "d": 1, "t": "Acteurs"},
-  {"q": "Quelle actrice est la vedette de « Pretty Woman » (1990) aux côtés de Richard Gere ?", "r": "Julia Roberts", "d": 1, "t": "Acteurs"},
-  {"q": "Quel réalisateur américain a signé « Le Parrain » en 1972 ?", "r": "Francis Ford Coppola", "d": 1, "t": "Réalisateurs"},
-  {"q": "Quelle petite fée accompagne Peter Pan dans le dessin animé de Disney ?", "r": "La fée Clochette", "d": 1, "t": "Animation"},
-  {"q": "Dans « Le Monde de Nemo », comment s'appelle le poisson bleu qui souffre de pertes de mémoire ?", "r": "Dory", "d": 1, "t": "Animation"},
-  {"q": "Dans « Les 101 Dalmatiens », quelle méchante veut se faire un manteau avec la fourrure des chiots ?", "r": "Cruella d'Enfer", "d": 1, "t": "Animation"},
-  {"q": "Quelle héroïne Disney (1998) se déguise en homme pour combattre à la place de son père en Chine ?", "r": "Mulan", "d": 1, "t": "Animation"},
-  {"q": "Dans « Le Livre de la jungle » de Disney (1967), comment s'appelle l'ours insouciant ami de Mowgli ?", "r": "Baloo", "d": 1, "t": "Animation"},
-  {"q": "Quel super-héros de Marvel se cache sous l'identité du jeune photographe Peter Parker ?", "r": "Spider-Man", "d": 1, "t": "Super-héros"},
-  {"q": "Quel justicier de Gotham City se cache derrière le milliardaire Bruce Wayne ?", "r": "Batman", "d": 1, "t": "Super-héros"},
-  {"q": "Quel acteur incarne Tony Stark, alias Iron Man, dans les films Marvel à partir de 2008 ?", "r": "Robert Downey Jr.", "d": 1, "t": "Super-héros"},
-  {"q": "Dans quelle saga de films l'héroïne Katniss Everdeen participe-t-elle à des jeux mortels télévisés ?", "r": "Hunger Games", "d": 1, "t": "Sagas"},
-  {"q": "Dans la saga « Twilight », quel est le prénom du vampire dont Bella Swan tombe amoureuse ?", "r": "Edward", "d": 1, "t": "Sagas"},
-  {"q": "Quel magicien à la longue barbe guide la Communauté de l'Anneau dans « Le Seigneur des anneaux » ?", "r": "Gandalf", "d": 1, "t": "Sagas"},
-  {"q": "Dans quel pays la trilogie « Le Seigneur des anneaux » de Peter Jackson a-t-elle été tournée ?", "r": "La Nouvelle-Zélande", "d": 1, "t": "Sagas"},
-  {"q": "Quel acteur britannique incarne le maladroit Mr. Bean au cinéma ?", "r": "Rowan Atkinson", "d": 1, "t": "Acteurs"},
-  {"q": "Dans quel film de 1993 des dinosaures recréés à partir d'ADN s'échappent-ils d'un parc d'attractions ?", "r": "Jurassic Park", "d": 1, "t": "Science-fiction"},
-  {"q": "Quel film de 1939 raconte les amours de Scarlett O'Hara pendant la guerre de Sécession ?", "r": "Autant en emporte le vent", "d": 1, "t": "Classiques hollywoodiens"},
-  {"q": "Quelle chanteuse québécoise interprète « My Heart Will Go On », chanson du film « Titanic » ?", "r": "Céline Dion", "d": 1, "t": "Musiques de films"},
-  {"q": "Quel film de Steven Spielberg (1993) raconte comment un industriel allemand a sauvé plus d'un millier de Juifs ?", "r": "La Liste de Schindler", "d": 1, "t": "Films historiques"},
-  {"q": "Quelle créature du « Seigneur des anneaux » appelle l'Anneau « mon précieux » ?", "r": "Gollum", "d": 1, "t": "Répliques cultes"},
-  {"q": "Quel jouet de « Toy Story » s'écrie « Vers l'infini et au-delà ! » ?", "r": "Buzz l'Éclair", "d": 1, "t": "Répliques cultes"},
-  {"q": "Quel film de Christopher Nolan (2010) met en scène des voleurs qui s'infiltrent dans les rêves ?", "r": "Inception", "d": 1, "t": "Science-fiction"},
-  {"q": "Quel film de Christopher Nolan (2023) retrace la vie du physicien considéré comme le père de la bombe atomique ?", "r": "Oppenheimer", "d": 1, "t": "Films historiques"},
-  {"q": "Quel film de Greta Gerwig, sorti en 2023, est consacré à une célèbre poupée de la marque Mattel ?", "r": "Barbie", "d": 1, "t": "Cinéma international"},
-  {"q": "Quelle actrice australienne incarne le rôle-titre du film « Barbie » (2023) ?", "r": "Margot Robbie", "d": 1, "t": "Acteurs"},
-  {"q": "Quelle comédie musicale de Damien Chazelle (2016) réunit Ryan Gosling et Emma Stone à Los Angeles ?", "r": "La La Land", "d": 1, "t": "Comédies musicales"},
-  {"q": "Quel film Pixar de 2009 montre un vieil homme dont la maison s'envole grâce à des milliers de ballons ?", "r": "Là-haut", "d": 1, "t": "Animation"},
-  {"q": "Dans « Le Roi Lion », quelle espèce d'animal est Pumbaa, l'inséparable ami de Timon ?", "r": "Un phacochère", "d": 2, "t": "Animation"},
-  {"q": "Dans « Le Livre de la jungle » de Disney, comment s'appelle le tigre qui menace Mowgli ?", "r": "Shere Khan", "d": 2, "t": "Animation"},
-  {"q": "Dans « Le Livre de la jungle » de Disney, comment s'appelle la panthère noire qui protège Mowgli ?", "r": "Bagheera", "d": 2, "t": "Animation"},
-  {"q": "Quel réalisateur américain a signé « 2001, l'Odyssée de l'espace » (1968) ?", "r": "Stanley Kubrick", "d": 2, "t": "Réalisateurs"},
-  {"q": "Quel cinéaste néo-zélandais a réalisé la trilogie « Le Seigneur des anneaux » ?", "r": "Peter Jackson", "d": 2, "t": "Réalisateurs"},
-  {"q": "Quel acteur incarne le patriarche Vito Corleone dans « Le Parrain » (1972) ?", "r": "Marlon Brando", "d": 2, "t": "Acteurs"},
-  {"q": "Quelle actrice américaine joue Katniss Everdeen dans « Hunger Games » ?", "r": "Jennifer Lawrence", "d": 2, "t": "Acteurs"},
-  {"q": "Quelle chanson Dorothy chante-t-elle dans « Le Magicien d'Oz » (1939), rêvant d'un monde meilleur ?", "r": "Over the Rainbow", "d": 2, "t": "Musiques de films"},
-  {"q": "Quelle actrice chante « Diamonds Are a Girl's Best Friend » dans « Les hommes préfèrent les blondes » (1953) ?", "r": "Marilyn Monroe", "d": 2, "t": "Acteurs"},
-  {"q": "Quel acteur tient le rôle de l'autiste savant Raymond Babbitt dans « Rain Man » (1988) ?", "r": "Dustin Hoffman", "d": 2, "t": "Acteurs"},
-  {"q": "Quel acteur incarne Rhett Butler dans « Autant en emporte le vent » ?", "r": "Clark Gable", "d": 2, "t": "Classiques hollywoodiens"},
-  {"q": "Quel compositeur italien a écrit la musique du « Bon, la Brute et le Truand » (1966) ?", "r": "Ennio Morricone", "d": 2, "t": "Musiques de films"},
-  {"q": "Quel cinéaste italien est considéré comme le maître du « western spaghetti » ?", "r": "Sergio Leone", "d": 2, "t": "Réalisateurs"},
-  {"q": "Quel acteur américain incarne « l'Homme sans nom » dans la trilogie du dollar de Sergio Leone ?", "r": "Clint Eastwood", "d": 2, "t": "Acteurs"},
-  {"q": "Dans « Il était une fois dans l'Ouest », de quel instrument joue le personnage incarné par Charles Bronson ?", "r": "L'harmonica", "d": 2, "t": "Musiques de films"},
-  {"q": "Quel compositeur allemand a reçu l'Oscar de la meilleure musique pour « Le Roi Lion » (1994) ?", "r": "Hans Zimmer", "d": 2, "t": "Musiques de films"},
-  {"q": "Quel chanteur britannique a composé les chansons du « Roi Lion », dont « L'histoire de la vie » ?", "r": "Elton John", "d": 2, "t": "Musiques de films"},
-  {"q": "Quel volet du « Seigneur des anneaux » a remporté onze Oscars en 2004, dont celui du meilleur film ?", "r": "Le Retour du roi", "d": 2, "t": "Oscars"},
-  {"q": "Quelle actrice américaine incarne le lieutenant Ripley dans « Alien » (1979) ?", "r": "Sigourney Weaver", "d": 2, "t": "Science-fiction"},
-  {"q": "Comment s'appelle l'ordinateur de bord qui se rebelle dans « 2001, l'Odyssée de l'espace » ?", "r": "HAL 9000", "d": 2, "t": "Science-fiction"},
-  {"q": "Quel acteur défonce une porte à la hache dans « Shining » (1980) de Stanley Kubrick ?", "r": "Jack Nicholson", "d": 2, "t": "Acteurs"},
-  {"q": "Dans quel film de Ron Howard (1995) entend-on « Houston, nous avons un problème » ?", "r": "Apollo 13", "d": 2, "t": "Répliques cultes"},
-  {"q": "Dans quel film de 1972 un personnage promet-il de faire « une offre qu'il ne pourra pas refuser » ?", "r": "Le Parrain", "d": 2, "t": "Répliques cultes"},
-  {"q": "Dans quel film de James Cameron le cyborg lance-t-il « Hasta la vista, baby » ?", "r": "Terminator 2 : Le Jugement dernier", "d": 2, "t": "Répliques cultes"},
-  {"q": "Quelle actrice incarne la Mariée en combinaison jaune dans « Kill Bill » de Quentin Tarantino ?", "r": "Uma Thurman", "d": 2, "t": "Acteurs"},
-  {"q": "Quel acteur irlandais tient le rôle-titre d'« Oppenheimer » (2023) ?", "r": "Cillian Murphy", "d": 2, "t": "Acteurs"},
-  {"q": "Quel film de Justine Triet a remporté la Palme d'or au Festival de Cannes en 2023 ?", "r": "Anatomie d'une chute", "d": 2, "t": "Festival de Cannes"},
-  {"q": "Quel film de Quentin Tarantino (2019) se déroule dans le Hollywood de 1969, avec DiCaprio et Brad Pitt ?", "r": "Once Upon a Time… in Hollywood", "d": 2, "t": "Réalisateurs"},
-  {"q": "Quel acteur incarne l'anarchiste Tyler Durden dans « Fight Club » (1999) ?", "r": "Brad Pitt", "d": 2, "t": "Acteurs"},
-  {"q": "Dans « Fight Club », quelle est la première règle du club ?", "r": "Ne pas parler du Fight Club", "d": 2, "t": "Répliques cultes"},
-  {"q": "Pour quel film Leonardo DiCaprio a-t-il enfin reçu l'Oscar du meilleur acteur en 2016 ?", "r": "The Revenant", "d": 2, "t": "Oscars"},
-  {"q": "Quel film d'Alfonso Cuarón (2013) montre Sandra Bullock et George Clooney dérivant dans l'espace ?", "r": "Gravity", "d": 2, "t": "Science-fiction"},
-  {"q": "Quel film de Danny Boyle (2008) suit un jeune Indien de Bombay candidat à « Qui veut gagner des millions ? » ?", "r": "Slumdog Millionaire", "d": 2, "t": "Oscars"},
-  {"q": "Quel réalisateur américain a signé « Beetlejuice » (1988) et « Edward aux mains d'argent » (1990) ?", "r": "Tim Burton", "d": 2, "t": "Réalisateurs"},
-  {"q": "Quel film d'animation en volume de Henry Selick (1993) a pour héros Jack Skellington, roi d'Halloween ?", "r": "L'Étrange Noël de monsieur Jack", "d": 2, "t": "Animation"},
-  {"q": "Comment s'appelle le rat qui rêve de devenir chef cuisinier à Paris dans « Ratatouille » (2007) ?", "r": "Rémy", "d": 2, "t": "Animation"},
-  {"q": "Quel film de 1995 est le premier long métrage entièrement réalisé en images de synthèse ?", "r": "Toy Story", "d": 2, "t": "Animation"},
-  {"q": "Quel acteur incarne Superman dans le film de Richard Donner sorti en 1978 ?", "r": "Christopher Reeve", "d": 3, "t": "Super-héros"},
-  {"q": "Dans quel film de Billy Wilder (1955) la robe blanche de Marilyn Monroe est-elle soulevée par une bouche d'aération du métro ?", "r": "Sept ans de réflexion", "d": 3, "t": "Classiques hollywoodiens"},
-  {"q": "Quel film de 1959 avec Charlton Heston fut le premier à remporter onze Oscars ?", "r": "Ben-Hur", "d": 3, "t": "Oscars"},
-  {"q": "Quel film de Roman Polanski a remporté la Palme d'or au Festival de Cannes en 2002 ?", "r": "Le Pianiste", "d": 3, "t": "Festival de Cannes"},
-  {"q": "Quel acteur américain a reçu l'Oscar du meilleur acteur en 2003 pour « Le Pianiste » ?", "r": "Adrien Brody", "d": 3, "t": "Oscars"},
-  {"q": "Quel acteur a reçu l'Oscar du meilleur acteur pour « My Left Foot », « There Will Be Blood » et « Lincoln » ?", "r": "Daniel Day-Lewis", "d": 3, "t": "Oscars"},
-  {"q": "Quel acteur nord-irlandais incarne Oskar Schindler dans « La Liste de Schindler » ?", "r": "Liam Neeson", "d": 3, "t": "Acteurs"},
-  {"q": "Comment s'appelle le vaisseau commercial dont l'équipage affronte la créature d'« Alien » (1979) ?", "r": "Le Nostromo", "d": 3, "t": "Science-fiction"},
-  {"q": "Dans « Shining » de Stanley Kubrick, quel est le nom de l'hôtel isolé où Jack Torrance devient gardien ?", "r": "L'Overlook Hotel", "d": 3, "t": "Classiques hollywoodiens"},
-  {"q": "Quel acteur autrichien incarne le colonel SS Hans Landa dans « Inglourious Basterds » (2009) ?", "r": "Christoph Waltz", "d": 3, "t": "Acteurs"},
-  {"q": "Quelle réalisatrice française a remporté la Palme d'or 2021 avec « Titane » ?", "r": "Julia Ducournau", "d": 3, "t": "Festival de Cannes"},
-  {"q": "Quelle réalisatrice néo-zélandaise a remporté la Palme d'or en 1993 avec « La Leçon de piano » ?", "r": "Jane Campion", "d": 3, "t": "Festival de Cannes"},
-  {"q": "Quel film de Wes Anderson (2014) a pour héros le concierge d'hôtel Monsieur Gustave ?", "r": "The Grand Budapest Hotel", "d": 3, "t": "Cinéma international"},
-  {"q": "Quel acteur incarne le jeune Vito Corleone dans « Le Parrain, 2e partie » (1974) ?", "r": "Robert De Niro", "d": 3, "t": "Acteurs"},
-  {"q": "Quel cinéaste mexicain a reçu l'Oscar du meilleur réalisateur en 2018 pour « La Forme de l'eau » ?", "r": "Guillermo del Toro", "d": 3, "t": "Oscars"},
-  {"q": "En 2017, quel film a finalement reçu l'Oscar du meilleur film après l'annonce erronée de « La La Land » ?", "r": "Moonlight", "d": 3, "t": "Oscars"},
-  {"q": "Sous quel titre français est sorti « The Shawshank Redemption » (1994) de Frank Darabont ?", "r": "Les Évadés", "d": 3, "t": "Titres originaux"}
+ {
+  "q": "Quel acteur incarne le boxeur Rocky Balboa, dont il a aussi écrit le scénario ?",
+  "r": "Sylvester Stallone",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle actrice britannique joue Hermione Granger dans la saga « Harry Potter » ?",
+  "r": "Emma Watson",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Dans « Le Roi Lion » de Disney, comment s'appelle l'oncle traître de Simba ?",
+  "r": "Scar",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel acteur américain incarne le capitaine Jack Sparrow dans « Pirates des Caraïbes » ?",
+  "r": "Johnny Depp",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "q": "Dans quelle saga de films de course automobile Vin Diesel incarne-t-il Dominic Toretto ?",
+  "r": "Fast and Furious",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Comment s'appelle le vaisseau spatial piloté par Han Solo dans « Star Wars » ?",
+  "r": "Le Faucon Millenium",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel animal est Bambi, le héros du dessin animé de Disney de 1942 ?",
+  "r": "Un faon",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel acteur incarne le général romain Maximus dans « Gladiator » (2000) ?",
+  "r": "Russell Crowe",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle actrice britannique incarne la gouvernante magique dans « Mary Poppins » (1964) ?",
+  "r": "Julie Andrews",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle actrice est la vedette de « Pretty Woman » (1990) aux côtés de Richard Gere ?",
+  "r": "Julia Roberts",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel réalisateur américain a signé « Le Parrain » en 1972 ?",
+  "r": "Francis Ford Coppola",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quelle petite fée accompagne Peter Pan dans le dessin animé de Disney ?",
+  "r": "La fée Clochette",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans « Le Monde de Nemo », comment s'appelle le poisson bleu qui souffre de pertes de mémoire ?",
+  "r": "Dory",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans « Les 101 Dalmatiens », quelle méchante veut se faire un manteau avec la fourrure des chiots ?",
+  "r": "Cruella d'Enfer",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quelle héroïne Disney (1998) se déguise en homme pour combattre à la place de son père en Chine ?",
+  "r": "Mulan",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans « Le Livre de la jungle » de Disney (1967), comment s'appelle l'ours insouciant ami de Mowgli ?",
+  "r": "Baloo",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel super-héros de Marvel se cache sous l'identité du jeune photographe Peter Parker ?",
+  "r": "Spider-Man",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "q": "Quel justicier de Gotham City se cache derrière le milliardaire Bruce Wayne ?",
+  "r": "Batman",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "q": "Quel acteur incarne Tony Stark, alias Iron Man, dans les films Marvel à partir de 2008 ?",
+  "r": "Robert Downey Jr.",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "q": "Dans quelle saga de films l'héroïne Katniss Everdeen participe-t-elle à des jeux mortels télévisés ?",
+  "r": "Hunger Games",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Dans la saga « Twilight », quel est le prénom du vampire dont Bella Swan tombe amoureuse ?",
+  "r": "Edward",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel magicien à la longue barbe guide la Communauté de l'Anneau dans « Le Seigneur des anneaux » ?",
+  "r": "Gandalf",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Dans quel pays la trilogie « Le Seigneur des anneaux » de Peter Jackson a-t-elle été tournée ?",
+  "r": "La Nouvelle-Zélande",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel acteur britannique incarne le maladroit Mr. Bean au cinéma ?",
+  "r": "Rowan Atkinson",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Dans quel film de 1993 des dinosaures recréés à partir d'ADN s'échappent-ils d'un parc d'attractions ?",
+  "r": "Jurassic Park",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Quel film de 1939 raconte les amours de Scarlett O'Hara pendant la guerre de Sécession ?",
+  "r": "Autant en emporte le vent",
+  "d": 1,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "q": "Quelle chanteuse québécoise interprète « My Heart Will Go On », chanson du film « Titanic » ?",
+  "r": "Céline Dion",
+  "d": 1,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quel film de Steven Spielberg (1993) raconte comment un industriel allemand a sauvé plus d'un millier de Juifs ?",
+  "r": "La Liste de Schindler",
+  "d": 1,
+  "t": "Films historiques"
+ },
+ {
+  "q": "Quelle créature du « Seigneur des anneaux » appelle l'Anneau « mon précieux » ?",
+  "r": "Gollum",
+  "d": 1,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel jouet de « Toy Story » s'écrie « Vers l'infini et au-delà ! » ?",
+  "r": "Buzz l'Éclair",
+  "d": 1,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel film de Christopher Nolan (2010) met en scène des voleurs qui s'infiltrent dans les rêves ?",
+  "r": "Inception",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Quel film de Christopher Nolan (2023) retrace la vie du physicien considéré comme le père de la bombe atomique ?",
+  "r": "Oppenheimer",
+  "d": 1,
+  "t": "Films historiques"
+ },
+ {
+  "q": "Quel film de Greta Gerwig, sorti en 2023, est consacré à une célèbre poupée de la marque Mattel ?",
+  "r": "Barbie",
+  "d": 1,
+  "t": "Cinéma international"
+ },
+ {
+  "q": "Quelle actrice australienne incarne le rôle-titre du film « Barbie » (2023) ?",
+  "r": "Margot Robbie",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle comédie musicale de Damien Chazelle (2016) réunit Ryan Gosling et Emma Stone à Los Angeles ?",
+  "r": "La La Land",
+  "d": 1,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel film Pixar de 2009 montre un vieil homme dont la maison s'envole grâce à des milliers de ballons ?",
+  "r": "Là-haut",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans « Le Roi Lion », quelle espèce d'animal est Pumbaa, l'inséparable ami de Timon ?",
+  "r": "Un phacochère",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans « Le Livre de la jungle » de Disney, comment s'appelle le tigre qui menace Mowgli ?",
+  "r": "Shere Khan",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans « Le Livre de la jungle » de Disney, comment s'appelle la panthère noire qui protège Mowgli ?",
+  "r": "Bagheera",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel réalisateur américain a signé « 2001, l'Odyssée de l'espace » (1968) ?",
+  "r": "Stanley Kubrick",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel cinéaste néo-zélandais a réalisé la trilogie « Le Seigneur des anneaux » ?",
+  "r": "Peter Jackson",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel acteur incarne le patriarche Vito Corleone dans « Le Parrain » (1972) ?",
+  "r": "Marlon Brando",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle actrice américaine joue Katniss Everdeen dans « Hunger Games » ?",
+  "r": "Jennifer Lawrence",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle chanson Dorothy chante-t-elle dans « Le Magicien d'Oz » (1939), rêvant d'un monde meilleur ?",
+  "r": "Over the Rainbow",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quelle actrice chante « Diamonds Are a Girl's Best Friend » en robe rose dans « Les hommes préfèrent les blondes » (1953) ?",
+  "r": "Marilyn Monroe",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel acteur tient le rôle de l'autiste savant Raymond Babbitt dans « Rain Man » (1988) ?",
+  "r": "Dustin Hoffman",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel acteur incarne Rhett Butler dans « Autant en emporte le vent » ?",
+  "r": "Clark Gable",
+  "d": 2,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "q": "Quel compositeur italien a écrit la musique du « Bon, la Brute et le Truand » (1966) ?",
+  "r": "Ennio Morricone",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quel cinéaste italien est considéré comme le maître du « western spaghetti » ?",
+  "r": "Sergio Leone",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel acteur américain incarne « l'Homme sans nom » dans la trilogie du dollar de Sergio Leone ?",
+  "r": "Clint Eastwood",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Dans « Il était une fois dans l'Ouest », de quel instrument joue le personnage incarné par Charles Bronson ?",
+  "r": "L'harmonica",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quel compositeur allemand a reçu l'Oscar de la meilleure musique pour « Le Roi Lion » (1994) ?",
+  "r": "Hans Zimmer",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quel chanteur britannique a composé les chansons du « Roi Lion », dont « L'histoire de la vie » ?",
+  "r": "Elton John",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quel volet du « Seigneur des anneaux » a remporté onze Oscars en 2004, dont celui du meilleur film ?",
+  "r": "Le Retour du roi",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quelle actrice américaine incarne Ellen Ripley dans « Alien » (1979) ?",
+  "r": "Sigourney Weaver",
+  "d": 2,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Comment s'appelle l'ordinateur de bord qui se rebelle dans « 2001, l'Odyssée de l'espace » ?",
+  "r": "HAL 9000",
+  "d": 2,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Quel acteur défonce une porte à la hache dans « Shining » (1980) de Stanley Kubrick ?",
+  "r": "Jack Nicholson",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Dans quel film de Ron Howard (1995) entend-on « Houston, nous avons un problème » ?",
+  "r": "Apollo 13",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Dans quel film de 1972 un personnage promet-il de faire « une offre qu'il ne pourra pas refuser » ?",
+  "r": "Le Parrain",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Dans quel film de James Cameron le cyborg lance-t-il « Hasta la vista, baby » ?",
+  "r": "Terminator 2 : Le Jugement dernier",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quelle actrice incarne la Mariée en combinaison jaune dans « Kill Bill » de Quentin Tarantino ?",
+  "r": "Uma Thurman",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel acteur irlandais tient le rôle-titre d'« Oppenheimer » (2023) ?",
+  "r": "Cillian Murphy",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film de Justine Triet a remporté la Palme d'or au Festival de Cannes en 2023 ?",
+  "r": "Anatomie d'une chute",
+  "d": 2,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quel film de Quentin Tarantino (2019) se déroule dans le Hollywood de 1969, avec DiCaprio et Brad Pitt ?",
+  "r": "Once Upon a Time… in Hollywood",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel acteur incarne l'anarchiste Tyler Durden dans « Fight Club » (1999) ?",
+  "r": "Brad Pitt",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Dans « Fight Club », quelle est la première règle du club ?",
+  "r": "Ne pas parler du Fight Club",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Pour quel film Leonardo DiCaprio a-t-il enfin reçu l'Oscar du meilleur acteur en 2016 ?",
+  "r": "The Revenant",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel film d'Alfonso Cuarón (2013) montre Sandra Bullock et George Clooney dérivant dans l'espace ?",
+  "r": "Gravity",
+  "d": 2,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Quel film de Danny Boyle (2008) suit un jeune Indien de Bombay candidat à « Qui veut gagner des millions ? » ?",
+  "r": "Slumdog Millionaire",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel réalisateur américain a signé « Beetlejuice » (1988) et « Edward aux mains d'argent » (1990) ?",
+  "r": "Tim Burton",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel film d'animation en volume de Henry Selick (1993) a pour héros Jack Skellington, roi d'Halloween ?",
+  "r": "L'Étrange Noël de monsieur Jack",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Comment s'appelle le rat qui rêve de devenir chef cuisinier à Paris dans « Ratatouille » (2007) ?",
+  "r": "Rémy",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel film de 1995 est le premier long métrage entièrement réalisé en images de synthèse ?",
+  "r": "Toy Story",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel acteur incarne Superman dans le film de Richard Donner sorti en 1978 ?",
+  "r": "Christopher Reeve",
+  "d": 3,
+  "t": "Super-héros"
+ },
+ {
+  "q": "Dans quel film de Billy Wilder (1955) la robe blanche de Marilyn Monroe est-elle soulevée par une bouche d'aération du métro ?",
+  "r": "Sept ans de réflexion",
+  "d": 3,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "q": "Quel film de 1959 avec Charlton Heston fut le premier à remporter onze Oscars ?",
+  "r": "Ben-Hur",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel film de Roman Polanski a remporté la Palme d'or au Festival de Cannes en 2002 ?",
+  "r": "Le Pianiste",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quel acteur américain a reçu l'Oscar du meilleur acteur en 2003 pour « Le Pianiste » ?",
+  "r": "Adrien Brody",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel acteur a reçu l'Oscar du meilleur acteur pour « My Left Foot », « There Will Be Blood » et « Lincoln » ?",
+  "r": "Daniel Day-Lewis",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel acteur nord-irlandais incarne Oskar Schindler dans « La Liste de Schindler » ?",
+  "r": "Liam Neeson",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Comment s'appelle le vaisseau commercial dont l'équipage affronte la créature d'« Alien » (1979) ?",
+  "r": "Le Nostromo",
+  "d": 3,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Dans « Shining » de Stanley Kubrick, quel est le nom de l'hôtel isolé où Jack Torrance devient gardien ?",
+  "r": "L'Overlook Hotel",
+  "d": 3,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "q": "Quel acteur autrichien incarne le colonel SS Hans Landa dans « Inglourious Basterds » (2009) ?",
+  "r": "Christoph Waltz",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle réalisatrice française a remporté la Palme d'or 2021 avec « Titane » ?",
+  "r": "Julia Ducournau",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quelle réalisatrice néo-zélandaise a remporté la Palme d'or en 1993 avec « La Leçon de piano » ?",
+  "r": "Jane Campion",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quel film de Wes Anderson (2014) a pour héros le concierge d'hôtel Monsieur Gustave ?",
+  "r": "The Grand Budapest Hotel",
+  "d": 3,
+  "t": "Cinéma international"
+ },
+ {
+  "q": "Quel acteur incarne le jeune Vito Corleone dans « Le Parrain, 2e partie » (1974) ?",
+  "r": "Robert De Niro",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel cinéaste mexicain a reçu l'Oscar du meilleur réalisateur en 2018 pour « La Forme de l'eau » ?",
+  "r": "Guillermo del Toro",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "En 2017, quel film a finalement reçu l'Oscar du meilleur film après l'annonce erronée de « La La Land » ?",
+  "r": "Moonlight",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Sous quel titre français est sorti « The Shawshank Redemption » (1994) de Frank Darabont ?",
+  "r": "Les Évadés",
+  "d": 3,
+  "t": "Titres originaux"
+ }
 ]

@@ -1,542 +1,542 @@
 [
-  {
-    "q": "Quel acteur écossais fut le premier à incarner James Bond au cinéma, dans « James Bond 007 contre Dr No » (1962) ?",
-    "r": "Sean Connery",
-    "d": 1,
-    "t": "James Bond"
-  },
-  {
-    "q": "Quel cocktail James Bond commande-t-il « au shaker, pas à la cuillère » ?",
-    "r": "Un (vodka) martini",
-    "d": 1,
-    "t": "James Bond"
-  },
-  {
-    "q": "Dans quelle ville se déroule « Taxi » (1998), où un chauffeur de taxi fou du volant aide un policier ?",
-    "r": "Marseille",
-    "d": 1,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quel humoriste a réalisé « Bienvenue chez les Ch'tis » (2008), dans lequel il joue le facteur Antoine Bailleul ?",
-    "r": "Dany Boon",
-    "d": 1,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Quelle comédie de 2014 raconte l'histoire d'un couple catholique dont les quatre filles épousent des hommes d'origines diverses ?",
-    "r": "Qu'est-ce qu'on a fait au Bon Dieu ?",
-    "d": 1,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Quel acteur incarne l'écuyer Jacquouille la Fripouille dans « Les Visiteurs » (1993) ?",
-    "r": "Christian Clavier",
-    "d": 1,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Quelle comédie de Coline Serreau (1985) montre trois célibataires contraints de s'occuper d'un bébé ?",
-    "r": "Trois hommes et un couffin",
-    "d": 1,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Quel cinéaste français a réalisé « Le Cinquième Élément » (1997) avec Bruce Willis ?",
-    "r": "Luc Besson",
-    "d": 1,
-    "t": "Réalisateurs"
-  },
-  {
-    "q": "Quel film de Luc Besson (1994) raconte l'amitié entre un tueur à gages new-yorkais et une fillette nommée Mathilda ?",
-    "r": "Léon",
-    "d": 1,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quel film de 2004 met en scène un surveillant qui forme une chorale dans un internat pour enfants difficiles ?",
-    "r": "Les Choristes",
-    "d": 1,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quel film d'animation de Michel Ocelot (1998) a pour héros un tout petit garçon africain qui affronte une sorcière ?",
-    "r": "Kirikou et la Sorcière",
-    "d": 1,
-    "t": "Animation"
-  },
-  {
-    "q": "Quel acteur incarne le maréchal des logis-chef Cruchot dans « Le Gendarme de Saint-Tropez » (1964) ?",
-    "r": "Louis de Funès",
-    "d": 1,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Quelle actrice française devient une star internationale grâce à « Et Dieu… créa la femme » (1956) ?",
-    "r": "Brigitte Bardot",
-    "d": 1,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel monstre géant, apparu pour la première fois dans un film japonais de 1954, dévaste Tokyo ?",
-    "r": "Godzilla",
-    "d": 1,
-    "t": "Cinéma asiatique"
-  },
-  {
-    "q": "Quel maître des arts martiaux, star de « La Fureur du dragon » (1972), est mort à 32 ans en 1973 ?",
-    "r": "Bruce Lee",
-    "d": 1,
-    "t": "Cinéma asiatique"
-  },
-  {
-    "q": "Quel film de Stephen Daldry (2000) raconte l'histoire d'un fils de mineur anglais qui rêve de devenir danseur ?",
-    "r": "Billy Elliot",
-    "d": 1,
-    "t": "Cinéma britannique"
-  },
-  {
-    "q": "Comment s'appelle l'école de sorcellerie fréquentée par Harry Potter ?",
-    "r": "Poudlard",
-    "d": 1,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel sport se joue sur des balais volants dans la saga « Harry Potter » ?",
-    "r": "Le Quidditch",
-    "d": 1,
-    "t": "Sagas"
-  },
-  {
-    "q": "Comment s'appelle la chouette blanche d'Harry Potter ?",
-    "r": "Hedwige",
-    "d": 1,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel petit maître Jedi à la peau verte forme Luke Skywalker dans « L'Empire contre-attaque » ?",
-    "r": "Yoda",
-    "d": 1,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel cinéaste américain a créé la saga « Star Wars » en 1977 ?",
-    "r": "George Lucas",
-    "d": 1,
-    "t": "Réalisateurs"
-  },
-  {
-    "q": "Quel droïde doré et bavard accompagne R2-D2 dans « Star Wars » ?",
-    "r": "C-3PO",
-    "d": 1,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel acteur incarne le policier John McClane dans « Piège de cristal » (1988) ?",
-    "r": "Bruce Willis",
-    "d": 1,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel acteur incarne l'agent Ethan Hunt dans la saga « Mission impossible » ?",
-    "r": "Tom Cruise",
-    "d": 1,
-    "t": "Sagas"
-  },
-  {
-    "q": "Dans quel film de 1986 Tom Cruise incarne-t-il un pilote de chasse surnommé Maverick ?",
-    "r": "Top Gun",
-    "d": 1,
-    "t": "Cinéma américain"
-  },
-  {
-    "q": "Dans quel film de 1977 John Travolta incarne-t-il Tony Manero, roi des pistes de danse disco ?",
-    "r": "La Fièvre du samedi soir",
-    "d": 1,
-    "t": "Comédies musicales"
-  },
-  {
-    "q": "Quelle pièce de Shakespeare est transposée chez les gangs de New York dans « West Side Story » ?",
-    "r": "Roméo et Juliette",
-    "d": 1,
-    "t": "Comédies musicales"
-  },
-  {
-    "q": "Quel film de Mel Gibson (1995) retrace le combat du héros écossais William Wallace ?",
-    "r": "Braveheart",
-    "d": 1,
-    "t": "Films historiques"
-  },
-  {
-    "q": "Quel film de Kevin Costner (1990) montre un officier nordiste adopté par une tribu sioux ?",
-    "r": "Danse avec les loups",
-    "d": 1,
-    "t": "Westerns"
-  },
-  {
-    "q": "Quel éléphanteau de Disney (1941) parvient à voler grâce à ses immenses oreilles ?",
-    "r": "Dumbo",
-    "d": 1,
-    "t": "Animation"
-  },
-  {
-    "q": "Quelle princesse de Disney perd une pantoufle de verre en quittant le bal à minuit ?",
-    "r": "Cendrillon",
-    "d": 1,
-    "t": "Animation"
-  },
-  {
-    "q": "Dans quel film Disney de 1989 une jeune sirène nommée Ariel rêve-t-elle de vivre parmi les humains ?",
-    "r": "La Petite Sirène",
-    "d": 1,
-    "t": "Animation"
-  },
-  {
-    "q": "Quelle héroïne polynésienne de Disney (2016) prend la mer avec le demi-dieu Maui ?",
-    "r": "Vaiana",
-    "d": 1,
-    "t": "Animation"
-  },
-  {
-    "q": "Quelle princesse aux cheveux blonds interminables est enfermée dans une tour dans un film Disney de 2010 ?",
-    "r": "Raiponce",
-    "d": 1,
-    "t": "Animation"
-  },
-  {
-    "q": "Quel film de Roland Emmerich (1996) montre une invasion extraterrestre repoussée le jour de la fête nationale américaine ?",
-    "r": "Independence Day",
-    "d": 1,
-    "t": "Science-fiction"
-  },
-  {
-    "q": "Que signifie l'expression swahilie « Hakuna matata », chantée par Timon et Pumbaa dans « Le Roi Lion » ?",
-    "r": "Pas de soucis",
-    "d": 1,
-    "t": "Musiques de films"
-  },
-  {
-    "q": "Quelle grande ville indienne, ancien nom de Mumbai, a donné sa première syllabe au mot « Bollywood » ?",
-    "r": "Bombay",
-    "d": 1,
-    "t": "Cinéma asiatique"
-  },
-  {
-    "q": "Quel acteur irlandais incarne James Bond dans « GoldenEye » (1995) ?",
-    "r": "Pierce Brosnan",
-    "d": 2,
-    "t": "James Bond"
-  },
-  {
-    "q": "Dans quel James Bond de 1964 une femme meurt-elle après avoir été entièrement recouverte de peinture dorée ?",
-    "r": "Goldfinger",
-    "d": 2,
-    "t": "James Bond"
-  },
-  {
-    "q": "Quel film de Jean-Jacques Annaud (1988) suit un ourson orphelin dans les montagnes canadiennes ?",
-    "r": "L'Ours",
-    "d": 2,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quel film de Jean-Jacques Annaud (1986), avec Sean Connery, est adapté d'un roman d'Umberto Eco ?",
-    "r": "Le Nom de la rose",
-    "d": 2,
-    "t": "Adaptations"
-  },
-  {
-    "q": "Comment s'appelle l'être parfait incarné par Milla Jovovich dans « Le Cinquième Élément » ?",
-    "r": "Leeloo",
-    "d": 2,
-    "t": "Personnages"
-  },
-  {
-    "q": "Quelle actrice, alors adolescente, joue Mathilda dans « Léon » de Luc Besson ?",
-    "r": "Natalie Portman",
-    "d": 2,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel film de Claude Berri (1986), d'après Marcel Pagnol, voit Yves Montand en Papet boucher une source ?",
-    "r": "Jean de Florette",
-    "d": 2,
-    "t": "Adaptations"
-  },
-  {
-    "q": "Quel acteur incarne le surveillant Clément Mathieu dans « Les Choristes » ?",
-    "r": "Gérard Jugnot",
-    "d": 2,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel film d'animation de 2007, coréalisé par Marjane Satrapi, raconte son enfance en Iran ?",
-    "r": "Persepolis",
-    "d": 2,
-    "t": "Animation"
-  },
-  {
-    "q": "Quel film d'animation de Sylvain Chomet (2003) suit une grand-mère à la recherche de son petit-fils cycliste enlevé ?",
-    "r": "Les Triplettes de Belleville",
-    "d": 2,
-    "t": "Animation"
-  },
-  {
-    "q": "Quel trio comique signe le film « La Cité de la peur » (1994) ?",
-    "r": "Les Nuls",
-    "d": 2,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Pendant quel événement se déroule l'intrigue de « La Cité de la peur » (1994) ?",
-    "r": "Le Festival de Cannes",
-    "d": 2,
-    "t": "Comédies françaises"
-  },
-  {
-    "q": "Quel dialoguiste a écrit « Les cons, ça ose tout. C'est même à ça qu'on les reconnaît » pour « Les Tontons flingueurs » ?",
-    "r": "Michel Audiard",
-    "d": 2,
-    "t": "Répliques cultes"
-  },
-  {
-    "q": "Quel film d'Henri-Georges Clouzot (1953) suit des camionneurs transportant de la nitroglycérine en Amérique du Sud ?",
-    "r": "Le Salaire de la peur",
-    "d": 2,
-    "t": "Classiques français"
-  },
-  {
-    "q": "Quel film de Claude Lelouch (1966), avec Anouk Aimée et Jean-Louis Trintignant, est célèbre pour son « chabadabada » ?",
-    "r": "Un homme et une femme",
-    "d": 2,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quelle actrice française tient le rôle principal de « Belle de jour » (1967) de Luis Buñuel ?",
-    "r": "Catherine Deneuve",
-    "d": 2,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel cinéaste espagnol a réalisé « Tout sur ma mère » (1999) et « Volver » (2006) ?",
-    "r": "Pedro Almodóvar",
-    "d": 2,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Quel cinéaste italien a réalisé « La dolce vita » (1960) avec Marcello Mastroianni ?",
-    "r": "Federico Fellini",
-    "d": 2,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Dans quelle fontaine romaine Anita Ekberg se baigne-t-elle dans « La dolce vita » ?",
-    "r": "La fontaine de Trevi",
-    "d": 2,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Quel film de Roberto Benigni (1997) montre un père faisant croire à son fils qu'un camp de concentration est un jeu ?",
-    "r": "La vie est belle",
-    "d": 2,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Quel film de Giuseppe Tornatore (1988) raconte l'amitié d'un enfant et d'un projectionniste dans un village sicilien ?",
-    "r": "Cinema Paradiso",
-    "d": 2,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Quel acteur français incarne le tueur solitaire Jef Costello dans « Le Samouraï » (1967) de Jean-Pierre Melville ?",
-    "r": "Alain Delon",
-    "d": 2,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel cinéaste japonais a réalisé « Les Sept Samouraïs » (1954) ?",
-    "r": "Akira Kurosawa",
-    "d": 2,
-    "t": "Cinéma asiatique"
-  },
-  {
-    "q": "Quel film de sabre d'Ang Lee, sorti en 2000, met en scène des combats aériens dans les bambous ?",
-    "r": "Tigre et Dragon",
-    "d": 2,
-    "t": "Cinéma asiatique"
-  },
-  {
-    "q": "Dans « Le Septième Sceau » d'Ingmar Bergman, à quel jeu le chevalier défie-t-il la Mort ?",
-    "r": "Les échecs",
-    "d": 2,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Quel film muet allemand de Fritz Lang (1927) dépeint une cité futuriste où les ouvriers vivent sous terre ?",
-    "r": "Metropolis",
-    "d": 2,
-    "t": "Cinéma muet"
-  },
-  {
-    "q": "Quel acteur britannique est la vedette de « Quatre mariages et un enterrement » (1994) ?",
-    "r": "Hugh Grant",
-    "d": 2,
-    "t": "Cinéma britannique"
-  },
-  {
-    "q": "Quel film britannique de 1997 raconte l'histoire d'ouvriers au chômage de Sheffield qui montent un spectacle de strip-tease ?",
-    "r": "The Full Monty",
-    "d": 2,
-    "t": "Cinéma britannique"
-  },
-  {
-    "q": "Quel acteur britannique incarne le professeur Severus Rogue dans la saga « Harry Potter » ?",
-    "r": "Alan Rickman",
-    "d": 2,
-    "t": "Sagas"
-  },
-  {
-    "q": "Sur quelle planète désertique Luke Skywalker a-t-il grandi dans « Star Wars » ?",
-    "r": "Tatooine",
-    "d": 2,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel acteur incarne le policier Max Rockatansky dans le premier « Mad Max » (1979) ?",
-    "r": "Mel Gibson",
-    "d": 2,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Dans quel film de M. Night Shyamalan (1999) un petit garçon confie-t-il : « Je vois des gens qui sont morts » ?",
-    "r": "Sixième Sens",
-    "d": 2,
-    "t": "Répliques cultes"
-  },
-  {
-    "q": "Quel groupe des frères Gibb signe les tubes de « La Fièvre du samedi soir », dont « Stayin' Alive » ?",
-    "r": "Les Bee Gees",
-    "d": 2,
-    "t": "Musiques de films"
-  },
-  {
-    "q": "Quelle actrice et chanteuse incarne Sandy face à John Travolta dans « Grease » (1978) ?",
-    "r": "Olivia Newton-John",
-    "d": 2,
-    "t": "Comédies musicales"
-  },
-  {
-    "q": "Quel acteur et danseur américain chante et danse sous l'averse dans « Chantons sous la pluie » (1952) ?",
-    "r": "Gene Kelly",
-    "d": 2,
-    "t": "Comédies musicales"
-  },
-  {
-    "q": "Comment s'appelle la sorcière qui terrorise le village dans « Kirikou et la Sorcière » ?",
-    "r": "Karaba",
-    "d": 3,
-    "t": "Animation"
-  },
-  {
-    "q": "Quelle actrice joue le rôle-titre de « Manon des sources » (1986) de Claude Berri ?",
-    "r": "Emmanuelle Béart",
-    "d": 3,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel film de Jean-Pierre Jeunet et Marc Caro (1991) a pour cadre la boucherie d'un immeuble où l'on mange ses locataires ?",
-    "r": "Delicatessen",
-    "d": 3,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quel poète a coécrit avec Paul Grimault le film d'animation « Le Roi et l'Oiseau » (1980) ?",
-    "r": "Jacques Prévert",
-    "d": 3,
-    "t": "Animation"
-  },
-  {
-    "q": "Quel cinéaste a réalisé « Les Tontons flingueurs » (1963) ?",
-    "r": "Georges Lautner",
-    "d": 3,
-    "t": "Classiques français"
-  },
-  {
-    "q": "Quel compositeur a signé la musique d'« Un homme et une femme » (1966) de Claude Lelouch ?",
-    "r": "Francis Lai",
-    "d": 3,
-    "t": "Musiques de films"
-  },
-  {
-    "q": "Quel cinéaste, alors marié à Brigitte Bardot, a réalisé « Et Dieu… créa la femme » (1956) ?",
-    "r": "Roger Vadim",
-    "d": 3,
-    "t": "Réalisateurs"
-  },
-  {
-    "q": "Quel cinéaste espagnol a réalisé le court métrage surréaliste « Un chien andalou » (1929) avec Salvador Dalí ?",
-    "r": "Luis Buñuel",
-    "d": 3,
-    "t": "Cinéma européen"
-  },
-  {
-    "q": "Quel film de Luchino Visconti, avec Burt Lancaster et Alain Delon, a remporté la Palme d'or en 1963 ?",
-    "r": "Le Guépard",
-    "d": 3,
-    "t": "Festival de Cannes"
-  },
-  {
-    "q": "Quel acteur britannique tient le rôle-titre de « Lawrence d'Arabie » (1962) ?",
-    "r": "Peter O'Toole",
-    "d": 3,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel cinéaste britannique a réalisé « Lawrence d'Arabie » (1962) et « Le Pont de la rivière Kwaï » (1957) ?",
-    "r": "David Lean",
-    "d": 3,
-    "t": "Réalisateurs"
-  },
-  {
-    "q": "Quel acteur irlandais incarne Albus Dumbledore dans les deux premiers films « Harry Potter » ?",
-    "r": "Richard Harris",
-    "d": 3,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel acteur britannique incarne Obi-Wan Kenobi dans le premier « Star Wars » sorti en 1977 ?",
-    "r": "Alec Guinness",
-    "d": 3,
-    "t": "Sagas"
-  },
-  {
-    "q": "Quel cinéaste allemand a réalisé « Nosferatu le vampire » (1922) ?",
-    "r": "Friedrich Wilhelm Murnau",
-    "d": 3,
-    "t": "Cinéma muet"
-  },
-  {
-    "q": "Quel acteur incarne le plongeur Jacques Mayol dans « Le Grand Bleu » (1988) ?",
-    "r": "Jean-Marc Barr",
-    "d": 3,
-    "t": "Acteurs"
-  },
-  {
-    "q": "Quel film de Jean-Jacques Annaud (1981) raconte la quête d'une tribu préhistorique qui a perdu sa flamme ?",
-    "r": "La Guerre du feu",
-    "d": 3,
-    "t": "Cinéma français"
-  },
-  {
-    "q": "Quel film de Costa-Gavras a remporté l'Oscar du meilleur film en langue étrangère en 1970 ?",
-    "r": "Z",
-    "d": 3,
-    "t": "Oscars"
-  },
-  {
-    "q": "Quel acteur a reçu le prix d'interprétation masculine à Cannes en 2015 pour « La Loi du marché » ?",
-    "r": "Vincent Lindon",
-    "d": 3,
-    "t": "Festival de Cannes"
-  }
+ {
+  "q": "Quel acteur écossais fut le premier à incarner James Bond au cinéma, dans « James Bond 007 contre Dr No » (1962) ?",
+  "r": "Sean Connery",
+  "d": 1,
+  "t": "James Bond"
+ },
+ {
+  "q": "Quel cocktail James Bond commande-t-il « au shaker, pas à la cuillère » ?",
+  "r": "Un (vodka) martini",
+  "d": 1,
+  "t": "James Bond"
+ },
+ {
+  "q": "Dans quelle ville se déroule « Taxi » (1998), où un chauffeur de taxi fou du volant aide un policier ?",
+  "r": "Marseille",
+  "d": 1,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quel humoriste a réalisé « Bienvenue chez les Ch'tis » (2008), dans lequel il joue le facteur Antoine Bailleul ?",
+  "r": "Dany Boon",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Quelle comédie de 2014 raconte l'histoire d'un couple catholique dont les quatre filles épousent des hommes d'origines diverses ?",
+  "r": "Qu'est-ce qu'on a fait au Bon Dieu ?",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Quel acteur incarne l'écuyer Jacquouille la Fripouille dans « Les Visiteurs » (1993) ?",
+  "r": "Christian Clavier",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Quelle comédie de Coline Serreau (1985) montre trois célibataires contraints de s'occuper d'un bébé ?",
+  "r": "Trois hommes et un couffin",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Quel cinéaste français a réalisé « Le Cinquième Élément » (1997) avec Bruce Willis ?",
+  "r": "Luc Besson",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel film de Luc Besson (1994) raconte l'amitié entre un tueur à gages new-yorkais et une fillette nommée Mathilda ?",
+  "r": "Léon",
+  "d": 1,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quel film de 2004 met en scène un surveillant qui forme une chorale dans un internat pour enfants difficiles ?",
+  "r": "Les Choristes",
+  "d": 1,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quel film d'animation de Michel Ocelot (1998) a pour héros un tout petit garçon africain qui affronte une sorcière ?",
+  "r": "Kirikou et la Sorcière",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel acteur incarne le maréchal des logis-chef Cruchot dans « Le Gendarme de Saint-Tropez » (1964) ?",
+  "r": "Louis de Funès",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Quelle actrice française devient une star internationale grâce à « Et Dieu… créa la femme » (1956) ?",
+  "r": "Brigitte Bardot",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel monstre géant, apparu pour la première fois dans un film japonais de 1954, dévaste Tokyo ?",
+  "r": "Godzilla",
+  "d": 1,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Quel maître des arts martiaux, star de « La Fureur du dragon » (1972), est mort à 32 ans en 1973 ?",
+  "r": "Bruce Lee",
+  "d": 1,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Quel film de Stephen Daldry (2000) raconte l'histoire d'un fils de mineur anglais qui rêve de devenir danseur ?",
+  "r": "Billy Elliot",
+  "d": 1,
+  "t": "Cinéma britannique"
+ },
+ {
+  "q": "Comment s'appelle l'école de sorcellerie fréquentée par Harry Potter ?",
+  "r": "Poudlard",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel sport se joue sur des balais volants dans la saga « Harry Potter » ?",
+  "r": "Le Quidditch",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Comment s'appelle la chouette blanche d'Harry Potter ?",
+  "r": "Hedwige",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel petit maître Jedi à la peau verte forme Luke Skywalker dans « L'Empire contre-attaque » ?",
+  "r": "Yoda",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel cinéaste américain a créé la saga « Star Wars » en 1977 ?",
+  "r": "George Lucas",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel droïde doré et bavard accompagne R2-D2 dans « Star Wars » ?",
+  "r": "C-3PO",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel acteur incarne le policier John McClane dans « Piège de cristal » (1988) ?",
+  "r": "Bruce Willis",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel acteur incarne l'agent Ethan Hunt dans la saga « Mission impossible » ?",
+  "r": "Tom Cruise",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "q": "Dans quel film de 1986 Tom Cruise incarne-t-il un pilote de chasse surnommé Maverick ?",
+  "r": "Top Gun",
+  "d": 1,
+  "t": "Cinéma américain"
+ },
+ {
+  "q": "Dans quel film de 1977 John Travolta incarne-t-il Tony Manero, roi des pistes de danse disco ?",
+  "r": "La Fièvre du samedi soir",
+  "d": 1,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quelle pièce de Shakespeare est transposée chez les gangs de New York dans « West Side Story » ?",
+  "r": "Roméo et Juliette",
+  "d": 1,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel film de Mel Gibson (1995) retrace le combat du héros écossais William Wallace ?",
+  "r": "Braveheart",
+  "d": 1,
+  "t": "Films historiques"
+ },
+ {
+  "q": "Quel film de Kevin Costner (1990) montre un officier nordiste adopté par une tribu sioux ?",
+  "r": "Danse avec les loups",
+  "d": 1,
+  "t": "Westerns"
+ },
+ {
+  "q": "Quel éléphanteau de Disney (1941) parvient à voler grâce à ses immenses oreilles ?",
+  "r": "Dumbo",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quelle princesse de Disney perd une pantoufle de verre en quittant le bal à minuit ?",
+  "r": "Cendrillon",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Dans quel film Disney de 1989 une jeune sirène nommée Ariel rêve-t-elle de vivre parmi les humains ?",
+  "r": "La Petite Sirène",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quelle héroïne polynésienne de Disney (2016) prend la mer avec le demi-dieu Maui ?",
+  "r": "Vaiana",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quelle princesse aux cheveux blonds interminables est enfermée dans une tour dans un film Disney de 2010 ?",
+  "r": "Raiponce",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel film de Roland Emmerich (1996) montre une invasion extraterrestre repoussée le jour de la fête nationale américaine ?",
+  "r": "Independence Day",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Que signifie l'expression swahilie « Hakuna matata », chantée par Timon et Pumbaa dans « Le Roi Lion » ?",
+  "r": "Pas de souci (pas de problème)",
+  "d": 1,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quelle grande ville indienne, ancien nom de Mumbai, a donné sa première syllabe au mot « Bollywood » ?",
+  "r": "Bombay",
+  "d": 1,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Quel acteur irlandais incarne James Bond dans « GoldenEye » (1995) ?",
+  "r": "Pierce Brosnan",
+  "d": 2,
+  "t": "James Bond"
+ },
+ {
+  "q": "Dans quel James Bond de 1964 une femme meurt-elle après avoir été entièrement recouverte de peinture dorée ?",
+  "r": "Goldfinger",
+  "d": 2,
+  "t": "James Bond"
+ },
+ {
+  "q": "Quel film de Jean-Jacques Annaud (1988) suit un ourson orphelin dans les montagnes canadiennes ?",
+  "r": "L'Ours",
+  "d": 2,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quel film de Jean-Jacques Annaud (1986), avec Sean Connery, est adapté d'un roman d'Umberto Eco ?",
+  "r": "Le Nom de la rose",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "q": "Comment s'appelle l'être parfait incarné par Milla Jovovich dans « Le Cinquième Élément » ?",
+  "r": "Leeloo",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "q": "Quelle actrice, alors adolescente, joue Mathilda dans « Léon » de Luc Besson ?",
+  "r": "Natalie Portman",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film de Claude Berri (1986), d'après Marcel Pagnol, voit Yves Montand en Papet boucher une source ?",
+  "r": "Jean de Florette",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "q": "Quel acteur incarne le surveillant Clément Mathieu dans « Les Choristes » ?",
+  "r": "Gérard Jugnot",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film d'animation de 2007, coréalisé par Marjane Satrapi, raconte son enfance en Iran ?",
+  "r": "Persepolis",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel film d'animation de Sylvain Chomet (2003) suit une grand-mère à la recherche de son petit-fils cycliste enlevé ?",
+  "r": "Les Triplettes de Belleville",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel trio comique signe le film « La Cité de la peur » (1994) ?",
+  "r": "Les Nuls",
+  "d": 2,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Pendant quel événement se déroule l'intrigue de « La Cité de la peur » (1994) ?",
+  "r": "Le Festival de Cannes",
+  "d": 2,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Quel dialoguiste a écrit « Les cons, ça ose tout. C'est même à ça qu'on les reconnaît » pour « Les Tontons flingueurs » ?",
+  "r": "Michel Audiard",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel film d'Henri-Georges Clouzot (1953) suit des camionneurs transportant de la nitroglycérine en Amérique du Sud ?",
+  "r": "Le Salaire de la peur",
+  "d": 2,
+  "t": "Classiques français"
+ },
+ {
+  "q": "Quel film de Claude Lelouch (1966), avec Anouk Aimée et Jean-Louis Trintignant, est célèbre pour son « chabadabada » ?",
+  "r": "Un homme et une femme",
+  "d": 2,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quelle actrice française tient le rôle principal de « Belle de jour » (1967) de Luis Buñuel ?",
+  "r": "Catherine Deneuve",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel cinéaste espagnol a réalisé « Tout sur ma mère » (1999) et « Volver » (2006) ?",
+  "r": "Pedro Almodóvar",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Quel cinéaste italien a réalisé « La dolce vita » (1960) avec Marcello Mastroianni ?",
+  "r": "Federico Fellini",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Dans quelle fontaine romaine Anita Ekberg se baigne-t-elle dans « La dolce vita » ?",
+  "r": "La fontaine de Trevi",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Quel film de Roberto Benigni (1997) montre un père faisant croire à son fils qu'un camp de concentration est un jeu ?",
+  "r": "La vie est belle",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Quel film de Giuseppe Tornatore (1988) raconte l'amitié d'un enfant et d'un projectionniste dans un village sicilien ?",
+  "r": "Cinema Paradiso",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Quel acteur français incarne le tueur solitaire Jef Costello dans « Le Samouraï » (1967) de Jean-Pierre Melville ?",
+  "r": "Alain Delon",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel cinéaste japonais a réalisé « Les Sept Samouraïs » (1954) ?",
+  "r": "Akira Kurosawa",
+  "d": 2,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Quel film de sabre d'Ang Lee, sorti en 2000, met en scène des combats aériens dans les bambous ?",
+  "r": "Tigre et Dragon",
+  "d": 2,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Dans « Le Septième Sceau » d'Ingmar Bergman, à quel jeu le chevalier défie-t-il la Mort ?",
+  "r": "Les échecs",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Quel film muet allemand de Fritz Lang (1927) dépeint une cité futuriste où les ouvriers vivent sous terre ?",
+  "r": "Metropolis",
+  "d": 2,
+  "t": "Cinéma muet"
+ },
+ {
+  "q": "Quel acteur britannique est la vedette de « Quatre mariages et un enterrement » (1994) ?",
+  "r": "Hugh Grant",
+  "d": 2,
+  "t": "Cinéma britannique"
+ },
+ {
+  "q": "Quel film britannique de 1997 raconte l'histoire d'ouvriers au chômage de Sheffield qui montent un spectacle de strip-tease ?",
+  "r": "The Full Monty",
+  "d": 2,
+  "t": "Cinéma britannique"
+ },
+ {
+  "q": "Quel acteur britannique incarne le professeur Severus Rogue dans la saga « Harry Potter » ?",
+  "r": "Alan Rickman",
+  "d": 2,
+  "t": "Sagas"
+ },
+ {
+  "q": "Sur quelle planète désertique Luke Skywalker a-t-il grandi dans « Star Wars » ?",
+  "r": "Tatooine",
+  "d": 2,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel acteur incarne le policier Max Rockatansky dans le premier « Mad Max » (1979) ?",
+  "r": "Mel Gibson",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Dans quel film de M. Night Shyamalan (1999) un petit garçon confie-t-il : « Je vois des gens qui sont morts » ?",
+  "r": "Sixième Sens",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel groupe des frères Gibb signe les tubes de « La Fièvre du samedi soir », dont « Stayin' Alive » ?",
+  "r": "Les Bee Gees",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quelle actrice et chanteuse incarne Sandy face à John Travolta dans « Grease » (1978) ?",
+  "r": "Olivia Newton-John",
+  "d": 2,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Quel acteur et danseur américain chante et danse sous l'averse dans « Chantons sous la pluie » (1952) ?",
+  "r": "Gene Kelly",
+  "d": 2,
+  "t": "Comédies musicales"
+ },
+ {
+  "q": "Comment s'appelle la sorcière qui terrorise le village dans « Kirikou et la Sorcière » ?",
+  "r": "Karaba",
+  "d": 3,
+  "t": "Animation"
+ },
+ {
+  "q": "Quelle actrice joue le rôle-titre de « Manon des sources » (1986) de Claude Berri ?",
+  "r": "Emmanuelle Béart",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film de Jean-Pierre Jeunet et Marc Caro (1991) a pour cadre la boucherie d'un immeuble où l'on mange ses locataires ?",
+  "r": "Delicatessen",
+  "d": 3,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quel poète a coécrit avec Paul Grimault le film d'animation « Le Roi et l'Oiseau » (1980) ?",
+  "r": "Jacques Prévert",
+  "d": 3,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel cinéaste a réalisé « Les Tontons flingueurs » (1963) ?",
+  "r": "Georges Lautner",
+  "d": 3,
+  "t": "Classiques français"
+ },
+ {
+  "q": "Quel compositeur a signé la musique d'« Un homme et une femme » (1966) de Claude Lelouch ?",
+  "r": "Francis Lai",
+  "d": 3,
+  "t": "Musiques de films"
+ },
+ {
+  "q": "Quel cinéaste, alors marié à Brigitte Bardot, a réalisé « Et Dieu… créa la femme » (1956) ?",
+  "r": "Roger Vadim",
+  "d": 3,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel cinéaste espagnol a réalisé le court métrage surréaliste « Un chien andalou » (1929) avec Salvador Dalí ?",
+  "r": "Luis Buñuel",
+  "d": 3,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Quel film de Luchino Visconti, avec Burt Lancaster et Alain Delon, a remporté la Palme d'or en 1963 ?",
+  "r": "Le Guépard",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quel acteur britannique tient le rôle-titre de « Lawrence d'Arabie » (1962) ?",
+  "r": "Peter O'Toole",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel cinéaste britannique a réalisé « Lawrence d'Arabie » (1962) et « Le Pont de la rivière Kwaï » (1957) ?",
+  "r": "David Lean",
+  "d": 3,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel acteur irlandais incarne Albus Dumbledore dans les deux premiers films « Harry Potter » ?",
+  "r": "Richard Harris",
+  "d": 3,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel acteur britannique incarne Obi-Wan Kenobi dans le premier « Star Wars » sorti en 1977 ?",
+  "r": "Alec Guinness",
+  "d": 3,
+  "t": "Sagas"
+ },
+ {
+  "q": "Quel cinéaste allemand a réalisé « Nosferatu le vampire » (1922) ?",
+  "r": "Friedrich Wilhelm Murnau",
+  "d": 3,
+  "t": "Cinéma muet"
+ },
+ {
+  "q": "Quel acteur incarne le plongeur Jacques Mayol dans « Le Grand Bleu » (1988) ?",
+  "r": "Jean-Marc Barr",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film de Jean-Jacques Annaud (1981) raconte la quête d'une tribu préhistorique qui a perdu sa flamme ?",
+  "r": "La Guerre du feu",
+  "d": 3,
+  "t": "Cinéma français"
+ },
+ {
+  "q": "Quel film de Costa-Gavras a remporté l'Oscar du meilleur film en langue étrangère en 1970 ?",
+  "r": "Z",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel acteur a reçu le prix d'interprétation masculine à Cannes en 2015 pour « La Loi du marché » ?",
+  "r": "Vincent Lindon",
+  "d": 3,
+  "t": "Festival de Cannes"
+ }
 ]
