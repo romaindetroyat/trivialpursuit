@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel acteur britannique a interprété Gollum et le singe César grâce à la capture de mouvement ?",
+  "r": "Andy Serkis",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film de Quentin Tarantino (1992) met en scène des braqueurs aux noms de code colorés, comme M. Blonde ou M. Orange ?",
+  "r": "Reservoir Dogs",
+  "d": 2,
+  "t": "Films cultes"
+ },
+ {
+  "q": "Quelle vitesse la DeLorean doit-elle atteindre pour voyager dans le temps dans « Retour vers le futur » ?",
+  "r": "88 miles à l'heure",
+  "d": 2,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Quel héros de Disney (1992) survole Agrabah sur un tapis volant avec la princesse Jasmine ?",
+  "r": "Aladdin",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Selon quel thème le tueur en série de « Seven » (1995) organise-t-il ses meurtres ?",
+  "r": "Les sept péchés capitaux",
+  "d": 1,
+  "t": "Films cultes"
+ },
+ {
+  "q": "Quel film de François Truffaut (1980), avec Deneuve et Depardieu dans un théâtre sous l'Occupation, a remporté dix César ?",
+  "r": "Le Dernier Métro",
+  "d": 2,
+  "t": "César"
+ },
+ {
+  "q": "Dans quel métal imaginaire est forgé le bouclier de Captain America ?",
+  "r": "Le vibranium",
+  "d": 2,
+  "t": "Super-héros"
+ },
+ {
+  "q": "Sur quelle bande défilant sous l'image les comédiens de doublage lisent-ils leur texte en France ?",
+  "r": "La bande rythmo",
+  "d": 3,
+  "t": "Doublage"
+ },
+ {
+  "q": "Quel cinéaste a réalisé « Retour vers le futur » (1985) et « Forrest Gump » (1994) ?",
+  "r": "Robert Zemeckis",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Dans « La Haine » (1995), quelle phrase se répète l'homme qui tombe d'un immeuble de cinquante étages ?",
+  "r": "« Jusqu'ici tout va bien »",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel prix du Festival de Cannes récompense le meilleur premier film, toutes sections confondues ?",
+  "r": "La Caméra d'or",
+  "d": 2,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quel acteur forme avec Paul Newman le duo de « Butch Cassidy et le Kid » (1969) et de « L'Arnaque » (1973) ?",
+  "r": "Robert Redford",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle actrice américaine a remporté quatre Oscars de la meilleure actrice, entre 1934 et 1982 ?",
+  "r": "Katharine Hepburn",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel acteur est pourchassé par un avion d'épandage en plein champ dans « La Mort aux trousses » (1959) ?",
+  "r": "Cary Grant",
+  "d": 2,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "q": "Sur quelle île italienne se dresse la villa Malaparte, décor du « Mépris » (1963) de Jean-Luc Godard ?",
+  "r": "Capri",
+  "d": 2,
+  "t": "Lieux de tournage"
+ },
+ {
+  "q": "À quelle race appartient Lassie, chienne vedette de nombreux films à partir de 1943 ?",
+  "r": "Un colley",
+  "d": 1,
+  "t": "Animaux de cinéma"
+ },
+ {
+  "q": "De quel romancier italien « Le Nom de la rose » (1986) adapte-t-il le best-seller ?",
+  "r": "Umberto Eco",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "q": "Quel acteur américain, star de « La Fureur de vivre », est mort en 1955 dans un accident de voiture à 24 ans ?",
+  "r": "James Dean",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel cinéaste, créateur de Freddy Krueger, a réalisé « Scream » (1996) ?",
+  "r": "Wes Craven",
+  "d": 2,
+  "t": "Horreur"
+ },
+ {
+  "q": "Dans quel film de 1925 Charlot, affamé dans une cabane en Alaska, fait-il cuire et mange-t-il sa chaussure ?",
+  "r": "La Ruée vers l'or",
+  "d": 1,
+  "t": "Cinéma muet"
+ },
+ {
+  "q": "Quel petit personnage de « La Guerre des boutons » (1962) s'exclame « Si j'aurais su, j'aurais pas venu ! » ?",
+  "r": "Petit Gibus",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel film allemand sur la surveillance exercée par la Stasi a reçu l'Oscar du meilleur film en langue étrangère en 2007 ?",
+  "r": "La Vie des autres",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Sur quel monument sculpté se déroule la poursuite finale de « La Mort aux trousses » (1959) ?",
+  "r": "Le mont Rushmore",
+  "d": 1,
+  "t": "Lieux de tournage"
+ },
+ {
+  "q": "Quel terme anglais désigne les recettes d'un film en salles et leur classement ?",
+  "r": "Le box-office",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "q": "Quel comique français à fine moustache fut l'une des premières stars mondiales du cinéma muet, avant Chaplin ?",
+  "r": "Max Linder",
+  "d": 3,
+  "t": "Cinéma muet"
+ },
+ {
+  "q": "Quel film Disney de 1996 a pour héros le sonneur de cloches Quasimodo ?",
+  "r": "Le Bossu de Notre-Dame",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Comment appelle-t-on l'artisan qui recrée en studio les sons d'un film, comme les pas ou les portes qui claquent ?",
+  "r": "Un bruiteur",
+  "d": 1,
+  "t": "Métiers du cinéma"
+ },
+ {
+  "q": "Quel cinéaste autrichien a reçu la Palme d'or pour « Le Ruban blanc » (2009) puis pour « Amour » (2012) ?",
+  "r": "Michael Haneke",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "q": "Quel chien est le fidèle compagnon de Mickey Mouse dans les dessins animés de Disney ?",
+  "r": "Pluto",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Comment appelle-t-on le technicien qui tient au bout d'une longue tige le micro au-dessus des acteurs ?",
+  "r": "Le perchman",
+  "d": 1,
+  "t": "Métiers du cinéma"
+ },
+ {
+  "q": "Quelle actrice américaine incarne la célibataire londonienne Bridget Jones au cinéma ?",
+  "r": "Renée Zellweger",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film Disney de 1995 raconte la rencontre d'une jeune Amérindienne et du colon anglais John Smith ?",
+  "r": "Pocahontas",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel acteur américain prête sa voix au Génie dans la version originale d'« Aladdin » (1992) ?",
+  "r": "Robin Williams",
+  "d": 1,
+  "t": "Doublage"
+ },
+ {
+  "q": "Quelle actrice est devenue en 1940 la première Afro-Américaine récompensée d'un Oscar, pour le rôle de Mammy ?",
+  "r": "Hattie McDaniel",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Dans « Casablanca », à quel officier Rick lance-t-il « Je crois que c'est le début d'une belle amitié » ?",
+  "r": "Le capitaine Renault",
+  "d": 3,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel film de Luc Besson (1990), avec Anne Parillaud en tueuse au service de l'État, a été refait à Hollywood en 1993 ?",
+  "r": "Nikita",
+  "d": 1,
+  "t": "Remakes"
+ },
+ {
+  "q": "Quel acteur incarne Albin, alias Zaza Napoli, dans « La Cage aux folles » (1978) ?",
+  "r": "Michel Serrault",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film français de 2014 a été refait aux États-Unis sous le titre « CODA », Oscar du meilleur film en 2022 ?",
+  "r": "La Famille Bélier",
+  "d": 2,
+  "t": "Remakes"
+ },
+ {
+  "q": "Comment appelle-t-on le code d'autocensure qui a régi la morale des films hollywoodiens de 1934 à 1968 ?",
+  "r": "Le code Hays",
+  "d": 3,
+  "t": "Histoire du cinéma"
+ },
+ {
+  "q": "Sur quelle île grecque des Cyclades a été tournée une partie du « Grand Bleu » (1988) ?",
+  "r": "Amorgos",
+  "d": 3,
+  "t": "Lieux de tournage"
+ },
+ {
+  "q": "Quel cinéaste de la Nouvelle Vague est l'auteur des « Contes moraux » et du « Rayon vert » (1986) ?",
+  "r": "Éric Rohmer",
+  "d": 3,
+  "t": "Nouvelle Vague"
+ },
+ {
+  "q": "Quel cinéaste sud-coréen a réalisé « Old Boy », Grand Prix du Festival de Cannes en 2004 ?",
+  "r": "Park Chan-wook",
+  "d": 3,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Quel cinéaste hongkongais a réalisé « In the Mood for Love » (2000) avec Maggie Cheung et Tony Leung ?",
+  "r": "Wong Kar-wai",
+  "d": 3,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "q": "Quel acteur australien n'a incarné James Bond qu'une seule fois, dans « Au service secret de Sa Majesté » (1969) ?",
+  "r": "George Lazenby",
+  "d": 3,
+  "t": "James Bond"
+ },
+ {
+  "q": "Quel acteur canadien incarne le tueur à gages John Wick à partir de 2014 ?",
+  "r": "Keanu Reeves",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel film de Robert Enrico, avec Philippe Noiret et Romy Schneider, a reçu le premier César du meilleur film en 1976 ?",
+  "r": "Le Vieux Fusil",
+  "d": 3,
+  "t": "César"
+ },
+ {
+  "q": "Quel canard colérique en costume de marin est l'un des plus célèbres personnages de Disney ?",
+  "r": "Donald",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "q": "Comment appelle-t-on familièrement en France un film si mauvais qu'il en devient drôle ?",
+  "r": "Un nanar",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "q": "Quel cinéaste a réalisé « La Guerre des boutons » (1962) et « Le Grand Blond avec une chaussure noire » (1972) ?",
+  "r": "Yves Robert",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Comment s'appelle le programme informatique en costume noir qui traque Neo dans « Matrix » (1999) ?",
+  "r": "L'agent Smith",
+  "d": 2,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Quel film d'animation de 2012 raconte l'amitié interdite entre un ours musicien et une petite souris ?",
+  "r": "Ernest et Célestine",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel poète a réalisé « La Belle et la Bête » (1946), avec Jean Marais dans le rôle de la Bête ?",
+  "r": "Jean Cocteau",
+  "d": 1,
+  "t": "Classiques français"
+ },
+ {
+  "q": "Dans « Gremlins » (1984), après quelle heure ne faut-il surtout pas nourrir un mogwaï ?",
+  "r": "Minuit",
+  "d": 1,
+  "t": "Films cultes"
+ },
+ {
+  "q": "Comment appelle-t-on la technique consistant à filmer devant un fond vert ou bleu pour remplacer ensuite l'arrière-plan ?",
+  "r": "L'incrustation",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "q": "Quel titan violet cherche à réunir les six Pierres d'infinité dans « Avengers: Infinity War » (2018) ?",
+  "r": "Thanos",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "q": "Comment appelle-t-on la liste des noms de l'équipe qui défile au début ou à la fin d'un film ?",
+  "r": "Le générique",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "q": "Quel humoriste a reçu en 1984 le César du meilleur acteur pour un rôle dramatique dans « Tchao Pantin » ?",
+  "r": "Coluche",
+  "d": 1,
+  "t": "César"
+ },
+ {
+  "q": "Quel acteur est devenu en 1964 le premier Afro-Américain à recevoir l'Oscar du meilleur acteur ?",
+  "r": "Sidney Poitier",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "q": "Comment appelle-t-on la projection d'un film avant sa sortie officielle, souvent en présence de l'équipe ?",
+  "r": "L'avant-première",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "q": "Quelle actrice suédoise, star d'Hollywood retirée des écrans à 36 ans, était surnommée « la Divine » ?",
+  "r": "Greta Garbo",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel dessinateur français a réalisé « Fantasmagorie » (1908), considéré comme le premier dessin animé ?",
+  "r": "Émile Cohl",
+  "d": 3,
+  "t": "Animation"
+ },
+ {
+  "q": "Quel acteur forme avec Gérard Depardieu le duo de voyous des « Valseuses » (1974) de Bertrand Blier ?",
+  "r": "Patrick Dewaere",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quel cinéaste a dirigé Bourvil et Louis de Funès dans « Le Corniaud » (1965) ?",
+  "r": "Gérard Oury",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Quel cinéaste américain a réalisé « Les Affranchis » (1990) et « Casino » (1995) ?",
+  "r": "Martin Scorsese",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "q": "Dans « Les Aventures de Rabbi Jacob » (1973), dans quel type d'usine Victor Pivert tombe-t-il dans une cuve ?",
+  "r": "Une usine de chewing-gum",
+  "d": 2,
+  "t": "Comédies françaises"
+ },
+ {
+  "q": "Dans « Le Dîner de cons », quel est le prénom de M. Leblanc, à l'origine d'un quiproquo célèbre ?",
+  "r": "Juste",
+  "d": 1,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel mouvement, lancé au Danemark en 1995, impose la caméra à l'épaule et l'absence de musique ajoutée ?",
+  "r": "Dogme 95",
+  "d": 3,
+  "t": "Cinéma européen"
+ },
+ {
+  "q": "Que signifie l'abréviation « VOST » dans les programmes de cinéma ?",
+  "r": "Version originale sous-titrée",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "q": "Quel acteur gallois a incarné James Bond dans « Tuer n'est pas jouer » (1987) et « Permis de tuer » (1989) ?",
+  "r": "Timothy Dalton",
+  "d": 3,
+  "t": "James Bond"
+ },
+ {
+  "q": "Quel romancier est l'auteur du livre « Le Parrain » et coscénariste des films de Coppola ?",
+  "r": "Mario Puzo",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "q": "Quel cinéaste a tourné de nombreux westerns à Monument Valley, dont « La Prisonnière du désert » (1956) ?",
+  "r": "John Ford",
+  "d": 2,
+  "t": "Westerns"
+ },
+ {
+  "q": "Quel procédé de couleur a donné ses teintes éclatantes au « Magicien d'Oz » (1939) ?",
+  "r": "Le Technicolor",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "q": "Dans « Ghost » (1990), quelle activité Demi Moore et Patrick Swayze partagent-ils dans une scène célèbre ?",
+  "r": "La poterie",
+  "d": 1,
+  "t": "Films cultes"
+ },
+ {
+  "q": "Comment s'appelle le savant excentrique, ami de Marty McFly, dans « Retour vers le futur » ?",
+  "r": "Doc (Emmett Brown)",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "q": "Quelle chanson du film indien « RRR » a remporté l'Oscar de la meilleure chanson originale en 2023 ?",
+  "r": "Naatu Naatu",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "q": "Quel géant aux dents d'acier affronte James Bond dans « L'espion qui m'aimait » (1977) ?",
+  "r": "Requin",
+  "d": 2,
+  "t": "James Bond"
+ },
+ {
+  "q": "Quel acteur prononce « J'aime l'odeur du napalm au petit matin » dans « Apocalypse Now » ?",
+  "r": "Robert Duvall",
+  "d": 3,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel acteur incarne le professeur de danse Johnny Castle dans « Dirty Dancing » (1987) ?",
+  "r": "Patrick Swayze",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "q": "Quelle société de production britannique a relancé l'épouvante gothique à partir de 1958, avec Christopher Lee en Dracula ?",
+  "r": "La Hammer",
+  "d": 3,
+  "t": "Horreur"
+ },
+ {
+  "q": "Dans quel western de Sergio Leone entend-on : « Le monde se divise en deux catégories : ceux qui ont un pistolet chargé et ceux qui creusent » ?",
+  "r": "Le Bon, la Brute et le Truand",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "q": "Quel western de 1960, avec Yul Brynner et Steve McQueen, est le remake des « Sept Samouraïs » ?",
+  "r": "Les Sept Mercenaires",
+  "d": 2,
+  "t": "Remakes"
+ },
+ {
+  "q": "Comment appelle-t-on la version d'un film remontée selon les souhaits de son réalisateur ?",
+  "r": "Le director's cut",
+  "d": 2,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "q": "Quelle actrice américaine vend le « New York Herald Tribune » sur les Champs-Élysées dans « À bout de souffle » (1960) ?",
+  "r": "Jean Seberg",
+  "d": 2,
+  "t": "Nouvelle Vague"
+ },
+ {
+  "q": "Quel mystérieux criminel, dont tout le monde a peur, est au cœur de « Usual Suspects » (1995) ?",
+  "r": "Keyser Söze",
+  "d": 2,
+  "t": "Films cultes"
+ },
+ {
+  "q": "Quel cinéaste québécois a réalisé « Premier Contact » (2016) et « Blade Runner 2049 » (2017) ?",
+  "r": "Denis Villeneuve",
+  "d": 2,
+  "t": "Réalisateurs"
+ }
+]

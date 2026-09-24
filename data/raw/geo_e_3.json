@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle langue sémitique, écrite avec l'alphasyllabaire guèze, était la langue officielle de l'Empire éthiopien ?",
+  "r": "L'amharique",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Quel village tunisien blanc et bleu surplombe le golfe de Tunis, près de Carthage ?",
+  "r": "Sidi Bou Saïd",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Dans quelle ville allemande Charlemagne est-il inhumé, dans la chapelle palatine ?",
+  "r": "Aix-la-Chapelle",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel pont couvert de Venise reliait le palais des Doges aux prisons ?",
+  "r": "Le pont des Soupirs",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle ville suédoise possède la plus ancienne université de Scandinavie (1477), où enseigna le naturaliste Linné ?",
+  "r": "Uppsala",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle île danoise de la Baltique, isolée loin à l'est du reste du pays, est célèbre pour ses églises rondes ?",
+  "r": "Bornholm",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel fleuve sert de frontière entre l'Espagne et le Portugal jusqu'à son embouchure dans le golfe de Cadix ?",
+  "r": "Le Guadiana",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Quel symbole à trois jambes figure sur le drapeau de la Sicile et sur celui de l'île de Man ?",
+  "r": "Le triskèle",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quel hôtel de Dubaï, construit sur une île artificielle, a la forme d'une voile ?",
+  "r": "Le Burj al-Arab",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle rivière traverse Berlin ?",
+  "r": "La Spree",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Quel arbre, endémique du sud-ouest du Maroc, fournit une huile précieuse ?",
+  "r": "L'arganier",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "q": "Quel lac, le plus grand des Balkans, est partagé entre le Monténégro et l'Albanie ?",
+  "r": "Le lac de Scutari",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Quelle langue co-officielle d'une région espagnole est très proche du portugais ?",
+  "r": "Le galicien",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Comment appelle-t-on la grande péninsule qui forme la partie asiatique de la Turquie ?",
+  "r": "L'Anatolie",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quelle région, qui ne forme que deux des douze provinces des Pays-Bas, sert souvent à désigner tout le pays ?",
+  "r": "La Hollande",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Sous quel nom, celui de l'auteur de ses paroles, connaît-on couramment l'hymne national italien ?",
+  "r": "L'Hymne de Mameli",
+  "d": 3,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle basilique de Bethléem est bâtie sur le lieu présumé de la naissance de Jésus ?",
+  "r": "La basilique de la Nativité",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quel fleuve forme, avec la Neisse, la frontière entre l'Allemagne et la Pologne ?",
+  "r": "L'Oder",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Quelle ville de Thuringe, où vécurent Goethe et Schiller, a donné son nom à la république allemande née en 1919 ?",
+  "r": "Weimar",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle région minière du sud-est de la RD Congo, riche en cuivre, a pour grande ville Lubumbashi ?",
+  "r": "Le Katanga",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "De quel port anglais le Titanic appareilla-t-il pour son voyage inaugural en 1912 ?",
+  "r": "Southampton",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel parc de Barcelone, conçu par Gaudí, est célèbre pour son dragon en mosaïque ?",
+  "r": "Le parc Güell",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle ville espagnole forme une enclave au milieu du territoire français, en Cerdagne ?",
+  "r": "Llívia",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "q": "Dans quelle ville de Bavière se tint le procès des principaux dignitaires nazis en 1945-1946 ?",
+  "r": "Nuremberg",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle région historique du nord de la Grèce, patrie d'Alexandre le Grand, a donné son nom à un État voisin ?",
+  "r": "La Macédoine",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quelle grotte marine de Capri est célèbre pour la lumière azur qui l'illumine ?",
+  "r": "La Grotte bleue",
+  "d": 1,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Dans quel massif du centre de l'Allemagne se dresse le Brocken, où les sorcières se réunissent la nuit de Walpurgis dans Faust ?",
+  "r": "Le Harz",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quelle ville anglaise a donné son nom à une sauce anglaise relevée, dont la recette date de 1837 ?",
+  "r": "Worcester",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "q": "Quel volcan d'une île des Açores est le plus haut sommet du Portugal ?",
+  "r": "Le mont Pico",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel archipel arctique russe fut le principal site d'essais nucléaires soviétiques, dont la Tsar Bomba en 1961 ?",
+  "r": "La Nouvelle-Zemble",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel volcan islandais était considéré au Moyen Âge comme une porte de l'enfer ?",
+  "r": "L'Hekla",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quelle région du sud de l'Espagne, dont la capitale est Séville, tire son nom d'al-Andalus, l'Espagne musulmane ?",
+  "r": "L'Andalousie",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Bruxelles ?",
+  "r": "Les Bruxellois",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Quel animal fabuleux est l'animal national de l'Écosse ?",
+  "r": "La licorne",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle langue africaine est la plus parlée au Sénégal, comme langue maternelle et véhiculaire ?",
+  "r": "Le wolof",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle porte monumentale de Babylone, en briques bleues émaillées, est reconstituée au musée de Pergame à Berlin ?",
+  "r": "La porte d'Ishtar",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Sous quel nom plus courant connaît-on le lac Retba, près de Dakar, longtemps arrivée du rallye Paris-Dakar ?",
+  "r": "Le lac Rose",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Combien de têtes de Maure figurent sur le drapeau de la Sardaigne ?",
+  "r": "Quatre",
+  "d": 3,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle province italienne germanophone, dont le chef-lieu est Bolzano, appartenait à l'Autriche jusqu'en 1919 ?",
+  "r": "Le Haut-Adige (Tyrol du Sud)",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quel fleuve sert en partie de frontière entre la Moldavie et l'Ukraine avant de se jeter dans la mer Noire ?",
+  "r": "Le Dniestr",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Quelle ville de Sicile, patrie du compositeur Bellini, a été plusieurs fois détruite par les séismes et les éruptions ?",
+  "r": "Catane",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle île grecque est la seule au monde à produire le mastic, une résine aromatique tirée d'un arbuste ?",
+  "r": "Chios",
+  "d": 3,
+  "t": "Spécialités"
+ },
+ {
+  "q": "Quelle cité grecque du Péloponnèse, royaume d'Agamemnon, est célèbre pour sa porte des Lionnes ?",
+  "r": "Mycènes",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle région du sud du Sénégal, presque séparée du reste du pays par la Gambie, a pour ville principale Ziguinchor ?",
+  "r": "La Casamance",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quel est le nom de l'hymne national des Pays-Bas, l'un des plus anciens du monde ?",
+  "r": "Le Wilhelmus",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle région historique, dont Brno est la principale ville, forme avec la Bohême l'essentiel de la Tchéquie ?",
+  "r": "La Moravie",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quelle ville marocaine, l'ancienne Mogador, est célèbre pour ses remparts face à l'Atlantique ?",
+  "r": "Essaouira",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel pont de Londres, aux deux tours néogothiques, se lève pour laisser passer les bateaux ?",
+  "r": "Tower Bridge",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Madrid ?",
+  "r": "Les Madrilènes",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Quelle ville fut la capitale de la Finlande jusqu'en 1812, avant que Helsinki ne la remplace ?",
+  "r": "Turku",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel musée de Florence abrite La Naissance de Vénus de Botticelli ?",
+  "r": "Les Offices",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quel immense cirque d'érosion du Néguev est le plus grand makhtesh du monde ?",
+  "r": "Le cratère de Ramon",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel terme désigne traditionnellement les pays de la côte orientale de la Méditerranée, comme le Liban et la Syrie ?",
+  "r": "Le Levant",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Par quel alphabet la Turquie a-t-elle remplacé l'alphabet arabe en 1928 ?",
+  "r": "L'alphabet latin",
+  "d": 1,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle région montagneuse berbérophone d'Algérie a pour villes principales Tizi Ouzou et Béjaïa ?",
+  "r": "La Kabylie",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quel fleuve traverse Vérone et Trente avant de se jeter dans l'Adriatique ?",
+  "r": "L'Adige",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Comment appelle-t-on les maisons rondes à toit conique en pierre sèche d'Alberobello, dans les Pouilles ?",
+  "r": "Les trulli",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle ville allemande sur le Neckar possède la plus ancienne université d'Allemagne (1386) et un château en ruine ?",
+  "r": "Heidelberg",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville andalouse a donné son nom au vin appelé « sherry » par les Anglais ?",
+  "r": "Jerez de la Frontera",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "q": "Quel compositeur autrichien a écrit la musique de l'actuel hymne national allemand ?",
+  "r": "Joseph Haydn",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle ville andalouse est célèbre pour sa cathédrale et son clocher, la Giralda ?",
+  "r": "Séville",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel site du sud-est de la Turquie, vieux d'environ 11 000 ans, est considéré comme le plus ancien sanctuaire monumental connu ?",
+  "r": "Göbekli Tepe",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle falaise du Mali abrite les villages du pays dogon ?",
+  "r": "La falaise de Bandiagara",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelles sont les deux langues officielles de la Finlande ?",
+  "r": "Le finnois et le suédois",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Quel vin rouge toscan est produit entre Florence et Sienne ?",
+  "r": "Le chianti",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "q": "Sur quelle île grecque du Dodécanèse l'apôtre Jean aurait-il rédigé l'Apocalypse ?",
+  "r": "Patmos",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "q": "Quelle ville norvégienne, ancienne cité hanséatique, est célèbre pour les maisons de bois colorées du quai de Bryggen ?",
+  "r": "Bergen",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle région du sud du Portugal, réputée pour ses plages, a pour ville principale Faro ?",
+  "r": "L'Algarve",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quel château des Highlands est la résidence d'été de la famille royale britannique ?",
+  "r": "Balmoral",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle langue austronésienne, apparentée à des langues de Bornéo, est la langue nationale de Madagascar ?",
+  "r": "Le malgache",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle région historique, dont Prague est la capitale, a donné son nom à un mode de vie artiste et insouciant ?",
+  "r": "La Bohême",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Quel sommet du Caucase géorgien est associé par la légende au supplice de Prométhée ?",
+  "r": "Le Kazbek",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel lac d'Irlande du Nord est le plus grand des îles Britanniques ?",
+  "r": "Le lough Neagh",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "q": "Quelle ville du Péloponnèse fut la capitale de la Grèce de 1829 à 1834, avant Athènes ?",
+  "r": "Nauplie",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville de Bohême du Sud, lovée dans un méandre de la Vltava, est célèbre pour son château et sa vieille ville classée ?",
+  "r": "Český Krumlov",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle île anglaise de la Manche accueillit en 1970 un immense festival rock où joua Jimi Hendrix ?",
+  "r": "L'île de Wight",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel dessin, de couleur cuivre, figure sur le drapeau blanc de Chypre ?",
+  "r": "La carte de l'île",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle plante épineuse est l'emblème de l'Écosse ?",
+  "r": "Le chardon",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "q": "Quelle grande ville polonaise de Silésie s'appelait Breslau lorsqu'elle était allemande ?",
+  "r": "Wrocław",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel éperon rocheux du comté de Tipperary porte un ensemble d'édifices médiévaux, ancien siège des rois de Munster ?",
+  "r": "Le rocher de Cashel",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quel village néolithique des Orcades fut dégagé par une violente tempête en 1850 ?",
+  "r": "Skara Brae",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "q": "Quelle province historique d'Irlande correspond en grande partie à l'actuelle Irlande du Nord ?",
+  "r": "L'Ulster",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Jérusalem ?",
+  "r": "Les Hiérosolymitains",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Moscou ?",
+  "r": "Les Moscovites",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "q": "Quelle cité antique de Mésopotamie était célèbre pour ses jardins suspendus ?",
+  "r": "Babylone",
+  "d": 1,
+  "t": "Monuments et sites"
+ }
+]
