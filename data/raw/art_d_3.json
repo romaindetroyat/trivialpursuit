@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Dans « Le Petit Prince », quels arbres le petit prince doit-il arracher chaque matin pour protéger sa planète ?",
+  "r": "Les baobabs",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "q": "Par quel surnom moqueur Victor Hugo désigne-t-il Napoléon III dans un pamphlet de 1852 ?",
+  "r": "Napoléon le Petit",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel roman de Georges Perec, prix Médicis 1978, décrit un immeuble parisien pièce par pièce ?",
+  "r": "La Vie mode d'emploi",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel roman de J.-H. Rosny aîné raconte la quête de Naoh pour rapporter le feu à sa tribu préhistorique ?",
+  "r": "La Guerre du feu",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "q": "Comment s'appelle le cor d'ivoire dont Roland sonne trop tard à Roncevaux ?",
+  "r": "L'olifant",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "q": "Comment appelle-t-on le texte de présentation imprimé au dos d'un livre ?",
+  "r": "La quatrième de couverture",
+  "d": 1,
+  "t": "Édition"
+ },
+ {
+  "q": "Quel mot désignant un recueil de textes choisis signifie en grec « cueillette de fleurs » ?",
+  "r": "Une anthologie",
+  "d": 2,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quel genre de comédie légère, fait de portes qui claquent et d'amants cachés dans le placard, a fait le succès de Feydeau ?",
+  "r": "Le vaudeville",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel chevalier pur, fils de Lancelot, parvient à la quête du Graal ?",
+  "r": "Galaad",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "q": "Dans quelle ville normande Gustave Flaubert est-il né, en 1821 ?",
+  "r": "Rouen",
+  "d": 1,
+  "t": "Lieux littéraires"
+ },
+ {
+  "q": "Quels oiseaux Joseph, le père de Marcel, abat-il d'un « coup du roi » dans « La Gloire de mon père » ?",
+  "r": "Des bartavelles",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "q": "Dans quel roman de Balzac un talisman rétrécit-il à chaque désir exaucé de son propriétaire ?",
+  "r": "La Peau de chagrin",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quelle est l'unique règle de l'abbaye de Thélème chez Rabelais ?",
+  "r": "Fais ce que voudras",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "q": "Dans quelle comédie de Molière le fagotier Sganarelle est-il forcé, à coups de bâton, de se dire médecin ?",
+  "r": "Le Médecin malgré lui",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle collection de Hachette, créée en 1856, ont paru les romans de la comtesse de Ségur ?",
+  "r": "La Bibliothèque rose",
+  "d": 1,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "q": "Comment appelle-t-on le bâton avec lequel on frappe les trois coups avant le lever du rideau ?",
+  "r": "Le brigadier",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle région française se déroule « Madame Bovary » de Flaubert ?",
+  "r": "La Normandie",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel archidiacre de Notre-Dame, dans le roman de Victor Hugo, est obsédé par Esmeralda ?",
+  "r": "Claude Frollo",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "q": "Comment s'appelle l'adjoint obèse et truculent du commissaire San-Antonio ?",
+  "r": "Bérurier",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "q": "Avec quel écrivain, son neveu, Joseph Kessel a-t-il écrit les paroles du « Chant des partisans » en 1943 ?",
+  "r": "Maurice Druon",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "q": "Quel mot désignant un guide expérimenté vient du précepteur de Télémaque, rendu célèbre par Fénelon ?",
+  "r": "Mentor",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quelle variante de la métonymie désigne le tout par la partie, comme « une voile » pour un navire ?",
+  "r": "La synecdoque",
+  "d": 3,
+  "t": "Figures de style"
+ },
+ {
+  "q": "Quel duo d'auteurs a écrit « Celle qui n'était plus », adapté au cinéma sous le titre « Les Diaboliques » ?",
+  "r": "Boileau-Narcejac",
+  "d": 3,
+  "t": "Polar et aventure"
+ },
+ {
+  "q": "Dans « Les Liaisons dangereuses », quelle marquise manipulatrice est la complice du vicomte de Valmont ?",
+  "r": "La marquise de Merteuil",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "q": "Quel roman d'Ahmadou Kourouma, narré par un enfant-soldat, a obtenu le prix Renaudot en 2000 ?",
+  "r": "Allah n'est pas obligé",
+  "d": 3,
+  "t": "Prix littéraires"
+ },
+ {
+  "q": "Comment appelle-t-on le fait de recopier l'œuvre d'autrui en la faisant passer pour sienne ?",
+  "r": "Le plagiat",
+  "d": 1,
+  "t": "Édition"
+ },
+ {
+  "q": "Quel court roman de Chateaubriand (1801) a pour héroïne une jeune Amérindienne chrétienne ?",
+  "r": "Atala",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "q": "Quelle figure de style représente une idée abstraite par une image concrète, comme la Mort en squelette armé d'une faux ?",
+  "r": "L'allégorie",
+  "d": 2,
+  "t": "Figures de style"
+ },
+ {
+  "q": "Quel roman épistolaire de Rousseau (1761) raconte l'amour de Julie d'Étange et de son précepteur Saint-Preux ?",
+  "r": "Julie ou la Nouvelle Héloïse",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Que désignait à l'origine le mot latin « liber », qui a donné « livre » ?",
+  "r": "L'écorce interne des arbres",
+  "d": 3,
+  "t": "Étymologie"
+ },
+ {
+  "q": "À quelle adresse parisienne se trouve le bureau du commissaire Maigret, au siège de la police judiciaire ?",
+  "r": "36, quai des Orfèvres",
+  "d": 1,
+  "t": "Polar et aventure"
+ },
+ {
+  "q": "Quel roman de Huysmans (1884), avec son esthète Des Esseintes, est devenu la bible du décadentisme ?",
+  "r": "À rebours",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel poète, tué au front en septembre 1914, avait écrit « Heureux ceux qui sont morts pour la terre charnelle » ?",
+  "r": "Charles Péguy",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel est le premier tome des « Souvenirs d'enfance » de Marcel Pagnol, paru en 1957 ?",
+  "r": "La Gloire de mon père",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "q": "Dans quelle ville « Le Petit Prince » a-t-il été publié pour la première fois, en 1943 ?",
+  "r": "New York",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel homme de théâtre a fondé le Festival d'Avignon en 1947 ?",
+  "r": "Jean Vilar",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel roman de Marguerite Yourcenar sur l'alchimiste Zénon a obtenu le prix Femina en 1968 ?",
+  "r": "L'Œuvre au noir",
+  "d": 3,
+  "t": "Prix littéraires"
+ },
+ {
+  "q": "Comment appelle-t-on le débordement d'une phrase d'un vers sur le vers suivant ?",
+  "r": "Un enjambement",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Que signifie le verbe grec « poiein », à l'origine du mot « poésie » ?",
+  "r": "Faire, créer",
+  "d": 2,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quel roman de Kamel Daoud, réponse à « L'Étranger » de Camus, a obtenu le Goncourt du premier roman en 2015 ?",
+  "r": "Meursault, contre-enquête",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "q": "Comment appelle-t-on des rimes disposées selon le schéma ABBA ?",
+  "r": "Des rimes embrassées",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poème des « Orientales » de Hugo voit ses strophes s'allonger puis raccourcir, comme un essaim d'esprits qui passe ?",
+  "r": "Les Djinns",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poème des « Fleurs du mal » commence par « Mon enfant, ma sœur, / Songe à la douceur » ?",
+  "r": "L'Invitation au voyage",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quelle fée magicienne, demi-sœur du roi Arthur, est souvent son ennemie ?",
+  "r": "Morgane",
+  "d": 1,
+  "t": "Moyen Âge"
+ },
+ {
+  "q": "Quel copain gourmand du Petit Nicolas mange sans arrêt des tartines ?",
+  "r": "Alceste",
+  "d": 2,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "q": "Dans quelle commune des Yvelines Zola possédait-il une maison où se réunissaient les jeunes naturalistes ?",
+  "r": "Médan",
+  "d": 3,
+  "t": "Lieux littéraires"
+ },
+ {
+  "q": "Quel écrivain d'origine haïtienne, auteur de « L'Énigme du retour », a été élu à l'Académie française en 2013 ?",
+  "r": "Dany Laferrière",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "q": "Quelle marionnette, créée à Lyon au début du XIXe siècle par Laurent Mourguet, est devenue un nom commun ?",
+  "r": "Guignol",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Comment appelle-t-on le vers ou le groupe de vers repris à la fin de chaque strophe d'une chanson ou d'un poème ?",
+  "r": "Le refrain",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel cheval magique peut porter à lui seul les quatre fils Aymon ?",
+  "r": "Bayard",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "q": "De quelle cité antique d'Asie Mineure le mot « parchemin » tire-t-il son nom ?",
+  "r": "Pergame",
+  "d": 2,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quel roman de Raymond Radiguet (1923) raconte la liaison d'un adolescent avec la femme d'un soldat parti au front ?",
+  "r": "Le Diable au corps",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel roman d'Hervé Bazin (1948) met en scène une mère tyrannique surnommée Folcoche ?",
+  "r": "Vipère au poing",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel récit de Camus (1956) est le long monologue de Jean-Baptiste Clamence dans un bar d'Amsterdam ?",
+  "r": "La Chute",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quelle fillette des « Misérables » est envoyée seule, de nuit, chercher de l'eau dans les bois avec un seau trop lourd ?",
+  "r": "Cosette",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "q": "Quelle héroïne de romans historiques a été créée par Anne et Serge Golon en 1957 ?",
+  "r": "Angélique, marquise des anges",
+  "d": 1,
+  "t": "Polar et aventure"
+ },
+ {
+  "q": "Quel est le véritable nom de Gérard de Nerval ?",
+  "r": "Gérard Labrunie",
+  "d": 3,
+  "t": "Pseudonymes"
+ },
+ {
+  "q": "Dans quel conte de Perrault le héros sème-t-il des cailloux blancs pour retrouver son chemin ?",
+  "r": "Le Petit Poucet",
+  "d": 1,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "q": "Quel récit d'Éric Vuillard, sur les coulisses de l'Anschluss, a obtenu le prix Goncourt en 2017 ?",
+  "r": "L'Ordre du jour",
+  "d": 3,
+  "t": "Prix littéraires"
+ },
+ {
+  "q": "Quelle écrivaine, souvent présentée comme la première Française à vivre de sa plume, a écrit « La Cité des dames » ?",
+  "r": "Christine de Pizan",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "q": "Quelle pièce de Pagnol (1931), deuxième volet de sa trilogie marseillaise, porte le nom de la fiancée de Marius ?",
+  "r": "Fanny",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel roman de Michel Butor (1957) est entièrement écrit en « vous », dans un train Paris-Rome ?",
+  "r": "La Modification",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel personnage de Molière a donné un nom commun désignant un avare ?",
+  "r": "Harpagon",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quel roman d'Albert Cohen (1968) raconte la passion de Solal et d'Ariane ?",
+  "r": "Belle du Seigneur",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel livre de Raymond Queneau (1947) raconte 99 fois, de 99 façons, la même anecdote survenue dans un autobus ?",
+  "r": "Exercices de style",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "q": "Dans quelle maison près de Chambéry Rousseau a-t-il vécu auprès de Madame de Warens ?",
+  "r": "Les Charmettes",
+  "d": 3,
+  "t": "Lieux littéraires"
+ },
+ {
+  "q": "Dans quel roman de Jules Verne un énorme obus est-il tiré vers la Lune par le canon Columbiad ?",
+  "r": "De la Terre à la Lune",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "q": "Quelle figure oppose fortement deux termes, comme dans « Ver de terre amoureux d'une étoile » (Ruy Blas) ?",
+  "r": "L'antithèse",
+  "d": 2,
+  "t": "Figures de style"
+ },
+ {
+  "q": "Comment appelle-t-on un personnage principal dépourvu des qualités habituelles du héros ?",
+  "r": "Un antihéros",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "q": "Quel chevalier se ruine et se déshonore par amour pour Manon Lescaut ?",
+  "r": "Le chevalier des Grieux",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "q": "Quel animal se taille la plus grosse part, dans l'expression tirée d'une fable ?",
+  "r": "Le lion (la part du lion)",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "q": "De quel géant de Rabelais vient l'adjectif qualifiant un repas gigantesque ?",
+  "r": "Pantagruel",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quelle romancière entretint avec Flaubert une célèbre correspondance, où il l'appelait « chère maître » ?",
+  "r": "George Sand",
+  "d": 2,
+  "t": "Correspondances"
+ },
+ {
+  "q": "Comment appelle-t-on une œuvre décrivant une société imaginaire cauchemardesque, à l'opposé de l'utopie ?",
+  "r": "Une dystopie",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "q": "Quelle suite des « Trois Mousquetaires » Alexandre Dumas publie-t-il en 1845 ?",
+  "r": "Vingt Ans après",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "q": "Quelle collection de romans policiers Marcel Duhamel a-t-il lancée chez Gallimard en 1945 ?",
+  "r": "La Série noire",
+  "d": 1,
+  "t": "Édition"
+ },
+ {
+  "q": "Quel harponneur canadien accompagne le professeur Aronnax à bord du Nautilus ?",
+  "r": "Ned Land",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "q": "Comment appelle-t-on familièrement une faute typographique dans un texte imprimé ?",
+  "r": "Une coquille",
+  "d": 1,
+  "t": "Édition"
+ },
+ {
+  "q": "Quel mot désignant un double parfait vient du valet d'Amphitryon, dont Mercure prend l'apparence chez Molière ?",
+  "r": "Sosie",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Quel poème de Mallarmé a inspiré à Debussy un célèbre prélude créé en 1894 ?",
+  "r": "L'Après-midi d'un faune",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "De quel instrument de musique dérive l'adjectif « lyrique », qui qualifie la poésie des sentiments ?",
+  "r": "La lyre",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "q": "Dans quel ouvrage de 1748 Montesquieu expose-t-il la théorie de la séparation des pouvoirs ?",
+  "r": "De l'esprit des lois",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "q": "Quel poète né en Suisse a écrit « La Prose du Transsibérien » et perdu un bras à la guerre en 1915 ?",
+  "r": "Blaise Cendrars",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Sur quel animal Phileas Fogg et Passepartout traversent-ils une forêt de l'Inde ?",
+  "r": "Un éléphant",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "q": "Quelle collection de poche Hachette a-t-elle lancée en 1953 pour rendre les grands romans accessibles à petit prix ?",
+  "r": "Le Livre de poche",
+  "d": 1,
+  "t": "Édition"
+ }
+]
