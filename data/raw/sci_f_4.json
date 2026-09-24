@@ -1,509 +1,594 @@
 [
  {
+  "id": "sci_f_4-001",
   "q": "Quel préfet de la Seine a imposé en 1883 les boîtes à ordures qui portent désormais son nom ?",
   "r": "Eugène Poubelle",
   "d": 1,
   "t": "Inventions"
  },
  {
+  "id": "sci_f_4-002",
   "q": "Quels animaux sont les plus proches parents vivants de l'hippopotame ?",
   "r": "Les cétacés",
   "d": 3,
   "t": "Mammifères"
  },
  {
+  "id": "sci_f_4-003",
   "q": "Comment appelle-t-on la partie jeune et tendre du bois, située juste sous l'écorce ?",
   "r": "L'aubier",
   "d": 3,
   "t": "Arbres"
  },
  {
+  "id": "sci_f_4-004",
   "q": "Quel volcan de Sicile est le plus haut volcan actif d'Europe ?",
   "r": "L'Etna",
   "d": 1,
   "t": "Volcans et séismes"
  },
  {
+  "id": "sci_f_4-005",
   "q": "Quel barrage chinois sur le Yangzi abrite l'une des plus puissantes centrales hydroélectriques du monde ?",
   "r": "Le barrage des Trois-Gorges",
   "d": 2,
   "t": "Énergie"
  },
  {
+  "id": "sci_f_4-006",
   "q": "Quel oiseau, souvent confondu avec l'hirondelle, peut rester en vol plusieurs mois sans se poser ?",
   "r": "Le martinet",
   "d": 2,
   "t": "Oiseaux"
  },
  {
+  "id": "sci_f_4-007",
   "q": "Comment s'appelle le phénomène climatique opposé à El Niño, marqué par un refroidissement du Pacifique équatorial ?",
   "r": "La Niña",
   "d": 2,
   "t": "Climat"
  },
  {
+  "id": "sci_f_4-008",
   "q": "À quel ordre de mammifères, distinct des rongeurs, appartiennent le lapin et le lièvre ?",
   "r": "Les lagomorphes",
   "d": 3,
   "t": "Animaux de compagnie"
  },
  {
+  "id": "sci_f_4-009",
   "q": "Quelle plante toxique, aux fleurs en forme de doigt de gant, a donné un médicament pour le cœur ?",
   "r": "La digitale",
   "d": 2,
   "t": "Botanique"
  },
  {
+  "id": "sci_f_4-010",
   "q": "Quelle épice jaune, de la famille du gingembre, colore les currys ?",
   "r": "Le curcuma",
   "d": 1,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-011",
   "q": "Quelle roche en feuillets sert à couvrir les toits, notamment en Anjou ?",
   "r": "L'ardoise",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_f_4-012",
   "q": "Quelle centrale nucléaire japonaise a été gravement endommagée par un tsunami en mars 2011 ?",
   "r": "Fukushima (Daiichi)",
   "d": 1,
   "t": "Énergie"
  },
  {
+  "id": "sci_f_4-013",
   "q": "Quel poisson est doté d'un long rostre plat en forme d'épée ?",
   "r": "L'espadon",
   "d": 1,
   "t": "Animaux marins"
  },
  {
+  "id": "sci_f_4-014",
   "q": "Quel ingénieur anglais a conçu avec son fils la locomotive « Rocket » en 1829 ?",
   "r": "George Stephenson",
   "d": 2,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-015",
   "q": "Quel arbre est Yggdrasil, l'arbre-monde de la mythologie nordique ?",
   "r": "Un frêne",
   "d": 3,
   "t": "Arbres"
  },
  {
+  "id": "sci_f_4-016",
   "q": "Quel animal naît du croisement d'un âne et d'une jument ?",
   "r": "Le mulet",
   "d": 1,
   "t": "Noms des animaux"
  },
  {
+  "id": "sci_f_4-017",
   "q": "Comment appelle-t-on l'élevage des huîtres ?",
   "r": "L'ostréiculture",
   "d": 1,
   "t": "Élevage"
  },
  {
+  "id": "sci_f_4-018",
   "q": "Quel champignon rouge à points blancs est celui des contes et des jeux vidéo ?",
   "r": "L'amanite tue-mouches",
   "d": 1,
   "t": "Champignons"
  },
  {
+  "id": "sci_f_4-019",
   "q": "Quel requin des eaux arctiques serait le vertébré le plus longévif, avec plusieurs siècles d'existence ?",
   "r": "Le requin du Groenland",
   "d": 3,
   "t": "Animaux marins"
  },
  {
+  "id": "sci_f_4-020",
   "q": "Quel est le seul lézard au monde à se nourrir en mer, aux Galápagos ?",
   "r": "L'iguane marin",
   "d": 2,
   "t": "Reptiles et amphibiens"
  },
  {
+  "id": "sci_f_4-021",
   "q": "Comment appelle-t-on les petits grains à la surface de la fraise, qui sont ses véritables fruits ?",
   "r": "Les akènes",
   "d": 2,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-022",
   "q": "Quelle petite mangouste du Kalahari se dresse sur ses pattes arrière pour monter la garde ?",
   "r": "Le suricate",
   "d": 1,
   "t": "Mammifères"
  },
  {
+  "id": "sci_f_4-023",
   "q": "Quelle substance, sécrétée par les ouvrières, nourrit la larve destinée à devenir reine des abeilles ?",
   "r": "La gelée royale",
   "d": 1,
   "t": "Insectes"
  },
  {
+  "id": "sci_f_4-024",
   "q": "Quelle unité figure sur les factures d'électricité pour mesurer l'énergie consommée ?",
   "r": "Le kilowattheure",
   "d": 1,
   "t": "Énergie"
  },
  {
+  "id": "sci_f_4-025",
   "q": "Quelle race de chat est connue pour être presque totalement dépourvue de poils ?",
   "r": "Le sphynx",
   "d": 1,
   "t": "Animaux de compagnie"
  },
  {
+  "id": "sci_f_4-026",
   "q": "Quel légume, dont on consomme les tiges acidulées, a des feuilles toxiques ?",
   "r": "La rhubarbe",
   "d": 2,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-027",
   "q": "Quelle entreprise, pourtant reine de la pellicule, a conçu le premier appareil photo numérique en 1975 ?",
   "r": "Kodak",
   "d": 2,
   "t": "Inventions"
  },
  {
+  "id": "sci_f_4-028",
   "q": "Quel est le plus grand récif corallien du monde, au large du Queensland ?",
   "r": "La Grande Barrière de corail",
   "d": 1,
   "t": "Animaux marins"
  },
  {
+  "id": "sci_f_4-029",
   "q": "De quel animal provient la laine angora ?",
   "r": "Du lapin angora",
   "d": 2,
   "t": "Animaux de ferme"
  },
  {
+  "id": "sci_f_4-030",
   "q": "Quel oiseau possède une grande poche de peau sous le bec pour capturer les poissons ?",
   "r": "Le pélican",
   "d": 1,
   "t": "Oiseaux"
  },
  {
+  "id": "sci_f_4-031",
   "q": "Quel organisme résulte de l'association d'un champignon et d'une algue ?",
   "r": "Le lichen",
   "d": 2,
   "t": "Botanique"
  },
  {
+  "id": "sci_f_4-032",
   "q": "Quel ingénieur français fit voler en 1852 le premier dirigeable propulsé par une machine à vapeur ?",
   "r": "Henri Giffard",
   "d": 3,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-033",
   "q": "Quel ingénieur d'origine belge installé à Paris breveta en 1860 un moteur à combustion interne ?",
   "r": "Étienne Lenoir",
   "d": 3,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-034",
   "q": "Comment s'appelait la tortue géante de l'île Pinta, dernière de son espèce, morte en 2012 ?",
   "r": "George le Solitaire",
   "d": 3,
   "t": "Reptiles et amphibiens"
  },
  {
+  "id": "sci_f_4-035",
   "q": "Quelle race de chien, qui porte le nom d'un col des Alpes, est célèbre pour le sauvetage en montagne ?",
   "r": "Le saint-bernard",
   "d": 1,
   "t": "Animaux de compagnie"
  },
  {
+  "id": "sci_f_4-036",
   "q": "Quel grand singe, proche du chimpanzé, ne vit qu'au sud du fleuve Congo ?",
   "r": "Le bonobo",
   "d": 2,
   "t": "Mammifères"
  },
  {
+  "id": "sci_f_4-037",
   "q": "Comment appelle-t-on le nid de l'aigle, construit sur une falaise ou un grand arbre ?",
   "r": "L'aire",
   "d": 2,
   "t": "Habitats et groupes"
  },
  {
+  "id": "sci_f_4-038",
   "q": "Quel papillon de nuit porte sur le thorax un motif évoquant un crâne ?",
   "r": "Le sphinx tête-de-mort",
   "d": 2,
   "t": "Insectes"
  },
  {
+  "id": "sci_f_4-039",
   "q": "Comment appelle-t-on la date à laquelle l'humanité a consommé toutes les ressources que la planète peut renouveler en un an ?",
   "r": "Le jour du dépassement",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_f_4-040",
   "q": "Dans quel parc national le loup est-il réapparu naturellement en France en 1992 ?",
   "r": "Le Mercantour",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_f_4-041",
   "q": "Quel grand oiseau coureur figure avec le kangourou sur les armoiries de l'Australie ?",
   "r": "L'émeu",
   "d": 1,
   "t": "Oiseaux"
  },
  {
+  "id": "sci_f_4-042",
   "q": "Quel verbe désigne le cri de l'âne ?",
   "r": "Braire",
   "d": 1,
   "t": "Cris des animaux"
  },
  {
+  "id": "sci_f_4-043",
   "q": "Quel astronome, après une tempête meurtrière en mer Noire en 1854, fit créer un réseau d'observations météo en France ?",
   "r": "Urbain Le Verrier",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-044",
   "q": "Comment appelle-t-on le mâle de l'oie ?",
   "r": "Le jars",
   "d": 2,
   "t": "Noms des animaux"
  },
  {
+  "id": "sci_f_4-045",
   "q": "Quelle ville a été la première à réintroduire le tramway moderne en France, en 1985 ?",
   "r": "Nantes",
   "d": 3,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-046",
   "q": "Comment appelle-t-on les nuages blancs et cotonneux des journées de beau temps ?",
   "r": "Les cumulus",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-047",
   "q": "À quel serrurier parisien attribue-t-on l'idée, dans les années 1860, de fixer des pédales sur la roue avant du vélocipède ?",
   "r": "Pierre Michaux",
   "d": 3,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-048",
   "q": "Comment appelle-t-on les saints fêtés les 11, 12 et 13 mai, réputés apporter les dernières gelées ?",
   "r": "Les saints de glace",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-049",
   "q": "Quel avion de ligne d'Airbus à deux ponts a effectué son premier vol en 2005 ?",
   "r": "L'A380",
   "d": 1,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-050",
   "q": "Où doit se trouver le soleil pour qu'un observateur voie un arc-en-ciel ?",
   "r": "Dans son dos",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-051",
   "q": "Quel matériau antiadhésif, découvert par la firme DuPont, recouvre les poêles Tefal ?",
   "r": "Le téflon (PTFE)",
   "d": 2,
   "t": "Inventions"
  },
  {
+  "id": "sci_f_4-052",
   "q": "Comment appelle-t-on la science qui étudie les fossiles ?",
   "r": "La paléontologie",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_f_4-053",
   "q": "Comment appelle-t-on la part du rayonnement solaire réfléchie par une surface, très forte pour la neige ?",
   "r": "L'albédo",
   "d": 3,
   "t": "Climat"
  },
  {
+  "id": "sci_f_4-054",
   "q": "Quel écrivain tchèque a popularisé le mot « robot » dans sa pièce R.U.R., en 1920 ?",
   "r": "Karel Čapek",
   "d": 2,
   "t": "Technologies"
  },
  {
+  "id": "sci_f_4-055",
   "q": "Comment les marins appellent-ils la zone de calmes et d'orages située près de l'équateur ?",
   "r": "Le pot-au-noir",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-056",
   "q": "Comment appelle-t-on le petit du cochon ?",
   "r": "Le porcelet",
   "d": 1,
   "t": "Noms des animaux"
  },
  {
+  "id": "sci_f_4-057",
   "q": "Quelle substance sucrée les fourmis récoltent-elles en « élevant » des pucerons ?",
   "r": "Le miellat",
   "d": 3,
   "t": "Insectes"
  },
  {
+  "id": "sci_f_4-058",
   "q": "Comment appelle-t-on la fine couche de glace transparente formée par une pluie tombant sur un sol gelé ?",
   "r": "Le verglas",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-059",
   "q": "Quel petit passereau des jardins porte une tache orangée sur la gorge et la poitrine ?",
   "r": "Le rouge-gorge",
   "d": 1,
   "t": "Oiseaux"
  },
  {
+  "id": "sci_f_4-060",
   "q": "En quelle année le tunnel sous la Manche a-t-il été inauguré ?",
   "r": "1994",
   "d": 1,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-061",
   "q": "Quel amphibien noir et jaune était réputé, selon la légende, résister au feu ?",
   "r": "La salamandre",
   "d": 2,
   "t": "Reptiles et amphibiens"
  },
  {
+  "id": "sci_f_4-062",
   "q": "Comment appelle-t-on le terrier de la loutre, aménagé dans les berges ?",
   "r": "La catiche",
   "d": 3,
   "t": "Habitats et groupes"
  },
  {
+  "id": "sci_f_4-063",
   "q": "Avec quelle partie de leur corps les papillons goûtent-ils leur nourriture ?",
   "r": "Les pattes",
   "d": 2,
   "t": "Insectes"
  },
  {
+  "id": "sci_f_4-064",
   "q": "Comment appelle-t-on le bruit produit par le grillon en frottant ses ailes l'une contre l'autre ?",
   "r": "La stridulation",
   "d": 2,
   "t": "Insectes"
  },
  {
+  "id": "sci_f_4-065",
   "q": "Quelle ligne ferroviaire, la plus longue du monde, relie Moscou à Vladivostok ?",
   "r": "Le Transsibérien",
   "d": 1,
   "t": "Transports"
  },
  {
+  "id": "sci_f_4-066",
   "q": "Quel légume-racine Napoléon fit-il développer pour produire du sucre malgré le blocus anglais ?",
   "r": "La betterave (sucrière)",
   "d": 1,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-067",
   "q": "Comment appelle-t-on la science qui étudie les champignons ?",
   "r": "La mycologie",
   "d": 1,
   "t": "Champignons"
  },
  {
+  "id": "sci_f_4-068",
   "q": "Quelle plante toxique a servi à exécuter le philosophe Socrate en 399 av. J.-C. ?",
   "r": "La ciguë",
   "d": 1,
   "t": "Botanique"
  },
  {
+  "id": "sci_f_4-069",
   "q": "Quel insecte, proche du puceron, a ravagé le vignoble français à la fin du XIXe siècle ?",
   "r": "Le phylloxéra",
   "d": 2,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-070",
   "q": "Quelle pierre bleue d'Afghanistan fournissait le pigment outremer des peintres ?",
   "r": "Le lapis-lazuli",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_f_4-071",
   "q": "Comment qualifie-t-on un animal qui se nourrit de cadavres ?",
   "r": "Nécrophage (charognard)",
   "d": 2,
   "t": "Comportements animaux"
  },
  {
+  "id": "sci_f_4-072",
   "q": "Quel vent chaud, sec et chargé de poussière souffle du Sahara sur l'Afrique de l'Ouest en saison sèche ?",
   "r": "L'harmattan",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-073",
   "q": "Quel minuscule animal, surnommé « ourson d'eau », survit au dessèchement, au froid extrême et même au vide spatial ?",
   "r": "Le tardigrade",
   "d": 2,
   "t": "Comportements animaux"
  },
  {
+  "id": "sci_f_4-074",
   "q": "Quel est le plus grand rongeur du monde ?",
   "r": "Le capybara",
   "d": 1,
   "t": "Mammifères"
  },
  {
+  "id": "sci_f_4-075",
   "q": "Quel oiseau à long bec courbé, sacré dans l'Égypte antique, était associé au dieu Thot ?",
   "r": "L'ibis",
   "d": 2,
   "t": "Oiseaux"
  },
  {
+  "id": "sci_f_4-076",
   "q": "Comment appelle-t-on botaniquement un fruit charnu à noyau, comme la cerise ou la pêche ?",
   "r": "Une drupe",
   "d": 3,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-077",
   "q": "Comment appelle-t-on les lames cornées qui remplacent les dents chez la baleine bleue et filtrent sa nourriture ?",
   "r": "Les fanons",
   "d": 1,
   "t": "Animaux marins"
  },
  {
+  "id": "sci_f_4-078",
   "q": "Quels frères clermontois ont breveté en 1891 un pneu démontable pour bicyclette ?",
   "r": "Les frères Michelin",
   "d": 2,
   "t": "Inventions"
  },
  {
+  "id": "sci_f_4-079",
   "q": "Botaniquement, qu'est-ce que le bananier, qui n'est pas un arbre ?",
   "r": "Une herbe géante",
   "d": 2,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-080",
   "q": "Comment appelle-t-on l'élevage des escargots ?",
   "r": "L'héliciculture",
   "d": 2,
   "t": "Élevage"
  },
  {
+  "id": "sci_f_4-081",
   "q": "Comment appelle-t-on la tempête de neige accompagnée de vents violents, typique du Canada ?",
   "r": "Le blizzard",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_f_4-082",
   "q": "Comment appelle-t-on les petites crevettes planctoniques dont se nourrissent les baleines à fanons ?",
   "r": "Le krill",
   "d": 1,
   "t": "Animaux marins"
  },
  {
+  "id": "sci_f_4-083",
   "q": "Chez les cactus, les épines sont des organes modifiés : lesquels ?",
   "r": "Des feuilles",
   "d": 2,
   "t": "Botanique"
  },
  {
+  "id": "sci_f_4-084",
   "q": "Quelle échelle mesure la force piquante des piments ?",
   "r": "L'échelle de Scoville",
   "d": 2,
   "t": "Fruits et légumes"
  },
  {
+  "id": "sci_f_4-085",
   "q": "Comment appelle-t-on un morceau d'or natif trouvé dans la nature ?",
   "r": "Une pépite",
   "d": 1,

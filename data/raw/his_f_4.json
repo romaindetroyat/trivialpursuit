@@ -1,509 +1,594 @@
 [
  {
+  "id": "his_f_4-001",
   "q": "Quel ancien secrétaire général de l'ONU a été élu président de l'Autriche en 1986, malgré une controverse sur son passé ?",
   "r": "Kurt Waldheim",
   "d": 3,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_4-002",
   "q": "Quelle conférence de juillet 1944, dans le New Hampshire, a donné naissance au FMI et à la Banque mondiale ?",
   "r": "Bretton Woods",
   "d": 2,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-003",
   "q": "Quelle institution spécialisée de l'ONU, chargée notamment du patrimoine mondial, a son siège à Paris ?",
   "r": "L'Unesco",
   "d": 1,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-004",
   "q": "Quel diplomate birman a été secrétaire général de l'ONU de 1961 à 1971 ?",
   "r": "U Thant",
   "d": 3,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-005",
   "q": "Quel secrétaire général de l'ONU, originaire du Ghana, a reçu le prix Nobel de la paix en 2001 ?",
   "r": "Kofi Annan",
   "d": 1,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-006",
   "q": "Quelle organisation de pays exportateurs de pétrole a été fondée à Bagdad en 1960 ?",
   "r": "L'OPEP",
   "d": 1,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-007",
   "q": "Quelle ONG de défense des prisonniers d'opinion a été fondée à Londres en 1961 ?",
   "r": "Amnesty International",
   "d": 2,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-008",
   "q": "Quel continent un traité signé à Washington en 1959 a-t-il réservé aux activités pacifiques et scientifiques ?",
   "r": "L'Antarctique",
   "d": 1,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-009",
   "q": "Quelle organisation internationale a remplacé le GATT en 1995 ?",
   "r": "L'OMC",
   "d": 1,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-010",
   "q": "Quel Belge a été désigné en 2009 premier président permanent du Conseil européen ?",
   "r": "Herman Van Rompuy",
   "d": 3,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-011",
   "q": "En quelle année les citoyens européens ont-ils élu pour la première fois leurs députés au suffrage universel direct ?",
   "r": "1979",
   "d": 2,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-012",
   "q": "Quelle journaliste et militante féministe a présidé comme doyenne la séance inaugurale du Parlement européen élu en 1979 ?",
   "r": "Louise Weiss",
   "d": 3,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-013",
   "q": "Quelle organisation fondée en 1949, siégeant à Strasbourg, veille notamment au respect de la Convention européenne des droits de l'homme ?",
   "r": "Le Conseil de l'Europe",
   "d": 2,
   "t": "Organisations internationales"
  },
  {
+  "id": "his_f_4-014",
   "q": "Quel président du Sénat a assuré par deux fois l'intérim de la présidence de la République, en 1969 et en 1974 ?",
   "r": "Alain Poher",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-015",
   "q": "Quel Premier ministre de Georges Pompidou prônait une « Nouvelle Société » ?",
   "r": "Jacques Chaban-Delmas",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-016",
   "q": "Quel économiste, ancien vice-président de la Commission européenne, est devenu Premier ministre en 1976 ?",
   "r": "Raymond Barre",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-017",
   "q": "Quel Premier ministre a lancé en 1974 le vaste programme de construction de centrales nucléaires françaises ?",
   "r": "Pierre Messmer",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-018",
   "q": "Quel homme politique, candidat malheureux en 1965 et 1974, a été élu président de la République en 1981 ?",
   "r": "François Mitterrand",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-019",
   "q": "Comment appelle-t-on la coexistence d'un président et d'un Premier ministre de bords opposés, apparue en France en 1986 ?",
   "r": "La cohabitation",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-020",
   "q": "Quel Premier ministre a dirigé le gouvernement lors de la deuxième cohabitation, de 1993 à 1995 ?",
   "r": "Édouard Balladur",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-021",
   "q": "Quel ancien Premier ministre s'est donné la mort le 1er mai 1993 ?",
   "r": "Pierre Bérégovoy",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-022",
   "q": "Quel Premier ministre a présenté en novembre 1995 un plan de réforme de la Sécurité sociale qui a provoqué de longues grèves ?",
   "r": "Alain Juppé",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-023",
   "q": "Quel Premier ministre socialiste a été éliminé dès le premier tour de l'élection présidentielle du 21 avril 2002 ?",
   "r": "Lionel Jospin",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-024",
   "q": "Quel ministre des Affaires étrangères a prononcé à l'ONU, en février 2003, un discours remarqué contre la guerre en Irak ?",
   "r": "Dominique de Villepin",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-025",
   "q": "Quelle femme est devenue en 2007 la première à accéder au second tour d'une élection présidentielle française ?",
   "r": "Ségolène Royal",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-026",
   "q": "En quelle année les salariés français ont-ils obtenu une cinquième semaine de congés payés ?",
   "r": "1982",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_f_4-027",
   "q": "En quelle année une loi a-t-elle permis aux Françaises d'exercer une profession et d'ouvrir un compte bancaire sans l'accord de leur mari ?",
   "r": "1965",
   "d": 3,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-028",
   "q": "Combien de femmes ont signé le manifeste publié en 1971 dans Le Nouvel Observateur, déclarant avoir avorté ?",
   "r": "343",
   "d": 2,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-029",
   "q": "Dans quelle ville de Seine-Saint-Denis s'est tenu en 1972 le procès pour avortement plaidé par l'avocate Gisèle Halimi ?",
   "r": "Bobigny",
   "d": 3,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-030",
   "q": "Quel contrat d'union civile ouvert aux couples de même sexe a été créé en France en 1999 ?",
   "r": "Le PACS",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-031",
   "q": "L'évacuation de quelle université parisienne par la police, le 3 mai 1968, a déclenché les émeutes du Quartier latin ?",
   "r": "La Sorbonne",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-032",
   "q": "Comment se termine le célèbre slogan de Mai 68 qui commence par « Sous les pavés » ?",
   "r": "La plage !",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-033",
   "q": "Quel nom officiel portait la marche partie de Marseille en 1983, surnommée « marche des Beurs » ?",
   "r": "La Marche pour l'égalité",
   "d": 3,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-034",
   "q": "Quelle association antiraciste, fondée en 1984, avait pour slogan « Touche pas à mon pote » ?",
   "r": "SOS Racisme",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-035",
   "q": "Quel plateau de l'Aveyron a été de 1971 à 1981 le théâtre d'une lutte paysanne contre l'extension d'un camp militaire ?",
   "r": "Le Larzac",
   "d": 2,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-036",
   "q": "Quelle usine horlogère de Besançon a été occupée et remise en marche par ses ouvriers en 1973 ?",
   "r": "Lip",
   "d": 2,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-037",
   "q": "Quel événement économique de 1973 a inspiré le slogan « En France, on n'a pas de pétrole, mais on a des idées » ?",
   "r": "Le premier choc pétrolier",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-038",
   "q": "Quel scandale de santé publique a éclaté en France vers 1991, à propos de transfusions ayant transmis le sida ?",
   "r": "L'affaire du sang contaminé",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-039",
   "q": "Quel surnom a-t-on donné à l'encéphalopathie spongiforme bovine, à l'origine d'une grave crise sanitaire en 1996 ?",
   "r": "La maladie de la vache folle",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_f_4-040",
   "q": "Quel quotidien a été fondé en décembre 1944 par Hubert Beuve-Méry ?",
   "r": "Le Monde",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-041",
   "q": "Quel quotidien a été lancé en 1973 avec le soutien de Jean-Paul Sartre ?",
   "r": "Libération",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-042",
   "q": "Quel journal satirique a été interdit en 1970 après sa une « Bal tragique à Colombey : 1 mort » ?",
   "r": "Hara-Kiri Hebdo",
   "d": 3,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-043",
   "q": "Quel hebdomadaire a été fondé en 1953 par Jean-Jacques Servan-Schreiber et Françoise Giroud ?",
   "r": "L'Express",
   "d": 2,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-044",
   "q": "Quel magazine créé en 1949 a longtemps eu pour slogan « Le poids des mots, le choc des photos » ?",
   "r": "Paris Match",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-045",
   "q": "Quelle agence de presse française a été fondée à la Libération, en 1944, pour succéder à l'agence Havas ?",
   "r": "L'AFP",
   "d": 2,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-046",
   "q": "Quel présentateur a ouvert son journal télévisé en février 1976 par « La France a peur » ?",
   "r": "Roger Gicquel",
   "d": 3,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-047",
   "q": "Quelle adaptation radiophonique d'Orson Welles a semé la panique chez certains auditeurs américains en 1938 ?",
   "r": "La Guerre des mondes",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-048",
   "q": "Quel office public de radio et de télévision française a été démantelé en 1974 ?",
   "r": "L'ORTF",
   "d": 2,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-049",
   "q": "Quelle chaîne de télévision publique française a été privatisée en 1987 ?",
   "r": "TF1",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-050",
   "q": "Quelle chaîne privée à péage a commencé à émettre en France en novembre 1984 ?",
   "r": "Canal+",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-051",
   "q": "Quelle chaîne américaine d'information en continu a été fondée par Ted Turner en 1980 ?",
   "r": "CNN",
   "d": 1,
   "t": "Médias"
  },
  {
+  "id": "his_f_4-052",
   "q": "Quelle firme japonaise a commercialisé le baladeur Walkman en 1979 ?",
   "r": "Sony",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-053",
   "q": "Quelle voiture de Citroën, présentée en 1955, a été surnommée « la déesse » ?",
   "r": "La DS",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-054",
   "q": "Quel modèle de Renault, lancé en 1946, a été la première voiture française produite à plus d'un million d'exemplaires ?",
   "r": "La 4 CV",
   "d": 2,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-055",
   "q": "Quelle voiture, conçue par Ferdinand Porsche à la demande du régime nazi, est devenue après-guerre l'une des plus vendues au monde ?",
   "r": "La Coccinelle",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-056",
   "q": "Quel est le premier avion de ligne à réaction français, qui a effectué son vol inaugural en 1955 ?",
   "r": "La Caravelle",
   "d": 2,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-057",
   "q": "Quel paquebot transatlantique, mis en service en 1962, était le fleuron de la marine marchande française ?",
   "r": "Le France",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-058",
   "q": "Quel ouvrage reliant la France au Royaume-Uni a été inauguré en mai 1994 ?",
   "r": "Le tunnel sous la Manche",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-059",
   "q": "Quel très gros-porteur d'Airbus à deux ponts a effectué son premier vol en avril 2005 ?",
   "r": "L'A380",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-060",
   "q": "Quel est le premier sous-marin à propulsion nucléaire, lancé par la marine américaine en 1954 ?",
   "r": "Le Nautilus",
   "d": 2,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-061",
   "q": "Quel radeau de balsa a traversé le Pacifique en 1947 sous la conduite de Thor Heyerdahl ?",
   "r": "Le Kon-Tiki",
   "d": 2,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-062",
   "q": "Quels deux hommes ont réussi la première ascension de l'Everest en mai 1953 ?",
   "r": "Edmund Hillary et Tenzing Norgay",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-063",
   "q": "Quel est le premier sommet de plus de 8 000 m gravi par l'homme, par Maurice Herzog et Louis Lachenal en 1950 ?",
   "r": "L'Annapurna",
   "d": 2,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-064",
   "q": "Quel commandant a exploré les fonds marins à bord de la Calypso ?",
   "r": "Jacques-Yves Cousteau",
   "d": 1,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-065",
   "q": "Quel bathyscaphe a atteint le fond de la fosse des Mariannes en janvier 1960 ?",
   "r": "Le Trieste",
   "d": 3,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-066",
   "q": "Quelle aviatrice française, belle-fille d'un président de la République, a été l'une des premières femmes à franchir le mur du son ?",
   "r": "Jacqueline Auriol",
   "d": 3,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-067",
   "q": "Quel Suisse a réussi en 1999, avec Brian Jones, le premier tour du monde en ballon sans escale ?",
   "r": "Bertrand Piccard",
   "d": 2,
   "t": "Techniques et sciences"
  },
  {
+  "id": "his_f_4-068",
   "q": "Quel site chimique toulousain a été détruit par une violente explosion le 21 septembre 2001 ?",
   "r": "L'usine AZF",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-069",
   "q": "Quelle ville lombarde a donné son nom à une directive européenne après la fuite d'un nuage de dioxine en 1976 ?",
   "r": "Seveso",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-070",
   "q": "Quel barrage italien a vu une gigantesque vague submerger la ville de Longarone en octobre 1963 ?",
   "r": "Le Vajont",
   "d": 3,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-071",
   "q": "Quelle centrale nucléaire américaine de Pennsylvanie a connu une fusion partielle de cœur en mars 1979 ?",
   "r": "Three Mile Island",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-072",
   "q": "Quel volcan colombien a enseveli la ville d'Armero sous des coulées de boue en novembre 1985 ?",
   "r": "Le Nevado del Ruiz",
   "d": 3,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-073",
   "q": "Quelle tempête a provoqué une submersion meurtrière sur le littoral vendéen en février 2010 ?",
   "r": "Xynthia",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-074",
   "q": "Dans quel stade corse une tribune provisoire s'est-elle effondrée en mai 1992, avant une demi-finale de Coupe de France ?",
   "r": "Furiani",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-075",
   "q": "Quel dancing de l'Isère a été ravagé par un incendie qui fit 146 morts en novembre 1970 ?",
   "r": "Le Cinq-Sept",
   "d": 3,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-076",
   "q": "Quel tunnel alpin a été le théâtre d'un incendie qui fit 39 morts en mars 1999 ?",
   "r": "Le tunnel du Mont-Blanc",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-077",
   "q": "Quel vol d'Air France reliant Rio de Janeiro à Paris a disparu au-dessus de l'Atlantique en juin 2009 ?",
   "r": "Le vol AF 447",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-078",
   "q": "Dans quelle station du RER parisien un attentat à la bombe a-t-il fait huit morts en juillet 1995 ?",
   "r": "Saint-Michel",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-079",
   "q": "Dans quelle capitale européenne des bombes ont-elles explosé dans des trains de banlieue le 11 mars 2004 ?",
   "r": "Madrid",
   "d": 1,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-080",
   "q": "Quelle course automobile d'endurance a été endeuillée en 1955 par l'accident le plus meurtrier de l'histoire du sport automobile ?",
   "r": "Les 24 Heures du Mans",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_f_4-081",
   "q": "Sous quel nom de naissance le boxeur Mohamed Ali a-t-il remporté le titre olympique en 1960 ?",
   "r": "Cassius Clay",
   "d": 1,
   "t": "Sport"
  },
  {
+  "id": "his_f_4-082",
   "q": "Quelle équipe française a perdu la finale de la Coupe des champions 1976 à Glasgow, restée célèbre pour ses « poteaux carrés » ?",
   "r": "L'AS Saint-Étienne",
   "d": 2,
   "t": "Sport"
  },
  {
+  "id": "his_f_4-083",
   "q": "Quel roi du Royaume-Uni, dont le bégaiement a inspiré le film Le Discours d'un roi, a régné pendant toute la Seconde Guerre mondiale ?",
   "r": "George VI",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_4-084",
   "q": "Quel insigne les Juifs de la zone occupée ont-ils été contraints de porter sur leurs vêtements à partir de juin 1942 ?",
   "r": "L'étoile jaune",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_4-085",
   "q": "Quels documents fallait-il présenter sous l'Occupation pour acheter pain, viande ou sucre ?",
   "r": "Les tickets de rationnement",
   "d": 1,

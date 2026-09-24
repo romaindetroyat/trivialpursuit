@@ -1,509 +1,594 @@
 [
  {
+  "id": "art_e_1-001",
   "q": "Comment s'appelle le médecin, ami et biographe de Sherlock Holmes ?",
   "r": "Le docteur Watson",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-002",
   "q": "Quel professeur, surnommé « le Napoléon du crime », est l'ennemi juré de Sherlock Holmes ?",
   "r": "Moriarty",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-003",
   "q": "Au-dessus de quelles chutes suisses Holmes et Moriarty s'affrontent-ils dans « Le Dernier Problème » ?",
   "r": "Les chutes du Reichenbach",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-004",
   "q": "Comment s'appelle le frère aîné de Sherlock Holmes, fonctionnaire au moins aussi brillant que lui ?",
   "r": "Mycroft",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-005",
   "q": "Dans quel roman paru en 1887 Sherlock Holmes fait-il sa toute première apparition ?",
   "r": "Une étude en rouge",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-006",
   "q": "De quel instrument de musique Sherlock Holmes aime-t-il jouer pour réfléchir ?",
   "r": "Le violon",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-007",
   "q": "Quel roman de Conan Doyle voit Holmes enquêter sur une bête légendaire qui hanterait la lande du Devon ?",
   "r": "Le Chien des Baskerville",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-008",
   "q": "Quel détective belge moustachu d'Agatha Christie fait travailler ses « petites cellules grises » ?",
   "r": "Hercule Poirot",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-009",
   "q": "Dans quel train Hercule Poirot enquête-t-il sur un meurtre, le convoi étant bloqué par la neige, dans un roman de 1934 ?",
   "r": "L'Orient-Express",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-010",
   "q": "Dans quel paisible village anglais vit Miss Marple, l'enquêtrice d'Agatha Christie ?",
   "r": "St Mary Mead",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-011",
   "q": "Quel ancien officier, ami d'Hercule Poirot, raconte souvent ses enquêtes ?",
   "r": "Le capitaine Hastings",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-012",
   "q": "Dans quel roman d'Agatha Christie (1926) le narrateur se révèle-t-il être l'assassin ?",
   "r": "Le Meurtre de Roger Ackroyd",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-013",
   "q": "Quel détective privé désabusé de Los Angeles est le héros des romans de Raymond Chandler ?",
   "r": "Philip Marlowe",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-014",
   "q": "Dans quel roman de Dashiell Hammett (1930) le détective Sam Spade recherche-t-il une précieuse statuette d'oiseau ?",
   "r": "Le Faucon maltais",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-015",
   "q": "Quel séduisant escroc meurtrier est le héros de cinq romans de Patricia Highsmith ?",
   "r": "Tom Ripley",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-016",
   "q": "Quel psychiatre cannibale, créé par Thomas Harris, apparaît dans « Le Silence des agneaux » ?",
   "r": "Hannibal Lecter",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-017",
   "q": "Quel prêtre catholique détective a été imaginé par l'écrivain anglais G. K. Chesterton ?",
   "r": "Le père Brown",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-018",
   "q": "Quel détective parisien, créé par Edgar Allan Poe en 1841, est considéré comme le premier du genre ?",
   "r": "C. Auguste Dupin",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-019",
   "q": "Quel journaliste suédois, mort avant la parution de ses livres, est l'auteur de la trilogie « Millénium » ?",
   "r": "Stieg Larsson",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-020",
   "q": "Comment s'appelle la hackeuse tatouée, héroïne de la saga « Millénium » ?",
   "r": "Lisbeth Salander",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-021",
   "q": "Quel commissaire mélancolique de la ville suédoise d'Ystad est le héros des romans d'Henning Mankell ?",
   "r": "Kurt Wallander",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-022",
   "q": "Quel inspecteur de police d'Oslo est le héros récurrent des polars de Jo Nesbø ?",
   "r": "Harry Hole",
   "d": 3,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-023",
   "q": "Quel commissaire sicilien est le héros des romans d'Andrea Camilleri ?",
   "r": "Montalbano",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-024",
   "q": "Quel roman de Mario Puzo (1969) raconte la saga de la famille mafieuse Corleone ?",
   "r": "Le Parrain",
   "d": 1,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-025",
   "q": "Quel écrivain américain a enquêté six ans sur le meurtre d'une famille du Kansas pour écrire « De sang-froid » (1966) ?",
   "r": "Truman Capote",
   "d": 2,
   "t": "Polars"
  },
  {
+  "id": "art_e_1-026",
   "q": "Quel professeur de symbologie de Harvard est le héros de « Da Vinci Code » ?",
   "r": "Robert Langdon",
   "d": 2,
   "t": "Thrillers"
  },
  {
+  "id": "art_e_1-027",
   "q": "Quel romancier américain a publié en 2003 le best-seller « Da Vinci Code » ?",
   "r": "Dan Brown",
   "d": 1,
   "t": "Thrillers"
  },
  {
+  "id": "art_e_1-028",
   "q": "Quelle pièce de Shakespeare met en scène un général écossais poussé au meurtre du roi par sa femme et trois sorcières ?",
   "r": "Macbeth",
   "d": 1,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-029",
   "q": "Dans « Hamlet », à quel ancien bouffon du roi appartient le crâne que tient le prince au cimetière ?",
   "r": "Yorick",
   "d": 2,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-030",
   "q": "À quelle famille de Vérone appartient Juliette, ennemie de celle des Montaigu ?",
   "r": "Les Capulet",
   "d": 1,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-031",
   "q": "Dans quelle ville italienne se déroule « Roméo et Juliette » ?",
   "r": "Vérone",
   "d": 1,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-032",
   "q": "Quelle pièce de Shakespeare met en scène le magicien Prospero, exilé sur une île avec sa fille Miranda ?",
   "r": "La Tempête",
   "d": 2,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-033",
   "q": "Quel usurier réclame une livre de chair à son débiteur dans « Le Marchand de Venise » ?",
   "r": "Shylock",
   "d": 2,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-034",
   "q": "Quel théâtre londonien, construit en 1599 au bord de la Tamise, accueillait les pièces de la troupe de Shakespeare ?",
   "r": "Le Globe",
   "d": 2,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-035",
   "q": "Dans « Le Songe d'une nuit d'été », quel tisserand se retrouve affublé d'une tête d'âne ?",
   "r": "Bottom",
   "d": 3,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-036",
   "q": "Dans quelle pièce de Shakespeare entend-on « Être ou ne pas être, telle est la question » ?",
   "r": "Hamlet",
   "d": 1,
   "t": "Shakespeare"
  },
  {
+  "id": "art_e_1-037",
   "q": "Quel roman de George Orwell (1945) raconte la révolte des bêtes d'une exploitation contre leur fermier ?",
   "r": "La Ferme des animaux",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-038",
   "q": "Dans « La Ferme des animaux », quel cochon devient le dictateur de la ferme ?",
   "r": "Napoléon",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-039",
   "q": "Quel est le véritable nom de l'écrivain George Orwell ?",
   "r": "Eric Arthur Blair",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-040",
   "q": "Quel écrivain anglais a publié « Robinson Crusoé » en 1719 ?",
   "r": "Daniel Defoe",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-041",
   "q": "Quel pirate unijambiste, toujours accompagné de son perroquet, est le cuisinier de « L'Île au trésor » ?",
   "r": "Long John Silver",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_e_1-042",
   "q": "Quelle romancière anglaise, épouse du poète Percy Shelley, a écrit « Frankenstein » ?",
   "r": "Mary Shelley",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-043",
   "q": "Quel professeur néerlandais mène la traque du comte Dracula dans le roman de Bram Stoker ?",
   "r": "Abraham Van Helsing",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_e_1-044",
   "q": "Dans quelle région des Carpates se trouve le château du comte Dracula ?",
   "r": "La Transylvanie",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-045",
   "q": "Quel écrivain écossais a écrit « Ivanhoé » (1819), roman de chevalerie au temps de Richard Cœur de Lion ?",
   "r": "Walter Scott",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-046",
   "q": "Au pays de quels géants Gulliver aborde-t-il lors de son deuxième voyage ?",
   "r": "Brobdingnag",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-047",
   "q": "Quel humoriste anglais a écrit « Trois hommes dans un bateau » (1889), sans oublier le chien ?",
   "r": "Jerome K. Jerome",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-048",
   "q": "Quel riche et orgueilleux gentleman finit par épouser Elizabeth Bennet dans « Orgueil et Préjugés » ?",
   "r": "Mr Darcy",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_e_1-049",
   "q": "Dans « Les Grandes Espérances » de Dickens, quelle vieille femme porte depuis des années sa robe de mariée ?",
   "r": "Miss Havisham",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_e_1-050",
   "q": "Dans « Jane Eyre », comment s'appelle l'épouse démente de M. Rochester, enfermée au grenier ?",
   "r": "Bertha Mason",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_e_1-051",
   "q": "Quel roman de Dickens (1859) se déroule entre Londres et Paris pendant la Révolution française ?",
   "r": "Le Conte de deux cités",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-052",
   "q": "Quel écrivain irlandais a écrit « Ulysse » et « Gens de Dublin » ?",
   "r": "James Joyce",
   "d": 1,
   "t": "Littérature irlandaise"
  },
  {
+  "id": "art_e_1-053",
   "q": "À quel poète national écossais doit-on les paroles de la chanson « Auld Lang Syne » ?",
   "r": "Robert Burns",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_e_1-054",
   "q": "Dans quel monde imaginaire les enfants Pevensie pénètrent-ils en passant par une armoire ?",
   "r": "Narnia",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-055",
   "q": "Quel lion majestueux est le véritable roi de Narnia ?",
   "r": "Aslan",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-056",
   "q": "Quel écrivain britannique, ami de Tolkien, a écrit « Le Monde de Narnia » ?",
   "r": "C. S. Lewis",
   "d": 2,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-057",
   "q": "Quelle créature décharnée appelle l'Anneau « mon précieux » ?",
   "r": "Gollum",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-058",
   "q": "Quel hobbit, jeune cousin et héritier de Bilbon, est chargé de détruire l'Anneau unique ?",
   "r": "Frodon",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-059",
   "q": "Quel jardinier fidèle accompagne Frodon jusqu'à la Montagne du Destin ?",
   "r": "Sam Gamegie",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-060",
   "q": "Comment s'appelle la verte région de la Terre du Milieu où vivent les hobbits ?",
   "r": "La Comté",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-061",
   "q": "Quel magicien, d'abord « le Gris » puis « le Blanc », guide la Communauté de l'Anneau ?",
   "r": "Gandalf",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-062",
   "q": "Dans quelle école de sorcellerie Harry Potter fait-il ses études ?",
   "r": "Poudlard",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-063",
   "q": "Quel sport pratiqué sur des balais volants est le préféré des élèves de Poudlard ?",
   "r": "Le Quidditch",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-064",
   "q": "Comment les sorciers de Harry Potter appellent-ils les personnes dépourvues de pouvoirs magiques ?",
   "r": "Les Moldus",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-065",
   "q": "Quel mage noir est surnommé « Celui-dont-on-ne-doit-pas-prononcer-le-nom » ?",
   "r": "Voldemort",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-066",
   "q": "Comment s'appelle la chouette blanche de Harry Potter ?",
   "r": "Hedwige",
   "d": 2,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-067",
   "q": "De quel quai de la gare de King's Cross part le Poudlard Express ?",
   "r": "Le quai 9 ¾",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-068",
   "q": "Quel monde plat, posé sur quatre éléphants juchés sur une tortue géante, a imaginé Terry Pratchett ?",
   "r": "Le Disque-monde",
   "d": 2,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-069",
   "q": "Selon « Le Guide du voyageur galactique », quelle est la réponse à la grande question sur la vie, l'univers et le reste ?",
   "r": "42",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-070",
   "q": "Quel écrivain anglais a écrit la trilogie « À la croisée des mondes », dont l'héroïne s'appelle Lyra ?",
   "r": "Philip Pullman",
   "d": 3,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-071",
   "q": "Quel écrivain américain a écrit la saga « Le Trône de fer », adaptée en série sous le titre « Game of Thrones » ?",
   "r": "George R. R. Martin",
   "d": 1,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-072",
   "q": "Sur quelle planète désertique, source de l'Épice, se déroule le roman « Dune » de Frank Herbert ?",
   "r": "Arrakis",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-073",
   "q": "Quel écrivain de science-fiction a formulé les « trois lois de la robotique » ?",
   "r": "Isaac Asimov",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-074",
   "q": "Quel écrivain américain a écrit « Les androïdes rêvent-ils de moutons électriques ? », adapté au cinéma sous le titre « Blade Runner » ?",
   "r": "Philip K. Dick",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-075",
   "q": "Quel écrivain britannique a écrit avec Stanley Kubrick le scénario de « 2001, l'odyssée de l'espace » ?",
   "r": "Arthur C. Clarke",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-076",
   "q": "Quelle romancière américaine a créé l'archipel de Terremer et son magicien Ged ?",
   "r": "Ursula K. Le Guin",
   "d": 3,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-077",
   "q": "Quel écrivain britannique a publié en 1962 « L'Orange mécanique » ?",
   "r": "Anthony Burgess",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-078",
   "q": "Quelle romancière canadienne a écrit « La Servante écarlate » (1985) ?",
   "r": "Margaret Atwood",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-079",
   "q": "Comment s'appelle l'héroïne de « Hunger Games », qui se porte volontaire à la place de sa petite sœur ?",
   "r": "Katniss Everdeen",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-080",
   "q": "Quel roman de H. G. Wells (1895) envoie son héros jusqu'en l'an 802 701 ?",
   "r": "La Machine à explorer le temps",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-081",
   "q": "Quel recueil de Ray Bradbury (1950) raconte la colonisation de la planète rouge par les humains ?",
   "r": "Chroniques martiennes",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_1-082",
   "q": "Quelle entité monstrueuse, endormie dans une cité engloutie du Pacifique, a été imaginée par H. P. Lovecraft ?",
   "r": "Cthulhu",
   "d": 2,
   "t": "Fantastique"
  },
  {
+  "id": "art_e_1-083",
   "q": "Quelle romancière américaine a écrit la saga « Twilight », amours d'une lycéenne et d'un vampire ?",
   "r": "Stephenie Meyer",
   "d": 2,
   "t": "Fantastique"
  },
  {
+  "id": "art_e_1-084",
   "q": "Quel écrivain texan a créé dans les années 1930 le personnage de Conan le Barbare ?",
   "r": "Robert E. Howard",
   "d": 3,
   "t": "Fantasy"
  },
  {
+  "id": "art_e_1-085",
   "q": "Quel écrivain chinois a écrit « Le Problème à trois corps » ?",
   "r": "Liu Cixin",
   "d": 3,

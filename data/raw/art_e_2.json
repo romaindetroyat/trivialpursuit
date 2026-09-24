@@ -1,509 +1,594 @@
 [
  {
+  "id": "art_e_2-001",
   "q": "Quel est le véritable nom de l'écrivain Mark Twain ?",
   "r": "Samuel Langhorne Clemens",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-002",
   "q": "Quelle romancière américaine a écrit « Les Quatre Filles du docteur March » (1868) ?",
   "r": "Louisa May Alcott",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-003",
   "q": "Comment s'appelle l'héroïne capricieuse et volontaire d'« Autant en emporte le vent » ?",
   "r": "Scarlett O'Hara",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_e_2-004",
   "q": "Comment s'appelle la plantation familiale de Scarlett O'Hara, en Géorgie ?",
   "r": "Tara",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_e_2-005",
   "q": "Quel roman de John Steinbeck (1937) raconte l'amitié de deux ouvriers agricoles, George et le colosse Lennie ?",
   "r": "Des souris et des hommes",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-006",
   "q": "Qui est le narrateur de « Gatsby le Magnifique », voisin de Gatsby et cousin de Daisy ?",
   "r": "Nick Carraway",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_e_2-007",
   "q": "Quelle lettre écarlate l'héroïne du roman de Nathaniel Hawthorne est-elle condamnée à porter sur sa poitrine ?",
   "r": "Un A (pour adultère)",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-008",
   "q": "Quel romancier américain a écrit « Le Dernier des Mohicans » (1826) ?",
   "r": "James Fenimore Cooper",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-009",
   "q": "Quel écrivain américain a écrit « Croc-Blanc » et « L'Appel de la forêt » ?",
   "r": "Jack London",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-010",
   "q": "Quelle fillette du Kansas est emportée par une tornade jusqu'au pays d'Oz avec son chien Toto ?",
   "r": "Dorothy",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-011",
   "q": "Quel écrivain américain a publié en 1900 « Le Magicien d'Oz » ?",
   "r": "L. Frank Baum",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-012",
   "q": "Quel prénom se donne le narrateur de « Moby Dick » dans la première phrase du roman ?",
   "r": "Ismaël",
   "d": 2,
   "t": "Incipits"
  },
  {
+  "id": "art_e_2-013",
   "q": "Quel roman d'Hemingway (1940) suit un Américain engagé aux côtés des républicains pendant la guerre d'Espagne ?",
   "r": "Pour qui sonne le glas",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-014",
   "q": "Quel écrivain américain a obtenu le prix Pulitzer 2007 pour « La Route », errance d'un père et de son fils dans un monde dévasté ?",
   "r": "Cormac McCarthy",
   "d": 3,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-015",
   "q": "Quelle poétesse américaine, recluse à Amherst, n'a vu qu'une dizaine de ses poèmes publiés de son vivant ?",
   "r": "Emily Dickinson",
   "d": 3,
   "t": "Poésie étrangère"
  },
  {
+  "id": "art_e_2-016",
   "q": "Quel copiste, héros d'une nouvelle de Herman Melville, répond à toute demande « Je préférerais ne pas » ?",
   "r": "Bartleby",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_e_2-017",
   "q": "Quel écrivain américain a raconté dans « Walden » ses deux années de vie dans une cabane au bord d'un étang ?",
   "r": "Henry David Thoreau",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_e_2-018",
   "q": "Dans quelle pièce de Tchekhov la jeune Nina se compare-t-elle à l'oiseau tué par Treplev ?",
   "r": "La Mouette",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_e_2-019",
   "q": "Quelle nouvelle de Gogol raconte le malheur d'Akaki Akakievitch, petit fonctionnaire dépouillé de son vêtement neuf ?",
   "r": "Le Manteau",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_e_2-020",
   "q": "Comment s'appelle le gros chat noir qui parle, compagnon du diable dans « Le Maître et Marguerite » ?",
   "r": "Béhémoth",
   "d": 3,
   "t": "Littérature russe"
  },
  {
+  "id": "art_e_2-021",
   "q": "Quel court roman de Soljenitsyne (1962) décrit une journée ordinaire d'un détenu du goulag ?",
   "r": "Une journée d'Ivan Denissovitch",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_e_2-022",
   "q": "Quel héros de « Guerre et Paix », fils illégitime d'un comte, hérite d'une immense fortune et épouse finalement Natacha ?",
   "r": "Pierre Bézoukhov",
   "d": 3,
   "t": "Littérature russe"
  },
  {
+  "id": "art_e_2-023",
   "q": "Quel baron allemand, héros de récits de vantardises, prétend avoir chevauché un boulet de canon ?",
   "r": "Le baron de Münchhausen",
   "d": 1,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_e_2-024",
   "q": "Quel écrivain allemand a écrit en 1816 « Casse-Noisette et le Roi des souris » ?",
   "r": "E. T. A. Hoffmann",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_e_2-025",
   "q": "Dans « Le Procès » de Kafka, comment est désigné le héros, arrêté un matin sans savoir pourquoi ?",
   "r": "Joseph K.",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_e_2-026",
   "q": "Quel poète de langue allemande a écrit les « Lettres à un jeune poète » ?",
   "r": "Rainer Maria Rilke",
   "d": 2,
   "t": "Poésie étrangère"
  },
  {
+  "id": "art_e_2-027",
   "q": "Quel écrivain allemand a écrit « Émile et les Détectives » (1929) ?",
   "r": "Erich Kästner",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-028",
   "q": "Comment s'appelle le vieil homme pauvre qui sculpte la marionnette Pinocchio dans une bûche ?",
   "r": "Geppetto",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-029",
   "q": "Quel personnage de Carlo Collodi voit son nez s'allonger chaque fois qu'il ment ?",
   "r": "Pinocchio",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-030",
   "q": "Quel poète italien de la Renaissance a écrit l'épopée « Roland furieux » ?",
   "r": "L'Arioste",
   "d": 3,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_e_2-031",
   "q": "Quel court roman espagnol anonyme, publié en 1554, est considéré comme le premier roman picaresque ?",
   "r": "Lazarillo de Tormes",
   "d": 3,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_e_2-032",
   "q": "Dans quelle région d'Espagne vit Don Quichotte ?",
   "r": "La Manche",
   "d": 1,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_e_2-033",
   "q": "Quel roman de García Márquez révèle dès sa première phrase que Santiago Nasar va être tué ?",
   "r": "Chronique d'une mort annoncée",
   "d": 2,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_e_2-034",
   "q": "Quel écrivain portugais, lauréat du prix Nobel en 1998, a écrit « L'Aveuglement » ?",
   "r": "José Saramago",
   "d": 2,
   "t": "Littérature portugaise"
  },
  {
+  "id": "art_e_2-035",
   "q": "Quel écrivain japonais, auteur du « Pavillon d'or », s'est donné la mort par seppuku en 1970 ?",
   "r": "Yukio Mishima",
   "d": 2,
   "t": "Littérature japonaise"
  },
  {
+  "id": "art_e_2-036",
   "q": "Quel écrivain japonais a écrit la nouvelle « Rashōmon » et a donné son nom à un célèbre prix littéraire japonais ?",
   "r": "Ryūnosuke Akutagawa",
   "d": 3,
   "t": "Littérature japonaise"
  },
  {
+  "id": "art_e_2-037",
   "q": "Quel stratège chinois de l'Antiquité est l'auteur de « L'Art de la guerre » ?",
   "r": "Sun Tzu",
   "d": 1,
   "t": "Littérature chinoise"
  },
  {
+  "id": "art_e_2-038",
   "q": "Quel écrivain britannique né à Bombay a obtenu le Booker Prize en 1981 pour « Les Enfants de minuit » ?",
   "r": "Salman Rushdie",
   "d": 2,
   "t": "Littérature indienne"
  },
  {
+  "id": "art_e_2-039",
   "q": "Quel poète libanais émigré aux États-Unis a publié en 1923 « Le Prophète » ?",
   "r": "Khalil Gibran",
   "d": 2,
   "t": "Poésie étrangère"
  },
  {
+  "id": "art_e_2-040",
   "q": "Quel poète mystique persan du XIIIe siècle a inspiré la confrérie des derviches tourneurs de Konya ?",
   "r": "Rûmî",
   "d": 3,
   "t": "Poésie étrangère"
  },
  {
+  "id": "art_e_2-041",
   "q": "Quel jeune homme des « Mille et Une Nuits » découvre une lampe merveilleuse habitée par un génie ?",
   "r": "Aladin",
   "d": 1,
   "t": "Contes orientaux"
  },
  {
+  "id": "art_e_2-042",
   "q": "Quel bûcheron des « Mille et Une Nuits » ouvre la caverne de quarante voleurs par la formule « Sésame, ouvre-toi » ?",
   "r": "Ali Baba",
   "d": 1,
   "t": "Contes orientaux"
  },
  {
+  "id": "art_e_2-043",
   "q": "Quel marin de Bagdad accomplit sept voyages extraordinaires dans « Les Mille et Une Nuits » ?",
   "r": "Sindbad",
   "d": 1,
   "t": "Contes orientaux"
  },
  {
+  "id": "art_e_2-044",
   "q": "Quel roi, trahi par son épouse, fait exécuter chaque matin la femme épousée la veille, jusqu'à ce que Shéhérazade l'en détourne ?",
   "r": "Shahryar",
   "d": 3,
   "t": "Contes orientaux"
  },
  {
+  "id": "art_e_2-045",
   "q": "Quel écrivain sud-africain fut le premier à remporter deux fois le Booker Prize, notamment pour « Disgrâce » (1999) ?",
   "r": "J. M. Coetzee",
   "d": 3,
   "t": "Littérature africaine"
  },
  {
+  "id": "art_e_2-046",
   "q": "Quel écrivain polonais a écrit « Quo vadis ? » (1896), roman sur les premiers chrétiens au temps de Néron ?",
   "r": "Henryk Sienkiewicz",
   "d": 3,
   "t": "Littérature polonaise"
  },
  {
+  "id": "art_e_2-047",
   "q": "Quel écrivain tchèque a popularisé le mot « robot » dans sa pièce « R.U.R. » en 1920 ?",
   "r": "Karel Čapek",
   "d": 3,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_2-048",
   "q": "Quel écrivain polonais a imaginé « Solaris », planète recouverte d'un océan pensant ?",
   "r": "Stanisław Lem",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_e_2-049",
   "q": "Quel tragique grec a écrit « Médée » et « Les Bacchantes » ?",
   "r": "Euripide",
   "d": 2,
   "t": "Littérature antique"
  },
  {
+  "id": "art_e_2-050",
   "q": "Quel auteur grec a comparé les vies de grands hommes grecs et romains dans ses « Vies parallèles » ?",
   "r": "Plutarque",
   "d": 2,
   "t": "Littérature antique"
  },
  {
+  "id": "art_e_2-051",
   "q": "Quel poète latin a lancé la formule « Carpe diem » dans ses « Odes » ?",
   "r": "Horace",
   "d": 2,
   "t": "Littérature antique"
  },
  {
+  "id": "art_e_2-052",
   "q": "Quel poète satirique latin a dénoncé un peuple ne réclamant plus que « du pain et des jeux » ?",
   "r": "Juvénal",
   "d": 3,
   "t": "Littérature antique"
  },
  {
+  "id": "art_e_2-053",
   "q": "Quel poète latin a exposé la philosophie d'Épicure dans son long poème « De la nature » ?",
   "r": "Lucrèce",
   "d": 2,
   "t": "Littérature antique"
  },
  {
+  "id": "art_e_2-054",
   "q": "Quelle petite orpheline vit dans les Alpes suisses chez son grand-père, dans le roman de Johanna Spyri ?",
   "r": "Heidi",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-055",
   "q": "Quelle romancière suisse a écrit « Heidi » (1880) ?",
   "r": "Johanna Spyri",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-056",
   "q": "De quel pays d'Amérique du Sud vient l'ours Paddington, amateur de marmelade ?",
   "r": "Du Pérou",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-057",
   "q": "Quelle romancière anglaise a créé « Le Club des Cinq » ?",
   "r": "Enid Blyton",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-058",
   "q": "Quel personnage vert et bougon du Dr Seuss déteste Noël au point de vouloir le voler ?",
   "r": "Le Grinch",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-059",
   "q": "Quel monstre imaginaire la petite souris invente-t-elle pour effrayer ses prédateurs dans l'album de Julia Donaldson ?",
   "r": "Le Gruffalo",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-060",
   "q": "Quel illustrateur américain a créé l'album « Max et les Maximonstres » (1963) ?",
   "r": "Maurice Sendak",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-061",
   "q": "Quel écrivain autrichien a écrit en 1923 « Bambi », histoire d'un faon plus tard adaptée par Disney ?",
   "r": "Felix Salten",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-062",
   "q": "Sur le dos de quel animal Nils Holgersson traverse-t-il la Suède ?",
   "r": "Une oie (un jars)",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-063",
   "q": "Quelle petite fille aux nattes rousses, créée par Astrid Lindgren, est la plus forte du monde ?",
   "r": "Fifi Brindacier",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-064",
   "q": "Quelle écrivaine finlandaise a créé les Moumines, petits trolls ressemblant à des hippopotames ?",
   "r": "Tove Jansson",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-065",
   "q": "Quel écrivain norvégien a raconté l'histoire de la philosophie à une adolescente dans « Le Monde de Sophie » ?",
   "r": "Jostein Gaarder",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-066",
   "q": "Quel chat d'« Alice au pays des merveilles » disparaît peu à peu en ne laissant que son sourire ?",
   "r": "Le chat du Cheshire",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-067",
   "q": "Quel personnage d'« Alice au pays des merveilles » prend le thé avec le Lièvre de Mars et le Loir ?",
   "r": "Le Chapelier fou",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-068",
   "q": "Quel est le titre de la suite d'« Alice au pays des merveilles », publiée par Lewis Carroll en 1871 ?",
   "r": "De l'autre côté du miroir",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-069",
   "q": "Quel écrivain anglais a créé Winnie l'ourson en 1926 ?",
   "r": "A. A. Milne",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-070",
   "q": "Quel tigre bondissant est l'ami de Winnie l'ourson ?",
   "r": "Tigrou",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-071",
   "q": "Comment s'appelle le petit garçon propriétaire de Winnie l'ourson, inspiré du fils de l'auteur ?",
   "r": "Christopher Robin (Jean-Christophe)",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-072",
   "q": "Quel pirate à la main de fer est l'ennemi juré de Peter Pan ?",
   "r": "Le capitaine Crochet",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-073",
   "q": "Quelle petite fée jalouse accompagne Peter Pan ?",
   "r": "La fée Clochette",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-074",
   "q": "Dans quelle contrée lointaine Peter Pan vit-il avec les Enfants perdus ?",
   "r": "Le Pays imaginaire",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-075",
   "q": "Quel écrivain britannique a écrit « Charlie et la Chocolaterie » ?",
   "r": "Roald Dahl",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-076",
   "q": "Comment s'appelle le chocolatier excentrique de « Charlie et la Chocolaterie » ?",
   "r": "Willy Wonka",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-077",
   "q": "Quelle fillette surdouée de Roald Dahl, dévoreuse de livres, se découvre des pouvoirs télékinétiques ?",
   "r": "Matilda",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-078",
   "q": "Quelle gouvernante magique, créée en 1934 par P. L. Travers, arrive chez les Banks portée par son parapluie ?",
   "r": "Mary Poppins",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-079",
   "q": "Quel écrivain écossais a écrit « Le Vent dans les saules » (1908), avec Taupe, Rat et Crapaud ?",
   "r": "Kenneth Grahame",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-080",
   "q": "Quelle autrice anglaise a créé Pierre Lapin, le lapin désobéissant en veste bleue ?",
   "r": "Beatrix Potter",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-081",
   "q": "Quel garçon élevé par des loups est le héros du « Livre de la jungle » ?",
   "r": "Mowgli",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-082",
   "q": "Quel ours débonnaire enseigne la loi de la jungle à Mowgli ?",
   "r": "Baloo",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-083",
   "q": "Quel tigre est l'ennemi juré de Mowgli dans « Le Livre de la jungle » ?",
   "r": "Shere Khan",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-084",
   "q": "Quelle mangouste de Kipling défend une famille anglaise contre deux cobras ?",
   "r": "Rikki-tikki-tavi",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_e_2-085",
   "q": "Quel garçon de Mark Twain, ami de Tom Sawyer, fuit son père ivrogne sur un radeau ?",
   "r": "Huckleberry Finn",
   "d": 1,

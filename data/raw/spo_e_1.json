@@ -1,509 +1,594 @@
 [
  {
+  "id": "spo_e_1-001",
   "q": "Dans quelle ville se sont tenus les JO d'été de 1920, où le drapeau olympique fut hissé et le serment des athlètes prononcé pour la première fois ?",
   "r": "Anvers",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-002",
   "q": "Dans quelle ville la flamme olympique a-t-elle brûlé pour la première fois, lors des JO d'été de 1928 ?",
   "r": "Amsterdam",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-003",
   "q": "Quelle ville américaine a accueilli en 1904 les premiers Jeux olympiques organisés hors d'Europe ?",
   "r": "Saint-Louis",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-004",
   "q": "En quelle année Paris a-t-elle accueilli ses deuxièmes Jeux olympiques d'été ?",
   "r": "1924",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-005",
   "q": "Quel film britannique oscarisé raconte les JO de Paris 1924 à travers deux sprinteurs, Harold Abrahams et Eric Liddell ?",
   "r": "Les Chariots de feu",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-006",
   "q": "Quelle athlète néerlandaise, mère de deux enfants, a remporté quatre médailles d'or aux JO de Londres en 1948 ?",
   "r": "Fanny Blankers-Koen",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-007",
   "q": "Quelle gymnaste soviétique a détenu de 1964 à 2012 le record du nombre de médailles olympiques, avec 18 médailles ?",
   "r": "Larissa Latynina",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-008",
   "q": "Quel sprinteur canadien a remporté le 100 m des JO d'Atlanta 1996 en battant le record du monde (9 s 84) ?",
   "r": "Donovan Bailey",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-009",
   "q": "Quel nageur de Guinée équatoriale, surnommé « l'Anguille », est devenu célèbre en nageant un 100 m nage libre en près de deux minutes aux JO de Sydney 2000 ?",
   "r": "Éric Moussambani",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-010",
   "q": "Quel porteur d'eau grec a remporté le premier marathon olympique moderne, à Athènes en 1896 ?",
   "r": "Spyrídon Loúis",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-011",
   "q": "De 1912 à 1948, dans quel domaine non sportif pouvait-on remporter une médaille olympique ?",
   "r": "L'art (concours artistiques)",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-012",
   "q": "Quelle épreuve de force où deux équipes tirent en sens opposé a été olympique de 1900 à 1920 ?",
   "r": "Le tir à la corde",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-013",
   "q": "Quel Espagnol a présidé le Comité international olympique de 1980 à 2001 ?",
   "r": "Juan Antonio Samaranch",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-014",
   "q": "Quel ancien chirurgien belge a présidé le CIO de 2001 à 2013 ?",
   "r": "Jacques Rogge",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-015",
   "q": "En quelle année les JO d'hiver ont-ils été organisés pour la première fois deux ans après des JO d'été ?",
   "r": "1994",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-016",
   "q": "En quelle année se sont finalement tenus les JO de Tokyo 2020, reportés à cause de la pandémie de Covid-19 ?",
   "r": "2021",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-017",
   "q": "En quelle année des Jeux olympiques prévus à Berlin ont-ils été annulés à cause de la Première Guerre mondiale ?",
   "r": "1916",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-018",
   "q": "Quel sauteur en longueur allemand s'est lié d'amitié avec Jesse Owens lors du concours des JO de Berlin 1936 ?",
   "r": "Luz Long",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-019",
   "q": "Quel coureur finlandais a chuté en finale du 10 000 m des JO de Munich 1972 avant de se relever et de gagner ?",
   "r": "Lasse Virén",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-020",
   "q": "Quelle épreuve disputée aux JO de Paris 1900 n'a jamais été reconduite, car des oiseaux y étaient abattus ?",
   "r": "Le tir aux pigeons vivants",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-021",
   "q": "Où se sont déroulées les épreuves de natation des Jeux olympiques de Paris en 1900 ?",
   "r": "Dans la Seine",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-022",
   "q": "Sous quel nom connaît-on aujourd'hui le stade olympique de Colombes, principal site des JO de Paris 1924 ?",
   "r": "Le stade Yves-du-Manoir",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-023",
   "q": "Quel surnom porte le stade national construit pour les JO de Pékin 2008, en raison de son enchevêtrement de poutres ?",
   "r": "Le Nid d'oiseau",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-024",
   "q": "Quel ourson était la mascotte des JO de Moscou 1980 ?",
   "r": "Micha",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-025",
   "q": "Quel petit skieur stylisé fut, en 1968 à Grenoble, la première mascotte (officieuse) de l'histoire olympique ?",
   "r": "Schuss",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-026",
   "q": "Dans quel hôpital anglais Ludwig Guttmann organisa-t-il en 1948 des jeux pour blessés médullaires, ancêtres des Paralympiques ?",
   "r": "Stoke Mandeville",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-027",
   "q": "Quel nageur français, rescapé d'Auschwitz, a participé aux JO de Londres en 1948 ?",
   "r": "Alfred Nakache",
   "d": 3,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-028",
   "q": "Quelle récompense recevaient les vainqueurs des Jeux olympiques antiques ?",
   "r": "Une couronne d'olivier",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-029",
   "q": "En l'honneur de quel dieu les Jeux olympiques antiques étaient-ils célébrés ?",
   "r": "Zeus",
   "d": 1,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-030",
   "q": "Quelle était la seule épreuve des premiers Jeux olympiques antiques, en 776 av. J.-C. ?",
   "r": "La course du stade",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-031",
   "q": "Quel empereur romain, participant à une course de chars en 67, fut déclaré vainqueur malgré sa chute ?",
   "r": "Néron",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-032",
   "q": "Quel empereur romain chrétien est réputé avoir interdit les Jeux olympiques antiques vers 393 ?",
   "r": "Théodose Ier",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-033",
   "q": "Selon la légende, quel messager grec courut de Marathon à Athènes pour annoncer la victoire sur les Perses ?",
   "r": "Philippidès (Phidippidès)",
   "d": 2,
   "t": "JO d'été – histoire"
  },
  {
+  "id": "spo_e_1-034",
   "q": "Quelle ville japonaise a accueilli les JO d'hiver de 1972, les premiers organisés en Asie ?",
   "r": "Sapporo",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-035",
   "q": "Quelle ville japonaise a accueilli les JO d'hiver de 1998 ?",
   "r": "Nagano",
   "d": 1,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-036",
   "q": "Quelle ville de l'Utah a accueilli les JO d'hiver de 2002 ?",
   "r": "Salt Lake City",
   "d": 1,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-037",
   "q": "Quelle ville autrichienne du Tyrol a accueilli les JO d'hiver en 1964 et en 1976 ?",
   "r": "Innsbruck",
   "d": 1,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-038",
   "q": "Quelle station des Dolomites a accueilli les JO d'hiver de 1956 ?",
   "r": "Cortina d'Ampezzo",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-039",
   "q": "Sur quelle œuvre de Ravel Jayne Torvill et Christopher Dean ont-ils obtenu des notes parfaites en danse sur glace aux JO de Sarajevo 1984 ?",
   "r": "Le Boléro",
   "d": 1,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-040",
   "q": "Quelle fondeuse norvégienne a remporté 15 médailles olympiques entre 2002 et 2018 ?",
   "r": "Marit Bjørgen",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-041",
   "q": "Quel Français a remporté le slalom des JO de Salt Lake City en 2002, devant son compatriote Sébastien Amiez ?",
   "r": "Jean-Pierre Vidal",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-042",
   "q": "Quelles sœurs françaises ont réalisé deux doublés, en slalom et en géant, aux JO d'Innsbruck 1964 ?",
   "r": "Christine et Marielle Goitschel",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-043",
   "q": "Quelle Française a remporté l'épreuve de ski de bosses aux JO de Pyeongchang 2018 ?",
   "r": "Perrine Laffont",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-044",
   "q": "Quel sauteur à ski britannique, surnommé « l'Aigle », est devenu la coqueluche des JO de Calgary 1988 malgré ses résultats ?",
   "r": "Eddie Edwards",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-045",
   "q": "Quel patineur suédois, champion olympique en 1908, a donné son nom à l'un des sauts du patinage artistique ?",
   "r": "Ulrich Salchow",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-046",
   "q": "Quelle patineuse américaine a été impliquée dans l'agression de sa rivale Nancy Kerrigan en 1994 ?",
   "r": "Tonya Harding",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-047",
   "q": "Quel patineur de vitesse américain a remporté les cinq épreuves de sa discipline aux JO de Lake Placid 1980 ?",
   "r": "Eric Heiden",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-048",
   "q": "Quelle patineuse est-allemande a été championne olympique en 1984 et en 1988 ?",
   "r": "Katarina Witt",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-049",
   "q": "Quel patineur japonais a été champion olympique en 2014 et en 2018 ?",
   "r": "Yuzuru Hanyu",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-050",
   "q": "Quelle skieuse américaine a remporté la descente des JO de Vancouver 2010 ?",
   "r": "Lindsey Vonn",
   "d": 1,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-051",
   "q": "Quel skieur autrichien, surnommé « Herminator », a gagné deux titres aux JO de Nagano 1998 quelques jours après une chute spectaculaire ?",
   "r": "Hermann Maier",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-052",
   "q": "Quelle skieuse croate a remporté trois titres olympiques aux JO de Salt Lake City 2002 ?",
   "r": "Janica Kostelić",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-053",
   "q": "Quel Français a remporté la descente olympique des JO de Turin 2006 ?",
   "r": "Antoine Dénériaz",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-054",
   "q": "Quel skieur français est devenu champion olympique de slalom aux JO de Pékin 2022 ?",
   "r": "Clément Noël",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-055",
   "q": "Quel Français est devenu champion olympique de combiné nordique aux JO de Vancouver 2010 ?",
   "r": "Jason Lamy-Chappuis",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-056",
   "q": "Quel snowboarder américain aux cheveux roux, surnommé « la Tomate volante », a été sacré en half-pipe aux JO de 2006, 2010 et 2018 ?",
   "r": "Shaun White",
   "d": 1,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-057",
   "q": "Quel Français a été double champion olympique de snowboardcross, en 2014 et en 2018 ?",
   "r": "Pierre Vaultier",
   "d": 3,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-058",
   "q": "Quelle station de Savoie a accueilli les épreuves de bobsleigh et de luge des JO d'Albertville 1992 ?",
   "r": "La Plagne",
   "d": 2,
   "t": "JO d'hiver"
  },
  {
+  "id": "spo_e_1-059",
   "q": "Quelle discipline de ski acrobatique consiste à descendre une piste parsemée de monticules en effectuant deux sauts ?",
   "r": "Le ski de bosses",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-060",
   "q": "Dans quelle discipline de ski alpin les portes sont-elles les plus rapprochées ?",
   "r": "Le slalom spécial",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-061",
   "q": "Quelle technique de ski, au talon libre et genou fléchi dans les virages, porte le nom d'une région de Norvège ?",
   "r": "Le télémark",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-062",
   "q": "Quelle technique de ski de fond, apparue dans les années 1980, imite le mouvement du patineur ?",
   "r": "Le skating",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-063",
   "q": "Que doit parcourir un biathlète, en sprint ou en poursuite, pour chaque cible manquée ?",
   "r": "Un tour de pénalité (150 m)",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-064",
   "q": "Dans quelle position le biathlète tire-t-il, en plus de la position couchée ?",
   "r": "Debout",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-065",
   "q": "En quelle roche la pierre de curling est-elle taillée ?",
   "r": "Le granite",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-066",
   "q": "Comment appelle-t-on le capitaine d'une équipe de curling, qui indique la stratégie ?",
   "r": "Le skip",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-067",
   "q": "Comment appelle-t-on, sur un tremplin de saut à ski, le point de construction servant de référence au calcul des points ?",
   "r": "Le point K",
   "d": 3,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-068",
   "q": "Quel célèbre tremplin de saut à ski domine la ville d'Oslo ?",
   "r": "Holmenkollen",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-069",
   "q": "Quel nom porte la course de Coupe du monde de ski alpin disputée chaque début d'hiver à Val-d'Isère ?",
   "r": "Le Critérium de la Première Neige",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-070",
   "q": "Quel trophée récompense le vainqueur d'une discipline (descente, slalom…) en Coupe du monde de ski alpin ?",
   "r": "Le petit globe de cristal",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-071",
   "q": "Quel skieur français, triple champion du monde en 1937, est considéré comme le père de la « méthode française » ?",
   "r": "Émile Allais",
   "d": 3,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-072",
   "q": "Comment appelle-t-on familièrement le téléski qui tracte le skieur par une perche ?",
   "r": "Le tire-fesses",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-073",
   "q": "Comment appelle-t-on le fait de skier en dehors des pistes balisées ?",
   "r": "Le hors-piste",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-074",
   "q": "Comment appelle-t-on la neige fraîche et légère très recherchée des skieurs ?",
   "r": "La poudreuse",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-075",
   "q": "Quel engin à chenilles prépare les pistes de ski pendant la nuit ?",
   "r": "La dameuse",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-076",
   "q": "Comment appelle-t-on la position recroquevillée qu'adopte le descendeur pour limiter la résistance de l'air ?",
   "r": "La position de l'œuf",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-077",
   "q": "Quelle grande course populaire de ski de fond se dispute chaque hiver dans le massif du Jura ?",
   "r": "La Transjurassienne",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-078",
   "q": "En snowboard, comment appelle-t-on la position où le pied droit est placé à l'avant ?",
   "r": "Goofy",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-079",
   "q": "Quelle épreuve de snowboard oppose quatre à six concurrents sur un parcours de bosses et de virages relevés ?",
   "r": "Le snowboardcross",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-080",
   "q": "Que colle-t-on sous les skis pour remonter les pentes en ski de randonnée ?",
   "r": "Des peaux de phoque",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-081",
   "q": "Quelle course de chiens de traîneau de plus de 1 500 km traverse l'Alaska jusqu'à Nome ?",
   "r": "L'Iditarod",
   "d": 2,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-082",
   "q": "Quelle discipline de glisse consiste à se faire tracter par une aile de traction sur la neige ?",
   "r": "Le snowkite",
   "d": 3,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-083",
   "q": "Quel sport olympique d'hiver consiste à dévaler à deux ou à quatre une piste de glace dans un engin caréné ?",
   "r": "Le bobsleigh",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-084",
   "q": "Quel ustensile les joueurs de curling frottent-ils sur la glace devant la pierre pour modifier sa trajectoire ?",
   "r": "Le balai",
   "d": 1,
   "t": "Ski et sports d'hiver"
  },
  {
+  "id": "spo_e_1-085",
   "q": "Quelle épreuve ouvre le décathlon ?",
   "r": "Le 100 m",
   "d": 2,

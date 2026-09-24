@@ -1,0 +1,597 @@
+[
+ {
+  "id": "his_e_3-001",
+  "q": "Comment appelait-on les grandes voitures à chevaux qui transportaient voyageurs et courrier avant le chemin de fer ?",
+  "r": "La diligence",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_3-002",
+  "q": "Quel port marocain donna son nom à la crise de 1911 déclenchée par l'envoi d'une canonnière allemande ?",
+  "r": "Agadir",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_3-003",
+  "q": "Combien de jours dura la Commune de Paris de 1871 ?",
+  "r": "72 jours",
+  "d": 3,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_3-004",
+  "q": "Quel secrétaire d'État à la Guerre, rival de Colbert, fut le grand organisateur de l'armée de Louis XIV ?",
+  "r": "Louvois",
+  "d": 2,
+  "t": "Ministres"
+ },
+ {
+  "id": "his_e_3-005",
+  "q": "Quel plat Henri IV aurait-il souhaité voir chaque dimanche dans la marmite de ses paysans ?",
+  "r": "La poule au pot",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_3-006",
+  "q": "Sous quel surnom connaît-on Marguerite de Valois, première épouse d'Henri IV ?",
+  "r": "La reine Margot",
+  "d": 1,
+  "t": "Guerres de Religion"
+ },
+ {
+  "id": "his_e_3-007",
+  "q": "Combien de colonies britanniques d'Amérique proclamèrent leur indépendance en 1776 ?",
+  "r": "Treize",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-008",
+  "q": "Quel palais, construit pour une fille de Louis XIV, abrite l'Assemblée nationale ?",
+  "r": "Le Palais-Bourbon",
+  "d": 1,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_3-009",
+  "q": "Quel continent les Européens surnommèrent-ils le « Nouveau Monde » après les voyages de Colomb ?",
+  "r": "L'Amérique",
+  "d": 1,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_3-010",
+  "q": "Quel ingénieur allemand fit breveter en 1886 une automobile à moteur à essence ?",
+  "r": "Carl Benz",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_3-011",
+  "q": "Quelle reine, veuve d'Henri IV, fit construire à Paris le palais du Luxembourg ?",
+  "r": "Marie de Médicis",
+  "d": 2,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_3-012",
+  "q": "Quelle épouse d'Henri VIII fut décapitée en 1536, accusée d'adultère ?",
+  "r": "Anne Boleyn",
+  "d": 1,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_3-013",
+  "q": "Quel titre portait le souverain de l'Empire ottoman ?",
+  "r": "Le sultan",
+  "d": 1,
+  "t": "Empire ottoman"
+ },
+ {
+  "id": "his_e_3-014",
+  "q": "Quel animal, grâce à un jeu de mots sur le latin « gallus », est devenu un emblème de la France ?",
+  "r": "Le coq",
+  "d": 1,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_3-015",
+  "q": "Quel chant révolutionnaire promettait de pendre « les aristocrates à la lanterne » ?",
+  "r": "« Ça ira »",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-016",
+  "q": "Quelle fille de Necker, opposante à Napoléon, tenait salon au château de Coppet ?",
+  "r": "Madame de Staël",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_3-017",
+  "q": "Quelle charge de cuirassiers, en août 1870 en Alsace, est restée légendaire malgré la défaite ?",
+  "r": "Reichshoffen",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_3-018",
+  "q": "Quel hors-la-loi australien, pendu en 1880, portait une armure de fer artisanale ?",
+  "r": "Ned Kelly",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "id": "his_e_3-019",
+  "q": "Quelle reine de France, née archiduchesse d'Autriche, fut guillotinée le 16 octobre 1793 ?",
+  "r": "Marie-Antoinette",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-020",
+  "q": "Sur quelle place parisienne, alors appelée place de la Révolution, Louis XVI fut-il guillotiné ?",
+  "r": "La place de la Concorde",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-021",
+  "q": "Quel gouverneur de Moscou, accusé d'avoir fait incendier la ville en 1812, était le père de la comtesse de Ségur ?",
+  "r": "Fiodor Rostopchine",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_3-022",
+  "q": "Sur quelle île des Antilles naquit l'impératrice Joséphine ?",
+  "r": "La Martinique",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_3-023",
+  "q": "Quel généralissime des armées impériales pendant la guerre de Trente Ans fut assassiné en 1634 ?",
+  "r": "Albrecht von Wallenstein",
+  "d": 3,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_3-024",
+  "q": "Quel palais parisien, ayant appartenu à Madame de Pompadour, est devenu la résidence des présidents ?",
+  "r": "L'Élysée",
+  "d": 1,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_3-025",
+  "q": "Quels deux explorateurs traversèrent l'Ouest américain jusqu'au Pacifique de 1804 à 1806 ?",
+  "r": "Lewis et Clark",
+  "d": 2,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_3-026",
+  "q": "Comment appelle-t-on la période de la Révolution, en 1793-1794, marquée par des milliers d'exécutions ?",
+  "r": "La Terreur",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-027",
+  "q": "Quelle république, dirigée par un doge, Bonaparte abolit-il en 1797 avant de la céder à l'Autriche ?",
+  "r": "Venise",
+  "d": 1,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_3-028",
+  "q": "Quel corsaire dunkerquois de Louis XIV, issu d'une famille de marins, devint chef d'escadre ?",
+  "r": "Jean Bart",
+  "d": 2,
+  "t": "Marins"
+ },
+ {
+  "id": "his_e_3-029",
+  "q": "Comment surnommait-on les militantes britanniques qui réclamaient le droit de vote des femmes au début du XXe siècle ?",
+  "r": "Les suffragettes",
+  "d": 1,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_3-030",
+  "q": "Comment surnommait-on les jeunes femmes excentriques et élégantes du Directoire, compagnes des Incroyables ?",
+  "r": "Les Merveilleuses",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_3-031",
+  "q": "Quel directeur du Figaro fut abattu en mars 1914 par l'épouse du ministre Joseph Caillaux ?",
+  "r": "Gaston Calmette",
+  "d": 3,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_3-032",
+  "q": "Quel pays Napoléon voulut-il ruiner en lui fermant les ports du continent par le Blocus continental ?",
+  "r": "Le Royaume-Uni (l'Angleterre)",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_3-033",
+  "q": "Quel maréchal, beau-frère de Napoléon, devint roi de Naples en 1808 ?",
+  "r": "Joachim Murat",
+  "d": 2,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_3-034",
+  "q": "Quel officier français conduisit la mission qui atteignit Fachoda en 1898 ?",
+  "r": "Jean-Baptiste Marchand",
+  "d": 3,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_3-035",
+  "q": "Quel acteur assassina le président Abraham Lincoln en 1865 ?",
+  "r": "John Wilkes Booth",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-036",
+  "q": "Quel capucin, conseiller de Richelieu, fut surnommé « l'Éminence grise » ?",
+  "r": "Le père Joseph",
+  "d": 3,
+  "t": "Ministres"
+ },
+ {
+  "id": "his_e_3-037",
+  "q": "Comment appelle-t-on la migration des Boers vers l'intérieur de l'Afrique australe à partir de 1835 ?",
+  "r": "Le Grand Trek",
+  "d": 2,
+  "t": "Afrique"
+ },
+ {
+  "id": "his_e_3-038",
+  "q": "Quel pays fut le dernier des Amériques à abolir l'esclavage, en 1888 ?",
+  "r": "Le Brésil",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-039",
+  "q": "Quel général commanda l'armée continentale avant de devenir le premier président des États-Unis ?",
+  "r": "George Washington",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-040",
+  "q": "Quelle chanson révolutionnaire de 1792 porte le nom d'une veste d'ouvrier d'origine piémontaise ?",
+  "r": "La Carmagnole",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-041",
+  "q": "Dans quelle ville Stanislas Baudry lança-t-il en 1826 un service d'omnibus ?",
+  "r": "Nantes",
+  "d": 3,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_3-042",
+  "q": "Dans quel pays fut ouverte en 1825 la première ligne de chemin de fer publique à vapeur ?",
+  "r": "L'Angleterre (Royaume-Uni)",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_3-043",
+  "q": "Quel mot vient du nom d'un régisseur anglais mis en quarantaine par des fermiers irlandais en 1880 ?",
+  "r": "Boycott",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_3-044",
+  "q": "Quelle égérie des Girondins s'écria « Ô Liberté, que de crimes on commet en ton nom ! » avant d'être guillotinée ?",
+  "r": "Madame Roland",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-045",
+  "q": "Quel adjectif viendrait du nom d'un soldat de l'Empire, peut-être légendaire, d'un patriotisme outrancier ?",
+  "r": "Chauvin",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_3-046",
+  "q": "Quel en-cas doit son nom à un comte anglais du XVIIIe siècle, joueur invétéré selon la légende ?",
+  "r": "Le sandwich",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_3-047",
+  "q": "Quel grand navire à voiles rapportait en Espagne l'or et l'argent des Amériques ?",
+  "r": "Le galion",
+  "d": 1,
+  "t": "Conquistadors"
+ },
+ {
+  "id": "his_e_3-048",
+  "q": "Quelles ordonnances de juillet 1830 provoquèrent la chute de Charles X ?",
+  "r": "Les ordonnances de Saint-Cloud",
+  "d": 3,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_3-049",
+  "q": "En quelle année fut assassiné Jean Jaurès ?",
+  "r": "1914",
+  "d": 1,
+  "t": "Dates"
+ },
+ {
+  "id": "his_e_3-050",
+  "q": "Dans quel château royal, à l'ouest de Paris, Louis XIV vit-il le jour en 1638 ?",
+  "r": "Saint-Germain-en-Laye",
+  "d": 2,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_3-051",
+  "q": "Quel commerçant fit du Bon Marché l'un des premiers grands magasins parisiens ?",
+  "r": "Aristide Boucicaut",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_3-052",
+  "q": "Quel compagnon d'exil de Napoléon publia le « Mémorial de Sainte-Hélène » ?",
+  "r": "Emmanuel de Las Cases",
+  "d": 3,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_3-053",
+  "q": "Quel régime la révolution de février 1848 instaura-t-elle en France ?",
+  "r": "La IIe République",
+  "d": 1,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_3-054",
+  "q": "Quelle bataille de 1709 vit Pierre le Grand écraser le roi Charles XII de Suède ?",
+  "r": "Poltava",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_3-055",
+  "q": "Quel drapeau le comte de Chambord refusa-t-il d'abandonner, faisant échouer la restauration monarchique en 1873 ?",
+  "r": "Le drapeau blanc",
+  "d": 2,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_3-056",
+  "q": "Quelle aventurière de l'Ouest américain, née Martha Jane Cannary, est restée célèbre sous un surnom ?",
+  "r": "Calamity Jane",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-057",
+  "q": "Comment surnommait-on les députés de la Convention siégeant sur les gradins les plus élevés ?",
+  "r": "Les Montagnards",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-058",
+  "q": "Quel revêtement routier doit son nom à un ingénieur écossais du début du XIXe siècle ?",
+  "r": "Le macadam",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_3-059",
+  "q": "Quelle guerre de 1870-1871 fit perdre l'Alsace à la France ?",
+  "r": "La guerre franco-prussienne",
+  "d": 1,
+  "t": "Guerres"
+ },
+ {
+  "id": "his_e_3-060",
+  "q": "Quel régime gouverna la France de 1795 au coup d'État de Bonaparte en 1799 ?",
+  "r": "Le Directoire",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-061",
+  "q": "Quel roi de France fit assassiner le duc de Guise au château de Blois en 1588 ?",
+  "r": "Henri III",
+  "d": 2,
+  "t": "Guerres de Religion"
+ },
+ {
+  "id": "his_e_3-062",
+  "q": "Quel armurier américain a donné son nom à un célèbre revolver du Far West ?",
+  "r": "Samuel Colt",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-063",
+  "q": "Quel édit signé en 1685 révoqua l'édit de Nantes ?",
+  "r": "L'édit de Fontainebleau",
+  "d": 2,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_3-064",
+  "q": "Quel mot italien, signifiant « renaissance », désigne le mouvement d'unification de l'Italie au XIXe siècle ?",
+  "r": "Le Risorgimento",
+  "d": 2,
+  "t": "Italie"
+ },
+ {
+  "id": "his_e_3-065",
+  "q": "Combien de fois la Pologne fut-elle partagée entre ses voisins à la fin du XVIIIe siècle ?",
+  "r": "Trois",
+  "d": 2,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_3-066",
+  "q": "Quel président de la République démissionna en 1887 à cause d'un trafic de décorations impliquant son gendre ?",
+  "r": "Jules Grévy",
+  "d": 3,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_3-067",
+  "q": "Quel quaker anglais fonda la ville de Philadelphie en 1682 ?",
+  "r": "William Penn",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-068",
+  "q": "Quelle bataille de 1859 a donné son nom à une couleur rouge violacé ?",
+  "r": "Magenta",
+  "d": 1,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_3-069",
+  "q": "Quelle île artificielle de la baie de Nagasaki fut le seul comptoir européen toléré au Japon pendant sa fermeture ?",
+  "r": "Dejima",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_3-070",
+  "q": "Quel empereur allemand, petit-fils de la reine Victoria, renvoya Bismarck en 1890 ?",
+  "r": "Guillaume II",
+  "d": 2,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_3-071",
+  "q": "Quel régime politique la France connut-elle de 1852 à 1870 ?",
+  "r": "Le Second Empire",
+  "d": 1,
+  "t": "Second Empire"
+ },
+ {
+  "id": "his_e_3-072",
+  "q": "Quelle mission texane fut assiégée par l'armée mexicaine en 1836, avec Davy Crockett parmi ses défenseurs ?",
+  "r": "L'Alamo",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_3-073",
+  "q": "Comment appelle-t-on la monnaie créée en 1803 et restée stable plus d'un siècle ?",
+  "r": "Le franc germinal",
+  "d": 3,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_3-074",
+  "q": "Quel frère de Louis XVI régna sur la France de 1814 à 1824 ?",
+  "r": "Louis XVIII",
+  "d": 1,
+  "t": "Rois"
+ },
+ {
+  "id": "his_e_3-075",
+  "q": "Quel roi de France, fils d'Henri IV, était surnommé « le Juste » ?",
+  "r": "Louis XIII",
+  "d": 2,
+  "t": "Rois"
+ },
+ {
+  "id": "his_e_3-076",
+  "q": "Quel demi-frère de Napoléon III, organisateur du coup d'État de 1851, fut à l'origine de la station de Deauville ?",
+  "r": "Le duc de Morny",
+  "d": 3,
+  "t": "Second Empire"
+ },
+ {
+  "id": "his_e_3-077",
+  "q": "Quel unificateur du Japon, d'origine modeste, lança une invasion de la Corée en 1592 ?",
+  "r": "Toyotomi Hideyoshi",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_3-078",
+  "q": "Comment les révolutionnaires désignèrent-ils le système politique et social d'avant 1789 ?",
+  "r": "L'Ancien Régime",
+  "d": 1,
+  "t": "Ancien Régime"
+ },
+ {
+  "id": "his_e_3-079",
+  "q": "Quelle colonie française, grande productrice de sucre, était la plus riche des Antilles au XVIIIe siècle ?",
+  "r": "Saint-Domingue",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_3-080",
+  "q": "Comment s'appelait l'armée avec laquelle Napoléon parcourut l'Europe à partir de 1805 ?",
+  "r": "La Grande Armée",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_3-081",
+  "q": "Quel chant de 1794, de Méhul et Marie-Joseph Chénier, fut surnommé « le frère de la Marseillaise » ?",
+  "r": "Le Chant du départ",
+  "d": 2,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_3-082",
+  "q": "Quel auteur du « Mariage de Figaro » organisa des livraisons d'armes aux insurgés américains ?",
+  "r": "Beaumarchais",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_3-083",
+  "q": "Comment surnommait-on les femmes du peuple qui assistaient aux séances et aux exécutions en tricotant ?",
+  "r": "Les tricoteuses",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_3-084",
+  "q": "Quelle chanson de Jean-Baptiste Clément est restée associée au souvenir de la Commune de Paris ?",
+  "r": "Le Temps des cerises",
+  "d": 2,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_3-085",
+  "q": "Quel emblème d'origine romaine, fait de verges liées autour d'une hache, sert d'emblème officieux à la République ?",
+  "r": "Le faisceau de licteur",
+  "d": 3,
+  "t": "Symboles de la République"
+ }
+]

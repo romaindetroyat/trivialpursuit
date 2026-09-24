@@ -1,509 +1,594 @@
 [
  {
+  "id": "his_f_3-001",
   "q": "Quel ancien président serbe puis yougoslave est mort en 2006 dans sa cellule du tribunal de La Haye ?",
   "r": "Slobodan Milošević",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-002",
   "q": "Quel État est devenu indépendant le 1er janvier 1993, lors de la partition pacifique qui a aussi donné naissance à la République tchèque ?",
   "r": "La Slovaquie",
   "d": 1,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-003",
   "q": "Comment appelle-t-on la chaîne humaine formée par près de deux millions de personnes à travers l'Estonie, la Lettonie et la Lituanie en août 1989 ?",
   "r": "La Voie balte",
   "d": 3,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-004",
   "q": "Quelle révolution, en Ukraine en 2004, tire son nom de la couleur adoptée par ses partisans ?",
   "r": "La révolution orange",
   "d": 1,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-005",
   "q": "Quelle révolution pacifique a conduit à la démission du président géorgien Chevardnadze en 2003 ?",
   "r": "La révolution des Roses",
   "d": 3,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-006",
   "q": "Quel croiseur argentin a été coulé par un sous-marin britannique pendant la guerre des Malouines ?",
   "r": "Le General Belgrano",
   "d": 3,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-007",
   "q": "Quel pont ottoman de Bosnie-Herzégovine, détruit en 1993, a été reconstruit à l'identique en 2004 ?",
   "r": "Le pont de Mostar",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-008",
   "q": "Quelle île des Antilles les États-Unis ont-ils envahie en octobre 1983 ?",
   "r": "La Grenade",
   "d": 3,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-009",
   "q": "Quel conflit de 1969 entre le Honduras et le Salvador est surnommé d'après un match qui l'a précédé ?",
   "r": "La guerre du football",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_3-010",
   "q": "Quel vice-président a prêté serment à bord d'Air Force One quelques heures après l'assassinat de Kennedy ?",
   "r": "Lyndon B. Johnson",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-011",
   "q": "Quel homme, accusé du meurtre de John F. Kennedy, a lui-même été abattu deux jours plus tard ?",
   "r": "Lee Harvey Oswald",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-012",
   "q": "Quelle commission, présidée par le juge en chef de la Cour suprême, a enquêté sur l'assassinat de Kennedy ?",
   "r": "La commission Warren",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-013",
   "q": "Quel frère de John F. Kennedy, candidat à la présidence, a été assassiné à Los Angeles en juin 1968 ?",
   "r": "Robert Kennedy",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-014",
   "q": "Quel président américain, ancien producteur d'arachides, a parrainé les accords de Camp David ?",
   "r": "Jimmy Carter",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-015",
   "q": "Dans quelle capitale 52 diplomates américains ont-ils été retenus en otages pendant 444 jours, de 1979 à 1981 ?",
   "r": "Téhéran",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-016",
   "q": "Quel scandale des années 1980 portait sur des ventes secrètes d'armes à l'Iran pour financer une guérilla nicaraguayenne ?",
   "r": "L'affaire Iran-Contra",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-017",
   "q": "Dans quelle université de l'Ohio la garde nationale a-t-elle tué quatre étudiants lors d'une manifestation en mai 1970 ?",
   "r": "Kent State",
   "d": 3,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-018",
   "q": "Quels deux journalistes du Washington Post ont révélé l'affaire du Watergate ?",
   "r": "Woodward et Bernstein",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-019",
   "q": "Dans quelle ville un attentat à la bombe contre un bâtiment fédéral a-t-il fait 168 morts en avril 1995 ?",
   "r": "Oklahoma City",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-020",
   "q": "Quel président américain a fait l'objet d'une procédure de destitution en 1998-1999 avant d'être acquitté par le Sénat ?",
   "r": "Bill Clinton",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-021",
   "q": "Quel candidat démocrate a perdu l'élection présidentielle américaine de 2000 après le recomptage des voix en Floride ?",
   "r": "Al Gore",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-022",
   "q": "Quel président américain a déclenché l'invasion de l'Irak en mars 2003 ?",
   "r": "George W. Bush",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-023",
   "q": "Quel arrêt de la Cour suprême a déclaré en 1954 la ségrégation raciale dans les écoles publiques contraire à la Constitution ?",
   "r": "Brown v. Board of Education",
   "d": 3,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-024",
   "q": "Quel mouvement révolutionnaire afro-américain a été fondé à Oakland en 1966 ?",
   "r": "Les Black Panthers",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-025",
   "q": "Quel élu de San Francisco, premier homme ouvertement homosexuel élu en Californie, a été assassiné en 1978 ?",
   "r": "Harvey Milk",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-026",
   "q": "Quelle prison militaire américaine, située sur l'île de Cuba, a reçu des détenus soupçonnés de terrorisme à partir de 2002 ?",
   "r": "Guantánamo",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_f_3-027",
   "q": "Quel surnom portait François Duvalier, dictateur d'Haïti de 1957 à 1971 ?",
   "r": "Papa Doc",
   "d": 2,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-028",
   "q": "Quel archevêque de San Salvador a été assassiné pendant qu'il célébrait la messe en mars 1980 ?",
   "r": "Óscar Romero",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-029",
   "q": "Comment appelle-t-on les mères argentines qui manifestaient chaque jeudi pour réclamer leurs enfants disparus ?",
   "r": "Les Mères de la place de Mai",
   "d": 2,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-030",
   "q": "Quel président brésilien a inauguré la nouvelle capitale Brasília en 1960 ?",
   "r": "Juscelino Kubitschek",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-031",
   "q": "Quelle voie d'eau interocéanique les États-Unis ont-ils entièrement rétrocédée à l'État qu'elle traverse le 31 décembre 1999 ?",
   "r": "Le canal de Panama",
   "d": 1,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-032",
   "q": "Quel militaire, élu président de l'Argentine en 1946, a donné son nom à un courant politique durable ?",
   "r": "Juan Perón",
   "d": 1,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-033",
   "q": "Quel porte-parole cagoulé, fumeur de pipe, incarnait la rébellion zapatiste du Chiapas en 1994 ?",
   "r": "Le sous-commandant Marcos",
   "d": 2,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-034",
   "q": "Quel militaire vénézuélien, élu président en 1998, se réclamait d'une « révolution bolivarienne » ?",
   "r": "Hugo Chávez",
   "d": 1,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-035",
   "q": "Quelle femme politique franco-colombienne a été otage des FARC de 2002 à 2008 ?",
   "r": "Íngrid Betancourt",
   "d": 1,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-036",
   "q": "Quel ancien ouvrier métallurgiste et syndicaliste a présidé le Brésil de 2003 à 2010 ?",
   "r": "Lula",
   "d": 1,
   "t": "Amérique latine"
  },
  {
+  "id": "his_f_3-037",
   "q": "Quel dirigeant nationaliste chinois s'est replié sur l'île de Taïwan en 1949 ?",
   "r": "Tchang Kaï-chek",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-038",
   "q": "Quel recueil de citations de Mao était brandi par des millions de Chinois pendant la Révolution culturelle ?",
   "r": "Le Petit Livre rouge",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-039",
   "q": "Comment appelait-on les jeunes militants fanatiques mobilisés par Mao pendant la Révolution culturelle ?",
   "r": "Les gardes rouges",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-040",
   "q": "Comment a-t-on surnommé le groupe dirigé par la veuve de Mao, arrêté en octobre 1976 ?",
   "r": "La bande des Quatre",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-041",
   "q": "Quel homme a été le Premier ministre de la Chine populaire de 1949 à sa mort en 1976 ?",
   "r": "Zhou Enlai",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-042",
   "q": "Quel chef spirituel du Tibet s'est exilé en Inde en 1959 ?",
   "r": "Le dalaï-lama",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-043",
   "q": "Dans quelle ville indienne des contreforts de l'Himalaya s'est installé le gouvernement tibétain en exil ?",
   "r": "Dharamsala",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-044",
   "q": "Quel dirigeant a fondé en 1948 la Corée du Nord, qu'il a gouvernée jusqu'à sa mort en 1994 ?",
   "r": "Kim Il-sung",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-045",
   "q": "Dans quel village de la ligne de front l'armistice de la guerre de Corée a-t-il été signé en 1953 ?",
   "r": "Panmunjom",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-046",
   "q": "Quel village vietnamien a été le théâtre d'un massacre de civils par des soldats américains en mars 1968 ?",
   "r": "My Lai",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-047",
   "q": "Quel réseau de routes et de sentiers, passant par le Laos, ravitaillait les combattants communistes au Sud-Vietnam ?",
   "r": "La piste Hô Chi Minh",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-048",
   "q": "Quelle capitale du Sud-Vietnam est tombée aux mains des communistes le 30 avril 1975 ?",
   "r": "Saïgon",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-049",
   "q": "Dans quel golfe un incident naval d'août 1964 a-t-il servi de justification à l'escalade américaine au Vietnam ?",
   "r": "Le golfe du Tonkin",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-050",
   "q": "Comment a-t-on appelé les réfugiés vietnamiens qui fuyaient leur pays par la mer après 1975 ?",
   "r": "Les boat people",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-051",
   "q": "Quel ancien lycée de Phnom Penh les Khmers rouges ont-ils transformé en centre de détention et de torture, dit S-21 ?",
   "r": "Tuol Sleng",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-052",
   "q": "Quelle opposante birmane, prix Nobel de la paix 1991, a passé une quinzaine d'années en résidence surveillée ?",
   "r": "Aung San Suu Kyi",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-053",
   "q": "Quel président des Philippines a été chassé du pouvoir par une révolution populaire en 1986 ?",
   "r": "Ferdinand Marcos",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-054",
   "q": "Quelle femme est devenue en 1988 la première à diriger le gouvernement du Pakistan ?",
   "r": "Benazir Bhutto",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-055",
   "q": "Quel sanctuaire sikh d'Amritsar a été pris d'assaut par l'armée indienne en juin 1984 ?",
   "r": "Le Temple d'or",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-056",
   "q": "Quelle ville chinoise a été détruite par un séisme en juillet 1976, faisant plus de 240 000 morts selon le bilan officiel ?",
   "r": "Tangshan",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-057",
   "q": "Quelle secte japonaise a commis une attaque au gaz sarin dans le métro de Tokyo en mars 1995 ?",
   "r": "Aum Shinrikyo",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-058",
   "q": "En quelle année Mao Zedong a-t-il proclamé la République populaire de Chine ?",
   "r": "1949",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "his_f_3-059",
   "q": "Quel dernier shah d'Iran a été renversé par la révolution de 1979 ?",
   "r": "Mohammad Reza Pahlavi",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-060",
   "q": "Quel Premier ministre iranien a nationalisé le pétrole en 1951 avant d'être renversé en 1953 ?",
   "r": "Mohammad Mossadegh",
   "d": 3,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-061",
   "q": "Quel dictateur irakien a été capturé par les soldats américains en décembre 2003 ?",
   "r": "Saddam Hussein",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-062",
   "q": "Quelle ville kurde d'Irak a été bombardée à l'arme chimique en mars 1988 ?",
   "r": "Halabja",
   "d": 3,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-063",
   "q": "Quel dirigeant de l'OLP a partagé le prix Nobel de la paix 1994 avec Yitzhak Rabin et Shimon Peres ?",
   "r": "Yasser Arafat",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-064",
   "q": "Quel mot arabe désigne le soulèvement palestinien commencé en décembre 1987 ?",
   "r": "L'Intifada",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-065",
   "q": "Sur quel aéroport ougandais un commando israélien a-t-il libéré les otages d'un avion détourné en juillet 1976 ?",
   "r": "Entebbe",
   "d": 2,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-066",
   "q": "Quel jeune officier, futur « colonel », a pris le pouvoir en Libye par un coup d'État en 1969 ?",
   "r": "Mouammar Kadhafi",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-067",
   "q": "Au-dessus de quelle petite ville écossaise un Boeing de la Pan Am a-t-il explosé en décembre 1988 ?",
   "r": "Lockerbie",
   "d": 2,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-068",
   "q": "Quel pays du Proche-Orient a été déchiré par une guerre civile de 1975 à 1990 ?",
   "r": "Le Liban",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-069",
   "q": "Dans quels camps de réfugiés palestiniens de Beyrouth un massacre a-t-il été commis en septembre 1982 ?",
   "r": "Sabra et Chatila",
   "d": 2,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-070",
   "q": "Quel immeuble de Beyrouth abritant des parachutistes français a été détruit par un attentat en octobre 1983, faisant 58 morts ?",
   "r": "Le Drakkar",
   "d": 3,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-071",
   "q": "Quelle femme a dirigé le gouvernement israélien de 1969 à 1974 ?",
   "r": "Golda Meir",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-072",
   "q": "Quel président égyptien a succédé à Anouar el-Sadate en octobre 1981 ?",
   "r": "Hosni Moubarak",
   "d": 1,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-073",
   "q": "Quel commandant afghan, surnommé « le lion du Panchir », a été assassiné le 9 septembre 2001 ?",
   "r": "Ahmed Chah Massoud",
   "d": 2,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-074",
   "q": "Quelles statues géantes d'Afghanistan ont été dynamitées par les talibans en mars 2001 ?",
   "r": "Les bouddhas de Bamiyan",
   "d": 2,
   "t": "Proche et Moyen-Orient"
  },
  {
+  "id": "his_f_3-075",
   "q": "Comment appelle-t-on la journée de janvier 1972 où des parachutistes britanniques ont tiré sur une marche pacifique à Derry ?",
   "r": "Le Bloody Sunday",
   "d": 1,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-076",
   "q": "Quel accord signé en avril 1998 a ouvert la voie à la paix en Irlande du Nord ?",
   "r": "L'accord du Vendredi saint",
   "d": 2,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-077",
   "q": "Quel militant républicain irlandais est mort en prison en 1981 au 66e jour d'une grève de la faim ?",
   "r": "Bobby Sands",
   "d": 2,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-078",
   "q": "Quelle organisation armée indépendantiste basque a été fondée en 1959 ?",
   "r": "L'ETA",
   "d": 1,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-079",
   "q": "Quel juge antimafia italien a été tué dans un attentat à l'explosif près de Palerme en mai 1992 ?",
   "r": "Giovanni Falcone",
   "d": 2,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-080",
   "q": "Quel nom italien, signifiant « mains propres », désigne la vaste enquête anticorruption lancée à Milan en 1992 ?",
   "r": "Mani pulite",
   "d": 3,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-081",
   "q": "Quel roi des Belges s'est déclaré dans l'impossibilité de régner pendant 36 heures en 1990 pour ne pas signer la loi sur l'avortement ?",
   "r": "Baudouin",
   "d": 2,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-082",
   "q": "Quel Premier ministre britannique a signé les accords de Munich en 1938 ?",
   "r": "Neville Chamberlain",
   "d": 1,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-083",
   "q": "Quel travailliste a été Premier ministre du Royaume-Uni de 1997 à 2007 ?",
   "r": "Tony Blair",
   "d": 1,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-084",
   "q": "Quel Premier ministre suédois a été assassiné dans une rue de Stockholm en février 1986 ?",
   "r": "Olof Palme",
   "d": 2,
   "t": "Europe occidentale"
  },
  {
+  "id": "his_f_3-085",
   "q": "Quelle femme est devenue en 2005 la première chancelière de l'histoire de l'Allemagne ?",
   "r": "Angela Merkel",
   "d": 1,

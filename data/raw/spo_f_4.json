@@ -1,509 +1,594 @@
 [
  {
+  "id": "spo_f_4-001",
   "q": "Au poker, comment appelle-t-on une main réunissant un brelan et une paire ?",
   "r": "Un full",
   "d": 1,
   "t": "Jeux de cartes"
  },
  {
+  "id": "spo_f_4-002",
   "q": "Quelle truite sauvage des rivières européennes est reconnaissable à ses points rouges cerclés de blanc ?",
   "r": "La truite fario",
   "d": 2,
   "t": "Pêche"
  },
  {
+  "id": "spo_f_4-003",
   "q": "Quelle pâte de soja fermentée sert de base à une soupe japonaise très courante ?",
   "r": "Le miso",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-004",
   "q": "Quel pain plat provençal, ajouré de fentes, est parfois garni d'olives ou de lardons ?",
   "r": "La fougasse",
   "d": 1,
   "t": "Gastronomie française"
  },
  {
+  "id": "spo_f_4-005",
   "q": "Comment appelle-t-on une tête de vis dont l'empreinte a la forme d'une croix ?",
   "r": "Cruciforme",
   "d": 1,
   "t": "Bricolage"
  },
  {
+  "id": "spo_f_4-006",
   "q": "Quel chapeau de paille rigide, à calotte plate, était l'emblème de Maurice Chevalier ?",
   "r": "Le canotier",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-007",
   "q": "Quelle entreprise italienne est célèbre pour ses albums d'autocollants de footballeurs ?",
   "r": "Panini",
   "d": 1,
   "t": "Collections"
  },
  {
+  "id": "spo_f_4-008",
   "q": "Quelle maison de chaussons de danse a créé en 1956 la ballerine de Brigitte Bardot ?",
   "r": "Repetto",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-009",
   "q": "Quelle boisson fermentée, cousine du cidre, fait la réputation du Domfrontais, dans l'Orne ?",
   "r": "Le poiré",
   "d": 2,
   "t": "Bières et boissons"
  },
  {
+  "id": "spo_f_4-010",
   "q": "Quel jour de décembre fête-t-on la Saint-Nicolas dans l'est de la France ?",
   "r": "Le 6 décembre",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-011",
   "q": "Quelle large cravate nouée en gros nœud souple porte le nom d'une favorite de Louis XIV ?",
   "r": "La lavallière",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-012",
   "q": "Quelle matière transparente donne son nom aux noces célébrant 15 ans de mariage ?",
   "r": "Le cristal",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-013",
   "q": "Quelle déesse figure sur le premier timbre-poste français, émis en 1849 ?",
   "r": "Cérès",
   "d": 3,
   "t": "Collections"
  },
  {
+  "id": "spo_f_4-014",
   "q": "Comment appelle-t-on le fait de battre des blancs d'œufs jusqu'à ce qu'ils deviennent fermes ?",
   "r": "Monter en neige",
   "d": 1,
   "t": "Techniques culinaires"
  },
  {
+  "id": "spo_f_4-015",
   "q": "Quelle marque américaine de machines à coudre porte le nom de son fondateur Isaac ?",
   "r": "Singer",
   "d": 2,
   "t": "Couture"
  },
  {
+  "id": "spo_f_4-016",
   "q": "Au poker, comment appelle-t-on en français le fait de miser tous ses jetons d'un coup ?",
   "r": "Faire tapis",
   "d": 1,
   "t": "Jeux de cartes"
  },
  {
+  "id": "spo_f_4-017",
   "q": "Quel manteau imperméable à ceinture, porté par les officiers de 1914-1918, est un classique de Burberry ?",
   "r": "Le trench-coat",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-018",
   "q": "Quelle jupe plissée en tartan est portée traditionnellement par les Écossais ?",
   "r": "Le kilt",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-019",
   "q": "Dans quel département se trouve le parc Astérix ?",
   "r": "L'Oise",
   "d": 2,
   "t": "Voyages"
  },
  {
+  "id": "spo_f_4-020",
   "q": "Quel plat coréen de riz garni de légumes, de viande et d'un œuf se mélange avec une pâte de piment ?",
   "r": "Le bibimbap",
   "d": 2,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-021",
   "q": "Quelle confiserie turque gélifiée, souvent parfumée à la rose, est roulée dans le sucre glace ?",
   "r": "Le loukoum",
   "d": 1,
   "t": "Confiserie"
  },
  {
+  "id": "spo_f_4-022",
   "q": "Quelle ville alsacienne accueille le plus ancien marché de Noël de France, le Christkindelsmärik ?",
   "r": "Strasbourg",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-023",
   "q": "Quel bonbon rayé, de forme pyramidale, est la spécialité de Carpentras ?",
   "r": "Le berlingot",
   "d": 3,
   "t": "Confiserie"
  },
  {
+  "id": "spo_f_4-024",
   "q": "Comment appelle-t-on l'inversion de sons dans une phrase, comme dans « Femme folle à la messe » ?",
   "r": "Une contrepèterie",
   "d": 2,
   "t": "Jeux de lettres"
  },
  {
+  "id": "spo_f_4-025",
   "q": "Quel jouet tourne sur sa pointe après avoir été lancé avec une ficelle ou entre les doigts ?",
   "r": "La toupie",
   "d": 1,
   "t": "Jouets"
  },
  {
+  "id": "spo_f_4-026",
   "q": "Quel tissu écossais à carreaux de couleurs identifie souvent un clan ?",
   "r": "Le tartan",
   "d": 1,
   "t": "Couture"
  },
  {
+  "id": "spo_f_4-027",
   "q": "Comment appelle-t-on l'assemblage cousu de morceaux de tissus de couleurs et de motifs variés ?",
   "r": "Le patchwork",
   "d": 1,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_f_4-028",
   "q": "Quel jeu de plateau à 24 flèches, où l'on déplace quinze pions selon deux dés, est très populaire au Proche-Orient ?",
   "r": "Le backgammon",
   "d": 2,
   "t": "Jeux de société"
  },
  {
+  "id": "spo_f_4-029",
   "q": "Quelle scie électrique à lame fine et verticale permet de faire des découpes courbes ?",
   "r": "La scie sauteuse",
   "d": 2,
   "t": "Bricolage"
  },
  {
+  "id": "spo_f_4-030",
   "q": "Quel petit train de montagne relie Villefranche-de-Conflent à Latour-de-Carol dans les Pyrénées-Orientales ?",
   "r": "Le Train jaune",
   "d": 2,
   "t": "Transports touristiques"
  },
  {
+  "id": "spo_f_4-031",
   "q": "Quel blouson de cuir à fermeture en biais, porté par Marlon Brando dans « L'Équipée sauvage », porte un nom de cigare ?",
   "r": "Le Perfecto",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-032",
   "q": "Quel gâteau à étages de biscuit Joconde, crème au beurre au café et ganache porte le nom d'une salle de spectacle parisienne ?",
   "r": "L'opéra",
   "d": 2,
   "t": "Pâtisserie"
  },
  {
+  "id": "spo_f_4-033",
   "q": "Quel poisson carnassier d'eau douce est surnommé le « requin d'eau douce » ?",
   "r": "Le brochet",
   "d": 1,
   "t": "Pêche"
  },
  {
+  "id": "spo_f_4-034",
   "q": "Comment appelle-t-on les feuilles de vigne farcies de riz des cuisines grecque et turque ?",
   "r": "Les dolmas",
   "d": 2,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-035",
   "q": "Comment appelle-t-on le ballon à air chaud, du nom de ses inventeurs ardéchois ?",
   "r": "La montgolfière",
   "d": 1,
   "t": "Transports touristiques"
  },
  {
+  "id": "spo_f_4-036",
   "q": "Quelles petites crêpes épaisses russes accompagnent souvent le caviar et la crème aigre ?",
   "r": "Les blinis",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-037",
   "q": "Quelle peluche électronique aux grandes oreilles, parlant son propre langage, a fait fureur à Noël 1998 ?",
   "r": "Le Furby",
   "d": 2,
   "t": "Jouets"
  },
  {
+  "id": "spo_f_4-038",
   "q": "Quel fromage frais crémeux italien est l'ingrédient principal du tiramisu ?",
   "r": "Le mascarpone",
   "d": 1,
   "t": "Fromages"
  },
  {
+  "id": "spo_f_4-039",
   "q": "Comment appelle-t-on la larve de mouche utilisée comme appât par les pêcheurs ?",
   "r": "L'asticot",
   "d": 1,
   "t": "Pêche"
  },
  {
+  "id": "spo_f_4-040",
   "q": "Quel fruit d'Asie du Sud-Est, surnommé « roi des fruits », est interdit dans certains transports en raison de son odeur ?",
   "r": "Le durian",
   "d": 2,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-041",
   "q": "Quel fromage normand à croûte fleurie est souvent moulé en forme de cœur ?",
   "r": "Le neufchâtel",
   "d": 3,
   "t": "Fromages"
  },
  {
+  "id": "spo_f_4-042",
   "q": "Combien de jours dure le carême chrétien, sans compter les dimanches ?",
   "r": "40 jours",
   "d": 2,
   "t": "Calendrier"
  },
  {
+  "id": "spo_f_4-043",
   "q": "Quel jeu de parcours à quatre écuries oblige à obtenir un 6 au dé pour sortir un pion ?",
   "r": "Les petits chevaux",
   "d": 1,
   "t": "Jeux de société"
  },
  {
+  "id": "spo_f_4-044",
   "q": "Combien d'animaux compte le cycle du zodiaque chinois ?",
   "r": "Douze",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-045",
   "q": "Quel village jurassien a donné son nom à l'appellation la plus prestigieuse du vin jaune ?",
   "r": "Château-Chalon",
   "d": 3,
   "t": "Vins"
  },
  {
+  "id": "spo_f_4-046",
   "q": "Quelle ville américaine est célèbre pour ses tramways tirés par câble qui gravissent des rues en pente ?",
   "r": "San Francisco",
   "d": 1,
   "t": "Transports touristiques"
  },
  {
+  "id": "spo_f_4-047",
   "q": "Quel cépage rouge, originaire de Cahors, est devenu l'emblème des vins d'Argentine ?",
   "r": "Le malbec",
   "d": 3,
   "t": "Vins"
  },
  {
+  "id": "spo_f_4-048",
   "q": "Quel surnom porte le GR 34, sentier du littoral breton autrefois arpenté par les gardes-côtes ?",
   "r": "Le sentier des douaniers",
   "d": 2,
   "t": "Randonnée"
  },
  {
+  "id": "spo_f_4-049",
   "q": "Quel jeu de lettres se joue sur une grille de 15 cases sur 15 avec des cases « mot compte double » ?",
   "r": "Le Scrabble",
   "d": 1,
   "t": "Jeux de lettres"
  },
  {
+  "id": "spo_f_4-050",
   "q": "Autour de quelle ville produit-on le muscadet ?",
   "r": "Nantes",
   "d": 2,
   "t": "Vins"
  },
  {
+  "id": "spo_f_4-051",
   "q": "Comment appelle-t-on le jour de fête qui précède le mercredi des Cendres ?",
   "r": "Mardi gras",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-052",
   "q": "Quelle cuisinière lyonnaise fut en 1933 la première à cumuler six étoiles Michelin dans deux restaurants ?",
   "r": "Eugénie Brazier",
   "d": 3,
   "t": "Chefs et guides"
  },
  {
+  "id": "spo_f_4-053",
   "q": "Quel dessert viennois en pâte très fine étirée est roulé autour de pommes, de raisins secs et de cannelle ?",
   "r": "Le strudel",
   "d": 1,
   "t": "Pâtisserie"
  },
  {
+  "id": "spo_f_4-054",
   "q": "Quel restaurant catalan de Ferran Adrià fut le temple de la cuisine moléculaire jusqu'à sa fermeture en 2011 ?",
   "r": "El Bulli",
   "d": 3,
   "t": "Chefs et guides"
  },
  {
+  "id": "spo_f_4-055",
   "q": "Comment appelle-t-on la culture associée de maïs, de haricots et de courges pratiquée par les Amérindiens ?",
   "r": "Les trois sœurs",
   "d": 3,
   "t": "Jardinage"
  },
  {
+  "id": "spo_f_4-056",
   "q": "De quelle fête celtique marquant le début de la saison sombre Halloween serait-elle issue ?",
   "r": "Samain",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-057",
   "q": "Quelle fête irlandaise du 17 mars voit défiler des foules habillées de vert ?",
   "r": "La Saint-Patrick",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-058",
   "q": "Quel plat grec superpose aubergines, viande hachée et sauce béchamel ?",
   "r": "La moussaka",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-059",
   "q": "Comment appelle-t-on un collectionneur de boîtes d'allumettes ?",
   "r": "Un philuméniste",
   "d": 3,
   "t": "Collections"
  },
  {
+  "id": "spo_f_4-060",
   "q": "Quel dessert piémontais a un nom signifiant « crème cuite » ?",
   "r": "La panna cotta",
   "d": 2,
   "t": "Pâtisserie"
  },
  {
+  "id": "spo_f_4-061",
   "q": "Quel défaut du vin, dû à une molécule appelée TCA, donne une odeur de moisi ?",
   "r": "Le goût de bouchon",
   "d": 1,
   "t": "Vins"
  },
  {
+  "id": "spo_f_4-062",
   "q": "Comment appelle-t-on les jeunes femmes célibataires de 25 ans qui portent un chapeau jaune et vert le 25 novembre ?",
   "r": "Les catherinettes",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-063",
   "q": "Quel plat suisse consiste à tremper des morceaux de pain dans du fromage fondu, servi dans un caquelon ?",
   "r": "La fondue",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-064",
   "q": "Quel outil permet de maintenir serrées deux pièces de bois pendant que la colle sèche ?",
   "r": "Le serre-joint",
   "d": 2,
   "t": "Bricolage"
  },
  {
+  "id": "spo_f_4-065",
   "q": "Quelle journaliste américaine a bouclé en 1890 un tour du monde en 72 jours, battant Phileas Fogg ?",
   "r": "Nellie Bly",
   "d": 3,
   "t": "Voyages"
  },
  {
+  "id": "spo_f_4-066",
   "q": "Quelle pâte soufflée cuite au four accompagne le rosbif du dimanche en Angleterre ?",
   "r": "Le Yorkshire pudding",
   "d": 2,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-067",
   "q": "Comment appelle-t-on les petits biscuits de Noël alsaciens aux formes variées ?",
   "r": "Les bredele",
   "d": 3,
   "t": "Pâtisserie"
  },
  {
+  "id": "spo_f_4-068",
   "q": "Quelle tourte marocaine feuilletée, sucrée-salée, est traditionnellement garnie de pigeon ?",
   "r": "La pastilla",
   "d": 2,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-069",
   "q": "Quelle fleur dépose-t-on traditionnellement en France sur les tombes à la Toussaint ?",
   "r": "Le chrysanthème",
   "d": 1,
   "t": "Jardinage"
  },
  {
+  "id": "spo_f_4-070",
   "q": "Quel petit élément enfonce-t-on dans un trou percé dans le mur pour que la vis y tienne solidement ?",
   "r": "La cheville",
   "d": 1,
   "t": "Bricolage"
  },
  {
+  "id": "spo_f_4-071",
   "q": "Quel plat québécois associe frites, fromage en grains et sauce brune ?",
   "r": "La poutine",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-072",
   "q": "Quel pain français a vu son savoir-faire artisanal inscrit au patrimoine immatériel de l'UNESCO en 2022 ?",
   "r": "La baguette",
   "d": 1,
   "t": "Gastronomie française"
  },
  {
+  "id": "spo_f_4-073",
   "q": "Comment appelle-t-on le pain au chocolat dans une grande partie du Sud-Ouest ?",
   "r": "La chocolatine",
   "d": 1,
   "t": "Pâtisserie"
  },
  {
+  "id": "spo_f_4-074",
   "q": "Quelle créatrice française, célèbre pour ses pulls rayés, était surnommée « la reine du tricot » ?",
   "r": "Sonia Rykiel",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_f_4-075",
   "q": "Quelle ville d'Émilie-Romagne a donné son nom au plus célèbre jambon cru italien ?",
   "r": "Parme",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-076",
   "q": "Quelle fête hindoue des lumières est célébrée à l'automne avec des lampes à huile et des feux d'artifice ?",
   "r": "Diwali",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_f_4-077",
   "q": "Quel jeu de construction à pièces métalliques perforées et boulons a été breveté par l'Anglais Frank Hornby en 1901 ?",
   "r": "Le Meccano",
   "d": 2,
   "t": "Jouets"
  },
  {
+  "id": "spo_f_4-078",
   "q": "Quelle entreprise piémontaise commercialise le Nutella depuis 1964 ?",
   "r": "Ferrero",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-079",
   "q": "Quelle ligne maritime norvégienne longe la côte de Bergen à Kirkenes en faisant escale dans des dizaines de ports ?",
   "r": "Hurtigruten",
   "d": 3,
   "t": "Transports touristiques"
  },
  {
+  "id": "spo_f_4-080",
   "q": "Quelle épice jaune donne sa couleur à la plupart des currys ?",
   "r": "Le curcuma",
   "d": 1,
   "t": "Cuisine du monde"
  },
  {
+  "id": "spo_f_4-081",
   "q": "Quel titre distingue en France les artisans d'excellence, reconnaissables à leur col bleu-blanc-rouge ?",
   "r": "Meilleur ouvrier de France",
   "d": 2,
   "t": "Chefs et guides"
  },
  {
+  "id": "spo_f_4-082",
   "q": "Quel est le nom du tout premier timbre-poste, émis au Royaume-Uni en 1840 ?",
   "r": "Le Penny Black",
   "d": 2,
   "t": "Collections"
  },
  {
+  "id": "spo_f_4-083",
   "q": "Quelle fourche-bêche à deux manches permet d'aérer la terre sans la retourner ?",
   "r": "La grelinette",
   "d": 3,
   "t": "Jardinage"
  },
  {
+  "id": "spo_f_4-084",
   "q": "Comment appelle-t-on le « décret de pureté » bavarois de 1516 qui limitait les ingrédients de la bière ?",
   "r": "Le Reinheitsgebot",
   "d": 3,
   "t": "Bières et boissons"
  },
  {
+  "id": "spo_f_4-085",
   "q": "En quelle année le Loto national a-t-il été lancé en France ?",
   "r": "1976",
   "d": 3,

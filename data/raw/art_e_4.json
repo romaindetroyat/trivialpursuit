@@ -1,509 +1,594 @@
 [
  {
+  "id": "art_e_4-001",
   "q": "Quel héros suisse dut tirer à l'arbalète sur une pomme posée sur la tête de son fils ?",
   "r": "Guillaume Tell",
   "d": 1,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-002",
   "q": "Dans quelle forêt anglaise Robin des Bois se cache-t-il avec ses compagnons ?",
   "r": "La forêt de Sherwood",
   "d": 1,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-003",
   "q": "Quel vaisseau fantôme légendaire, condamné à errer éternellement sur les mers, a inspiré un opéra de Wagner ?",
   "r": "Le Hollandais volant",
   "d": 1,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-004",
   "q": "Quelle créature d'argile aurait été animée par le rabbin Loew pour protéger le ghetto de Prague ?",
   "r": "Le Golem",
   "d": 2,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-005",
   "q": "Quel prince de Valachie du XVe siècle, surnommé l'Empaleur, a inspiré à Bram Stoker le nom de son vampire ?",
   "r": "Vlad III (Vlad Țepeș)",
   "d": 2,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-006",
   "q": "Quel roi de Cornouailles, oncle de Tristan, devait épouser Iseut ?",
   "r": "Le roi Marc",
   "d": 2,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-007",
   "q": "Quelle fée, souvent identifiée à la Dame du Lac, éleva Lancelot et enchanta Merlin ?",
   "r": "Viviane",
   "d": 2,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-008",
   "q": "Quel est le nom du château légendaire où le roi Arthur tient sa cour ?",
   "r": "Camelot",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-009",
   "q": "Quel jeune chevalier gallois, d'abord naïf, est le héros du « Conte du Graal » de Chrétien de Troyes ?",
   "r": "Perceval",
   "d": 2,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-010",
   "q": "Quel chevalier au cœur pur, fils de Lancelot, parvient au terme de la quête du Graal ?",
   "r": "Galaad",
   "d": 3,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-011",
   "q": "Quel chevalier, fils ou neveu d'Arthur selon les versions, blesse mortellement le roi lors de la bataille de Camlann ?",
   "r": "Mordred",
   "d": 2,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-012",
   "q": "Quelle fée, demi-sœur du roi Arthur, est souvent son ennemie ?",
   "r": "Morgane",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-013",
   "q": "Vers quelle île mystérieuse le roi Arthur mortellement blessé est-il emporté ?",
   "r": "Avalon",
   "d": 2,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-014",
   "q": "Dans quelle forêt bretonne la légende situe-t-elle les amours de Merlin et de Viviane ?",
   "r": "Brocéliande",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_e_4-015",
   "q": "Quelle ville légendaire du roi Gradlon fut engloutie par la mer après que sa fille Dahut en eut ouvert les portes ?",
   "r": "Ys",
   "d": 2,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-016",
   "q": "Quelle fée du Poitou se changeait chaque samedi en femme-serpent, ancêtre légendaire de la famille de Lusignan ?",
   "r": "Mélusine",
   "d": 2,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-017",
   "q": "Quel monstre amphibie, apprivoisé par sainte Marthe selon la légende, a donné son nom à une fête provençale ?",
   "r": "La Tarasque",
   "d": 2,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-018",
   "q": "Quelle cité légendaire couverte d'or les conquistadors ont-ils cherchée en vain en Amérique du Sud ?",
   "r": "L'Eldorado",
   "d": 1,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-019",
   "q": "Quelle île engloutie, puissante et prospère, Platon décrit-il dans le « Timée » et le « Critias » ?",
   "r": "L'Atlantide",
   "d": 1,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-020",
   "q": "Quel surnom donne-t-on au monstre qui hanterait un lac d'Écosse ?",
   "r": "Nessie",
   "d": 1,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-021",
   "q": "Quel héros japonais, né d'une pêche géante, part combattre les ogres avec un chien, un singe et un faisan ?",
   "r": "Momotarō",
   "d": 3,
   "t": "Contes du monde"
  },
  {
+  "id": "art_e_4-022",
   "q": "Quel roi des singes, héros du « Voyage vers l'Ouest », est né d'un œuf de pierre ?",
   "r": "Sun Wukong",
   "d": 2,
   "t": "Contes du monde"
  },
  {
+  "id": "art_e_4-023",
   "q": "Quelle araignée rusée est le héros de nombreux contes des Ashanti du Ghana ?",
   "r": "Anansi",
   "d": 3,
   "t": "Contes du monde"
  },
  {
+  "id": "art_e_4-024",
   "q": "Quelle sorcière des contes russes vit dans une isba montée sur des pattes de poule ?",
   "r": "Baba Yaga",
   "d": 2,
   "t": "Contes du monde"
  },
  {
+  "id": "art_e_4-025",
   "q": "Quelle vallée paradisiaque du Tibet, où l'on ne vieillit pas, a été imaginée par James Hilton dans « Horizon perdu » ?",
   "r": "Shangri-La",
   "d": 3,
   "t": "Légendes"
  },
  {
+  "id": "art_e_4-026",
   "q": "Quel est le premier livre de la Bible ?",
   "r": "La Genèse",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-027",
   "q": "Selon la Genèse, quel fils d'Adam et Ève tue son frère Abel ?",
   "r": "Caïn",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-028",
   "q": "Selon la Genèse, quel oiseau revient vers l'arche de Noé avec une feuille d'olivier dans le bec ?",
   "r": "La colombe",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-029",
   "q": "Selon la tradition, sur quel mont l'arche de Noé s'est-elle échouée après le Déluge ?",
   "r": "Le mont Ararat",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-030",
   "q": "Selon la Genèse, quelle construction inachevée provoqua la confusion des langues entre les hommes ?",
   "r": "La tour de Babel",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-031",
   "q": "Selon la Genèse, quel fils Abraham est-il prêt à sacrifier avant qu'un ange n'arrête son bras ?",
   "r": "Isaac",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-032",
   "q": "Selon la Bible, quel fils d'Isaac vend son droit d'aînesse à son jumeau Jacob pour un plat de lentilles ?",
   "r": "Ésaü",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-033",
   "q": "Quelle idole les Hébreux adorent-ils au pied du Sinaï pendant que Moïse reçoit les Tables de la Loi ?",
   "r": "Le veau d'or",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-034",
   "q": "Avec quelle arme le jeune David abat-il le géant Goliath ?",
   "r": "Une fronde",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-035",
   "q": "Quelle femme découvre le secret de la force de Samson et le livre aux Philistins ?",
   "r": "Dalila",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-036",
   "q": "Quel roi d'Israël, réputé pour sa sagesse, propose de couper un enfant en deux pour démasquer sa vraie mère ?",
   "r": "Salomon",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-037",
   "q": "Quel prophète biblique passe trois jours et trois nuits dans le ventre d'un grand poisson ?",
   "r": "Jonas",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-038",
   "q": "Quel patriarche biblique aurait vécu 969 ans, record de longévité de la Bible ?",
   "r": "Mathusalem",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-039",
   "q": "Selon la Genèse, en quoi la femme de Loth est-elle changée pour s'être retournée vers Sodome ?",
   "r": "En statue de sel",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-040",
   "q": "Dans quel fleuve Jean-Baptiste baptise-t-il Jésus selon les Évangiles ?",
   "r": "Le Jourdain",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-041",
   "q": "Selon les Évangiles, quel animal chante après que Pierre a renié Jésus trois fois ?",
   "r": "Le coq",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-042",
   "q": "Quel ami de Jésus, frère de Marthe et de Marie, est ramené à la vie quatre jours après sa mort selon l'Évangile de Jean ?",
   "r": "Lazare",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-043",
   "q": "Dans quel village de Galilée, selon l'Évangile de Jean, l'eau est-elle changée en vin lors de noces ?",
   "r": "Cana",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-044",
   "q": "Quel prisonnier la foule préfère-t-elle voir libéré à la place de Jésus, selon les Évangiles ?",
   "r": "Barabbas",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-045",
   "q": "Selon les Actes des Apôtres, quel persécuteur des chrétiens se convertit sur le chemin de Damas ?",
   "r": "Saul de Tarse (saint Paul)",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-046",
   "q": "Quelle parabole des Évangiles raconte le retour d'un fils qui a dilapidé sa part d'héritage et que son père accueille en fête ?",
   "r": "Le fils prodigue",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-047",
   "q": "Au festin de quel roi de Babylone une main mystérieuse écrit-elle « Mané, Thécel, Pharès » sur le mur ?",
   "r": "Balthazar",
   "d": 3,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-048",
   "q": "Combien de sourates compte le Coran ?",
   "r": "114",
   "d": 3,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-049",
   "q": "Selon la tradition musulmane, quel archange a transmis la révélation du Coran au prophète Mahomet ?",
   "r": "Gabriel (Jibril)",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-050",
   "q": "Comment appelle-t-on, dans le judaïsme, l'ensemble des cinq premiers livres de la Bible hébraïque ?",
   "r": "La Torah",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-051",
   "q": "Quel est le nom du prince indien devenu le Bouddha ?",
   "r": "Siddhartha Gautama",
   "d": 1,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-052",
   "q": "Sous quelle espèce d'arbre, selon la tradition, le Bouddha a-t-il atteint l'Éveil à Bodh-Gaya ?",
   "r": "Un figuier (pipal)",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-053",
   "q": "Comment s'appellent les plus anciens textes sacrés de l'hindouisme, rédigés en sanskrit ?",
   "r": "Les Védas",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-054",
   "q": "Sous quel nom les Grecs désignaient-ils le prophète perse Zarathoustra ?",
   "r": "Zoroastre",
   "d": 2,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-055",
   "q": "Quel livre sacré des sikhs est conservé au Temple d'or d'Amritsar ?",
   "r": "Le Guru Granth Sahib",
   "d": 3,
   "t": "Textes religieux"
  },
  {
+  "id": "art_e_4-056",
   "q": "Quel penseur de Milet est souvent considéré comme le premier philosophe grec, et a donné son nom à un théorème ?",
   "r": "Thalès",
   "d": 1,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-057",
   "q": "Quel philosophe et mathématicien grec a fondé à Crotone une communauté pour qui « tout est nombre » ?",
   "r": "Pythagore",
   "d": 1,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-058",
   "q": "Quel philosophe grec a imaginé le paradoxe d'Achille incapable de rattraper une tortue ?",
   "r": "Zénon d'Élée",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-059",
   "q": "Quel philosophe grec d'Abdère a soutenu, avec Leucippe, que la matière est faite d'atomes ?",
   "r": "Démocrite",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-060",
   "q": "Quel sophiste grec a affirmé que « l'homme est la mesure de toutes choses » ?",
   "r": "Protagoras",
   "d": 3,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-061",
   "q": "Comment appelle-t-on les maîtres de rhétorique grecs rémunérés, critiqués par Socrate et Platon ?",
   "r": "Les sophistes",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-062",
   "q": "Quel évêque d'Hippone a raconté sa jeunesse et sa conversion dans ses « Confessions » ?",
   "r": "Saint Augustin",
   "d": 2,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_e_4-063",
   "q": "Quel théologien dominicain du XIIIe siècle a rédigé la « Somme théologique » ?",
   "r": "Thomas d'Aquin",
   "d": 2,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_e_4-064",
   "q": "Quel philosophe andalou né à Cordoue au XIIe siècle fut surnommé « le Commentateur » d'Aristote ?",
   "r": "Averroès",
   "d": 3,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_e_4-065",
   "q": "Quel savant persan a écrit le « Canon de la médecine », enseigné pendant des siècles en Europe ?",
   "r": "Avicenne",
   "d": 2,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_e_4-066",
   "q": "Quel penseur juif né à Cordoue a écrit au XIIe siècle le « Guide des égarés » ?",
   "r": "Maïmonide",
   "d": 3,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_e_4-067",
   "q": "Quel philosophe du XIIe siècle a vécu une passion célèbre et tragique avec son élève Héloïse ?",
   "r": "Pierre Abélard",
   "d": 2,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_e_4-068",
   "q": "Quel humaniste de Rotterdam a écrit l'« Éloge de la folie », dédié à son ami Thomas More ?",
   "r": "Érasme",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-069",
   "q": "Quel ami de Montaigne a écrit le « Discours de la servitude volontaire » ?",
   "r": "Étienne de La Boétie",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-070",
   "q": "Quel auteur comique latin a écrit, bien avant Hobbes, « L'homme est un loup pour l'homme » ?",
   "r": "Plaute",
   "d": 3,
   "t": "Citations"
  },
  {
+  "id": "art_e_4-071",
   "q": "Comment appelle-t-on l'argument de Pascal selon lequel on a tout à gagner à miser sur l'existence de Dieu ?",
   "r": "Le pari",
   "d": 1,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-072",
   "q": "Comment Kant nomme-t-il le commandement moral qui s'impose sans condition, quelles que soient ses conséquences ?",
   "r": "L'impératif catégorique",
   "d": 3,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-073",
   "q": "Quel penseur français a publié en 1835 « De la démocratie en Amérique » ?",
   "r": "Alexis de Tocqueville",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-074",
   "q": "Quel philosophe français du XIXe siècle a fondé le positivisme ?",
   "r": "Auguste Comte",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-075",
   "q": "Quel philosophe écossais a évoqué la « main invisible » du marché dans « La Richesse des nations » (1776) ?",
   "r": "Adam Smith",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-076",
   "q": "Quel essai d'Albert Camus (1942) s'achève sur la phrase « Il faut imaginer Sisyphe heureux » ?",
   "r": "Le Mythe de Sisyphe",
   "d": 1,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-077",
   "q": "Quel anthropologue a commencé « Tristes Tropiques » (1955) par « Je hais les voyages et les explorateurs » ?",
   "r": "Claude Lévi-Strauss",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-078",
   "q": "Quel penseur français a analysé le catch, le steak-frites et la DS Citroën dans « Mythologies » (1957) ?",
   "r": "Roland Barthes",
   "d": 3,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-079",
   "q": "De quel animal les philosophes cyniques de la Grèce antique tirent-ils leur nom ?",
   "r": "Le chien",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-080",
   "q": "Quel animal, dans un paradoxe attribué à Jean Buridan, meurt de faim et de soif faute de pouvoir choisir ?",
   "r": "Un âne",
   "d": 2,
   "t": "Philosophie"
  },
  {
+  "id": "art_e_4-081",
   "q": "Quel paradoxe se demande si un navire dont on a remplacé une à une toutes les planches reste le même ?",
   "r": "Le bateau de Thésée",
   "d": 3,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-082",
   "q": "Comment appelle-t-on les disciples d'Aristote, qui aurait enseigné en se promenant ?",
   "r": "Les péripatéticiens",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-083",
   "q": "Quelle mathématicienne et philosophe d'Alexandrie fut assassinée en 415 ?",
   "r": "Hypatie",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-084",
   "q": "Comment s'appelait l'épouse de Socrate, réputée pour son mauvais caractère ?",
   "r": "Xanthippe",
   "d": 3,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_e_4-085",
   "q": "Quel philosophe stoïcien, ancien esclave, voit son enseignement résumé dans le « Manuel » rédigé par son disciple Arrien ?",
   "r": "Épictète",
   "d": 3,

@@ -1,509 +1,594 @@
 [
  {
+  "id": "div_e_1-001",
   "q": "Quelle humoriste, toujours vêtue de rouge sur scène, a popularisé la formule « On ne nous dit pas tout ! » ?",
   "r": "Anne Roumanoff",
   "d": 1,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-002",
   "q": "Quel château de conte de fées trône au centre de Disneyland Paris ?",
   "r": "Le château de la Belle au bois dormant",
   "d": 1,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-003",
   "q": "En quelle année la télévision française a-t-elle commencé à émettre en couleur ?",
   "r": "1967",
   "d": 2,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-004",
   "q": "Quelle famille de circassiens a racheté le Cirque d'Hiver, à Paris, en 1934 ?",
   "r": "Les Bouglione",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-005",
   "q": "Quel conteur à la voix grave a fait frissonner les auditeurs avec « Les Dossiers extraordinaires » ?",
   "r": "Pierre Bellemare",
   "d": 2,
   "t": "Radio"
  },
  {
+  "id": "div_e_1-006",
   "q": "Quelle émission jeunesse d'Antenne 2, animée notamment par Dorothée, a diffusé « Goldorak » à partir de 1978 ?",
   "r": "Récré A2",
   "d": 2,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-007",
   "q": "Quel trophée récompense les meilleurs numéros du Festival international du cirque de Monte-Carlo ?",
   "r": "Le Clown d'or",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-008",
   "q": "Quel entrepreneur américain, souvent surnommé « le père du jeu vidéo », a fondé Atari en 1972 avec Ted Dabney ?",
   "r": "Nolan Bushnell",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-009",
   "q": "Quel présentateur du journal télévisé a ouvert son édition du 18 février 1976 par la phrase « La France a peur » ?",
   "r": "Roger Gicquel",
   "d": 3,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-010",
   "q": "Quel mangaka a créé « Naruto » ?",
   "r": "Masashi Kishimoto",
   "d": 3,
   "t": "Mangas"
  },
  {
+  "id": "div_e_1-011",
   "q": "Quelle candidate de téléréalité a lancé en 2013 la réplique « Allô ? Non mais allô, quoi ! » ?",
   "r": "Nabilla",
   "d": 1,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-012",
   "q": "Quelle chaîne cryptée, première chaîne payante française, a été lancée en novembre 1984 ?",
   "r": "Canal+",
   "d": 1,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-013",
   "q": "Comment s'appelle la première fille du village des Schtroumpfs, créée à l'origine par Gargamel ?",
   "r": "La Schtroumpfette",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-014",
   "q": "Quelle console hybride de Nintendo, sortie en 2017, se joue aussi bien sur un téléviseur qu'en mode portable ?",
   "r": "La Nintendo Switch",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-015",
   "q": "Quel prestidigitateur français, vedette de la télévision, s'est employé à démasquer les faux médiums et les tordeurs de cuillères ?",
   "r": "Gérard Majax",
   "d": 3,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-016",
   "q": "Quel album de Tintin est resté inachevé à la mort d'Hergé en 1983 ?",
   "r": "Tintin et l'Alph-Art",
   "d": 3,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-017",
   "q": "De quel roman de Jules Verne s'inspirait l'attraction Space Mountain lors de son ouverture à Disneyland Paris en 1995 ?",
   "r": "De la Terre à la Lune",
   "d": 3,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-018",
   "q": "Quel parc à thème consacré aux volcans a ouvert ses portes en Auvergne en 2002 ?",
   "r": "Vulcania",
   "d": 1,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-019",
   "q": "Le masque de quel conspirateur anglais, popularisé par la BD « V pour Vendetta », est devenu l'emblème des Anonymous ?",
   "r": "Guy Fawkes",
   "d": 2,
   "t": "Comics"
  },
  {
+  "id": "div_e_1-020",
   "q": "Quel petit fantôme amical est le héros de dessins animés depuis les années 1940 ?",
   "r": "Casper",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_1-021",
   "q": "Comment s'appelle la célèbre attaque énergétique lancée à deux mains par Son Goku ?",
   "r": "Le Kamehameha",
   "d": 1,
   "t": "Mangas"
  },
  {
+  "id": "div_e_1-022",
   "q": "Quel personnage donne son nom à la saga « The Legend of Zelda » ?",
   "r": "La princesse Zelda",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-023",
   "q": "Quelle émission de TF1, lancée en 2011, associe chaque célébrité à un professionnel pour des tangos, valses et cha-chas ?",
   "r": "Danse avec les stars",
   "d": 1,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-024",
   "q": "Quel acteur américain est le héros de « faits » humoristiques vantant sa force invincible sur Internet ?",
   "r": "Chuck Norris",
   "d": 1,
   "t": "Internet"
  },
  {
+  "id": "div_e_1-025",
   "q": "Quelle radio publique, lancée en 1987, fut la première radio française d'information en continu ?",
   "r": "France Info",
   "d": 2,
   "t": "Radio"
  },
  {
+  "id": "div_e_1-026",
   "q": "Comment s'appelle l'assassin héros du premier « Assassin's Creed », sorti en 2007 ?",
   "r": "Altaïr",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-027",
   "q": "Près de quelle ville de Floride se trouve le complexe Walt Disney World ?",
   "r": "Orlando",
   "d": 1,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-028",
   "q": "Quel duo comique formé par Grégoire Ludig et David Marsais s'est fait connaître avec « Very Bad Blagues » ?",
   "r": "Le Palmashow",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-029",
   "q": "Quel dessinateur belge a créé « Le Chat », matou philosophe en costume ?",
   "r": "Philippe Geluck",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-030",
   "q": "Quel humoriste a rendu célèbre le sketch du téléphone « Le 22 à Asnières » ?",
   "r": "Fernand Raynaud",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-031",
   "q": "Quel funambule français a traversé les chutes du Niagara sur une corde en 1859 ?",
   "r": "Charles Blondin",
   "d": 3,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-032",
   "q": "Quel humoriste incarnait Madame Sarfati, une mère juive pied-noir haute en couleur ?",
   "r": "Élie Kakou",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-033",
   "q": "Dans quel État américain vit la famille mafieuse des « Soprano » ?",
   "r": "Le New Jersey",
   "d": 2,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_1-034",
   "q": "Quel dessinateur a créé « Boule et Bill » en 1959 ?",
   "r": "Jean Roba",
   "d": 3,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-035",
   "q": "Quel duo formé d'un chat et d'une souris se livre une guerre sans fin depuis 1940 ?",
   "r": "Tom et Jerry",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_1-036",
   "q": "Quels oursons en peluche multicolores arborent chacun un symbole sur leur ventre ?",
   "r": "Les Bisounours",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_1-037",
   "q": "Quel défi viral de 2016 consistait à se filmer figés comme des statues ?",
   "r": "Le Mannequin Challenge",
   "d": 1,
   "t": "Internet"
  },
  {
+  "id": "div_e_1-038",
   "q": "Quel renard à deux queues est le fidèle acolyte de Sonic ?",
   "r": "Tails",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-039",
   "q": "Quel dauphin était le héros d'une série américaine des années 1960 ?",
   "r": "Flipper",
   "d": 1,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_1-040",
   "q": "Comment s'appelle le château du capitaine Haddock ?",
   "r": "Moulinsart",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-041",
   "q": "De quel illusionniste français du XIXe siècle Harry Houdini a-t-il tiré son nom de scène ?",
   "r": "Jean-Eugène Robert-Houdin",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-042",
   "q": "Quel animateur a créé en 1977 l'émission « Les Grosses Têtes » sur RTL ?",
   "r": "Philippe Bouvard",
   "d": 1,
   "t": "Radio"
  },
  {
+  "id": "div_e_1-043",
   "q": "De quelle race est Belle, la chienne de « Belle et Sébastien » ?",
   "r": "Un montagne des Pyrénées",
   "d": 2,
   "t": "Séries françaises"
  },
  {
+  "id": "div_e_1-044",
   "q": "Comment appelle-t-on la pratique qui consiste à terminer un jeu vidéo le plus vite possible ?",
   "r": "Le speedrun",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-045",
   "q": "Quelle émission présentée par Roger Lanzac a fait entrer le cirque dans les foyers français des années 1950 aux années 1970 ?",
   "r": "La Piste aux étoiles",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-046",
   "q": "Quelle grande roue a été construite au bord de la Tamise pour célébrer l'an 2000 ?",
   "r": "Le London Eye",
   "d": 1,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-047",
   "q": "Comment s'appellent les deux enfants à qui Nounours rend visite dans « Bonne nuit les petits » ?",
   "r": "Nicolas et Pimprenelle",
   "d": 2,
   "t": "Émissions"
  },
  {
+  "id": "div_e_1-048",
   "q": "Quelle humoriste a joué le célèbre sketch « L'Addition », où une cliente tente de partager la note d'un repas entre amis ?",
   "r": "Muriel Robin",
   "d": 1,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-049",
   "q": "Quel objet de bureau servait d'assistant animé dans Microsoft Office à la fin des années 1990 ?",
   "r": "Un trombone",
   "d": 2,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_1-050",
   "q": "Dans quel jeu télévisé deux équipes doivent-elles trouver les réponses les plus fréquentes données par un panel de cent personnes ?",
   "r": "Une famille en or",
   "d": 2,
   "t": "Jeux télé"
  },
  {
+  "id": "div_e_1-051",
   "q": "Comment s'appelle le voisin très pieux et très serviable de la famille Simpson ?",
   "r": "Ned Flanders",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_1-052",
   "q": "Quel écolier insolent est le héros d'innombrables blagues de cour de récréation en France ?",
   "r": "Toto",
   "d": 1,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-053",
   "q": "Quel parent de Peter Parker lui enseigne qu'« un grand pouvoir implique de grandes responsabilités » ?",
   "r": "L'oncle Ben",
   "d": 2,
   "t": "Comics"
  },
  {
+  "id": "div_e_1-054",
   "q": "Sous quel titre français la série « Miami Vice », avec Don Johnson, a-t-elle été diffusée ?",
   "r": "Deux flics à Miami",
   "d": 2,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_1-055",
   "q": "De quel pays africain imaginaire Black Panther est-il le roi ?",
   "r": "Le Wakanda",
   "d": 1,
   "t": "Comics"
  },
  {
+  "id": "div_e_1-056",
   "q": "En quelle année le « Journal de Mickey » a-t-il été lancé en France ?",
   "r": "1934",
   "d": 3,
   "t": "Bande dessinée"
  },
  {
+  "id": "div_e_1-057",
   "q": "Comment appelle-t-on traditionnellement le présentateur en habit qui annonce les numéros sur la piste d'un cirque ?",
   "r": "Monsieur Loyal",
   "d": 1,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-058",
   "q": "Près de quelle ville se trouve le Futuroscope ?",
   "r": "Poitiers",
   "d": 1,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-059",
   "q": "Quel oiseau à l'humeur massacrante Gaston Lagaffe garde-t-il au bureau, en plus de son chat ?",
   "r": "Une mouette",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-060",
   "q": "Quel justicier masqué de Californie, alias don Diego de la Vega, signe ses exploits d'un coup d'épée ?",
   "r": "Zorro",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_e_1-061",
   "q": "Dans quelle ville nouvelle de Seine-et-Marne se trouve Disneyland Paris ?",
   "r": "Marne-la-Vallée",
   "d": 1,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-062",
   "q": "Quel auteur de BD a signé la « Trilogie Nikopol » ?",
   "r": "Enki Bilal",
   "d": 3,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-063",
   "q": "Quel humoriste est devenu en 2004 le premier à remplir le Stade de France avec un spectacle d'humour ?",
   "r": "Jean-Marie Bigard",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_1-064",
   "q": "Dans quelle ville de Californie a ouvert le tout premier Disneyland en 1955 ?",
   "r": "Anaheim",
   "d": 2,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-065",
   "q": "Quel héros de l'espace, aidé du robot Crag et du cerveau vivant Simon, défend le système solaire ?",
   "r": "Capitaine Flam",
   "d": 2,
   "t": "Mangas"
  },
  {
+  "id": "div_e_1-066",
   "q": "Quel jeu livré avec Windows consiste à découvrir des cases sans faire exploser de mines ?",
   "r": "Le Démineur",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-067",
   "q": "Quelle maison d'édition américaine publie les aventures de Batman et de Superman ?",
   "r": "DC Comics",
   "d": 1,
   "t": "Comics"
  },
  {
+  "id": "div_e_1-068",
   "q": "Quel trio de filous paresseux, créé par Louis Forton en 1908, est l'un des plus anciens de la BD française ?",
   "r": "Les Pieds Nickelés",
   "d": 3,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-069",
   "q": "Quel manga de Koyoharu Gotōge suit Tanjirō, devenu pourfendeur de démons pour sauver sa sœur ?",
   "r": "Demon Slayer",
   "d": 3,
   "t": "Mangas"
  },
  {
+  "id": "div_e_1-070",
   "q": "Quelle entreprise a lancé la console Xbox en 2001 ?",
   "r": "Microsoft",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-071",
   "q": "Quel animateur a présenté « Le Plus Grand Cabaret du monde », vitrine des numéros de cirque et de magie ?",
   "r": "Patrick Sébastien",
   "d": 1,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-072",
   "q": "En 2015, de quelles couleurs de nombreux internautes voyaient-ils une robe en réalité bleue et noire ?",
   "r": "Blanc et or",
   "d": 2,
   "t": "Internet"
  },
  {
+  "id": "div_e_1-073",
   "q": "Dans quelle ville danoise, berceau des briques LEGO, a ouvert le premier Legoland en 1968 ?",
   "r": "Billund",
   "d": 3,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_1-074",
   "q": "Dans quelle émission des candidats parcouraient-ils une région en hélicoptère à la recherche d'énigmes et d'un trésor ?",
   "r": "La Carte aux trésors",
   "d": 2,
   "t": "Jeux télé"
  },
  {
+  "id": "div_e_1-075",
   "q": "Quelle exclamation Sheldon Cooper lance-t-il après avoir fait une blague dans « The Big Bang Theory » ?",
   "r": "Bazinga !",
   "d": 1,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_1-076",
   "q": "Quel marsupial orange en jean était la mascotte officieuse de la première PlayStation ?",
   "r": "Crash Bandicoot",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-077",
   "q": "Dans « Kaamelott », quel chevalier est l'inséparable et tout aussi maladroit compagnon de Perceval ?",
   "r": "Karadoc",
   "d": 2,
   "t": "Séries françaises"
  },
  {
+  "id": "div_e_1-078",
   "q": "Quel dessin animé suit une bande de bébés aventuriers menée par Tommy Cornichon ?",
   "r": "Les Razmoket",
   "d": 2,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_1-079",
   "q": "Quelle servante bretonne naïve, apparue en 1905 dans « La Semaine de Suzette », est une pionnière de la BD française ?",
   "r": "Bécassine",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-080",
   "q": "Quel créateur japonais a conçu la saga « Metal Gear » ?",
   "r": "Hideo Kojima",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_1-081",
   "q": "Quelle série de BD suit les sergents Chesterfield et Blutch pendant la guerre de Sécession ?",
   "r": "Les Tuniques bleues",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-082",
   "q": "À quel minerai venu de sa planète natale Superman est-il vulnérable ?",
   "r": "La kryptonite",
   "d": 1,
   "t": "Comics"
  },
  {
+  "id": "div_e_1-083",
   "q": "Quel dessinateur a cofondé le magazine « Fluide glacial » en 1975 ?",
   "r": "Gotlib",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_1-084",
   "q": "Quel acrobate toulousain, pionnier du trapèze volant, a donné son nom à un vêtement moulant ?",
   "r": "Jules Léotard",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_1-085",
   "q": "Quels robots mutants hurlant « Exterminer ! » sont les ennemis jurés du Docteur dans « Doctor Who » ?",
   "r": "Les Daleks",
   "d": 2,

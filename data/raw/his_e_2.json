@@ -1,0 +1,597 @@
+[
+ {
+  "id": "his_e_2-001",
+  "q": "Quel monument parisien, coiffé d'une immense verrière, fut construit pour l'Exposition universelle de 1900 ?",
+  "r": "Le Grand Palais",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "id": "his_e_2-002",
+  "q": "De la disposition des députés de quelle assemblée, en 1789, vient la distinction politique entre gauche et droite ?",
+  "r": "L'Assemblée constituante",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_2-003",
+  "q": "Quelle impératrice d'origine espagnole épousa Napoléon III en 1853 ?",
+  "r": "Eugénie de Montijo",
+  "d": 1,
+  "t": "Second Empire"
+ },
+ {
+  "id": "his_e_2-004",
+  "q": "Quel poète conventionnel donna leurs noms poétiques aux mois du calendrier républicain ?",
+  "r": "Fabre d'Églantine",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-005",
+  "q": "Quel inventeur fit breveter le téléphone aux États-Unis en 1876 ?",
+  "r": "Graham Bell",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_2-006",
+  "q": "Quel roi du Dahomey résista à la conquête française avant d'être exilé en Martinique en 1894 ?",
+  "r": "Béhanzin",
+  "d": 3,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-007",
+  "q": "Quel périodique, fondé en 1631 par Théophraste Renaudot, fut l'un des premiers journaux français ?",
+  "r": "La Gazette",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-008",
+  "q": "Quelle baie australienne fut la destination des premiers bagnards britanniques en 1788 ?",
+  "r": "Botany Bay",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "id": "his_e_2-009",
+  "q": "Quel fruit doit son nom à la première épouse de François Ier ?",
+  "r": "La reine-claude",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-010",
+  "q": "Quel enfant, trouvé à l'état sauvage dans le sud de la France en 1800, fut éduqué par le docteur Itard ?",
+  "r": "Victor de l'Aveyron",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_2-011",
+  "q": "Quel corps, ancêtre de la gendarmerie, assurait la police des routes et des campagnes sous l'Ancien Régime ?",
+  "r": "La maréchaussée",
+  "d": 2,
+  "t": "Ancien Régime"
+ },
+ {
+  "id": "his_e_2-012",
+  "q": "Quel pirate anglais, de son vrai nom Edward Teach, fut tué en 1718 ?",
+  "r": "Barbe Noire (Blackbeard)",
+  "d": 1,
+  "t": "Pirates"
+ },
+ {
+  "id": "his_e_2-013",
+  "q": "Quel chevalier « sans peur et sans reproche » aurait armé François Ier chevalier au soir de Marignan ?",
+  "r": "Bayard",
+  "d": 1,
+  "t": "Renaissance"
+ },
+ {
+  "id": "his_e_2-014",
+  "q": "Quel opéra déclencha à Bruxelles en 1830 l'émeute à l'origine de l'indépendance belge ?",
+  "r": "La Muette de Portici",
+  "d": 3,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_2-015",
+  "q": "Quel territoire d'Afrique du Nord, conquis par la France à partir de 1830, fut découpé en départements français ?",
+  "r": "L'Algérie",
+  "d": 1,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-016",
+  "q": "Comment appelait-on les pamphlets satiriques dirigés contre le principal ministre pendant la Fronde ?",
+  "r": "Les mazarinades",
+  "d": 2,
+  "t": "Fronde"
+ },
+ {
+  "id": "his_e_2-017",
+  "q": "Quel continent les puissances européennes se partagèrent-elles presque entièrement à la fin du XIXe siècle ?",
+  "r": "L'Afrique",
+  "d": 1,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-018",
+  "q": "Quel marin écossais, abandonné sur une île du Pacifique de 1704 à 1709, aurait inspiré Robinson Crusoé ?",
+  "r": "Alexander Selkirk",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_2-019",
+  "q": "Quelle boisson, venue du monde ottoman, fit naître à Paris au XVIIe siècle des établissements où l'on débattait ?",
+  "r": "Le café",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-020",
+  "q": "Quel régime fut proclamé à Paris le 4 septembre 1870, après le désastre de Sedan ?",
+  "r": "La IIIe République",
+  "d": 1,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_2-021",
+  "q": "En quelle année l'esclavage fut-il définitivement aboli dans les colonies françaises ?",
+  "r": "1848",
+  "d": 2,
+  "t": "Dates"
+ },
+ {
+  "id": "his_e_2-022",
+  "q": "Quel général britannique fut tué à Khartoum en 1885 par les partisans du Mahdi ?",
+  "r": "Charles Gordon",
+  "d": 3,
+  "t": "Afrique"
+ },
+ {
+  "id": "his_e_2-023",
+  "q": "Quel titre désignait le frère cadet du roi de France sous l'Ancien Régime ?",
+  "r": "Monsieur",
+  "d": 2,
+  "t": "Ancien Régime"
+ },
+ {
+  "id": "his_e_2-024",
+  "q": "Entre quelles villes Delambre et Méchain mesurèrent-ils un arc de méridien pour définir la nouvelle unité de longueur ?",
+  "r": "Dunkerque et Barcelone",
+  "d": 3,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_2-025",
+  "q": "Quel pays européen fit du Congo sa colonie en 1908 ?",
+  "r": "La Belgique",
+  "d": 1,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-026",
+  "q": "Dans quelle rue parisienne se pressaient les spéculateurs du système de Law ?",
+  "r": "La rue Quincampoix",
+  "d": 3,
+  "t": "Lumières"
+ },
+ {
+  "id": "his_e_2-027",
+  "q": "Quel comte suédois, très proche de Marie-Antoinette, organisa la fuite de la famille royale en 1791 ?",
+  "r": "Axel de Fersen",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_2-028",
+  "q": "Quelle pièce d'or, créée en 1640 sous Louis XIII, portait l'effigie du roi ?",
+  "r": "Le louis d'or",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-029",
+  "q": "Dans quelle prison de l'île de la Cité Marie-Antoinette passa-t-elle ses dernières semaines ?",
+  "r": "La Conciergerie",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-030",
+  "q": "Quel capitaine du Bounty fut abandonné dans une chaloupe par les mutins en 1789 ?",
+  "r": "William Bligh",
+  "d": 2,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_2-031",
+  "q": "Quel espion de Louis XV vécut une partie de sa vie habillé en femme ?",
+  "r": "Le chevalier d'Éon",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_2-032",
+  "q": "En quelle année Napoléon lança-t-il la campagne de Russie ?",
+  "r": "1812",
+  "d": 1,
+  "t": "Dates"
+ },
+ {
+  "id": "his_e_2-033",
+  "q": "Comment surnommait-on les partisans du Parlement pendant la guerre civile anglaise, à cause de leurs cheveux courts ?",
+  "r": "Les Têtes rondes",
+  "d": 2,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_2-034",
+  "q": "Quel chef métis, pendu en 1885, mena deux rébellions dans l'Ouest canadien ?",
+  "r": "Louis Riel",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_2-035",
+  "q": "Comment appelait-on les colonies britanniques autonomes, comme le Canada ou l'Australie, au début du XXe siècle ?",
+  "r": "Les dominions",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-036",
+  "q": "Quel jeune conventionnel, surnommé « l'Archange de la Terreur », fut guillotiné avec Robespierre ?",
+  "r": "Saint-Just",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-037",
+  "q": "Comment appelait-on les jeunes gens élégants et royalistes qui s'en prenaient aux Jacobins après Thermidor ?",
+  "r": "Les muscadins (la jeunesse dorée)",
+  "d": 3,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-038",
+  "q": "Quel mois du calendrier républicain, qui a donné son titre à un roman de Zola, marquait le début du printemps ?",
+  "r": "Germinal",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-039",
+  "q": "Quel pays fut en 1893 le premier à accorder aux femmes le droit de vote aux élections nationales ?",
+  "r": "La Nouvelle-Zélande",
+  "d": 2,
+  "t": "Océanie"
+ },
+ {
+  "id": "his_e_2-040",
+  "q": "Comment surnommait-on les soldats britanniques, d'après la couleur de leur uniforme, pendant la guerre d'indépendance américaine ?",
+  "r": "Les Tuniques rouges (Redcoats)",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_2-041",
+  "q": "Quel accusateur public du Tribunal révolutionnaire envoya des centaines de personnes à l'échafaud ?",
+  "r": "Fouquier-Tinville",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-042",
+  "q": "Quel légume-fruit rouge, venu d'Amérique, fut longtemps jugé toxique en Europe ?",
+  "r": "La tomate",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-043",
+  "q": "Dans quel palais londonien la reine Victoria fut-elle la première souveraine à résider, dès 1837 ?",
+  "r": "Buckingham Palace",
+  "d": 1,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_2-044",
+  "q": "Quelle île de l'océan Indien s'appelait « île de France » avant de passer aux Britanniques en 1810 ?",
+  "r": "L'île Maurice",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-045",
+  "q": "Quelle expression, venue du petit siège où l'on faisait asseoir l'accusé, signifie « être mis en cause » ?",
+  "r": "Être sur la sellette",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_2-046",
+  "q": "Comment appelait-on les lanternes à huile munies d'un réflecteur qui éclairaient les rues de Paris au XVIIIe siècle ?",
+  "r": "Les réverbères",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-047",
+  "q": "Comment appelle-t-on les officiers russes qui se soulevèrent contre le tsar en décembre 1825 ?",
+  "r": "Les décembristes",
+  "d": 2,
+  "t": "Russie"
+ },
+ {
+  "id": "his_e_2-048",
+  "q": "Quelle femme célèbre pour son salon, peinte par David, a donné son nom à un type de canapé ?",
+  "r": "Juliette Récamier",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_2-049",
+  "q": "Quel grand groupe industriel est issu de la manufacture royale de glaces fondée sous Colbert en 1665 ?",
+  "r": "Saint-Gobain",
+  "d": 3,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_2-050",
+  "q": "Quel club révolutionnaire tirait son nom d'un ancien couvent de dominicains de la rue Saint-Honoré ?",
+  "r": "Les Jacobins",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-051",
+  "q": "Devant quels monuments Bonaparte aurait-il lancé à ses soldats que « quarante siècles » les contemplaient ?",
+  "r": "Les pyramides",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_2-052",
+  "q": "Quel pays fut gouverné par la dynastie des Romanov de 1613 à 1917 ?",
+  "r": "La Russie",
+  "d": 1,
+  "t": "Dynasties"
+ },
+ {
+  "id": "his_e_2-053",
+  "q": "Comment appelait-on les lettres du roi permettant d'emprisonner quelqu'un sans jugement ?",
+  "r": "Les lettres de cachet",
+  "d": 2,
+  "t": "Ancien Régime"
+ },
+ {
+  "id": "his_e_2-054",
+  "q": "Quelle ville, fondée par Stanley en 1881, porta le nom du roi des Belges avant de devenir Kinshasa ?",
+  "r": "Léopoldville",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-055",
+  "q": "Quel café parisien, fondé en 1686, est réputé le plus ancien de la capitale ?",
+  "r": "Le Procope",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-056",
+  "q": "Quel culte Robespierre fit-il célébrer par une grande fête le 8 juin 1794 ?",
+  "r": "Le culte de l'Être suprême",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-057",
+  "q": "Quelle ville anglaise, surnommée « Cottonopolis », fut le cœur de l'industrie cotonnière au XIXe siècle ?",
+  "r": "Manchester",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_2-058",
+  "q": "Comment appelle-t-on le retour des Bourbons sur le trône de France, de 1814 à 1830 ?",
+  "r": "La Restauration",
+  "d": 1,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_2-059",
+  "q": "Quelle sœur de Napoléon posa pour Canova en Vénus victorieuse ?",
+  "r": "Pauline Bonaparte",
+  "d": 2,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_2-060",
+  "q": "Quel homme d'affaires britannique a donné son nom à la Rhodésie ?",
+  "r": "Cecil Rhodes",
+  "d": 1,
+  "t": "Afrique"
+ },
+ {
+  "id": "his_e_2-061",
+  "q": "Quel journaliste harangua la foule au Palais-Royal le 12 juillet 1789 en appelant aux armes ?",
+  "r": "Camille Desmoulins",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_2-062",
+  "q": "Quel ordre religieux, fondé par Ignace de Loyola, fut expulsé de France sous Louis XV ?",
+  "r": "Les jésuites",
+  "d": 1,
+  "t": "Religion"
+ },
+ {
+  "id": "his_e_2-063",
+  "q": "Quelle victoire du maréchal de Villars en 1712 sauva la France à la fin du règne de Louis XIV ?",
+  "r": "Denain",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_2-064",
+  "q": "Quelle bataille navale de 1827 vit les flottes française, britannique et russe détruire la flotte turco-égyptienne ?",
+  "r": "Navarin",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_2-065",
+  "q": "Quels éléphants du Jardin d'acclimatation furent abattus et mangés pendant le siège de Paris en 1870 ?",
+  "r": "Castor et Pollux",
+  "d": 3,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-066",
+  "q": "Quel cartographe flamand a donné son nom à une célèbre projection publiée en 1569 ?",
+  "r": "Gerardus Mercator",
+  "d": 2,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_2-067",
+  "q": "Quel chasseur de bisons devenu showman créa le « Wild West Show » ?",
+  "r": "Buffalo Bill",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_2-068",
+  "q": "Quel titre Bonaparte prit-il après le coup d'État de 1799 ?",
+  "r": "Premier consul",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_2-069",
+  "q": "Quel territoire l'Espagne céda-t-elle aux États-Unis par un traité de 1819 ?",
+  "r": "La Floride",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_2-070",
+  "q": "Quel cardinal, ancien précepteur du roi, fut principal ministre de Louis XV de 1726 à 1743 ?",
+  "r": "Le cardinal de Fleury",
+  "d": 3,
+  "t": "Ministres"
+ },
+ {
+  "id": "his_e_2-071",
+  "q": "Quelle institution financière Bonaparte fonda-t-il en 1800 ?",
+  "r": "La Banque de France",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_2-072",
+  "q": "Quel aventurier vénitien s'évada en 1756 de la prison des Plombs, au palais des Doges ?",
+  "r": "Giacomo Casanova",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_2-073",
+  "q": "Quelle ancienne esclave fit évader des dizaines d'esclaves grâce au « chemin de fer clandestin » ?",
+  "r": "Harriet Tubman",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_2-074",
+  "q": "Quel combustible fossile alimentait les machines à vapeur des usines et des locomotives du XIXe siècle ?",
+  "r": "Le charbon",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_2-075",
+  "q": "Quelle ville Napoléon occupa-t-il en septembre 1812, alors qu'un gigantesque incendie la ravageait ?",
+  "r": "Moscou",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_2-076",
+  "q": "Quel traité de 1659 donna le Roussillon à la France et prévit le mariage de Louis XIV avec une infante ?",
+  "r": "Le traité des Pyrénées",
+  "d": 2,
+  "t": "Traités"
+ },
+ {
+  "id": "his_e_2-077",
+  "q": "Quelle langue internationale fut créée en 1887 par Louis-Lazare Zamenhof ?",
+  "r": "L'espéranto",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_2-078",
+  "q": "Quelle révolte bretonne de 1675 contre de nouvelles taxes tire son nom de la coiffe des insurgés ?",
+  "r": "Les Bonnets rouges",
+  "d": 3,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_2-079",
+  "q": "Quel chef sioux, figure de la victoire de Little Bighorn, se produisit ensuite dans le spectacle de Buffalo Bill ?",
+  "r": "Sitting Bull",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_2-080",
+  "q": "Quelle comtesse polonaise fut la maîtresse de Napoléon et lui donna un fils ?",
+  "r": "Marie Walewska",
+  "d": 2,
+  "t": "Favorites"
+ },
+ {
+  "id": "his_e_2-081",
+  "q": "Quel ingénieur anglais inventa en 1856 un convertisseur permettant de produire de l'acier en masse ?",
+  "r": "Henry Bessemer",
+  "d": 3,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_2-082",
+  "q": "Sous la forme de quel fruit les caricaturistes représentaient-ils Louis-Philippe ?",
+  "r": "Une poire",
+  "d": 1,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_2-083",
+  "q": "Quel empire colonial était le plus étendu du monde au début du XXe siècle ?",
+  "r": "L'Empire britannique",
+  "d": 1,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_2-084",
+  "q": "Quelles sont les deux couleurs de la ville de Paris que l'on retrouve dans le drapeau français ?",
+  "r": "Le bleu et le rouge",
+  "d": 1,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_2-085",
+  "q": "Quel statisticien a donné son nom à un célèbre annuaire du commerce ?",
+  "r": "Sébastien Bottin",
+  "d": 3,
+  "t": "Expressions historiques"
+ }
+]

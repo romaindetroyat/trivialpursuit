@@ -1,509 +1,594 @@
 [
  {
+  "id": "geo_f_3-001",
   "q": "Quelle est la plus vaste des deux grandes îles de la Nouvelle-Zélande ?",
   "r": "L'île du Sud",
   "d": 1,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-002",
   "q": "Quelle ville néo-zélandaise, au bord du lac Wakatipu, a vu naître en 1988 le premier site commercial de saut à l'élastique ?",
   "r": "Queenstown",
   "d": 3,
   "t": "Villes"
  },
  {
+  "id": "geo_f_3-003",
   "q": "Quel lac, le plus grand de Nouvelle-Zélande, occupe la caldeira d'un volcan au centre de l'île du Nord ?",
   "r": "Le lac Taupo",
   "d": 3,
   "t": "Océanie"
  },
  {
+  "id": "geo_f_3-004",
   "q": "Quel parc aux volcans sacrés pour les Maoris fut le premier parc national de Nouvelle-Zélande ?",
   "r": "Tongariro",
   "d": 3,
   "t": "Parcs naturels"
  },
  {
+  "id": "geo_f_3-005",
   "q": "Quel célèbre fjord néo-zélandais, dominé par le Mitre Peak, se trouve dans le parc national du Fiordland ?",
   "r": "Milford Sound",
   "d": 2,
   "t": "Océanie"
  },
  {
+  "id": "geo_f_3-006",
   "q": "Comment appelle-t-on la danse rituelle maorie que les All Blacks exécutent avant leurs matchs ?",
   "r": "Le haka",
   "d": 1,
   "t": "Peuples et cultures"
  },
  {
+  "id": "geo_f_3-007",
   "q": "Quel peuple polynésien fut le premier à s'installer en Nouvelle-Zélande ?",
   "r": "Les Maoris",
   "d": 1,
   "t": "Peuples et cultures"
  },
  {
+  "id": "geo_f_3-008",
   "q": "Quel archipel mélanésien de plus de 300 îles a pour capitale Suva ?",
   "r": "Les Fidji",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-009",
   "q": "Quel État mélanésien a pour capitale Honiara, sur l'île de Guadalcanal ?",
   "r": "Les îles Salomon",
   "d": 3,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-010",
   "q": "Quelle collectivité française du Pacifique a pour chef-lieu Mata-Utu ?",
   "r": "Wallis-et-Futuna",
   "d": 2,
   "t": "Océanie"
  },
  {
+  "id": "geo_f_3-011",
   "q": "Quelle île de Polynésie française, séparée de Tahiti par un chenal de 17 km, est surnommée « l'île sœur » ?",
   "r": "Moorea",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-012",
   "q": "Quel archipel de Polynésie française, composé presque uniquement d'atolls, compte Rangiroa et Fakarava ?",
   "r": "Les Tuamotu",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-013",
   "q": "Quelle île au sud de la Grande Terre calédonienne est célèbre pour ses araucarias colonnaires et son lagon ?",
   "r": "L'île des Pins",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-014",
   "q": "Sur quelle île de l'archipel d'Hawaï se trouvent Honolulu et Pearl Harbor ?",
   "r": "Oahu",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-015",
   "q": "Sur quelle île du Pacifique sud se sont réfugiés les mutins du Bounty en 1790 ?",
   "r": "Pitcairn",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-016",
   "q": "Quelle île, la deuxième plus grande du monde, est partagée entre l'Indonésie et l'État dont la capitale est Port Moresby ?",
   "r": "La Nouvelle-Guinée",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-017",
   "q": "Comment s'appelle le territoire de l'Antarctique revendiqué par la France ?",
   "r": "La Terre Adélie",
   "d": 2,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-018",
   "q": "Quel archipel subantarctique français comprend l'île de la Possession ?",
   "r": "Les îles Crozet",
   "d": 3,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-019",
   "q": "Quel manchot, le plus grand de tous, couve son œuf en plein hiver antarctique ?",
   "r": "Le manchot empereur",
   "d": 1,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-020",
   "q": "Dans quelle mer de l'Antarctique l'Endurance, le navire d'Ernest Shackleton, fut-il broyé par les glaces en 1915 ?",
   "r": "La mer de Weddell",
   "d": 3,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-021",
   "q": "Sur quelle île subantarctique l'explorateur Ernest Shackleton est-il enterré ?",
   "r": "La Géorgie du Sud",
   "d": 3,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-022",
   "q": "Quel explorateur norvégien se laissa volontairement dériver dans les glaces arctiques à bord du Fram, de 1893 à 1896 ?",
   "r": "Fridtjof Nansen",
   "d": 3,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-023",
   "q": "Quelle ville est la capitale du Groenland ?",
   "r": "Nuuk",
   "d": 2,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-024",
   "q": "Quelle route maritime longe les côtes arctiques de la Russie pour relier l'Atlantique au Pacifique ?",
   "r": "Le passage du Nord-Est",
   "d": 2,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-025",
   "q": "Quelle proportion approximative d'un iceberg reste cachée sous la surface de l'eau ?",
   "r": "Environ 90 %",
   "d": 1,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-026",
   "q": "Comment appelle-t-on la période durant laquelle le soleil ne se lève pas pendant plusieurs jours, voire des mois, aux hautes latitudes ?",
   "r": "La nuit polaire",
   "d": 1,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-027",
   "q": "Quel cercle de latitude, à environ 66° 33' sud, marque la limite de la zone polaire australe ?",
   "r": "Le cercle polaire antarctique",
   "d": 1,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-028",
   "q": "Comment appelle-t-on l'abri en blocs de neige construit traditionnellement par les Inuits ?",
   "r": "L'igloo",
   "d": 1,
   "t": "Peuples et cultures"
  },
  {
+  "id": "geo_f_3-029",
   "q": "Quelle embarcation inuite à une place, à l'origine recouverte de peau de phoque, a donné son nom à un sport olympique ?",
   "r": "Le kayak",
   "d": 1,
   "t": "Peuples et cultures"
  },
  {
+  "id": "geo_f_3-030",
   "q": "Quel peuple autochtone de la péninsule de Yamal, en Sibérie, vit de l'élevage nomade du renne ?",
   "r": "Les Nénètses",
   "d": 3,
   "t": "Peuples et cultures"
  },
  {
+  "id": "geo_f_3-031",
   "q": "Quelle île indonésienne, voisine de Bali à l'est, est dominée par le volcan Rinjani ?",
   "r": "Lombok",
   "d": 3,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-032",
   "q": "Comment appelle-t-on les immenses calottes de glace qui recouvrent le Groenland et l'Antarctique ?",
   "r": "Un inlandsis",
   "d": 2,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-033",
   "q": "Quel est le deuxième plus vaste océan du monde ?",
   "r": "L'océan Atlantique",
   "d": 1,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-034",
   "q": "Quel océan baigne à la fois Madagascar, l'Inde et l'ouest de l'Australie ?",
   "r": "L'océan Indien",
   "d": 1,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-035",
   "q": "Quelle île est traversée à l'air libre par la dorsale médio-atlantique ?",
   "r": "L'Islande",
   "d": 1,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-036",
   "q": "Quelle fosse est la plus profonde de l'océan Atlantique ?",
   "r": "La fosse de Porto Rico",
   "d": 3,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-037",
   "q": "Quel courant marin chaud du Pacifique longe les côtes sud et est du Japon ?",
   "r": "Le Kuroshio",
   "d": 3,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-038",
   "q": "Quel courant marin, le plus puissant du monde, fait le tour du continent austral d'ouest en est ?",
   "r": "Le courant circumpolaire antarctique",
   "d": 2,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-039",
   "q": "Quel golfe du nord de l'Australie est bordé à l'est par la péninsule du cap York ?",
   "r": "Le golfe de Carpentarie",
   "d": 3,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-040",
   "q": "Quelle mer de l'océan Indien s'étend entre la péninsule Arabique et l'Inde ?",
   "r": "La mer d'Arabie",
   "d": 2,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-041",
   "q": "Dans quel golfe se jettent le Gange et le Brahmapoutre ?",
   "r": "Le golfe du Bengale",
   "d": 1,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-042",
   "q": "Quelle mer, au sud du détroit du même nom, sépare l'Alaska de la Sibérie ?",
   "r": "La mer de Béring",
   "d": 1,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-043",
   "q": "Quelle mer est bordée par le Kamtchatka, l'île de Sakhaline et les îles Kouriles ?",
   "r": "La mer d'Okhotsk",
   "d": 3,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-044",
   "q": "Quel nom tiré de Jules Verne donne-t-on au point des océans le plus éloigné de toute terre, dans le Pacifique sud ?",
   "r": "Le point Nemo",
   "d": 2,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-045",
   "q": "Quel navigateur a baptisé l'océan Pacifique lors de son voyage autour du monde en 1520 ?",
   "r": "Fernand de Magellan",
   "d": 1,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-046",
   "q": "Comment les marins appellent-ils les vents d'ouest violents qui soufflent vers 40° de latitude sud ?",
   "r": "Les quarantièmes rugissants",
   "d": 2,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-047",
   "q": "Comment appelle-t-on les marées de grande amplitude qui se produisent lors de la pleine et de la nouvelle lune ?",
   "r": "Les marées de vives-eaux",
   "d": 2,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-048",
   "q": "Comment appelle-t-on la partie du littoral alternativement couverte et découverte par la marée ?",
   "r": "L'estran",
   "d": 2,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-049",
   "q": "Comment appelle-t-on la remontée d'eaux froides et profondes le long des côtes, source de richesse en poissons ?",
   "r": "L'upwelling",
   "d": 3,
   "t": "Océans et mers"
  },
  {
+  "id": "geo_f_3-050",
   "q": "Quel archipel britannique de l'Atlantique nord a pour capitale Hamilton ?",
   "r": "Les Bermudes",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-051",
   "q": "Quel archipel portugais du milieu de l'Atlantique a donné son nom à un célèbre anticyclone ?",
   "r": "Les Açores",
   "d": 1,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-052",
   "q": "Quel archipel russe de l'océan Arctique porte le nom d'un empereur d'Autriche ?",
   "r": "La Terre François-Joseph",
   "d": 3,
   "t": "Pôles"
  },
  {
+  "id": "geo_f_3-053",
   "q": "Sur quelle île de l'Atlantique sud Napoléon a-t-il fini ses jours en exil ?",
   "r": "Sainte-Hélène",
   "d": 1,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-054",
   "q": "Quel archipel britannique de l'Atlantique sud est souvent présenté comme l'archipel habité le plus isolé du monde ?",
   "r": "Tristan da Cunha",
   "d": 3,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-055",
   "q": "Quelle île, la plus grande de l'archipel arctique canadien, est aussi la cinquième plus grande île du monde ?",
   "r": "L'île de Baffin",
   "d": 2,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-056",
   "q": "Quelle grande île québécoise du golfe du Saint-Laurent fut achetée en 1895 par le chocolatier Henri Menier ?",
   "r": "Anticosti",
   "d": 3,
   "t": "Îles et archipels"
  },
  {
+  "id": "geo_f_3-057",
   "q": "Comment appelle-t-on l'embouchure évasée d'un fleuve où pénètre la marée ?",
   "r": "Un estuaire",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-058",
   "q": "Comment appelle-t-on la courbe sinueuse décrite par un cours d'eau ?",
   "r": "Un méandre",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-059",
   "q": "Comment appelle-t-on le lieu où deux cours d'eau se rejoignent ?",
   "r": "Un confluent (une confluence)",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-060",
   "q": "Comment appelle-t-on un cours d'eau qui se jette dans un autre cours d'eau ?",
   "r": "Un affluent",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-061",
   "q": "En géographie française, comment appelle-t-on un cours d'eau qui se jette directement dans la mer ?",
   "r": "Un fleuve",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-062",
   "q": "Comment appelle-t-on la limite séparant deux bassins versants ?",
   "r": "La ligne de partage des eaux",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-063",
   "q": "Comment appelle-t-on le niveau le plus bas atteint par un cours d'eau ?",
   "r": "L'étiage",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-064",
   "q": "Comment appelle-t-on la ligne qui relie les points les plus bas du fond d'une vallée ?",
   "r": "Le talweg",
   "d": 3,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-065",
   "q": "Comment appelle-t-on un cordon de sable reliant une île au continent, comme à la presqu'île de Giens ?",
   "r": "Un tombolo",
   "d": 3,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-066",
   "q": "Comment appelle-t-on une étroite bande de terre reliant deux terres et séparant deux mers ?",
   "r": "Un isthme",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-067",
   "q": "Comment appelle-t-on un ensemble d'îles proches les unes des autres ?",
   "r": "Un archipel",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-068",
   "q": "Comment appelle-t-on une étendue d'eau salée séparée de la mer par un cordon littoral ?",
   "r": "Une lagune",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-069",
   "q": "Comment appelle-t-on un lieu du désert rendu fertile par la présence d'eau ?",
   "r": "Une oasis",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-070",
   "q": "Comment appelle-t-on, au Sahara, une vaste étendue de dunes de sable ?",
   "r": "Un erg",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-071",
   "q": "Comment appelle-t-on en Afrique du Nord un cours d'eau temporaire, souvent à sec ?",
   "r": "Un oued",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-072",
   "q": "Comment appelle-t-on le point de passage le plus bas entre deux sommets, permettant de franchir une montagne ?",
   "r": "Un col",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-073",
   "q": "Comment appelle-t-on l'accumulation de débris rocheux transportés et déposés par un glacier ?",
   "r": "Une moraine",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-074",
   "q": "Comment appelle-t-on une source d'eau chaude qui jaillit périodiquement en colonne ?",
   "r": "Un geyser",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-075",
   "q": "Comment appelle-t-on la forêt de palétuviers qui pousse sur les littoraux tropicaux ?",
   "r": "La mangrove",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-076",
   "q": "Comment appelle-t-on le paysage de champs entourés de haies, typique de l'Ouest de la France ?",
   "r": "Le bocage",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-077",
   "q": "Comment appelle-t-on le paysage de grands champs ouverts sans haies, typique du Bassin parisien ?",
   "r": "L'openfield",
   "d": 3,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-078",
   "q": "Comment appelle-t-on, en montagne, le versant exposé au soleil ?",
   "r": "L'adret",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-079",
   "q": "Comment appelle-t-on la réapparition à l'air libre d'une rivière souterraine en région calcaire ?",
   "r": "Une résurgence",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-080",
   "q": "Comment appelle-t-on un gouffre naturel vertical des régions calcaires, comme celui d'Orgnac ?",
   "r": "Un aven",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-081",
   "q": "Comment appelle-t-on en Bretagne une vallée envahie par la mer, comme celle de Wrac'h ?",
   "r": "Un aber",
   "d": 2,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-082",
   "q": "Quel terme d'origine galicienne désigne une vallée fluviale envahie par la mer ?",
   "r": "Une ria",
   "d": 3,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-083",
   "q": "Comment appelle-t-on un relief dissymétrique formé d'un front abrupt et d'un revers en pente douce ?",
   "r": "Une cuesta",
   "d": 3,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-084",
   "q": "Comment appelle-t-on la formation herbeuse des régions semi-arides d'Asie centrale ?",
   "r": "La steppe",
   "d": 1,
   "t": "Vocabulaire géographique"
  },
  {
+  "id": "geo_f_3-085",
   "q": "Comment appelle-t-on la végétation basse et clairsemée des sols calcaires méditerranéens, riche en thym et en romarin ?",
   "r": "La garrigue",
   "d": 2,

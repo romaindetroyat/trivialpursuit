@@ -1,509 +1,594 @@
 [
  {
+  "id": "spo_e_4-001",
   "q": "Combien de points de pénalité coûte une barre renversée en saut d'obstacles ?",
   "r": "4 points",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-002",
   "q": "Quel mouvement de dressage consiste en un trot sur place très cadencé ?",
   "r": "Le piaffer",
   "d": 3,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-003",
   "q": "Quel corps d'écuyers de l'École nationale d'équitation de Saumur doit son nom à la couleur de son uniforme ?",
   "r": "Le Cadre noir",
   "d": 1,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-004",
   "q": "Quelle institution viennoise est célèbre pour ses chevaux lipizzans ?",
   "r": "L'École espagnole d'équitation",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-005",
   "q": "Quelle course de galop se dispute chaque premier samedi de mai à Louisville ?",
   "r": "Le Kentucky Derby",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-006",
   "q": "Au trot, comment appelle-t-on la course où le jockey est sur le dos du cheval, par opposition à l'attelé ?",
   "r": "Le trot monté",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-007",
   "q": "Comment appelle-t-on la voiture légère à deux roues tirée par un trotteur en course ?",
   "r": "Le sulky",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-008",
   "q": "Comment appelle-t-on le conducteur d'un trotteur lors d'une course attelée ?",
   "r": "Le driver",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-009",
   "q": "Quel trotteur, surnommé « le Roi fainéant », a remporté quatre fois le Prix d'Amérique entre 1986 et 1990 ?",
   "r": "Ourasi",
   "d": 2,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-010",
   "q": "Quel sport équestre collectif, né en France, se joue avec un ballon muni de poignées en cuir ?",
   "r": "Le horse-ball",
   "d": 1,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-011",
   "q": "Comment appelle-t-on la façon de monter à cheval avec les deux jambes du même côté ?",
   "r": "En amazone",
   "d": 1,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-012",
   "q": "Quelle course de chevaux se dispute deux fois l'été sur la Piazza del Campo de Sienne ?",
   "r": "Le Palio",
   "d": 1,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-013",
   "q": "Quel écuyer a fondé le théâtre équestre Zingaro ?",
   "r": "Bartabas",
   "d": 1,
   "t": "Équitation et hippisme"
  },
  {
+  "id": "spo_e_4-014",
   "q": "Comment appelle-t-on l'escalade de rochers peu élevés, sans corde, au-dessus d'un tapis de réception ?",
   "r": "Le bloc",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-015",
   "q": "Quelle forêt d'Île-de-France est un haut lieu mondial de l'escalade de blocs ?",
   "r": "Fontainebleau",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-016",
   "q": "Quelles trois disciplines composaient le combiné d'escalade des JO de Tokyo 2021 ?",
   "r": "Vitesse, bloc et difficulté",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-017",
   "q": "Comment appelle-t-on l'escalade pratiquée seul, sans corde ni aucune protection ?",
   "r": "Le solo intégral",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-018",
   "q": "Quel grimpeur américain a gravi El Capitan en solo intégral en 2017 ?",
   "r": "Alex Honnold",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-019",
   "q": "Quel grimpeur français, surnommé « Spider-Man », escalade les gratte-ciel à mains nues ?",
   "r": "Alain Robert",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-020",
   "q": "Quel grimpeur français a été rendu célèbre par le film « La Vie au bout des doigts » en 1982 ?",
   "r": "Patrick Edlinger",
   "d": 3,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-021",
   "q": "Quel grimpeur tchèque a réalisé en 2017 « Silence », la première voie cotée 9c ?",
   "r": "Adam Ondra",
   "d": 3,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-022",
   "q": "Quel alpiniste italien du Tyrol du Sud a été le premier à gravir les quatorze sommets de plus de 8 000 m ?",
   "r": "Reinhold Messner",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-023",
   "q": "Qui a réussi avec le sherpa Tenzing Norgay la première ascension de l'Everest, en 1953 ?",
   "r": "Edmund Hillary",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-024",
   "q": "Quel sommet de l'Himalaya, gravi en 1950 par Maurice Herzog et Louis Lachenal, fut le premier « 8 000 » conquis ?",
   "r": "L'Annapurna",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-025",
   "q": "Quels Chamoniards ont réussi la première ascension du mont Blanc, en 1786 ?",
   "r": "Jacques Balmat et Michel Paccard",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-026",
   "q": "Quel savant genevois, qui avait promis une récompense au premier vainqueur, gravit le mont Blanc en 1787 ?",
   "r": "Horace-Bénédict de Saussure",
   "d": 3,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-027",
   "q": "Quel sommet suisse possède la face nord surnommée « Mordwand » (le mur meurtrier), vaincue en 1938 ?",
   "r": "L'Eiger",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-028",
   "q": "Quel sommet des Alpes, conquis en 1865 par Edward Whymper, a vu quatre membres de la cordée mourir à la descente ?",
   "r": "Le Cervin",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-029",
   "q": "Quel alpiniste britannique a disparu en 1924 près du sommet de l'Everest avec Andrew Irvine ?",
   "r": "George Mallory",
   "d": 2,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-030",
   "q": "Quelle Japonaise est devenue en 1975 la première femme à atteindre le sommet de l'Everest ?",
   "r": "Junko Tabei",
   "d": 3,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-031",
   "q": "Quelle alpiniste française a été la première femme à gravir en solitaire et en hiver les faces nord de l'Eiger, des Grandes Jorasses et du Cervin ?",
   "r": "Catherine Destivelle",
   "d": 3,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-032",
   "q": "Quelle ceinture de sangles le grimpeur porte-t-il pour s'encorder ?",
   "r": "Le baudrier",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-033",
   "q": "Quel anneau métallique à doigt d'ouverture relie la corde aux points d'ancrage ?",
   "r": "Le mousqueton",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-034",
   "q": "Comment appelle-t-on l'alpiniste qui progresse en tête d'une cordée ?",
   "r": "Le premier de cordée",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-035",
   "q": "Quelles pointes métalliques fixe-t-on sous les chaussures pour progresser sur la glace ?",
   "r": "Les crampons",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-036",
   "q": "Quel outil de l'alpiniste, à la fois pic et canne, permet de s'ancrer dans la glace ?",
   "r": "Le piolet",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-037",
   "q": "Comment surnomme-t-on l'altitude au-dessus de 8 000 m, où l'organisme ne peut survivre longtemps ?",
   "r": "La zone de la mort",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-038",
   "q": "Comment appelle-t-on un itinéraire rocheux équipé de câbles, d'échelons et de passerelles ?",
   "r": "Une via ferrata",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-039",
   "q": "Comment appelle-t-on la technique de descente le long d'une corde à l'aide d'un descendeur ?",
   "r": "Le rappel",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-040",
   "q": "Quelle activité consiste à descendre des gorges encaissées en sautant, nageant et descendant en rappel ?",
   "r": "Le canyoning",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-041",
   "q": "Comment appelle-t-on l'exploration des grottes et des gouffres ?",
   "r": "La spéléologie",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-042",
   "q": "Quel spéléologue français a vécu deux mois sous terre sans aucun repère de temps en 1962 ?",
   "r": "Michel Siffre",
   "d": 3,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-043",
   "q": "Comment appelle-t-on le bâtiment d'altitude où les alpinistes dorment avant une ascension ?",
   "r": "Le refuge",
   "d": 1,
   "t": "Escalade et montagne"
  },
  {
+  "id": "spo_e_4-044",
   "q": "Quel parachutiste autrichien a sauté depuis la stratosphère, à près de 39 km d'altitude, en 2012 ?",
   "r": "Felix Baumgartner",
   "d": 1,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-045",
   "q": "Quel skateur américain a réussi le premier « 900 », deux tours et demi en l'air, en 1999 ?",
   "r": "Tony Hawk",
   "d": 1,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-046",
   "q": "Quelle figure de base du skateboard consiste à faire décoller la planche en claquant son arrière au sol avec le pied ?",
   "r": "Le ollie",
   "d": 2,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-047",
   "q": "Quelles compétitions de sports extrêmes ont été créées par la chaîne ESPN en 1995 ?",
   "r": "Les X Games",
   "d": 1,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-048",
   "q": "Quel petit vélo à une vitesse est utilisé pour les courses sur piste à bosses, olympiques depuis 2008 ?",
   "r": "Le BMX",
   "d": 1,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-049",
   "q": "Sur quelle île du Vanuatu le saut rituel du Gol a-t-il inspiré le saut à l'élastique ?",
   "r": "L'île de Pentecôte",
   "d": 3,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-050",
   "q": "Quel engin de vol libre, sans structure rigide, se gonfle comme une voile avant le décollage d'une pente ?",
   "r": "Le parapente",
   "d": 1,
   "t": "Sports extrêmes et de glisse"
  },
  {
+  "id": "spo_e_4-051",
   "q": "Comment appelle-t-on l'arc équipé de poulies et de câbles qui réduisent l'effort à pleine allonge ?",
   "r": "L'arc à poulies",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-052",
   "q": "Quel héros légendaire suisse dut tirer une flèche sur une pomme posée sur la tête de son fils ?",
   "r": "Guillaume Tell",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-053",
   "q": "Comment appelle-t-on le tir à l'arc traditionnel japonais ?",
   "r": "Le kyudo",
   "d": 2,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-054",
   "q": "Quel triathlon longue distance enchaîne 3,8 km de natation, 180 km de vélo et un marathon ?",
   "r": "L'Ironman",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-055",
   "q": "Dans quel archipel se dispute traditionnellement le championnat du monde d'Ironman, à Kona ?",
   "r": "Hawaï",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-056",
   "q": "Quel sport de nature consiste à trouver des balises à l'aide d'une carte et d'une boussole ?",
   "r": "La course d'orientation",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-057",
   "q": "Quelle épreuve de cyclisme sur piste, d'origine japonaise, fait suivre aux coureurs un derny avant le sprint final ?",
   "r": "Le keirin",
   "d": 2,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-058",
   "q": "Comment appelle-t-on le défi qui consiste à parcourir la plus grande distance possible à vélo en 60 minutes ?",
   "r": "Le record de l'heure",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-059",
   "q": "Quel Français a été champion olympique de VTT cross-country en 2004 et en 2008 ?",
   "r": "Julien Absalon",
   "d": 3,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-060",
   "q": "Quelle cycliste française a remporté la course sur route des JO d'Atlanta 1996 ?",
   "r": "Jeannie Longo",
   "d": 1,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-061",
   "q": "Quelle pistarde française a été championne olympique de vitesse en 1996 et en 2000 ?",
   "r": "Félicia Ballanger",
   "d": 3,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-062",
   "q": "Quel pongiste est devenu en 1993 le premier Français champion du monde de tennis de table en simple ?",
   "r": "Jean-Philippe Gatien",
   "d": 2,
   "t": "Autres sports olympiques"
  },
  {
+  "id": "spo_e_4-063",
   "q": "Comment appelle-t-on la petite boule de bois qui sert de but à la pétanque ?",
   "r": "Le cochonnet",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-064",
   "q": "À la pétanque, comment appelle-t-on le joueur chargé d'approcher ses boules du but ?",
   "r": "Le pointeur",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-065",
   "q": "À la pétanque, comment appelle-t-on le tir qui chasse la boule adverse en prenant exactement sa place ?",
   "r": "Un carreau",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-066",
   "q": "Comment appelle-t-on à la pétanque le lancer en cloche très haut qui retombe presque sans rouler ?",
   "r": "La plombée",
   "d": 3,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-067",
   "q": "Quel jeu provençal, ancêtre de la pétanque, se joue avec élan sur un terrain d'une vingtaine de mètres ?",
   "r": "La longue (jeu provençal)",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-068",
   "q": "Quel sport de boules, codifié à Lyon, comprend une épreuve de tir « progressif » en courant ?",
   "r": "La boule lyonnaise",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-069",
   "q": "Quel grand concours de pétanque se dispute chaque été dans le parc Borély, à Marseille ?",
   "r": "Le Mondial La Marseillaise",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-070",
   "q": "Comment appelle-t-on le gant en osier recourbé utilisé à la pelote basque ?",
   "r": "Le chistera",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-071",
   "q": "Comment appelle-t-on le mur contre lequel on joue à la pelote basque en plein air ?",
   "r": "Le fronton",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-072",
   "q": "Quelle raquette en bois plein, plus épaisse qu'une raquette de tennis, utilise-t-on à la pelote basque ?",
   "r": "La pala",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-073",
   "q": "Comment appelle-t-on la salle couverte fermée de quatre murs où l'on joue à la pelote ?",
   "r": "Le trinquet",
   "d": 3,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-074",
   "q": "Quelles épreuves traditionnelles du Pays basque réunissent tir à la corde, lever de pierre et scieurs de bois ?",
   "r": "La force basque",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-075",
   "q": "Dans quelle ville de l'Hérault les joutes nautiques sont-elles l'attraction de la fête de la Saint-Louis ?",
   "r": "Sète",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-076",
   "q": "Quel jeu de balle, pratiqué surtout dans l'Hérault, se joue avec un instrument circulaire tendu de peau ?",
   "r": "Le tambourin",
   "d": 3,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-077",
   "q": "Quel jeu de balle, ancêtre du tennis, a laissé son nom à une salle de Versailles célèbre pour un serment de 1789 ?",
   "r": "Le jeu de paume",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-078",
   "q": "Dans quel département les quilles de huit, avec leurs lourdes boules en noyer, sont-elles le sport traditionnel phare ?",
   "r": "L'Aveyron",
   "d": 3,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-079",
   "q": "Quel jeu de balle collectif médiéval, pratiqué en Normandie et en Bretagne, est considéré comme un ancêtre du rugby ?",
   "r": "La soule",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-080",
   "q": "Comment appelle-t-on les hommes en blanc qui tentent d'arracher les attributs fixés sur les cornes du taureau dans la course camarguaise ?",
   "r": "Les raseteurs",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-081",
   "q": "Dans la course landaise, comment appelle-t-on l'homme qui esquive la vache par un pas de côté ?",
   "r": "L'écarteur",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-082",
   "q": "Quelle épreuve des jeux écossais consiste à faire basculer un tronc d'arbre en le lançant ?",
   "r": "Le lancer de tronc (caber)",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-083",
   "q": "Dans quel pays la lutte à l'huile, dont le tournoi de Kırkpınar est le plus célèbre, est-elle un sport national ?",
   "r": "La Turquie",
   "d": 2,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-084",
   "q": "Quel jeu finlandais consiste à renverser des quilles numérotées avec un bâton de bois ?",
   "r": "Le Mölkky",
   "d": 1,
   "t": "Sports traditionnels et régionaux"
  },
  {
+  "id": "spo_e_4-085",
   "q": "Quel jeu de billard, sans poches, se joue avec trois billes ?",
   "r": "Le billard français (carambole)",
   "d": 1,

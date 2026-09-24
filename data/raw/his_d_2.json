@@ -1,509 +1,594 @@
 [
  {
+  "id": "his_d_2-001",
   "q": "Quel animal servait de signe de reconnaissance aux premiers chrétiens ?",
   "r": "Le poisson",
   "d": 1,
   "t": "Religions"
  },
  {
+  "id": "his_d_2-002",
   "q": "Quelle abbesse rhénane du XIIe siècle fut à la fois mystique, compositrice et naturaliste ?",
   "r": "Hildegarde de Bingen",
   "d": 2,
   "t": "Personnages médiévaux"
  },
  {
+  "id": "his_d_2-003",
   "q": "Comment s'appelait la place publique centrale d'une ville romaine ?",
   "r": "Le forum",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-004",
   "q": "Quelle rivière de Lydie, qui charriait des paillettes d'or, a donné un nom commun désignant une source de profit ?",
   "r": "Le Pactole",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-005",
   "q": "Dans quelle cité sumérienne sont apparues, vers 3300 av. J.-C., les plus anciennes tablettes d'écriture connues ?",
   "r": "Uruk",
   "d": 3,
   "t": "Mésopotamie"
  },
  {
+  "id": "his_d_2-006",
   "q": "Quelle tour communale, symbole des libertés urbaines, abritait les cloches de la ville dans le nord de la France et en Flandre ?",
   "r": "Le beffroi",
   "d": 1,
   "t": "Villes médiévales"
  },
  {
+  "id": "his_d_2-007",
   "q": "Quel métal a donné son nom au Chalcolithique, période où l'on commença à le travailler ?",
   "r": "Le cuivre",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_2-008",
   "q": "Quel comte de Paris défendit la ville contre les Vikings en 885-886 avant de devenir roi ?",
   "r": "Eudes",
   "d": 3,
   "t": "Vikings"
  },
  {
+  "id": "his_d_2-009",
   "q": "Quel pont mobile permettait de franchir les douves d'un château fort ?",
   "r": "Le pont-levis",
   "d": 1,
   "t": "Châteaux forts"
  },
  {
+  "id": "his_d_2-010",
   "q": "Quel sacrifice grec de cent bœufs a donné un mot synonyme de massacre ?",
   "r": "L'hécatombe",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-011",
   "q": "Quel évêque du VIe siècle, auteur de l'Histoire des Francs, est la principale source sur Clovis ?",
   "r": "Grégoire de Tours",
   "d": 2,
   "t": "Mérovingiens"
  },
  {
+  "id": "his_d_2-012",
   "q": "Quel médecin grec né à Pergame fut le médecin de Marc Aurèle et fit autorité jusqu'à la Renaissance ?",
   "r": "Galien",
   "d": 2,
   "t": "Sciences antiques"
  },
  {
+  "id": "his_d_2-013",
   "q": "Sur quelle colline de Rome se dressait le temple de Jupiter Capitolin ?",
   "r": "Le Capitole",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-014",
   "q": "Quel dernier émir de Grenade remit sa ville aux Rois catholiques en janvier 1492 ?",
   "r": "Boabdil",
   "d": 2,
   "t": "Al-Andalus"
  },
  {
+  "id": "his_d_2-015",
   "q": "Quelle dynastie franque doit son nom à Charles Martel et à Charlemagne ?",
   "r": "Les Carolingiens",
   "d": 1,
   "t": "Dynasties"
  },
  {
+  "id": "his_d_2-016",
   "q": "Comment appelait-on les chaussures à bout très long et pointu, à la mode aux XIVe et XVe siècles ?",
   "r": "Les poulaines",
   "d": 2,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_2-017",
   "q": "Quel récipient en bois cerclé, pour conserver et transporter le vin, attribue-t-on aux Gaulois ?",
   "r": "Le tonneau",
   "d": 1,
   "t": "Gaule antique"
  },
  {
+  "id": "his_d_2-018",
   "q": "Quel lieutenant de Jules César devint l'amant de Cléopâtre ?",
   "r": "Marc Antoine",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-019",
   "q": "Quel signal du soir, ordonnant de couvrir les feux pour éviter les incendies, a donné un mot moderne ?",
   "r": "Le couvre-feu",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_2-020",
   "q": "Comment appelait-on l'ensemble des trois arts libéraux : grammaire, rhétorique et dialectique ?",
   "r": "Le trivium",
   "d": 2,
   "t": "Savoirs médiévaux"
  },
  {
+  "id": "his_d_2-021",
   "q": "Quelle association de villes marchandes, dominée par Lübeck, contrôla le commerce de la Baltique ?",
   "r": "La Hanse",
   "d": 2,
   "t": "Commerce médiéval"
  },
  {
+  "id": "his_d_2-022",
   "q": "Quelle plante, qu'un comte d'Anjou aurait portée à son chapeau, a donné son nom à la dynastie Plantagenêt ?",
   "r": "Le genêt",
   "d": 2,
   "t": "Dynasties"
  },
  {
+  "id": "his_d_2-023",
   "q": "Quel roi perse fit fouetter la mer de l'Hellespont après qu'une tempête eut détruit son pont de bateaux ?",
   "r": "Xerxès Ier",
   "d": 2,
   "t": "Perse antique"
  },
  {
+  "id": "his_d_2-024",
   "q": "Quelle ville a donné son nom à l'exclamation « C'est ... ! », qui évoque un grand luxe ?",
   "r": "Byzance",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-025",
   "q": "Comment s'appelait le poteau où l'on exposait les condamnés à la vue de la foule ?",
   "r": "Le pilori",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_2-026",
   "q": "Quelle ville des steppes fut la capitale de l'Empire mongol au XIIIe siècle ?",
   "r": "Karakorum",
   "d": 2,
   "t": "Mongols"
  },
  {
+  "id": "his_d_2-027",
   "q": "Quel général romain aurait résumé une victoire éclair à Zéla, en 47 av. J.-C., par « Veni, vidi, vici » ?",
   "r": "Jules César",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-028",
   "q": "Quel peuple germanique a donné son nom à la Bourgogne ?",
   "r": "Les Burgondes",
   "d": 1,
   "t": "Haut Moyen Âge"
  },
  {
+  "id": "his_d_2-029",
   "q": "Quel Viking, père de Leif Erikson, fonda les premiers établissements scandinaves au Groenland ?",
   "r": "Erik le Rouge",
   "d": 2,
   "t": "Vikings"
  },
  {
+  "id": "his_d_2-030",
   "q": "Quels soldats d'origine servile, maîtres de l'Égypte, arrêtèrent les Mongols à Aïn Djalout en 1260 ?",
   "r": "Les Mamelouks",
   "d": 2,
   "t": "Batailles médiévales"
  },
  {
+  "id": "his_d_2-031",
   "q": "Quel cardinal Louis XI fit-il enfermer, selon la tradition, dans une cage de fer ?",
   "r": "Jean Balue",
   "d": 3,
   "t": "Personnages médiévaux"
  },
  {
+  "id": "his_d_2-032",
   "q": "Comment appelait-on le jeune noble au service d'un chevalier avant d'être lui-même adoubé ?",
   "r": "L'écuyer",
   "d": 1,
   "t": "Chevalerie"
  },
  {
+  "id": "his_d_2-033",
   "q": "De quelle île venaient les Bretons qui s'installèrent en Armorique aux Ve et VIe siècles ?",
   "r": "La Grande-Bretagne",
   "d": 2,
   "t": "Haut Moyen Âge"
  },
  {
+  "id": "his_d_2-034",
   "q": "Selon l'étymologie traditionnelle, quelle denrée est à l'origine du mot « salaire » ?",
   "r": "Le sel",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-035",
   "q": "Comment appelle-t-on les récits en prose de l'Islande médiévale racontant la vie des héros et des familles ?",
   "r": "Les sagas",
   "d": 1,
   "t": "Vikings"
  },
  {
+  "id": "his_d_2-036",
   "q": "Quel calendrier, instauré par Jules César, a précédé le calendrier grégorien ?",
   "r": "Le calendrier julien",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-037",
   "q": "De quelle région, dont Sparte était la capitale, vient l'adjectif « laconique » ?",
   "r": "La Laconie",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-038",
   "q": "Quelle grotte de Cantabrie, dont les peintures furent découvertes en 1879, est célèbre pour son plafond couvert de bisons polychromes ?",
   "r": "Altamira",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_2-039",
   "q": "Dans quel pays africain a été découvert en 2001 le crâne de l'hominidé surnommé Toumaï ?",
   "r": "Le Tchad",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_2-040",
   "q": "Quel impôt royal direct, devenu permanent sous Charles VII, pesait sur les roturiers ?",
   "r": "La taille",
   "d": 2,
   "t": "Féodalité"
  },
  {
+  "id": "his_d_2-041",
   "q": "Quel conquérant macédonien trancha d'un coup d'épée le nœud gordien ?",
   "r": "Alexandre le Grand",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_2-042",
   "q": "Quel instrument de filage figure dans l'adage selon lequel le royaume de France ne pouvait échoir à une femme ?",
   "r": "La quenouille",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-043",
   "q": "Comment appelle-t-on l'anneau ovale qui entoure le nom d'un pharaon dans les hiéroglyphes ?",
   "r": "Le cartouche",
   "d": 2,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_d_2-044",
   "q": "Quelle reine franque, rivale de Frédégonde, fut suppliciée en 613 attachée à la queue d'un cheval ?",
   "r": "Brunehaut",
   "d": 3,
   "t": "Mérovingiens"
  },
  {
+  "id": "his_d_2-045",
   "q": "Comment appelait-on le four seigneurial que les paysans devaient utiliser moyennant redevance ?",
   "r": "Le four banal",
   "d": 2,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_2-046",
   "q": "Comment appelait-on les musulmans dans l'Occident médiéval ?",
   "r": "Les Sarrasins",
   "d": 1,
   "t": "Croisades"
  },
  {
+  "id": "his_d_2-047",
   "q": "Quel gouverneur romain de Judée est à l'origine de l'expression « s'en laver les mains » ?",
   "r": "Ponce Pilate",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-048",
   "q": "Comment appelle-t-on les bains publics romains ?",
   "r": "Les thermes",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_2-049",
   "q": "Quelle favorite de Charles VII fut la première maîtresse royale officielle ?",
   "r": "Agnès Sorel",
   "d": 2,
   "t": "Personnages médiévaux"
  },
  {
+  "id": "his_d_2-050",
   "q": "Quel village de l'Aveyron, étape vers Compostelle, conserve la statue-reliquaire en or de sainte Foy ?",
   "r": "Conques",
   "d": 3,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_2-051",
   "q": "Quel recueil de formules funéraires accompagnait les défunts égyptiens dans l'au-delà ?",
   "r": "Le Livre des morts",
   "d": 1,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_d_2-052",
   "q": "Quelle expression, évoquant la pompe des processions religieuses, signifie qu'une chose est très difficile à obtenir ?",
   "r": "C'est la croix et la bannière",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-053",
   "q": "Quel législateur athénien abolit vers 594 av. J.-C. l'esclavage pour dettes ?",
   "r": "Solon",
   "d": 2,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_2-054",
   "q": "Quelle assemblée islandaise, fondée en 930, est souvent présentée comme l'un des plus anciens parlements du monde ?",
   "r": "L'Althing",
   "d": 2,
   "t": "Vikings"
  },
  {
+  "id": "his_d_2-055",
   "q": "Quelle devise en ancien français orne l'ordre de la Jarretière fondé par Édouard III ?",
   "r": "Honni soit qui mal y pense",
   "d": 2,
   "t": "Chevalerie"
  },
  {
+  "id": "his_d_2-056",
   "q": "Quel riche notable fut le premier des six bourgeois de Calais à se livrer à Édouard III en 1347 ?",
   "r": "Eustache de Saint-Pierre",
   "d": 3,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_d_2-057",
   "q": "Que signifiait le surnom « le Hutin » donné au roi Louis X ?",
   "r": "Le Querelleur",
   "d": 3,
   "t": "Capétiens"
  },
  {
+  "id": "his_d_2-058",
   "q": "Comment appelle-t-on les conflits qui opposèrent les cités grecques à l'Empire perse au Ve siècle av. J.-C. ?",
   "r": "Les guerres médiques",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_2-059",
   "q": "Quel chancelier du duc de Bourgogne fonda en 1443 les Hospices de Beaune ?",
   "r": "Nicolas Rolin",
   "d": 3,
   "t": "Personnages médiévaux"
  },
  {
+  "id": "his_d_2-060",
   "q": "Quel saint missionnaire du Ve siècle est l'évangélisateur et le patron de l'Irlande ?",
   "r": "Saint Patrick",
   "d": 1,
   "t": "Religions"
  },
  {
+  "id": "his_d_2-061",
   "q": "Comment appelle-t-on les galeries souterraines de Rome où les premiers chrétiens enterraient leurs morts ?",
   "r": "Les catacombes",
   "d": 1,
   "t": "Religions"
  },
  {
+  "id": "his_d_2-062",
   "q": "Qui mena la grande révolte des paysans anglais de 1381 ?",
   "r": "Wat Tyler",
   "d": 3,
   "t": "Révoltes"
  },
  {
+  "id": "his_d_2-063",
   "q": "Dans quel royaume d'Asie Mineure seraient apparues les premières pièces de monnaie, au VIIe siècle av. J.-C. ?",
   "r": "La Lydie",
   "d": 2,
   "t": "Inventions"
  },
  {
+  "id": "his_d_2-064",
   "q": "Quel savant de Milet a donné son nom à un théorème de géométrie sur les droites parallèles ?",
   "r": "Thalès",
   "d": 1,
   "t": "Sciences antiques"
  },
  {
+  "id": "his_d_2-065",
   "q": "Quelle ville d'Italie, célèbre pour ses mosaïques, devint en 402 la capitale de l'Empire romain d'Occident ?",
   "r": "Ravenne",
   "d": 2,
   "t": "Villes antiques"
  },
  {
+  "id": "his_d_2-066",
   "q": "Quel prêtre, spécialiste de l'art pariétal, fut surnommé le « pape de la préhistoire » ?",
   "r": "L'abbé Henri Breuil",
   "d": 3,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_2-067",
   "q": "Quelle bataille de 1071 vit les Turcs seldjoukides vaincre l'armée byzantine en Anatolie ?",
   "r": "Manzikert",
   "d": 3,
   "t": "Batailles médiévales"
  },
  {
+  "id": "his_d_2-068",
   "q": "Quelle commune de Dordogne s'est proclamée « capitale mondiale de la préhistoire » ?",
   "r": "Les Eyzies",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_2-069",
   "q": "Comment appelle-t-on l'année 69, qui vit se succéder Galba, Othon, Vitellius et Vespasien ?",
   "r": "L'année des quatre empereurs",
   "d": 3,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-070",
   "q": "Quel chef des Éburons, héros national belge, se révolta contre César en 54 av. J.-C. ?",
   "r": "Ambiorix",
   "d": 3,
   "t": "Gaule antique"
  },
  {
+  "id": "his_d_2-071",
   "q": "Comment appelait-on les bandes de mercenaires qui ravageaient la France pendant les trêves de la guerre de Cent Ans ?",
   "r": "Les Grandes Compagnies",
   "d": 2,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_d_2-072",
   "q": "Quel souverain inca du XVe siècle transforma Cuzco en capitale d'un vaste empire ?",
   "r": "Pachacutec",
   "d": 3,
   "t": "Amériques précolombiennes"
  },
  {
+  "id": "his_d_2-073",
   "q": "Dans le rituel hébraïque, quel animal, chargé symboliquement des fautes du peuple, était chassé dans le désert ?",
   "r": "Le bouc (émissaire)",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_2-074",
   "q": "Quel homme incendia le temple d'Artémis d'Éphèse en 356 av. J.-C. dans le seul but de devenir célèbre ?",
   "r": "Érostrate",
   "d": 3,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_2-075",
   "q": "Comment s'appelait la salle d'un monastère où les moines copiaient les manuscrits ?",
   "r": "Le scriptorium",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_2-076",
   "q": "Comment appelle-t-on le suicide rituel par éventration des samouraïs ?",
   "r": "Le seppuku (hara-kiri)",
   "d": 1,
   "t": "Japon ancien"
  },
  {
+  "id": "his_d_2-077",
   "q": "Quel poète latin est l'auteur de la formule « Carpe diem » ?",
   "r": "Horace",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_2-078",
   "q": "Quel roi mérovingien, selon la chanson, avait mis sa culotte à l'envers ?",
   "r": "Dagobert",
   "d": 1,
   "t": "Mérovingiens"
  },
  {
+  "id": "his_d_2-079",
   "q": "Quel astronome d'Alexandrie, auteur de l'Almageste, plaçait la Terre au centre de l'univers ?",
   "r": "Claude Ptolémée",
   "d": 2,
   "t": "Sciences antiques"
  },
  {
+  "id": "his_d_2-080",
   "q": "Quel roi indien affronta Alexandre le Grand sur les rives de l'Hydaspe en 326 av. J.-C. ?",
   "r": "Porus",
   "d": 3,
   "t": "Batailles antiques"
  },
  {
+  "id": "his_d_2-081",
   "q": "Quel astronome grec du IIIe siècle av. J.-C. proposa un modèle où la Terre tourne autour du Soleil ?",
   "r": "Aristarque de Samos",
   "d": 3,
   "t": "Sciences antiques"
  },
  {
+  "id": "his_d_2-082",
   "q": "De quel arbre étaient faites les couronnes remises aux vainqueurs des Jeux olympiques antiques ?",
   "r": "L'olivier",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_2-083",
   "q": "Que signifie le nom latin de notre espèce, Homo sapiens ?",
   "r": "Homme sage (ou savant)",
   "d": 1,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_2-084",
   "q": "Quel apôtre se convertit, selon les Actes des Apôtres, sur le chemin de Damas ?",
   "r": "Saint Paul",
   "d": 1,
   "t": "Religions"
  },
  {
+  "id": "his_d_2-085",
   "q": "Quel poète italien, couronné de laurier au Capitole en 1341, est considéré comme le père de l'humanisme ?",
   "r": "Pétrarque",
   "d": 2,

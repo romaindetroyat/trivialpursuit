@@ -1,509 +1,594 @@
 [
  {
+  "id": "div_e_3-001",
   "q": "Que devient le message enregistré après son écoute au début des épisodes de « Mission impossible » ?",
   "r": "Il s'autodétruit",
   "d": 1,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-002",
   "q": "Quel parc de loisirs du bois de Boulogne, inauguré en 1860 par Napoléon III, est le plus ancien de Paris ?",
   "r": "Le Jardin d'acclimatation",
   "d": 2,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_3-003",
   "q": "Quel super-héros aveugle est avocat le jour dans le quartier new-yorkais de Hell's Kitchen ?",
   "r": "Daredevil",
   "d": 2,
   "t": "Comics"
  },
  {
+  "id": "div_e_3-004",
   "q": "Dans quel jeu télévisé les candidats peuvent-ils « acheter une voyelle » pour compléter une expression cachée ?",
   "r": "La Roue de la fortune",
   "d": 1,
   "t": "Jeux télé"
  },
  {
+  "id": "div_e_3-005",
   "q": "Quel clown aux cheveux rouges est la mascotte de McDonald's ?",
   "r": "Ronald McDonald",
   "d": 1,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-006",
   "q": "Comment s'appellent les trois neveux de Donald Duck ?",
   "r": "Riri, Fifi et Loulou",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "div_e_3-007",
   "q": "Quel grand vizir de BD veut « devenir calife à la place du calife » ?",
   "r": "Iznogoud",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-008",
   "q": "Dans quelle ville américaine se déroule la série médicale « Grey's Anatomy » ?",
   "r": "Seattle",
   "d": 2,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-009",
   "q": "Quel trio comique réunit Didier Bourdon, Bernard Campan et Pascal Légitimus ?",
   "r": "Les Inconnus",
   "d": 1,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-010",
   "q": "Dans quel secteur d'activité travaille la famille Forrester d'« Amour, gloire et beauté » ?",
   "r": "La mode",
   "d": 1,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-011",
   "q": "Dans quel département se trouve le Parc Astérix ?",
   "r": "L'Oise",
   "d": 2,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_3-012",
   "q": "De quel terme mathématique désignant 10 puissance 100 le nom de Google est-il dérivé ?",
   "r": "Gogol (googol)",
   "d": 2,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-013",
   "q": "Quel dessinateur surnommé « The King » a cocréé les Quatre Fantastiques et les X-Men avec Stan Lee ?",
   "r": "Jack Kirby",
   "d": 3,
   "t": "Comics"
  },
  {
+  "id": "div_e_3-014",
   "q": "Quelle série de Netflix (2022), dont Tim Burton a réalisé plusieurs épisodes, suit la fille aînée de la famille Addams ?",
   "r": "Mercredi",
   "d": 1,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-015",
   "q": "Quel humoriste, virtuose des jeux de mots et de l'absurde, a écrit le sketch « Parler pour ne rien dire » ?",
   "r": "Raymond Devos",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-016",
   "q": "Comment s'appelle le personnage monté sur un ressort dans « Le Manège enchanté » ?",
   "r": "Zébulon",
   "d": 2,
   "t": "Émissions"
  },
  {
+  "id": "div_e_3-017",
   "q": "Quel maître de l'estampe japonaise a popularisé le mot « manga » avec ses carnets de croquis au XIXe siècle ?",
   "r": "Hokusai",
   "d": 3,
   "t": "Mangas"
  },
  {
+  "id": "div_e_3-018",
   "q": "Quel Pokémon de départ de type Eau est une petite tortue bleue ?",
   "r": "Carapuce",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-019",
   "q": "Quel professeur remet au joueur son premier Pokémon dans « Pokémon Rouge » et « Pokémon Bleu » ?",
   "r": "Le professeur Chen",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-020",
   "q": "Quel showman américain du XIXe siècle a fondé avec James Bailey un cirque surnommé « le plus grand spectacle du monde » ?",
   "r": "P. T. Barnum",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_3-021",
   "q": "Sur l'emballage de quels bonbons au caramel trouve-t-on traditionnellement une blague ?",
   "r": "Les Carambar",
   "d": 1,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-022",
   "q": "Comment appelait-on autrefois un concours de chanteurs amateurs diffusé à la radio ?",
   "r": "Un radio-crochet",
   "d": 2,
   "t": "Radio"
  },
  {
+  "id": "div_e_3-023",
   "q": "Quel est le diamètre standard d'une piste de cirque ?",
   "r": "13 mètres",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_3-024",
   "q": "Quel animal désigne réellement le mot anglais « firefox », qui a donné son nom au navigateur de Mozilla ?",
   "r": "Le panda roux",
   "d": 3,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-025",
   "q": "Quel émoji a été désigné « mot de l'année » par les dictionnaires Oxford en 2015 ?",
   "r": "L'émoji qui pleure de rire",
   "d": 3,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-026",
   "q": "Quel illustrateur, spécialiste des animaux, a dessiné la Vache qui rit en 1923 ?",
   "r": "Benjamin Rabier",
   "d": 3,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-027",
   "q": "Quel personnage bedonnant de Greg, amateur de mots savants, vivait ses aventures dans le journal Pilote ?",
   "r": "Achille Talon",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-028",
   "q": "Comment appelle-t-on les pièces formées de quatre carrés qui tombent dans Tetris ?",
   "r": "Les tétrominos",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-029",
   "q": "Que signifie l'abréviation « MDR » dans les messages écrits en français ?",
   "r": "Mort de rire",
   "d": 1,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-030",
   "q": "Quelles deux souris de laboratoire tentent chaque nuit de conquérir le monde ?",
   "r": "Minus et Cortex",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_3-031",
   "q": "Quel héritier milliardaire est le héros d'une série de Jean Van Hamme et Philippe Francq ?",
   "r": "Largo Winch",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-032",
   "q": "Quelle messagerie instantanée de Microsoft, très populaire dans les années 2000, permettait d'envoyer un « wizz » ?",
   "r": "MSN Messenger",
   "d": 1,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-033",
   "q": "Dans quelle commune allemande, proche de l'Alsace, se trouve Europa-Park ?",
   "r": "Rust",
   "d": 3,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_3-034",
   "q": "Quel marin devient surpuissant en avalant une boîte d'épinards ?",
   "r": "Popeye",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "div_e_3-035",
   "q": "De quelle race est Bill, le chien de Boule ?",
   "r": "Un cocker",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-036",
   "q": "Dans quel jeu télévisé américain les candidats doivent-ils formuler leurs réponses sous forme de questions ?",
   "r": "Jeopardy!",
   "d": 2,
   "t": "Jeux télé"
  },
  {
+  "id": "div_e_3-037",
   "q": "Quel illusionniste américain a fait « disparaître » la statue de la Liberté devant les caméras en 1983 ?",
   "r": "David Copperfield",
   "d": 1,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_3-038",
   "q": "Quelle actrice incarne Morgane, femme de ménage au QI hors norme, dans la série « HPI » ?",
   "r": "Audrey Fleurot",
   "d": 2,
   "t": "Séries françaises"
  },
  {
+  "id": "div_e_3-039",
   "q": "Quelle cuisinière landaise présentait « La Cuisine des mousquetaires » avec Micheline Banzet ?",
   "r": "Maïté",
   "d": 2,
   "t": "Émissions"
  },
  {
+  "id": "div_e_3-040",
   "q": "Quel animal saute par-dessus des cactus dans le petit jeu caché de Google Chrome, lorsque la connexion est coupée ?",
   "r": "Un tyrannosaure",
   "d": 1,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-041",
   "q": "Quel animal imaginaire à la queue interminable, créé par Franquin, pousse le cri « Houba ! Houba ! » ?",
   "r": "Le Marsupilami",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-042",
   "q": "Comment dit-on officiellement en français « hashtag », le mot-clé précédé du signe # ?",
   "r": "Mot-dièse",
   "d": 3,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-043",
   "q": "Quel jeu du studio parisien Dontnod (2015) permet à la lycéenne Max Caulfield de remonter le temps ?",
   "r": "Life is Strange",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-044",
   "q": "Quelle émission de France Inter, créée en 1955, réunit des critiques qui débattent des films, livres et pièces du moment ?",
   "r": "Le Masque et la Plume",
   "d": 2,
   "t": "Radio"
  },
  {
+  "id": "div_e_3-045",
   "q": "Quel roman d'Hector Malot, adapté en dessin animé japonais, suit l'orphelin Rémi aux côtés du musicien Vitalis ?",
   "r": "Sans famille",
   "d": 2,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_3-046",
   "q": "Quelle console de Nintendo de 1995, à l'affichage 3D rouge et noir, fut un échec commercial retentissant ?",
   "r": "Le Virtual Boy",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-047",
   "q": "Quel magicien d'origine espagnole, vedette de la télévision des années 1970, faisait rire en ratant volontairement ses tours ?",
   "r": "Garcimore",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_3-048",
   "q": "Quel pont relie les deux pays où se déroule l'enquête de la série policière « Bron » ?",
   "r": "Le pont de l'Øresund",
   "d": 3,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-049",
   "q": "Quelle vieille voiture conduit Gaston Lagaffe ?",
   "r": "Une Fiat 509",
   "d": 3,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-050",
   "q": "Quel youtubeur a organisé en 2022 le « GP Explorer », une course automobile entre vidéastes sur le circuit du Mans ?",
   "r": "Squeezie",
   "d": 2,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-051",
   "q": "Combien de boules de cristal faut-il réunir pour invoquer le dragon Shenron dans « Dragon Ball » ?",
   "r": "Sept",
   "d": 1,
   "t": "Mangas"
  },
  {
+  "id": "div_e_3-052",
   "q": "Quel duo d'illusionnistes allemands de Las Vegas se produisait avec des tigres blancs ?",
   "r": "Siegfried et Roy",
   "d": 2,
   "t": "Cirque et magie"
  },
  {
+  "id": "div_e_3-053",
   "q": "Que porte la Vache qui rit en guise de boucles d'oreilles ?",
   "r": "Des boîtes de Vache qui rit",
   "d": 1,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-054",
   "q": "De quoi le pseudonyme Hergé est-il formé ?",
   "r": "Les initiales R. G. (Georges Remi)",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-055",
   "q": "Selon le sketch de Fernand Raynaud, combien de temps faut-il au fût du canon pour refroidir ?",
   "r": "Un certain temps",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-056",
   "q": "Comment s'appelle le bonhomme fait de pneus, mascotte de Michelin ?",
   "r": "Bibendum",
   "d": 1,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-057",
   "q": "Quel frère de Mario porte une casquette verte ?",
   "r": "Luigi",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-058",
   "q": "Comment s'appelle le manchot mascotte du système d'exploitation Linux ?",
   "r": "Tux",
   "d": 2,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-059",
   "q": "Quel jeu de stratégie de Blizzard, sorti en 1998, est devenu un véritable sport national en Corée du Sud ?",
   "r": "StarCraft",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-060",
   "q": "Quel animal est la mascotte des parcs Walibi ?",
   "r": "Un kangourou (wallaby)",
   "d": 2,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_3-061",
   "q": "Quel est le titre de la toute première vidéo publiée sur YouTube, en avril 2005 ?",
   "r": "Me at the zoo",
   "d": 3,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-062",
   "q": "Quel écrivain polonais a créé le sorceleur Geralt de Riv ?",
   "r": "Andrzej Sapkowski",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-063",
   "q": "Quel fantôme hantait le musée du Louvre dans un célèbre feuilleton de 1965 ?",
   "r": "Belphégor",
   "d": 2,
   "t": "Séries françaises"
  },
  {
+  "id": "div_e_3-064",
   "q": "Quel jeune homme, présenté comme le fils bâtard d'Eddard Stark, rejoint la Garde de nuit dans « Game of Thrones » ?",
   "r": "Jon Snow",
   "d": 1,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-065",
   "q": "Quel hebdomadaire pour enfants, lancé en 1969, joignait à chaque numéro un objet surprise, comme les célèbres « Pifises » ?",
   "r": "Pif Gadget",
   "d": 1,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-066",
   "q": "Quel quartier balnéaire de Brooklyn est célèbre pour ses manèges et ses hot-dogs ?",
   "r": "Coney Island",
   "d": 2,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_3-067",
   "q": "Sous quel nom Pac-Man est-il sorti à l'origine au Japon en 1980 ?",
   "r": "Puck-Man",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-068",
   "q": "Quelle entreprise américaine a lancé l'agent conversationnel ChatGPT en novembre 2022 ?",
   "r": "OpenAI",
   "d": 1,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-069",
   "q": "Quel duo comique toulousain, formé par Éric Carrière et Francis Ginibre, se moque de la France profonde depuis les années 1980 ?",
   "r": "Les Chevaliers du fiel",
   "d": 3,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-070",
   "q": "Quel humoriste britannique terminait ses émissions par une course-poursuite en accéléré sur l'air de « Yakety Sax » ?",
   "r": "Benny Hill",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-071",
   "q": "Comment s'appelle en français le jeune dresseur héros du dessin animé « Pokémon » ?",
   "r": "Sacha",
   "d": 1,
   "t": "Mangas"
  },
  {
+  "id": "div_e_3-072",
   "q": "Comment s'appelle le premier niveau du tout premier jeu Sonic, sorti en 1991 ?",
   "r": "Green Hill Zone",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-073",
   "q": "Comment s'appelle le forgeron du village d'Astérix ?",
   "r": "Cétautomatix",
   "d": 2,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-074",
   "q": "Comment s'appelle le grand spectacle nocturne du Puy du Fou, joué par des centaines de bénévoles ?",
   "r": "La Cinéscénie",
   "d": 2,
   "t": "Parcs d'attractions"
  },
  {
+  "id": "div_e_3-075",
   "q": "Quelle chaîne privée, lancée en 1986 avec Silvio Berlusconi, a cessé d'émettre en 1992 ?",
   "r": "La Cinq",
   "d": 3,
   "t": "Émissions"
  },
  {
+  "id": "div_e_3-076",
   "q": "Quel tigre bondissant est l'ami de Winnie l'ourson ?",
   "r": "Tigrou",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_3-077",
   "q": "Quel animal, assis dans une pièce en flammes, déclare « This is fine » dans un mème célèbre ?",
   "r": "Un chien",
   "d": 1,
   "t": "Internet"
  },
  {
+  "id": "div_e_3-078",
   "q": "Quel imitateur, mort en 1986, avait organisé en 1985 un faux mariage très médiatisé avec Coluche ?",
   "r": "Thierry Le Luron",
   "d": 2,
   "t": "Humoristes"
  },
  {
+  "id": "div_e_3-079",
   "q": "Quel savant dur d'oreille conçoit la fusée lunaire dans les aventures de Tintin ?",
   "r": "Le professeur Tournesol",
   "d": 1,
   "t": "BD franco-belge"
  },
  {
+  "id": "div_e_3-080",
   "q": "Quel était le métier de Mario dans le jeu d'arcade « Donkey Kong » de 1981, avant qu'il ne devienne plombier ?",
   "r": "Charpentier",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_e_3-081",
   "q": "Quel chef des Autobots se transforme en camion dans « Transformers » ?",
   "r": "Optimus Prime",
   "d": 1,
   "t": "Dessins animés"
  },
  {
+  "id": "div_e_3-082",
   "q": "Comment s'appelle le ranch de la famille Cartwright dans le western télévisé « Bonanza » ?",
   "r": "La Ponderosa",
   "d": 3,
   "t": "Séries étrangères"
  },
  {
+  "id": "div_e_3-083",
   "q": "Quelle voleuse vêtue de cuir, alias Selina Kyle, est à la fois ennemie et amoureuse de Batman ?",
   "r": "Catwoman",
   "d": 1,
   "t": "Comics"
  },
  {
+  "id": "div_e_3-084",
   "q": "Quel personnage chauve et musclé, vêtu de blanc, est la mascotte d'une célèbre marque de produits ménagers ?",
   "r": "Monsieur Propre",
   "d": 1,
   "t": "Mascottes"
  },
  {
+  "id": "div_e_3-085",
   "q": "Quels objets dorés Sonic ramasse-t-il tout au long de ses niveaux ?",
   "r": "Des anneaux",
   "d": 1,

@@ -58,6 +58,9 @@ function melanger(tab) {
 }
 
 const numero = n => String(n).padStart(4, '0');
+// Typographie française : espace insécable avant ? ! : ; » et après «, pour éviter
+// qu'un signe se retrouve seul en début de ligne.
+const typo = t => String(t).replace(/\s+([?!:;»])/g, '\u00a0$1').replace(/«\s+/g, '«\u00a0');
 const styleCat = c => `--c:${c.couleur};--c-texte:${COULEUR_TEXTE[c.id] || c.couleur}`;
 const catParId = id => CATS.find(c => c.id === id);
 
@@ -762,6 +765,7 @@ async function demarrer() {
     return;
   }
   CATS = DATA.categories;
+  DATA.cartes.forEach(carte => carte.forEach(q => { q[0] = typo(q[0]); q[1] = typo(q[1]); }));
   QUESTIONS = [];
   DATA.cartes.forEach((carte, n) => carte.forEach(([q, r, d, t], i) => {
     QUESTIONS.push({ id: QUESTIONS.length, carte: n, cat: CATS[i].id, q, r, d, t });

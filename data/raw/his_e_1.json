@@ -1,0 +1,597 @@
+[
+ {
+  "id": "his_e_1-001",
+  "q": "Quelle loi anglaise de 1679 protège les individus contre la détention arbitraire ?",
+  "r": "L'Habeas corpus",
+  "d": 2,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-002",
+  "q": "Quels oiseaux acheminèrent des messages jusque dans Paris assiégé en 1870-1871 ?",
+  "r": "Les pigeons voyageurs",
+  "d": 1,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_1-003",
+  "q": "Quel siège de 1793 révéla le jeune capitaine d'artillerie Bonaparte ?",
+  "r": "Le siège de Toulon",
+  "d": 2,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_1-004",
+  "q": "Quel roi de France, surnommé « le Bien-Aimé », régna de 1715 à 1774 ?",
+  "r": "Louis XV",
+  "d": 1,
+  "t": "Rois"
+ },
+ {
+  "id": "his_e_1-005",
+  "q": "Quel réformateur protestant, né à Noyon en Picardie, publia l'« Institution de la religion chrétienne » ?",
+  "r": "Jean Calvin",
+  "d": 2,
+  "t": "Réforme"
+ },
+ {
+  "id": "his_e_1-006",
+  "q": "Quel maréchal capitula dans Metz en octobre 1870 avec toute son armée ?",
+  "r": "Bazaine",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-007",
+  "q": "Quel favori de Louis XIII fut décapité à Lyon en 1642 pour avoir comploté contre Richelieu ?",
+  "r": "Cinq-Mars",
+  "d": 3,
+  "t": "Favoris"
+ },
+ {
+  "id": "his_e_1-008",
+  "q": "Quel bourreau exécuta Louis XVI le 21 janvier 1793 ?",
+  "r": "Charles-Henri Sanson",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-009",
+  "q": "Quel anarchiste fut guillotiné en 1892 après une série d'attentats à la bombe à Paris ?",
+  "r": "Ravachol",
+  "d": 2,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_1-010",
+  "q": "Quelle catastrophe détruisit une grande partie de Londres en septembre 1666 ?",
+  "r": "Le Grand Incendie",
+  "d": 1,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-011",
+  "q": "Quel dominicain fut le premier Grand Inquisiteur d'Espagne, à la fin du XVe siècle ?",
+  "r": "Tomás de Torquemada",
+  "d": 2,
+  "t": "Espagne"
+ },
+ {
+  "id": "his_e_1-012",
+  "q": "Quelle arme blanche fixée au bout du fusil doit son nom à une ville du Pays basque ?",
+  "r": "La baïonnette",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_1-013",
+  "q": "Quelle reine d'Angleterre, fille d'Henri VIII et de Catherine d'Aragon, fit brûler des centaines de protestants ?",
+  "r": "Marie Tudor",
+  "d": 1,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-014",
+  "q": "Quels hauts fonctionnaires, créés par Bonaparte en 1800, représentent l'État dans chaque département ?",
+  "r": "Les préfets",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_1-015",
+  "q": "Quelle voiture de place à cheval doit son nom à un hôtel parisien placé sous l'enseigne d'un saint ?",
+  "r": "Le fiacre",
+  "d": 3,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_1-016",
+  "q": "Quel animal, introduit par les Espagnols, transforma la vie des Indiens des Grandes Plaines ?",
+  "r": "Le cheval",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_1-017",
+  "q": "Quel maréchal de Louis XIV fut tué par un boulet à Sasbach en 1675 ?",
+  "r": "Turenne",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-018",
+  "q": "Quelle fermeture, en juin 1848, provoqua l'insurrection ouvrière des journées de Juin ?",
+  "r": "Les Ateliers nationaux",
+  "d": 2,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_1-019",
+  "q": "Quel roi de Pologne délivra Vienne assiégée par les Ottomans en 1683 ?",
+  "r": "Jean III Sobieski",
+  "d": 2,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-020",
+  "q": "Quel président de la République mourut à l'Élysée en 1899, dans des circonstances restées célèbres ?",
+  "r": "Félix Faure",
+  "d": 2,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_1-021",
+  "q": "Quel maréchal, dont la casquette est moquée dans une chanson, mena la conquête de l'Algérie dans les années 1840 ?",
+  "r": "Thomas Bugeaud",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_1-022",
+  "q": "Quelle favorite d'Henri IV, surnommée « la belle Gabrielle », mourut en 1599 ?",
+  "r": "Gabrielle d'Estrées",
+  "d": 2,
+  "t": "Favorites"
+ },
+ {
+  "id": "his_e_1-023",
+  "q": "Quelle favorite de Louis XIV, légèrement boiteuse, se retira chez les carmélites en 1674 ?",
+  "r": "Louise de La Vallière",
+  "d": 2,
+  "t": "Favorites"
+ },
+ {
+  "id": "his_e_1-024",
+  "q": "Quel ingénieur français, surnommé le « père du froid », fit transporter de la viande réfrigérée vers l'Argentine en 1876 ?",
+  "r": "Charles Tellier",
+  "d": 3,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_1-025",
+  "q": "Quel pays Bonaparte envahit-il en 1798 pour couper aux Anglais la route des Indes ?",
+  "r": "L'Égypte",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_1-026",
+  "q": "Quel peintre réaliste fut condamné à payer la reconstruction de la colonne Vendôme ?",
+  "r": "Gustave Courbet",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_1-027",
+  "q": "Quel général proclama l'indépendance d'Haïti le 1er janvier 1804 ?",
+  "r": "Jean-Jacques Dessalines",
+  "d": 3,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_1-028",
+  "q": "Quel général anglais, ancêtre de Winston Churchill, est raillé dans une chanson enfantine française ?",
+  "r": "Le duc de Marlborough",
+  "d": 2,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-029",
+  "q": "Quel grand magasin parisien, fondé en 1865, porte le nom d'une saison ?",
+  "r": "Le Printemps",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_1-030",
+  "q": "Quel vitrier italien déroba la Joconde au Louvre en 1911 ?",
+  "r": "Vincenzo Peruggia",
+  "d": 2,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_1-031",
+  "q": "Contre quel mur du cimetière du Père-Lachaise furent fusillés des communards en 1871 ?",
+  "r": "Le mur des Fédérés",
+  "d": 1,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_1-032",
+  "q": "Comment appelle-t-on la période d'insouciance et de progrès qui précéda la Première Guerre mondiale ?",
+  "r": "La Belle Époque",
+  "d": 1,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_1-033",
+  "q": "Quelle victoire de Bonaparte en Italie, en 1797, a donné son nom à une célèbre rue parisienne ?",
+  "r": "Rivoli",
+  "d": 2,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-034",
+  "q": "En quelle année fut proclamée la Première République française ?",
+  "r": "1792",
+  "d": 2,
+  "t": "Dates"
+ },
+ {
+  "id": "his_e_1-035",
+  "q": "Comment appelle-t-on le mouvement intellectuel européen du XVIIIe siècle qui prônait la raison contre l'obscurantisme ?",
+  "r": "Les Lumières",
+  "d": 1,
+  "t": "Lumières"
+ },
+ {
+  "id": "his_e_1-036",
+  "q": "Comment appelle-t-on la vague de panique qui gagna les campagnes françaises à l'été 1789 ?",
+  "r": "La Grande Peur",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-037",
+  "q": "Quelle bataille de 1746 mit fin aux espoirs jacobites de Charles Édouard Stuart en Écosse ?",
+  "r": "Culloden",
+  "d": 3,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-038",
+  "q": "Comment s'appelait la « semaine » de dix jours du calendrier républicain ?",
+  "r": "La décade",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-039",
+  "q": "Sur un radeau au milieu de quel fleuve Napoléon et le tsar Alexandre Ier se rencontrèrent-ils en 1807 ?",
+  "r": "Le Niémen",
+  "d": 2,
+  "t": "Traités"
+ },
+ {
+  "id": "his_e_1-040",
+  "q": "Quel cuirassé américain explosa dans le port de La Havane en 1898, précipitant la guerre contre l'Espagne ?",
+  "r": "L'USS Maine",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_1-041",
+  "q": "Quel gouverneur britannique fut le geôlier de Napoléon à Sainte-Hélène ?",
+  "r": "Hudson Lowe",
+  "d": 3,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_1-042",
+  "q": "Quel mot vient du nom d'un contrôleur général des Finances de Louis XV, vite devenu impopulaire en 1759 ?",
+  "r": "Silhouette",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_1-043",
+  "q": "Quelle boisson gazeuse fut mise au point en 1886 par un pharmacien d'Atlanta ?",
+  "r": "Le Coca-Cola",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_1-044",
+  "q": "Quel traité établit en 1881 le protectorat français sur la Tunisie ?",
+  "r": "Le traité du Bardo",
+  "d": 3,
+  "t": "Traités"
+ },
+ {
+  "id": "his_e_1-045",
+  "q": "Quel député aurait lancé en juin 1789 que l'Assemblée ne sortirait que « par la force des baïonnettes » ?",
+  "r": "Mirabeau",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-046",
+  "q": "Comment appelle-t-on les bouleversements économiques nés en Angleterre au XVIIIe siècle avec la machine à vapeur ?",
+  "r": "La révolution industrielle",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_1-047",
+  "q": "Quel membre du Directoire fut le protecteur du jeune Bonaparte et l'amant de Joséphine ?",
+  "r": "Paul Barras",
+  "d": 3,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-048",
+  "q": "Quel chancelier de Catherine de Médicis prôna en vain la tolérance entre catholiques et protestants ?",
+  "r": "Michel de L'Hospital",
+  "d": 3,
+  "t": "Guerres de Religion"
+ },
+ {
+  "id": "his_e_1-049",
+  "q": "Quel ancien bagnard devint chef de la police de Sûreté à Paris sous l'Empire ?",
+  "r": "Vidocq",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_1-050",
+  "q": "Quel roi fonda la puissance zouloue au début du XIXe siècle ?",
+  "r": "Chaka (Shaka)",
+  "d": 2,
+  "t": "Afrique"
+ },
+ {
+  "id": "his_e_1-051",
+  "q": "Dans quelle ville du Nord la troupe tira-t-elle sur des manifestants le 1er mai 1891 ?",
+  "r": "Fourmies",
+  "d": 3,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_1-052",
+  "q": "Quel gouverneur du Sénégal créa en 1857 le corps des tirailleurs sénégalais ?",
+  "r": "Louis Faidherbe",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_1-053",
+  "q": "Quelle distinction honorifique Bonaparte créa-t-il en 1802 ?",
+  "r": "La Légion d'honneur",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_1-054",
+  "q": "Quel pont parisien, qui porte le nom d'un tsar, fut inauguré pour l'Exposition universelle de 1900 ?",
+  "r": "Le pont Alexandre-III",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "id": "his_e_1-055",
+  "q": "Quel surnom donnait-on aux vieux soldats de la Garde impériale ?",
+  "r": "Les grognards",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_1-056",
+  "q": "Quelle ville devint en 1871 la capitale du royaume d'Italie, un an après sa prise par les troupes italiennes ?",
+  "r": "Rome",
+  "d": 1,
+  "t": "Italie"
+ },
+ {
+  "id": "his_e_1-057",
+  "q": "Quels registres recueillirent en 1789 les plaintes et les vœux des Français avant les États généraux ?",
+  "r": "Les cahiers de doléances",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-058",
+  "q": "Comment surnomme-t-on les chercheurs d'or accourus en Californie en 1849 ?",
+  "r": "Les forty-niners",
+  "d": 2,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_1-059",
+  "q": "Quel homme tenta en 1757 de poignarder Louis XV avec un canif et fut écartelé ?",
+  "r": "Robert-François Damiens",
+  "d": 2,
+  "t": "Lumières"
+ },
+ {
+  "id": "his_e_1-060",
+  "q": "Quel favori d'Élisabeth Ire, décapité en 1618, aurait popularisé le tabac en Angleterre ?",
+  "r": "Walter Raleigh",
+  "d": 2,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-061",
+  "q": "Quelle famille de banquiers, partie de Francfort, établit ses cinq fils dans les capitales européennes au XIXe siècle ?",
+  "r": "Les Rothschild",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_1-062",
+  "q": "Dans quelle ville Louis XIV installa-t-il définitivement la cour et le gouvernement ?",
+  "r": "Versailles",
+  "d": 1,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_1-063",
+  "q": "Quel palais impérial chinois fut pillé et incendié par les Français et les Britanniques en 1860 ?",
+  "r": "Le palais d'Été",
+  "d": 2,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_1-064",
+  "q": "Quel conquistador, qui aurait cherché la fontaine de Jouvence, baptisa la Floride en 1513 ?",
+  "r": "Juan Ponce de León",
+  "d": 2,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_1-065",
+  "q": "Quel dauphin épousa Marie-Antoinette en 1770, quatre ans avant de devenir roi ?",
+  "r": "Louis XVI",
+  "d": 1,
+  "t": "Rois"
+ },
+ {
+  "id": "his_e_1-066",
+  "q": "Quelle maîtresse en titre de Louis XIV fut compromise dans l'affaire des Poisons ?",
+  "r": "Madame de Montespan",
+  "d": 1,
+  "t": "Favorites"
+ },
+ {
+  "id": "his_e_1-067",
+  "q": "Quelle langue étrangère l'aristocratie russe parlait-elle couramment au XIXe siècle ?",
+  "r": "Le français",
+  "d": 1,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_1-068",
+  "q": "Quelle créature fit une centaine de victimes dans le sud du Massif central entre 1764 et 1767 ?",
+  "r": "La bête du Gévaudan",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_1-069",
+  "q": "Quel grand magasin parisien, fondé à la fin du XIXe siècle, doit son nom à la rue où il ouvrit ?",
+  "r": "Les Galeries Lafayette",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_1-070",
+  "q": "Quel monument parisien, commandé par Napoléon en 1806 et achevé sous Louis-Philippe, domine les Champs-Élysées ?",
+  "r": "L'Arc de triomphe",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "id": "his_e_1-071",
+  "q": "Quelle ville bretonne, créée en 1666 pour la Compagnie des Indes, doit son nom à la destination de ses navires ?",
+  "r": "Lorient",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_1-072",
+  "q": "Quel parlementaire britannique mena le combat pour l'abolition de la traite, votée en 1807 ?",
+  "r": "William Wilberforce",
+  "d": 3,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-073",
+  "q": "Quelle reine régna sur le Royaume-Uni de 1837 à 1901 ?",
+  "r": "Victoria",
+  "d": 1,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_1-074",
+  "q": "Quel royaume d'Asie du Sud-Est fut le seul de la région à ne jamais être colonisé par les Européens ?",
+  "r": "Le Siam",
+  "d": 2,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_1-075",
+  "q": "Quelle femme de lettres rédigea en 1791 la Déclaration des droits de la femme et de la citoyenne ?",
+  "r": "Olympe de Gouges",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-076",
+  "q": "Quel maréchal prussien arriva sur le champ de bataille de Waterloo pour soutenir les Anglais ?",
+  "r": "Blücher",
+  "d": 2,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-077",
+  "q": "En quelle année eut lieu la prise de la Bastille ?",
+  "r": "1789",
+  "d": 1,
+  "t": "Dates"
+ },
+ {
+  "id": "his_e_1-078",
+  "q": "Quelle dynastie accéda au trône de France avec Henri IV en 1589 ?",
+  "r": "Les Bourbons",
+  "d": 1,
+  "t": "Dynasties"
+ },
+ {
+  "id": "his_e_1-079",
+  "q": "Quelle bataille de la guerre de Crimée a donné son nom à un pont parisien orné d'un zouave ?",
+  "r": "L'Alma",
+  "d": 1,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_1-080",
+  "q": "Quel physicien fut, avec le marquis d'Arlandes, l'un des deux premiers hommes à voler en ballon en 1783 ?",
+  "r": "Pilâtre de Rozier",
+  "d": 3,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_1-081",
+  "q": "Quelle expression vient de la liste des livres interdits publiée par l'Église catholique à partir de 1559 ?",
+  "r": "Mettre à l'index",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_1-082",
+  "q": "Quel navigateur italien au service de l'Angleterre atteignit l'Amérique du Nord en 1497 ?",
+  "r": "Jean Cabot",
+  "d": 3,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_1-083",
+  "q": "Quel journaliste retrouva le docteur Livingstone à Ujiji en 1871 ?",
+  "r": "Henry Morton Stanley",
+  "d": 1,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_1-084",
+  "q": "Quel maître de poste reconnut Louis XVI lors de sa fuite en 1791 et donna l'alerte ?",
+  "r": "Jean-Baptiste Drouet",
+  "d": 3,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_1-085",
+  "q": "Quel juriste, deuxième consul, fut l'un des principaux artisans du Code civil ?",
+  "r": "Cambacérès",
+  "d": 2,
+  "t": "Napoléon"
+ }
+]

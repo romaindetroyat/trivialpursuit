@@ -1,509 +1,594 @@
 [
  {
+  "id": "his_d_1-001",
   "q": "Quel empereur romain, né à Leptis Magna, fut le premier originaire d'Afrique ?",
   "r": "Septime Sévère",
   "d": 3,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_1-002",
   "q": "Quel palais crétois, fouillé par Arthur Evans, est associé au mythe du Labyrinthe ?",
   "r": "Knossos",
   "d": 1,
   "t": "Villes antiques"
  },
  {
+  "id": "his_d_1-003",
   "q": "Quel support d'écriture les Égyptiens fabriquaient-ils à partir d'une plante des bords du Nil ?",
   "r": "Le papyrus",
   "d": 1,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_d_1-004",
   "q": "Comment appelait-on la portion du domaine royal concédée aux fils cadets du roi de France ?",
   "r": "L'apanage",
   "d": 2,
   "t": "Féodalité"
  },
  {
+  "id": "his_d_1-005",
   "q": "Quelle cathédrale picarde, au chœur gothique le plus haut du monde, vit ses voûtes s'effondrer en 1284 ?",
   "r": "Beauvais",
   "d": 2,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_1-006",
   "q": "Sous quel joug humiliant l'armée romaine dut-elle passer après sa défaite face aux Samnites en 321 av. J.-C. ?",
   "r": "Les fourches Caudines",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_1-007",
   "q": "Comment appelle-t-on les longs poèmes épiques médiévaux qui chantent les exploits de héros comme Roland ?",
   "r": "Les chansons de geste",
   "d": 2,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_1-008",
   "q": "Quelle bataille des Asturies, vers 722, marque traditionnellement le début de la Reconquista ?",
   "r": "Covadonga",
   "d": 3,
   "t": "Al-Andalus"
  },
  {
+  "id": "his_d_1-009",
   "q": "Quel prophète iranien a fondé la religion dont le dieu suprême est Ahura Mazda ?",
   "r": "Zarathoustra (Zoroastre)",
   "d": 2,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-010",
   "q": "Quel oiseau, emblème d'Athéna, figurait sur les pièces d'argent d'Athènes ?",
   "r": "La chouette",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_1-011",
   "q": "Dans quelle cité d'Asie Mineure se dressait le temple d'Artémis, l'une des Sept Merveilles du monde ?",
   "r": "Éphèse",
   "d": 2,
   "t": "Merveilles du monde"
  },
  {
+  "id": "his_d_1-012",
   "q": "Comment appelle-t-on les caractères de l'ancien alphabet des peuples scandinaves ?",
   "r": "Les runes",
   "d": 1,
   "t": "Vikings"
  },
  {
+  "id": "his_d_1-013",
   "q": "Comment appelait-on le cachot où l'on descendait les prisonniers par une trappe, pour les y laisser ?",
   "r": "Les oubliettes",
   "d": 1,
   "t": "Châteaux forts"
  },
  {
+  "id": "his_d_1-014",
   "q": "Quel peuple infligea à Crassus une terrible défaite à Carrhes en 53 av. J.-C. ?",
   "r": "Les Parthes",
   "d": 3,
   "t": "Batailles antiques"
  },
  {
+  "id": "his_d_1-015",
   "q": "Que signifie le sigle latin SPQR ?",
   "r": "Le Sénat et le peuple romain",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_1-016",
   "q": "Comment s'appelle la religion traditionnelle du Japon, fondée sur le culte des kami ?",
   "r": "Le shintoïsme",
   "d": 1,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-017",
   "q": "Quel soulèvement de 1282 à Palerme massacra les Français de Charles d'Anjou ?",
   "r": "Les Vêpres siciliennes",
   "d": 2,
   "t": "Révoltes"
  },
  {
+  "id": "his_d_1-018",
   "q": "À quel pape du VIe siècle le chant grégorien doit-il traditionnellement son nom ?",
   "r": "Grégoire le Grand",
   "d": 2,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-019",
   "q": "Comment s'appelait la partie de la maison grecque réservée aux femmes ?",
   "r": "Le gynécée",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_1-020",
   "q": "Quel législateur athénien, aux lois réputées impitoyables, a donné un adjectif à la langue française ?",
   "r": "Dracon",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_1-021",
   "q": "Quel comte, à qui Hugues Capet demandait « Qui t'a fait comte ? », aurait répliqué « Qui t'a fait roi ? » ?",
   "r": "Adalbert de Périgord",
   "d": 3,
   "t": "Capétiens"
  },
  {
+  "id": "his_d_1-022",
   "q": "Quel édifice cubique, au centre de la Grande Mosquée de La Mecque, est le lieu le plus sacré de l'islam ?",
   "r": "La Kaaba",
   "d": 1,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-023",
   "q": "Comment appelle-t-on l'ouverture étroite pratiquée dans un mur pour tirer à l'arc ?",
   "r": "La meurtrière (archère)",
   "d": 1,
   "t": "Châteaux forts"
  },
  {
+  "id": "his_d_1-024",
   "q": "Comment appelle-t-on l'art de décorer les manuscrits de peintures et de lettrines ?",
   "r": "L'enluminure",
   "d": 1,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_1-025",
   "q": "De quelle farce médiévale vient l'expression « revenons à nos moutons » ?",
   "r": "La Farce de maître Pathelin",
   "d": 2,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_1-026",
   "q": "Quel philosophe et médecin juif né à Cordoue au XIIe siècle écrivit le Guide des égarés ?",
   "r": "Maïmonide",
   "d": 3,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-027",
   "q": "Quel village autrichien, célèbre pour ses mines de sel, a donné son nom au premier âge du fer européen ?",
   "r": "Hallstatt",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_1-028",
   "q": "Quelle fleur stylisée était l'emblème des rois de France ?",
   "r": "La fleur de lys",
   "d": 1,
   "t": "Royauté"
  },
  {
+  "id": "his_d_1-029",
   "q": "Quel moine du VIe siècle calcula la date de naissance du Christ servant de point de départ à notre ère ?",
   "r": "Denys le Petit",
   "d": 3,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-030",
   "q": "Quelle école philosophique tire son nom du portique d'Athènes où enseignait Zénon de Kition ?",
   "r": "Le stoïcisme",
   "d": 2,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_1-031",
   "q": "Quel héros légendaire suisse dut tirer une flèche dans une pomme posée sur la tête de son fils ?",
   "r": "Guillaume Tell",
   "d": 1,
   "t": "Europe médiévale"
  },
  {
+  "id": "his_d_1-032",
   "q": "Quel ordre monastique a donné son nom à une expression désignant un travail long et minutieux ?",
   "r": "Les bénédictins",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_1-033",
   "q": "Quelle sauce de poisson fermenté assaisonnait la plupart des plats romains ?",
   "r": "Le garum",
   "d": 2,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_1-034",
   "q": "Quelle maison, rivale des York dans la guerre des Deux-Roses, avait pour emblème la rose rouge ?",
   "r": "Lancastre",
   "d": 2,
   "t": "Angleterre médiévale"
  },
  {
+  "id": "his_d_1-035",
   "q": "Comment appelle-t-on le fantassin lourdement armé des cités grecques ?",
   "r": "L'hoplite",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_1-036",
   "q": "Dans quelle abbaye de l'Anjou reposent Henri II, Aliénor d'Aquitaine et Richard Cœur de Lion ?",
   "r": "Fontevraud",
   "d": 2,
   "t": "Angleterre médiévale"
  },
  {
+  "id": "his_d_1-037",
   "q": "Quel matériau, à base de chaux et de cendre volcanique, a permis aux Romains de couler la coupole du Panthéon ?",
   "r": "Le béton romain",
   "d": 2,
   "t": "Inventions"
  },
  {
+  "id": "his_d_1-038",
   "q": "Quel insecte sacré était associé à Khépri, le dieu du soleil levant ?",
   "r": "Le scarabée",
   "d": 1,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_d_1-039",
   "q": "Quelle abbaye normande, bâtie sur un îlot rocheux, est surnommée la « Merveille de l'Occident » ?",
   "r": "Le Mont-Saint-Michel",
   "d": 1,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_1-040",
   "q": "Quelle femme fut la seule à régner sur la Chine avec le titre d'empereur, à la fin du VIIe siècle ?",
   "r": "Wu Zetian",
   "d": 3,
   "t": "Chine ancienne"
  },
  {
+  "id": "his_d_1-041",
   "q": "Dans quel château de Touraine Jeanne d'Arc rencontra-t-elle le dauphin Charles en 1429 ?",
   "r": "Chinon",
   "d": 1,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_d_1-042",
   "q": "Quel élément extérieur de l'architecture gothique reporte la poussée des voûtes vers des contreforts ?",
   "r": "L'arc-boutant",
   "d": 1,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_1-043",
   "q": "Quelle ville fut la capitale du royaume wisigoth jusqu'à la défaite de Vouillé ?",
   "r": "Toulouse",
   "d": 3,
   "t": "Haut Moyen Âge"
  },
  {
+  "id": "his_d_1-044",
   "q": "Quel ordre militaire, né à Jérusalem, s'installa à Rhodes puis à Malte ?",
   "r": "Les Hospitaliers",
   "d": 2,
   "t": "Croisades"
  },
  {
+  "id": "his_d_1-045",
   "q": "Quel philosophe andalou du XIIe siècle, né à Cordoue, fut surnommé « le Commentateur » d'Aristote ?",
   "r": "Averroès",
   "d": 2,
   "t": "Al-Andalus"
  },
  {
+  "id": "his_d_1-046",
   "q": "Comment appelle-t-on l'armure souple faite d'anneaux de fer entrelacés ?",
   "r": "La cotte de mailles",
   "d": 1,
   "t": "Guerre médiévale"
  },
  {
+  "id": "his_d_1-047",
   "q": "Quel chef de clan devint en 1192 le premier shogun de Kamakura ?",
   "r": "Minamoto no Yoritomo",
   "d": 3,
   "t": "Japon ancien"
  },
  {
+  "id": "his_d_1-048",
   "q": "Quelle mathématicienne et philosophe d'Alexandrie fut assassinée par une foule en 415 ?",
   "r": "Hypatie",
   "d": 2,
   "t": "Sciences antiques"
  },
  {
+  "id": "his_d_1-049",
   "q": "Comment s'appelle la tour principale et la plus forte d'un château fort ?",
   "r": "Le donjon",
   "d": 1,
   "t": "Châteaux forts"
  },
  {
+  "id": "his_d_1-050",
   "q": "Quelle maladie les rois de France étaient-ils censés guérir par le toucher après leur sacre ?",
   "r": "Les écrouelles",
   "d": 2,
   "t": "Royauté"
  },
  {
+  "id": "his_d_1-051",
   "q": "Quel conseiller de Philippe le Bel conduisit l'expédition d'Anagni contre le pape Boniface VIII en 1303 ?",
   "r": "Guillaume de Nogaret",
   "d": 3,
   "t": "Capétiens"
  },
  {
+  "id": "his_d_1-052",
   "q": "Selon la légende, quelle princesse de Tyr aurait fondé Carthage ?",
   "r": "Didon (Élissa)",
   "d": 2,
   "t": "Antiquité"
  },
  {
+  "id": "his_d_1-053",
   "q": "Quelle petite pièce grecque plaçait-on dans la bouche des morts pour payer le passeur Charon ?",
   "r": "L'obole",
   "d": 2,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_1-054",
   "q": "Comment s'appelle la formation serrée de fantassins en rangs profonds, rendue célèbre par les Macédoniens ?",
   "r": "La phalange",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_1-055",
   "q": "Que signifiait l'expression égyptienne à l'origine du mot « pharaon » ?",
   "r": "La grande maison (le palais)",
   "d": 3,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_d_1-056",
   "q": "Quel khanat mongol domina les principautés russes du XIIIe au XVe siècle ?",
   "r": "La Horde d'or",
   "d": 2,
   "t": "Mongols"
  },
  {
+  "id": "his_d_1-057",
   "q": "Comment appelle-t-on les galeries en surplomb au sommet des murailles, percées d'ouvertures pour lancer des projectiles ?",
   "r": "Les mâchicoulis",
   "d": 2,
   "t": "Châteaux forts"
  },
  {
+  "id": "his_d_1-058",
   "q": "Quelle bannière rouge, conservée à Saint-Denis, servait d'étendard de guerre aux rois capétiens ?",
   "r": "L'oriflamme",
   "d": 2,
   "t": "Royauté"
  },
  {
+  "id": "his_d_1-059",
   "q": "Comment s'appelait la place publique, cœur de la vie politique et commerciale d'une cité grecque ?",
   "r": "L'agora",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_1-060",
   "q": "Quel chef berbère, conquérant de l'Espagne en 711, a donné son nom à Gibraltar ?",
   "r": "Tariq ibn Ziyad",
   "d": 2,
   "t": "Al-Andalus"
  },
  {
+  "id": "his_d_1-061",
   "q": "Quel philosophe stoïcien, précepteur de Néron, fut contraint au suicide en 65 ?",
   "r": "Sénèque",
   "d": 2,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_1-062",
   "q": "Quelle civilisation du sud du Pérou a tracé d'immenses géoglyphes dans le désert ?",
   "r": "Nazca",
   "d": 2,
   "t": "Amériques précolombiennes"
  },
  {
+  "id": "his_d_1-063",
   "q": "Quel empereur romain, qui taxa l'urine collectée à Rome, a donné son nom aux urinoirs publics ?",
   "r": "Vespasien",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_1-064",
   "q": "Quel fabuliste grec a inspiré de nombreuses fables de La Fontaine ?",
   "r": "Ésope",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_d_1-065",
   "q": "Quel pharaon a conclu avec les Hittites, vers 1259 av. J.-C., l'un des plus anciens traités de paix connus ?",
   "r": "Ramsès II",
   "d": 2,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_d_1-066",
   "q": "Quelle cité fortifiée de Camargue Saint Louis fit-il aménager pour embarquer vers la croisade ?",
   "r": "Aigues-Mortes",
   "d": 2,
   "t": "Croisades"
  },
  {
+  "id": "his_d_1-067",
   "q": "Quelle technique de façonnage des outils de pierre caractérise le Néolithique, par opposition à la pierre taillée ?",
   "r": "La pierre polie",
   "d": 1,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_1-068",
   "q": "Quelle épouse de Clovis, chrétienne, l'aurait poussé à se convertir ?",
   "r": "Clotilde",
   "d": 1,
   "t": "Mérovingiens"
  },
  {
+  "id": "his_d_1-069",
   "q": "Quel roi d'Angleterre, petit-fils de Philippe le Bel par sa mère, revendiqua la couronne de France au début de la guerre de Cent Ans ?",
   "r": "Édouard III",
   "d": 2,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_d_1-070",
   "q": "Quel savant anglo-saxon, venu d'York, dirigea l'école du palais de Charlemagne ?",
   "r": "Alcuin",
   "d": 3,
   "t": "Carolingiens"
  },
  {
+  "id": "his_d_1-071",
   "q": "Par quel dieu gaulois, cité par le poète Lucain, jurent les compagnons d'Astérix ?",
   "r": "Toutatis",
   "d": 1,
   "t": "Gaule antique"
  },
  {
+  "id": "his_d_1-072",
   "q": "Dans quel pays furent inventées les lunettes de correction, à la fin du XIIIe siècle ?",
   "r": "L'Italie",
   "d": 2,
   "t": "Inventions"
  },
  {
+  "id": "his_d_1-073",
   "q": "Quel insecte, porté par les rats, transmettait la peste bubonique ?",
   "r": "La puce",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_1-074",
   "q": "Quelle bataille de 48 av. J.-C., en Thessalie, vit César vaincre Pompée ?",
   "r": "Pharsale",
   "d": 3,
   "t": "Batailles antiques"
  },
  {
+  "id": "his_d_1-075",
   "q": "Quelle fille de Louis XI exerça la régence au début du règne de son frère Charles VIII ?",
   "r": "Anne de Beaujeu",
   "d": 3,
   "t": "Personnages médiévaux"
  },
  {
+  "id": "his_d_1-076",
   "q": "Quel ami d'Auguste, protecteur de Virgile et d'Horace, a donné son nom au soutien privé des arts ?",
   "r": "Mécène",
   "d": 1,
   "t": "Expressions historiques"
  },
  {
+  "id": "his_d_1-077",
   "q": "Le pillage de quel monastère d'une île anglaise, en 793, marque traditionnellement le début de l'ère viking ?",
   "r": "Lindisfarne",
   "d": 3,
   "t": "Vikings"
  },
  {
+  "id": "his_d_1-078",
   "q": "Quel pape de l'an mil, né en Auvergne, s'appelait auparavant Gerbert d'Aurillac ?",
   "r": "Sylvestre II",
   "d": 3,
   "t": "Religions"
  },
  {
+  "id": "his_d_1-079",
   "q": "Quel jeu de balle médiéval, ancêtre du tennis, se jouait d'abord à main nue ?",
   "r": "Le jeu de paume",
   "d": 1,
   "t": "Vie quotidienne"
  },
  {
+  "id": "his_d_1-080",
   "q": "Quelle cathédrale d'Eure-et-Loir est célèbre pour ses vitraux et leur bleu intense ?",
   "r": "Chartres",
   "d": 1,
   "t": "Arts médiévaux"
  },
  {
+  "id": "his_d_1-081",
   "q": "Quel prince-poète, neveu de Charles VI, resta prisonnier en Angleterre vingt-cinq ans après Azincourt ?",
   "r": "Charles d'Orléans",
   "d": 2,
   "t": "Personnages médiévaux"
  },
  {
+  "id": "his_d_1-082",
   "q": "Quels trois frères romains affrontèrent en duel les trois Curiaces d'Albe ?",
   "r": "Les Horaces",
   "d": 2,
   "t": "Rome antique"
  },
  {
+  "id": "his_d_1-083",
   "q": "Quel prince portugais du XVe siècle, qui navigua fort peu, organisa les expéditions le long des côtes africaines ?",
   "r": "Henri le Navigateur",
   "d": 2,
   "t": "Grandes découvertes"
  },
  {
+  "id": "his_d_1-084",
   "q": "Quelle grotte de l'Ariège est célèbre pour son « Salon noir » orné de bisons et de chevaux ?",
   "r": "Niaux",
   "d": 3,
   "t": "Préhistoire"
  },
  {
+  "id": "his_d_1-085",
   "q": "Comment appelle-t-on un paysan médiéval attaché à la terre de son seigneur ?",
   "r": "Un serf",
   "d": 1,

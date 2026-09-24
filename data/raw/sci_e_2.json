@@ -1,509 +1,594 @@
 [
  {
+  "id": "sci_e_2-001",
   "q": "Comment appelle-t-on le phénomène qui fait associer, par exemple, des couleurs à des lettres ou à des sons ?",
   "r": "La synesthésie",
   "d": 2,
   "t": "Psychologie"
  },
  {
+  "id": "sci_e_2-002",
   "q": "Comment appelle-t-on un sifflement ou bourdonnement perçu dans l'oreille sans aucune source sonore extérieure ?",
   "r": "Un acouphène",
   "d": 2,
   "t": "Sens : l'ouïe"
  },
  {
+  "id": "sci_e_2-003",
   "q": "À partir de la fin de quel mois de grossesse l'embryon humain prend-il le nom de fœtus ?",
   "r": "Le deuxième mois",
   "d": 2,
   "t": "Reproduction"
  },
  {
+  "id": "sci_e_2-004",
   "q": "Quel terme médical désigne une perte de connaissance brève, un évanouissement ?",
   "r": "La syncope",
   "d": 2,
   "t": "Vocabulaire médical"
  },
  {
+  "id": "sci_e_2-005",
   "q": "Quels médicaments étaient visés par le slogan « … c'est pas automatique », lancé en 2002 par l'Assurance maladie ?",
   "r": "Les antibiotiques",
   "d": 1,
   "t": "Médicaments"
  },
  {
+  "id": "sci_e_2-006",
   "q": "Quelles cellules de l'épiderme fabriquent la mélanine ?",
   "r": "Les mélanocytes",
   "d": 2,
   "t": "Peau et phanères"
  },
  {
+  "id": "sci_e_2-007",
   "q": "Quel médecin français a donné son nom à une seringue à piston mise au point en 1853 ?",
   "r": "Charles-Gabriel Pravaz",
   "d": 3,
   "t": "Instruments médicaux"
  },
  {
+  "id": "sci_e_2-008",
   "q": "Quelles glandes de la peau, annexées aux poils, sécrètent le sébum ?",
   "r": "Les glandes sébacées",
   "d": 2,
   "t": "Peau et phanères"
  },
  {
+  "id": "sci_e_2-009",
   "q": "Quels acides gras, produits notamment par l'hydrogénation industrielle des huiles, sont jugés néfastes pour le cœur ?",
   "r": "Les acides gras trans",
   "d": 3,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-010",
   "q": "Quelle hormone, sécrétée après l'ovulation, prépare la muqueuse de l'utérus à accueillir un embryon ?",
   "r": "La progestérone",
   "d": 2,
   "t": "Reproduction"
  },
  {
+  "id": "sci_e_2-011",
   "q": "Quel sigle désigne l'examen qui enregistre l'activité électrique du cœur ?",
   "r": "L'ECG (électrocardiogramme)",
   "d": 1,
   "t": "Examens médicaux"
  },
  {
+  "id": "sci_e_2-012",
   "q": "Quel lobe du cerveau, situé derrière le front, est associé à la planification, au jugement et à la personnalité ?",
   "r": "Le lobe frontal",
   "d": 1,
   "t": "Cerveau et nerfs"
  },
  {
+  "id": "sci_e_2-013",
   "q": "Comment appelle-t-on la dilatation anormale de la paroi d'une artère, qui peut se rompre brutalement ?",
   "r": "Un anévrisme",
   "d": 2,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-014",
   "q": "Quel examen permet d'explorer l'intérieur du côlon à l'aide d'une caméra ?",
   "r": "La coloscopie",
   "d": 1,
   "t": "Examens médicaux"
  },
  {
+  "id": "sci_e_2-015",
   "q": "Comment qualifie-t-on un trouble provoqué par un traitement ou un acte médical ?",
   "r": "Iatrogène",
   "d": 3,
   "t": "Vocabulaire médical"
  },
  {
+  "id": "sci_e_2-016",
   "q": "Quelle spécialité médicale étudie les hormones et soigne notamment le diabète et les troubles de la thyroïde ?",
   "r": "L'endocrinologie",
   "d": 2,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-017",
   "q": "Quelle maladie auto-immune détruit la gaine protectrice des nerfs et évolue souvent par poussées ?",
   "r": "La sclérose en plaques",
   "d": 1,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-018",
   "q": "Quel mot, venu du grec et signifiant « sommeil profond », désigne une perte de conscience prolongée ?",
   "r": "Le coma",
   "d": 1,
   "t": "Vocabulaire médical"
  },
  {
+  "id": "sci_e_2-019",
   "q": "Quelle bactérie, redoutée chez la femme enceinte, justifie d'éviter les fromages au lait cru pendant la grossesse ?",
   "r": "La listeria",
   "d": 2,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-020",
   "q": "Quel sigle désigne la position dans laquelle on place une victime inconsciente qui respire ?",
   "r": "La PLS (position latérale de sécurité)",
   "d": 1,
   "t": "Urgences"
  },
  {
+  "id": "sci_e_2-021",
   "q": "Quelle artère transporte le sang pauvre en oxygène du ventricule droit vers les poumons ?",
   "r": "L'artère pulmonaire",
   "d": 2,
   "t": "Cœur et circulation"
  },
  {
+  "id": "sci_e_2-022",
   "q": "Comment qualifie-t-on un individu qui porte deux allèles différents d'un même gène ?",
   "r": "Hétérozygote",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_e_2-023",
   "q": "Quelle discipline étudie la fréquence, la répartition et les causes des maladies dans les populations ?",
   "r": "L'épidémiologie",
   "d": 2,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-024",
   "q": "Comment appelle-t-on en France le médecin, souvent généraliste, que chaque assuré déclare pour coordonner ses soins ?",
   "r": "Le médecin traitant",
   "d": 2,
   "t": "Santé publique"
  },
  {
+  "id": "sci_e_2-025",
   "q": "Quel liquide verdâtre, fabriqué par le foie, aide à digérer les graisses ?",
   "r": "La bile",
   "d": 1,
   "t": "Digestion"
  },
  {
+  "id": "sci_e_2-026",
   "q": "Quelle psychiatre suisse-américaine a décrit en 1969 les cinq étapes du deuil, du déni à l'acceptation ?",
   "r": "Elisabeth Kübler-Ross",
   "d": 3,
   "t": "Psychologie"
  },
  {
+  "id": "sci_e_2-027",
   "q": "Quelle spécialité médicale soigne les maladies des veines, comme les varices ?",
   "r": "La phlébologie",
   "d": 3,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-028",
   "q": "Quel psychiatre autrichien, rescapé des camps nazis, a écrit « Découvrir un sens à sa vie » ?",
   "r": "Viktor Frankl",
   "d": 3,
   "t": "Psychologie"
  },
  {
+  "id": "sci_e_2-029",
   "q": "Quelle spécialité médicale est consacrée à la grossesse et à l'accouchement ?",
   "r": "L'obstétrique",
   "d": 2,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-030",
   "q": "Quelle est la valeur approximative du pH du sang humain ?",
   "r": "Environ 7,4",
   "d": 3,
   "t": "Sang"
  },
  {
+  "id": "sci_e_2-031",
   "q": "Comment appelle-t-on l'énergie minimale que dépense le corps au repos complet pour assurer ses fonctions vitales ?",
   "r": "Le métabolisme de base",
   "d": 2,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-032",
   "q": "Quel fruit tropical contient la bromélaïne, une enzyme qui attendrit la viande ?",
   "r": "L'ananas",
   "d": 2,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-033",
   "q": "Quel suffixe médical, tiré du grec « couper hors », désigne l'ablation chirurgicale d'un organe ?",
   "r": "-ectomie",
   "d": 2,
   "t": "Vocabulaire médical"
  },
  {
+  "id": "sci_e_2-034",
   "q": "Quel biologiste suisse a isolé en 1869, dans le pus de pansements, la « nucléine », c'est-à-dire l'ADN ?",
   "r": "Friedrich Miescher",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_e_2-035",
   "q": "Quelle anomalie chromosomique, identifiée en 1959, est aussi appelée syndrome de Down ?",
   "r": "La trisomie 21",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_e_2-036",
   "q": "Quel instrument permet d'examiner le fond de l'œil ?",
   "r": "L'ophtalmoscope",
   "d": 3,
   "t": "Instruments médicaux"
  },
  {
+  "id": "sci_e_2-037",
   "q": "Quel instrument le médecin utilise-t-il pour écouter le cœur et les poumons ?",
   "r": "Le stéthoscope",
   "d": 1,
   "t": "Instruments médicaux"
  },
  {
+  "id": "sci_e_2-038",
   "q": "Comment appelle-t-on plus couramment les érythrocytes ?",
   "r": "Les globules rouges",
   "d": 1,
   "t": "Sang"
  },
  {
+  "id": "sci_e_2-039",
   "q": "Quelle maladie bactérienne, transmise par l'urine des rats, peut toucher baigneurs en eau douce et égoutiers ?",
   "r": "La leptospirose",
   "d": 3,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-040",
   "q": "Quel mot désigne un isolement sanitaire qui durait à l'origine 40 jours ?",
   "r": "La quarantaine",
   "d": 1,
   "t": "Vocabulaire médical"
  },
  {
+  "id": "sci_e_2-041",
   "q": "Quelle gaine isolante, riche en graisses, entoure de nombreux axones et accélère l'influx nerveux ?",
   "r": "La myéline",
   "d": 2,
   "t": "Cerveau et nerfs"
  },
  {
+  "id": "sci_e_2-042",
   "q": "Quel serment, rédigé dans l'Antiquité, les médecins prêtent-ils traditionnellement à la fin de leurs études ?",
   "r": "Le serment d'Hippocrate",
   "d": 1,
   "t": "Histoire de la médecine"
  },
  {
+  "id": "sci_e_2-043",
   "q": "Comment appelle-t-on le fait de se lever et de marcher pendant son sommeil ?",
   "r": "Le somnambulisme",
   "d": 1,
   "t": "Sommeil"
  },
  {
+  "id": "sci_e_2-044",
   "q": "Quel glucide complexe, réserve d'énergie des végétaux, abonde dans la pomme de terre et les céréales ?",
   "r": "L'amidon",
   "d": 1,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-045",
   "q": "Quel minéral, présent dans le chocolat noir et les amandes, est souvent conseillé contre la fatigue et les crampes ?",
   "r": "Le magnésium",
   "d": 1,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-046",
   "q": "Comment appelle-t-on la bouillie d'aliments partiellement digérés qui passe de l'estomac à l'intestin ?",
   "r": "Le chyme",
   "d": 3,
   "t": "Digestion"
  },
  {
+  "id": "sci_e_2-047",
   "q": "Comment appelle-t-on la baisse progressive de l'audition liée au vieillissement ?",
   "r": "La presbyacousie",
   "d": 3,
   "t": "Sens : l'ouïe"
  },
  {
+  "id": "sci_e_2-048",
   "q": "Comment s'appelle le long prolongement unique d'un neurone qui conduit l'influx nerveux vers d'autres cellules ?",
   "r": "L'axone",
   "d": 2,
   "t": "Cerveau et nerfs"
  },
  {
+  "id": "sci_e_2-049",
   "q": "Comment appelle-t-on la contraction brusque et involontaire du diaphragme, accompagnée d'un bruit caractéristique ?",
   "r": "Le hoquet",
   "d": 1,
   "t": "Respiration"
  },
  {
+  "id": "sci_e_2-050",
   "q": "Quelle forme d'autisme sans retard du langage porte le nom d'un pédiatre autrichien qui la décrivit en 1944 ?",
   "r": "Le syndrome d'Asperger",
   "d": 2,
   "t": "Psychologie"
  },
  {
+  "id": "sci_e_2-051",
   "q": "Comment s'appellent les deux conduits issus de la trachée qui pénètrent dans les poumons ?",
   "r": "Les bronches",
   "d": 1,
   "t": "Respiration"
  },
  {
+  "id": "sci_e_2-052",
   "q": "Quel rongeur a été identifié en 1898 par Paul-Louis Simond comme transmettant la peste à l'homme par ses puces ?",
   "r": "Le rat",
   "d": 2,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-053",
   "q": "Quel liquide volatil a permis à Boston, en 1846, la première démonstration publique d'une anesthésie générale ?",
   "r": "L'éther",
   "d": 2,
   "t": "Histoire de la médecine"
  },
  {
+  "id": "sci_e_2-054",
   "q": "Quelle substance gélifiante tirée d'algues rouges sert de base aux milieux de culture des bactéries ?",
   "r": "L'agar-agar (gélose)",
   "d": 3,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_e_2-055",
   "q": "Comment appelle-t-on la famille de plantes des lentilles, pois chiches et haricots, riches en protéines ?",
   "r": "Les légumineuses",
   "d": 1,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-056",
   "q": "En quelle année est née en Angleterre Louise Brown, premier « bébé-éprouvette » du monde ?",
   "r": "1978",
   "d": 2,
   "t": "Histoire de la médecine"
  },
  {
+  "id": "sci_e_2-057",
   "q": "Quelle maladie, due à un excès d'acide urique, provoque des crises douloureuses typiquement au gros orteil ?",
   "r": "La goutte",
   "d": 1,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-058",
   "q": "Comment appelle-t-on le trouble psychique qui peut survenir après un événement violent, avec cauchemars et reviviscences ?",
   "r": "Le stress post-traumatique",
   "d": 1,
   "t": "Psychologie"
  },
  {
+  "id": "sci_e_2-059",
   "q": "Comment appelle-t-on les protéines qui accélèrent les réactions chimiques dans les êtres vivants ?",
   "r": "Les enzymes",
   "d": 1,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_e_2-060",
   "q": "Quelle molécule antipaludique, tirée de l'armoise annuelle, a valu le prix Nobel de médecine 2015 à la Chinoise Tu Youyou ?",
   "r": "L'artémisinine",
   "d": 3,
   "t": "Médicaments"
  },
  {
+  "id": "sci_e_2-061",
   "q": "Comment appelle-t-on le médecin spécialiste des yeux ?",
   "r": "L'ophtalmologue (ophtalmologiste)",
   "d": 1,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-062",
   "q": "Comment appelle-t-on la brusque secousse musculaire, avec impression de chute, qui survient parfois à l'endormissement ?",
   "r": "La secousse hypnique",
   "d": 3,
   "t": "Sommeil"
  },
  {
+  "id": "sci_e_2-063",
   "q": "Comment appelle-t-on couramment l'herpès qui se manifeste par des vésicules sur la lèvre ?",
   "r": "Un bouton de fièvre",
   "d": 1,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-064",
   "q": "Comment appelle-t-on les jumeaux issus de deux ovules différents, fécondés par deux spermatozoïdes ?",
   "r": "Des jumeaux dizygotes (faux jumeaux)",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_e_2-065",
   "q": "Quel sens est altéré chez une personne atteinte d'agueusie ?",
   "r": "Le goût",
   "d": 2,
   "t": "Sens : le goût"
  },
  {
+  "id": "sci_e_2-066",
   "q": "Quelle spécialité chirurgicale traite les voies urinaires et l'appareil génital masculin ?",
   "r": "L'urologie",
   "d": 2,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-067",
   "q": "Combien de kilocalories apporte un gramme de glucides ?",
   "r": "4 kcal",
   "d": 2,
   "t": "Nutrition"
  },
  {
+  "id": "sci_e_2-068",
   "q": "Quelle infection parasitaire, souvent transmise par les chats ou la viande mal cuite, est redoutée chez la femme enceinte ?",
   "r": "La toxoplasmose",
   "d": 2,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-069",
   "q": "Quelle maladie chronique de la peau se manifeste par des plaques rouges recouvertes de squames blanches ?",
   "r": "Le psoriasis",
   "d": 2,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-070",
   "q": "Quel obstétricien français a popularisé dans les années 1950 la méthode de l'« accouchement sans douleur » ?",
   "r": "Fernand Lamaze",
   "d": 3,
   "t": "Histoire de la médecine"
  },
  {
+  "id": "sci_e_2-071",
   "q": "Quelle glande située derrière le sternum, très active chez l'enfant, assure la maturation des lymphocytes T ?",
   "r": "Le thymus",
   "d": 3,
   "t": "Hormones et glandes"
  },
  {
+  "id": "sci_e_2-072",
   "q": "Quel trouble se caractérise par des arrêts répétés de la respiration pendant le sommeil ?",
   "r": "L'apnée du sommeil",
   "d": 1,
   "t": "Sommeil"
  },
  {
+  "id": "sci_e_2-073",
   "q": "Quel os forme la mâchoire inférieure, seule pièce mobile du squelette de la face ?",
   "r": "La mandibule",
   "d": 2,
   "t": "Os et squelette"
  },
  {
+  "id": "sci_e_2-074",
   "q": "Dans quel canal osseux, formé par l'empilement des vertèbres, est logée la moelle épinière ?",
   "r": "Le canal rachidien (vertébral)",
   "d": 2,
   "t": "Os et squelette"
  },
  {
+  "id": "sci_e_2-075",
   "q": "Quelle spécialité médicale, pratiquée notamment lors des autopsies judiciaires, se met au service de la justice ?",
   "r": "La médecine légale",
   "d": 1,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-076",
   "q": "Comment appelle-t-on la protection d'une population obtenue quand une grande part de ses membres est immunisée ?",
   "r": "L'immunité collective",
   "d": 1,
   "t": "Immunité"
  },
  {
+  "id": "sci_e_2-077",
   "q": "En quelle année l'Organisation mondiale de la santé a-t-elle été créée ?",
   "r": "1948",
   "d": 2,
   "t": "Santé publique"
  },
  {
+  "id": "sci_e_2-078",
   "q": "Quelle branche de la dentisterie corrige la position des dents, souvent grâce à des bagues ?",
   "r": "L'orthodontie",
   "d": 1,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-079",
   "q": "Quels sont les deux osselets de l'oreille moyenne qui accompagnent l'étrier ?",
   "r": "Le marteau et l'enclume",
   "d": 1,
   "t": "Sens : l'ouïe"
  },
  {
+  "id": "sci_e_2-080",
   "q": "Quelle est la durée moyenne d'un cycle menstruel, en jours ?",
   "r": "28 jours",
   "d": 1,
   "t": "Reproduction"
  },
  {
+  "id": "sci_e_2-081",
   "q": "Quelle maladie infantile due à un streptocoque donne une éruption rouge et une langue « framboisée » ?",
   "r": "La scarlatine",
   "d": 2,
   "t": "Maladies"
  },
  {
+  "id": "sci_e_2-082",
   "q": "Comment appelle-t-on une maladie dans laquelle le système immunitaire s'attaque aux propres tissus de l'organisme ?",
   "r": "Une maladie auto-immune",
   "d": 1,
   "t": "Immunité"
  },
  {
+  "id": "sci_e_2-083",
   "q": "Comment appelle-t-on une infection contractée lors d'un séjour à l'hôpital ?",
   "r": "Une infection nosocomiale",
   "d": 1,
   "t": "Vocabulaire médical"
  },
  {
+  "id": "sci_e_2-084",
   "q": "Quelle spécialité médicale soigne les maladies de l'estomac, de l'intestin et du foie ?",
   "r": "La gastro-entérologie",
   "d": 2,
   "t": "Spécialités médicales"
  },
  {
+  "id": "sci_e_2-085",
   "q": "Quelle maladie virale très contagieuse, correspondant au « R » du vaccin ROR, provoque fièvre et éruption de taches rouges ?",
   "r": "La rougeole",
   "d": 1,

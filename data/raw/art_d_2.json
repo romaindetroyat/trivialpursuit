@@ -1,509 +1,594 @@
 [
  {
+  "id": "art_d_2-001",
   "q": "Comment appelle-t-on la partie finale d'une pièce, où l'intrigue se résout ?",
   "r": "Le dénouement",
   "d": 1,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-002",
   "q": "Comment appelle-t-on la répétition d'un même mot en tête de vers ou de phrases successifs ?",
   "r": "L'anaphore",
   "d": 2,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-003",
   "q": "Quel poète a écrit « Il n'y a pas d'amour heureux », mis en musique par Georges Brassens ?",
   "r": "Louis Aragon",
   "d": 2,
   "t": "Poésie"
  },
  {
+  "id": "art_d_2-004",
   "q": "Comment appelle-t-on les grandes divisions d'une pièce, au nombre de cinq dans une tragédie classique ?",
   "r": "Les actes",
   "d": 1,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-005",
   "q": "Quel récit de Jean Giono raconte l'histoire du berger Elzéard Bouffier, qui reboise seul une région aride ?",
   "r": "L'Homme qui plantait des arbres",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-006",
   "q": "Quelle justicière masquée, en collant jaune et cape rouge, a été créée par Georges Chaulet en 1961 ?",
   "r": "Fantômette",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_d_2-007",
   "q": "Quel objet se trouve à l'origine étymologique du mot « texte » ?",
   "r": "Un tissu",
   "d": 2,
   "t": "Étymologie"
  },
  {
+  "id": "art_d_2-008",
   "q": "Comment appelle-t-on un récit de survie sur une île déserte, dans la lignée du roman de Defoe ?",
   "r": "Une robinsonnade",
   "d": 2,
   "t": "Genres littéraires"
  },
  {
+  "id": "art_d_2-009",
   "q": "Comment s'appelle l'épée de Charlemagne dans les chansons de geste ?",
   "r": "Joyeuse",
   "d": 3,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_d_2-010",
   "q": "Quelle figure croise deux groupes de mots en miroir, comme « Il faut manger pour vivre et non pas vivre pour manger » ?",
   "r": "Le chiasme",
   "d": 3,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-011",
   "q": "Dans quel cimetière parisien reposent Balzac, Molière et La Fontaine ?",
   "r": "Le Père-Lachaise",
   "d": 1,
   "t": "Lieux littéraires"
  },
  {
+  "id": "art_d_2-012",
   "q": "Selon la fable et l'expression, de quoi la montagne accouche-t-elle après bien des cris ?",
   "r": "D'une souris",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_d_2-013",
   "q": "Quel personnage de Ponson du Terrail a donné un adjectif qualifiant des aventures pleines de péripéties invraisemblables ?",
   "r": "Rocambole",
   "d": 1,
   "t": "Polar et aventure"
  },
  {
+  "id": "art_d_2-014",
   "q": "Par quel volcan italien les héros de « Voyage au centre de la Terre » ressortent-ils à l'air libre ?",
   "r": "Le Stromboli",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-015",
   "q": "Quel art, dont le nom signifie en grec « belle écriture », consiste à tracer de beaux caractères ?",
   "r": "La calligraphie",
   "d": 1,
   "t": "Étymologie"
  },
  {
+  "id": "art_d_2-016",
   "q": "Quel recueil de poèmes en prose de Rimbaud a été publié en 1886 grâce à Verlaine ?",
   "r": "Illuminations",
   "d": 3,
   "t": "Poésie"
  },
  {
+  "id": "art_d_2-017",
   "q": "Quel écrivain français a écrit « La Planète des singes » (1963) ?",
   "r": "Pierre Boulle",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_d_2-018",
   "q": "Quelle figure de style rapproche deux éléments à l'aide d'un outil comme « comme », « tel » ou « pareil à » ?",
   "r": "La comparaison",
   "d": 1,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-019",
   "q": "De quel mot scolaire dérive « grimoire », le livre des sorciers ?",
   "r": "Grammaire",
   "d": 2,
   "t": "Étymologie"
  },
  {
+  "id": "art_d_2-020",
   "q": "Dans « Les Misérables », quel couple d'aubergistes de Montfermeil exploite la petite Cosette ?",
   "r": "Les Thénardier",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-021",
   "q": "Quel roman d'anticipation de Jules Verne, longtemps resté dans un coffre, n'a été publié qu'en 1994 ?",
   "r": "Paris au XXe siècle",
   "d": 3,
   "t": "Science-fiction"
  },
  {
+  "id": "art_d_2-022",
   "q": "Quel psychiatre et essayiste martiniquais a écrit « Peau noire, masques blancs » (1952) ?",
   "r": "Frantz Fanon",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_d_2-023",
   "q": "De quel nom de famille le pseudonyme de Marguerite Yourcenar est-il presque l'anagramme ?",
   "r": "Crayencour",
   "d": 3,
   "t": "Pseudonymes"
  },
  {
+  "id": "art_d_2-024",
   "q": "Quel récit autobiographique de Sartre, paru en 1964, se divise en deux parties, « Lire » et « Écrire » ?",
   "r": "Les Mots",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-025",
   "q": "Quel poète surréaliste, mort en déportation en 1945, a écrit « Une fourmi de dix-huit mètres » ?",
   "r": "Robert Desnos",
   "d": 2,
   "t": "Poésie"
  },
  {
+  "id": "art_d_2-026",
   "q": "Quel chevalier de Chrétien de Troyes est accompagné d'un lion qu'il a sauvé d'un serpent ?",
   "r": "Yvain",
   "d": 2,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_d_2-027",
   "q": "Quel ouvrage posthume et fragmentaire de Blaise Pascal devait être une apologie de la religion chrétienne ?",
   "r": "Les Pensées",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-028",
   "q": "Quelle devise d'Artagnan et ses amis adoptent-ils dans « Les Trois Mousquetaires » ?",
   "r": "« Tous pour un, un pour tous »",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-029",
   "q": "Quel roman de Jules Vallès (1879) ouvre une trilogie autobiographique poursuivie par « Le Bachelier » et « L'Insurgé » ?",
   "r": "L'Enfant",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-030",
   "q": "Quel roman de Paul Féval rend célèbre la phrase « Si tu ne viens pas à Lagardère, Lagardère ira à toi » ?",
   "r": "Le Bossu",
   "d": 1,
   "t": "Polar et aventure"
  },
  {
+  "id": "art_d_2-031",
   "q": "Quel policier poursuit Phileas Fogg, qu'il croit coupable d'un vol à la Banque d'Angleterre ?",
   "r": "L'inspecteur Fix",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-032",
   "q": "Comment s'appelle le perroquet de Félicité dans « Un cœur simple » de Flaubert ?",
   "r": "Loulou",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-033",
   "q": "Quel roman-feuilleton d'Eugène Sue (1842-1843) plonge le prince Rodolphe dans les bas-fonds de la capitale ?",
   "r": "Les Mystères de Paris",
   "d": 2,
   "t": "Polar et aventure"
  },
  {
+  "id": "art_d_2-034",
   "q": "Dans « Germinal », quel nom porte le puits de mine, comparé à une bête qui dévore les hommes ?",
   "r": "Le Voreux",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-035",
   "q": "Quel est le véritable nom de famille de Françoise Sagan ?",
   "r": "Quoirez",
   "d": 3,
   "t": "Pseudonymes"
  },
  {
+  "id": "art_d_2-036",
   "q": "Comment appelle-t-on des rimes disposées selon le schéma ABAB ?",
   "r": "Des rimes croisées",
   "d": 1,
   "t": "Poésie"
  },
  {
+  "id": "art_d_2-037",
   "q": "Comment s'appelle le narrateur de « L'Étranger » de Camus, condamné à mort pour un meurtre sur une plage ?",
   "r": "Meursault",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-038",
   "q": "Quel est le deuxième tome des « Souvenirs d'enfance » de Marcel Pagnol ?",
   "r": "Le Château de ma mère",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-039",
   "q": "Comment appelle-t-on un mot formé par la fusion de deux autres, comme « franglais » ?",
   "r": "Un mot-valise",
   "d": 1,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-040",
   "q": "Comment appelle-t-on un poème dont les initiales des vers, lues de haut en bas, forment un mot ?",
   "r": "Un acrostiche",
   "d": 1,
   "t": "Poésie"
  },
  {
+  "id": "art_d_2-041",
   "q": "Dans « Notre-Dame de Paris », comment s'appelle la chèvre savante de la bohémienne Esmeralda ?",
   "r": "Djali",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-042",
   "q": "Comment appelle-t-on l'inversion de sons qui change le sens d'une phrase, spécialité d'une rubrique du Canard enchaîné ?",
   "r": "La contrepèterie",
   "d": 1,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-043",
   "q": "Quel larcin a d'abord envoyé Jean Valjean au bagne ?",
   "r": "Le vol d'un pain",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-044",
   "q": "Comment appelle-t-on une courte citation placée en tête d'un livre ou d'un chapitre ?",
   "r": "Une épigraphe",
   "d": 2,
   "t": "Édition"
  },
  {
+  "id": "art_d_2-045",
   "q": "Comment appelle-t-on un livre réunissant plusieurs poèmes ou nouvelles d'un même auteur ?",
   "r": "Un recueil",
   "d": 1,
   "t": "Genres littéraires"
  },
  {
+  "id": "art_d_2-046",
   "q": "Quel conte fantastique de Maupassant met en scène un être invisible qui prend possession du narrateur ?",
   "r": "Le Horla",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-047",
   "q": "Quel traître livre aux Sarrasins l'arrière-garde de Charlemagne dans « La Chanson de Roland » ?",
   "r": "Ganelon",
   "d": 2,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_d_2-048",
   "q": "Quel médecin de théâtre affirme que « tout homme bien portant est un malade qui s'ignore » ?",
   "r": "Knock",
   "d": 1,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-049",
   "q": "Quel dialogue de Diderot, publié après sa mort, met en scène le parent bohème d'un célèbre compositeur ?",
   "r": "Le Neveu de Rameau",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-050",
   "q": "Quel roman de Camara Laye (1953) raconte son enfance en Haute-Guinée ?",
   "r": "L'Enfant noir",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_d_2-051",
   "q": "Dans le premier dessin du narrateur du « Petit Prince », quel animal a avalé un éléphant ?",
   "r": "Un serpent boa",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-052",
   "q": "Quel texte de 842, prêté par deux petits-fils de Charlemagne, est le plus ancien document écrit en langue romane ?",
   "r": "Les Serments de Strasbourg",
   "d": 3,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_d_2-053",
   "q": "Quelle pièce d'Edmond Rostand (1900) a pour héros le fils de Napoléon Ier, duc de Reichstadt ?",
   "r": "L'Aiglon",
   "d": 2,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-054",
   "q": "Comment appelle-t-on l'imitation du style d'un auteur, exercice dans lequel Proust excellait ?",
   "r": "Le pastiche",
   "d": 2,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-055",
   "q": "Dans quel pays légendaire d'Amérique du Sud Candide voit-il des enfants jouer avec des pierres d'or ?",
   "r": "L'Eldorado",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-056",
   "q": "Dans quel village proche de Genève Voltaire s'installa-t-il, au point d'en être surnommé le « patriarche » ?",
   "r": "Ferney (Ferney-Voltaire)",
   "d": 2,
   "t": "Lieux littéraires"
  },
  {
+  "id": "art_d_2-057",
   "q": "Dans « Le Petit Prince », quel personnage passe son temps à compter les étoiles qu'il croit posséder ?",
   "r": "Le businessman",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-058",
   "q": "Quel pseudonyme a pris Louis Farigoule, auteur de « Knock » ?",
   "r": "Jules Romains",
   "d": 3,
   "t": "Pseudonymes"
  },
  {
+  "id": "art_d_2-059",
   "q": "Quel roman d'Henri Barbusse, tiré de son expérience des tranchées, a obtenu le prix Goncourt en 1916 ?",
   "r": "Le Feu",
   "d": 2,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_d_2-060",
   "q": "Quelle petite souris est l'amie de l'ours Ernest dans les albums de Gabrielle Vincent ?",
   "r": "Célestine",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_d_2-061",
   "q": "Quel surnom portait le boulevard du Temple à Paris, au XIXe siècle, à cause des mélodrames sanglants qu'on y jouait ?",
   "r": "Le boulevard du Crime",
   "d": 3,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-062",
   "q": "Dans quel village imaginaire le narrateur de Proust passe-t-il ses vacances d'enfance chez sa tante Léonie ?",
   "r": "Combray",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-063",
   "q": "Quelle figure de style prête des traits humains à un objet, un animal ou une idée ?",
   "r": "La personnification",
   "d": 1,
   "t": "Figures de style"
  },
  {
+  "id": "art_d_2-064",
   "q": "Quel roman de Romain Gary, consacré à la défense des éléphants d'Afrique, a obtenu le prix Goncourt en 1956 ?",
   "r": "Les Racines du ciel",
   "d": 2,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_d_2-065",
   "q": "Quel ancien bagnard a raconté son évasion de Guyane dans « Papillon » (1969) ?",
   "r": "Henri Charrière",
   "d": 2,
   "t": "Polar et aventure"
  },
  {
+  "id": "art_d_2-066",
   "q": "De quelle fable de La Fontaine vient l'expression « tirer les marrons du feu » ?",
   "r": "Le Singe et le Chat",
   "d": 3,
   "t": "Expressions"
  },
  {
+  "id": "art_d_2-067",
   "q": "Quel nom porte la troupe fondée en 1643 par Molière et la famille Béjart ?",
   "r": "L'Illustre Théâtre",
   "d": 2,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-068",
   "q": "Sur quelle place parisienne se trouve l'appartement de Victor Hugo devenu musée ?",
   "r": "La place des Vosges",
   "d": 2,
   "t": "Lieux littéraires"
  },
  {
+  "id": "art_d_2-069",
   "q": "Quel roman de Zola raconte la déchéance de la blanchisseuse Gervaise dans le quartier de la Goutte-d'Or ?",
   "r": "L'Assommoir",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-070",
   "q": "Avec quel poison Emma Bovary met-elle fin à ses jours ?",
   "r": "L'arsenic",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-071",
   "q": "Dans « La Cigale et la Fourmi », que faisait la cigale pendant tout l'été ?",
   "r": "Elle chantait",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_d_2-072",
   "q": "Quelle profession exerce Charles Bovary, le mari d'Emma ?",
   "r": "Médecin (officier de santé)",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-073",
   "q": "Comment appelle-t-on un parchemin dont on a gratté le texte pour en écrire un nouveau ?",
   "r": "Un palimpseste",
   "d": 3,
   "t": "Édition"
  },
  {
+  "id": "art_d_2-074",
   "q": "Quelle jeune lingère de la reine est aimée de d'Artagnan dans « Les Trois Mousquetaires » ?",
   "r": "Constance Bonacieux",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-075",
   "q": "Quel mot désignant un patriotisme exagéré vient d'un soldat de l'Empire popularisé par le théâtre et la chanson ?",
   "r": "Le chauvinisme",
   "d": 2,
   "t": "Étymologie"
  },
  {
+  "id": "art_d_2-076",
   "q": "Quel dramaturge a écrit « Becket ou l'Honneur de Dieu » et « Le Voyageur sans bagage » ?",
   "r": "Jean Anouilh",
   "d": 2,
   "t": "Théâtre"
  },
  {
+  "id": "art_d_2-077",
   "q": "Quel roman de Jules Verne raconte la survie de colons échoués en ballon sur une île du Pacifique ?",
   "r": "L'Île mystérieuse",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_d_2-078",
   "q": "Comment appelait-on en France, avant « science-fiction », les récits futuristes à la manière de Verne ou de Robida ?",
   "r": "Roman d'anticipation (ou scientifique)",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "art_d_2-079",
   "q": "Sur quel îlot face à Saint-Malo se trouve le tombeau de Chateaubriand ?",
   "r": "Le Grand Bé",
   "d": 2,
   "t": "Lieux littéraires"
  },
  {
+  "id": "art_d_2-080",
   "q": "Quels soldats, rivaux des mousquetaires du roi, affrontent sans cesse d'Artagnan et ses amis en duel ?",
   "r": "Les gardes du cardinal",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-081",
   "q": "Comment qualifie-t-on une œuvre publiée après la mort de son auteur ?",
   "r": "Posthume",
   "d": 1,
   "t": "Genres littéraires"
  },
  {
+  "id": "art_d_2-082",
   "q": "Quelle jeune veuve indienne Phileas Fogg sauve-t-il du bûcher avant de l'épouser ?",
   "r": "Aouda",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_d_2-083",
   "q": "Comment appelle-t-on un roman qui suit la formation d'un jeune héros jusqu'à l'âge adulte ?",
   "r": "Un roman d'apprentissage (de formation)",
   "d": 2,
   "t": "Genres littéraires"
  },
  {
+  "id": "art_d_2-084",
   "q": "Quel mot, tiré d'un roman de Flaubert, désigne la tendance à se rêver une vie autre que la sienne ?",
   "r": "Le bovarysme",
   "d": 1,
   "t": "Étymologie"
  },
  {
+  "id": "art_d_2-085",
   "q": "Quel écrivain d'origine chinoise, naturalisé français, a reçu le prix Nobel de littérature en 2000 ?",
   "r": "Gao Xingjian",
   "d": 3,

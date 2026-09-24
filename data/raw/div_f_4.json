@@ -1,509 +1,594 @@
 [
  {
+  "id": "div_f_4-001",
   "q": "Quel groupe irlandais de Dolores O'Riordan a chanté « Zombie » en 1994 ?",
   "r": "The Cranberries",
   "d": 1,
   "t": "Rock"
  },
  {
+  "id": "div_f_4-002",
   "q": "Quel groupe toulousain a chanté « Tomber la chemise » en 1999 ?",
   "r": "Zebda",
   "d": 1,
   "t": "Rock français"
  },
  {
+  "id": "div_f_4-003",
   "q": "Quelle chanteuse a écrit et interprété « Amoureuse » en 1972 ?",
   "r": "Véronique Sanson",
   "d": 2,
   "t": "Variété française"
  },
  {
+  "id": "div_f_4-004",
   "q": "Quel poète a écrit « Aimer à perdre la raison », mis en musique et chanté par Jean Ferrat ?",
   "r": "Louis Aragon",
   "d": 2,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-005",
   "q": "Quelle chanteuse a représenté le Luxembourg à l'Eurovision 1988 avec « Croire » ?",
   "r": "Lara Fabian",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_f_4-006",
   "q": "Quelle salle de concert parisienne de la Villette, inaugurée en 1984, a donné son nom à des salles dans toute la France ?",
   "r": "Le Zénith",
   "d": 1,
   "t": "Salles de concert"
  },
  {
+  "id": "div_f_4-007",
   "q": "Quelle chanteuse américaine, ancienne star de la série « Hannah Montana », a chanté « Wrecking Ball » en 2013 ?",
   "r": "Miley Cyrus",
   "d": 1,
   "t": "Pop américaine"
  },
  {
+  "id": "div_f_4-008",
   "q": "Quel service de streaming musical a été fondé en Suède en 2006 ?",
   "r": "Spotify",
   "d": 1,
   "t": "Supports musicaux"
  },
  {
+  "id": "div_f_4-009",
   "q": "Quel artiste pop a conçu la pochette à fermeture Éclair de « Sticky Fingers » des Rolling Stones (1971) ?",
   "r": "Andy Warhol",
   "d": 3,
   "t": "Pochettes"
  },
  {
+  "id": "div_f_4-010",
   "q": "Quel chanteur né à Constantine a chanté « Adieu mon pays » en 1962 ?",
   "r": "Enrico Macias",
   "d": 2,
   "t": "Variété française"
  },
  {
+  "id": "div_f_4-011",
   "q": "Que désigne l'abréviation « BPM » en musique électronique ?",
   "r": "Battements par minute",
   "d": 1,
   "t": "Vocabulaire musical"
  },
  {
+  "id": "div_f_4-012",
   "q": "Quelle chanteuse québécoise a connu le succès avec « Comme des enfants » en 2008 ?",
   "r": "Cœur de pirate",
   "d": 2,
   "t": "Variété francophone"
  },
  {
+  "id": "div_f_4-013",
   "q": "Quelle danse de couple est née à la fin du XIXe siècle dans les faubourgs de Buenos Aires et de Montevideo ?",
   "r": "Le tango",
   "d": 1,
   "t": "Danses"
  },
  {
+  "id": "div_f_4-014",
   "q": "Quel chef d'orchestre de swing, célèbre pour « In the Mood », a disparu au-dessus de la Manche en décembre 1944 ?",
   "r": "Glenn Miller",
   "d": 2,
   "t": "Jazz"
  },
  {
+  "id": "div_f_4-015",
   "q": "Dans « Starmania », comment s'appelle le milliardaire qui brigue la présidence de l'Occident ?",
   "r": "Zéro Janvier",
   "d": 3,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_f_4-016",
   "q": "Quel boys band sud-coréen a été le premier groupe de K-pop en tête du Billboard Hot 100, avec « Dynamite » en 2020 ?",
   "r": "BTS",
   "d": 2,
   "t": "Pop"
  },
  {
+  "id": "div_f_4-017",
   "q": "Comment appelle-t-on le petit accessoire, tenu entre les doigts, qui sert à gratter les cordes d'une guitare ?",
   "r": "Le médiator",
   "d": 1,
   "t": "Instruments"
  },
  {
+  "id": "div_f_4-018",
   "q": "Quel baladeur numérique Apple a-t-il lancé en 2001 ?",
   "r": "L'iPod",
   "d": 1,
   "t": "Supports musicaux"
  },
  {
+  "id": "div_f_4-019",
   "q": "À quels deux bluesmen américains Pink Floyd doit-il son nom ?",
   "r": "Pink Anderson et Floyd Council",
   "d": 3,
   "t": "Noms de groupes"
  },
  {
+  "id": "div_f_4-020",
   "q": "Quel album de Céline Dion, sorti en 1995 et conçu par Jean-Jacques Goldman, contient « Pour que tu m'aimes encore » ?",
   "r": "D'eux",
   "d": 2,
   "t": "Albums"
  },
  {
+  "id": "div_f_4-021",
   "q": "Quel chanteur australien d'origine belge a signé « Somebody That I Used to Know » en 2011 ?",
   "r": "Gotye",
   "d": 3,
   "t": "Pop"
  },
  {
+  "id": "div_f_4-022",
   "q": "Quel chanteur ostendais à la voix rocailleuse a repris « Les Filles du bord de mer » d'Adamo ?",
   "r": "Arno",
   "d": 3,
   "t": "Reprises"
  },
  {
+  "id": "div_f_4-023",
   "q": "Quel chanteur espagnol, gardien de but chez les jeunes du Real Madrid, s'est tourné vers la chanson après un accident de voiture ?",
   "r": "Julio Iglesias",
   "d": 2,
   "t": "Pop latino"
  },
  {
+  "id": "div_f_4-024",
   "q": "Quel album de musiciens cubains, produit par Ry Cooder en 1997, a donné son titre à un documentaire de Wim Wenders ?",
   "r": "Buena Vista Social Club",
   "d": 2,
   "t": "Musiques du monde"
  },
  {
+  "id": "div_f_4-025",
   "q": "Comment appelle-t-on le chant alpin qui alterne rapidement voix de poitrine et voix de tête ?",
   "r": "Le yodel (la tyrolienne)",
   "d": 1,
   "t": "Musiques du monde"
  },
  {
+  "id": "div_f_4-026",
   "q": "Quelle comédie musicale de Kander et Ebb se déroule dans le Kit Kat Klub du Berlin des années 1930 ?",
   "r": "Cabaret",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_f_4-027",
   "q": "De quelle pièce de George Bernard Shaw la comédie musicale « My Fair Lady » est-elle adaptée ?",
   "r": "Pygmalion",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_f_4-028",
   "q": "Quelle chanteuse égyptienne, surnommée « l'Astre de l'Orient », fut la plus grande voix du monde arabe au XXe siècle ?",
   "r": "Oum Kalthoum",
   "d": 2,
   "t": "Musiques du monde"
  },
  {
+  "id": "div_f_4-029",
   "q": "Quel pays a remporté l'Eurovision pour la première fois en 2017, grâce à Salvador Sobral ?",
   "r": "Le Portugal",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_f_4-030",
   "q": "Quel appareil à pièces, installé dans les bars, joue le disque choisi par le client ?",
   "r": "Le juke-box",
   "d": 1,
   "t": "Supports musicaux"
  },
  {
+  "id": "div_f_4-031",
   "q": "Quel dispositif fixé sur le manche d'une guitare permet de monter la tonalité sans changer les doigtés ?",
   "r": "Le capodastre",
   "d": 2,
   "t": "Instruments"
  },
  {
+  "id": "div_f_4-032",
   "q": "Quel trio texan est reconnaissable aux très longues barbes de deux de ses membres ?",
   "r": "ZZ Top",
   "d": 1,
   "t": "Rock"
  },
  {
+  "id": "div_f_4-033",
   "q": "Quel groupe de reggae acoustique français a chanté « L'hymne de nos campagnes » ?",
   "r": "Tryo",
   "d": 2,
   "t": "Reggae"
  },
  {
+  "id": "div_f_4-034",
   "q": "Quelle chanson de Claude François (1963) est l'adaptation de « If I Had a Hammer » ?",
   "r": "Si j'avais un marteau",
   "d": 1,
   "t": "Reprises"
  },
  {
+  "id": "div_f_4-035",
   "q": "De quel essai d'Aldous Huxley le groupe The Doors tire-t-il son nom ?",
   "r": "Les Portes de la perception",
   "d": 3,
   "t": "Noms de groupes"
  },
  {
+  "id": "div_f_4-036",
   "q": "Quelle chanteuse a enchanté les enfants avec « Bécassine, c'est ma cousine » en 1979 ?",
   "r": "Chantal Goya",
   "d": 1,
   "t": "Variété française"
  },
  {
+  "id": "div_f_4-037",
   "q": "Quel rappeur belge est le frère de la chanteuse Angèle ?",
   "r": "Roméo Elvis",
   "d": 2,
   "t": "Rap francophone"
  },
  {
+  "id": "div_f_4-038",
   "q": "Quelle chanteuse folk américaine a chanté « Here's to You » pour le film « Sacco et Vanzetti » (1971) ?",
   "r": "Joan Baez",
   "d": 2,
   "t": "Folk-rock"
  },
  {
+  "id": "div_f_4-039",
   "q": "Quelle chanteuse bretonne a remporté la deuxième saison de la « Star Academy » en 2002 ?",
   "r": "Nolwenn Leroy",
   "d": 2,
   "t": "Pop française"
  },
  {
+  "id": "div_f_4-040",
   "q": "Quelle chanteuse a chanté « Banana split » en 1979 ?",
   "r": "Lio",
   "d": 1,
   "t": "Pop française"
  },
  {
+  "id": "div_f_4-041",
   "q": "Quel duo américain a signé en 2003 « Seven Nation Army », dont le riff est repris en chœur dans les stades ?",
   "r": "The White Stripes",
   "d": 2,
   "t": "Rock"
  },
  {
+  "id": "div_f_4-042",
   "q": "Quelle chanteuse de blues a créé « Hound Dog » avant la version d'Elvis Presley ?",
   "r": "Big Mama Thornton",
   "d": 3,
   "t": "Blues"
  },
  {
+  "id": "div_f_4-043",
   "q": "Quel guitariste espagnol a révolutionné le flamenco, notamment avec « Entre dos aguas » (1973) ?",
   "r": "Paco de Lucía",
   "d": 3,
   "t": "Musiques du monde"
  },
  {
+  "id": "div_f_4-044",
   "q": "Quelle chanson de 1981 réunit Queen et David Bowie ?",
   "r": "Under Pressure",
   "d": 1,
   "t": "Duos"
  },
  {
+  "id": "div_f_4-045",
   "q": "Quel chanteur, ancien membre du groupe Les Charts, a chanté « En apesanteur » en 2002 ?",
   "r": "Calogero",
   "d": 1,
   "t": "Variété française"
  },
  {
+  "id": "div_f_4-046",
   "q": "De quelle chanson de Queen Lady Gaga a-t-elle tiré son nom de scène ?",
   "r": "Radio Ga Ga",
   "d": 2,
   "t": "Noms de scène"
  },
  {
+  "id": "div_f_4-047",
   "q": "Dans quel véhicule jaune vivent les Beatles selon une chanson de 1966 ?",
   "r": "Un sous-marin",
   "d": 1,
   "t": "Beatles"
  },
  {
+  "id": "div_f_4-048",
   "q": "À quoi correspondent les titres des albums d'Adele « 19 », « 21 » et « 25 » ?",
   "r": "À son âge",
   "d": 1,
   "t": "Albums"
  },
  {
+  "id": "div_f_4-049",
   "q": "Quelle chanson dénonçant les lynchages Billie Holiday a-t-elle enregistrée en 1939 ?",
   "r": "Strange Fruit",
   "d": 2,
   "t": "Jazz vocal"
  },
  {
+  "id": "div_f_4-050",
   "q": "Quel animal gonflable flotte au-dessus d'une centrale électrique londonienne sur la pochette d'« Animals » de Pink Floyd ?",
   "r": "Un cochon",
   "d": 2,
   "t": "Pochettes"
  },
  {
+  "id": "div_f_4-051",
   "q": "Quelle ville du Tennessee est surnommée « Music City », capitale de la country ?",
   "r": "Nashville",
   "d": 1,
   "t": "Country"
  },
  {
+  "id": "div_f_4-052",
   "q": "Quelle comédie musicale américaine Jacques Brel a-t-il adaptée et jouée à Bruxelles puis à Paris en 1968 ?",
   "r": "L'Homme de la Mancha",
   "d": 3,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_f_4-053",
   "q": "Quel chanteur britannique a quitté Take That en 1995 avant de triompher en solo avec « Angels » ?",
   "r": "Robbie Williams",
   "d": 1,
   "t": "Pop britannique"
  },
  {
+  "id": "div_f_4-054",
   "q": "Quelle chanteuse a connu son premier grand succès avec « L'école est finie » en 1963 ?",
   "r": "Sheila",
   "d": 1,
   "t": "Yé-yé"
  },
  {
+  "id": "div_f_4-055",
   "q": "Quel nom a-t-on donné à la vague de musique électronique française des années 1990 portée par Daft Punk, Air et Cassius ?",
   "r": "La French touch",
   "d": 1,
   "t": "Électro"
  },
  {
+  "id": "div_f_4-056",
   "q": "Quelle chanson de Christophe (1974), écrite avec Jean-Michel Jarre, évoque « les mots qu'on dit avec les yeux » ?",
   "r": "Les Mots bleus",
   "d": 2,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-057",
   "q": "Quelle chanson de Francis Cabrel (1994) donne la parole à un taureau dans l'arène ?",
   "r": "La Corrida",
   "d": 2,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-058",
   "q": "Quelle chanson de Sylvie Vartan (1964), écrite par Charles Aznavour, raconte les préparatifs d'une jeune fille avant le bal ?",
   "r": "La plus belle pour aller danser",
   "d": 2,
   "t": "Yé-yé"
  },
  {
+  "id": "div_f_4-059",
   "q": "Quelle chanteuse a chanté « Emmène-moi danser ce soir » en 1978 ?",
   "r": "Michèle Torr",
   "d": 1,
   "t": "Variété française"
  },
  {
+  "id": "div_f_4-060",
   "q": "Quel groupe new wave britannique tire son nom d'un personnage du film « Barbarella » ?",
   "r": "Duran Duran",
   "d": 2,
   "t": "Noms de groupes"
  },
  {
+  "id": "div_f_4-061",
   "q": "Quel chanteur a chanté « Elle a les yeux revolver » en 1985 ?",
   "r": "Marc Lavoine",
   "d": 1,
   "t": "Variété française"
  },
  {
+  "id": "div_f_4-062",
   "q": "Quelle chanson de Bob Dylan Jimi Hendrix a-t-il transcendée en 1968 ?",
   "r": "All Along the Watchtower",
   "d": 2,
   "t": "Reprises"
  },
  {
+  "id": "div_f_4-063",
   "q": "De quelle chanson des Animals « Le Pénitencier » de Johnny Hallyday (1964) est-elle l'adaptation ?",
   "r": "The House of the Rising Sun",
   "d": 2,
   "t": "Reprises"
  },
  {
+  "id": "div_f_4-064",
   "q": "Quel violoniste a remporté l'Eurovision 2009 pour la Norvège avec « Fairytale » ?",
   "r": "Alexander Rybak",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_f_4-065",
   "q": "Quel chanteur américain à la voix grave et suave a chanté « You're the First, the Last, My Everything » ?",
   "r": "Barry White",
   "d": 1,
   "t": "Soul"
  },
  {
+  "id": "div_f_4-066",
   "q": "Quel chanteur, auteur de « Champagne », est le père d'Arthur H et d'Izïa ?",
   "r": "Jacques Higelin",
   "d": 2,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-067",
   "q": "Quelle chanteuse australienne cache son visage sous une perruque bicolore lors de ses apparitions ?",
   "r": "Sia",
   "d": 2,
   "t": "Pop"
  },
  {
+  "id": "div_f_4-068",
   "q": "Quel parolier a écrit de nombreux succès de Julien Clerc, dont « Ce n'est rien » ?",
   "r": "Étienne Roda-Gil",
   "d": 3,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-069",
   "q": "Avec quelle chanson Céline Dion a-t-elle remporté l'Eurovision 1988 ?",
   "r": "Ne partez pas sans moi",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_f_4-070",
   "q": "Quel album d'Alain Bashung a été sacré aux Victoires de la musique 2009, quelques semaines avant la mort du chanteur ?",
   "r": "Bleu pétrole",
   "d": 3,
   "t": "Victoires de la musique"
  },
  {
+  "id": "div_f_4-071",
   "q": "Quel groupe de rock français a chanté « Un autre monde » en 1984 ?",
   "r": "Téléphone",
   "d": 1,
   "t": "Rock français"
  },
  {
+  "id": "div_f_4-072",
   "q": "Quelle chanteuse réaliste a créé « La Java bleue » en 1939 ?",
   "r": "Fréhel",
   "d": 3,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-073",
   "q": "Quel producteur a réalisé les albums « Off the Wall », « Thriller » et « Bad » de Michael Jackson ?",
   "r": "Quincy Jones",
   "d": 2,
   "t": "Pop américaine"
  },
  {
+  "id": "div_f_4-074",
   "q": "Comment appelle-t-on la courte phrase de guitare répétée, comme l'introduction de « Satisfaction » des Rolling Stones ?",
   "r": "Un riff",
   "d": 1,
   "t": "Vocabulaire musical"
  },
  {
+  "id": "div_f_4-075",
   "q": "Quel surnom, titre d'une de ses chansons de 1962, a longtemps accompagné Johnny Hallyday ?",
   "r": "L'Idole des jeunes",
   "d": 1,
   "t": "Yé-yé"
  },
  {
+  "id": "div_f_4-076",
   "q": "Quelle chanson optimiste de Michel Polnareff (1972) promet un au-delà ouvert à tous, « même moi » ?",
   "r": "On ira tous au paradis",
   "d": 1,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-077",
   "q": "Quel rappeur marseillais, membre d'IAM, a pris le nom d'un pharaon ?",
   "r": "Akhenaton",
   "d": 2,
   "t": "Rap français"
  },
  {
+  "id": "div_f_4-078",
   "q": "Quelle chanteuse a écrit les « Fabulettes », chansons pour enfants devenues des classiques ?",
   "r": "Anne Sylvestre",
   "d": 3,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-079",
   "q": "Quelle danse de rue née en région parisienne dans les années 2000, sur de l'électro, se danse surtout avec les bras ?",
   "r": "La tecktonik",
   "d": 2,
   "t": "Danses"
  },
  {
+  "id": "div_f_4-080",
   "q": "Dans quelle comédie musicale Julien Clerc a-t-il tenu l'affiche à Paris en 1969 ?",
   "r": "Hair",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_f_4-081",
   "q": "Quel chanteur a popularisé « Santiano » en 1961 ?",
   "r": "Hugues Aufray",
   "d": 1,
   "t": "Chanson française"
  },
  {
+  "id": "div_f_4-082",
   "q": "Quel groupe britannique a chanté « Don't Stop Me Now » ?",
   "r": "Queen",
   "d": 1,
   "t": "Rock"
  },
  {
+  "id": "div_f_4-083",
   "q": "Dans quelle ville est née en 1989 la Love Parade, grand défilé techno ?",
   "r": "Berlin",
   "d": 2,
   "t": "Électro"
  },
  {
+  "id": "div_f_4-084",
   "q": "Quel chanteur britannique à la voix éraillée a chanté « Sailing » et « Da Ya Think I'm Sexy? » ?",
   "r": "Rod Stewart",
   "d": 1,
   "t": "Rock"
  },
  {
+  "id": "div_f_4-085",
   "q": "Quel groupe Manu Chao a-t-il mené avant sa carrière solo ?",
   "r": "Mano Negra",
   "d": 2,

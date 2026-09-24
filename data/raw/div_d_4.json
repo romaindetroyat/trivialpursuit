@@ -1,509 +1,594 @@
 [
  {
+  "id": "div_d_4-001",
   "q": "Quel acteur, mort à 36 ans en 1959, incarna le héros de cape et d'épée « Fanfan la Tulipe » (1952) ?",
   "r": "Gérard Philipe",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-002",
   "q": "Quel film d'animation en pâte à modeler de 2000 raconte l'évasion de poules d'une ferme anglaise ?",
   "r": "Chicken Run",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-003",
   "q": "Quelle partie d'animal un producteur hollywoodien découvre-t-il dans son lit dans « Le Parrain » (1972) ?",
   "r": "Une tête de cheval",
   "d": 1,
   "t": "Films cultes"
  },
  {
+  "id": "div_d_4-004",
   "q": "Comment appelle-t-on la brève apparition d'une personnalité dans un film, comme celles d'Hitchcock dans ses propres œuvres ?",
   "r": "Un caméo",
   "d": 1,
   "t": "Vocabulaire du cinéma"
  },
  {
+  "id": "div_d_4-005",
   "q": "Dans « Le Livre de la jungle » de Disney (1967), comment s'appelle le serpent qui tente d'hypnotiser Mowgli ?",
   "r": "Kaa",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-006",
   "q": "Quel cinéaste britannique a réalisé « Memento » (2000), dont l'intrigue est racontée à rebours ?",
   "r": "Christopher Nolan",
   "d": 1,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-007",
   "q": "Quel acteur marseillais incarne le curé Don Camillo au cinéma à partir de 1952 ?",
   "r": "Fernandel",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-008",
   "q": "Quel danseur formait avec Ginger Rogers un couple mythique de la comédie musicale des années 1930 ?",
   "r": "Fred Astaire",
   "d": 1,
   "t": "Films musicaux"
  },
  {
+  "id": "div_d_4-009",
   "q": "Quel mot anglais désigne un film à très gros budget conçu pour un succès commercial massif ?",
   "r": "Un blockbuster",
   "d": 1,
   "t": "Vocabulaire du cinéma"
  },
  {
+  "id": "div_d_4-010",
   "q": "Quel film australien de 1986 raconte les aventures d'un chasseur de crocodiles débarquant à New York ?",
   "r": "Crocodile Dundee",
   "d": 1,
   "t": "Cinéma international"
  },
  {
+  "id": "div_d_4-011",
   "q": "Comment appelle-t-on un film qui retrace la vie d'une personnalité réelle ?",
   "r": "Un biopic",
   "d": 1,
   "t": "Vocabulaire du cinéma"
  },
  {
+  "id": "div_d_4-012",
   "q": "Comment s'appelle le fidèle majordome de Bruce Wayne ?",
   "r": "Alfred",
   "d": 1,
   "t": "Super-héros"
  },
  {
+  "id": "div_d_4-013",
   "q": "Quel film d'horreur de 1999, présenté comme des images retrouvées, suit trois étudiants perdus dans une forêt du Maryland ?",
   "r": "Le Projet Blair Witch",
   "d": 2,
   "t": "Horreur"
  },
  {
+  "id": "div_d_4-014",
   "q": "De quelle couleur est la route de briques que suit Dorothy dans « Le Magicien d'Oz » (1939) ?",
   "r": "Jaune",
   "d": 1,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_d_4-015",
   "q": "Quels frères cinéastes belges ont reçu la Palme d'or pour « Rosetta » (1999) et « L'Enfant » (2005) ?",
   "r": "Les frères Dardenne",
   "d": 2,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_d_4-016",
   "q": "Comment s'appelle le personnage de Lino Ventura, truand rangé des voitures, dans « Les Tontons flingueurs » (1963) ?",
   "r": "Fernand Naudin",
   "d": 3,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_d_4-017",
   "q": "Quel aliment Wallace, l'inventeur farfelu flanqué de son chien Gromit, adore-t-il par-dessus tout ?",
   "r": "Le fromage",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-018",
   "q": "Quel film de Miloš Forman, avec Jack Nicholson dans un hôpital psychiatrique, a remporté les cinq Oscars majeurs en 1976 ?",
   "r": "Vol au-dessus d'un nid de coucou",
   "d": 2,
   "t": "Oscars"
  },
  {
+  "id": "div_d_4-019",
   "q": "Quelle société de cinéma française, fondée en 1895, a pour emblème une marguerite ?",
   "r": "Gaumont",
   "d": 2,
   "t": "Histoire du cinéma"
  },
  {
+  "id": "div_d_4-020",
   "q": "Quel acteur incarne le policier de Detroit Axel Foley dans « Le Flic de Beverly Hills » (1984) ?",
   "r": "Eddie Murphy",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-021",
   "q": "Dans quelle capitale africaine se tient le Fespaco, grand festival panafricain de cinéma ?",
   "r": "Ouagadougou",
   "d": 2,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_d_4-022",
   "q": "Quel acteur incarne Red, le narrateur des « Évadés » (1994) ?",
   "r": "Morgan Freeman",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-023",
   "q": "Quel acteur incarne Ron Weasley dans la saga « Harry Potter » ?",
   "r": "Rupert Grint",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_d_4-024",
   "q": "Comment appelle-t-on le mouvement d'une caméra qui se déplace, par exemple sur des rails ?",
   "r": "Un travelling",
   "d": 1,
   "t": "Vocabulaire du cinéma"
  },
  {
+  "id": "div_d_4-025",
   "q": "Quel procédé de grand écran, lancé en 1953, repose sur l'objectif anamorphique du Français Henri Chrétien ?",
   "r": "Le CinémaScope",
   "d": 3,
   "t": "Techniques"
  },
  {
+  "id": "div_d_4-026",
   "q": "Quel film de Jean Renoir (1937), avec Jean Gabin, se déroule dans des camps de prisonniers de la Première Guerre mondiale ?",
   "r": "La Grande Illusion",
   "d": 2,
   "t": "Classiques français"
  },
  {
+  "id": "div_d_4-027",
   "q": "Dans « Rocky » (1976), comment s'appelle la timide vendeuse d'animalerie dont le boxeur tombe amoureux ?",
   "r": "Adrian",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "div_d_4-028",
   "q": "Quelle race de chien est Beethoven, héros d'une comédie familiale de 1992 ?",
   "r": "Un saint-bernard",
   "d": 1,
   "t": "Animaux de cinéma"
  },
  {
+  "id": "div_d_4-029",
   "q": "Quel surnom désigne l'industrie cinématographique très prolifique du Nigeria ?",
   "r": "Nollywood",
   "d": 2,
   "t": "Cinéma international"
  },
  {
+  "id": "div_d_4-030",
   "q": "Quel surnom se donne Jeffrey Lebowski, fainéant amateur de bowling joué par Jeff Bridges ?",
   "r": "Le Duc (The Dude)",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "div_d_4-031",
   "q": "Comment s'appelait le chien Jack Russell, vedette de « The Artist » (2011) ?",
   "r": "Uggie",
   "d": 3,
   "t": "Cinéma français"
  },
  {
+  "id": "div_d_4-032",
   "q": "Quel film français d'Édouard Molinaro a été refait à Hollywood en 1996 sous le titre « The Birdcage » ?",
   "r": "La Cage aux folles",
   "d": 1,
   "t": "Remakes"
  },
  {
+  "id": "div_d_4-033",
   "q": "Quelle actrice italienne a reçu en 1962 l'Oscar de la meilleure actrice pour « La Ciociara », un rôle joué en italien ?",
   "r": "Sophia Loren",
   "d": 1,
   "t": "Oscars"
  },
  {
+  "id": "div_d_4-034",
   "q": "Quel personnage s'écrie « Je suis le roi du monde ! » à la proue d'un paquebot, dans un film de 1997 ?",
   "r": "Jack Dawson",
   "d": 1,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_d_4-035",
   "q": "Quel acteur incarne le détective Sam Spade dans « Le Faucon maltais » (1941) ?",
   "r": "Humphrey Bogart",
   "d": 2,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_d_4-036",
   "q": "Comment s'appelle le vampire de « Nosferatu » (1922), le nom de Dracula n'ayant pu être utilisé ?",
   "r": "Le comte Orlok",
   "d": 3,
   "t": "Horreur"
  },
  {
+  "id": "div_d_4-037",
   "q": "Quel film américain de 1993, avec Richard Gere et Jodie Foster, est le remake du « Retour de Martin Guerre » ?",
   "r": "Sommersby",
   "d": 3,
   "t": "Remakes"
  },
  {
+  "id": "div_d_4-038",
   "q": "Quelle actrice se cache dans un couvent déguisée en religieuse dans « Sister Act » (1992) ?",
   "r": "Whoopi Goldberg",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-039",
   "q": "Quel cinéaste français a réalisé « Le Nom de la rose » (1986) et « Sept ans au Tibet » (1997) ?",
   "r": "Jean-Jacques Annaud",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-040",
   "q": "Comment appelle-t-on la technique d'animation qui consiste à redessiner image par image des prises de vues réelles ?",
   "r": "La rotoscopie",
   "d": 3,
   "t": "Techniques"
  },
  {
+  "id": "div_d_4-041",
   "q": "Dans quel pays du Royaume-Uni se trouve le viaduc de Glenfinnan, emprunté par le Poudlard Express ?",
   "r": "L'Écosse",
   "d": 1,
   "t": "Lieux de tournage"
  },
  {
+  "id": "div_d_4-042",
   "q": "Quel cinéaste a réalisé « OSS 117 : Le Caire, nid d'espions » (2006) et « The Artist » (2011) ?",
   "r": "Michel Hazanavicius",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-043",
   "q": "Quel studio d'animation britannique, installé à Bristol, a créé Wallace et Gromit ?",
   "r": "Aardman",
   "d": 3,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-044",
   "q": "Quel acteur du muet reste suspendu aux aiguilles d'une horloge géante dans « Monte là-dessus ! » (1923) ?",
   "r": "Harold Lloyd",
   "d": 3,
   "t": "Cinéma muet"
  },
  {
+  "id": "div_d_4-045",
   "q": "Selon Vincent Vega dans « Pulp Fiction », comment appelle-t-on un « Quarter Pounder » au fromage en France ?",
   "r": "Royale with Cheese",
   "d": 2,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_d_4-046",
   "q": "Quel cinéaste a souvent dépeint la bourgeoisie de province, notamment dans « Le Boucher » (1970) avec Stéphane Audran ?",
   "r": "Claude Chabrol",
   "d": 3,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_d_4-047",
   "q": "Quel acteur incarne le garde du corps de Whitney Houston dans « Bodyguard » (1992) ?",
   "r": "Kevin Costner",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-048",
   "q": "Dans « Le Roi lion » (1994), comment s'appelle le vieux mandrill sage qui présente Simba aux animaux ?",
   "r": "Rafiki",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-049",
   "q": "Quel acteur incarne l'agent secret Hubert Bonisseur de La Bath dans « OSS 117 : Le Caire, nid d'espions » (2006) ?",
   "r": "Jean Dujardin",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_d_4-050",
   "q": "Quel acteur tente de franchir des barbelés à moto dans « La Grande Évasion » (1963) ?",
   "r": "Steve McQueen",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-051",
   "q": "Quel western crépusculaire de Clint Eastwood a reçu l'Oscar du meilleur film en 1993 ?",
   "r": "Impitoyable",
   "d": 2,
   "t": "Westerns"
  },
  {
+  "id": "div_d_4-052",
   "q": "Quel festival de cinéma, créé en 1932, est le plus ancien du monde ?",
   "r": "La Mostra de Venise",
   "d": 2,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_d_4-053",
   "q": "Combien d'images par seconde défilent dans un film de cinéma standard en 35 mm sonore ?",
   "r": "24",
   "d": 2,
   "t": "Techniques"
  },
  {
+  "id": "div_d_4-054",
   "q": "Quel film de Charlie Chaplin (1931) raconte l'amour de Charlot pour une jeune fleuriste aveugle ?",
   "r": "Les Lumières de la ville",
   "d": 2,
   "t": "Cinéma muet"
  },
  {
+  "id": "div_d_4-055",
   "q": "Quelle actrice américaine incarne l'aventurière Lara Croft au cinéma en 2001 ?",
   "r": "Angelina Jolie",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_d_4-056",
   "q": "Dans quelle ville des Vosges se tient depuis 1994 un festival international du film fantastique ?",
   "r": "Gérardmer",
   "d": 2,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_d_4-057",
   "q": "Dans « Les Visiteurs » (1993), quel chevalier du XIIe siècle est incarné par Jean Reno ?",
   "r": "Godefroy de Montmirail",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_d_4-058",
   "q": "Comment s'appelle la grosse créature de la forêt, devenue l'emblème du studio Ghibli ?",
   "r": "Totoro",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-059",
   "q": "Quel objet claque-t-on devant la caméra au début de chaque prise pour synchroniser l'image et le son ?",
   "r": "Le clap",
   "d": 1,
   "t": "Métiers du cinéma"
  },
  {
+  "id": "div_d_4-060",
   "q": "Quel acteur incarne le magicien Gandalf dans la trilogie « Le Seigneur des anneaux » ?",
   "r": "Ian McKellen",
   "d": 2,
   "t": "Sagas"
  },
  {
+  "id": "div_d_4-061",
   "q": "Quel est l'équivalent britannique des Oscars, décerné chaque année à Londres ?",
   "r": "Les BAFTA",
   "d": 2,
   "t": "Récompenses"
  },
  {
+  "id": "div_d_4-062",
   "q": "Quelle arme lumineuse les chevaliers Jedi manient-ils dans « Star Wars » ?",
   "r": "Le sabre laser",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_d_4-063",
   "q": "Quel pirate, ennemi juré de Peter Pan, a perdu une main dévorée par un crocodile ?",
   "r": "Le capitaine Crochet",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "div_d_4-064",
   "q": "Quel film en noir et blanc d'Alfonso Cuarón, sur une employée de maison à Mexico, a reçu trois Oscars en 2019 ?",
   "r": "Roma",
   "d": 2,
   "t": "Oscars"
  },
  {
+  "id": "div_d_4-065",
   "q": "Quel film musical culte de 1975, souvent projeté à minuit avec la participation du public, met en scène le Dr Frank-N-Furter ?",
   "r": "The Rocky Horror Picture Show",
   "d": 2,
   "t": "Films musicaux"
  },
  {
+  "id": "div_d_4-066",
   "q": "Comment s'appelle le gendarme incarné par Louis de Funès dans la saga du « Gendarme de Saint-Tropez » ?",
   "r": "Ludovic Cruchot",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_d_4-067",
   "q": "Comment appelle-t-on un plan long filmé d'une seule traite, sans aucune coupe ?",
   "r": "Un plan-séquence",
   "d": 2,
   "t": "Vocabulaire du cinéma"
  },
  {
+  "id": "div_d_4-068",
   "q": "Dans « Blanche-Neige et les Sept Nains », quel nain à lunettes dirige les autres ?",
   "r": "Prof",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_d_4-069",
   "q": "Quel cinéaste new-yorkais a réalisé « Annie Hall » (1977) et « Manhattan » (1979) ?",
   "r": "Woody Allen",
   "d": 1,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-070",
   "q": "Comment s'appellent les récompenses parodiques décernées chaque année aux pires films d'Hollywood ?",
   "r": "Les Razzie Awards",
   "d": 2,
   "t": "Récompenses"
  },
  {
+  "id": "div_d_4-071",
   "q": "Quelle réalisatrice, pionnière de la Nouvelle Vague, a signé « Cléo de 5 à 7 » (1962) ?",
   "r": "Agnès Varda",
   "d": 2,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_d_4-072",
   "q": "Quel cinéaste a réalisé « L'Aile ou la Cuisse » (1976) et « Les Ripoux » (1984) ?",
   "r": "Claude Zidi",
   "d": 3,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-073",
   "q": "Comment s'appelle le chef d'orchestre irascible joué par Louis de Funès dans « La Grande Vadrouille » (1966) ?",
   "r": "Stanislas Lefort",
   "d": 3,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_d_4-074",
   "q": "Quel surnom l'équipe de tournage des « Dents de la mer » (1975) donnait-elle au requin mécanique ?",
   "r": "Bruce",
   "d": 3,
   "t": "Anecdotes de tournage"
  },
  {
+  "id": "div_d_4-075",
   "q": "Comment appelle-t-on le professionnel qui assemble les plans tournés pour construire le film ?",
   "r": "Le monteur",
   "d": 1,
   "t": "Métiers du cinéma"
  },
  {
+  "id": "div_d_4-076",
   "q": "Comment s'appelle le personnage récurrent de François Truffaut, apparu pour la première fois dans « Les Quatre Cents Coups » ?",
   "r": "Antoine Doinel",
   "d": 2,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_d_4-077",
   "q": "Quel cinéaste américain a posé les bases du film de zombies moderne avec « La Nuit des morts-vivants » (1968) ?",
   "r": "George A. Romero",
   "d": 3,
   "t": "Horreur"
  },
  {
+  "id": "div_d_4-078",
   "q": "Comment s'appelle la femme libre et convoitée incarnée par Arletty dans « Les Enfants du paradis » (1945) ?",
   "r": "Garance",
   "d": 3,
   "t": "Classiques français"
  },
  {
+  "id": "div_d_4-079",
   "q": "Quel acteur a présidé la toute première cérémonie des César, en 1976 ?",
   "r": "Jean Gabin",
   "d": 3,
   "t": "César"
  },
  {
+  "id": "div_d_4-080",
   "q": "Quel cinéaste canadien a réalisé « Titanic » (1997) et « Avatar » (2009) ?",
   "r": "James Cameron",
   "d": 1,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-081",
   "q": "Quel membre des Monty Python a réalisé « Brazil » (1985) et « L'Armée des douze singes » (1995) ?",
   "r": "Terry Gilliam",
   "d": 3,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-082",
   "q": "Quel film de Sergio Leone (1964) reprend l'intrigue du « Garde du corps » (Yojimbo) d'Akira Kurosawa ?",
   "r": "Pour une poignée de dollars",
   "d": 3,
   "t": "Remakes"
  },
  {
+  "id": "div_d_4-083",
   "q": "Comment s'appelle l'extraterrestre joué par Jacques Villeret dans « La Soupe aux choux » (1981) ?",
   "r": "La Denrée",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_d_4-084",
   "q": "Quel cinéaste nantais a réalisé « Peau d'âne » (1970) avec Catherine Deneuve ?",
   "r": "Jacques Demy",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_d_4-085",
   "q": "Quel chocolatier excentrique Johnny Depp incarne-t-il dans « Charlie et la Chocolaterie » (2005) de Tim Burton ?",
   "r": "Willy Wonka",
   "d": 1,

@@ -1,509 +1,594 @@
 [
  {
+  "id": "his_f_2-001",
   "q": "Comment appelait-on le système de fortifications côtières bâti par les Allemands de la Norvège à l'Espagne ?",
   "r": "Le mur de l'Atlantique",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-002",
   "q": "Quelle bombe volante allemande, première « arme de représailles », a été lancée sur Londres à partir de juin 1944 ?",
   "r": "Le V1",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-003",
   "q": "Quelle ville allemande, ravagée par les bombardements alliés en février 1945, sert de cadre au roman Abattoir 5 ?",
   "r": "Dresde",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-004",
   "q": "Quel pont sur le Rhin a été pris intact par les Américains en mars 1945 ?",
   "r": "Le pont de Remagen",
   "d": 3,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-005",
   "q": "Quel général a représenté la France lors de la signature de la capitulation allemande à Berlin, le 8 mai 1945 ?",
   "r": "Jean de Lattre de Tassigny",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-006",
   "q": "Quel camp de concentration nazi se trouvait en Alsace annexée, dans le massif des Vosges ?",
   "r": "Le Struthof",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-007",
   "q": "Quelle nièce du général de Gaulle, déportée à Ravensbrück, a présidé ATD Quart Monde de 1964 à 1998 ?",
   "r": "Geneviève de Gaulle-Anthonioz",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-008",
   "q": "Quel dignitaire nazi, surnommé « le boucher de Prague », a été mortellement blessé par des parachutistes tchécoslovaques en 1942 ?",
   "r": "Reinhard Heydrich",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-009",
   "q": "Quel village tchèque a été rasé et ses hommes massacrés par les nazis en représailles de l'attentat contre Heydrich en 1942 ?",
   "r": "Lidice",
   "d": 3,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-010",
   "q": "Quel officier allemand a déposé une bombe dans le quartier général de Hitler le 20 juillet 1944 ?",
   "r": "Claus von Stauffenberg",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-011",
   "q": "Dans quelle forêt russe des milliers d'officiers polonais ont-ils été exécutés par la police politique soviétique en 1940 ?",
   "r": "Katyn",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-012",
   "q": "Quel chef des partisans yougoslaves a dirigé la Yougoslavie de 1945 à sa mort en 1980 ?",
   "r": "Tito",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-013",
   "q": "Quel nom de code désignait le programme américain de mise au point de la bombe atomique ?",
   "r": "Le projet Manhattan",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-014",
   "q": "Quel empereur a annoncé la capitulation du Japon à la radio le 15 août 1945 ?",
   "r": "Hirohito",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-015",
   "q": "Quelle île japonaise, envahie par les Américains en avril 1945, a été le théâtre de l'une des batailles les plus meurtrières du Pacifique ?",
   "r": "Okinawa",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-016",
   "q": "Quel soldat japonais a continué à se battre dans la jungle des Philippines jusqu'en 1974 ?",
   "r": "Hirō Onoda",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-017",
   "q": "Quelle ville chinoise, alors capitale, a été le théâtre d'un massacre de civils par l'armée japonaise en décembre 1937 ?",
   "r": "Nankin",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-018",
   "q": "Dans quelle ville proche de Berlin s'est tenue la conférence des Alliés de juillet-août 1945 ?",
   "r": "Potsdam",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-019",
   "q": "Quel vice-président a succédé à Franklin D. Roosevelt à la Maison-Blanche en avril 1945 ?",
   "r": "Harry Truman",
   "d": 1,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-020",
   "q": "Quel port normand a été la cible d'un raid allié désastreux, mené surtout par des Canadiens, en août 1942 ?",
   "r": "Dieppe",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-021",
   "q": "Quel nom de code désignait l'opération d'intoxication faisant croire aux Allemands à un débarquement dans le Pas-de-Calais ?",
   "r": "Opération Fortitude",
   "d": 3,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-022",
   "q": "Quel nom de code désignait le recrutement de scientifiques allemands par les États-Unis après 1945 ?",
   "r": "Opération Paperclip",
   "d": 3,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-023",
   "q": "Quel général américain a répondu « Nuts! » à la demande de reddition allemande à Bastogne en décembre 1944 ?",
   "r": "Anthony McAuliffe",
   "d": 3,
   "t": "Seconde Guerre mondiale"
  },
  {
+  "id": "his_f_2-024",
   "q": "Quelle ethnologue spécialiste des Aurès, membre du réseau du musée de l'Homme, a été déportée à Ravensbrück ?",
   "r": "Germaine Tillion",
   "d": 3,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-025",
   "q": "Quel mouvement de résistance fondé par Henri Frenay publiait un journal clandestin du même nom ?",
   "r": "Combat",
   "d": 2,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-026",
   "q": "Sous quel pseudonyme Jean Bruller a-t-il publié clandestinement Le Silence de la mer en 1942 ?",
   "r": "Vercors",
   "d": 2,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-027",
   "q": "Quel nom de code Jean Moulin a-t-il porté en 1942 avant d'être connu sous celui de « Max » ?",
   "r": "Rex",
   "d": 3,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-028",
   "q": "Quel officier de marine, envoyé de Londres, a été l'un des premiers résistants fusillés au Mont-Valérien, en 1941 ?",
   "r": "Honoré d'Estienne d'Orves",
   "d": 3,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-029",
   "q": "Quel jeune militant communiste de 17 ans, fusillé à Châteaubriant en 1941, a laissé une célèbre dernière lettre ?",
   "r": "Guy Môquet",
   "d": 1,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-030",
   "q": "Quel ordre créé par de Gaulle en 1940 a fait de ses membres des « compagnons » ?",
   "r": "L'ordre de la Libération",
   "d": 2,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-031",
   "q": "Quel symbole la France libre a-t-elle choisi pour l'opposer à la croix gammée ?",
   "r": "La croix de Lorraine",
   "d": 1,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-032",
   "q": "Quelle île bretonne a vu presque tous ses hommes valides rejoindre de Gaulle à Londres en juin 1940 ?",
   "r": "L'île de Sein",
   "d": 2,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-033",
   "q": "Quelle émission de la BBC pendant l'Occupation commençait par « Ici Londres ! » ?",
   "r": "Les Français parlent aux Français",
   "d": 2,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-034",
   "q": "Quelle meneuse de revue, née aux États-Unis, a servi comme agente de renseignement de la France libre ?",
   "r": "Joséphine Baker",
   "d": 1,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-035",
   "q": "Quel écrivain aviateur a disparu en mer au large de Marseille lors d'une mission de reconnaissance en juillet 1944 ?",
   "r": "Antoine de Saint-Exupéry",
   "d": 1,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-036",
   "q": "Quel ancien collaborateur de Clemenceau, ministre de l'Intérieur en 1940, a été assassiné par la Milice en juillet 1944 ?",
   "r": "Georges Mandel",
   "d": 3,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-037",
   "q": "Quel était le véritable nom du général Leclerc ?",
   "r": "Philippe de Hauteclocque",
   "d": 2,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-038",
   "q": "Comment appelle-t-on le châtiment des collaborateurs, par des procès ou des exécutions sommaires, à la Libération ?",
   "r": "L'épuration",
   "d": 1,
   "t": "Résistance et France libre"
  },
  {
+  "id": "his_f_2-039",
   "q": "En quelle année les Françaises ont-elles voté pour la première fois, lors des élections municipales ?",
   "r": "1945",
   "d": 1,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-040",
   "q": "Quelle conseillère municipale de Paris a donné son nom à la loi de 1946 fermant les maisons closes ?",
   "r": "Marthe Richard",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-041",
   "q": "Quel constructeur automobile a été nationalisé en 1945 et transformé en régie ?",
   "r": "Renault",
   "d": 1,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-042",
   "q": "Quelle institution, créée par les ordonnances d'octobre 1945, protège les Français contre la maladie et la vieillesse ?",
   "r": "La Sécurité sociale",
   "d": 1,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-043",
   "q": "Quel ministre communiste du Travail a mis en place les caisses de Sécurité sociale en 1946 ?",
   "r": "Ambroise Croizat",
   "d": 3,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-044",
   "q": "Quelle grande école de la haute fonction publique Michel Debré a-t-il contribué à créer en 1945 ?",
   "r": "L'ENA",
   "d": 1,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-045",
   "q": "Quel président du Conseil a lancé en 1952 un célèbre emprunt indexé sur l'or ?",
   "r": "Antoine Pinay",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-046",
   "q": "Quel président du Conseil socialiste dirigeait le gouvernement lors de l'expédition de Suez en 1956 ?",
   "r": "Guy Mollet",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-047",
   "q": "Quel papetier de Saint-Céré a lancé dans les années 1950 un mouvement de défense des commerçants et artisans ?",
   "r": "Pierre Poujade",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-048",
   "q": "Quelle phrase le général de Gaulle a-t-il lancée à la foule d'Alger le 4 juin 1958 ?",
   "r": "« Je vous ai compris ! »",
   "d": 1,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-049",
   "q": "Dans quelle ville d'Afrique s'est tenue en 1944 une conférence sur l'avenir de l'empire colonial français ?",
   "r": "Brazzaville",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_f_2-050",
   "q": "Quelle infirmière, seule femme présente dans le camp retranché, a été surnommée « l'ange de Diên Biên Phu » ?",
   "r": "Geneviève de Galard",
   "d": 3,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-051",
   "q": "Quel général, ancien commandant en chef en Algérie, a pris la tête de l'OAS avant d'être arrêté en 1962 ?",
   "r": "Raoul Salan",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-052",
   "q": "Dans quelle station du métro parisien neuf personnes sont-elles mortes lors d'une manifestation contre l'OAS en février 1962 ?",
   "r": "Charonne",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-053",
   "q": "Dans quelle ville du Constantinois un soulèvement suivi d'une sanglante répression a-t-il éclaté le 8 mai 1945 ?",
   "r": "Sétif",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-054",
   "q": "Quelle base navale de Tunisie a été l'objet d'un affrontement franco-tunisien en juillet 1961 ?",
   "r": "Bizerte",
   "d": 3,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-055",
   "q": "Comment surnomme-t-on les Français d'Algérie, dont la plupart ont quitté le pays en 1962 ?",
   "r": "Les pieds-noirs",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-056",
   "q": "Quel premier président de l'Algérie indépendante a été renversé par Houari Boumédiène en 1965 ?",
   "r": "Ahmed Ben Bella",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-057",
   "q": "Comment appelle-t-on la marche de 350 000 Marocains vers le Sahara occidental en novembre 1975 ?",
   "r": "La Marche verte",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-058",
   "q": "Quel est le seul territoire d'Afrique française à avoir voté « non » au référendum de 1958 sur la Communauté ?",
   "r": "La Guinée",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-059",
   "q": "Quelle guerre de sécession a déchiré le Nigeria de 1967 à 1970, provoquant une terrible famine ?",
   "r": "La guerre du Biafra",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-060",
   "q": "Quel dictateur ougandais a expulsé la minorité asiatique de son pays en 1972 ?",
   "r": "Idi Amin Dada",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-061",
   "q": "Quel président centrafricain s'est fait sacrer empereur en décembre 1977 ?",
   "r": "Jean-Bedel Bokassa",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-062",
   "q": "Quel président a rebaptisé la Haute-Volta « Burkina Faso » en 1984 ?",
   "r": "Thomas Sankara",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-063",
   "q": "Quel militant sud-africain de la « conscience noire » est mort en détention en 1977 ?",
   "r": "Steve Biko",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-064",
   "q": "Quel archevêque anglican, prix Nobel de la paix 1984, a présidé la commission Vérité et Réconciliation en Afrique du Sud ?",
   "r": "Desmond Tutu",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-065",
   "q": "Dans quel township sud-africain la police a-t-elle tiré sur des manifestants noirs en mars 1960, tuant 69 personnes ?",
   "r": "Sharpeville",
   "d": 3,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-066",
   "q": "Quel mouvement politique, fondé en 1912, a porté la lutte de Nelson Mandela contre l'apartheid ?",
   "r": "L'ANC",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-067",
   "q": "Quel État africain s'appelait Rhodésie avant son indépendance reconnue en 1980 ?",
   "r": "Le Zimbabwe",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-068",
   "q": "Quelle femme est devenue en 2006 la première présidente élue d'un État africain, le Liberia ?",
   "r": "Ellen Johnson Sirleaf",
   "d": 3,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-069",
   "q": "Quel roi a régné sur le Maroc de 1961 à 1999 ?",
   "r": "Hassan II",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-070",
   "q": "Quel pays est né en 1971 de la sécession du Pakistan oriental ?",
   "r": "Le Bangladesh",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-071",
   "q": "Dans quelle ville le général de Gaulle a-t-il lancé « Vive le Québec libre ! » en juillet 1967 ?",
   "r": "Montréal",
   "d": 1,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-072",
   "q": "Comment appelle-t-on la période de modernisation rapide du Québec, dans les années 1960 ?",
   "r": "La Révolution tranquille",
   "d": 2,
   "t": "Décolonisation"
  },
  {
+  "id": "his_f_2-073",
   "q": "Quelle doctrine américaine de 1947 visait à « endiguer » l'expansion du communisme ?",
   "r": "La doctrine Truman",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-074",
   "q": "Quelle alliance militaire occidentale a été fondée à Washington en avril 1949 ?",
   "r": "L'OTAN",
   "d": 1,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-075",
   "q": "En quelle année la France a-t-elle quitté le commandement militaire intégré de l'OTAN ?",
   "r": "1966",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-076",
   "q": "Quel surnom a-t-on donné à la liaison directe établie en 1963 entre la Maison-Blanche et le Kremlin ?",
   "r": "Le téléphone rouge",
   "d": 1,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-077",
   "q": "Dans quelle capitale Reagan et Gorbatchev ont-ils tenu un sommet sur le désarmement en octobre 1986 ?",
   "r": "Reykjavik",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-078",
   "q": "Au large de quelle île méditerranéenne George Bush et Mikhaïl Gorbatchev se sont-ils rencontrés en décembre 1989 ?",
   "r": "Malte",
   "d": 3,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-079",
   "q": "Quel porte-parole est-allemand a annoncé par erreur, le 9 novembre 1989, l'ouverture immédiate des frontières ?",
   "r": "Günter Schabowski",
   "d": 3,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-080",
   "q": "Quel dirigeant de la RDA a fait ériger le mur de Berlin en août 1961 ?",
   "r": "Walter Ulbricht",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-081",
   "q": "Quel était le nom usuel du ministère de la Sécurité d'État, la police politique de la RDA ?",
   "r": "La Stasi",
   "d": 1,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-082",
   "q": "Quelle date est devenue en Allemagne la fête nationale, en souvenir de la réunification ?",
   "r": "Le 3 octobre",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-083",
   "q": "Quel chancelier ouest-allemand s'est agenouillé devant le mémorial du ghetto de Varsovie en décembre 1970 ?",
   "r": "Willy Brandt",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-084",
   "q": "Sous quel nom désignait-on couramment la Fraction armée rouge, groupe terroriste ouest-allemand des années 1970 ?",
   "r": "La bande à Baader",
   "d": 2,
   "t": "Guerre froide"
  },
  {
+  "id": "his_f_2-085",
   "q": "Quel dirigeant démocrate-chrétien italien a été enlevé puis assassiné par les Brigades rouges en 1978 ?",
   "r": "Aldo Moro",
   "d": 2,

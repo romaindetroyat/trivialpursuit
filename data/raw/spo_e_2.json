@@ -1,509 +1,594 @@
 [
  {
+  "id": "spo_e_2-001",
   "q": "Quelle épreuve clôt l'heptathlon ?",
   "r": "Le 800 m",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-002",
   "q": "Dans quelle zone le témoin doit-il obligatoirement changer de main lors d'un relais ?",
   "r": "La zone de transmission",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-003",
   "q": "Quel style de saut en hauteur, où l'on passe la barre ventre face à elle, a précédé le Fosbury-flop ?",
   "r": "Le rouleau ventral",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-004",
   "q": "En 1993, quel Cubain a franchi 2,45 m, record du monde du saut en hauteur ?",
   "r": "Javier Sotomayor",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-005",
   "q": "En 1991, quel Américain a battu le record du monde de saut en longueur de Bob Beamon avec 8,95 m ?",
   "r": "Mike Powell",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-006",
   "q": "Jusqu'aux JO de Tokyo 2021, quelle était la distance de la plus longue épreuve olympique de marche ?",
   "r": "50 km",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-007",
   "q": "Quelle perchiste russe est devenue en 2005 la première femme à franchir 5 mètres ?",
   "r": "Elena Isinbaïeva",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-008",
   "q": "Quelle sprinteuse française a couru le 100 m en 10 s 73 en 1998, record d'Europe ?",
   "r": "Christine Arron",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-009",
   "q": "Quel sprinteur français est devenu en 2010 le premier athlète de son pays à courir le 100 m en moins de 10 secondes ?",
   "r": "Christophe Lemaitre",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-010",
   "q": "Quel Français a remporté le 110 m haies aux JO de Montréal 1976 ?",
   "r": "Guy Drut",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-011",
   "q": "Quel coureur français, mort au front en 1914, a donné son nom à un stade parisien ?",
   "r": "Jean Bouin",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-012",
   "q": "Quel coureur français a remporté le marathon des JO de Melbourne 1956 ?",
   "r": "Alain Mimoun",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-013",
   "q": "Quelle athlète française, également pianiste concertiste, a remporté le poids et le disque aux JO de Londres 1948 ?",
   "r": "Micheline Ostermeyer",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-014",
   "q": "Quelle Marocaine, gagnante du 400 m haies en 1984, fut la première championne olympique d'un pays arabe et musulman ?",
   "r": "Nawal El Moutawakel",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-015",
   "q": "Comment les marathoniens appellent-ils la défaillance brutale qui survient souvent vers le 30e kilomètre ?",
   "r": "Le mur",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-016",
   "q": "De quel château partait le marathon des JO de Londres 1908, dont la distance de 42,195 km est devenue la référence ?",
   "r": "Le château de Windsor",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-017",
   "q": "Quel marathonien italien, aidé par des officiels à franchir la ligne aux JO de Londres 1908, fut disqualifié ?",
   "r": "Dorando Pietri",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-018",
   "q": "Quel engin de lancer en forme de soucoupe était déjà pratiqué aux Jeux antiques ?",
   "r": "Le disque",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-019",
   "q": "Quelle athlète américaine, surnommée « la Gazelle noire », a remporté trois titres aux JO de Rome 1960 malgré une polio dans l'enfance ?",
   "r": "Wilma Rudolph",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-020",
   "q": "Quelle Jamaïcaine a remporté le 100 m olympique en 2008 et en 2012 ?",
   "r": "Shelly-Ann Fraser-Pryce",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-021",
   "q": "Sur quel élément le sauteur en longueur doit-il prendre son appel, sous peine d'essai nul ?",
   "r": "La planche d'appel",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-022",
   "q": "Comment qualifie-t-on un saut en longueur dont l'appel a dépassé la limite autorisée ?",
   "r": "Mordu",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-023",
   "q": "Quel Britannique a remporté le décathlon olympique en 1980 et en 1984 ?",
   "r": "Daley Thompson",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-024",
   "q": "Quelle course d'ultrafond de 246 km relie Athènes à Sparte ?",
   "r": "Le Spartathlon",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-025",
   "q": "Quelle course à pied par étapes, en autosuffisance, se déroule chaque année dans le désert marocain ?",
   "r": "Le Marathon des sables",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-026",
   "q": "Quel surnom porte le Grand Raid, ultra-trail traversant l'île de La Réunion ?",
   "r": "La Diagonale des fous",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-027",
   "q": "Quel marathon girondin, couru déguisé, propose des ravitaillements en vin ?",
   "r": "Le marathon du Médoc",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-028",
   "q": "Quelle Américaine a remporté le premier marathon olympique féminin, aux JO de Los Angeles 1984 ?",
   "r": "Joan Benoit",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-029",
   "q": "Quelle Américaine a couru le marathon de Boston en 1967 avec un dossard, malgré un organisateur qui tenta de l'arrêter ?",
   "r": "Kathrine Switzer",
   "d": 3,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-030",
   "q": "Quel signal sonore annonce le dernier tour dans une course de demi-fond ?",
   "r": "La cloche",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-031",
   "q": "Quelle partie du corps doit franchir la ligne d'arrivée pour déterminer l'ordre des sprinteurs ?",
   "r": "Le torse (le tronc)",
   "d": 2,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-032",
   "q": "Quel dispositif photographique permet de départager des coureurs arrivés presque ensemble ?",
   "r": "La photo-finish",
   "d": 1,
   "t": "Athlétisme"
  },
  {
+  "id": "spo_e_2-033",
   "q": "Quelle nage choisit-on presque toujours dans les épreuves de « nage libre », car c'est la plus rapide ?",
   "r": "Le crawl",
   "d": 1,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-034",
   "q": "Dans quel ordre enchaîne-t-on les nages lors d'un 400 m 4 nages individuel ?",
   "r": "Papillon, dos, brasse, crawl",
   "d": 2,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-035",
   "q": "Quel relais masculin français est devenu champion olympique aux JO de Londres 2012 ?",
   "r": "Le 4 × 100 m nage libre",
   "d": 2,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-036",
   "q": "Quelle nageuse française a remporté le 400 m nage libre aux JO de Londres 2012 ?",
   "r": "Camille Muffat",
   "d": 2,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-037",
   "q": "Quel nageur français a gagné le 400 m nage libre aux JO d'Helsinki 1952, son père plongeant tout habillé pour l'embrasser ?",
   "r": "Jean Boiteux",
   "d": 3,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-038",
   "q": "Quelle nageuse est devenue en 1998, sur 200 m dos, la première Française championne du monde de natation ?",
   "r": "Roxana Maracineanu",
   "d": 3,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-039",
   "q": "Quel nageur australien, surnommé « Thorpedo », a remporté cinq titres olympiques en 2000 et 2004 ?",
   "r": "Ian Thorpe",
   "d": 1,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-040",
   "q": "À quelle hauteur se trouve le tremplin du plongeon olympique ?",
   "r": "3 m",
   "d": 2,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-041",
   "q": "Quelle Américaine est devenue en 1926 la première femme à traverser la Manche à la nage ?",
   "r": "Gertrude Ederle",
   "d": 3,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-042",
   "q": "Comment appelle-t-on la phase glissée sous l'eau après un départ ou un virage en natation ?",
   "r": "La coulée",
   "d": 2,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-043",
   "q": "Quel type de combinaison de natation, responsable d'une avalanche de records en 2008-2009, a été interdit en 2010 ?",
   "r": "La combinaison en polyuréthane",
   "d": 1,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-044",
   "q": "Quel apnéiste italien a inspiré le personnage d'Enzo Molinari dans « Le Grand Bleu » ?",
   "r": "Enzo Maiorca",
   "d": 2,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-045",
   "q": "Avec quel ingénieur Jacques-Yves Cousteau a-t-il mis au point le scaphandre autonome en 1943 ?",
   "r": "Émile Gagnan",
   "d": 3,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-046",
   "q": "Comment appelle-t-on le tube qui permet de respirer en nageant la tête sous l'eau ?",
   "r": "Le tuba",
   "d": 1,
   "t": "Natation et plongeon"
  },
  {
+  "id": "spo_e_2-047",
   "q": "Sur quel agrès masculin le gymnaste réalise-t-il la figure de force appelée « croix de fer » ?",
   "r": "Les anneaux",
   "d": 1,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-048",
   "q": "Sur quel agrès masculin enchaîne-t-on des « ciseaux » et des « Thomas » ?",
   "r": "Le cheval d'arçons",
   "d": 2,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-049",
   "q": "Sur quel agrès Nadia Comaneci a-t-elle obtenu le premier 10 de l'histoire olympique, en 1976 ?",
   "r": "Les barres asymétriques",
   "d": 2,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-050",
   "q": "Quelle gymnaste américaine a remporté quatre médailles d'or aux JO de Rio 2016 ?",
   "r": "Simone Biles",
   "d": 1,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-051",
   "q": "Quelle gymnaste soviétique, surnommée « le moineau de Minsk », fut la vedette des JO de Munich 1972 ?",
   "r": "Olga Korbut",
   "d": 3,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-052",
   "q": "Quelle Française est devenue championne olympique aux barres asymétriques aux JO d'Athènes 2004 ?",
   "r": "Émilie Le Pennec",
   "d": 3,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-053",
   "q": "Quelle discipline gymnique utilise ruban, cerceau, ballon et massues ?",
   "r": "La gymnastique rythmique",
   "d": 1,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-054",
   "q": "Quelle discipline gymnique est devenue olympique aux JO de Sydney 2000 ?",
   "r": "Le trampoline",
   "d": 1,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-055",
   "q": "Quel mot d'origine italienne désigne un saut périlleux ?",
   "r": "Salto",
   "d": 1,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-056",
   "q": "Quelle poudre blanche les gymnastes mettent-ils sur leurs mains pour éviter de glisser ?",
   "r": "La magnésie",
   "d": 1,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-057",
   "q": "Quel agrès a remplacé le cheval de saut en gymnastique artistique au début des années 2000 ?",
   "r": "La table de saut",
   "d": 3,
   "t": "Gymnastique"
  },
  {
+  "id": "spo_e_2-058",
   "q": "Quel pilote italien a été le premier champion du monde de Formule 1, en 1950 ?",
   "r": "Giuseppe Farina",
   "d": 3,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-059",
   "q": "Sur quel circuit britannique s'est couru le tout premier Grand Prix du championnat du monde de F1, en 1950 ?",
   "r": "Silverstone",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-060",
   "q": "Quel circuit italien, surnommé « le temple de la vitesse », accueille le Grand Prix d'Italie ?",
   "r": "Monza",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-061",
   "q": "Quel pilote finlandais, surnommé « le Finlandais volant », a été champion du monde de F1 en 1998 et 1999 ?",
   "r": "Mika Häkkinen",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-062",
   "q": "Quel pilote français n'a remporté qu'un seul Grand Prix de F1, au Canada en 1995, sur Ferrari ?",
   "r": "Jean Alesi",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-063",
   "q": "Quelle écurie de F1 porte le nom de son fondateur, un pilote néo-zélandais ?",
   "r": "McLaren",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-064",
   "q": "Quel pilote canadien a donné son nom au circuit de Montréal ?",
   "r": "Gilles Villeneuve",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-065",
   "q": "Quel Canadien a été sacré champion du monde de F1 en 1997 ?",
   "r": "Jacques Villeneuve",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-066",
   "q": "Quel pilote a été le premier à remporter le Grand Prix de Monaco, les 500 miles d'Indianapolis et les 24 Heures du Mans ?",
   "r": "Graham Hill",
   "d": 3,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-067",
   "q": "Quelle course automobile se dispute chaque année en mai sur un ovale de l'Indiana ?",
   "r": "Les 500 miles d'Indianapolis",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-068",
   "q": "Que doit faire un pilote de F1 à qui l'on présente le drapeau bleu ?",
   "r": "Se laisser dépasser",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-069",
   "q": "Comment appelle-t-on l'arrêt au stand pour changer les pneus en course ?",
   "r": "Un pit stop",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-070",
   "q": "Quelle voiture neutralise la course en F1 après un accident ?",
   "r": "La voiture de sécurité (safety car)",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-071",
   "q": "Comment appelle-t-on le pneu lisse, sans rainures, utilisé sur piste sèche ?",
   "r": "Un slick",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-072",
   "q": "Quel dispositif, introduit en F1 en 2011, ouvre l'aileron arrière pour faciliter les dépassements ?",
   "r": "Le DRS",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-073",
   "q": "Quel arceau de protection au-dessus du cockpit est obligatoire en F1 depuis 2018 ?",
   "r": "Le halo",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-074",
   "q": "Quel constructeur a remporté les 24 Heures du Mans sept fois de suite, de 1981 à 1987 ?",
   "r": "Porsche",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-075",
   "q": "Quel constructeur américain a mis fin à la domination de Ferrari aux 24 Heures du Mans en 1966 ?",
   "r": "Ford",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-076",
   "q": "Quel constructeur français a remporté les 24 Heures du Mans trois années de suite, de 1972 à 1974 ?",
   "r": "Matra",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-077",
   "q": "Quelle célèbre course d'endurance moto de 24 heures a été créée en France en 1922 ?",
   "r": "Le Bol d'or",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-078",
   "q": "Dans quel pays le rallye Dakar s'est-il installé à partir de 2020 ?",
   "r": "L'Arabie saoudite",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-079",
   "q": "Quel pilote français, surnommé « Monsieur Dakar », a remporté l'épreuve 14 fois entre 1991 et 2021, à moto puis en voiture ?",
   "r": "Stéphane Peterhansel",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-080",
   "q": "Quel pilote espagnol a remporté six titres de champion du monde MotoGP entre 2013 et 2019 ?",
   "r": "Marc Márquez",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-081",
   "q": "Quel pilote italien a remporté 15 titres mondiaux de vitesse moto en 500 cm³ et 350 cm³ ?",
   "r": "Giacomo Agostini",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-082",
   "q": "Quel Français est devenu champion du monde de MotoGP en 2021 ?",
   "r": "Fabio Quartararo",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-083",
   "q": "Quelle course de moto sur sable se dispute chaque hiver sur la plage du Touquet ?",
   "r": "L'Enduropale",
   "d": 2,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-084",
   "q": "Dans quelle discipline la plupart des pilotes de F1 ont-ils fait leurs débuts, enfants ?",
   "r": "Le karting",
   "d": 1,
   "t": "Sports mécaniques"
  },
  {
+  "id": "spo_e_2-085",
   "q": "Quel championnat de monoplaces entièrement électriques a débuté en 2014 ?",
   "r": "La Formule E",
   "d": 1,

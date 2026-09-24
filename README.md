@@ -1,6 +1,6 @@
 # Trivial 1000
 
-Jeu de questions façon Trivial Pursuit : **1000 cartes de 6 questions**, soit 6000 questions en français,
+Jeu de questions façon Trivial Pursuit : **1833 cartes de 6 questions** (base de 1000 cartes + extension de 833), soit près de 11 000 questions en français,
 dans une application web progressive (PWA) installable sur téléphone et utilisable hors ligne.
 
 | Couleur | Catégorie |
