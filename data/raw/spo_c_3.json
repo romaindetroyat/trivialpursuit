@@ -84,7 +84,7 @@
   {"q": "Quel outil permet de vérifier l'horizontalité d'une surface grâce à une bulle d'air ?", "r": "Le niveau à bulle", "d": 1, "t": "Bricolage"},
   {"q": "Comment appelle-t-on couramment la clé hexagonale coudée en forme de L ?", "r": "La clé Allen", "d": 2, "t": "Bricolage"},
   {"q": "Quel outil de menuisier permet d'aplanir une pièce de bois en enlevant de fins copeaux ?", "r": "Le rabot", "d": 1, "t": "Bricolage"},
-  {"q": "Comment appelle-t-on l'assemblage de menuiserie en forme de queue d'hirondelle évasée ?", "r": "La queue d'aronde", "d": 2, "t": "Bricolage"},
+  {"q": "Comment appelle-t-on l'assemblage de menuiserie en forme de trapèze évasé évoquant une queue d'oiseau ?", "r": "La queue d'aronde", "d": 2, "t": "Bricolage"},
   {"q": "Quel mélange de sulfate de cuivre et de chaux protège la vigne et les tomates du mildiou ?", "r": "La bouillie bordelaise", "d": 2, "t": "Jardinage"},
   {"q": "Quel art japonais consiste à cultiver des arbres miniatures en pot ?", "r": "Le bonsaï", "d": 1, "t": "Jardinage"},
   {"q": "Comment appelle-t-on l'art de tailler les arbres et les arbustes en formes géométriques ou animales ?", "r": "L'art topiaire", "d": 2, "t": "Jardinage"},

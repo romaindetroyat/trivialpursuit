@@ -18,12 +18,6 @@
   "t": "Nutrition"
  },
  {
-  "q": "Quelle vitamine porte aussi le nom de rétinol ?",
-  "r": "La vitamine A",
-  "d": 2,
-  "t": "Nutrition"
- },
- {
   "q": "Quel pigment orange, précurseur de la vitamine A, donne sa couleur à la carotte ?",
   "r": "Le bêta-carotène",
   "d": 2,
@@ -192,12 +186,6 @@
   "t": "Nutrition"
  },
  {
-  "q": "Quelle échelle, du nom d'un pharmacien américain, mesure la force des piments ?",
-  "r": "L'échelle de Scoville",
-  "d": 2,
-  "t": "Nutrition"
- },
- {
   "q": "Quel procédé de conservation par chauffage en récipient hermétique porte le nom d'un confiseur français ?",
   "r": "L'appertisation",
   "d": 2,
@@ -320,13 +308,13 @@
  {
   "q": "Quelle psychanalyste française animait à la radio l'émission « Lorsque l'enfant paraît » dans les années 1970 ?",
   "r": "Françoise Dolto",
-  "d": 2,
+  "d": 1,
   "t": "Psychologie"
  },
  {
   "q": "Quel psychologue suisse a décrit les grands stades du développement de l'intelligence chez l'enfant ?",
   "r": "Jean Piaget",
-  "d": 2,
+  "d": 1,
   "t": "Psychologie"
  },
  {
@@ -416,7 +404,7 @@
  {
   "q": "Comment appelle-t-on la peur des lieux publics et des espaces d'où il serait difficile de s'échapper ?",
   "r": "L'agoraphobie",
-  "d": 2,
+  "d": 1,
   "t": "Psychologie"
  },
  {
@@ -480,12 +468,6 @@
   "t": "Psychologie"
  },
  {
-  "q": "Quel psychologue allemand a établi en 1885 la célèbre « courbe de l'oubli » ?",
-  "r": "Hermann Ebbinghaus",
-  "d": 3,
-  "t": "Psychologie"
- },
- {
   "q": "Selon l'article de George Miller paru en 1956, combien d'éléments la mémoire à court terme retient-elle en moyenne ?",
   "r": "Sept (plus ou moins deux)",
   "d": 2,
@@ -525,12 +507,6 @@
   "q": "Quel trouble psychique se caractérise par l'alternance de phases d'exaltation et de dépression ?",
   "r": "Le trouble bipolaire",
   "d": 1,
-  "t": "Psychologie"
- },
- {
-  "q": "Quel psychiatre suisse a créé en 1908 le terme « schizophrénie » ?",
-  "r": "Eugen Bleuler",
-  "d": 3,
   "t": "Psychologie"
  },
  {

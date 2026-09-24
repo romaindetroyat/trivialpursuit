@@ -36,7 +36,7 @@
   {"q": "Quel humoriste a fondé les Restos du cœur en 1985 ?", "r": "Coluche", "d": 1, "t": "Société française"},
   {"q": "Quel navire de Greenpeace a été coulé par les services secrets français dans le port d'Auckland en 1985 ?", "r": "Le Rainbow Warrior", "d": 2, "t": "Affaires"},
   {"q": "Dans quel atoll de Polynésie la France a-t-elle procédé à des essais nucléaires jusqu'en 1996 ?", "r": "Mururoa", "d": 1, "t": "Ve République"},
-  {"q": "Dans quelle collectivité française d'outre-mer se trouve la grotte d'Ouvéa, théâtre d'une prise d'otages en 1988 ?", "r": "La Nouvelle-Calédonie", "d": 2, "t": "Outre-mer"},
+  {"q": "Dans quel territoire français du Pacifique se trouve la grotte d’Ouvéa, théâtre d’une prise d’otages en 1988 ?", "r": "La Nouvelle-Calédonie", "d": 2, "t": "Outre-mer"},
   {"q": "Quel barrage du Var a cédé en décembre 1959, provoquant une vague meurtrière sur Fréjus ?", "r": "Le barrage de Malpasset", "d": 3, "t": "Catastrophes"},
   {"q": "Quel pétrolier s'est échoué en 1978 au large de Portsall, provoquant une marée noire en Bretagne ?", "r": "L'Amoco Cadiz", "d": 3, "t": "Catastrophes"},
   {"q": "Quel pétrolier a fait naufrage au large du Finistère en décembre 1999, souillant les côtes atlantiques ?", "r": "L'Erika", "d": 2, "t": "Catastrophes"},
