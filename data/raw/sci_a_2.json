@@ -1,539 +1,629 @@
 [
  {
+  "id": "sci_a_2-001",
   "q": "Quel est le symbole chimique de l'or ?",
   "r": "Au",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-002",
   "q": "Quel est le symbole chimique du fer ?",
   "r": "Fe",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-003",
   "q": "Quel élément chimique a pour symbole K ?",
   "r": "Le potassium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-004",
   "q": "Quel élément chimique a pour symbole Na ?",
   "r": "Le sodium",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-005",
   "q": "Quel élément chimique a pour symbole Pb ?",
   "r": "Le plomb",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-006",
   "q": "Quel élément chimique a pour symbole Sb ?",
   "r": "L'antimoine",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-007",
   "q": "Quel est le symbole chimique de l'argent ?",
   "r": "Ag",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-008",
   "q": "Quel est le symbole chimique de l'étain ?",
   "r": "Sn",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-009",
   "q": "Quel est le symbole chimique du cuivre ?",
   "r": "Cu",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-010",
   "q": "Quelle est la formule chimique de l'eau ?",
   "r": "H₂O",
   "d": 1,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-011",
   "q": "Quel chimiste russe a publié en 1869 le tableau périodique des éléments qui l'a rendu célèbre ?",
   "r": "Dmitri Mendeleïev",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-012",
   "q": "Quel gaz représente environ 78 % de l'air que nous respirons ?",
   "r": "L'azote (diazote)",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-013",
   "q": "Quel gaz, indispensable à la respiration, représente environ 21 % de l'atmosphère terrestre ?",
   "r": "Le dioxygène",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-014",
   "q": "Quel gaz noble, plus léger que l'air, sert à gonfler les ballons de fête ?",
   "r": "L'hélium",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-015",
   "q": "Quel gaz noble produit la lumière rouge-orangé de nombreuses enseignes lumineuses ?",
   "r": "Le néon",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-016",
   "q": "Quel est le seul métal liquide à température ambiante ?",
   "r": "Le mercure",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-017",
   "q": "Quel est le seul non-métal liquide à température ambiante ?",
   "r": "Le brome",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-018",
   "q": "Quel est le nom chimique du sel de cuisine ?",
   "r": "Le chlorure de sodium",
   "d": 1,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-019",
   "q": "Quel chimiste français, guillotiné en 1794, est considéré comme le père de la chimie moderne ?",
   "r": "Antoine Lavoisier",
   "d": 1,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-020",
   "q": "Quelle maxime résume la loi de conservation de la masse attribuée à Lavoisier ?",
   "r": "Rien ne se perd, rien ne se crée…",
   "d": 2,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-021",
   "q": "Quelle est la valeur du pH d'une solution neutre comme l'eau pure à 25 °C ?",
   "r": "7",
   "d": 1,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-022",
   "q": "Comment qualifie-t-on une solution dont le pH est supérieur à 7 ?",
   "r": "Basique (alcaline)",
   "d": 2,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-023",
   "q": "Quel acide fort est sécrété par l'estomac humain pour la digestion ?",
   "r": "L'acide chlorhydrique",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-024",
   "q": "Quel acide donne au vinaigre son goût piquant ?",
   "r": "L'acide acétique",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-025",
   "q": "Quel acide, dont le nom vient du latin désignant la fourmi, est injecté par les piqûres de fourmis ?",
   "r": "L'acide formique",
   "d": 3,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-026",
   "q": "Quel élément, présent dans toutes les molécules du vivant, est la base de la chimie organique ?",
   "r": "Le carbone",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-027",
   "q": "Quel gaz toxique et inodore, produit par une combustion incomplète, est responsable d'intoxications domestiques ?",
   "r": "Le monoxyde de carbone",
   "d": 1,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-028",
   "q": "Quel gaz a pour formule O₃ ?",
   "r": "L'ozone",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-029",
   "q": "Quel élément, de numéro atomique 92, sert de combustible dans les centrales nucléaires ?",
   "r": "L'uranium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-030",
   "q": "Quel gaz est le principal constituant du gaz naturel ?",
   "r": "Le méthane",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-031",
   "q": "Quel est le métal le plus abondant dans la croûte terrestre ?",
   "r": "L'aluminium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-032",
   "q": "Quel est l'élément chimique le plus abondant dans la croûte terrestre, en masse ?",
   "r": "L'oxygène",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-033",
   "q": "Quel est l'élément chimique le plus abondant dans l'Univers ?",
   "r": "L'hydrogène",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-034",
   "q": "Quel élément radioactif Marie Curie a-t-elle baptisé en hommage à son pays natal ?",
   "r": "Le polonium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-035",
   "q": "Quel élément, découvert par les Curie en 1898, doit son nom au mot latin signifiant « rayon » ?",
   "r": "Le radium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-036",
   "q": "Quel élément radioactif, découvert en 1939 par Marguerite Perey, porte le nom de la France ?",
   "r": "Le francium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-037",
   "q": "Quel métal, découvert en 1875 par Lecoq de Boisbaudran, tire son nom du nom latin de la France ?",
   "r": "Le gallium",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-038",
   "q": "Quel élément, de numéro atomique 101, porte le nom du père du tableau périodique ?",
   "r": "Le mendélévium",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-039",
   "q": "Quel élément chimique de numéro atomique 99 porte le nom de l'auteur de la théorie de la relativité ?",
   "r": "L'einsteinium",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-040",
   "q": "Quel gaz jaune-verdâtre est utilisé pour désinfecter l'eau des piscines ?",
   "r": "Le chlore",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-041",
   "q": "Quel élément est ajouté aux dentifrices pour prévenir les caries ?",
   "r": "Le fluor",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-042",
   "q": "Quel élément jaune, que l'on trouve près des volcans, entre dans la composition de la poudre noire ?",
   "r": "Le soufre",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-043",
   "q": "Quel élément semi-conducteur, extrait du sable, est à la base des puces électroniques ?",
   "r": "Le silicium",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-044",
   "q": "Comment appelle-t-on la famille des éléments de la dernière colonne du tableau périodique, comme l'argon ou le krypton ?",
   "r": "Les gaz nobles (gaz rares)",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-045",
   "q": "Comment appelle-t-on la famille d'éléments comprenant le fluor, le chlore, le brome et l'iode ?",
   "r": "Les halogènes",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-046",
   "q": "Quel alliage, qui a donné son nom à un âge de la préhistoire, est composé de cuivre et d'étain ?",
   "r": "Le bronze",
   "d": 1,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-047",
   "q": "Quel alliage de cuivre et de zinc sert à fabriquer de nombreux instruments de musique à vent ?",
   "r": "Le laiton",
   "d": 2,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-048",
   "q": "Quel alliage est principalement composé de fer et d'un peu de carbone ?",
   "r": "L'acier",
   "d": 1,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-049",
   "q": "Quel métal, ajouté à l'acier à plus de 10,5 %, le rend inoxydable ?",
   "r": "Le chrome",
   "d": 2,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-050",
   "q": "Comment appelle-t-on la réaction chimique à l'origine de la formation de la rouille sur le fer ?",
   "r": "L'oxydation",
   "d": 1,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-051",
   "q": "Comment qualifie-t-on une réaction chimique qui dégage de la chaleur ?",
   "r": "Exothermique",
   "d": 2,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-052",
   "q": "Comment appelle-t-on la réaction entre un acide et une base qui produit un sel et de l'eau ?",
   "r": "La neutralisation",
   "d": 2,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-053",
   "q": "Comment appelle-t-on une substance qui accélère une réaction chimique sans être consommée ?",
   "r": "Un catalyseur",
   "d": 1,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-054",
   "q": "Quel procédé industriel, mis au point par deux chimistes allemands au début du XXe siècle, synthétise l'ammoniac ?",
   "r": "Le procédé Haber-Bosch",
   "d": 3,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-055",
   "q": "Quelle est la formule chimique de l'ammoniac ?",
   "r": "NH₃",
   "d": 3,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-056",
   "q": "Quel gaz se dégage lorsqu'on mélange du bicarbonate de soude et du vinaigre ?",
   "r": "Le dioxyde de carbone",
   "d": 2,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-057",
   "q": "Quel est le nom chimique de l'alcool contenu dans le vin et la bière ?",
   "r": "L'éthanol",
   "d": 1,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-058",
   "q": "Quel chimiste et industriel suédois, inventeur de la dynamite, a légué sa fortune pour créer des prix célèbres ?",
   "r": "Alfred Nobel",
   "d": 1,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-059",
   "q": "Quel explosif liquide très instable Alfred Nobel a-t-il stabilisé pour inventer la dynamite ?",
   "r": "La nitroglycérine",
   "d": 2,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-060",
   "q": "Quel chimiste suédois a proposé, au début du XIXe siècle, de noter les éléments par les initiales de leur nom latin ?",
   "r": "Jöns Jacob Berzelius",
   "d": 3,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-061",
   "q": "Quel physicien français a laissé son nom, avec l'Irlandais Robert Boyle, à la loi reliant la pression et le volume d'un gaz ?",
   "r": "Edme Mariotte",
   "d": 3,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-062",
   "q": "Quel nombre, environ 6,022 × 10²³, correspond au nombre d'entités contenues dans une mole ?",
   "r": "Le nombre d'Avogadro",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-063",
   "q": "Quel matériau obtient-on en faisant fondre du sable siliceux à très haute température ?",
   "r": "Le verre",
   "d": 1,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-064",
   "q": "Quel pigment blanc toxique, à base de plomb, a longtemps été utilisé en peinture et en cosmétique ?",
   "r": "La céruse",
   "d": 3,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-065",
   "q": "Quel métal précieux, plus dense que l'or, est très utilisé dans les pots catalytiques ?",
   "r": "Le platine",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-066",
   "q": "Quel métal alcalin équipe les batteries rechargeables des smartphones et des voitures électriques ?",
   "r": "Le lithium",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-067",
   "q": "Quel métal, qui possède le point de fusion le plus élevé, formait le filament des ampoules à incandescence ?",
   "r": "Le tungstène",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-068",
   "q": "Quel gaz radioactif naturel, issu du granite, peut s'accumuler dans les sous-sols en Bretagne ou dans le Limousin ?",
   "r": "Le radon",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-069",
   "q": "Quelle molécule donne au piment sa sensation de brûlure ?",
   "r": "La capsaïcine",
   "d": 3,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-070",
   "q": "Quel est le nom scientifique du sucre de table, extrait de la betterave ou de la canne ?",
   "r": "Le saccharose",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-071",
   "q": "Après la validation de quatre nouveaux éléments fin 2015, combien d'éléments comptait le tableau périodique ?",
   "r": "118",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-072",
   "q": "Quel élément, nommé en 2016, est le premier découvert en Asie et porte le nom japonais du Japon ?",
   "r": "Le nihonium",
   "d": 3,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-073",
   "q": "Comment appelle-t-on des atomes d'un même élément qui diffèrent par leur nombre de neutrons ?",
   "r": "Des isotopes",
   "d": 2,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-074",
   "q": "Quel isotope radioactif permet de dater des restes organiques jusqu'à environ 50 000 ans ?",
   "r": "Le carbone 14",
   "d": 1,
   "t": "Chimie : éléments"
  },
  {
+  "id": "sci_a_2-075",
   "q": "Comment appelle-t-on la liaison chimique dans laquelle deux atomes mettent en commun des électrons ?",
   "r": "Une liaison covalente",
   "d": 3,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-076",
   "q": "Comment appelle-t-on un atome qui a gagné ou perdu un ou plusieurs électrons ?",
   "r": "Un ion",
   "d": 1,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-077",
   "q": "Comment appelle-t-on un ion chargé positivement ?",
   "r": "Un cation",
   "d": 2,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-078",
   "q": "Quelle technique de séparation, utilisée pour produire les eaux-de-vie, repose sur les différences de température d'ébullition ?",
   "r": "La distillation",
   "d": 1,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-079",
   "q": "Quelle technique permet de séparer les pigments d'une encre qui migrent sur un papier buvard ?",
   "r": "La chromatographie",
   "d": 2,
   "t": "Chimie : réactions"
  },
  {
+  "id": "sci_a_2-080",
   "q": "Comment appelle-t-on l'ancêtre ésotérique de la chimie, qui cherchait notamment à transformer le plomb en or ?",
   "r": "L'alchimie",
   "d": 1,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-081",
   "q": "Quelle substance légendaire les alchimistes cherchaient-ils pour changer les métaux vils en or ?",
   "r": "La pierre philosophale",
   "d": 1,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-082",
   "q": "Quel chimiste britannique a isolé le sodium et le potassium par électrolyse en 1807 ?",
   "r": "Humphry Davy",
   "d": 3,
   "t": "Chimie : histoire"
  },
  {
+  "id": "sci_a_2-083",
   "q": "Quel gaz de formule N₂O est surnommé « gaz hilarant » ?",
   "r": "Le protoxyde d'azote",
   "d": 2,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-084",
   "q": "Quelle vitamine correspond à l'acide ascorbique ?",
   "r": "La vitamine C",
   "d": 1,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-085",
   "q": "Quel métal recouvre l'acier galvanisé pour le protéger de la rouille ?",
   "r": "Le zinc",
   "d": 2,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-086",
   "q": "Quel est le nom chimique de la soude caustique, utilisée pour déboucher les canalisations ?",
   "r": "L'hydroxyde de sodium",
   "d": 3,
   "t": "Chimie : molécules"
  },
  {
+  "id": "sci_a_2-087",
   "q": "Quelle roche sédimentaire est principalement composée de carbonate de calcium ?",
   "r": "Le calcaire",
   "d": 2,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-088",
   "q": "Quelle fibre synthétique, mise au point par la firme DuPont dans les années 1930, a remplacé la soie dans les bas ?",
   "r": "Le nylon",
   "d": 2,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-089",
   "q": "Que désigne le sigle PVC, plastique utilisé pour les canalisations et les fenêtres ?",
   "r": "Le polychlorure de vinyle",
   "d": 3,
   "t": "Chimie : matériaux"
  },
  {
+  "id": "sci_a_2-090",
   "q": "Quelle pierre précieuse est constituée de carbone pur cristallisé ?",
   "r": "Le diamant",
   "d": 1,

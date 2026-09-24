@@ -1,0 +1,597 @@
+[
+ {
+  "id": "art_d_1-001",
+  "q": "Quel roman de Michel Tournier a obtenu le prix Goncourt en 1970 ?",
+  "r": "Le Roi des Aulnes",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_1-002",
+  "q": "Quelle fable de La Fontaine contient la morale « Tout flatteur / Vit aux dépens de celui qui l'écoute » ?",
+  "r": "Le Corbeau et le Renard",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_1-003",
+  "q": "Quels animaux annoncent l'épidémie en venant mourir dans les rues d'Oran, au début de « La Peste » ?",
+  "r": "Les rats",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-004",
+  "q": "Dans quel roman de Maurice Leblanc (1909) Lupin cache-t-il ses trésors au cœur d'une falaise d'Étretat ?",
+  "r": "L'Aiguille creuse",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-005",
+  "q": "Quel écrivain oulipien a publié « On est toujours trop bon avec les femmes » sous le pseudonyme de Sally Mara ?",
+  "r": "Raymond Queneau",
+  "d": 3,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_1-006",
+  "q": "Quel long poème allégorique du XIIIe siècle a été écrit par Guillaume de Lorris puis achevé par Jean de Meun ?",
+  "r": "Le Roman de la Rose",
+  "d": 3,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_1-007",
+  "q": "Quel écrivain de la Grande Guerre, auteur de « Ceux de 14 », est entré au Panthéon en 2020 ?",
+  "r": "Maurice Genevoix",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-008",
+  "q": "Quel poème de Prévert décrit un élève qui « dit non avec la tête / mais il dit oui avec le cœur » ?",
+  "r": "Le Cancre",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-009",
+  "q": "Dans « Le Malade imaginaire », quelle servante se déguise en médecin pour duper Argan ?",
+  "r": "Toinette",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-010",
+  "q": "Quel lion est le roi des animaux dans le « Roman de Renart » ?",
+  "r": "Noble",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_1-011",
+  "q": "Que désignait le mot latin « plagiarius », à l'origine du mot « plagiaire » ?",
+  "r": "Un voleur d'esclaves",
+  "d": 3,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_1-012",
+  "q": "Quel roman de Marguerite Duras (1950) montre une mère luttant contre la mer qui inonde ses terres en Indochine ?",
+  "r": "Un barrage contre le Pacifique",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-013",
+  "q": "Quelle est la seule comédie écrite par Jean Racine ?",
+  "r": "Les Plaideurs",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-014",
+  "q": "Quelle pièce de Jean Genet (1947) met en scène deux domestiques, les sœurs Claire et Solange ?",
+  "r": "Les Bonnes",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-015",
+  "q": "Quel roman de cape et d'épée de Théophile Gautier (1863) a pour héros le baron de Sigognac ?",
+  "r": "Le Capitaine Fracasse",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-016",
+  "q": "De quelle ville Phileas Fogg part-il et revient-il pour son tour du monde ?",
+  "r": "Londres",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-017",
+  "q": "Comment appelle-t-on une strophe de trois vers ?",
+  "r": "Un tercet",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-018",
+  "q": "Dans la fable de La Fontaine, quel végétal plie mais ne rompt pas quand la tempête déracine le chêne ?",
+  "r": "Le roseau",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_1-019",
+  "q": "Quelles créatures marines géantes, armées de tentacules, attaquent le Nautilus dans « Vingt mille lieues sous les mers » ?",
+  "r": "Des poulpes géants (calmars)",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-020",
+  "q": "Quel roman de Victor Hugo, paru en 1831, a pour cadre le Paris de l'an 1482 ?",
+  "r": "Notre-Dame de Paris",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-021",
+  "q": "Quel volatile est le héros d'une pièce d'Edmond Rostand créée en 1910 ?",
+  "r": "Chantecler (un coq)",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-022",
+  "q": "Quel numéro de matricule porte Jean Valjean au bagne de Toulon ?",
+  "r": "24601",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_1-023",
+  "q": "Quel genre théâtral met en scène des personnages nobles écrasés par un destin funeste ?",
+  "r": "La tragédie",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-024",
+  "q": "Quelle figure de style atténue une réalité pénible, comme « il nous a quittés » pour « il est mort » ?",
+  "r": "L'euphémisme",
+  "d": 1,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-025",
+  "q": "Quelle figure de style enchaîne des termes d'intensité croissante, comme « Va, cours, vole, et nous venge » ?",
+  "r": "La gradation",
+  "d": 2,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-026",
+  "q": "Quel ouvrage de Voltaire (1734), aussi appelé « Lettres anglaises », fut condamné à être brûlé ?",
+  "r": "Les Lettres philosophiques",
+  "d": 3,
+  "t": "Correspondances"
+ },
+ {
+  "id": "art_d_1-027",
+  "q": "Quel roman du Sénégalais Cheikh Hamidou Kane (1961) raconte le déchirement de Samba Diallo entre deux cultures ?",
+  "r": "L'Aventure ambiguë",
+  "d": 3,
+  "t": "Francophonie"
+ },
+ {
+  "id": "art_d_1-028",
+  "q": "Quel fabuliste du XVIIIe siècle a écrit « Pour vivre heureux, vivons cachés » ?",
+  "r": "Florian",
+  "d": 3,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_1-029",
+  "q": "Quel conte de Voltaire met en scène un géant venu d'une planète de l'étoile Sirius ?",
+  "r": "Micromégas",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-030",
+  "q": "Quel recueil de poèmes Victor Hugo publie-t-il en exil, en 1853, contre Napoléon III ?",
+  "r": "Les Châtiments",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-031",
+  "q": "Quel mot désignant le plaisir pris à faire souffrir vient du nom d'un écrivain marquis du XVIIIe siècle ?",
+  "r": "Le sadisme",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_1-032",
+  "q": "Quel officier de Balzac, laissé pour mort à la bataille d'Eylau, revient réclamer son nom et sa fortune ?",
+  "r": "Le colonel Chabert",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_1-033",
+  "q": "Quel détective anglais, caricature transparente d'un héros de Conan Doyle, affronte Arsène Lupin ?",
+  "r": "Herlock Sholmès",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-034",
+  "q": "Dans quel cimetière parisien reposent Baudelaire, Sartre et Simone de Beauvoir ?",
+  "r": "Le cimetière du Montparnasse",
+  "d": 2,
+  "t": "Lieux littéraires"
+ },
+ {
+  "id": "art_d_1-035",
+  "q": "Comment appelle-t-on un court écrit satirique qui attaque violemment une personne ou une institution ?",
+  "r": "Un pamphlet",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "id": "art_d_1-036",
+  "q": "Comment s'appelle la jeune baronne aimée de Candide, dans le conte de Voltaire ?",
+  "r": "Cunégonde",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_1-037",
+  "q": "Quel est le véritable nom de famille de Guillaume Apollinaire ?",
+  "r": "Kostrowitzky (Kostrowicki)",
+  "d": 3,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_1-038",
+  "q": "Sous quel titre sont réunis les « Petits poèmes en prose » de Baudelaire ?",
+  "r": "Le Spleen de Paris",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-039",
+  "q": "Que signifie le mot « geste » dans l'expression « chanson de geste » ?",
+  "r": "Les exploits, hauts faits",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_1-040",
+  "q": "Comment appelle-t-on une poésie affranchie de la rime et du mètre régulier, pratiquée par Apollinaire ou Prévert ?",
+  "r": "Le vers libre",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-041",
+  "q": "Quel roman de Robert Merle, sur la débâcle de Dunkerque en 1940, a obtenu le prix Goncourt en 1949 ?",
+  "r": "Week-end à Zuydcoote",
+  "d": 3,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_1-042",
+  "q": "Quel est le prénom du commissaire Maigret ?",
+  "r": "Jules",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-043",
+  "q": "Quel roman d'Alexandre Dumas se déroule autour du massacre de la Saint-Barthélemy et de la sœur de Charles IX ?",
+  "r": "La Reine Margot",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-044",
+  "q": "Quelle fable de La Fontaine se conclut par « Selon que vous serez puissant ou misérable, / Les jugements de cour vous rendront blanc ou noir » ?",
+  "r": "Les Animaux malades de la peste",
+  "d": 2,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_1-045",
+  "q": "Quelle abbesse du XIIe siècle a échangé avec Abélard des lettres d'amour restées célèbres ?",
+  "r": "Héloïse",
+  "d": 1,
+  "t": "Correspondances"
+ },
+ {
+  "id": "art_d_1-046",
+  "q": "Quelle expression latine désigne un dénouement providentiel et invraisemblable, comme l'intervention d'un dieu descendu sur scène ?",
+  "r": "Deus ex machina",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-047",
+  "q": "Quelle actrice fut la compagne de Victor Hugo pendant un demi-siècle et lui écrivit des milliers de lettres ?",
+  "r": "Juliette Drouet",
+  "d": 2,
+  "t": "Correspondances"
+ },
+ {
+  "id": "art_d_1-048",
+  "q": "Quel livre d'Emmanuel Carrère, consacré à un écrivain et agitateur russe, a obtenu le prix Renaudot en 2011 ?",
+  "r": "Limonov",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_1-049",
+  "q": "Dans quel château légendaire le roi Arthur tient-il sa cour ?",
+  "r": "Camelot",
+  "d": 1,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_1-050",
+  "q": "Comment appelle-t-on un roman publié par épisodes dans un journal, comme ceux d'Eugène Sue au XIXe siècle ?",
+  "r": "Un roman-feuilleton",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "id": "art_d_1-051",
+  "q": "Quel écrivain se cachait derrière le pseudonyme de San-Antonio ?",
+  "r": "Frédéric Dard",
+  "d": 1,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_1-052",
+  "q": "Quel roman du Martiniquais Joseph Zobel (1950), adapté au cinéma par Euzhan Palcy, raconte l'enfance de José ?",
+  "r": "La Rue Cases-Nègres",
+  "d": 2,
+  "t": "Francophonie"
+ },
+ {
+  "id": "art_d_1-053",
+  "q": "Quel recueil d'Apollinaire, paru en 1913, s'ouvre sur le poème « Zone » ?",
+  "r": "Alcools",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-054",
+  "q": "Au théâtre, comment appelle-t-on le côté gauche de la scène vu depuis la salle ?",
+  "r": "Le côté jardin",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-055",
+  "q": "Quelle figure désigne une chose par un mot qui lui est lié, comme « boire un verre » pour boire son contenu ?",
+  "r": "La métonymie",
+  "d": 2,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-056",
+  "q": "Quelle figure rattache à un même mot deux compléments de nature différente, comme « Vêtu de probité candide et de lin blanc » ?",
+  "r": "Le zeugma",
+  "d": 3,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-057",
+  "q": "Quel poète du XIIIe siècle a écrit « Que sont mes amis devenus / Que j'avais de si près tenus » ?",
+  "r": "Rutebeuf",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-058",
+  "q": "Comment appelle-t-on un mot qui imite un bruit, comme « plouf » ou « tic-tac » ?",
+  "r": "Une onomatopée",
+  "d": 1,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-059",
+  "q": "Quel métier exerce le narrateur du « Petit Prince », tombé en panne dans le désert ?",
+  "r": "Aviateur",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_1-060",
+  "q": "Comment appelle-t-on un mot nouvellement créé, ou un sens nouveau donné à un mot existant ?",
+  "r": "Un néologisme",
+  "d": 1,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-061",
+  "q": "Dans quel domaine du Berry George Sand recevait-elle Chopin, Delacroix ou Flaubert ?",
+  "r": "Nohant",
+  "d": 2,
+  "t": "Lieux littéraires"
+ },
+ {
+  "id": "art_d_1-062",
+  "q": "Quel adjectif désigne un dilemme entre le devoir et la passion, par référence à l'auteur du « Cid » ?",
+  "r": "Cornélien",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_1-063",
+  "q": "Quel personnage de capitaine fanfaron, présent dans « L'Illusion comique » de Corneille, a donné un nom commun désignant un vantard ?",
+  "r": "Matamore",
+  "d": 2,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_1-064",
+  "q": "Quel prisonnier du château d'If révèle à Edmond Dantès l'existence d'un trésor ?",
+  "r": "L'abbé Faria",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_1-065",
+  "q": "Quel café parisien, fondé en 1686, passe pour le plus ancien de Paris et fut fréquenté par Voltaire et Diderot ?",
+  "r": "Le Procope",
+  "d": 2,
+  "t": "Lieux littéraires"
+ },
+ {
+  "id": "art_d_1-066",
+  "q": "Dans quelle fable de La Fontaine Perrette rêve-t-elle de veaux et de cochons avant de tout renverser ?",
+  "r": "La Laitière et le Pot au lait",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_1-067",
+  "q": "Quel sonnet de Baudelaire commence par « La Nature est un temple où de vivants piliers » ?",
+  "r": "Correspondances",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-068",
+  "q": "Quel roman de Gaston Leroux (1907), première enquête de Rouletabille, est un modèle d'énigme en lieu clos ?",
+  "r": "Le Mystère de la chambre jaune",
+  "d": 1,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-069",
+  "q": "Quelle saga de Maurice Druon, commencée avec « Le Roi de fer », raconte la fin des Capétiens directs ?",
+  "r": "Les Rois maudits",
+  "d": 1,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-070",
+  "q": "Quel poème de Victor Hugo contient le vers « Donne-lui tout de même à boire, dit mon père » ?",
+  "r": "Après la bataille",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-071",
+  "q": "Comment appelle-t-on une réplique prononcée par un personnage seul en scène ?",
+  "r": "Un monologue",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_1-072",
+  "q": "Quelle maison d'édition, fondée en 1911 autour de la NRF, publie la célèbre « collection blanche » ?",
+  "r": "Gallimard",
+  "d": 1,
+  "t": "Édition"
+ },
+ {
+  "id": "art_d_1-073",
+  "q": "Quel est le véritable nom de Blaise Cendrars ?",
+  "r": "Frédéric Sauser",
+  "d": 3,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_1-074",
+  "q": "Dans « Les Animaux malades de la peste », quel animal est finalement jugé coupable et dévoré ?",
+  "r": "L'âne",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_1-075",
+  "q": "Quel commissaire rêveur et intuitif est le héros des romans policiers de Fred Vargas ?",
+  "r": "Adamsberg",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-076",
+  "q": "Quelle nouvelle de Prosper Mérimée (1845) a inspiré un célèbre opéra de Georges Bizet ?",
+  "r": "Carmen",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-077",
+  "q": "Quel conte de Maurice Druon (1957) raconte l'histoire d'un enfant qui fait pousser des fleurs partout où il pose le doigt ?",
+  "r": "Tistou les pouces verts",
+  "d": 2,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_1-078",
+  "q": "Quel prince, créé par l'illustrateur Pef, déforme tous les mots et habite un « chapeau » au lieu d'un château ?",
+  "r": "Le prince de Motordu",
+  "d": 2,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_1-079",
+  "q": "Quel roman de Sébastien Japrisot (1991) suit Mathilde, qui recherche son fiancé disparu dans les tranchées ?",
+  "r": "Un long dimanche de fiançailles",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_1-080",
+  "q": "Quelle figure remplace un mot par une expression plus longue, comme « la Ville lumière » pour Paris ?",
+  "r": "La périphrase",
+  "d": 2,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_1-081",
+  "q": "Quel roman de Brigitte Giraud, sur l'accident de moto qui a coûté la vie à son mari, a obtenu le Goncourt en 2022 ?",
+  "r": "Vivre vite",
+  "d": 3,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_1-082",
+  "q": "Quel poète a consacré « Le Parti pris des choses » (1942) au cageot, à l'huître ou au pain ?",
+  "r": "Francis Ponge",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_1-083",
+  "q": "Quel roman de Zola (1867) raconte le meurtre de Camille par sa femme et l'amant de celle-ci, Laurent ?",
+  "r": "Thérèse Raquin",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-084",
+  "q": "Pour quel film d'Alain Resnais Marguerite Duras a-t-elle écrit le scénario en 1959 ?",
+  "r": "Hiroshima mon amour",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_1-085",
+  "q": "Comment appelle-t-on la partie finale d'un récit qui raconte ce que deviennent les personnages après le dénouement ?",
+  "r": "L'épilogue",
+  "d": 1,
+  "t": "Genres littéraires"
+ }
+]

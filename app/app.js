@@ -4,6 +4,9 @@
 const CLE_PIOCHE = 'trivial1000.pioche';
 const CLE_PARTIE = 'trivial1000.partie';
 const CLE_JOUEURS = 'trivial1000.joueurs';
+const CLE_SOLO = 'trivial1000.solo';
+const CLE_SOLO_VUES = 'trivial1000.solo.vues';
+const CLE_SOLO_RECORDS = 'trivial1000.solo.records';
 
 // Texte lisible sur fond clair pour les couleurs trop pâles (jaune).
 const COULEUR_TEXTE = { his: '#9a7a00' };
@@ -55,6 +58,9 @@ function melanger(tab) {
 }
 
 const numero = n => String(n).padStart(4, '0');
+// Typographie française : espace insécable avant ? ! : ; » et après «, pour éviter
+// qu'un signe se retrouve seul en début de ligne.
+const typo = t => String(t).replace(/\s+([?!:;»])/g, '\u00a0$1').replace(/«\s+/g, '«\u00a0');
 const styleCat = c => `--c:${c.couleur};--c-texte:${COULEUR_TEXTE[c.id] || c.couleur}`;
 const catParId = id => CATS.find(c => c.id === id);
 
@@ -124,10 +130,23 @@ function rendreCarte(conteneur, index) {
 
 /* ---------------- Pioche ---------------- */
 
+function cartesDuPaquet(choix) {
+  // choix : 'tout' ou l'indice d'une édition (plage de numéros de cartes).
+  const ed = (DATA.editions || [])[choix];
+  if (!ed) return [...DATA.cartes.keys()];
+  return Array.from({ length: ed.a - ed.de + 1 }, (_, i) => ed.de - 1 + i);
+}
+
+function nouvellePioche(choix) {
+  return { paquet: choix, ordre: melanger(cartesDuPaquet(choix)), pos: 0 };
+}
+
 function etatPioche() {
   let etat = lire(CLE_PIOCHE, null);
-  if (!etat || !Array.isArray(etat.ordre) || etat.ordre.length !== DATA.cartes.length) {
-    etat = { ordre: melanger([...DATA.cartes.keys()]), pos: 0 };
+  const choix = etat && etat.paquet != null ? etat.paquet : 'tout';
+  if (!etat || !Array.isArray(etat.ordre) || etat.ordre.length !== cartesDuPaquet(choix).length
+    || etat.ordre.some(i => !DATA.cartes[i])) {
+    etat = nouvellePioche(choix);
     ecrire(CLE_PIOCHE, etat);
   }
   return etat;
@@ -136,10 +155,11 @@ function etatPioche() {
 function afficherPioche(avancer = false) {
   let etat = etatPioche();
   if (avancer) etat.pos++;
-  if (etat.pos >= etat.ordre.length) etat = { ordre: melanger([...DATA.cartes.keys()]), pos: 0 };
+  if (etat.pos >= etat.ordre.length) etat = nouvellePioche(etat.paquet);
   ecrire(CLE_PIOCHE, etat);
   rendreCarte($('#pioche-carte'), etat.ordre[etat.pos]);
-  $('#pioche-info').textContent = `Carte ${etat.pos + 1} sur ${etat.ordre.length} du paquet`;
+  $('#pioche-info').textContent = `Carte ${etat.pos + 1} sur ${etat.ordre.length}`;
+  $('#pioche-paquet').value = String(etat.paquet);
 }
 
 function initPioche() {
@@ -157,9 +177,21 @@ function initPioche() {
   });
   $('#pioche-reset').addEventListener('click', () => {
     if (!confirm('Remélanger tout le paquet ? Les cartes déjà vues pourront ressortir.')) return;
-    effacer(CLE_PIOCHE);
+    ecrire(CLE_PIOCHE, nouvellePioche(etatPioche().paquet));
     afficherPioche();
   });
+  const editions = DATA.editions || [];
+  if (editions.length > 1) {
+    const choix = $('#pioche-paquet');
+    choix.append(
+      h('option', { value: 'tout' }, `Toutes les cartes (1 à ${DATA.cartes.length})`),
+      ...editions.map((ed, i) => h('option', { value: String(i) }, `${ed.nom} (${ed.de} à ${ed.a})`)));
+    choix.hidden = false;
+    choix.addEventListener('change', () => {
+      ecrire(CLE_PIOCHE, nouvellePioche(choix.value === 'tout' ? 'tout' : Number(choix.value)));
+      afficherPioche();
+    });
+  }
 }
 
 /* ---------------- Partie sans plateau ---------------- */
@@ -396,6 +428,197 @@ function initPartie() {
   if (partie && (partie.question != null && !QUESTIONS[partie.question])) partie = null;
 }
 
+/* ---------------- Solo ---------------- */
+
+let solo = null;
+const VIES = 3;
+const LIBELLE_NIVEAU = ['toutes difficultés', 'faciles', 'faciles et moyennes', 'moyennes et difficiles'];
+
+function sauverSolo() { ecrire(CLE_SOLO, solo); }
+
+function cleRecord(s) { return `${s.format}|${s.cat || 'toutes'}|${s.niveau}`; }
+
+function libelleConfig(s) {
+  const format = s.format === 'survie' ? 'Survie' : `${s.format} questions`;
+  const cat = s.cat ? catParId(s.cat).nom : 'toutes catégories';
+  return `${format} · ${cat} · ${LIBELLE_NIVEAU[s.niveau]}`;
+}
+
+function tirerQuestionSolo() {
+  const niveaux = NIVEAUX[solo.niveau] || NIVEAUX[0];
+  const dansPartie = new Set(solo.historique.map(e => e.id));
+  const convient = q => (!solo.cat || q.cat === solo.cat) && niveaux.includes(q.d) && !dansPartie.has(q.id);
+  let vues = new Set(lire(CLE_SOLO_VUES, []));
+  let pool = QUESTIONS.filter(q => convient(q) && !vues.has(q.id));
+  if (!pool.length) {
+    // Toutes les questions de ces réglages ont déjà été vues : on les remet en jeu.
+    const aRetirer = new Set(QUESTIONS.filter(convient).map(q => q.id));
+    vues = new Set([...vues].filter(id => !aRetirer.has(id)));
+    pool = QUESTIONS.filter(convient);
+  }
+  const q = pool[Math.floor(Math.random() * pool.length)];
+  vues.add(q.id);
+  ecrire(CLE_SOLO_VUES, [...vues]);
+  return q.id;
+}
+
+function soloTermine() {
+  if (solo.format === 'survie') return solo.erreurs >= VIES;
+  return solo.historique.length >= Number(solo.format);
+}
+
+function nouveauSolo(reglages) {
+  solo = { ...reglages, historique: [], question: null, phase: 'question', score: 0, serie: 0, meilleureSerie: 0 };
+  solo.question = tirerQuestionSolo();
+  sauverSolo();
+  rendreSolo();
+}
+
+function repondreSolo(bon) {
+  const q = QUESTIONS[solo.question];
+  let pts = 0;
+  if (bon) {
+    solo.serie++;
+    solo.meilleureSerie = Math.max(solo.meilleureSerie, solo.serie);
+    pts = q.d + (solo.serie >= 3 ? 1 : 0);
+    solo.score += pts;
+  } else {
+    solo.serie = 0;
+    solo.erreurs = (solo.erreurs || 0) + 1;
+  }
+  solo.historique.push({ id: q.id, ok: bon, pts });
+  if (soloTermine()) {
+    solo.phase = 'fin';
+    const records = lire(CLE_SOLO_RECORDS, {});
+    const cle = cleRecord(solo);
+    solo.ancienRecord = records[cle] ? records[cle].score : null;
+    if (solo.ancienRecord == null || solo.score > solo.ancienRecord) {
+      records[cle] = { score: solo.score, date: new Date().toISOString().slice(0, 10) };
+      ecrire(CLE_SOLO_RECORDS, records);
+    }
+  } else {
+    solo.question = tirerQuestionSolo();
+    solo.phase = 'question';
+  }
+  sauverSolo();
+  rendreSolo();
+}
+
+function afficherConfigSolo() {
+  $('#solo-config').hidden = false;
+  $('#solo-jeu').hidden = true;
+  const records = Object.entries(lire(CLE_SOLO_RECORDS, {}))
+    .sort((a, b) => b[1].score - a[1].score).slice(0, 8);
+  $('#solo-records').replaceChildren(...(records.length ? [
+    h('h3', {}, 'Vos records'),
+    h('ul', { class: 'records' }, records.map(([cle, r]) => {
+      const [format, cat, niveau] = cle.split('|');
+      return h('li', {},
+        h('span', {}, libelleConfig({ format, cat: cat === 'toutes' ? '' : cat, niveau: Number(niveau) })),
+        h('b', {}, `${r.score} pts`));
+    })),
+  ] : []));
+}
+
+function rendreSolo() {
+  if (!solo) { afficherConfigSolo(); return; }
+  $('#solo-config').hidden = true;
+  const zone = $('#solo-jeu');
+  zone.hidden = false;
+
+  if (solo.phase === 'fin') { rendreFinSolo(zone); return; }
+
+  const n = solo.historique.length + 1;
+  const progression = solo.format === 'survie'
+    ? h('span', { class: 'vies', 'aria-label': `${VIES - (solo.erreurs || 0)} vies restantes` },
+      Array.from({ length: VIES }, (_, i) => h('i', { class: i < VIES - (solo.erreurs || 0) ? 'on' : null })))
+    : h('span', {}, `Question ${n} / ${solo.format}`);
+  const derniere = solo.historique[solo.historique.length - 1];
+
+  const q = QUESTIONS[solo.question];
+  const cat = catParId(q.cat);
+  const carte = h('article', { class: 'carte' },
+    h('div', { class: 'carte-tete' },
+      h('span', {}, `${q.d} PT${q.d > 1 ? 'S' : ''}${solo.serie >= 2 ? ' + 1 BONUS' : ''}`),
+      h('span', { class: 'num' }, 'N° ' + numero(q.carte + 1))),
+    ligneQuestion(cat, [q.q, q.r, q.d], { cliquable: false, ouvert: solo.phase === 'reponse' }));
+
+  const actions = solo.phase === 'question'
+    ? h('button', { type: 'button', class: 'btn', onclick: () => { solo.phase = 'reponse'; sauverSolo(); rendreSolo(); } }, 'Voir la réponse')
+    : h('div', { class: 'actions' },
+      h('button', { type: 'button', class: 'btn btn-ko', onclick: () => repondreSolo(false) }, 'Raté'),
+      h('button', { type: 'button', class: 'btn btn-ok', onclick: () => repondreSolo(true) }, 'Je l\'avais'));
+
+  zone.replaceChildren(
+    h('div', { class: 'solo-tete' },
+      progression,
+      h('span', { class: 'solo-score' }, h('b', {}, String(solo.score)), ' pts')),
+    h('p', { class: 'solo-info' },
+      derniere ? (derniere.ok ? `Bonne réponse : +${derniere.pts}` : 'Raté') : 'Répondez à voix haute, puis vérifiez.',
+      solo.serie >= 2 ? ` · série de ${solo.serie}` : ''),
+    carte,
+    h('div', { class: 'tour' }, actions),
+    h('div', { class: 'partie-actions' },
+      h('button', {
+        type: 'button', class: 'btn-lien',
+        onclick: () => { if (confirm('Abandonner cette série ? Le score ne sera pas enregistré.')) { solo = null; effacer(CLE_SOLO); rendreSolo(); } },
+      }, 'Abandonner')),
+  );
+}
+
+function rendreFinSolo(zone) {
+  const total = solo.historique.length;
+  const bonnes = solo.historique.filter(e => e.ok).length;
+  const record = solo.ancienRecord == null || solo.score > solo.ancienRecord;
+  const parCat = CATS.map(c => {
+    const e = solo.historique.filter(x => QUESTIONS[x.id].cat === c.id);
+    return { c, total: e.length, ok: e.filter(x => x.ok).length };
+  }).filter(x => x.total);
+  const ratees = solo.historique.filter(e => !e.ok).map(e => QUESTIONS[e.id]);
+  const reglages = { format: solo.format, cat: solo.cat, niveau: solo.niveau };
+
+  zone.replaceChildren(
+    h('div', { class: 'solo-fin' },
+      h('p', { class: 'solo-config-rappel' }, libelleConfig(solo)),
+      h('div', { class: 'solo-total' }, h('b', {}, String(solo.score)), ' points'),
+      h('p', { class: 'solo-record' + (record ? ' nouveau' : '') },
+        record
+          ? (solo.ancienRecord == null ? 'Premier record établi !' : `Nouveau record ! (ancien : ${solo.ancienRecord})`)
+          : `Record à battre : ${solo.ancienRecord}`),
+      h('p', { class: 'message' }, `${bonnes} bonne${bonnes > 1 ? 's' : ''} réponse${bonnes > 1 ? 's' : ''} sur ${total} · meilleure série : ${solo.meilleureSerie}`),
+      h('ul', { class: 'barres' }, parCat.map(({ c, total: t, ok }) =>
+        h('li', { style: styleCat(c) },
+          h('span', { class: 'barre-nom' }, c.nom),
+          h('span', { class: 'barre-fond' }, h('span', { class: 'barre-val', style: `width:${Math.round(100 * ok / t)}%` })),
+          h('span', { class: 'barre-chiffre' }, `${ok}/${t}`)))),
+      h('div', { class: 'actions' },
+        h('button', { type: 'button', class: 'btn btn-clair', onclick: () => { solo = null; effacer(CLE_SOLO); rendreSolo(); } }, 'Changer les réglages'),
+        h('button', { type: 'button', class: 'btn', onclick: () => nouveauSolo(reglages) }, 'Rejouer')),
+    ),
+    ratees.length ? h('div', { class: 'ratees' },
+      h('h3', {}, 'Les réponses que vous avez manquées'),
+      h('ol', { class: 'resultats' }, ratees.map(q =>
+        h('li', { style: styleCat(catParId(q.cat)) },
+          h('div', {}, q.q),
+          h('div', { class: 'r' }, q.r))))) : null,
+  );
+}
+
+function initSolo() {
+  $('#solo-cats').append(
+    h('label', {}, h('input', { type: 'radio', name: 'cat', value: '', checked: true }), ' Toutes'),
+    ...CATS.map(c => h('label', {}, h('input', { type: 'radio', name: 'cat', value: c.id }), ' ',
+      h('span', { class: 'pastille', style: styleCat(c) }), ' ', c.nom)));
+  $('#form-solo').addEventListener('submit', e => {
+    e.preventDefault();
+    const f = e.target;
+    nouveauSolo({ format: f.format.value, cat: f.cat.value, niveau: Number(f.niveau.value) });
+  });
+  solo = lire(CLE_SOLO, null);
+  if (solo && (!Array.isArray(solo.historique) || (solo.question != null && !QUESTIONS[solo.question])
+    || solo.historique.some(e => !QUESTIONS[e.id]))) solo = null;
+}
+
 /* ---------------- Parcourir ---------------- */
 
 let resultats = [];
@@ -503,13 +726,14 @@ function initImpression() {
 
 /* ---------------- Navigation ---------------- */
 
-const VUES = ['accueil', 'carte', 'partie', 'parcourir', 'imprimer'];
+const VUES = ['accueil', 'carte', 'solo', 'partie', 'parcourir', 'imprimer'];
 
 function naviguer() {
   const vue = VUES.includes(location.hash.slice(1)) ? location.hash.slice(1) : 'accueil';
   document.querySelectorAll('.vue').forEach(v => { v.hidden = v.dataset.vue !== vue; });
   document.querySelectorAll('.topnav a').forEach(a => a.classList.toggle('actif', a.getAttribute('href') === '#' + vue));
   if (vue === 'carte') afficherPioche();
+  if (vue === 'solo') rendreSolo();
   if (vue === 'partie') rendrePartie();
   if (vue === 'parcourir' && !$('#resultats').children.length) filtrer();
   window.scrollTo(0, 0);
@@ -541,6 +765,7 @@ async function demarrer() {
     return;
   }
   CATS = DATA.categories;
+  DATA.cartes.forEach(carte => carte.forEach(q => { q[0] = typo(q[0]); q[1] = typo(q[1]); }));
   QUESTIONS = [];
   DATA.cartes.forEach((carte, n) => carte.forEach(([q, r, d, t], i) => {
     QUESTIONS.push({ id: QUESTIONS.length, carte: n, cat: CATS[i].id, q, r, d, t });
@@ -560,6 +785,7 @@ async function demarrer() {
   });
 
   initPioche();
+  initSolo();
   initPartie();
   initParcourir();
   initImpression();

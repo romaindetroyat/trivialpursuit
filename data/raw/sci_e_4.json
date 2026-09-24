@@ -1,0 +1,597 @@
+[
+ {
+  "id": "sci_e_4-001",
+  "q": "Comment appelle-t-on la phase de relâchement du cœur, pendant laquelle ses cavités se remplissent de sang ?",
+  "r": "La diastole",
+  "d": 2,
+  "t": "Cœur et circulation"
+ },
+ {
+  "id": "sci_e_4-002",
+  "q": "Comment appelle-t-on la phase de sommeil, la plus réparatrice, pendant laquelle le cerveau émet des ondes lentes et amples ?",
+  "r": "Le sommeil lent profond",
+  "d": 2,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_4-003",
+  "q": "Quel lipide, fabriqué en grande partie par le foie, est transporté dans le sang sous des formes dites « bonne » HDL et « mauvaise » LDL ?",
+  "r": "Le cholestérol",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_4-004",
+  "q": "Quel terme médical désigne un saignement de nez ?",
+  "r": "L'épistaxis",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-005",
+  "q": "Quelle molécule extraite de l'écorce du quinquina a longtemps été le principal remède contre le paludisme ?",
+  "r": "La quinine",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_4-006",
+  "q": "Quel os long et fin, en forme de S, relie le sternum à l'omoplate ?",
+  "r": "La clavicule",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_4-007",
+  "q": "Quelle partie basse du tronc cérébral, qui prolonge la moelle épinière, contrôle la respiration et le rythme cardiaque ?",
+  "r": "Le bulbe rachidien",
+  "d": 3,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_4-008",
+  "q": "Quelle maladie provoque des accès de sommeil irrépressibles en pleine journée ?",
+  "r": "La narcolepsie",
+  "d": 2,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_4-009",
+  "q": "Quel numéro de téléphone permet de joindre le SAMU en France ?",
+  "r": "Le 15",
+  "d": 1,
+  "t": "Urgences"
+ },
+ {
+  "id": "sci_e_4-010",
+  "q": "Quel médecin français, prix Nobel 1980, a découvert le système HLA, essentiel à la compatibilité des greffes ?",
+  "r": "Jean Dausset",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_4-011",
+  "q": "Comment s'appelle la couche la plus superficielle de la peau ?",
+  "r": "L'épiderme",
+  "d": 1,
+  "t": "Peau et phanères"
+ },
+ {
+  "id": "sci_e_4-012",
+  "q": "Quelle intoxication alimentaire grave, due à une toxine se développant dans des conserves mal stérilisées, provoque des paralysies ?",
+  "r": "Le botulisme",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-013",
+  "q": "Comment appelle-t-on les amas de tissu lymphoïde situés de chaque côté de la gorge, que l'on retirait souvent aux enfants ?",
+  "r": "Les amygdales (palatines)",
+  "d": 1,
+  "t": "Organes"
+ },
+ {
+  "id": "sci_e_4-014",
+  "q": "Comment appelle-t-on la peur superstitieuse du nombre 13 ?",
+  "r": "La triskaïdékaphobie",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-015",
+  "q": "Quelle est la durée moyenne d'un cycle de sommeil chez l'adulte ?",
+  "r": "Environ 90 minutes",
+  "d": 2,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_4-016",
+  "q": "Comment appelle-t-on les vaisseaux sanguins les plus fins, à travers lesquels se font les échanges avec les tissus ?",
+  "r": "Les capillaires",
+  "d": 1,
+  "t": "Cœur et circulation"
+ },
+ {
+  "id": "sci_e_4-017",
+  "q": "Quel neurologue britannique a écrit « L'homme qui prenait sa femme pour un chapeau » ?",
+  "r": "Oliver Sacks",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-018",
+  "q": "Comment appelle-t-on les œufs de poux accrochés à la base des cheveux ?",
+  "r": "Les lentes",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-019",
+  "q": "Comment appelle-t-on un élément minéral dont l'organisme n'a besoin qu'en infimes quantités, comme le zinc ou le sélénium ?",
+  "r": "Un oligo-élément",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_4-020",
+  "q": "Comment appelle-t-on les rythmes biologiques qui suivent un cycle d'environ 24 heures ?",
+  "r": "Les rythmes circadiens",
+  "d": 1,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_4-021",
+  "q": "Quel psychologue a mené en 1920 l'expérience du « petit Albert », conditionnant un bébé à craindre un rat blanc ?",
+  "r": "John B. Watson",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-022",
+  "q": "Quel petit boîtier électronique, implanté sous la peau, stimule le cœur pour régulariser son rythme ?",
+  "r": "Le stimulateur cardiaque (pacemaker)",
+  "d": 1,
+  "t": "Instruments médicaux"
+ },
+ {
+  "id": "sci_e_4-023",
+  "q": "Comment appelle-t-on les petits os qui forment les doigts et les orteils ?",
+  "r": "Les phalanges",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_4-024",
+  "q": "Comment appelle-t-on le prélèvement d'un petit fragment de tissu pour l'analyser au microscope ?",
+  "r": "La biopsie",
+  "d": 1,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_4-025",
+  "q": "Comment appelle-t-on la perte ou le trouble du langage provoqué par une lésion du cerveau ?",
+  "r": "L'aphasie",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-026",
+  "q": "Quelle manœuvre de secours, qui consiste à comprimer brusquement le haut du ventre, sert à déloger un corps étranger de la gorge ?",
+  "r": "La manœuvre de Heimlich",
+  "d": 1,
+  "t": "Urgences"
+ },
+ {
+  "id": "sci_e_4-027",
+  "q": "Quel spécialiste endort le patient et surveille ses fonctions vitales pendant une opération ?",
+  "r": "L'anesthésiste",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_4-028",
+  "q": "Quel psychologue américain a popularisé la notion d'« intelligence émotionnelle » dans un best-seller de 1995 ?",
+  "r": "Daniel Goleman",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-029",
+  "q": "Comment appelle-t-on un ensemble de symptômes qui, réunis, caractérisent un état pathologique ?",
+  "r": "Un syndrome",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-030",
+  "q": "Sous quel nom français connaît-on la malaria ?",
+  "r": "Le paludisme",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-031",
+  "q": "Quel psychologue a montré, avec un culbuto en forme de clown nommé Bobo, que les enfants imitent les comportements agressifs ?",
+  "r": "Albert Bandura",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-032",
+  "q": "Comment appelle-t-on la capacité de l'organisme à maintenir stables ses constantes internes, comme la température ?",
+  "r": "L'homéostasie",
+  "d": 2,
+  "t": "Biologie générale"
+ },
+ {
+  "id": "sci_e_4-033",
+  "q": "Quel virus transmis par les moustiques a été associé, lors de l'épidémie de 2015-2016 au Brésil, à des microcéphalies chez les nouveau-nés ?",
+  "r": "Le virus Zika",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-034",
+  "q": "Quelles molécules libérées lors d'un effort prolongé sont surnommées « morphines naturelles » du corps ?",
+  "r": "Les endorphines",
+  "d": 1,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_4-035",
+  "q": "Quel petit appendice charnu pend au fond de la gorge, au bord du voile du palais ?",
+  "r": "La luette",
+  "d": 1,
+  "t": "Digestion"
+ },
+ {
+  "id": "sci_e_4-036",
+  "q": "Quelle membrane blanche et résistante forme le « blanc de l'œil » ?",
+  "r": "La sclérotique (sclère)",
+  "d": 2,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_4-037",
+  "q": "Quelle molécule du raisin rouge a été avancée pour expliquer le « paradoxe français » entre vin et maladies cardiaques ?",
+  "r": "Le resvératrol",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_4-038",
+  "q": "Quel terme médical désigne le fait de loucher ?",
+  "r": "Le strabisme",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_4-039",
+  "q": "Quel terme médical désigne un mal de tête ?",
+  "r": "La céphalée",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-040",
+  "q": "Comment appelle-t-on le liquide jaunâtre qui représente un peu plus de la moitié du volume du sang ?",
+  "r": "Le plasma",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "id": "sci_e_4-041",
+  "q": "Comment appelle-t-on couramment la formation d'un caillot dans une veine, le plus souvent de la jambe ?",
+  "r": "La phlébite",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-042",
+  "q": "Quel est le nom du tissu musculaire propre au cœur ?",
+  "r": "Le myocarde",
+  "d": 1,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_4-043",
+  "q": "Comment appelle-t-on un médicament qui combat la fièvre ?",
+  "r": "Un antipyrétique (antithermique)",
+  "d": 2,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_4-044",
+  "q": "Comment appelle-t-on la zone blanchâtre en forme de croissant à la base de l'ongle, dont le nom vient du latin « petite lune » ?",
+  "r": "La lunule",
+  "d": 2,
+  "t": "Peau et phanères"
+ },
+ {
+  "id": "sci_e_4-045",
+  "q": "Quel petit appareil, pincé au bout du doigt, mesure la saturation du sang en oxygène ?",
+  "r": "L'oxymètre de pouls",
+  "d": 2,
+  "t": "Instruments médicaux"
+ },
+ {
+  "id": "sci_e_4-046",
+  "q": "Quel terme médical désigne la jaunisse, coloration jaune de la peau et des yeux ?",
+  "r": "L'ictère",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-047",
+  "q": "Quel microbiologiste franco-canadien de l'Institut Pasteur a nommé et décrit les virus bactériophages en 1917 ?",
+  "r": "Félix d'Hérelle",
+  "d": 3,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_4-048",
+  "q": "Quelle loi française de 1967 a autorisé la contraception, notamment la pilule ?",
+  "r": "La loi Neuwirth",
+  "d": 2,
+  "t": "Santé publique"
+ },
+ {
+  "id": "sci_e_4-049",
+  "q": "Quel chirurgien français a reçu le prix Nobel 1912 pour ses travaux sur la suture des vaisseaux sanguins ?",
+  "r": "Alexis Carrel",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_4-050",
+  "q": "Comment appelle-t-on le premier lait, riche en anticorps, produit juste après l'accouchement ?",
+  "r": "Le colostrum",
+  "d": 2,
+  "t": "Reproduction"
+ },
+ {
+  "id": "sci_e_4-051",
+  "q": "Quel phénomène psychologique fait douter de ses compétences et craindre d'être démasqué, malgré des réussites objectives ?",
+  "r": "Le syndrome de l'imposteur",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-052",
+  "q": "Quelle spécialité médicale soigne les maladies des poumons et des bronches ?",
+  "r": "La pneumologie",
+  "d": 2,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_4-053",
+  "q": "Quel anti-inflammatoire, vendu notamment sous les marques Advil et Nurofen, est aussi un antidouleur courant ?",
+  "r": "L'ibuprofène",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_4-054",
+  "q": "Comment appelle-t-on le sens qui renseigne le cerveau sur la position des membres, même les yeux fermés ?",
+  "r": "La proprioception",
+  "d": 3,
+  "t": "Sens : le toucher"
+ },
+ {
+  "id": "sci_e_4-055",
+  "q": "Quelle zone du cerveau liée à la compréhension du langage porte le nom d'un neurologue allemand qui la décrivit en 1874 ?",
+  "r": "L'aire de Wernicke",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_4-056",
+  "q": "Comment appelle-t-on les deux croissants de cartilage qui amortissent les chocs à l'intérieur du genou ?",
+  "r": "Les ménisques",
+  "d": 2,
+  "t": "Articulations"
+ },
+ {
+  "id": "sci_e_4-057",
+  "q": "Quelle maladie neurodégénérative héréditaire, décrite par un médecin américain en 1872, provoque des mouvements involontaires ?",
+  "r": "La maladie de Huntington",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-058",
+  "q": "Quel neurotransmetteur, lié au plaisir et à la récompense, vient à manquer dans la maladie de Parkinson ?",
+  "r": "La dopamine",
+  "d": 1,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_4-059",
+  "q": "Quel professionnel de santé rééduque les troubles de la vision binoculaire, comme le strabisme ?",
+  "r": "L'orthoptiste",
+  "d": 3,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_4-060",
+  "q": "Quel terme médical désigne une démangeaison ?",
+  "r": "Le prurit",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-061",
+  "q": "Comment appelle-t-on le fait de grincer ou serrer des dents, notamment la nuit ?",
+  "r": "Le bruxisme",
+  "d": 3,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_4-062",
+  "q": "Quel composé s'accumule dans les muscles lors d'un effort intense, quand l'oxygène vient à manquer ?",
+  "r": "L'acide lactique (lactate)",
+  "d": 2,
+  "t": "Biologie générale"
+ },
+ {
+  "id": "sci_e_4-063",
+  "q": "Quel chirurgien lyonnais a dirigé en 1998 la première greffe de main de l'ère moderne ?",
+  "r": "Jean-Michel Dubernard",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_4-064",
+  "q": "Comment appelle-t-on le tissu fibreux qui relie deux os au niveau d'une articulation ?",
+  "r": "Un ligament",
+  "d": 1,
+  "t": "Articulations"
+ },
+ {
+  "id": "sci_e_4-065",
+  "q": "Avec Camille Guérin, quel médecin de l'Institut Pasteur a mis au point le vaccin antituberculeux BCG ?",
+  "r": "Albert Calmette",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "id": "sci_e_4-066",
+  "q": "Quelle technique chirurgicale opère l'abdomen par de petites incisions, à l'aide d'une caméra ?",
+  "r": "La cœlioscopie (laparoscopie)",
+  "d": 2,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_4-067",
+  "q": "Comment appelle-t-on le mode de vie qui exclut tout produit d'origine animale, y compris le miel, le cuir et la laine ?",
+  "r": "Le véganisme",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_4-068",
+  "q": "Quel système de groupes sanguins, découvert en 1940 par Landsteiner et Wiener, doit son nom à un singe ?",
+  "r": "Le système Rhésus",
+  "d": 2,
+  "t": "Sang"
+ },
+ {
+  "id": "sci_e_4-069",
+  "q": "Quelle maladie chronique des bronches provoque des crises de gêne respiratoire sifflante, soulagées par un inhalateur ?",
+  "r": "L'asthme",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-070",
+  "q": "Quelle infection bactérienne transmise par les tiques porte le nom d'une ville du Connecticut ?",
+  "r": "La maladie de Lyme",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-071",
+  "q": "Comment appelle-t-on la paralysie des deux membres inférieurs ?",
+  "r": "La paraplégie",
+  "d": 1,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-072",
+  "q": "Quel terme médical désigne une difficulté à respirer, un essoufflement ?",
+  "r": "La dyspnée",
+  "d": 3,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_4-073",
+  "q": "Quel ligament du genou, dont la rupture est fréquente au ski et au football, doit son nom à sa disposition en X ?",
+  "r": "Le ligament croisé (antérieur)",
+  "d": 2,
+  "t": "Articulations"
+ },
+ {
+  "id": "sci_e_4-074",
+  "q": "Quel muscle du bras, à deux chefs, permet de fléchir le coude ?",
+  "r": "Le biceps",
+  "d": 1,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_4-075",
+  "q": "Comment appelle-t-on le trouble du développement de la coordination des gestes, qui rend l'enfant très maladroit ?",
+  "r": "La dyspraxie",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-076",
+  "q": "Comment appelle-t-on l'incapacité à reconnaître les visages, même ceux de ses proches ?",
+  "r": "La prosopagnosie",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_4-077",
+  "q": "Quelle artère du cou, où l'on prend souvent le pouls, irrigue la tête et le cerveau ?",
+  "r": "La carotide",
+  "d": 1,
+  "t": "Cœur et circulation"
+ },
+ {
+  "id": "sci_e_4-078",
+  "q": "Quelle technique de la médecine traditionnelle chinoise consiste à piquer de fines aiguilles en des points précis du corps ?",
+  "r": "L'acupuncture",
+  "d": 1,
+  "t": "Médecines complémentaires"
+ },
+ {
+  "id": "sci_e_4-079",
+  "q": "Comment appelle-t-on le traitement des maladies par les plantes ?",
+  "r": "La phytothérapie",
+  "d": 2,
+  "t": "Médecines complémentaires"
+ },
+ {
+  "id": "sci_e_4-080",
+  "q": "Quelle fine membrane transparente, qui tapisse l'intérieur des paupières, s'enflamme lors d'un « œil rouge » infectieux ?",
+  "r": "La conjonctive",
+  "d": 2,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_4-081",
+  "q": "Quelle spécialité médicale soigne les maladies des reins ?",
+  "r": "La néphrologie",
+  "d": 2,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_4-082",
+  "q": "Quel sigle de trois lettres désigne le médecin spécialiste de l'oreille, du nez et de la gorge ?",
+  "r": "ORL (oto-rhino-laryngologiste)",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_4-083",
+  "q": "Quel cancer des ganglions lymphatiques porte le nom d'un médecin anglais qui le décrivit en 1832 ?",
+  "r": "Le lymphome de Hodgkin",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_4-084",
+  "q": "Quels globules blancs, en se transformant en plasmocytes, fabriquent les anticorps ?",
+  "r": "Les lymphocytes B",
+  "d": 2,
+  "t": "Immunité"
+ },
+ {
+  "id": "sci_e_4-085",
+  "q": "Dans quelle ville se trouve le siège de l'Organisation mondiale de la santé ?",
+  "r": "Genève",
+  "d": 1,
+  "t": "Santé publique"
+ }
+]

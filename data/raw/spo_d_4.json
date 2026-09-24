@@ -1,0 +1,597 @@
+[
+ {
+  "id": "spo_d_4-001",
+  "q": "Quel attaquant uruguayen a arrêté de la main un ballon sur sa ligne face au Ghana, en quart de finale de la Coupe du monde 2010 ?",
+  "r": "Luis Suárez",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-002",
+  "q": "Dans quelle ville se trouve le stade Aimé-Giral ?",
+  "r": "Perpignan",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-003",
+  "q": "Quel hockeyeur canadien est surnommé « la Merveille » (« The Great One ») ?",
+  "r": "Wayne Gretzky",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_4-004",
+  "q": "Quel poste de basket, souvent numéroté 1, désigne le joueur qui organise le jeu ?",
+  "r": "Meneur",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-005",
+  "q": "Quel sport collectif a fait son entrée aux Jeux olympiques dans sa version en salle à Munich, en 1972 ?",
+  "r": "Le handball",
+  "d": 2,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_4-006",
+  "q": "Quel poste occupe le joueur qui porte le numéro 8 au rugby à XV ?",
+  "r": "Troisième ligne centre",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-007",
+  "q": "Quel entraîneur allemand a mené la Grèce à la victoire surprise de l'Euro 2004 ?",
+  "r": "Otto Rehhagel",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-008",
+  "q": "Quel pivot français, surnommé « the Stifle Tower », a été élu meilleur défenseur de la NBA en 2018, 2019, 2021 et 2024 ?",
+  "r": "Rudy Gobert",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-009",
+  "q": "Comment appelle-t-on l'enceinte aux virages relevés où se dispute le cyclisme sur piste ?",
+  "r": "Un vélodrome",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-010",
+  "q": "Quel club tarnais a été champion de France de rugby en 1993, 2013 et 2018 ?",
+  "r": "Le Castres olympique",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-011",
+  "q": "Que signifie le sigle VTT ?",
+  "r": "Vélo tout-terrain",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-012",
+  "q": "Quel Français a remporté le cinquième match décisif de la finale de Coupe Davis 1996, en Suède ?",
+  "r": "Arnaud Boetsch",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_4-013",
+  "q": "Combien de plumes compte un volant de badminton traditionnel ?",
+  "r": "16",
+  "d": 2,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_4-014",
+  "q": "Dans quel vélodrome du bois de Vincennes le Tour de France s'est-il achevé de 1968 à 1974 ?",
+  "r": "La Cipale",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-015",
+  "q": "Quel Allemand surnommé « le Kaiser » a été champion du monde comme joueur en 1974 puis comme sélectionneur en 1990 ?",
+  "r": "Franz Beckenbauer",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-016",
+  "q": "Comment surnomme-t-on le match opposant le Paris Saint-Germain à l'Olympique de Marseille ?",
+  "r": "Le Classique",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-017",
+  "q": "Dans quelle ville se trouve le stade Mayol ?",
+  "r": "Toulon",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-018",
+  "q": "Quel club franc-comtois, fondé par la famille Peugeot, est surnommé « les Lionceaux » ?",
+  "r": "Le FC Sochaux-Montbéliard",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-019",
+  "q": "Quel nom porte le tir en crochet, bras tendu au-dessus de la tête, qui a fait la gloire de Kareem Abdul-Jabbar ?",
+  "r": "Le sky hook",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-020",
+  "q": "Au volley-ball, comment appelle-t-on l'attaque puissante frappée au-dessus du filet ?",
+  "r": "Un smash",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_4-021",
+  "q": "Quel club de Belgrade a battu l'OM aux tirs au but en finale de la Coupe des clubs champions 1991 ?",
+  "r": "L'Étoile rouge de Belgrade",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-022",
+  "q": "Au basket, comment appelle-t-on un tir de près exécuté en courant, en déposant le ballon d'une main ?",
+  "r": "Un double pas (lay-up)",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-023",
+  "q": "Comment appelle-t-on le fait de remporter un jeu sur le service de l'adversaire ?",
+  "r": "Un break",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_4-024",
+  "q": "Quel jeune Belge a remporté le Tour d'Espagne 2022 ?",
+  "r": "Remco Evenepoel",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-025",
+  "q": "Comment appelle-t-on le petit sac de toile contenant la nourriture tendu aux coureurs lors du ravitaillement ?",
+  "r": "La musette",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-026",
+  "q": "Comment appelle-t-on le geste acrobatique où le joueur frappe le ballon au-dessus de sa tête en basculant en arrière ?",
+  "r": "Un retourné (ciseau)",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-027",
+  "q": "Quelle équipe britannique a remporté le Tour de France avec Bradley Wiggins puis Chris Froome ?",
+  "r": "L'équipe Sky",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-028",
+  "q": "Quel Américain est devenu en 1986 le premier non-Européen à remporter le Tour de France ?",
+  "r": "Greg LeMond",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-029",
+  "q": "Quelle nation a créé la sensation en battant l'Afrique du Sud à Brighton lors de la Coupe du monde 2015 ?",
+  "r": "Le Japon",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-030",
+  "q": "Quels joueurs portent les numéros 12 et 13 au rugby à XV ?",
+  "r": "Les centres",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-031",
+  "q": "Quel footballeur portugais a remporté le Ballon d'or en 2008, 2013, 2014, 2016 et 2017 ?",
+  "r": "Cristiano Ronaldo",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-032",
+  "q": "Comment surnomme-t-on le match opposant le Real Madrid au FC Barcelone ?",
+  "r": "El Clásico",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-033",
+  "q": "Quelles protections les footballeurs portent-ils sous leurs chaussettes ?",
+  "r": "Les protège-tibias",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-034",
+  "q": "Au basket, comment appelle-t-on le fait de tirer sans toucher ni le cercle ni le panneau et de rater totalement le panier ?",
+  "r": "Un air ball",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-035",
+  "q": "Quelle plante stylisée, blanche sur fond noir, orne le maillot des All Blacks ?",
+  "r": "La fougère argentée",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-036",
+  "q": "Quel est le diamètre réglementaire d'une balle de tennis de table depuis 2000 ?",
+  "r": "40 mm",
+  "d": 3,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_4-037",
+  "q": "Quel gardien colombien excentrique a réalisé le « coup du scorpion » à Wembley en 1995 ?",
+  "r": "René Higuita",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-038",
+  "q": "Au volley-ball, comment appelle-t-on le changement de position des joueurs, dans le sens des aiguilles d'une montre, après la reprise du service ?",
+  "r": "La rotation",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_4-039",
+  "q": "Quelle attaquante américaine aux cheveux violets a été élue meilleure joueuse de la Coupe du monde 2019 ?",
+  "r": "Megan Rapinoe",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-040",
+  "q": "Quel jeu indien, découvert par des officiers britanniques, est considéré comme l'ancêtre du badminton ?",
+  "r": "Le poona",
+  "d": 3,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_4-041",
+  "q": "Quel joueur américain, vainqueur de Wimbledon en 1975, a donné son nom au court central de l'US Open ?",
+  "r": "Arthur Ashe",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_4-042",
+  "q": "Quel meneur de jeu brésilien du Milan AC a remporté le Ballon d'or en 2007 ?",
+  "r": "Kaká",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-043",
+  "q": "Quel président du Stade français a lancé les maillots roses et le calendrier des « Dieux du stade » ?",
+  "r": "Max Guazzini",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-044",
+  "q": "Quel pivot d'origine nigériane, surnommé « the Dream », a remporté deux titres NBA avec Houston ?",
+  "r": "Hakeem Olajuwon",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-045",
+  "q": "Quel Américain a sauté par-dessus le pivot français Frédéric Weis pour un dunk resté célèbre aux JO de Sydney 2000 ?",
+  "r": "Vince Carter",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-046",
+  "q": "À combien de mètres de la ligne de but se trouve le point de penalty ?",
+  "r": "11 m",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-047",
+  "q": "Quel Américain a inventé le volley-ball en 1895 ?",
+  "r": "William G. Morgan",
+  "d": 3,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_4-048",
+  "q": "Quel surnom familier donne-t-on au Tour de France ?",
+  "r": "La Grande Boucle",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-049",
+  "q": "Quel Français a conservé le maillot jaune dix jours sur le Tour 2011, grimaçant et tirant la langue dans les cols ?",
+  "r": "Thomas Voeckler",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-050",
+  "q": "Quelle franchise NBA joue ses matchs à domicile au Madison Square Garden ?",
+  "r": "Les New York Knicks",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-051",
+  "q": "Combien de points rapporte un essai au rugby à XIII ?",
+  "r": "4 points",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-052",
+  "q": "Quel stade de Villeneuve-d'Ascq, antre du LOSC, porte le nom d'un ancien Premier ministre ?",
+  "r": "Le stade Pierre-Mauroy",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-053",
+  "q": "Comment appelle-t-on le groupe de coureurs qui s'est détaché à l'avant du peloton ?",
+  "r": "L'échappée",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-054",
+  "q": "Quelle franchise a remporté les titres NBA 2015, 2017, 2018 et 2022 ?",
+  "r": "Les Golden State Warriors",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_4-055",
+  "q": "Quel titre permet à un coureur de porter un maillot bleu-blanc-rouge pendant un an ?",
+  "r": "Champion de France",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-056",
+  "q": "Quel club néerlandais de Rotterdam a remporté la Coupe des clubs champions en 1970 ?",
+  "r": "Le Feyenoord",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-057",
+  "q": "Quel club français a remporté huit fois la Ligue des champions féminine entre 2011 et 2022 ?",
+  "r": "L'Olympique lyonnais",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-058",
+  "q": "Quel trophée se disputent chaque année la Nouvelle-Zélande et l'Australie de rugby ?",
+  "r": "La Bledisloe Cup",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-059",
+  "q": "Quelle classique italienne d'automne est surnommée « la classique des feuilles mortes » ?",
+  "r": "Le Tour de Lombardie",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-060",
+  "q": "Au tennis, quel score annonce-t-on après 30 dans un jeu ?",
+  "r": "40",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_4-061",
+  "q": "À quelle lettre de l'alphabet ressemblent les poteaux de rugby ?",
+  "r": "H",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-062",
+  "q": "Dans quelle ville des Hautes-Alpes joue le club de hockey sur glace surnommé « les Rapaces » ?",
+  "r": "Gap",
+  "d": 3,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_4-063",
+  "q": "Quel coureur français, surnommé « Jaja », a été numéro un mondial dans les années 1990 ?",
+  "r": "Laurent Jalabert",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-064",
+  "q": "Quel club italien Diego Maradona a-t-il mené aux titres de champion d'Italie en 1987 et 1990 ?",
+  "r": "Le SSC Naples",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-065",
+  "q": "Quel pongiste chinois a été champion olympique en simple à Rio en 2016 puis à Tokyo en 2021 ?",
+  "r": "Ma Long",
+  "d": 3,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_4-066",
+  "q": "Quel club argentin de Buenos Aires joue dans le stade surnommé « la Bombonera » ?",
+  "r": "Boca Juniors",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-067",
+  "q": "Comment surnomme-t-on l'équipier chargé de ravitailler et d'épauler son leader ?",
+  "r": "Un porteur d'eau",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-068",
+  "q": "Comment appelle-t-on la faute du serveur qui manque ses deux services ?",
+  "r": "Une double faute",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_4-069",
+  "q": "Comment appelle-t-on le regroupement où le porteur du ballon reste debout, tenu par des coéquipiers et des adversaires ?",
+  "r": "Un maul",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-070",
+  "q": "Comment appelle-t-on l'essai accordé par l'arbitre quand une faute a empêché un essai probable ?",
+  "r": "Un essai de pénalité",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-071",
+  "q": "Quel coq bleu était la mascotte de la Coupe du monde 1998 en France ?",
+  "r": "Footix",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-072",
+  "q": "Quelle sélection africaine est surnommée « les Éléphants » ?",
+  "r": "La Côte d'Ivoire",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-073",
+  "q": "Quelle sélection africaine est surnommée « les Fennecs » ?",
+  "r": "L'Algérie",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-074",
+  "q": "Quel pays a remporté six titres olympiques consécutifs en hockey sur gazon, de 1928 à 1956 ?",
+  "r": "L'Inde",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_4-075",
+  "q": "Quelle classique belge se termine traditionnellement au sommet du mur de Huy ?",
+  "r": "La Flèche wallonne",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_4-076",
+  "q": "Quel entraîneur emblématique a dirigé l'AJ Auxerre pendant plus de quarante ans ?",
+  "r": "Guy Roux",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-077",
+  "q": "De quelle matière est faite la base arrondie dans laquelle sont plantées les plumes d'un volant ?",
+  "r": "Le liège",
+  "d": 2,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_4-078",
+  "q": "Comment appelle-t-on le geste qui consiste à faire passer le ballon entre les jambes d'un adversaire ?",
+  "r": "Un petit pont",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-079",
+  "q": "Dans quel pays est basé le club de football de Galatasaray ?",
+  "r": "La Turquie",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-080",
+  "q": "Quel poste occupe le joueur qui porte le numéro 15 au rugby à XV ?",
+  "r": "Arrière",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-081",
+  "q": "Quelle sélection de rugby du Caucase est surnommée « les Lelos » ?",
+  "r": "La Géorgie",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-082",
+  "q": "Quel club héraultais a dominé le rugby français dans les années 1970, remportant dix boucliers de 1971 à 1984 ?",
+  "r": "L'AS Béziers",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_4-083",
+  "q": "Quel club de Lisbonne est surnommé « les Aigles » ?",
+  "r": "Le Benfica",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-084",
+  "q": "Dans quelle ville se trouve le stade de la Mosson ?",
+  "r": "Montpellier",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_4-085",
+  "q": "Quel ancêtre de la bicyclette, sans pédales, a été inventé en 1817 par un baron allemand ?",
+  "r": "La draisienne",
+  "d": 1,
+  "t": "Cyclisme"
+ }
+]

@@ -1,539 +1,629 @@
 [
  {
+  "id": "geo_c_4-001",
   "q": "Quelle ville de Louisiane est considérée comme le berceau du jazz ?",
   "r": "La Nouvelle-Orléans",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-002",
   "q": "Quelle ville du Texas abrite le centre de contrôle des vols habités de la NASA ?",
   "r": "Houston",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-003",
   "q": "Quelle grande ville américaine a été fondée en 1701 par le Français Antoine de La Mothe-Cadillac ?",
   "r": "Détroit",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-004",
   "q": "Quelle ancienne prison fédérale occupe une île de la baie de San Francisco ?",
   "r": "Alcatraz",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-005",
   "q": "Que signifient les lettres D.C. dans le nom de Washington D.C. ?",
   "r": "District of Columbia",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-006",
   "q": "Quelle ville canadienne a accueilli les Jeux olympiques d'hiver de 2010 ?",
   "r": "Vancouver",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-007",
   "q": "Quelle ville canadienne est dominée par la tour CN ?",
   "r": "Toronto",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-008",
   "q": "Quelle est la ville la plus peuplée du Brésil ?",
   "r": "São Paulo",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-009",
   "q": "Sur quel mont se dresse la statue du Christ Rédempteur de Rio ?",
   "r": "Le Corcovado",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-010",
   "q": "Quelle plage de Rio de Janeiro s'étire en arc de cercle sur 4 km, voisine d'Ipanema ?",
   "r": "Copacabana",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-011",
   "q": "Quelle ville portuaire colombienne des Caraïbes est célèbre pour sa vieille ville fortifiée ?",
   "r": "Carthagène des Indes",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-012",
   "q": "Quelle capitale a été bâtie sur les ruines de Tenochtitlan, la cité aztèque ?",
   "r": "Mexico",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-013",
   "q": "Quelle ville japonaise a été frappée par une bombe atomique le 9 août 1945 ?",
   "r": "Nagasaki",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-014",
   "q": "Dans quel quartier de Tokyo se trouve un carrefour piéton réputé pour être l'un des plus fréquentés du monde ?",
   "r": "Shibuya",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-015",
   "q": "Quel était l'ancien nom de Tokyo jusqu'en 1868 ?",
   "r": "Edo",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-016",
   "q": "Quelle ville japonaise est célèbre pour ses cerfs sika en liberté et le grand Bouddha du Tōdai-ji ?",
   "r": "Nara",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-017",
   "q": "Quelle ville a accueilli les Jeux olympiques d'été de 2008 ?",
   "r": "Pékin",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-018",
   "q": "Quel quartier de Shanghai, hérissé de gratte-ciel, fait face au Bund de l'autre côté du Huangpu ?",
   "r": "Pudong",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-019",
   "q": "Près de quelle ville chinoise a été découverte l'armée de terre cuite de l'empereur Qin ?",
   "r": "Xi'an",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-020",
   "q": "Quel est le nom officiel, depuis 1995, de la ville indienne autrefois appelée Bombay ?",
   "r": "Mumbai",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-021",
   "q": "Dans quelle ville indienne se trouve le Taj Mahal ?",
   "r": "Agra",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-022",
   "q": "Quelle ville indienne a été conçue dans les années 1950 par Le Corbusier ?",
   "r": "Chandigarh",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-023",
   "q": "Quelle ville indienne, capitale du Rajasthan, est surnommée la « ville rose » ?",
   "r": "Jaipur",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-024",
   "q": "Quelle ville du Rajasthan est surnommée la « ville bleue » pour la couleur de ses maisons ?",
   "r": "Jodhpur",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-025",
   "q": "Quelle ville saoudienne est la première ville sainte de l'islam ?",
   "r": "La Mecque",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-026",
   "q": "Quelle ville turque s'est successivement appelée Byzance et Constantinople ?",
   "r": "Istanbul",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-027",
   "q": "Quelle ville a accueilli les Jeux olympiques d'été de 1988 ?",
   "r": "Séoul",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-028",
   "q": "Quelle est la ville la plus peuplée de Nouvelle-Zélande ?",
   "r": "Auckland",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-029",
   "q": "Quelle ville de l'île du Sud de la Nouvelle-Zélande a été dévastée par un séisme en février 2011 ?",
   "r": "Christchurch",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-030",
   "q": "Quelle péninsule de Hong Kong fait face à l'île de Hong Kong, de l'autre côté du port Victoria ?",
   "r": "Kowloon",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-031",
   "q": "Quelle ville bolivienne, l'une des plus hautes du monde, s'est enrichie grâce aux mines d'argent du Cerro Rico ?",
   "r": "Potosí",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-032",
   "q": "Près de quelle ville de Floride se trouve le complexe Walt Disney World ?",
   "r": "Orlando",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-033",
   "q": "Dans quelle ville George Washington a-t-il prêté serment en 1789 comme premier président des États-Unis ?",
   "r": "New York",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-034",
   "q": "Dans quelle ville a été signée la déclaration d'indépendance américaine en 1776 ?",
   "r": "Philadelphie",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-035",
   "q": "Quelle ville du Massachusetts a donné son nom à la « tea party » de 1773 ?",
   "r": "Boston",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-036",
   "q": "Dans quelle ville du Tennessee se trouve Graceland, la demeure d'Elvis Presley ?",
   "r": "Memphis",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-037",
   "q": "Quelle ville d'Amazonie brésilienne est célèbre pour son opéra construit pendant la fièvre du caoutchouc ?",
   "r": "Manaus",
   "d": 2,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-038",
   "q": "Quelle ville de Bahia fut la première capitale du Brésil, jusqu'en 1763 ?",
   "r": "Salvador",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-039",
   "q": "Quelle ville du Viêt Nam fut la capitale impériale de la dynastie Nguyễn ?",
   "r": "Hué",
   "d": 3,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_4-040",
   "q": "Dans quel pays se trouve le temple d'Angkor Vat ?",
   "r": "Le Cambodge",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-041",
   "q": "Quel ouvrage défensif chinois s'étend sur des milliers de kilomètres pour protéger l'empire des invasions du nord ?",
   "r": "La Grande Muraille",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-042",
   "q": "Comment appelle-t-on l'ancien palais impérial de Pékin, longtemps fermé au commun des mortels ?",
   "r": "La Cité interdite",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-043",
   "q": "Quel empereur moghol a fait construire le Taj Mahal ?",
   "r": "Shah Jahan",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-044",
   "q": "En mémoire de quelle épouse impériale le Taj Mahal a-t-il été érigé ?",
   "r": "Mumtaz Mahal",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-045",
   "q": "Dans quelle ville indienne se trouve le Temple d'or, principal lieu saint des sikhs ?",
   "r": "Amritsar",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-046",
   "q": "Quel immense temple bouddhiste du IXe siècle se dresse au centre de l'île de Java ?",
   "r": "Borobudur",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-047",
   "q": "Quelle cité nabatéenne de Jordanie est taillée dans des falaises de grès rose ?",
   "r": "Pétra",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-048",
   "q": "Quelle capitale cérémonielle de l'Empire perse, fondée par Darius Ier, se trouve en Iran ?",
   "r": "Persépolis",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-049",
   "q": "Quelle ville cambodgienne sert de point de départ pour visiter les temples d'Angkor ?",
   "r": "Siem Reap",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-050",
   "q": "Quelle pagode dorée de Rangoun est le lieu le plus sacré du bouddhisme birman ?",
   "r": "La pagode Shwedagon",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-051",
   "q": "Quel site birman, dans la plaine de l'Irrawaddy, compte plus de 2 000 temples et pagodes ?",
   "r": "Bagan",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-052",
   "q": "Sur quelle île japonaise un grand torii rouge semble-t-il flotter sur la mer à marée haute ?",
   "r": "Miyajima (Itsukushima)",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-053",
   "q": "Comment appelle-t-on le portique traditionnel qui marque l'entrée d'un sanctuaire shinto ?",
   "r": "Un torii",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-054",
   "q": "Quel temple de Kyoto, recouvert de feuilles d'or, est surnommé le « Pavillon d'or » ?",
   "r": "Le Kinkaku-ji",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-055",
   "q": "Quel palais de Lhassa fut la résidence d'hiver des dalaï-lamas ?",
   "r": "Le Potala",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-056",
   "q": "Quelle cité inca perchée dans les Andes péruviennes fut révélée au monde en 1911 ?",
   "r": "Machu Picchu",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-057",
   "q": "Quelle cité maya du Yucatán est dominée par la pyramide de Kukulcán ?",
   "r": "Chichén Itzá",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-058",
   "q": "Quelle cité antique proche de Mexico abrite les pyramides du Soleil et de la Lune ?",
   "r": "Teotihuacan",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-059",
   "q": "Comment appelle-t-on les immenses figures tracées dans le désert du sud du Pérou ?",
   "r": "Les lignes de Nazca",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-060",
   "q": "Quel monument offert par la France fut inauguré en 1886 à l'entrée du port de New York ?",
   "r": "La statue de la Liberté",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-061",
   "q": "Quel sculpteur alsacien a conçu la statue de la Liberté ?",
   "r": "Auguste Bartholdi",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-062",
   "q": "Quel ingénieur français a conçu la structure métallique interne de la statue de la Liberté ?",
   "r": "Gustave Eiffel",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-063",
   "q": "Quel mont du Dakota du Sud porte les visages sculptés de quatre présidents américains ?",
   "r": "Le mont Rushmore",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-064",
   "q": "Aux côtés de Washington, Jefferson et Lincoln, quel président figure sur le mont Rushmore ?",
   "r": "Theodore Roosevelt",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-065",
   "q": "Quel gratte-ciel new-yorkais King Kong escalade-t-il dans le film de 1933 ?",
   "r": "L'Empire State Building",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-066",
   "q": "Quel ingénieur français a dessiné en 1791 le plan de la ville de Washington ?",
   "r": "Pierre Charles L'Enfant",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-067",
   "q": "Quel site aux buttes rouges, à la limite de l'Arizona et de l'Utah, a servi de décor à de nombreux westerns ?",
   "r": "Monument Valley",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-068",
   "q": "Quel parc national de Californie est célèbre pour ses parois d'El Capitan et du Half Dome ?",
   "r": "Yosemite",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-069",
   "q": "Quel barrage sur le Colorado, achevé en 1936, a créé le lac Mead ?",
   "r": "Le barrage Hoover",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-070",
   "q": "Quelle île chilienne du Pacifique est célèbre pour ses statues géantes appelées moaï ?",
   "r": "L'île de Pâques",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-071",
   "q": "Quel architecte danois a conçu l'Opéra de Sydney ?",
   "r": "Jørn Utzon",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-072",
   "q": "Quel pont de Sydney est surnommé « le cintre » (The Coathanger) en raison de sa forme ?",
   "r": "Le Harbour Bridge",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-073",
   "q": "Quel arc monumental de Mumbai commémore la venue du roi George V en 1911 ?",
   "r": "La Porte de l'Inde",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-074",
   "q": "Quelles tours jumelles de Kuala Lumpur furent les plus hauts gratte-ciel du monde de 1998 à 2004 ?",
   "r": "Les tours Petronas",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-075",
   "q": "Quel gratte-ciel de Dubaï, inauguré en 2010, culmine à 828 mètres ?",
   "r": "La Burj Khalifa",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-076",
   "q": "Dans quelle ville japonaise proche de Tokyo trône en plein air un grand Bouddha de bronze du XIIIe siècle ?",
   "r": "Kamakura",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-077",
   "q": "Quel pont new-yorkais, inauguré en 1883, fut le premier grand pont suspendu à câbles d'acier ?",
   "r": "Le pont de Brooklyn",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-078",
   "q": "Quel grand parc rectangulaire s'étend au cœur de Manhattan ?",
   "r": "Central Park",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-079",
   "q": "Quelle place de New York, célèbre pour ses écrans géants, accueille la descente de la boule du Nouvel An ?",
   "r": "Times Square",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-080",
   "q": "Quel temple de Bangkok abrite un gigantesque Bouddha couché de 46 mètres ?",
   "r": "Le Wat Pho",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-081",
   "q": "Quelle statue vénérée est abritée par le Wat Phra Kaew, dans l'enceinte du Grand Palais de Bangkok ?",
   "r": "Le Bouddha d'émeraude",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-082",
   "q": "Quelle cité caravanière du désert syrien fut gouvernée par la reine Zénobie au IIIe siècle ?",
   "r": "Palmyre",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-083",
   "q": "Quel site antique du Liban est célèbre pour ses temples romains de Jupiter et de Bacchus ?",
   "r": "Baalbek",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-084",
   "q": "Quelle région de Turquie est célèbre pour ses cheminées de fée et ses vols en montgolfière ?",
   "r": "La Cappadoce",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-085",
   "q": "Quelle cité antique de la côte turque abrite la façade de la bibliothèque de Celsus ?",
   "r": "Éphèse",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-086",
   "q": "En quelle année a été inaugurée la statue du Christ Rédempteur de Rio ?",
   "r": "1931",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-087",
   "q": "Quelle grande cité maya se dresse dans la jungle du Petén, au Guatemala ?",
   "r": "Tikal",
   "d": 2,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-088",
   "q": "Quelle cité maya du Chiapas abrite le tombeau du roi Pakal ?",
   "r": "Palenque",
   "d": 3,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-089",
   "q": "Quelle base navale d'Hawaï fut attaquée par l'aviation japonaise le 7 décembre 1941 ?",
   "r": "Pearl Harbor",
   "d": 1,
   "t": "Monuments et sites"
  },
  {
+  "id": "geo_c_4-090",
   "q": "Quel temple de Pékin accueillait l'empereur venu prier pour de bonnes récoltes ?",
   "r": "Le Temple du Ciel",
   "d": 2,

@@ -1,0 +1,597 @@
+[
+ {
+  "id": "div_f_2-001",
+  "q": "Quelle danse brésilienne rythme les défilés du carnaval de Rio de Janeiro ?",
+  "r": "La samba",
+  "d": 1,
+  "t": "Danses"
+ },
+ {
+  "id": "div_f_2-002",
+  "q": "Quel trio formé par Sting, Andy Summers et Stewart Copeland a chanté « Roxanne » ?",
+  "r": "The Police",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "id": "div_f_2-003",
+  "q": "Quel groupe danois a chanté « Barbie Girl » en 1997 ?",
+  "r": "Aqua",
+  "d": 1,
+  "t": "Pop européenne"
+ },
+ {
+  "id": "div_f_2-004",
+  "q": "Quel compositeur a écrit le spectacle musical « Roméo et Juliette, de la haine à l'amour » (2001) ?",
+  "r": "Gérard Presgurvic",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "id": "div_f_2-005",
+  "q": "Quel groupe versaillais a reçu le Grammy du meilleur album de musique alternative en 2010 ?",
+  "r": "Phoenix",
+  "d": 3,
+  "t": "Pop française"
+ },
+ {
+  "id": "div_f_2-006",
+  "q": "Quel guitariste d'origine mexicaine a connu un retour triomphal avec l'album « Supernatural » en 1999 ?",
+  "r": "Carlos Santana",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "id": "div_f_2-007",
+  "q": "Quelle metteuse en scène a créé la version scénique du « Roi lion » à Broadway en 1997 ?",
+  "r": "Julie Taymor",
+  "d": 3,
+  "t": "Comédies musicales"
+ },
+ {
+  "id": "div_f_2-008",
+  "q": "Quel chanteur a chanté « Né quelque part » en 1987 ?",
+  "r": "Maxime Le Forestier",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-009",
+  "q": "Quel instrument à cordes, à caisse ronde tendue d'une peau, est emblématique de la country et du bluegrass ?",
+  "r": "Le banjo",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "id": "div_f_2-010",
+  "q": "Quelle chanteuse de 13 ans a remporté l'Eurovision 1986 pour la Belgique avec « J'aime la vie » ?",
+  "r": "Sandra Kim",
+  "d": 2,
+  "t": "Eurovision"
+ },
+ {
+  "id": "div_f_2-011",
+  "q": "Quel tube de Soft Cell (1981) est la reprise d'un titre soul de Gloria Jones ?",
+  "r": "Tainted Love",
+  "d": 3,
+  "t": "Reprises"
+ },
+ {
+  "id": "div_f_2-012",
+  "q": "Quel groupe de Seattle a chanté « Smells Like Teen Spirit » en 1991 ?",
+  "r": "Nirvana",
+  "d": 1,
+  "t": "Rock"
+ },
+ {
+  "id": "div_f_2-013",
+  "q": "Quel chanteur grec en caftan a chanté « Forever and Ever » en 1973 ?",
+  "r": "Demis Roussos",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "id": "div_f_2-014",
+  "q": "Quel premier album de Louane a été sacré album révélation aux Victoires de la musique 2015 ?",
+  "r": "Chambre 12",
+  "d": 3,
+  "t": "Victoires de la musique"
+ },
+ {
+  "id": "div_f_2-015",
+  "q": "À combien de tours par minute tourne un disque vinyle 30 cm, format habituel des albums ?",
+  "r": "33 tours (33 1/3)",
+  "d": 1,
+  "t": "Supports musicaux"
+ },
+ {
+  "id": "div_f_2-016",
+  "q": "Dans quelle ville Barbara chante-t-elle qu'« il pleut », en évoquant la mort de son père ?",
+  "r": "Nantes",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-017",
+  "q": "Quel groupe californien, mené par Brian Wilson, a sorti l'album « Pet Sounds » en 1966 ?",
+  "r": "The Beach Boys",
+  "d": 2,
+  "t": "Pop américaine"
+ },
+ {
+  "id": "div_f_2-018",
+  "q": "Combien de mesures compte la grille classique du blues ?",
+  "r": "12",
+  "d": 2,
+  "t": "Blues"
+ },
+ {
+  "id": "div_f_2-019",
+  "q": "Quel musicien français signe « Nightcall », titre phare du film « Drive » (2011) ?",
+  "r": "Kavinsky",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "id": "div_f_2-020",
+  "q": "Quel rappeur de Long Beach, révélé par Dr. Dre, a sorti l'album « Doggystyle » en 1993 ?",
+  "r": "Snoop Dogg",
+  "d": 1,
+  "t": "Rap américain"
+ },
+ {
+  "id": "div_f_2-021",
+  "q": "Comment appelle-t-on les orchestres mexicains en sombrero et costume de charro ?",
+  "r": "Les mariachis",
+  "d": 1,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-022",
+  "q": "Dans quelle ville se tiennent les Francofolies, créées en 1985 par Jean-Louis Foulquier ?",
+  "r": "La Rochelle",
+  "d": 1,
+  "t": "Festivals"
+ },
+ {
+  "id": "div_f_2-023",
+  "q": "Quel chanteur androgyne menait le groupe Culture Club, auteur de « Karma Chameleon » ?",
+  "r": "Boy George",
+  "d": 1,
+  "t": "Pop britannique"
+ },
+ {
+  "id": "div_f_2-024",
+  "q": "Quelle rappeuse a connu un immense succès avec « La Boulette » en 2006 ?",
+  "r": "Diam's",
+  "d": 1,
+  "t": "Rap français"
+ },
+ {
+  "id": "div_f_2-025",
+  "q": "Quel instrument à anches, doté d'une poche d'air, est emblématique de l'Écosse ?",
+  "r": "La cornemuse",
+  "d": 1,
+  "t": "Instruments"
+ },
+ {
+  "id": "div_f_2-026",
+  "q": "Quel slameur de Saint-Denis a sorti l'album « Midi 20 » en 2006 ?",
+  "r": "Grand Corps Malade",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-027",
+  "q": "Sous quel titre français est connu le film musical « The Sound of Music » (1965) ?",
+  "r": "La Mélodie du bonheur",
+  "d": 1,
+  "t": "Comédies musicales"
+ },
+ {
+  "id": "div_f_2-028",
+  "q": "Quel chanteur était surnommé « Monsieur 100 000 volts » pour son énergie sur scène ?",
+  "r": "Gilbert Bécaud",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-029",
+  "q": "Quel guitariste d'AC/DC se produit sur scène en uniforme d'écolier ?",
+  "r": "Angus Young",
+  "d": 1,
+  "t": "Hard rock"
+ },
+ {
+  "id": "div_f_2-030",
+  "q": "Quelle chanteuse a remporté pour la Suisse le premier concours Eurovision, en 1956 ?",
+  "r": "Lys Assia",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "id": "div_f_2-031",
+  "q": "Quel duo espagnol a lancé la « Macarena » en 1993 ?",
+  "r": "Los del Río",
+  "d": 2,
+  "t": "Pop latino"
+ },
+ {
+  "id": "div_f_2-032",
+  "q": "Quel grand festival anglais se tient depuis 1970 dans une ferme du Somerset ?",
+  "r": "Glastonbury",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "id": "div_f_2-033",
+  "q": "Quel musicien de soul a reçu un Oscar pour la chanson du film « Shaft » (1971) ?",
+  "r": "Isaac Hayes",
+  "d": 3,
+  "t": "Soul"
+ },
+ {
+  "id": "div_f_2-034",
+  "q": "Quelle chanteuse britannique, qui se produisait pieds nus, a remporté l'Eurovision 1967 avec « Puppet on a String » ?",
+  "r": "Sandie Shaw",
+  "d": 2,
+  "t": "Eurovision"
+ },
+ {
+  "id": "div_f_2-035",
+  "q": "Quel trio de Lauryn Hill et Wyclef Jean a repris « Killing Me Softly » en 1996 ?",
+  "r": "The Fugees",
+  "d": 2,
+  "t": "Reprises"
+ },
+ {
+  "id": "div_f_2-036",
+  "q": "Quel album d'Alain Bashung, sorti en 1998, contient « La nuit je mens » ?",
+  "r": "Fantaisie militaire",
+  "d": 2,
+  "t": "Albums"
+ },
+ {
+  "id": "div_f_2-037",
+  "q": "Dans quel festival Bob Dylan a-t-il fait scandale en jouant à la guitare électrique en 1965 ?",
+  "r": "Le festival folk de Newport",
+  "d": 3,
+  "t": "Folk-rock"
+ },
+ {
+  "id": "div_f_2-038",
+  "q": "Comment appelle-t-on la voix d'homme très aiguë, au-dessus du registre naturel, qu'utilisaient les Bee Gees ?",
+  "r": "Le falsetto (voix de fausset)",
+  "d": 2,
+  "t": "Vocabulaire musical"
+ },
+ {
+  "id": "div_f_2-039",
+  "q": "Quel crooner a chanté « Unforgettable », reprise en duo virtuel par sa fille Natalie en 1991 ?",
+  "r": "Nat King Cole",
+  "d": 2,
+  "t": "Jazz vocal"
+ },
+ {
+  "id": "div_f_2-040",
+  "q": "Quelle chanson de Jacques Brel (1959) s'emballe peu à peu, d'une valse à trois temps jusqu'à un tourbillon vertigineux ?",
+  "r": "La Valse à mille temps",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-041",
+  "q": "Quelle guitare électrique de Gibson porte le nom d'un guitariste américain pionnier de l'enregistrement multipiste ?",
+  "r": "La Les Paul",
+  "d": 2,
+  "t": "Instruments"
+ },
+ {
+  "id": "div_f_2-042",
+  "q": "Quelle chanteuse a chanté « Zen » en 1995 ?",
+  "r": "Zazie",
+  "d": 2,
+  "t": "Variété française"
+ },
+ {
+  "id": "div_f_2-043",
+  "q": "Quelle chanteuse néo-zélandaise a connu un succès mondial à 16 ans avec « Royals » en 2013 ?",
+  "r": "Lorde",
+  "d": 2,
+  "t": "Pop"
+ },
+ {
+  "id": "div_f_2-044",
+  "q": "Quel chanteur britannique, ancien de Wham!, a sorti l'album « Faith » en 1987 ?",
+  "r": "George Michael",
+  "d": 1,
+  "t": "Pop britannique"
+ },
+ {
+  "id": "div_f_2-045",
+  "q": "Quel chanteur, révélé dans « Le Roi Soleil », a chanté « On s'attache » en 2007 ?",
+  "r": "Christophe Maé",
+  "d": 2,
+  "t": "Variété française"
+ },
+ {
+  "id": "div_f_2-046",
+  "q": "Quelle chanteuse israélienne a remporté l'Eurovision 2018 avec « Toy », en imitant le caquètement d'une poule ?",
+  "r": "Netta",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "id": "div_f_2-047",
+  "q": "Quel chanteur a remporté « Nouvelle Star » en 2007, avant de chanter « Paris-Seychelles » ?",
+  "r": "Julien Doré",
+  "d": 2,
+  "t": "Pop française"
+ },
+ {
+  "id": "div_f_2-048",
+  "q": "Dans quelle ville du Cher se tient chaque printemps un festival de musiques actuelles créé en 1977 ?",
+  "r": "Bourges",
+  "d": 1,
+  "t": "Festivals"
+ },
+ {
+  "id": "div_f_2-049",
+  "q": "Quel trompettiste franco-libanais joue d'une trompette à quatre pistons permettant les quarts de ton ?",
+  "r": "Ibrahim Maalouf",
+  "d": 3,
+  "t": "Jazz"
+ },
+ {
+  "id": "div_f_2-050",
+  "q": "Dans « Notre-Dame de Paris », quel personnage de poète chante « Le Temps des cathédrales » ?",
+  "r": "Gringoire",
+  "d": 2,
+  "t": "Comédies musicales"
+ },
+ {
+  "id": "div_f_2-051",
+  "q": "Quelle princesse monégasque a chanté « Ouragan » en 1986 ?",
+  "r": "Stéphanie de Monaco",
+  "d": 1,
+  "t": "Pop française"
+ },
+ {
+  "id": "div_f_2-052",
+  "q": "Comment appelle-t-on en Bretagne une formation de cornemuses, de bombardes et de percussions ?",
+  "r": "Un bagad",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-053",
+  "q": "Quelle chanson de Renaud commence par « C'est pas l'homme qui prend la mer, c'est la mer qui prend l'homme » ?",
+  "r": "Dès que le vent soufflera",
+  "d": 2,
+  "t": "Paroles célèbres"
+ },
+ {
+  "id": "div_f_2-054",
+  "q": "Quelle danse, popularisée par Chubby Checker au début des années 1960, consiste à pivoter des hanches ?",
+  "r": "Le twist",
+  "d": 1,
+  "t": "Danses"
+ },
+ {
+  "id": "div_f_2-055",
+  "q": "Quelle meneuse de revue a immortalisé la chanson « Mon homme » en 1920 ?",
+  "r": "Mistinguett",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-056",
+  "q": "Sous quel titre anglais la chanson « Hier encore » de Charles Aznavour a-t-elle fait le tour du monde ?",
+  "r": "Yesterday, When I Was Young",
+  "d": 3,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-057",
+  "q": "Quel groupe du New Jersey a chanté « Livin' on a Prayer » en 1986 ?",
+  "r": "Bon Jovi",
+  "d": 1,
+  "t": "Hard rock"
+ },
+ {
+  "id": "div_f_2-058",
+  "q": "Quel chanteur canadien a chanté « Hélène » en 1989 ?",
+  "r": "Roch Voisine",
+  "d": 1,
+  "t": "Variété francophone"
+ },
+ {
+  "id": "div_f_2-059",
+  "q": "Quel quartette a enregistré en 1959 « Take Five », célèbre pour sa mesure à cinq temps ?",
+  "r": "Le Dave Brubeck Quartet",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "id": "div_f_2-060",
+  "q": "Quel rappeur, membre du collectif 1995 et du S-Crew, a sorti l'album « Feu » en 2015 ?",
+  "r": "Nekfeu",
+  "d": 3,
+  "t": "Rap français"
+ },
+ {
+  "id": "div_f_2-061",
+  "q": "Quel pianiste américain, roi du ragtime, a composé « The Entertainer » ?",
+  "r": "Scott Joplin",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "id": "div_f_2-062",
+  "q": "Quel chanteur a créé « Le Poinçonneur des Lilas » en 1958 ?",
+  "r": "Serge Gainsbourg",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-063",
+  "q": "Quel chanteur kabyle a connu un succès international avec « A Vava Inouva » dans les années 1970 ?",
+  "r": "Idir",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-064",
+  "q": "Quel groupe ivoirien de zouglou a connu le succès avec « Premier Gaou » ?",
+  "r": "Magic System",
+  "d": 1,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-065",
+  "q": "Quel groupe les membres restants de Joy Division ont-ils formé après la mort de Ian Curtis en 1980 ?",
+  "r": "New Order",
+  "d": 3,
+  "t": "Rock"
+ },
+ {
+  "id": "div_f_2-066",
+  "q": "À quel dramaturge américain Johnny Hallyday rend-il hommage dans « Quelque chose de Tennessee » (1985) ?",
+  "r": "Tennessee Williams",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-067",
+  "q": "Quel chanteur libano-britannique à la voix haut perchée a chanté « Relax, Take It Easy » ?",
+  "r": "Mika",
+  "d": 1,
+  "t": "Pop"
+ },
+ {
+  "id": "div_f_2-068",
+  "q": "Quel groupe féminin britannique a lancé en 1996 le tube « Wannabe » ?",
+  "r": "Spice Girls",
+  "d": 1,
+  "t": "Pop britannique"
+ },
+ {
+  "id": "div_f_2-069",
+  "q": "Quel chanteur rennais a chanté « Week-end à Rome » en 1984 ?",
+  "r": "Étienne Daho",
+  "d": 2,
+  "t": "Pop française"
+ },
+ {
+  "id": "div_f_2-070",
+  "q": "Sur quelle île anglaise s'est tenu en 1970 un festival géant où Jimi Hendrix a donné l'un de ses derniers concerts ?",
+  "r": "L'île de Wight",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "id": "div_f_2-071",
+  "q": "Quel chanteur a chanté « La Ballade des gens heureux » en 1975 ?",
+  "r": "Gérard Lenorman",
+  "d": 1,
+  "t": "Variété française"
+ },
+ {
+  "id": "div_f_2-072",
+  "q": "Quel groupe a chanté « J't'emmène au vent » en 1997 ?",
+  "r": "Louise Attaque",
+  "d": 2,
+  "t": "Rock français"
+ },
+ {
+  "id": "div_f_2-073",
+  "q": "Quelle chanteuse sud-africaine, surnommée « Mama Africa », a chanté « Pata Pata » ?",
+  "r": "Miriam Makeba",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-074",
+  "q": "Quelle chanson de Serge Gainsbourg, créée par Brigitte Bardot, célèbre une moto américaine ?",
+  "r": "Harley Davidson",
+  "d": 2,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-075",
+  "q": "Quel est le nom de naissance de la chanteuse Sheila ?",
+  "r": "Annie Chancel",
+  "d": 3,
+  "t": "Yé-yé"
+ },
+ {
+  "id": "div_f_2-076",
+  "q": "Quel chanteur sud-africain, auteur d'« Asimbonanga », était surnommé « le Zoulou blanc » ?",
+  "r": "Johnny Clegg",
+  "d": 1,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-077",
+  "q": "Quel ministre de la Culture a lancé la Fête de la musique en 1982 ?",
+  "r": "Jack Lang",
+  "d": 1,
+  "t": "Festivals"
+ },
+ {
+  "id": "div_f_2-078",
+  "q": "Quel conte musical de Philippe Chatel (1979) raconte l'histoire d'une petite fille qui entre dans son livre d'images ?",
+  "r": "Émilie Jolie",
+  "d": 2,
+  "t": "Comédies musicales"
+ },
+ {
+  "id": "div_f_2-079",
+  "q": "Quelle ville française a accueilli l'Eurovision en 1959 et en 1961 ?",
+  "r": "Cannes",
+  "d": 3,
+  "t": "Eurovision"
+ },
+ {
+  "id": "div_f_2-080",
+  "q": "Comment appelle-t-on en jazz l'improvisation vocale faite de syllabes sans signification ?",
+  "r": "Le scat",
+  "d": 1,
+  "t": "Jazz"
+ },
+ {
+  "id": "div_f_2-081",
+  "q": "Dans quelle ville suisse des bords du Léman se tient le Paléo Festival ?",
+  "r": "Nyon",
+  "d": 3,
+  "t": "Festivals"
+ },
+ {
+  "id": "div_f_2-082",
+  "q": "Quel acteur a chanté « Salade de fruits, jolie, jolie, jolie » en 1959 ?",
+  "r": "Bourvil",
+  "d": 1,
+  "t": "Chanson française"
+ },
+ {
+  "id": "div_f_2-083",
+  "q": "Quel chanteur et joueur de kora guinéen a fait danser l'Europe avec « Yé ké yé ké » en 1987 ?",
+  "r": "Mory Kanté",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-084",
+  "q": "Quel genre musical populaire, né dans la région d'Oran, a été porté par Khaled et Cheb Mami ?",
+  "r": "Le raï",
+  "d": 1,
+  "t": "Musiques du monde"
+ },
+ {
+  "id": "div_f_2-085",
+  "q": "Quelle chanteuse allemande a chanté « 99 Luftballons » en 1983 ?",
+  "r": "Nena",
+  "d": 1,
+  "t": "Pop européenne"
+ }
+]

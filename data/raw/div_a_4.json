@@ -1,539 +1,629 @@
 [
  {
+  "id": "div_a_4-001",
   "q": "Quel film Pixar de 2015 se déroule dans la tête d'une fillette, où cohabitent Joie, Tristesse, Colère, Peur et Dégoût ?",
   "r": "Vice-versa",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-002",
   "q": "Quel film Pixar de 2017 entraîne un jeune Mexicain passionné de guitare au pays des morts ?",
   "r": "Coco",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-003",
   "q": "Dans « La Reine des neiges » (2013), comment s'appelle la sœur cadette d'Elsa ?",
   "r": "Anna",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-004",
   "q": "Sous quel titre français est connue la chanson « Let It Go » de « La Reine des neiges » ?",
   "r": "Libérée, délivrée",
   "d": 1,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_4-005",
   "q": "Quel film de Steven Spielberg (1982) raconte l'amitié du petit Elliott avec un extraterrestre égaré sur Terre ?",
   "r": "E.T. l'extraterrestre",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-006",
   "q": "Dans « E.T. », quel engin s'envole devant la pleine lune dans une scène devenue mythique ?",
   "r": "Un vélo",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-007",
   "q": "Quelle star des westerns américains était surnommée « the Duke » ?",
   "r": "John Wayne",
   "d": 1,
   "t": "Westerns"
  },
  {
+  "id": "div_a_4-008",
   "q": "Quel film de 1990 raconte les aventures d'un petit garçon oublié par sa famille partie en vacances pour Noël ?",
   "r": "Maman, j'ai raté l'avion",
   "d": 1,
   "t": "Comédies"
  },
  {
+  "id": "div_a_4-009",
   "q": "De quels animaux Indiana Jones a-t-il une peur panique ?",
   "r": "Les serpents",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "div_a_4-010",
   "q": "Quel acteur incarne le contrebandier Han Solo dans la trilogie originale de « Star Wars » ?",
   "r": "Harrison Ford",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_4-011",
   "q": "Quel film Marvel de 2012 réunit pour la première fois Iron Man, Thor, Hulk et Captain America ?",
   "r": "Avengers",
   "d": 1,
   "t": "Super-héros"
  },
  {
+  "id": "div_a_4-012",
   "q": "Quel super-héros Marvel est inspiré du dieu nordique du tonnerre, armé d'un marteau ?",
   "r": "Thor",
   "d": 1,
   "t": "Super-héros"
  },
  {
+  "id": "div_a_4-013",
   "q": "Quel super-héros venu de la planète Krypton se fait appeler Clark Kent sur Terre ?",
   "r": "Superman",
   "d": 1,
   "t": "Super-héros"
  },
  {
+  "id": "div_a_4-014",
   "q": "Quelle super-héroïne amazone est incarnée au cinéma par Gal Gadot à partir de 2016 ?",
   "r": "Wonder Woman",
   "d": 1,
   "t": "Super-héros"
  },
  {
+  "id": "div_a_4-015",
   "q": "Dans quel dessin animé Disney de 1955 deux chiens partagent-ils un plat de spaghettis ?",
   "r": "La Belle et le Clochard",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-016",
   "q": "Quel film Disney de 2016 suit une lapine policière dans une ville peuplée d'animaux ?",
   "r": "Zootopie",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-017",
   "q": "Quel acteur incarne le vacancier Patrick Chirac dans « Camping » (2006) ?",
   "r": "Franck Dubosc",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_4-018",
   "q": "Quel sport Brice de Nice s'obstine-t-il à pratiquer, même sans vagues sur la Côte d'Azur ?",
   "r": "Le surf",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_4-019",
   "q": "Quelle jeune actrice française est révélée en 1980 par le film « La Boum », où elle incarne Vic ?",
   "r": "Sophie Marceau",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-020",
   "q": "Quel croquemitaine au pull rayé et au gant griffu hante les rêves dans « Les Griffes de la nuit » (1984) ?",
   "r": "Freddy Krueger",
   "d": 1,
   "t": "Horreur"
  },
  {
+  "id": "div_a_4-021",
   "q": "Quelle actrice incarne Holly Golightly dans « Diamants sur canapé » (1961) ?",
   "r": "Audrey Hepburn",
   "d": 1,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_4-022",
   "q": "Quelle actrice américaine a quitté le cinéma en 1956 pour épouser le prince Rainier III de Monaco ?",
   "r": "Grace Kelly",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-023",
   "q": "Quel comique britannique formait avec Oliver Hardy un célèbre duo du cinéma burlesque ?",
   "r": "Stan Laurel",
   "d": 1,
   "t": "Cinéma muet"
  },
  {
+  "id": "div_a_4-024",
   "q": "Quel film de Charlie Chaplin (1936) montre Charlot prisonnier des engrenages d'une usine ?",
   "r": "Les Temps modernes",
   "d": 1,
   "t": "Cinéma muet"
  },
  {
+  "id": "div_a_4-025",
   "q": "Dans quel film de 1940 Charlie Chaplin parodie-t-il Adolf Hitler sous les traits d'Adenoid Hynkel ?",
   "r": "Le Dictateur",
   "d": 1,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_4-026",
   "q": "Quelle suite, sortie en 2022, voit Tom Cruise reprendre son rôle de pilote de chasse 36 ans après l'original ?",
   "r": "Top Gun : Maverick",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_4-027",
   "q": "Quel film de Denis Villeneuve (2021) adapte le roman de science-fiction de Frank Herbert ?",
   "r": "Dune",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-028",
   "q": "Quel hobbit est le héros de la trilogie « Le Hobbit » réalisée par Peter Jackson ?",
   "r": "Bilbon Sacquet",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_4-029",
   "q": "Quel acteur canadien incarne Marty McFly dans « Retour vers le futur » ?",
   "r": "Michael J. Fox",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-030",
   "q": "Dans « Matrix », de quelle couleur est la pilule que Neo avale pour découvrir la vérité ?",
   "r": "Rouge",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-031",
   "q": "Dans « Star Wars », quelle station spatiale de l'Empire est capable de détruire une planète entière ?",
   "r": "L'Étoile de la mort",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_4-032",
   "q": "Selon la mère de Forrest Gump, à quoi la vie ressemble-t-elle ?",
   "r": "À une boîte de chocolats",
   "d": 1,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_a_4-033",
   "q": "Quel acteur australien incarne Wolverine dans la saga « X-Men » ?",
   "r": "Hugh Jackman",
   "d": 1,
   "t": "Super-héros"
  },
  {
+  "id": "div_a_4-034",
   "q": "Quel pantin de bois de Disney (1940) voit son nez s'allonger chaque fois qu'il ment ?",
   "r": "Pinocchio",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-035",
   "q": "Dans « Psychose » d'Alfred Hitchcock, comment s'appelle le motel tenu par Norman Bates ?",
   "r": "Le Bates Motel",
   "d": 2,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_4-036",
   "q": "Dans « Monstres & Cie » (2001), comment s'appelle le grand monstre bleu à poils violets, ami de Bob ?",
   "r": "Sulli",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-037",
   "q": "Quel enfant acteur incarne Kevin McCallister dans « Maman, j'ai raté l'avion » ?",
   "r": "Macaulay Culkin",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-038",
   "q": "Pour quel film l'humoriste Coluche a-t-il reçu le César du meilleur acteur en 1984 ?",
   "r": "Tchao Pantin",
   "d": 2,
   "t": "Récompenses"
  },
  {
+  "id": "div_a_4-039",
   "q": "Quelle comédie de Francis Veber (1981) réunit pour la première fois Pierre Richard et Gérard Depardieu ?",
   "r": "La Chèvre",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_4-040",
   "q": "Quel métier exerce Charles Duchemin, joué par Louis de Funès, dans « L'Aile ou la Cuisse » (1976) ?",
   "r": "Critique gastronomique",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_4-041",
   "q": "Quelle comédie d'Étienne Chatiliez (1988) oppose la famille bourgeoise Le Quesnoy à la famille Groseille ?",
   "r": "La vie est un long fleuve tranquille",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_4-042",
   "q": "Dans quel pays d'Afrique se trouve le club de vacances du premier film « Les Bronzés » (1978) ?",
   "r": "La Côte d'Ivoire",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_4-043",
   "q": "Quel film de Jean-Jacques Beineix (1986) révèle Béatrice Dalle dans le rôle de Betty ?",
   "r": "37°2 le matin",
   "d": 2,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_4-044",
   "q": "Quel compositeur italien a écrit la musique du « Parrain » de Francis Ford Coppola ?",
   "r": "Nino Rota",
   "d": 2,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_4-045",
   "q": "Quel acteur a reçu l'Oscar du meilleur acteur en 2019 pour son interprétation de Freddie Mercury ?",
   "r": "Rami Malek",
   "d": 2,
   "t": "Oscars"
  },
  {
+  "id": "div_a_4-046",
   "q": "Quel est le nom français du clown maléfique de « Ça », adapté du roman de Stephen King ?",
   "r": "Grippe-Sou",
   "d": 2,
   "t": "Horreur"
  },
  {
+  "id": "div_a_4-047",
   "q": "Quel acteur partage l'affiche de « Butch Cassidy et le Kid » (1969) avec Robert Redford ?",
   "r": "Paul Newman",
   "d": 2,
   "t": "Westerns"
  },
  {
+  "id": "div_a_4-048",
   "q": "Quelle actrice suédoise incarne Ilsa Lund dans « Casablanca » (1942) ?",
   "r": "Ingrid Bergman",
   "d": 2,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_4-049",
   "q": "Quel acteur du cinéma muet américain était surnommé « l'homme qui ne rit jamais » ?",
   "r": "Buster Keaton",
   "d": 2,
   "t": "Cinéma muet"
  },
  {
+  "id": "div_a_4-050",
   "q": "Quel film de 1927 est considéré comme le premier long métrage parlant de l'histoire ?",
   "r": "Le Chanteur de jazz",
   "d": 2,
   "t": "Origines du cinéma"
  },
  {
+  "id": "div_a_4-051",
   "q": "Quel acteur a reçu l'Oscar du meilleur acteur en 2020 pour le rôle-titre de « Joker » ?",
   "r": "Joaquin Phoenix",
   "d": 2,
   "t": "Oscars"
  },
  {
+  "id": "div_a_4-052",
   "q": "Quel film sur le multivers, avec Michelle Yeoh, a reçu l'Oscar du meilleur film en 2023 ?",
   "r": "Everything Everywhere All at Once",
   "d": 2,
   "t": "Oscars"
  },
  {
+  "id": "div_a_4-053",
   "q": "Comment s'appelle la planète désertique où l'on récolte l'Épice dans « Dune » ?",
   "r": "Arrakis",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-054",
   "q": "Quel acteur et réalisateur incarne Astérix dans « Astérix et Obélix : L'Empire du Milieu » (2023) ?",
   "r": "Guillaume Canet",
   "d": 2,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_4-055",
   "q": "Quel acteur incarne Philippe, le riche tétraplégique d'« Intouchables » (2011) ?",
   "r": "François Cluzet",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-056",
   "q": "Quel film de Hayao Miyazaki (1997) oppose les habitants d'une forge aux dieux animaux de la forêt ?",
   "r": "Princesse Mononoké",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-057",
   "q": "Quel acteur britannique incarne Lord Voldemort dans la saga « Harry Potter » ?",
   "r": "Ralph Fiennes",
   "d": 2,
   "t": "Sagas"
  },
  {
+  "id": "div_a_4-058",
   "q": "Comment s'appelle le navire aux voiles noires du capitaine Jack Sparrow dans « Pirates des Caraïbes » ?",
   "r": "Le Black Pearl",
   "d": 2,
   "t": "Sagas"
  },
  {
+  "id": "div_a_4-059",
   "q": "Dans quelle ville américaine Rocky Balboa gravit-il en courant les marches du musée d'art ?",
   "r": "Philadelphie",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "div_a_4-060",
   "q": "Quelle actrice incarne l'agent du FBI Clarice Starling dans « Le Silence des agneaux » (1991) ?",
   "r": "Jodie Foster",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-061",
   "q": "Dans « Titanic », comment s'appelle le diamant bleu que porte Rose ?",
   "r": "Le Cœur de l'océan",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "div_a_4-062",
   "q": "Dans « Le Magicien d'Oz » (1939), quelles chaussures magiques Dorothy porte-t-elle ?",
   "r": "Des souliers de rubis",
   "d": 2,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_4-063",
   "q": "Comment appelle-t-on les androïdes traqués par Rick Deckard dans « Blade Runner » (1982) ?",
   "r": "Les réplicants",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-064",
   "q": "Quelle récompense suprême est décernée au meilleur film de la Mostra de Venise ?",
   "r": "Le Lion d'or",
   "d": 2,
   "t": "Récompenses"
  },
  {
+  "id": "div_a_4-065",
   "q": "Quel sculpteur a réalisé la statuette des récompenses du cinéma français, qui portent son nom ?",
   "r": "César (Baldaccini)",
   "d": 2,
   "t": "Récompenses"
  },
  {
+  "id": "div_a_4-066",
   "q": "Quel film Disney de 1940 marie animation et musique classique, avec Mickey en apprenti sorcier ?",
   "r": "Fantasia",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-067",
   "q": "Par quelle lettre est désigné l'inventeur des gadgets de James Bond ?",
   "r": "Q",
   "d": 2,
   "t": "James Bond"
  },
  {
+  "id": "div_a_4-068",
   "q": "Quel acteur britannique a incarné James Bond dans sept films, de 1973 à 1985 ?",
   "r": "Roger Moore",
   "d": 2,
   "t": "James Bond"
  },
  {
+  "id": "div_a_4-069",
   "q": "Dans « OSS 117 : Le Caire, nid d'espions », quel plat Hubert Bonisseur de La Bath déclare-t-il « bonne » ?",
   "r": "La blanquette",
   "d": 2,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_a_4-070",
   "q": "Quel créateur a porté au cinéma en 2021 sa série arthurienne « Kaamelott » ?",
   "r": "Alexandre Astier",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_4-071",
   "q": "Quelle friandise le petit Elliott utilise-t-il pour attirer l'extraterrestre dans « E.T. » ?",
   "r": "Des Reese's Pieces",
   "d": 3,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_4-072",
   "q": "Quel compositeur américain a signé la musique de « Titanic » (1997) ?",
   "r": "James Horner",
   "d": 3,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_4-073",
   "q": "Quel compositeur français a signé les musiques de « Lawrence d'Arabie » et du « Docteur Jivago » ?",
   "r": "Maurice Jarre",
   "d": 3,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_4-074",
   "q": "Quel compositeur a écrit la musique de « La Boum » et celle des « Aventures de Rabbi Jacob » ?",
   "r": "Vladimir Cosma",
   "d": 3,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_4-075",
   "q": "Quel cinéaste américain a réalisé « L'Exorciste » (1973) ?",
   "r": "William Friedkin",
   "d": 3,
   "t": "Horreur"
  },
  {
+  "id": "div_a_4-076",
   "q": "Quel acteur incarne le shérif Will Kane dans « Le train sifflera trois fois » (1952) ?",
   "r": "Gary Cooper",
   "d": 3,
   "t": "Westerns"
  },
  {
+  "id": "div_a_4-077",
   "q": "Quel western de John Ford (1939), avec John Wayne, suit les passagers d'une diligence ?",
   "r": "La Chevauchée fantastique",
   "d": 3,
   "t": "Westerns"
  },
  {
+  "id": "div_a_4-078",
   "q": "Quelle actrice est la cible d'attaques de volatiles dans « Les Oiseaux » (1963) d'Alfred Hitchcock ?",
   "r": "Tippi Hedren",
   "d": 3,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_4-079",
   "q": "Quelle actrice malaisienne a reçu l'Oscar de la meilleure actrice en 2023 ?",
   "r": "Michelle Yeoh",
   "d": 3,
   "t": "Oscars"
  },
  {
+  "id": "div_a_4-080",
   "q": "Dans quelle commune de Seine-Saint-Denis se déroule « Les Misérables » (2019) de Ladj Ly ?",
   "r": "Montfermeil",
   "d": 3,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_4-081",
   "q": "Quel cinéaste a adapté en 2017 le roman « Au revoir là-haut » de Pierre Lemaitre, tout en y jouant ?",
   "r": "Albert Dupontel",
   "d": 3,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_4-082",
   "q": "Quel film de Régis Wargnier, avec Catherine Deneuve, a reçu l'Oscar du meilleur film en langue étrangère en 1993 ?",
   "r": "Indochine",
   "d": 3,
   "t": "Oscars"
  },
  {
+  "id": "div_a_4-083",
   "q": "Quel film d'animation japonais de 1988, signé Katsuhiro Otomo, se déroule dans un Neo-Tokyo post-apocalyptique ?",
   "r": "Akira",
   "d": 3,
   "t": "Animation"
  },
  {
+  "id": "div_a_4-084",
   "q": "En quelle année s'est tenue la première édition du Festival de Cannes, initialement prévue en 1939 ?",
   "r": "1946",
   "d": 3,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_4-085",
   "q": "Quel film de Jacques Audiard, sur un réfugié tamoul en banlieue parisienne, a remporté la Palme d'or en 2015 ?",
   "r": "Dheepan",
   "d": 3,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_4-086",
   "q": "Quel film de Maurice Pialat, avec Gérard Depardieu en prêtre, a remporté la Palme d'or en 1987 ?",
   "r": "Sous le soleil de Satan",
   "d": 3,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_4-087",
   "q": "Quel documentaire sous-marin de Jacques-Yves Cousteau et Louis Malle a remporté la Palme d'or en 1956 ?",
   "r": "Le Monde du silence",
   "d": 3,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_4-088",
   "q": "Quelle actrice, sœur aînée de Catherine Deneuve, lui donne la réplique dans « Les Demoiselles de Rochefort » ?",
   "r": "Françoise Dorléac",
   "d": 3,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_4-089",
   "q": "Quelle actrice incarne Catherine, aimée de deux amis, dans « Jules et Jim » (1962) de François Truffaut ?",
   "r": "Jeanne Moreau",
   "d": 3,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_a_4-090",
   "q": "Quel cinéaste a réalisé « Hiroshima mon amour » (1959), sur un scénario de Marguerite Duras ?",
   "r": "Alain Resnais",
   "d": 3,

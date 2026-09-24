@@ -1,0 +1,597 @@
+[
+ {
+  "id": "art_d_4-001",
+  "q": "Quel vaudeville d'Eugène Labiche (1851) naît d'un couvre-chef dévoré par un cheval le jour d'une noce ?",
+  "r": "Un chapeau de paille d'Italie",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-002",
+  "q": "Quel prix littéraire est décerné depuis 1988 par un jury de lycéens à partir de la sélection de l'académie Goncourt ?",
+  "r": "Le Goncourt des lycéens",
+  "d": 1,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_4-003",
+  "q": "Quel est le titre du dernier volume d'« À la recherche du temps perdu » ?",
+  "r": "Le Temps retrouvé",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-004",
+  "q": "Quel adjectif, tiré d'une pièce d'Alfred Jarry, qualifie une situation grotesque et absurde ?",
+  "r": "Ubuesque",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_4-005",
+  "q": "Quelle comédie de Marivaux (1725) inverse les rôles des maîtres et des esclaves sur une île ?",
+  "r": "L'Île des esclaves",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-006",
+  "q": "Quel duc a dépeint dans ses « Mémoires » la cour de Versailles à la fin du règne de Louis XIV ?",
+  "r": "Saint-Simon",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-007",
+  "q": "Quelle fable de La Fontaine commence par « Travaillez, prenez de la peine : / C'est le fonds qui manque le moins » ?",
+  "r": "Le Laboureur et ses Enfants",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_4-008",
+  "q": "Quel jeune homme épouse Cosette à la fin des « Misérables » ?",
+  "r": "Marius Pontmercy",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_4-009",
+  "q": "Quel surnom les écoliers du Petit Nicolas donnent-ils au surveillant qui répète « Regardez-moi dans les yeux » ?",
+  "r": "Le Bouillon",
+  "d": 2,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_4-010",
+  "q": "Dans quel recueil de Ronsard figure le sonnet « Quand vous serez bien vieille, au soir, à la chandelle » ?",
+  "r": "Sonnets pour Hélène",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-011",
+  "q": "Quel récit d'Éric-Emmanuel Schmitt raconte l'amitié du jeune Momo et d'un vieil épicier de la rue Bleue ?",
+  "r": "Monsieur Ibrahim et les fleurs du Coran",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-012",
+  "q": "Quel prédicateur s'écrie « Madame se meurt, Madame est morte ! » dans une oraison funèbre de 1670 ?",
+  "r": "Bossuet",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-013",
+  "q": "Quel recueil de Jacques Prévert, paru en 1946, contient « Barbara » et « Déjeuner du matin » ?",
+  "r": "Paroles",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-014",
+  "q": "Quel est le troisième et dernier volet de la trilogie de Figaro de Beaumarchais ?",
+  "r": "La Mère coupable",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-015",
+  "q": "Quel dramaturge, frère de la sculptrice Camille, a écrit « L'Annonce faite à Marie » ?",
+  "r": "Paul Claudel",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-016",
+  "q": "Quel roman de Gabrielle Roy, sur un quartier ouvrier de Montréal, a obtenu le prix Femina en 1947 ?",
+  "r": "Bonheur d'occasion",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_4-017",
+  "q": "Quel nom, tiré du berger de « L'Astrée » d'Honoré d'Urfé, désigne à la fois un amoureux transi et un vert pâle ?",
+  "r": "Céladon",
+  "d": 3,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_4-018",
+  "q": "Quel mot grec signifiant « fatalité » Victor Hugo dit-il avoir trouvé gravé dans une tour de Notre-Dame ?",
+  "r": "Anankè",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-019",
+  "q": "Comment appelle-t-on un livre imprimé avant 1501, aux tout débuts de l'imprimerie ?",
+  "r": "Un incunable",
+  "d": 2,
+  "t": "Édition"
+ },
+ {
+  "id": "art_d_4-020",
+  "q": "Quel roman de Barjavel (1943) imagine une France soudain privée d'électricité ?",
+  "r": "Ravage",
+  "d": 2,
+  "t": "Science-fiction"
+ },
+ {
+  "id": "art_d_4-021",
+  "q": "Comment appelle-t-on la coupe principale qui partage un alexandrin en deux ?",
+  "r": "La césure",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-022",
+  "q": "Quel thriller de Jean-Christophe Grangé (1998) a été adapté au cinéma avec Jean Reno et Vincent Cassel ?",
+  "r": "Les Rivières pourpres",
+  "d": 1,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_4-023",
+  "q": "Comment appelle-t-on les courts récits comiques en vers du Moyen Âge, souvent moqueurs et grivois ?",
+  "r": "Les fabliaux",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_4-024",
+  "q": "Dans « Madame Bovary », quel pharmacien bavard et voltairien finit décoré de la Légion d'honneur ?",
+  "r": "Monsieur Homais",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_4-025",
+  "q": "Quel dramaturge belge a obtenu le prix Nobel de littérature en 1911 et écrit « L'Oiseau bleu » ?",
+  "r": "Maurice Maeterlinck",
+  "d": 2,
+  "t": "Francophonie"
+ },
+ {
+  "id": "art_d_4-026",
+  "q": "Comment appelle-t-on un malentendu qui fait prendre une personne ou une chose pour une autre, ressort classique de la comédie ?",
+  "r": "Un quiproquo",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-027",
+  "q": "Dans quelle ville Jules Verne est-il né, en 1828 ?",
+  "r": "Nantes",
+  "d": 1,
+  "t": "Lieux littéraires"
+ },
+ {
+  "id": "art_d_4-028",
+  "q": "Comment appelle-t-on le récit qu'une personnalité fait des événements historiques dont elle a été témoin ?",
+  "r": "Des mémoires",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "id": "art_d_4-029",
+  "q": "Comment appelle-t-on une vérité d'évidence, d'après un maréchal tué à Pavie et une chanson naïve à son sujet ?",
+  "r": "Une lapalissade",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_4-030",
+  "q": "Quelle collection policière à couverture jaune a publié en France la plupart des romans d'Agatha Christie ?",
+  "r": "Le Masque",
+  "d": 2,
+  "t": "Édition"
+ },
+ {
+  "id": "art_d_4-031",
+  "q": "Quel roi de Cornouailles est l'époux d'Iseut dans la légende de Tristan ?",
+  "r": "Le roi Marc",
+  "d": 2,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_4-032",
+  "q": "Quelles lettres polémiques Pascal publie-t-il en 1656-1657 pour défendre les jansénistes contre les jésuites ?",
+  "r": "Les Provinciales",
+  "d": 3,
+  "t": "Correspondances"
+ },
+ {
+  "id": "art_d_4-033",
+  "q": "Comment appelle-t-on les indications de jeu, souvent en italique, qui décrivent gestes et décors dans un texte de théâtre ?",
+  "r": "Les didascalies",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-034",
+  "q": "Quelle vaste épopée poétique de Victor Hugo, parue de 1859 à 1883, retrace l'histoire de l'humanité ?",
+  "r": "La Légende des siècles",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-035",
+  "q": "Par quelle formule commencent traditionnellement les contes de fées ?",
+  "r": "« Il était une fois »",
+  "d": 1,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_4-036",
+  "q": "Dans quel roman de Zola le mécanicien Jacques Lantier conduit-il la locomotive la Lison ?",
+  "r": "La Bête humaine",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-037",
+  "q": "Quelle fable de La Fontaine enseigne « On a souvent besoin d'un plus petit que soi » ?",
+  "r": "Le Lion et le Rat",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_4-038",
+  "q": "Quel roman de Mariama Bâ (1979) prend la forme d'une lettre de Ramatoulaye à son amie Aïssatou ?",
+  "r": "Une si longue lettre",
+  "d": 2,
+  "t": "Francophonie"
+ },
+ {
+  "id": "art_d_4-039",
+  "q": "Quel aventurier, créé en 1953 par le Belge Henri Vernes, a pour fidèle ami l'Écossais Bill Ballantine ?",
+  "r": "Bob Morane",
+  "d": 1,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_4-040",
+  "q": "Selon l'expression popularisée par La Fontaine, que ne faut-il jamais vendre avant d'avoir tué l'animal ?",
+  "r": "La peau de l'ours",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_4-041",
+  "q": "Comment s'appellent les deux vagabonds qui attendent en vain dans « En attendant Godot » ?",
+  "r": "Vladimir et Estragon",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-042",
+  "q": "Quelle abbaye utopique Gargantua fait-il bâtir pour remercier frère Jean des Entommeures ?",
+  "r": "L'abbaye de Thélème",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-043",
+  "q": "Quelle station balnéaire normande imaginaire, inspirée de Cabourg, apparaît dans « À la recherche du temps perdu » ?",
+  "r": "Balbec",
+  "d": 3,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-044",
+  "q": "Quel romancier algérien, ancien officier, publie sous un pseudonyme formé des deux prénoms de son épouse ?",
+  "r": "Yasmina Khadra",
+  "d": 2,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_4-045",
+  "q": "Quelle tragédie de Racine a pour cadre la cour du jeune empereur Néron ?",
+  "r": "Britannicus",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-046",
+  "q": "Quel géant de Rabelais est le père de Pantagruel ?",
+  "r": "Gargantua",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_4-047",
+  "q": "Dans quelle ville des Ardennes Arthur Rimbaud est-il né en 1854 ?",
+  "r": "Charleville",
+  "d": 1,
+  "t": "Lieux littéraires"
+ },
+ {
+  "id": "art_d_4-048",
+  "q": "Comment appelle-t-on la personne qui écrit anonymement un livre signé par quelqu'un d'autre ?",
+  "r": "Un prête-plume (écrivain fantôme)",
+  "d": 1,
+  "t": "Édition"
+ },
+ {
+  "id": "art_d_4-049",
+  "q": "Quelle écrivaine a obtenu le prix Goncourt en 2009 pour « Trois femmes puissantes » ?",
+  "r": "Marie NDiaye",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_4-050",
+  "q": "Quel dramaturge et cinéaste, fils du comédien Lucien, a écrit plus d'une centaine de pièces ?",
+  "r": "Sacha Guitry",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-051",
+  "q": "Quelle poétesse du XIIe siècle a écrit des « Lais », dont le « Lai du chèvrefeuille » ?",
+  "r": "Marie de France",
+  "d": 3,
+  "t": "Moyen Âge"
+ },
+ {
+  "id": "art_d_4-052",
+  "q": "Quel roman de Simone de Beauvoir a obtenu le prix Goncourt en 1954 ?",
+  "r": "Les Mandarins",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_4-053",
+  "q": "Comment appelle-t-on un vers de huit syllabes ?",
+  "r": "Un octosyllabe",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-054",
+  "q": "Quel conte de Perrault met en scène un chat rusé qui fait la fortune de son maître, le plus jeune fils d'un meunier ?",
+  "r": "Le Chat botté",
+  "d": 1,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_4-055",
+  "q": "Quel drame de Musset a pour héros un Médicis qui assassine son cousin, le duc Alexandre ?",
+  "r": "Lorenzaccio",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-056",
+  "q": "De quelles deux lettres grecques vient le mot « alphabet » ?",
+  "r": "Alpha et bêta",
+  "d": 1,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_4-057",
+  "q": "Quel roman de Pierre Boulle (1952) raconte la construction d'un ouvrage d'art par des prisonniers britanniques en Asie ?",
+  "r": "Le Pont de la rivière Kwaï",
+  "d": 2,
+  "t": "Polar et aventure"
+ },
+ {
+  "id": "art_d_4-058",
+  "q": "Quel est le véritable nom du poète Paul Éluard ?",
+  "r": "Eugène Grindel",
+  "d": 3,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_4-059",
+  "q": "Quelle comédie de Molière se moque de Philaminte, Armande et Bélise, éprises de philosophie et de grammaire ?",
+  "r": "Les Femmes savantes",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-060",
+  "q": "Dans quelle ville d'Éthiopie Rimbaud, ayant renoncé à la poésie, a-t-il travaillé comme négociant ?",
+  "r": "Harar",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-061",
+  "q": "Quel roman de Zola porte le prénom d'une courtisane, fille de Gervaise Macquart ?",
+  "r": "Nana",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-062",
+  "q": "Quel illustrateur alsacien a écrit « Les Trois Brigands » et « Jean de la Lune » ?",
+  "r": "Tomi Ungerer",
+  "d": 2,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_4-063",
+  "q": "Comment appelle-t-on un long poème narratif célébrant les exploits d'un héros, comme l'« Iliade » ?",
+  "r": "Une épopée",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "id": "art_d_4-064",
+  "q": "Quelle nouvelle de Marcel Aymé a pour héros Dutilleul, un modeste employé capable de traverser les murs ?",
+  "r": "Le Passe-muraille",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-065",
+  "q": "Quelle jeune fille Augustin Meaulnes rencontre-t-il lors de la fête étrange du domaine mystérieux ?",
+  "r": "Yvonne de Galais",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "id": "art_d_4-066",
+  "q": "Quel animal se cache dans l'étymologie grecque du mot « tragédie » ?",
+  "r": "Le bouc",
+  "d": 2,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_4-067",
+  "q": "Quelle collection d'albums pour enfants Paul Faucher a-t-il lancée chez Flammarion en 1931 ?",
+  "r": "Le Père Castor",
+  "d": 2,
+  "t": "Littérature jeunesse"
+ },
+ {
+  "id": "art_d_4-068",
+  "q": "Dans « Le Loup et l'Agneau », où l'agneau se désaltérait-il quand le loup survint ?",
+  "r": "Dans le courant d'une onde pure",
+  "d": 1,
+  "t": "Expressions"
+ },
+ {
+  "id": "art_d_4-069",
+  "q": "Sous quel titre Léo Ferré a-t-il chanté le poème d'Aragon rendant hommage au groupe de résistants de Missak Manouchian ?",
+  "r": "L'Affiche rouge",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "id": "art_d_4-070",
+  "q": "Quel mouvement littéraire des années 1950 a réuni Alain Robbe-Grillet, Nathalie Sarraute et Michel Butor ?",
+  "r": "Le Nouveau Roman",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-071",
+  "q": "Sous quelle anagramme de son nom Rabelais a-t-il publié « Pantagruel » en 1532 ?",
+  "r": "Alcofribas Nasier",
+  "d": 3,
+  "t": "Pseudonymes"
+ },
+ {
+  "id": "art_d_4-072",
+  "q": "Comment appelle-t-on une redondance fautive comme « monter en haut » ?",
+  "r": "Un pléonasme",
+  "d": 1,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_4-073",
+  "q": "Quel mot désignant un partisan aveuglément dévoué vient d'un personnage de la tragédie « Mahomet » de Voltaire ?",
+  "r": "Séide",
+  "d": 3,
+  "t": "Étymologie"
+ },
+ {
+  "id": "art_d_4-074",
+  "q": "Quelle comédie de Molière a pour sous-titre « L'Atrabilaire amoureux » ?",
+  "r": "Le Misanthrope",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-075",
+  "q": "Quel livre de Saint-Exupéry (1939) évoque l'Aéropostale et son accident dans le désert de Libye ?",
+  "r": "Terre des hommes",
+  "d": 2,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-076",
+  "q": "Quel écrivain a imaginé, dans « La Nuit des temps », un couple endormi depuis des millénaires sous les glaces de l'Antarctique ?",
+  "r": "René Barjavel",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "id": "art_d_4-077",
+  "q": "Quelle figure de style compare sans outil de comparaison, comme dans « cet homme est un roc » ?",
+  "r": "La métaphore",
+  "d": 1,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_4-078",
+  "q": "Quel prix littéraire, créé en 1958, porte le nom d'une illustre famille florentine ?",
+  "r": "Le prix Médicis",
+  "d": 2,
+  "t": "Prix littéraires"
+ },
+ {
+  "id": "art_d_4-079",
+  "q": "Comment appelle-t-on un texte où l'on consigne pour soi, jour après jour, ses pensées et les événements de sa vie ?",
+  "r": "Un journal intime",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "id": "art_d_4-080",
+  "q": "Dans la nouvelle « La Parure » de Maupassant, quel bijou prêté Mathilde Loisel perd-elle lors d'un bal ?",
+  "r": "Une rivière de diamants (collier)",
+  "d": 1,
+  "t": "Romans"
+ },
+ {
+  "id": "art_d_4-081",
+  "q": "Quel professeur honnête, héros d'une pièce de Pagnol (1928), devient un affairiste sans scrupules ?",
+  "r": "Topaze",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "id": "art_d_4-082",
+  "q": "Comment appelle-t-on un récit bref, souvent à chute, genre dont Maupassant fut un maître ?",
+  "r": "La nouvelle",
+  "d": 1,
+  "t": "Genres littéraires"
+ },
+ {
+  "id": "art_d_4-083",
+  "q": "Quel roman de Barjavel (1944) a popularisé le paradoxe du voyageur temporel qui tue son propre ancêtre ?",
+  "r": "Le Voyageur imprudent",
+  "d": 3,
+  "t": "Science-fiction"
+ },
+ {
+  "id": "art_d_4-084",
+  "q": "Quelle figure de style fait parler un mort, un absent ou une chose inanimée ?",
+  "r": "La prosopopée",
+  "d": 3,
+  "t": "Figures de style"
+ },
+ {
+  "id": "art_d_4-085",
+  "q": "Quel roman d'Émile Zola, paru en 1883, a pour cadre un grand magasin parisien ?",
+  "r": "Au Bonheur des Dames",
+  "d": 2,
+  "t": "Romans"
+ }
+]

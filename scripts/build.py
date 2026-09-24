@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 """Assemble les questions de data/raw/ en cartes de 6 questions.
 
-- valide et nettoie chaque question ;
-- supprime les doublons (texte identique ou quasi identique avec la même réponse) ;
-- retient N questions par catégorie (1000 par défaut) et place le surplus dans data/reserve.json ;
-- compose des cartes équilibrées en difficulté ;
-- écrit app/cartes.json (données de la PWA) et data/cartes.csv (pour relire ou éditer).
+- donne à chaque question un identifiant stable (champ "id", ajouté dans data/raw/ s'il manque) ;
+- conserve telles quelles les cartes déjà composées, enregistrées dans data/paquet.json
+  (une question supprimée des sources y est remplacée par une question de même catégorie) ;
+- valide et nettoie chaque question, écarte les doublons (texte identique ou quasi identique
+  avec la même réponse), y compris avec les questions déjà placées sur une carte ;
+- ajoute si besoin de nouvelles cartes, équilibrées en difficulté, jusqu'au nombre demandé ;
+- écrit app/cartes.json (données de la PWA), data/cartes.csv (pour relire ou éditer),
+  data/paquet.json et data/reserve.json (questions valides non utilisées).
 
-Usage : python3 scripts/build.py [--cartes 1000] [--graine 2026]
+Usage : python3 scripts/build.py [--cartes N] [--edition NOM] [--graine 2026]
+Sans --cartes, le nombre de cartes du paquet existant est conservé.
 """
 import argparse
 import csv
@@ -62,7 +66,35 @@ def nettoyer(item, source):
         return None, "question trop longue"
     if len(r) > 70:
         return None, "réponse trop longue"
-    return {"q": q, "r": r, "d": min(3, max(1, d)), "t": t, "src": source}, None
+    return {"id": item["id"], "q": q, "r": r, "d": min(3, max(1, d)), "t": t, "src": source}, None
+
+
+def attribuer_identifiants():
+    """Ajoute un identifiant stable aux questions sources qui n'en ont pas."""
+    for chemin in sorted(glob.glob(os.path.join(RACINE, "data", "raw", "*_*.json"))):
+        base = os.path.basename(chemin)[:-5]
+        try:
+            with open(chemin, encoding="utf-8") as f:
+                donnees = json.load(f)
+        except json.JSONDecodeError as e:
+            sys.exit(f"JSON invalide dans {base}.json : {e}")
+        pris = {x.get("id") for x in donnees}
+        n, modifie = 0, False
+        for i, item in enumerate(donnees):
+            if item.get("id"):
+                continue
+            while True:
+                n += 1
+                nouvel = f"{base}-{n:03d}"
+                if nouvel not in pris:
+                    break
+            pris.add(nouvel)
+            donnees[i] = {"id": nouvel, **item}
+            modifie = True
+        if modifie:
+            with open(chemin, "w", encoding="utf-8") as f:
+                json.dump(donnees, f, ensure_ascii=False, indent=1)
+                f.write("\n")
 
 
 def charger(cat_id):
@@ -148,43 +180,109 @@ def composer(par_cat, n, rng):
     return cartes
 
 
+def charger_paquet():
+    """Renvoie (cartes, éditions) du paquet enregistré ; chaque édition couvre une plage de cartes."""
+    chemin = os.path.join(RACINE, "data", "paquet.json")
+    if not os.path.exists(chemin):
+        return [], []
+    with open(chemin, encoding="utf-8") as f:
+        paquet = json.load(f)
+    cartes = paquet["cartes"]
+    editions = paquet.get("editions") or ([{"nom": "Base", "de": 1, "a": len(cartes)}] if cartes else [])
+    return cartes, editions
+
+
+def ecrire_paquet(cartes, editions):
+    lignes = ",\n".join("  " + json.dumps([q["id"] for q in c]) for c in cartes)
+    with open(os.path.join(RACINE, "data", "paquet.json"), "w", encoding="utf-8") as f:
+        f.write('{"categories": ' + json.dumps([c["id"] for c in CATEGORIES])
+                + ',\n "editions": ' + json.dumps(editions, ensure_ascii=False)
+                + ',\n "cartes": [\n' + lignes + "\n]}\n")
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--cartes", type=int, default=1000)
+    ap.add_argument("--cartes", type=int, default=None, help="nombre total de cartes voulu")
     ap.add_argument("--graine", type=int, default=2026)
+    ap.add_argument("--edition", default=None, help="nom de l'édition regroupant les nouvelles cartes")
     args = ap.parse_args()
     rng = random.Random(args.graine)
 
-    par_cat, reserve, bilan = {}, {}, []
-    vus, par_reponse = set(), {}
+    attribuer_identifiants()
+    par_id, brutes_par_cat, rejets_par_cat = {}, {}, {}
     for cat in CATEGORIES:
         brutes, rejets = charger(cat["id"])
-        uniques, doublons = dedoublonner(brutes, vus, par_reponse)
-        choisies, surplus = selectionner(uniques, args.cartes, rng)
-        par_cat[cat["id"]] = choisies
-        reserve[cat["id"]] = surplus
-        niveaux = [sum(1 for q in choisies if q["d"] == d) for d in (1, 2, 3)]
-        bilan.append(f"{cat['nom']:<20} brutes {len(brutes):>5}  rejetées {len(rejets):>3}  doublons {len(doublons):>3}"
-                     f"  retenues {len(choisies):>5}  réserve {len(surplus):>4}  (faciles/moyennes/difficiles {niveaux[0]}/{niveaux[1]}/{niveaux[2]})")
+        brutes_par_cat[cat["id"]], rejets_par_cat[cat["id"]] = brutes, rejets
+        for q in brutes:
+            par_id[q["id"]] = q
         for source, raison, item in rejets:
             print(f"  rejet [{source}] {raison} : {item}", file=sys.stderr)
 
-    print("\n".join(bilan))
-    n = min(len(v) for v in par_cat.values())
-    if n < args.cartes:
-        print(f"\nAttention : seulement {n} cartes complètes possibles (objectif {args.cartes}).")
-        for cat in CATEGORIES:
-            surplus = par_cat[cat["id"]][n:]
-            par_cat[cat["id"]] = par_cat[cat["id"]][:n]
-            reserve[cat["id"]] = surplus + reserve[cat["id"]]
-    if n == 0:
-        sys.exit("Aucune carte à composer.")
+    # Cartes déjà composées : on les garde, en notant les questions disparues des sources.
+    paquet, editions = charger_paquet()
+    cartes, trous = [], []
+    for k, ids in enumerate(paquet):
+        carte = []
+        for i, qid in enumerate(ids):
+            q = par_id.get(qid)
+            if q is None or q["src"].split("_")[0] != CATEGORIES[i]["id"]:
+                trous.append((k, i, qid))
+                q = None
+            carte.append(q)
+        cartes.append(carte)
+    places = {q["id"] for c in cartes for q in c if q}
 
-    cartes = composer(par_cat, n, rng)
+    # Doublons : les questions déjà placées passent en premier et ne sont jamais écartées.
+    vus, par_reponse = set(), {}
+    dedoublonner([q for c in cartes for q in c if q], vus, par_reponse)
+    libres, bilan = {}, []
+    for cat in CATEGORIES:
+        candidates = [q for q in brutes_par_cat[cat["id"]] if q["id"] not in places]
+        uniques, doublons = dedoublonner(candidates, vus, par_reponse)
+        libres[cat["id"]] = uniques
+        bilan.append((cat, len(brutes_par_cat[cat["id"]]), len(rejets_par_cat[cat["id"]]), len(doublons)))
+
+    # Questions disparues : remplacées par une question libre de même catégorie et difficulté proche.
+    for k, i, qid in trous:
+        pool = libres[CATEGORIES[i]["id"]]
+        if not pool:
+            sys.exit(f"Plus de question disponible pour remplacer {qid} (carte {k + 1}).")
+        rng.shuffle(pool)
+        pool.sort(key=lambda q: abs(q["d"] - 2))
+        cartes[k][i] = pool.pop(0)
+        print(f"  carte {k + 1} : {qid} introuvable, remplacée par {cartes[k][i]['id']}", file=sys.stderr)
+
+    # Nouvelles cartes.
+    objectif = args.cartes if args.cartes is not None else len(cartes)
+    a_creer = objectif - len(cartes)
+    if a_creer < 0:
+        sys.exit(f"Le paquet contient déjà {len(cartes)} cartes : impossible d'en garder seulement {objectif}.")
+    if a_creer:
+        a_creer = min([a_creer] + [len(v) for v in libres.values()])
+        if len(cartes) + a_creer < objectif:
+            print(f"\nAttention : seulement {len(cartes) + a_creer} cartes possibles (objectif {objectif}).")
+        choisies = {}
+        for cat in CATEGORIES:
+            choisies[cat["id"]], libres[cat["id"]] = selectionner(libres[cat["id"]], a_creer, rng)
+        debut = len(cartes) + 1
+        cartes += composer(choisies, a_creer, rng)
+        nom = args.edition or ("Base" if not editions else f"Extension {len(editions)}")
+        editions.append({"nom": nom, "de": debut, "a": len(cartes)})
+    reserve = libres
+
+    for cat, nb_brutes, nb_rejets, nb_doublons in bilan:
+        i = CATEGORIES.index(cat)
+        niveaux = [sum(1 for c in cartes if c[i]["d"] == d) for d in (1, 2, 3)]
+        print(f"{cat['nom']:<20} sources {nb_brutes:>5}  rejetées {nb_rejets:>3}  doublons {nb_doublons:>3}"
+              f"  en jeu {len(cartes):>5}  réserve {len(reserve[cat['id']]):>4}"
+              f"  (faciles/moyennes/difficiles {niveaux[0]}/{niveaux[1]}/{niveaux[2]})")
+
+    ecrire_paquet(cartes, editions)
 
     sortie = {
         "version": 1,
         "categories": CATEGORIES,
+        "editions": editions,
         "cartes": [[[q["q"], q["r"], q["d"], q["t"]] for q in carte] for carte in cartes],
     }
     with open(os.path.join(RACINE, "app", "cartes.json"), "w", encoding="utf-8") as f:
@@ -192,13 +290,13 @@ def main():
 
     with open(os.path.join(RACINE, "data", "cartes.csv"), "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["carte", "categorie", "question", "reponse", "difficulte", "theme"])
+        w.writerow(["carte", "categorie", "question", "reponse", "difficulte", "theme", "id"])
         for num, carte in enumerate(cartes, 1):
             for cat, q in zip(CATEGORIES, carte):
-                w.writerow([num, cat["nom"], q["q"], q["r"], q["d"], q["t"]])
+                w.writerow([num, cat["nom"], q["q"], q["r"], q["d"], q["t"], q["id"]])
 
     with open(os.path.join(RACINE, "data", "reserve.json"), "w", encoding="utf-8") as f:
-        json.dump({k: [{kk: q[kk] for kk in ("q", "r", "d", "t")} for q in v] for k, v in reserve.items()},
+        json.dump({k: [{kk: q[kk] for kk in ("id", "q", "r", "d", "t")} for q in v] for k, v in reserve.items()},
                   f, ensure_ascii=False, indent=1)
 
     print(f"\n{len(cartes)} cartes ({len(cartes) * len(CATEGORIES)} questions) écrites dans app/cartes.json et data/cartes.csv")

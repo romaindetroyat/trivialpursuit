@@ -1,545 +1,636 @@
 [
  {
+  "id": "art_a_4-001",
   "q": "Quel écrivain a publié en 1697 les « Histoires ou contes du temps passé », avec « Cendrillon » et « Le Petit Poucet » ?",
   "r": "Charles Perrault",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-002",
   "q": "Sous quel autre titre, évoquant une vieille conteuse, connaît-on le recueil de contes de Perrault ?",
   "r": "Les Contes de ma mère l'Oye",
   "d": 2,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-003",
   "q": "Dans « Le Petit Chaperon rouge » de Perrault, que porte la fillette à sa mère-grand ?",
   "r": "Une galette et un petit pot de beurre",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-004",
   "q": "Chez Perrault, contrairement à la version des frères Grimm, comment se termine « Le Petit Chaperon rouge » ?",
   "r": "Le loup la mange",
   "d": 2,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-005",
   "q": "Dans « Cendrillon », en quoi la fée marraine transforme-t-elle une citrouille ?",
   "r": "En carrosse",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-006",
   "q": "Chez Perrault, en quelle matière est la pantoufle que perd Cendrillon ?",
   "r": "En verre",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-007",
   "q": "Quel titre de noblesse le Chat botté invente-t-il pour son pauvre maître ?",
   "r": "Marquis de Carabas",
   "d": 2,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-008",
   "q": "Quel personnage de Perrault tue ses épouses trop curieuses qui ont ouvert un petit cabinet interdit ?",
   "r": "Barbe-Bleue",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-009",
   "q": "Dans « Barbe-Bleue », à qui l'épouse demande-t-elle : « … ne vois-tu rien venir ? » ?",
   "r": "Sa sœur Anne",
   "d": 3,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-010",
   "q": "Quelles bottes magiques le Petit Poucet dérobe-t-il à l'ogre ?",
   "r": "Les bottes de sept lieues",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-011",
   "q": "Combien d'enfants compte la famille du Petit Poucet, lui compris ?",
   "r": "Sept",
   "d": 2,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-012",
   "q": "Quel conte de Perrault plonge une princesse et tout son château dans un sommeil de cent ans ?",
   "r": "La Belle au bois dormant",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-013",
   "q": "Quel conte de Perrault raconte l'histoire d'une princesse qui fuit son père déguisée sous la dépouille d'un animal ?",
   "r": "Peau d'Âne",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-014",
   "q": "Quel prince de Perrault, né très laid mais doté d'esprit, porte une touffe de cheveux sur la tête ?",
   "r": "Riquet à la houppe",
   "d": 3,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-015",
   "q": "Quelle autrice a publié en 1756 la version la plus célèbre de « La Belle et la Bête » ?",
   "r": "Madame Leprince de Beaumont",
   "d": 3,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-016",
   "q": "Quelle conteuse du XVIIe siècle a publié en 1697 un recueil intitulé « Les Contes des fées » ?",
   "r": "Madame d'Aulnoy",
   "d": 3,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-017",
   "q": "Chez Alphonse Daudet, comment s'appelle la chèvre de monsieur Seguin qui se bat toute la nuit contre le loup ?",
   "r": "Blanquette",
   "d": 2,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-018",
   "q": "Quel conteur danois a écrit « La Petite Sirène » et « Le Vilain Petit Canard » ?",
   "r": "Hans Christian Andersen",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-019",
   "q": "Quels frères allemands ont recueilli le conte « Hansel et Gretel » ?",
   "r": "Les frères Grimm",
   "d": 1,
   "t": "Contes"
  },
  {
+  "id": "art_a_4-020",
   "q": "Sur quel astéroïde vit le Petit Prince de Saint-Exupéry ?",
   "r": "B 612",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-021",
   "q": "Quel animal demande au Petit Prince de l'apprivoiser ?",
   "r": "Le renard",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-022",
   "q": "Quelle fleur orgueilleuse le Petit Prince a-t-il laissée sur sa planète ?",
   "r": "Une rose",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-023",
   "q": "Que demande le Petit Prince au narrateur, en panne dans le désert, en lui disant « S'il vous plaît… dessine-moi… » ?",
   "r": "Un mouton",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-024",
   "q": "Quel scénariste d'Astérix a écrit les histoires du « Petit Nicolas » ?",
   "r": "René Goscinny",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-025",
   "q": "Quel dessinateur a illustré les histoires du « Petit Nicolas » ?",
   "r": "Jean-Jacques Sempé",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-026",
   "q": "Quelle comtesse a écrit « Les Malheurs de Sophie » ?",
   "r": "La comtesse de Ségur",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-027",
   "q": "Comment s'appelle l'âne qui raconte sa vie dans les « Mémoires d'un âne » de la comtesse de Ségur ?",
   "r": "Cadichon",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-028",
   "q": "Quel écrivain a publié en 1878 le roman « Sans famille » ?",
   "r": "Hector Malot",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-029",
   "q": "Comment s'appelle le jeune héros de « Sans famille », qui parcourt la France avec Vitalis ?",
   "r": "Rémi",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-030",
   "q": "Quel roman de Louis Pergaud raconte l'affrontement des enfants de Longeverne et de Velrans ?",
   "r": "La Guerre des boutons",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-031",
   "q": "Quel auteur a créé en 1931 Babar, le roi des éléphants ?",
   "r": "Jean de Brunhoff",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-032",
   "q": "Quelle petite fille est l'héroïne des albums de Gilbert Delahaye et Marcel Marlier ?",
   "r": "Martine",
   "d": 1,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-033",
   "q": "Quel ourson est le héros d'histoires publiées depuis 1975 dans le magazine « Pomme d'Api » ?",
   "r": "Petit Ours Brun",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-034",
   "q": "Quel écrivain provençal a écrit « L'Enfant et la Rivière » (1945) ?",
   "r": "Henri Bosco",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-035",
   "q": "Quel roman de Joseph Kessel raconte l'amitié entre une fillette, Patricia, et un lion nommé King au Kenya ?",
   "r": "Le Lion",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-036",
   "q": "Quel roman de Joseph Kessel se déroule en Afghanistan autour du bouzkachi ?",
   "r": "Les Cavaliers",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_4-037",
   "q": "Quelle romancière et réalisatrice a créé « Belle et Sébastien » ?",
   "r": "Cécile Aubry",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-038",
   "q": "À quelle race de chien appartient Belle, l'amie de Sébastien ?",
   "r": "Montagne des Pyrénées",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-039",
   "q": "Dans quel recueil de Pierre Gripari figure « La Sorcière de la rue Mouffetard » ?",
   "r": "Contes de la rue Broca",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-040",
   "q": "Comment s'appellent les deux fillettes des « Contes du chat perché » de Marcel Aymé ?",
   "r": "Delphine et Marinette",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-041",
   "q": "Quel roman de Jules Verne raconte la survie de quinze jeunes garçons naufragés sur une île ?",
   "r": "Deux ans de vacances",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-042",
   "q": "Quel écrivain a raconté l'enfance malheureuse d'un garçon roux surnommé « Poil de carotte » ?",
   "r": "Jules Renard",
   "d": 2,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-043",
   "q": "Quel roman de Daniel Pennac raconte la vie d'un chien errant ?",
   "r": "Cabot-Caboche",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-044",
   "q": "Quel héros de Timothée de Fombelle, haut d'un millimètre et demi, vit dans un arbre ?",
   "r": "Tobie Lolness",
   "d": 3,
   "t": "Littérature jeunesse"
  },
  {
+  "id": "art_a_4-045",
   "q": "Que fait-on à quelqu'un quand on ne vient pas au rendez-vous fixé, selon l'expression ?",
   "r": "On lui pose un lapin",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-046",
   "q": "Quel reptile verse des larmes hypocrites, selon l'expression ?",
   "r": "Le crocodile",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-047",
   "q": "Quel animal a-t-on « dans la gorge » quand on a la voix enrouée ?",
   "r": "Un chat",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-048",
   "q": "Quel animal a-t-on « au plafond » quand on est un peu fou ?",
   "r": "Une araignée",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-049",
   "q": "Quel animal donne son nom à une mémoire exceptionnelle ?",
   "r": "L'éléphant",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-050",
   "q": "Que mange-t-on « par la racine » quand on est mort et enterré, selon l'expression ?",
   "r": "Les pissenlits",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-051",
   "q": "Selon le proverbe, quel oiseau ne fait pas le printemps à lui seul ?",
   "r": "L'hirondelle",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-052",
   "q": "Quels animaux de Rabelais désignent des gens qui suivent aveuglément le groupe ?",
   "r": "Les moutons de Panurge",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-053",
   "q": "Que met-on « avant les bœufs » quand on fait les choses dans le mauvais ordre ?",
   "r": "La charrue",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-054",
   "q": "Dans quels fruits tombe-t-on, selon l'expression, quand on s'évanouit ?",
   "r": "Les pommes",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-055",
   "q": "Par quelle partie de son corps tire-t-on le diable quand on a du mal à joindre les deux bouts ?",
   "r": "La queue",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-056",
   "q": "Quelle école fréquente-t-on, selon l'expression, quand on sèche les cours ?",
   "r": "L'école buissonnière",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-057",
   "q": "Que tient-on, selon l'expression, quand on est de trop auprès d'un couple d'amoureux ?",
   "r": "La chandelle",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-058",
   "q": "Selon l'expression française, de quelle nationalité est la façon de partir discrètement sans dire au revoir ?",
   "r": "Anglaise (filer à l'anglaise)",
   "d": 1,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-059",
   "q": "Sur quel nombre est-on, selon l'expression, quand on s'est habillé de façon très élégante ?",
   "r": "Trente et un",
   "d": 2,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-060",
   "q": "De quelle couleur est la fleur d'une personne très sentimentale, selon l'expression ?",
   "r": "Bleue",
   "d": 2,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-061",
   "q": "De quelle couleur doit être la patte que l'on montre pour se faire reconnaître et entrer ?",
   "r": "Blanche",
   "d": 2,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-062",
   "q": "Quelle pierre précieuse paie-t-on « sur l'ongle » quand on règle intégralement et sur-le-champ ?",
   "r": "Le rubis",
   "d": 2,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-063",
   "q": "Quels moines donnent leur nom à un travail long, patient et minutieux ?",
   "r": "Les bénédictins",
   "d": 2,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-064",
   "q": "De quelle farce médiévale vient l'expression « revenons à nos moutons » ?",
   "r": "La Farce de maître Pathelin",
   "d": 3,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-065",
   "q": "Qu'était une « maille » dans l'expression « avoir maille à partir » ?",
   "r": "Une petite pièce de monnaie",
   "d": 3,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-066",
   "q": "Dans l'expression « à la queue leu leu », quel animal désigne le mot ancien « leu » ?",
   "r": "Le loup",
   "d": 3,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-067",
   "q": "Dans l'expression « à brûle-pourpoint », qu'est-ce qu'un pourpoint ?",
   "r": "Un vêtement couvrant le torse",
   "d": 3,
   "t": "Expressions"
  },
  {
+  "id": "art_a_4-068",
   "q": "Comment appelle-t-on un mot ou une phrase qui se lit dans les deux sens, comme « Ésope reste ici et se repose » ?",
   "r": "Un palindrome",
   "d": 1,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-069",
   "q": "Comment appelle-t-on un mot obtenu en mélangeant les lettres d'un autre, comme « niche » pour « chien » ?",
   "r": "Une anagramme",
   "d": 1,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-070",
   "q": "Comment appelle-t-on un texte écrit en s'interdisant l'usage d'une ou plusieurs lettres ?",
   "r": "Un lipogramme",
   "d": 3,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-071",
   "q": "Comment appelle-t-on l'argot qui inverse les syllabes des mots, comme « chelou » pour « louche » ?",
   "r": "Le verlan",
   "d": 1,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-072",
   "q": "Quelle figure de style exagère volontairement, comme dans « mourir de rire » ?",
   "r": "L'hyperbole",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-073",
   "q": "Quelle figure de style associe deux termes contradictoires, comme l'« obscure clarté » de Corneille ?",
   "r": "L'oxymore",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-074",
   "q": "Quelle figure de style consiste à dire moins pour suggérer plus, comme « Va, je ne te hais point » ?",
   "r": "La litote",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-075",
   "q": "Quel dictionnaire a pour devise « Je sème à tout vent », illustrée par une semeuse ?",
   "r": "Le Larousse",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-076",
   "q": "Quel est le seul mot de la langue française qui s'écrit avec un « ù » ?",
   "r": "Où",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-077",
   "q": "Combien de lettres compte l'alphabet français ?",
   "r": "26",
   "d": 1,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-078",
   "q": "Comment appelle-t-on le petit signe placé sous le « c » de « garçon » ?",
   "r": "La cédille",
   "d": 1,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-079",
   "q": "Comment appelle-t-on les deux points placés sur une voyelle, comme dans « maïs » ?",
   "r": "Le tréma",
   "d": 1,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-080",
   "q": "Quelle ordonnance de François Ier impose en 1539 le français dans les actes officiels ?",
   "r": "L'ordonnance de Villers-Cotterêts",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-081",
   "q": "Comment appelle-t-on des mots qui se prononcent de la même façon mais s'écrivent différemment, comme « vert » et « verre » ?",
   "r": "Des homophones",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-082",
   "q": "Quel mot en « -ou » prend un « x » au pluriel, avec bijou, caillou, chou, genou, hibou et joujou ?",
   "r": "Pou",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-083",
   "q": "Comment s'appelle le signe typographique « & » ?",
   "r": "L'esperluette",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-084",
   "q": "Quel animateur a lancé en 1985 les championnats d'orthographe devenus les « Dicos d'or » ?",
   "r": "Bernard Pivot",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-085",
   "q": "Quelle émission littéraire de Bernard Pivot a été diffusée à la télévision de 1975 à 1990 ?",
   "r": "Apostrophes",
   "d": 2,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-086",
   "q": "Quel écrivain aurait rédigé une dictée truffée de pièges pour la cour de Napoléon III ?",
   "r": "Prosper Mérimée",
   "d": 3,
   "t": "Langue française"
  },
  {
+  "id": "art_a_4-087",
   "q": "Quel géographe a inventé le mot « francophonie » vers 1880 ?",
   "r": "Onésime Reclus",
   "d": 3,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_4-088",
   "q": "Quel mot les Belges et les Suisses romands emploient-ils pour dire « soixante-dix » ?",
   "r": "Septante",
   "d": 1,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_4-089",
   "q": "Quel mot est employé dans plusieurs cantons suisses romands pour dire « quatre-vingts » ?",
   "r": "Huitante",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_4-090",
   "q": "Quelle expression les Québécois emploient-ils à la place de « week-end » ?",
   "r": "La fin de semaine",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_4-091",
   "q": "Quel mot, forgé au Québec, est recommandé en français pour remplacer « e-mail » ?",
   "r": "Courriel",
   "d": 2,

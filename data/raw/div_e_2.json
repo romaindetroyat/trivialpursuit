@@ -1,0 +1,597 @@
+[
+ {
+  "id": "div_e_2-001",
+  "q": "Quel code d'erreur s'affiche lorsqu'une page web est introuvable ?",
+  "r": "404",
+  "d": 1,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_2-002",
+  "q": "Quel ingénieur américain a conçu la roue géante de l'exposition universelle de Chicago en 1893, qui a donné son nom anglais à la grande roue ?",
+  "r": "George Ferris",
+  "d": 3,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_2-003",
+  "q": "Quel auteur raconte son enfance en Libye et en Syrie dans « L'Arabe du futur » ?",
+  "r": "Riad Sattouf",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_2-004",
+  "q": "Quel joker de « Qui veut gagner des millions ? » supprime deux mauvaises réponses ?",
+  "r": "Le 50/50",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_2-005",
+  "q": "Pendant quelle période historique se déroule « Assassin's Creed Unity », situé à Paris ?",
+  "r": "La Révolution française",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-006",
+  "q": "Quel canard milliardaire aime plonger dans son coffre-fort rempli de pièces d'or ?",
+  "r": "Picsou",
+  "d": 1,
+  "t": "Bande dessinée"
+ },
+ {
+  "id": "div_e_2-007",
+  "q": "Quels jumeaux présentaient l'émission de science-fiction « Temps X » dans les années 1980 ?",
+  "r": "Les frères Bogdanoff",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-008",
+  "q": "Quel héros de dessin animé brandit son épée en s'écriant « Par le pouvoir du crâne ancestral » ?",
+  "r": "Musclor",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_2-009",
+  "q": "Quel jeu de tir opposant terroristes et antiterroristes est né en 1999 d'une modification de « Half-Life » ?",
+  "r": "Counter-Strike",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-010",
+  "q": "Quel circuit multicolore, souvent dépourvu de barrières, clôt traditionnellement la dernière coupe de « Mario Kart » ?",
+  "r": "La Route arc-en-ciel",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-011",
+  "q": "Quel kangourou était le héros d'une série australienne de la fin des années 1960 ?",
+  "r": "Skippy",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_2-012",
+  "q": "Quel chanteur russe est devenu un mème en 2010 grâce à sa vocalise surnommée « Trololo » ?",
+  "r": "Édouard Khil",
+  "d": 3,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_2-013",
+  "q": "Quel éléphant, roi de Célesteville, a été créé par Jean de Brunhoff ?",
+  "r": "Babar",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_2-014",
+  "q": "Quel jeu de TF1 présenté par Jean-Luc Reichmann dévoile peu à peu une « étoile mystérieuse » ?",
+  "r": "Les Douze Coups de midi",
+  "d": 1,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_2-015",
+  "q": "Quelle romancière de Cabot Cove, héroïne d'« Arabesque », résout des meurtres entre deux livres ?",
+  "r": "Jessica Fletcher",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_2-016",
+  "q": "Quel programme court de Canal+ voyait Omar et Fred répondre aux appels de téléspectateurs mécontents ?",
+  "r": "Le SAV des émissions",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-017",
+  "q": "Quelle fête foraine parisienne, installée sur la pelouse de Reuilly, revendique plus de mille ans d'histoire ?",
+  "r": "La Foire du Trône",
+  "d": 1,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_2-018",
+  "q": "Quel est le métier de Ross Geller dans « Friends » ?",
+  "r": "Paléontologue",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_2-019",
+  "q": "Quelle gamme de jeux électroniques de poche à écran LCD Nintendo a-t-il lancée en 1980 ?",
+  "r": "Game & Watch",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-020",
+  "q": "Sous quel nom la NES de Nintendo était-elle commercialisée au Japon ?",
+  "r": "Famicom",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-021",
+  "q": "Quel jeu de Will Wright, sorti en 1989, fait du joueur le maire d'une ville à bâtir ?",
+  "r": "SimCity",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-022",
+  "q": "Quelle émission de M6 aide des agriculteurs à trouver l'âme sœur ?",
+  "r": "L'amour est dans le pré",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-023",
+  "q": "Comment s'appellent les deux policiers moustachus et maladroits, presque jumeaux, des aventures de Tintin ?",
+  "r": "Dupond et Dupont",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_2-024",
+  "q": "Quel jeu de 1989, conçu par Jordan Mechner, donne une heure au héros pour sauver une princesse retenue par le vizir Jaffar ?",
+  "r": "Prince of Persia",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-025",
+  "q": "De quelle chanson populaire russe est tirée la musique la plus célèbre de Tetris sur Game Boy ?",
+  "r": "Korobeiniki",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-026",
+  "q": "Quels quatre symboles figurent sur les boutons de la manette PlayStation ?",
+  "r": "Triangle, rond, croix et carré",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-027",
+  "q": "Quel animateur a présenté « On n'est pas couché » sur France 2 de 2006 à 2020 ?",
+  "r": "Laurent Ruquier",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-028",
+  "q": "Dans un sketch culte des Inconnus, qui s'efforce d'expliquer la différence entre « le bon » et « le mauvais » ?",
+  "r": "Les chasseurs",
+  "d": 1,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-029",
+  "q": "En quelle année Euro Disney, devenu Disneyland Paris, a-t-il ouvert ses portes ?",
+  "r": "1992",
+  "d": 1,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_2-030",
+  "q": "Quel jeu, préinstallé sur les téléphones Nokia à partir de 1997, fait grandir un serpent qui avale des points ?",
+  "r": "Snake",
+  "d": 1,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-031",
+  "q": "Quel détective privé, un chat noir, est le héros d'une BD de Juan Díaz Canales et Juanjo Guarnido ?",
+  "r": "Blacksad",
+  "d": 3,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_2-032",
+  "q": "Dans quelle émission des célébrités chantent-elles cachées sous d'énormes costumes, le public devant deviner leur identité ?",
+  "r": "Mask Singer",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-033",
+  "q": "Quelle fillette aux pouvoirs télékinésiques porte un numéro en guise de nom dans « Stranger Things » ?",
+  "r": "Onze (Eleven)",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_2-034",
+  "q": "Comment appelle-t-on la célèbre séquence de touches « haut, haut, bas, bas, gauche, droite, gauche, droite, B, A » ?",
+  "r": "Le code Konami",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-035",
+  "q": "Quelle console de Nintendo, sortie en 1996, doit son nom à son processeur ?",
+  "r": "La Nintendo 64",
+  "d": 1,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-036",
+  "q": "Quel jeu de France 2, présenté par Patrice Laffont, faisait deviner des mots grâce aux indices d'un partenaire ?",
+  "r": "Pyramide",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_2-037",
+  "q": "Comment s'appelle le fiancé de la poupée Barbie ?",
+  "r": "Ken",
+  "d": 1,
+  "t": "Mascottes"
+ },
+ {
+  "id": "div_e_2-038",
+  "q": "Quelle série de France 3 suit les habitants de Villeneuve sous l'Occupation ?",
+  "r": "Un village français",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "id": "div_e_2-039",
+  "q": "Quel tigre en peluche prend vie aux yeux du petit Calvin, dans le strip de Bill Watterson ?",
+  "r": "Hobbes",
+  "d": 1,
+  "t": "Bande dessinée"
+ },
+ {
+  "id": "div_e_2-040",
+  "q": "Quelle troupe comique, révélée par « La Grosse Émission » sur Comédie !, réunissait Jean-Paul Rouve et Marina Foïs ?",
+  "r": "Les Robins des Bois",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-041",
+  "q": "Quelle actrice incarne la fantasque gendarme Capitaine Marleau, toujours coiffée d'une chapka ?",
+  "r": "Corinne Masiero",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "id": "div_e_2-042",
+  "q": "Quel écuyer et metteur en scène a fondé le théâtre équestre Zingaro ?",
+  "r": "Bartabas",
+  "d": 2,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_2-043",
+  "q": "Quel est le métier d'Obélix ?",
+  "r": "Tailleur et livreur de menhirs",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_2-044",
+  "q": "Dans quel album Tintin se lie-t-il d'amitié avec le jeune Chinois Tchang ?",
+  "r": "Le Lotus bleu",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_2-045",
+  "q": "Quel jeu présenté par Jean-Pierre Foucault dans les années 1980 réunissait des vedettes dans une grille géante de morpion ?",
+  "r": "L'Académie des neuf",
+  "d": 3,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_2-046",
+  "q": "Comment s'appelle la dernière manche de « Questions pour un champion », qui oppose les deux finalistes ?",
+  "r": "Le Face-à-face",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_2-047",
+  "q": "Quel clown était le héros d'une série de marionnettes animées créée par Jean Image en 1966 ?",
+  "r": "Kiri le clown",
+  "d": 3,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_2-048",
+  "q": "Quelle chaîne culturelle est née en 1992 d'un partenariat franco-allemand ?",
+  "r": "Arte",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-049",
+  "q": "Comment s'appelle le fidèle majordome de Bruce Wayne ?",
+  "r": "Alfred",
+  "d": 1,
+  "t": "Comics"
+ },
+ {
+  "id": "div_e_2-050",
+  "q": "Quel animateur, figure des jeux télévisés, a créé « Intervilles » en 1962 ?",
+  "r": "Guy Lux",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_2-051",
+  "q": "Quel jour de l'année Harry Houdini est-il mort, en 1926 ?",
+  "r": "Le 31 octobre (Halloween)",
+  "d": 3,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_2-052",
+  "q": "Quel rival cupide de Mario porte un « W » sur sa casquette jaune ?",
+  "r": "Wario",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-053",
+  "q": "Quelle exclamation Homer Simpson pousse-t-il lorsqu'il commet une bêtise ?",
+  "r": "D'oh !",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_2-054",
+  "q": "Quelle mini-série de HBO, diffusée en 2019, retrace la catastrophe nucléaire ukrainienne de 1986 ?",
+  "r": "Chernobyl",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_2-055",
+  "q": "Dans quelle émission de France Inter Pierre Desproges tenait-il le rôle de procureur, face à l'avocat Luis Rego ?",
+  "r": "Le Tribunal des flagrants délires",
+  "d": 2,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_2-056",
+  "q": "Quel humoriste présentait « La Minute nécessaire de monsieur Cyclopède » sur FR3 au début des années 1980 ?",
+  "r": "Pierre Desproges",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-057",
+  "q": "Quel peintre surréaliste a dessiné le logo des sucettes Chupa Chups ?",
+  "r": "Salvador Dalí",
+  "d": 2,
+  "t": "Mascottes"
+ },
+ {
+  "id": "div_e_2-058",
+  "q": "Quel petit bonhomme en bois conduit un taxi au Pays des Jouets ?",
+  "r": "Oui-Oui",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_2-059",
+  "q": "Quel dessinateur américain a créé l'oncle Picsou en 1947 ?",
+  "r": "Carl Barks",
+  "d": 3,
+  "t": "Bande dessinée"
+ },
+ {
+  "id": "div_e_2-060",
+  "q": "Quel jeu de rôle en ligne, créé par le studio roubaisien Ankama en 2004, se déroule dans le Monde des Douze ?",
+  "r": "Dofus",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-061",
+  "q": "Quel télépathe en fauteuil roulant a fondé l'école des X-Men ?",
+  "r": "Le professeur Xavier",
+  "d": 1,
+  "t": "Comics"
+ },
+ {
+  "id": "div_e_2-062",
+  "q": "Quel humoriste commençait nombre de ses histoires par « C'est l'histoire d'un mec… » ?",
+  "r": "Coluche",
+  "d": 1,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-063",
+  "q": "Quel manga d'Hajime Isayama montre l'humanité retranchée derrière d'immenses murs pour échapper à des géants ?",
+  "r": "L'Attaque des Titans",
+  "d": 2,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_2-064",
+  "q": "Dans quel sens se lit traditionnellement un manga japonais ?",
+  "r": "De droite à gauche",
+  "d": 1,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_2-065",
+  "q": "Dans quel parc de Vienne tourne la grande roue rendue célèbre par le film « Le Troisième Homme » ?",
+  "r": "Le Prater",
+  "d": 3,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_2-066",
+  "q": "Quel jeu de France Inter, né en 1958, est célèbre pour les cris de « Banco ! » lancés par son public ?",
+  "r": "Le Jeu des 1000 euros",
+  "d": 1,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_2-067",
+  "q": "Quel biologiste britannique a inventé le mot « mème » dans son livre « Le Gène égoïste » en 1976 ?",
+  "r": "Richard Dawkins",
+  "d": 3,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_2-068",
+  "q": "Par quoi Morris a-t-il remplacé la cigarette de Lucky Luke en 1983 ?",
+  "r": "Un brin d'herbe (ou de paille)",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_2-069",
+  "q": "Quel funambule français a marché sur un câble tendu entre les tours jumelles du World Trade Center en 1974 ?",
+  "r": "Philippe Petit",
+  "d": 2,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_2-070",
+  "q": "Quel animateur présentait le talk-show « Ciel, mon mardi ! » sur TF1 ?",
+  "r": "Christophe Dechavanne",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-071",
+  "q": "Quelle entreprise fondée en 1997 louait des DVD par courrier avant de devenir une plateforme de streaming ?",
+  "r": "Netflix",
+  "d": 1,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_2-072",
+  "q": "Comment appelle-t-on un internaute qui publie des messages provocateurs pour déclencher des polémiques ?",
+  "r": "Un troll",
+  "d": 1,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_2-073",
+  "q": "Quelle orpheline blonde aux taches de rousseur, élevée à la maison Pony, est l'héroïne d'un célèbre dessin animé japonais ?",
+  "r": "Candy",
+  "d": 2,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_2-074",
+  "q": "Quel informaticien américain a proposé en 1982 d'utiliser :-) pour signaler une plaisanterie ?",
+  "r": "Scott Fahlman",
+  "d": 3,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_2-075",
+  "q": "Quelle émission humoristique américaine, lancée sur NBC en 1975, est diffusée en direct de New York le samedi soir ?",
+  "r": "Saturday Night Live",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-076",
+  "q": "Quelle héroïne de manga, élevée comme un garçon, commande la garde royale de Marie-Antoinette ?",
+  "r": "Lady Oscar",
+  "d": 2,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_2-077",
+  "q": "Quel animateur a lancé l'émission « Touche pas à mon poste ! » en 2010 ?",
+  "r": "Cyril Hanouna",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-078",
+  "q": "Quel animateur présentait le talk-show « Ça se discute » sur France 2 ?",
+  "r": "Jean-Luc Delarue",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-079",
+  "q": "Quelle série de jeux de Square Enix fait se rencontrer des héros de Final Fantasy et des personnages de Disney ?",
+  "r": "Kingdom Hearts",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_2-080",
+  "q": "Quel scientifique se transforme en Hulk lorsqu'il est en colère ?",
+  "r": "Bruce Banner",
+  "d": 1,
+  "t": "Comics"
+ },
+ {
+  "id": "div_e_2-081",
+  "q": "Quel animateur présentait « Le Petit Rapporteur » en 1975, avant de lancer « L'École des fans » ?",
+  "r": "Jacques Martin",
+  "d": 2,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_2-082",
+  "q": "Quel humoriste a interprété la série de sketches « Les Petites Annonces », où il campe des personnages pathétiques ?",
+  "r": "Élie Semoun",
+  "d": 1,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_2-083",
+  "q": "Comment appelle-t-on les mangas destinés en priorité aux adolescentes ?",
+  "r": "Le shōjo",
+  "d": 2,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_2-084",
+  "q": "Qu'a mangé Luffy, le héros de « One Piece », pour obtenir un corps élastique ?",
+  "r": "Un Fruit du Démon",
+  "d": 2,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_2-085",
+  "q": "Sous quel pseudonyme Jean Giraud signait-il ses BD de science-fiction comme « L'Incal » ?",
+  "r": "Mœbius",
+  "d": 2,
+  "t": "BD franco-belge"
+ }
+]

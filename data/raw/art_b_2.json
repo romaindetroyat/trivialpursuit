@@ -1,539 +1,629 @@
 [
  {
+  "id": "art_b_2-001",
   "q": "Quel écrivain russe a écrit « Guerre et Paix » ?",
   "r": "Léon Tolstoï",
   "d": 1,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-002",
   "q": "Quelle héroïne de Tolstoï, prise dans une passion adultère, finit par se jeter sous un train ?",
   "r": "Anna Karénine",
   "d": 1,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-003",
   "q": "Quel roman de Dostoïevski a pour héros l'étudiant Raskolnikov, meurtrier d'une vieille usurière ?",
   "r": "Crime et Châtiment",
   "d": 1,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-004",
   "q": "Quel écrivain russe a écrit « Les Frères Karamazov » ?",
   "r": "Fiodor Dostoïevski",
   "d": 1,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-005",
   "q": "Quel poète russe, auteur d'« Eugène Onéguine », est mort des suites d'un duel en 1837 ?",
   "r": "Alexandre Pouchkine",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-006",
   "q": "Quel roman de Mikhaïl Boulgakov met en scène le diable en visite dans le Moscou des années 1930 ?",
   "r": "Le Maître et Marguerite",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-007",
   "q": "Quel dramaturge russe a écrit « La Cerisaie » et « Les Trois Sœurs » ?",
   "r": "Anton Tchekhov",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-008",
   "q": "Quel écrivain russe a écrit « Les Âmes mortes » et la comédie « Le Revizor » ?",
   "r": "Nicolas Gogol",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-009",
   "q": "Quel roman de Boris Pasternak a pour héros un médecin poète pris dans la tourmente de la révolution russe ?",
   "r": "Le Docteur Jivago",
   "d": 1,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-010",
   "q": "Quel écrivain dissident soviétique a dénoncé le système concentrationnaire dans « L'Archipel du Goulag » ?",
   "r": "Alexandre Soljenitsyne",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-011",
   "q": "Quel roman de Dostoïevski a pour héros le bon et naïf prince Mychkine ?",
   "r": "L'Idiot",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-012",
   "q": "Quel roman d'Ivan Gontcharov a donné son nom à un mot russe désignant la paresse apathique ?",
   "r": "Oblomov",
   "d": 3,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-013",
   "q": "Quel écrivain russe a publié en 1862 « Pères et Fils », dont le héros Bazarov se dit nihiliste ?",
   "r": "Ivan Tourgueniev",
   "d": 3,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-014",
   "q": "Quel écrivain d'origine russe, naturalisé américain, a écrit « Lolita » ?",
   "r": "Vladimir Nabokov",
   "d": 2,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-015",
   "q": "Quel poète russe, auteur d'« Un héros de notre temps », fut tué en duel en 1841 ?",
   "r": "Mikhaïl Lermontov",
   "d": 3,
   "t": "Littérature russe"
  },
  {
+  "id": "art_b_2-016",
   "q": "Quel écrivain allemand a écrit la tragédie « Faust » ?",
   "r": "Johann Wolfgang von Goethe",
   "d": 1,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-017",
   "q": "À quel démon le docteur Faust vend-il son âme ?",
   "r": "Méphistophélès",
   "d": 1,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-018",
   "q": "Quel roman épistolaire de Goethe, paru en 1774, raconte la passion malheureuse d'un jeune homme pour Charlotte ?",
   "r": "Les Souffrances du jeune Werther",
   "d": 1,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-019",
   "q": "Quel écrivain pragois de langue allemande a écrit « La Métamorphose » et « Le Procès » ?",
   "r": "Franz Kafka",
   "d": 1,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-020",
   "q": "Dans « La Métamorphose » de Kafka, comment s'appelle le personnage qui se réveille transformé en insecte ?",
   "r": "Gregor Samsa",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-021",
   "q": "Quel roman de Thomas Mann se déroule dans un sanatorium de Davos ?",
   "r": "La Montagne magique",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-022",
   "q": "Quel écrivain allemand a décrit les tranchées de 14-18 dans « À l'Ouest, rien de nouveau » ?",
   "r": "Erich Maria Remarque",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-023",
   "q": "Quels frères philologues allemands ont recueilli les contes « Blanche-Neige » et « Hansel et Gretel » ?",
   "r": "Les frères Grimm",
   "d": 1,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-024",
   "q": "Quel dramaturge allemand a écrit « L'Opéra de quat'sous » et « Mère Courage et ses enfants » ?",
   "r": "Bertolt Brecht",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-025",
   "q": "Quel écrivain allemand a publié en 1985 « Le Parfum », histoire d'un meurtrier doté d'un odorat exceptionnel ?",
   "r": "Patrick Süskind",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-026",
   "q": "Quel écrivain de langue allemande a écrit « Siddhartha » et « Le Loup des steppes » ?",
   "r": "Hermann Hesse",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-027",
   "q": "Quel dramaturge allemand a écrit « Les Brigands » et « Guillaume Tell » ?",
   "r": "Friedrich Schiller",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-028",
   "q": "Quel écrivain autrichien a écrit la nouvelle « Le Joueur d'échecs » ?",
   "r": "Stefan Zweig",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-029",
   "q": "Quel roman de l'Allemand Michael Ende raconte l'aventure d'un garçon aspiré dans le livre qu'il est en train de lire ?",
   "r": "L'Histoire sans fin",
   "d": 2,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-030",
   "q": "Quel poète allemand a immortalisé la légende de la Lorelei, sirène d'un rocher du Rhin ?",
   "r": "Heinrich Heine",
   "d": 3,
   "t": "Littérature allemande"
  },
  {
+  "id": "art_b_2-031",
   "q": "Quel poète florentin a écrit « La Divine Comédie » ?",
   "r": "Dante Alighieri",
   "d": 1,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-032",
   "q": "Quel poète latin guide Dante à travers l'Enfer et le Purgatoire dans « La Divine Comédie » ?",
   "r": "Virgile",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-033",
   "q": "Quelle femme aimée de Dante le guide au Paradis dans « La Divine Comédie » ?",
   "r": "Béatrice",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-034",
   "q": "En combien de cercles l'Enfer de Dante est-il divisé ?",
   "r": "Neuf",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-035",
   "q": "Quel écrivain toscan du XIVe siècle a écrit « Le Décaméron », cent nouvelles racontées pendant une épidémie de peste ?",
   "r": "Boccace",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-036",
   "q": "Quel poète italien du XIVe siècle a chanté dans son « Canzoniere » son amour pour Laure ?",
   "r": "Pétrarque",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-037",
   "q": "Quel penseur florentin a écrit « Le Prince », traité sur l'art de conquérir et de garder le pouvoir ?",
   "r": "Nicolas Machiavel",
   "d": 1,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-038",
   "q": "Quel roman d'Umberto Eco se déroule dans une abbaye bénédictine en 1327 ?",
   "r": "Le Nom de la rose",
   "d": 1,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-039",
   "q": "Quel écrivain italien a créé la marionnette Pinocchio ?",
   "r": "Carlo Collodi",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-040",
   "q": "Quel roman de Giuseppe Tomasi di Lampedusa raconte le déclin du prince de Salina dans la Sicile du Risorgimento ?",
   "r": "Le Guépard",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-041",
   "q": "Quel roman d'Alessandro Manzoni raconte les amours contrariées de Renzo et Lucia en Lombardie ?",
   "r": "Les Fiancés",
   "d": 3,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-042",
   "q": "Quel écrivain italien a témoigné de sa déportation à Auschwitz dans « Si c'est un homme » ?",
   "r": "Primo Levi",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-043",
   "q": "Quel écrivain italien a écrit « Le Baron perché », histoire d'un jeune noble qui décide de vivre dans les arbres ?",
   "r": "Italo Calvino",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-044",
   "q": "Quel dramaturge italien a écrit « Six personnages en quête d'auteur » ?",
   "r": "Luigi Pirandello",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-045",
   "q": "Quel poète italien de la Renaissance a écrit l'épopée « La Jérusalem délivrée » ?",
   "r": "Le Tasse",
   "d": 3,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-046",
   "q": "Sous quel pseudonyme une romancière italienne à l'identité secrète a-t-elle signé la saga « L'Amie prodigieuse » ?",
   "r": "Elena Ferrante",
   "d": 2,
   "t": "Littérature italienne"
  },
  {
+  "id": "art_b_2-047",
   "q": "Quel écrivain espagnol a écrit « Don Quichotte » ?",
   "r": "Miguel de Cervantès",
   "d": 1,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-048",
   "q": "Comment s'appelle le fidèle écuyer de Don Quichotte ?",
   "r": "Sancho Panza",
   "d": 1,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-049",
   "q": "Contre quoi Don Quichotte charge-t-il, les prenant pour des géants ?",
   "r": "Des moulins à vent",
   "d": 1,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-050",
   "q": "Comment s'appelle le vieux cheval efflanqué de Don Quichotte ?",
   "r": "Rossinante",
   "d": 1,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-051",
   "q": "Quelle paysanne Don Quichotte transforme-t-il en dame de ses pensées ?",
   "r": "Dulcinée du Toboso",
   "d": 2,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-052",
   "q": "Quel poète andalou, assassiné en 1936, a écrit « La Maison de Bernarda Alba » ?",
   "r": "Federico García Lorca",
   "d": 2,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-053",
   "q": "Quel dramaturge espagnol du Siècle d'or a écrit « La vie est un songe » ?",
   "r": "Pedro Calderón de la Barca",
   "d": 3,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-054",
   "q": "Quel dramaturge espagnol du Siècle d'or, auteur de centaines de pièces, fut surnommé « le Phénix des esprits » ?",
   "r": "Lope de Vega",
   "d": 3,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-055",
   "q": "Quel moine dramaturge espagnol a donné vie au personnage de Don Juan dans « L'Abuseur de Séville » ?",
   "r": "Tirso de Molina",
   "d": 3,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-056",
   "q": "Quel écrivain espagnol a connu un succès mondial avec « L'Ombre du vent » en 2001 ?",
   "r": "Carlos Ruiz Zafón",
   "d": 2,
   "t": "Littérature espagnole"
  },
  {
+  "id": "art_b_2-057",
   "q": "Quel écrivain colombien a écrit « Cent ans de solitude » ?",
   "r": "Gabriel García Márquez",
   "d": 1,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-058",
   "q": "Dans quel village imaginaire se déroule l'histoire de la famille Buendía dans « Cent ans de solitude » ?",
   "r": "Macondo",
   "d": 2,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-059",
   "q": "Quel écrivain argentin, bibliothécaire devenu aveugle, a écrit « Fictions » et « L'Aleph » ?",
   "r": "Jorge Luis Borges",
   "d": 2,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-060",
   "q": "Quelle romancière chilienne a écrit « La Maison aux esprits » ?",
   "r": "Isabel Allende",
   "d": 2,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-061",
   "q": "Quel poète chilien, auteur du « Chant général », a reçu le prix Nobel de littérature en 1971 ?",
   "r": "Pablo Neruda",
   "d": 2,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-062",
   "q": "Quel écrivain péruvien, auteur de « La Ville et les Chiens », a reçu le prix Nobel de littérature en 2010 ?",
   "r": "Mario Vargas Llosa",
   "d": 2,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-063",
   "q": "Quel écrivain brésilien a écrit « L'Alchimiste », l'histoire du berger Santiago ?",
   "r": "Paulo Coelho",
   "d": 1,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-064",
   "q": "Quel écrivain argentin installé à Paris a publié en 1963 le roman « Marelle » ?",
   "r": "Julio Cortázar",
   "d": 3,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-065",
   "q": "Quel écrivain mexicain a écrit « Pedro Páramo », roman peuplé de fantômes ?",
   "r": "Juan Rulfo",
   "d": 3,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-066",
   "q": "Quel poète nicaraguayen est considéré comme le père du modernisme hispano-américain ?",
   "r": "Rubén Darío",
   "d": 3,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-067",
   "q": "Quel romancier brésilien de Bahia a écrit « Gabriela, girofle et cannelle » ?",
   "r": "Jorge Amado",
   "d": 3,
   "t": "Littérature latino-américaine"
  },
  {
+  "id": "art_b_2-068",
   "q": "Quel dramaturge norvégien a écrit « Une maison de poupée » ?",
   "r": "Henrik Ibsen",
   "d": 2,
   "t": "Littérature nordique"
  },
  {
+  "id": "art_b_2-069",
   "q": "Quelle romancière suédoise a créé Fifi Brindacier ?",
   "r": "Astrid Lindgren",
   "d": 2,
   "t": "Littérature nordique"
  },
  {
+  "id": "art_b_2-070",
   "q": "Quel écrivain danois a écrit le conte « La Petite Sirène » ?",
   "r": "Hans Christian Andersen",
   "d": 1,
   "t": "Littérature nordique"
  },
  {
+  "id": "art_b_2-071",
   "q": "Quel conte d'Andersen raconte l'histoire d'un oisillon moqué pour sa laideur qui devient un magnifique cygne ?",
   "r": "Le Vilain Petit Canard",
   "d": 1,
   "t": "Littérature nordique"
  },
  {
+  "id": "art_b_2-072",
   "q": "Quel dramaturge suédois a écrit « Mademoiselle Julie » ?",
   "r": "August Strindberg",
   "d": 3,
   "t": "Littérature nordique"
  },
  {
+  "id": "art_b_2-073",
   "q": "Quel poète portugais du XVIe siècle a chanté le voyage de Vasco de Gama dans « Les Lusiades » ?",
   "r": "Luís de Camões",
   "d": 3,
   "t": "Littérature portugaise"
  },
  {
+  "id": "art_b_2-074",
   "q": "Quel poète portugais aux multiples hétéronymes est l'auteur du « Livre de l'intranquillité » ?",
   "r": "Fernando Pessoa",
   "d": 3,
   "t": "Littérature portugaise"
  },
  {
+  "id": "art_b_2-075",
   "q": "Quel écrivain japonais a écrit « Kafka sur le rivage » et « 1Q84 » ?",
   "r": "Haruki Murakami",
   "d": 1,
   "t": "Littérature japonaise"
  },
  {
+  "id": "art_b_2-076",
   "q": "Quelle dame de la cour impériale japonaise a écrit « Le Dit du Genji » vers l'an 1000 ?",
   "r": "Murasaki Shikibu",
   "d": 3,
   "t": "Littérature japonaise"
  },
  {
+  "id": "art_b_2-077",
   "q": "Comment appelle-t-on le court poème japonais de dix-sept syllabes ?",
   "r": "Le haïku",
   "d": 1,
   "t": "Littérature japonaise"
  },
  {
+  "id": "art_b_2-078",
   "q": "Quel poète japonais du XVIIe siècle, auteur de « La Sente étroite du Bout-du-Monde », est le maître du haïku ?",
   "r": "Matsuo Bashō",
   "d": 3,
   "t": "Littérature japonaise"
  },
  {
+  "id": "art_b_2-079",
   "q": "Quel recueil de contes orientaux a pour narratrice Shéhérazade, qui raconte une histoire chaque nuit pour sauver sa vie ?",
   "r": "Les Mille et Une Nuits",
   "d": 1,
   "t": "Littérature arabe"
  },
  {
+  "id": "art_b_2-080",
   "q": "Quel orientaliste français a le premier traduit « Les Mille et Une Nuits » en Europe, au début du XVIIIe siècle ?",
   "r": "Antoine Galland",
   "d": 3,
   "t": "Littérature arabe"
  },
  {
+  "id": "art_b_2-081",
   "q": "Quel poète et savant persan est l'auteur des « Robaïyat », célèbres quatrains sur le vin et la brièveté de la vie ?",
   "r": "Omar Khayyam",
   "d": 3,
   "t": "Littérature persane"
  },
  {
+  "id": "art_b_2-082",
   "q": "Quel écrivain tchèque installé en France a écrit « L'Insoutenable Légèreté de l'être » ?",
   "r": "Milan Kundera",
   "d": 2,
   "t": "Littérature d'Europe centrale"
  },
  {
+  "id": "art_b_2-083",
   "q": "Quel écrivain tchèque a créé le personnage du « Brave Soldat Chvéïk » ?",
   "r": "Jaroslav Hašek",
   "d": 3,
   "t": "Littérature d'Europe centrale"
  },
  {
+  "id": "art_b_2-084",
   "q": "Quel écrivain nigérian a publié en 1958 « Le monde s'effondre », classique de la littérature africaine ?",
   "r": "Chinua Achebe",
   "d": 3,
   "t": "Littérature africaine"
  },
  {
+  "id": "art_b_2-085",
   "q": "Quel écrivain d'origine polonaise a écrit en anglais « Au cœur des ténèbres » ?",
   "r": "Joseph Conrad",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_2-086",
   "q": "Quel roman classique chinois raconte le pèlerinage d'un moine vers l'Inde, escorté par le Roi des singes ?",
   "r": "Le Voyage vers l'Ouest",
   "d": 3,
   "t": "Littérature chinoise"
  },
  {
+  "id": "art_b_2-087",
   "q": "Quel écrivain chinois, père de la littérature chinoise moderne, a écrit « La Véridique Histoire d'A Q » ?",
   "r": "Lu Xun",
   "d": 3,
   "t": "Littérature chinoise"
  },
  {
+  "id": "art_b_2-088",
   "q": "Quel écrivain irlandais a écrit « En attendant Godot » ?",
   "r": "Samuel Beckett",
   "d": 1,
   "t": "Littérature irlandaise"
  },
  {
+  "id": "art_b_2-089",
   "q": "Quelle adolescente juive a tenu un journal intime célèbre pendant qu'elle se cachait à Amsterdam de 1942 à 1944 ?",
   "r": "Anne Frank",
   "d": 1,
   "t": "Littérature néerlandaise"
  },
  {
+  "id": "art_b_2-090",
   "q": "Quel écrivain grec a écrit « Alexis Zorba », adapté au cinéma avec Anthony Quinn ?",
   "r": "Níkos Kazantzákis",
   "d": 3,

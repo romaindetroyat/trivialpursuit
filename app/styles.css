@@ -172,7 +172,8 @@ main {
 
 .astuce { text-align: center; color: var(--texte-doux); font-size: .88rem; margin-top: 14px; }
 
-.barre { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; color: var(--texte-doux); font-size: .92rem; }
+.barre { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px 12px; margin-bottom: 10px; color: var(--texte-doux); font-size: .92rem; }
+.barre select { padding: 6px 10px; font-size: .88rem; flex: 1 1 auto; max-width: 260px; }
 
 /* ---------- Carte ---------- */
 .carte {
@@ -304,6 +305,43 @@ input[type="text"], input[type="search"], input[type="number"], select {
 .choix-cat button[data-cat="his"] { color: #1c1c24; }
 .partie-actions { text-align: center; margin-top: 26px; }
 .victoire .hero-logo { width: 140px; height: 140px; }
+
+/* ---------- Solo ---------- */
+h3 { font-size: 1.1rem; margin: 24px 0 10px; }
+.regle { color: var(--texte-doux); font-size: .9rem; margin: 0 0 16px; }
+.records { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.records li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: var(--fond-2);
+  font-size: .9rem;
+}
+.records li span { color: var(--texte-doux); }
+.records li b { color: var(--accent); white-space: nowrap; }
+
+.solo-tete { display: flex; justify-content: space-between; align-items: center; color: var(--texte-doux); }
+.solo-score b { font-size: 1.6rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+.solo-info { color: var(--texte-doux); font-size: .9rem; margin: 2px 0 12px; min-height: 1.3em; }
+.vies { display: inline-flex; gap: 6px; }
+.vies i { width: 14px; height: 14px; border-radius: 50%; background: var(--fond-3); }
+.vies i.on { background: #d9534f; }
+#solo-jeu .carte { margin-bottom: 16px; }
+
+.solo-fin { text-align: center; }
+.solo-config-rappel { color: var(--texte-doux); font-size: .9rem; margin: 0; }
+.solo-total { font-size: 1.2rem; margin: 6px 0 2px; }
+.solo-total b { display: block; font-size: 4rem; line-height: 1; color: var(--accent); font-variant-numeric: tabular-nums; }
+.solo-record { margin: 6px 0 0; color: var(--texte-doux); }
+.solo-record.nouveau { color: var(--accent); font-weight: 700; }
+.barres { list-style: none; padding: 0; margin: 18px 0 8px; display: grid; gap: 8px; text-align: left; }
+.barres li { display: grid; grid-template-columns: 9.5em 1fr 3em; gap: 10px; align-items: center; font-size: .9rem; }
+.barre-fond { height: 10px; border-radius: 999px; background: var(--fond-3); overflow: hidden; }
+.barre-val { display: block; height: 100%; border-radius: 999px; background: var(--c); }
+.barre-chiffre { text-align: right; color: var(--texte-doux); font-variant-numeric: tabular-nums; }
+.ratees { margin-top: 12px; }
 
 /* ---------- Parcourir ---------- */
 .filtres { display: grid; grid-template-columns: 1fr; gap: 8px; }

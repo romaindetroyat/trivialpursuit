@@ -1,0 +1,597 @@
+[
+ {
+  "id": "his_e_4-001",
+  "q": "Comment appelait-on les nobles et les prêtres qui quittèrent la France pour fuir la Révolution ?",
+  "r": "Les émigrés",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-002",
+  "q": "Quel service de courrier à cheval relia le Missouri à la Californie en 1860-1861 ?",
+  "r": "Le Pony Express",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_4-003",
+  "q": "Quel explorateur britannique disparut avec l'Erebus et le Terror en cherchant le passage du Nord-Ouest ?",
+  "r": "John Franklin",
+  "d": 3,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_4-004",
+  "q": "De quel royaume allemand Jérôme, le plus jeune frère de Napoléon, fut-il roi ?",
+  "r": "La Westphalie",
+  "d": 3,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-005",
+  "q": "Quel chef chouan fut guillotiné en 1804 après un complot contre Bonaparte ?",
+  "r": "Georges Cadoudal",
+  "d": 3,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-006",
+  "q": "Quel pacha d'origine albanaise modernisa l'Égypte dans la première moitié du XIXe siècle ?",
+  "r": "Méhémet Ali",
+  "d": 3,
+  "t": "Afrique"
+ },
+ {
+  "id": "his_e_4-007",
+  "q": "Quelle victoire de Bonaparte en 1800, remportée de justesse en Piémont, a donné son nom à une recette de poulet ?",
+  "r": "Marengo",
+  "d": 1,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_4-008",
+  "q": "Quel prince de 21 ans battit l'infanterie espagnole à Rocroi en 1643 ?",
+  "r": "Le Grand Condé (duc d'Enghien)",
+  "d": 2,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_4-009",
+  "q": "En quelle année le 14 Juillet devint-il fête nationale en France ?",
+  "r": "1880",
+  "d": 2,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_4-010",
+  "q": "Quel nom portaient les possessions françaises d'Amérique du Nord sous l'Ancien Régime ?",
+  "r": "La Nouvelle-France",
+  "d": 1,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_4-011",
+  "q": "Quel général de la Garde impériale aurait lancé un juron resté célèbre à Waterloo ?",
+  "r": "Cambronne",
+  "d": 1,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_4-012",
+  "q": "Comment appelle-t-on la nuit de 1520 où les Espagnols de Cortés durent fuir Tenochtitlan ?",
+  "r": "La Noche Triste",
+  "d": 3,
+  "t": "Conquistadors"
+ },
+ {
+  "id": "his_e_4-013",
+  "q": "Quel orfèvre de Boston chevaucha de nuit en 1775 pour prévenir de l'arrivée des Britanniques ?",
+  "r": "Paul Revere",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_4-014",
+  "q": "Quel maréchal aurait déclaré « J'y suis, j'y reste » à Malakoff en 1855, avant de présider la République ?",
+  "r": "Mac Mahon",
+  "d": 2,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_4-015",
+  "q": "Quel ordre des États généraux regroupait tous ceux qui n'étaient ni nobles ni membres du clergé ?",
+  "r": "Le tiers état",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-016",
+  "q": "Quel officier découvrit que le véritable auteur du bordereau de l'affaire Dreyfus était Esterhazy ?",
+  "r": "Georges Picquart",
+  "d": 3,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_4-017",
+  "q": "Quel sobriquet, nom supposé du maçon dont il emprunta l'identité pour s'évader du fort de Ham, fut donné à Napoléon III ?",
+  "r": "Badinguet",
+  "d": 2,
+  "t": "Second Empire"
+ },
+ {
+  "id": "his_e_4-018",
+  "q": "Quel palais d'Istanbul fut la résidence des sultans ottomans jusqu'au milieu du XIXe siècle ?",
+  "r": "Topkapi",
+  "d": 2,
+  "t": "Empire ottoman"
+ },
+ {
+  "id": "his_e_4-019",
+  "q": "En quelle année le Canada devint-il une confédération ?",
+  "r": "1867",
+  "d": 2,
+  "t": "Dates"
+ },
+ {
+  "id": "his_e_4-020",
+  "q": "Quel chapeau à deux pointes est indissociable de la silhouette de Napoléon ?",
+  "r": "Le bicorne",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-021",
+  "q": "Quelle figure féminine dessinée par Oscar Roty orna les pièces de monnaie françaises à partir de la fin du XIXe siècle ?",
+  "r": "La Semeuse",
+  "d": 2,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_4-022",
+  "q": "Quel vêtement doit son nom au lord qui mena la charge de la brigade légère à Balaklava en 1854 ?",
+  "r": "Le cardigan",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_4-023",
+  "q": "Quel fournisseur des armées du Second Empire a donné son nom à un gros soulier ?",
+  "r": "Alexis Godillot",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_4-024",
+  "q": "Sur quelle île de Guyane le capitaine Dreyfus fut-il déporté ?",
+  "r": "L'île du Diable",
+  "d": 2,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_4-025",
+  "q": "Quel empire était surnommé « l'homme malade de l'Europe » au XIXe siècle ?",
+  "r": "L'Empire ottoman",
+  "d": 1,
+  "t": "Empire ottoman"
+ },
+ {
+  "id": "his_e_4-026",
+  "q": "Quelle danseuse aventurière provoqua l'abdication du roi Louis Ier de Bavière en 1848 ?",
+  "r": "Lola Montez",
+  "d": 3,
+  "t": "Favorites"
+ },
+ {
+  "id": "his_e_4-027",
+  "q": "Quel mot d'architecture, désignant un comble brisé, vient du nom de l'architecte François Mansart ?",
+  "r": "La mansarde",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_4-028",
+  "q": "Quel fils de Louis-Philippe s'empara de la smala d'Abd el-Kader en 1843 ?",
+  "r": "Le duc d'Aumale",
+  "d": 3,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_4-029",
+  "q": "Quel amiral français fut battu à Trafalgar en 1805 ?",
+  "r": "Pierre de Villeneuve",
+  "d": 3,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_4-030",
+  "q": "Quel cartographe allemand employa le premier le nom « America » sur une carte, en 1507 ?",
+  "r": "Martin Waldseemüller",
+  "d": 3,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_4-031",
+  "q": "Quelle sculptrice sur cire, qui modela des têtes de guillotinés, ouvrit ensuite un célèbre musée à Londres ?",
+  "r": "Marie Tussaud",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "his_e_4-032",
+  "q": "Quel fils de Louis XVI mourut en 1795 à la prison du Temple ?",
+  "r": "Louis XVII",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-033",
+  "q": "Quelle bande d'anarchistes, surnommée « les bandits en automobile », terrorisa la région parisienne en 1911-1912 ?",
+  "r": "La bande à Bonnot",
+  "d": 1,
+  "t": "IIIe République"
+ },
+ {
+  "id": "his_e_4-034",
+  "q": "Quel comité, dominé par Robespierre, exerça l'essentiel du pouvoir pendant la Terreur ?",
+  "r": "Le Comité de salut public",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-035",
+  "q": "Quelle abbaye, foyer du jansénisme, fut détruite sur ordre de Louis XIV au début du XVIIIe siècle ?",
+  "r": "Port-Royal des Champs",
+  "d": 3,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_4-036",
+  "q": "Quel titre portait le fils aîné du roi de France, héritier du trône ?",
+  "r": "Le dauphin",
+  "d": 1,
+  "t": "Ancien Régime"
+ },
+ {
+  "id": "his_e_4-037",
+  "q": "Quel journal révolutionnaire au langage ordurier était publié par Jacques-René Hébert ?",
+  "r": "Le Père Duchesne",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-038",
+  "q": "Quel conflit opposa de 1861 à 1865 le Nord et le Sud des États-Unis ?",
+  "r": "La guerre de Sécession",
+  "d": 1,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_4-039",
+  "q": "Comment appelle-t-on le rapatriement de la dépouille de Napoléon à Paris en 1840 ?",
+  "r": "Le retour des cendres",
+  "d": 2,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-040",
+  "q": "Quelle militante britannique fonda en 1903 l'Union sociale et politique des femmes (WSPU) ?",
+  "r": "Emmeline Pankhurst",
+  "d": 2,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_4-041",
+  "q": "Quelle loi de septembre 1793 permit d'arrêter tous les ennemis présumés de la Révolution ?",
+  "r": "La loi des suspects",
+  "d": 2,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-042",
+  "q": "Quelle volaille, rapportée d'Amérique au XVIe siècle, doit son nom français à une confusion avec les Indes ?",
+  "r": "La dinde",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_4-043",
+  "q": "Quel papier-monnaie émis sous la Révolution finit par perdre presque toute sa valeur ?",
+  "r": "Les assignats",
+  "d": 1,
+  "t": "Révolution française"
+ },
+ {
+  "id": "his_e_4-044",
+  "q": "Quelle cousine de Louis XIV fit tirer le canon de la Bastille sur l'armée royale en 1652 ?",
+  "r": "La Grande Mademoiselle",
+  "d": 3,
+  "t": "Fronde"
+ },
+ {
+  "id": "his_e_4-045",
+  "q": "Quel pays actuel correspond aux Provinces-Unies, qui se soulevèrent contre l'Espagne au XVIe siècle ?",
+  "r": "Les Pays-Bas",
+  "d": 1,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_4-046",
+  "q": "Quelle unité de longueur, définie à partir du méridien terrestre, fut adoptée sous la Révolution ?",
+  "r": "Le mètre",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "id": "his_e_4-047",
+  "q": "Quelle enceinte fiscale des années 1780 inspira le vers « Le mur murant Paris rend Paris murmurant » ?",
+  "r": "Le mur des Fermiers généraux",
+  "d": 3,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_e_4-048",
+  "q": "Quel titre, dérivé du latin « Caesar », portait l'empereur de Russie ?",
+  "r": "Le tsar",
+  "d": 1,
+  "t": "Russie"
+ },
+ {
+  "id": "his_e_4-049",
+  "q": "Dans quelle ville de Saxe Luther rendit-il publiques ses 95 thèses en 1517 ?",
+  "r": "Wittenberg",
+  "d": 1,
+  "t": "Réforme"
+ },
+ {
+  "id": "his_e_4-050",
+  "q": "Quel oiseau, emblème impérial, surmontait les drapeaux des régiments de Napoléon ?",
+  "r": "L'aigle",
+  "d": 1,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-051",
+  "q": "Quelle colonne parisienne, fondue avec le bronze de canons pris à Austerlitz, fut abattue sous la Commune ?",
+  "r": "La colonne Vendôme",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "id": "his_e_4-052",
+  "q": "Quel verbe vient de la ville où Joffre relégua en 1914 des généraux jugés incapables ?",
+  "r": "Limoger",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_4-053",
+  "q": "Comment surnommait-on les volontaires de Garibaldi, d'après la couleur de leur tenue ?",
+  "r": "Les Chemises rouges",
+  "d": 1,
+  "t": "Italie"
+ },
+ {
+  "id": "his_e_4-054",
+  "q": "Comment appelle-t-on le drapeau noir à tête de mort des pirates ?",
+  "r": "Le Jolly Roger",
+  "d": 2,
+  "t": "Pirates"
+ },
+ {
+  "id": "his_e_4-055",
+  "q": "Comment appelle-t-on le régime de Louis-Philippe, issu des journées révolutionnaires de 1830 ?",
+  "r": "La monarchie de Juillet",
+  "d": 1,
+  "t": "XIXe siècle"
+ },
+ {
+  "id": "his_e_4-056",
+  "q": "Quel frère aîné de Napoléon devint roi d'Espagne en 1808 ?",
+  "r": "Joseph Bonaparte",
+  "d": 2,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-057",
+  "q": "Quelle compagnie commerciale britannique gouverna une grande partie de l'Inde jusqu'en 1858 ?",
+  "r": "La Compagnie des Indes orientales",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_4-058",
+  "q": "Quel navigateur anglais, abandonné par son équipage révolté en 1611, a donné son nom à une baie du Canada ?",
+  "r": "Henry Hudson",
+  "d": 2,
+  "t": "Explorateurs"
+ },
+ {
+  "id": "his_e_4-059",
+  "q": "Quelle région du sud du Viêt Nam fut la première colonie française d'Indochine ?",
+  "r": "La Cochinchine",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_4-060",
+  "q": "Quel port d'Asie du Sud-Est fut fondé en 1819 par le Britannique Stamford Raffles ?",
+  "r": "Singapour",
+  "d": 2,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_4-061",
+  "q": "Quel amiral protestant fut la principale cible des assassins lors de la Saint-Barthélemy ?",
+  "r": "Gaspard de Coligny",
+  "d": 2,
+  "t": "Guerres de Religion"
+ },
+ {
+  "id": "his_e_4-062",
+  "q": "Quels végétaux plantait-on sur les places des villages en signe d'adhésion à la Révolution ?",
+  "r": "Les arbres de la liberté",
+  "d": 2,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_4-063",
+  "q": "Dans quel quartier de Londres Jack l'Éventreur sévit-il en 1888 ?",
+  "r": "Whitechapel",
+  "d": 2,
+  "t": "Angleterre"
+ },
+ {
+  "id": "his_e_4-064",
+  "q": "Quel empereur d'Autriche régna pendant 68 ans, de 1848 à 1916 ?",
+  "r": "François-Joseph",
+  "d": 1,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_4-065",
+  "q": "Quelle institution François Ier fonda-t-il en 1530 sous le nom de « lecteurs royaux » ?",
+  "r": "Le Collège de France",
+  "d": 2,
+  "t": "Renaissance"
+ },
+ {
+  "id": "his_e_4-066",
+  "q": "Quelle bataille de juillet 1809, livrée près de Vienne, vit Napoléon battre l'archiduc Charles ?",
+  "r": "Wagram",
+  "d": 2,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_4-067",
+  "q": "Quel contrôleur général des Finances convoqua l'assemblée des notables en 1787 ?",
+  "r": "Charles-Alexandre de Calonne",
+  "d": 3,
+  "t": "Ministres"
+ },
+ {
+  "id": "his_e_4-068",
+  "q": "Quel roi de Prusse fut proclamé empereur allemand en 1871 ?",
+  "r": "Guillaume Ier",
+  "d": 2,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_4-069",
+  "q": "Quel royaume, gouverné par les Hohenzollern, fut le moteur de l'unification allemande au XIXe siècle ?",
+  "r": "La Prusse",
+  "d": 1,
+  "t": "Europe"
+ },
+ {
+  "id": "his_e_4-070",
+  "q": "Quel couvre-chef rouge, symbole de liberté, coiffe Marianne ?",
+  "r": "Le bonnet phrygien",
+  "d": 1,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_4-071",
+  "q": "Quel pape de la famille Borgia, père de César et de Lucrèce, régna de 1492 à 1503 ?",
+  "r": "Alexandre VI",
+  "d": 2,
+  "t": "Italie"
+ },
+ {
+  "id": "his_e_4-072",
+  "q": "Quel édifice parisien Louis XIV fit-il construire pour accueillir les vieux soldats et les blessés de guerre ?",
+  "r": "Les Invalides",
+  "d": 1,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_4-073",
+  "q": "Quel descendant de Tamerlan fonda l'Empire moghol en 1526 ?",
+  "r": "Babur",
+  "d": 3,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_4-074",
+  "q": "Quel maréchal de Napoléon devint roi de Suède sous le nom de Charles XIV Jean ?",
+  "r": "Jean-Baptiste Bernadotte",
+  "d": 2,
+  "t": "Napoléon"
+ },
+ {
+  "id": "his_e_4-075",
+  "q": "Quel officier gascon, immortalisé par Dumas, arrêta Nicolas Fouquet à Nantes en 1661 ?",
+  "r": "D'Artagnan",
+  "d": 1,
+  "t": "Grand Siècle"
+ },
+ {
+  "id": "his_e_4-076",
+  "q": "Quelle île au nord de Saint-Domingue fut un repaire de flibustiers au XVIIe siècle ?",
+  "r": "L'île de la Tortue",
+  "d": 2,
+  "t": "Pirates"
+ },
+ {
+  "id": "his_e_4-077",
+  "q": "Quelle maladie, apportée par les conquistadors, décima les Aztèques dès 1520 ?",
+  "r": "La variole",
+  "d": 1,
+  "t": "Conquistadors"
+ },
+ {
+  "id": "his_e_4-078",
+  "q": "Combien de rônin vengèrent leur maître dans la célèbre histoire japonaise du début du XVIIIe siècle ?",
+  "r": "47",
+  "d": 2,
+  "t": "Asie"
+ },
+ {
+  "id": "his_e_4-079",
+  "q": "Quelle sauce porterait le nom d'un maître d'hôtel de Louis XIV ?",
+  "r": "La béchamel",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_4-080",
+  "q": "Quel duc britannique commandait les troupes alliées à Waterloo ?",
+  "r": "Wellington",
+  "d": 1,
+  "t": "Batailles"
+ },
+ {
+  "id": "his_e_4-081",
+  "q": "Quelle expression, née d'un duel de 1547 livré devant Henri II, désigne un coup décisif et inattendu ?",
+  "r": "Le coup de Jarnac",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_e_4-082",
+  "q": "Quel shérif abattit Billy the Kid en 1881 ?",
+  "r": "Pat Garrett",
+  "d": 3,
+  "t": "Amériques"
+ },
+ {
+  "id": "his_e_4-083",
+  "q": "Qui rétablit l'esclavage dans les colonies françaises en 1802 ?",
+  "r": "Napoléon Bonaparte",
+  "d": 2,
+  "t": "Colonies"
+ },
+ {
+  "id": "his_e_4-084",
+  "q": "Quel prénom féminin désigne l'allégorie de la République française ?",
+  "r": "Marianne",
+  "d": 1,
+  "t": "Symboles de la République"
+ },
+ {
+  "id": "his_e_4-085",
+  "q": "Quel nom Magellan donna-t-il à l'océan qu'il découvrit calme en 1520 ?",
+  "r": "Pacifique",
+  "d": 1,
+  "t": "Explorateurs"
+ }
+]

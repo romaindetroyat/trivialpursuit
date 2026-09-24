@@ -1,0 +1,597 @@
+[
+ {
+  "id": "div_d_2-001",
+  "q": "Quelle actrice française a reçu en 1960 l'Oscar de la meilleure actrice pour « Les Chemins de la haute ville » ?",
+  "r": "Simone Signoret",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_2-002",
+  "q": "Dans « Mary Poppins » (1964), quel ramoneur est incarné par Dick Van Dyke ?",
+  "r": "Bert",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_2-003",
+  "q": "Quel panda gourmand, héros d'un film DreamWorks de 2008, devient le Guerrier Dragon ?",
+  "r": "Po",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-004",
+  "q": "Comment s'appelle la mère du futur chef de la résistance, cible du cyborg dans « Terminator » (1984) ?",
+  "r": "Sarah Connor",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_2-005",
+  "q": "Quel acteur incarne Philippe Abrams, directeur de poste muté dans le Nord, dans « Bienvenue chez les Ch'tis » (2008) ?",
+  "r": "Kad Merad",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-006",
+  "q": "Quel cinéaste a levé le poing en recevant la Palme d'or 1987 sous les sifflets : « Si vous ne m'aimez pas, je ne vous aime pas non plus » ?",
+  "r": "Maurice Pialat",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "id": "div_d_2-007",
+  "q": "Quel acteur espagnol a reçu l'Oscar du meilleur second rôle en 2008 pour son rôle de tueur dans « No Country for Old Men » ?",
+  "r": "Javier Bardem",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_2-008",
+  "q": "Quel est le tout premier film de la saga James Bond, sorti en 1962 ?",
+  "r": "James Bond 007 contre Dr No",
+  "d": 1,
+  "t": "James Bond"
+ },
+ {
+  "id": "div_d_2-009",
+  "q": "Quel acteur danse le twist avec Uma Thurman dans « Pulp Fiction » (1994) ?",
+  "r": "John Travolta",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_2-010",
+  "q": "Quel cinéaste, spécialiste du polar, a réalisé « L'Armée des ombres » (1969) et « Le Cercle rouge » (1970) ?",
+  "r": "Jean-Pierre Melville",
+  "d": 3,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-011",
+  "q": "Quel film de Francis Ford Coppola sur la guerre du Viêt Nam a partagé la Palme d'or en 1979 ?",
+  "r": "Apocalypse Now",
+  "d": 2,
+  "t": "Festival de Cannes"
+ },
+ {
+  "id": "div_d_2-012",
+  "q": "Quel film de Stanley Kubrick (1975) contient des scènes éclairées à la seule bougie grâce à des objectifs conçus pour la NASA ?",
+  "r": "Barry Lyndon",
+  "d": 3,
+  "t": "Techniques"
+ },
+ {
+  "id": "div_d_2-013",
+  "q": "Quel film de Steven Spielberg (1998) s'ouvre sur le débarquement à Omaha Beach ?",
+  "r": "Il faut sauver le soldat Ryan",
+  "d": 1,
+  "t": "Films historiques"
+ },
+ {
+  "id": "div_d_2-014",
+  "q": "Quel duo de cinéastes a écrit et réalisé « Intouchables » (2011) ?",
+  "r": "Éric Toledano et Olivier Nakache",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-015",
+  "q": "Comment appelle-t-on la personne qui double un acteur dans les scènes dangereuses ?",
+  "r": "Un cascadeur",
+  "d": 1,
+  "t": "Métiers du cinéma"
+ },
+ {
+  "id": "div_d_2-016",
+  "q": "Quel film de Martin Scorsese, récompensé par l'Oscar du meilleur film en 2007, est le remake du hongkongais « Infernal Affairs » ?",
+  "r": "Les Infiltrés",
+  "d": 3,
+  "t": "Remakes"
+ },
+ {
+  "id": "div_d_2-017",
+  "q": "Quelle actrice a reçu l'Oscar de la meilleure actrice pour « Fargo », « 3 Billboards » et « Nomadland » ?",
+  "r": "Frances McDormand",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_2-018",
+  "q": "Quel acteur incarne Ugolin, le neveu du Papet, dans « Jean de Florette » (1986) ?",
+  "r": "Daniel Auteuil",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_2-019",
+  "q": "Quel cinéaste a réalisé « Napoléon » (1927), célèbre pour sa projection finale sur trois écrans ?",
+  "r": "Abel Gance",
+  "d": 3,
+  "t": "Cinéma muet"
+ },
+ {
+  "id": "div_d_2-020",
+  "q": "Quel film du Québécois Denys Arcand a reçu l'Oscar du meilleur film en langue étrangère en 2004 ?",
+  "r": "Les Invasions barbares",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_2-021",
+  "q": "Quelle actrice est devenue en 2010 la première à recevoir un cinquième César de la meilleure actrice ?",
+  "r": "Isabelle Adjani",
+  "d": 2,
+  "t": "César"
+ },
+ {
+  "id": "div_d_2-022",
+  "q": "Comment Hitchcock appelait-il l'objet-prétexte qui fait avancer l'intrigue sans avoir d'importance réelle ?",
+  "r": "Le MacGuffin",
+  "d": 3,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_2-023",
+  "q": "Quel film allemand de 1998 montre une jeune femme aux cheveux rouges courant pour sauver son petit ami en vingt minutes ?",
+  "r": "Cours, Lola, cours",
+  "d": 3,
+  "t": "Cinéma européen"
+ },
+ {
+  "id": "div_d_2-024",
+  "q": "Quelle Française, secrétaire chez Gaumont, est considérée comme la première femme réalisatrice de l'histoire ?",
+  "r": "Alice Guy",
+  "d": 3,
+  "t": "Origines du cinéma"
+ },
+ {
+  "id": "div_d_2-025",
+  "q": "Quel animal rugit dans le générique d'ouverture des films de la Metro-Goldwyn-Mayer ?",
+  "r": "Un lion",
+  "d": 1,
+  "t": "Histoire du cinéma"
+ },
+ {
+  "id": "div_d_2-026",
+  "q": "Quel cinéaste, fils du dialoguiste Michel Audiard, a réalisé « Un prophète » (2009) ?",
+  "r": "Jacques Audiard",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-027",
+  "q": "Quel cinéaste suédois a remporté la Palme d'or en 2017 pour « The Square » puis en 2022 pour « Sans filtre » ?",
+  "r": "Ruben Östlund",
+  "d": 3,
+  "t": "Festival de Cannes"
+ },
+ {
+  "id": "div_d_2-028",
+  "q": "Sur quelle île, alors appelée Ceylan, a été tourné « Le Pont de la rivière Kwaï » (1957) ?",
+  "r": "Sri Lanka",
+  "d": 3,
+  "t": "Lieux de tournage"
+ },
+ {
+  "id": "div_d_2-029",
+  "q": "Quel compositeur grec a signé la musique des « Chariots de feu » (1981) et de « Blade Runner » (1982) ?",
+  "r": "Vangelis",
+  "d": 2,
+  "t": "Musiques de films"
+ },
+ {
+  "id": "div_d_2-030",
+  "q": "Quel objet Amélie Poulain fait-elle voyager autour du monde pour inciter son père à partir en voyage ?",
+  "r": "Un nain de jardin",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_2-031",
+  "q": "Quel acteur incarne George Bailey, sauvé du désespoir par un ange, dans « La vie est belle » (1946) de Frank Capra ?",
+  "r": "James Stewart",
+  "d": 2,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "id": "div_d_2-032",
+  "q": "Quel acteur indien, surnommé « King Khan », est l'une des plus grandes stars de Bollywood ?",
+  "r": "Shah Rukh Khan",
+  "d": 2,
+  "t": "Cinéma asiatique"
+ },
+ {
+  "id": "div_d_2-033",
+  "q": "Comment appelle-t-on un acteur qui apparaît à l'arrière-plan sans prononcer un mot ?",
+  "r": "Un figurant",
+  "d": 1,
+  "t": "Métiers du cinéma"
+ },
+ {
+  "id": "div_d_2-034",
+  "q": "Comment s'appelle la voiture de course rouge, héroïne de « Cars » (2006) ?",
+  "r": "Flash McQueen",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-035",
+  "q": "Quelle actrice incarne la mystérieuse Madeleine dans « Sueurs froides » (1958) d'Alfred Hitchcock ?",
+  "r": "Kim Novak",
+  "d": 3,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "id": "div_d_2-036",
+  "q": "Dans quelle ville se déroule « La Cité de la peur » (1994), pendant son célèbre festival de cinéma ?",
+  "r": "Cannes",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-037",
+  "q": "Quel animal marin Forrest Gump pêche-t-il pour faire fortune avec son bateau ?",
+  "r": "Des crevettes",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_2-038",
+  "q": "Quelle danse Serge Karamazov et Odile Deray exécutent-ils dans « La Cité de la peur » (1994) ?",
+  "r": "La Carioca",
+  "d": 2,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-039",
+  "q": "Quel site antique de Jordanie sert de décor au final d'« Indiana Jones et la Dernière Croisade » (1989) ?",
+  "r": "Pétra",
+  "d": 2,
+  "t": "Lieux de tournage"
+ },
+ {
+  "id": "div_d_2-040",
+  "q": "Quelle cinéaste est devenue en 2010 la première femme à recevoir l'Oscar de la meilleure réalisation, pour « Démineurs » ?",
+  "r": "Kathryn Bigelow",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_2-041",
+  "q": "Quel célibataire malchanceux, joué par Michel Blanc, lance « Oublie que t'as aucune chance, vas-y, fonce ! » dans « Les Bronzés » ?",
+  "r": "Jean-Claude Dusse",
+  "d": 1,
+  "t": "Répliques cultes"
+ },
+ {
+  "id": "div_d_2-042",
+  "q": "Quelle actrice retire un long gant noir en chantant « Put the Blame on Mame » dans « Gilda » (1946) ?",
+  "r": "Rita Hayworth",
+  "d": 3,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "id": "div_d_2-043",
+  "q": "Quel monument à moitié enseveli Charlton Heston découvre-t-il à la fin de « La Planète des singes » (1968) ?",
+  "r": "La statue de la Liberté",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "id": "div_d_2-044",
+  "q": "Quel cinéaste a tourné « C'était un rendez-vous » (1976), traversée de Paris à toute allure à l'aube ?",
+  "r": "Claude Lelouch",
+  "d": 3,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-045",
+  "q": "Quelles friandises bulgares, « roulées sous les aisselles », M. Preskovitch apporte-t-il dans « Le Père Noël est une ordure » ?",
+  "r": "Des doubitchous",
+  "d": 2,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-046",
+  "q": "Quel cinéaste britannique a reçu la Palme d'or pour « Le vent se lève » (2006) et « Moi, Daniel Blake » (2016) ?",
+  "r": "Ken Loach",
+  "d": 2,
+  "t": "Festival de Cannes"
+ },
+ {
+  "id": "div_d_2-047",
+  "q": "Quel Wookiee est le fidèle copilote du Faucon Millenium ?",
+  "r": "Chewbacca",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "id": "div_d_2-048",
+  "q": "Dans « Blanche-Neige et les Sept Nains », quel objet révèle à la reine qui est la plus belle ?",
+  "r": "Le miroir magique",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-049",
+  "q": "Quel studio d'animation, dont la lampe de bureau Luxo Jr. est la mascotte, a produit « Toy Story » ?",
+  "r": "Pixar",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-050",
+  "q": "Quel écrivain et cinéaste a réalisé « La Femme du boulanger » (1938) ?",
+  "r": "Marcel Pagnol",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-051",
+  "q": "Quels frères cinéastes américains ont réalisé « Fargo » (1996) et « The Big Lebowski » (1998) ?",
+  "r": "Les frères Coen",
+  "d": 1,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-052",
+  "q": "Sur quel escalier monumental se déroule la célèbre scène de massacre du « Cuirassé Potemkine » (1925) ?",
+  "r": "L'escalier d'Odessa",
+  "d": 2,
+  "t": "Cinéma muet"
+ },
+ {
+  "id": "div_d_2-053",
+  "q": "Dans « Toy Story », comment s'appelle le petit garçon propriétaire de Woody et de Buzz ?",
+  "r": "Andy",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-054",
+  "q": "Comment appelle-t-on la personne chargée de sélectionner les acteurs d'un film ?",
+  "r": "Le directeur de casting",
+  "d": 1,
+  "t": "Métiers du cinéma"
+ },
+ {
+  "id": "div_d_2-055",
+  "q": "Quelle phrase unique l'arbre Groot répète-t-il dans la version française des « Gardiens de la Galaxie » ?",
+  "r": "« Je s'appelle Groot »",
+  "d": 2,
+  "t": "Super-héros"
+ },
+ {
+  "id": "div_d_2-056",
+  "q": "Comment appelle-t-on la suite de dessins qui découpe le scénario plan par plan, à la manière d'une bande dessinée ?",
+  "r": "Le storyboard",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_2-057",
+  "q": "Quel romancier est l'auteur de « Carrie », « Shining » et « Ça », tous adaptés au cinéma ?",
+  "r": "Stephen King",
+  "d": 1,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_2-058",
+  "q": "Quel acteur égyptien tient le rôle-titre du « Docteur Jivago » (1965) ?",
+  "r": "Omar Sharif",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_2-059",
+  "q": "Quelle actrice française incarne Vesper Lynd dans « Casino Royale » (2006) ?",
+  "r": "Eva Green",
+  "d": 2,
+  "t": "James Bond"
+ },
+ {
+  "id": "div_d_2-060",
+  "q": "Quel acteur américain incarne Luke Skywalker dans la trilogie originale de « Star Wars » ?",
+  "r": "Mark Hamill",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "id": "div_d_2-061",
+  "q": "Quel acteur incarne Moïse dans « Les Dix Commandements » (1956) de Cecil B. DeMille ?",
+  "r": "Charlton Heston",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_2-062",
+  "q": "Quel film de Steven Soderbergh (2001), avec George Clooney, est le remake d'un film de braquage de 1960 porté par Frank Sinatra ?",
+  "r": "Ocean's Eleven",
+  "d": 2,
+  "t": "Remakes"
+ },
+ {
+  "id": "div_d_2-063",
+  "q": "Quel personnage de Patricia Highsmith Alain Delon est-il le premier à incarner au cinéma, dans « Plein soleil » (1960) ?",
+  "r": "Tom Ripley",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_2-064",
+  "q": "Quel acteur belge, champion de karaté surnommé « the Muscles from Brussels », a fait carrière à Hollywood ?",
+  "r": "Jean-Claude Van Damme",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_2-065",
+  "q": "Quel cinéaste américain a réalisé « Seven » (1995) et « Fight Club » (1999) ?",
+  "r": "David Fincher",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-066",
+  "q": "Quel film musical de 1952 raconte le passage du muet au parlant, avec Gene Kelly dansant sous une averse ?",
+  "r": "Chantons sous la pluie",
+  "d": 1,
+  "t": "Films musicaux"
+ },
+ {
+  "id": "div_d_2-067",
+  "q": "Quel acteur lance « Moi, j'ai dit bizarre ? Comme c'est étrange… » à Michel Simon dans « Drôle de drame » (1937) ?",
+  "r": "Louis Jouvet",
+  "d": 3,
+  "t": "Répliques cultes"
+ },
+ {
+  "id": "div_d_2-068",
+  "q": "Quel film d'animation de René Laloux (1973) oppose les géants Draags aux minuscules Oms ?",
+  "r": "La Planète sauvage",
+  "d": 3,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-069",
+  "q": "De quelle pièce de Victor Hugo « La Folie des grandeurs » (1971), avec de Funès et Montand, est-elle une parodie ?",
+  "r": "Ruy Blas",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_2-070",
+  "q": "Quel cinéaste a réalisé « Certains l'aiment chaud » (1959), avec Marilyn Monroe, Tony Curtis et Jack Lemmon ?",
+  "r": "Billy Wilder",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_2-071",
+  "q": "Quel acteur incarne Otis, le scribe philosophe d'« Astérix et Obélix : Mission Cléopâtre » (2002) ?",
+  "r": "Édouard Baer",
+  "d": 2,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-072",
+  "q": "Quel surfeur sans vagues, incarné par Jean Dujardin, « casse » tout le monde dans une comédie de 2005 ?",
+  "r": "Brice de Nice",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-073",
+  "q": "Dans quelle ville autrichienne se déroule « La Mélodie du bonheur » (1965) ?",
+  "r": "Salzbourg",
+  "d": 2,
+  "t": "Lieux de tournage"
+ },
+ {
+  "id": "div_d_2-074",
+  "q": "Quel mot formaient à l'origine, en 1923, les grandes lettres blanches dominant les collines de Los Angeles ?",
+  "r": "Hollywoodland",
+  "d": 2,
+  "t": "Histoire du cinéma"
+ },
+ {
+  "id": "div_d_2-075",
+  "q": "Comment s'appelle l'industriel de la malbouffe que combat Charles Duchemin dans « L'Aile ou la Cuisse » (1976) ?",
+  "r": "Jacques Tricatel",
+  "d": 3,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-076",
+  "q": "Quel illusionniste, propriétaire du théâtre Robert-Houdin, est considéré comme le père des effets spéciaux au cinéma ?",
+  "r": "Georges Méliès",
+  "d": 1,
+  "t": "Origines du cinéma"
+ },
+ {
+  "id": "div_d_2-077",
+  "q": "Quelle récompense suprême décerne le Festival international du film de Berlin ?",
+  "r": "L'Ours d'or",
+  "d": 1,
+  "t": "Salles et festivals"
+ },
+ {
+  "id": "div_d_2-078",
+  "q": "Quelle actrice suisse sort de l'eau en bikini blanc dans « James Bond 007 contre Dr No » (1962) ?",
+  "r": "Ursula Andress",
+  "d": 2,
+  "t": "James Bond"
+ },
+ {
+  "id": "div_d_2-079",
+  "q": "Dans « Dirty Dancing », quel surnom porte Frances, l'héroïne incarnée par Jennifer Grey ?",
+  "r": "Bébé",
+  "d": 2,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_2-080",
+  "q": "Dans « Les Visiteurs », comment s'appelle l'écuyer crasseux joué par Christian Clavier ?",
+  "r": "Jacquouille la Fripouille",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_2-081",
+  "q": "Quel écureuil préhistorique poursuit sans fin son gland dans « L'Âge de glace » (2002) ?",
+  "r": "Scrat",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_2-082",
+  "q": "Quelle ville de Haute-Savoie accueille depuis 1960 un grand festival international du film d'animation ?",
+  "r": "Annecy",
+  "d": 1,
+  "t": "Salles et festivals"
+ },
+ {
+  "id": "div_d_2-083",
+  "q": "Quel compagnon de Dorothy, dans « Le Magicien d'Oz », rêve d'avoir un cerveau ?",
+  "r": "L'Épouvantail",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_2-084",
+  "q": "Quelle actrice incarne la redoutable rédactrice en chef Miranda Priestly dans « Le diable s'habille en Prada » (2006) ?",
+  "r": "Meryl Streep",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_2-085",
+  "q": "Quel comédien a été pendant plus de trente ans la voix française de Bruce Willis ?",
+  "r": "Patrick Poivey",
+  "d": 3,
+  "t": "Doublage"
+ }
+]

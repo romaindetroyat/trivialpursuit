@@ -1,0 +1,597 @@
+[
+ {
+  "id": "geo_e_2-001",
+  "q": "Quel archipel artificiel en forme de palmier a été construit au large de Dubaï au début des années 2000 ?",
+  "r": "Palm Jumeirah",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-002",
+  "q": "Quelle ville allemande, rasée par les bombardements de 1945, a vu sa Frauenkirche reconstruite en 2005 ?",
+  "r": "Dresde",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-003",
+  "q": "Quelle région industrielle de l'ouest de l'Allemagne, autour d'Essen et Dortmund, porte le nom d'une rivière ?",
+  "r": "La Ruhr",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-004",
+  "q": "Quelle région du sud-ouest de l'Éthiopie aurait donné son nom au café ?",
+  "r": "Le Kaffa",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_2-005",
+  "q": "Quel plat national du Sénégal associe du riz, du poisson et des légumes ?",
+  "r": "Le thiéboudiène",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_2-006",
+  "q": "Quelle région d'Italie centrale sans accès à la mer, surnommée le « cœur vert de l'Italie », a pour capitale Pérouse ?",
+  "r": "L'Ombrie",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-007",
+  "q": "Quel est le principal fleuve de Tunisie, qui se jette dans le golfe de Tunis ?",
+  "r": "La Medjerda",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_2-008",
+  "q": "Quelle grande fête de la bière se tient chaque année à Munich, de fin septembre à début octobre ?",
+  "r": "L'Oktoberfest",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_2-009",
+  "q": "Quel mausolée de l'empereur Hadrien, à Rome, est devenu une forteresse papale ?",
+  "r": "Le château Saint-Ange",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-010",
+  "q": "Quelle région du nord de l'Espagne, dont Oviedo est la capitale, est réputée pour son cidre ?",
+  "r": "Les Asturies",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-011",
+  "q": "Quel palais de Potsdam fut la résidence favorite de Frédéric le Grand ?",
+  "r": "Sans-Souci",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-012",
+  "q": "Quelle ville italienne a donné son nom à une sauce à la viande et est célèbre pour sa mortadelle ?",
+  "r": "Bologne",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_2-013",
+  "q": "Quelle ville portugaise est un grand lieu de pèlerinage marial depuis des apparitions en 1917 ?",
+  "r": "Fátima",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-014",
+  "q": "Quelle ville du Warwickshire est la ville natale de Shakespeare ?",
+  "r": "Stratford-upon-Avon",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-015",
+  "q": "Quelle île de la Bidassoa change de souveraineté tous les six mois entre la France et l'Espagne ?",
+  "r": "L'île des Faisans",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_2-016",
+  "q": "Quelle ville romaine d'Algérie, fondée par Trajan vers l'an 100, est célèbre pour son plan en damier ?",
+  "r": "Timgad",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-017",
+  "q": "Quelle ville thermale tchèque, fréquentée par Goethe et Beethoven, s'appelait autrefois Karlsbad ?",
+  "r": "Karlovy Vary",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-018",
+  "q": "Sur quel lac, partagé entre l'Estonie et la Russie, Alexandre Nevski vainquit-il les chevaliers teutoniques en 1242 ?",
+  "r": "Le lac Peïpous",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_2-019",
+  "q": "Quelle cathédrale de marbre, hérissée de flèches, est surmontée de la statue dorée de la Madonnina ?",
+  "r": "Le Dôme de Milan",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-020",
+  "q": "Quel sommet de la Sierra Nevada, près de Grenade, est le plus haut de l'Espagne continentale ?",
+  "r": "Le Mulhacén",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_2-021",
+  "q": "Quelle ville iranienne du désert est célèbre pour ses tours à vent qui rafraîchissent les maisons ?",
+  "r": "Yazd",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-022",
+  "q": "Combien d'étoiles compte le drapeau européen ?",
+  "r": "Douze",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_2-023",
+  "q": "Quelle province autrichienne de 1772 à 1918, aujourd'hui partagée entre la Pologne et l'Ukraine, porte le même nom français qu'une région espagnole ?",
+  "r": "La Galicie",
+  "d": 3,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-024",
+  "q": "Quel pont ottoman de Višegrad a donné son titre à un roman d'Ivo Andrić, prix Nobel de littérature ?",
+  "r": "Le pont sur la Drina",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-025",
+  "q": "Quelle région arctique, partagée entre la Norvège, la Suède, la Finlande et la Russie, est présentée comme le pays du Père Noël ?",
+  "r": "La Laponie",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-026",
+  "q": "Quel temple d'Isis, près d'Assouan, a été démonté puis remonté sur une île voisine pour échapper aux eaux du barrage ?",
+  "r": "Philae",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-027",
+  "q": "Comment appelle-t-on les habitants de Cologne ?",
+  "r": "Les Colonais",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_2-028",
+  "q": "Quelle deuxième ville de Suède, port sur le Cattégat, est le berceau de Volvo ?",
+  "r": "Göteborg",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-029",
+  "q": "Quelle gigantesque structure circulaire du Sahara mauritanien est surnommée « l'œil du Sahara » ?",
+  "r": "La structure de Richat",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_2-030",
+  "q": "Quelle commune italienne est entièrement enclavée en Suisse, au bord du lac de Lugano ?",
+  "r": "Campione d'Italia",
+  "d": 3,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_2-031",
+  "q": "Quelle ville d'Israël, fondée en 1909, est surnommée la « ville blanche » pour ses immeubles de style Bauhaus ?",
+  "r": "Tel-Aviv",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-032",
+  "q": "Quel désert occupe tout le sud d'Israël, autour de Beer-Sheva ?",
+  "r": "Le Néguev",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-033",
+  "q": "Quelle région viticole hongroise produit un vin liquoreux que l'on surnomme « le vin des rois, le roi des vins » ?",
+  "r": "Tokaj",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_2-034",
+  "q": "Quel archipel autonome finlandais, démilitarisé et entièrement suédophone, se trouve à l'entrée du golfe de Botnie ?",
+  "r": "Les îles Åland",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-035",
+  "q": "Quel pays européen est, avec l'Ouzbékistan, l'un des deux seuls pays doublement enclavés du monde ?",
+  "r": "Le Liechtenstein",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_2-036",
+  "q": "Quelle région historique, partagée entre le sud de l'Égypte et le nord du Soudan, fut le siège du royaume de Koush ?",
+  "r": "La Nubie",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-037",
+  "q": "Quel lac suisse, bordé par Lucerne et les cantons fondateurs de la Confédération, est le cadre de la légende de Guillaume Tell ?",
+  "r": "Le lac des Quatre-Cantons",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_2-038",
+  "q": "Quelle ville du Piémont est célèbre pour sa truffe blanche ?",
+  "r": "Alba",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_2-039",
+  "q": "Quelle île des Éoliennes, au volcan en activité quasi permanente, est surnommée le « phare de la Méditerranée » ?",
+  "r": "Stromboli",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-040",
+  "q": "Sur quelle île grecque fut découverte en 1820 la célèbre Vénus exposée au Louvre ?",
+  "r": "Milo (Milos)",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-041",
+  "q": "Quelle ville de Bohême a donné son nom à une bière blonde, la pils ?",
+  "r": "Plzeň (Pilsen)",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-042",
+  "q": "Quel village troglodytique tunisien a servi de décor à la planète Tatooine dans Star Wars ?",
+  "r": "Matmata",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-043",
+  "q": "Quelle île allemande de la mer du Nord fut cédée par le Royaume-Uni en 1890 en échange de droits sur Zanzibar ?",
+  "r": "Heligoland",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-044",
+  "q": "Quel immense monastère-palais fut construit au XVIe siècle par Philippe II près de Madrid ?",
+  "r": "L'Escurial",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-045",
+  "q": "Quelle ville syrienne a donné son nom à un savon traditionnel à l'huile d'olive et de laurier ?",
+  "r": "Alep",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-046",
+  "q": "Quelle chaîne de montagnes, entre la mer Noire et la Caspienne, sert souvent de limite à l'Europe ?",
+  "r": "Le Caucase",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_2-047",
+  "q": "Quelle ville chypriote, près de laquelle Aphrodite serait née de l'écume, est classée à l'UNESCO pour ses mosaïques romaines ?",
+  "r": "Paphos",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-048",
+  "q": "Quel fjord norvégien classé à l'UNESCO est célèbre pour ses cascades des Sept Sœurs ?",
+  "r": "Le Geirangerfjord",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_2-049",
+  "q": "Quelle ville iranienne, patrie des poètes Hafez et Saadi, est réputée pour ses jardins ?",
+  "r": "Chiraz",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-050",
+  "q": "Au pied de quelle montagne se trouve le monastère Sainte-Catherine, en Égypte ?",
+  "r": "Le mont Sinaï",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_2-051",
+  "q": "Quel fleuve des Balkans forme la frontière entre la Grèce et la Turquie ?",
+  "r": "L'Évros (Maritsa)",
+  "d": 3,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_2-052",
+  "q": "Quelle commune belge forme des enclaves en territoire néerlandais, avec une frontière qui traverse parfois des maisons ?",
+  "r": "Baarle-Hertog",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_2-053",
+  "q": "Quelle ville de Vénétie, cadre de Roméo et Juliette, accueille un festival d'opéra dans ses arènes romaines ?",
+  "r": "Vérone",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-054",
+  "q": "Dans quelle ville anglaise l'archevêque Thomas Becket fut-il assassiné dans sa cathédrale en 1170 ?",
+  "r": "Cantorbéry",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-055",
+  "q": "Quelle vallée de la rive ouest de Louxor abrite les tombeaux des pharaons du Nouvel Empire ?",
+  "r": "La Vallée des Rois",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-056",
+  "q": "Quel lac du nord du Kenya, le plus grand lac désertique du monde, est surnommé la « mer de jade » ?",
+  "r": "Le lac Turkana",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_2-057",
+  "q": "Quel village autrichien, au bord d'un lac du Salzkammergut, a été copié à l'identique en Chine ?",
+  "r": "Hallstatt",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-058",
+  "q": "Quelle grande péninsule du sud de la Grèce est reliée au continent par l'isthme de Corinthe ?",
+  "r": "Le Péloponnèse",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_2-059",
+  "q": "Quelle principauté pyrénéenne a pour coprinces l'évêque d'Urgell et le président de la République française ?",
+  "r": "L'Andorre",
+  "d": 1,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_2-060",
+  "q": "Sur quelle île anglo-normande Victor Hugo vécut-il en exil à Hauteville House ?",
+  "r": "Guernesey",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-061",
+  "q": "Quel archipel portugais de l'Atlantique a donné son nom à un célèbre anticyclone ?",
+  "r": "Les Açores",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-062",
+  "q": "Quel navire de guerre suédois, coulé lors de son voyage inaugural en 1628, est exposé dans un musée de Stockholm ?",
+  "r": "Le Vasa",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-063",
+  "q": "Dans quelle ville espagnole se trouve la Mezquita, grande mosquée transformée en cathédrale ?",
+  "r": "Cordoue",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-064",
+  "q": "Quelle citerne byzantine d'Istanbul abrite deux colonnes posées sur des têtes de Méduse ?",
+  "r": "La citerne Basilique",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-065",
+  "q": "Comment appelle-t-on les habitants de Fès ?",
+  "r": "Les Fassis",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_2-066",
+  "q": "Quelle petite île des Hébrides abrite la grotte de Fingal, qui inspira une ouverture à Mendelssohn ?",
+  "r": "Staffa",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-067",
+  "q": "Quelle grande mosquée de Casablanca, achevée en 1993, est en partie construite sur la mer ?",
+  "r": "La mosquée Hassan II",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_2-068",
+  "q": "Comment appelle-t-on les habitants de Liège ?",
+  "r": "Les Liégeois",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_2-069",
+  "q": "Quel sanctuaire grec d'Apollon abritait la célèbre Pythie, qui rendait les oracles ?",
+  "r": "Delphes",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-070",
+  "q": "Quel oiseau à huppe dorée figure au centre du drapeau de l'Ouganda ?",
+  "r": "La grue royale",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_2-071",
+  "q": "Dans quelle petite ville de la région de Valence se déroule chaque mois d'août la Tomatina, bataille géante de tomates ?",
+  "r": "Buñol",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-072",
+  "q": "Comment appelle-t-on les habitants du Caire ?",
+  "r": "Les Cairotes",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_2-073",
+  "q": "Quelle ville de Toscane est célèbre pour ses nombreuses tours médiévales qui dominent la campagne ?",
+  "r": "San Gimignano",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-074",
+  "q": "Quel volcan actif, point culminant de l'Afrique occidentale et centrale, domine la ville camerounaise de Buéa ?",
+  "r": "Le mont Cameroun",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_2-075",
+  "q": "Quelles falaises de craie accueillent les voyageurs arrivant en Angleterre par la mer depuis Calais ?",
+  "r": "Les falaises blanches de Douvres",
+  "d": 1,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_2-076",
+  "q": "Sous quel nom usuel connaît-on le drapeau du Royaume-Uni ?",
+  "r": "L'Union Jack",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_2-077",
+  "q": "Quelle île grecque de la mer Ionienne abrite l'Achilléion, le palais de l'impératrice Sissi ?",
+  "r": "Corfou",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-078",
+  "q": "Quel pays européen a pour hymne national la Marcha Real, qui n'a pas de paroles officielles ?",
+  "r": "L'Espagne",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_2-079",
+  "q": "Quel massif du nord de l'Éthiopie, dominé par le Ras Dashen, abrite les singes geladas ?",
+  "r": "Le Simien",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_2-080",
+  "q": "Quelle langue celtique, éteinte comme langue maternelle au XVIIIe siècle, est revitalisée à l'extrémité sud-ouest de l'Angleterre ?",
+  "r": "Le cornique",
+  "d": 3,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_2-081",
+  "q": "Quelle ville danoise est la ville natale de Hans Christian Andersen ?",
+  "r": "Odense",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_2-082",
+  "q": "Quelle langue possède deux normes écrites officielles, le bokmål et le nynorsk ?",
+  "r": "Le norvégien",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_2-083",
+  "q": "Sur quelle île de l'Atlantique Sud Napoléon mourut-il en exil en 1821 ?",
+  "r": "Sainte-Hélène",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_2-084",
+  "q": "Quel drapeau national, selon la tradition tombé du ciel en 1219, serait le plus ancien encore en usage ?",
+  "r": "Le drapeau danois (Dannebrog)",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_2-085",
+  "q": "Sur quel lac lombard l'artiste Christo installa-t-il en 2016 des pontons flottants jaunes ?",
+  "r": "Le lac d'Iseo",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ }
+]

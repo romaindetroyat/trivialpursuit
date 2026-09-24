@@ -1,0 +1,597 @@
+[
+ {
+  "id": "sci_e_3-001",
+  "q": "Quel suffixe, accolé au nom d'un organe, désigne en médecine son inflammation ?",
+  "r": "-ite",
+  "d": 1,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_3-002",
+  "q": "Quel instrument optique, introduit par les voies naturelles, permet de voir l'intérieur d'un organe creux ?",
+  "r": "L'endoscope",
+  "d": 2,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_3-003",
+  "q": "Comment appelle-t-on la zone de jonction où un neurone transmet un message à une autre cellule ?",
+  "r": "La synapse",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_3-004",
+  "q": "Quelle hormone, surnommée « hormone de l'attachement », déclenche les contractions de l'accouchement ?",
+  "r": "L'ocytocine",
+  "d": 2,
+  "t": "Hormones et glandes"
+ },
+ {
+  "id": "sci_e_3-005",
+  "q": "Comment appelle-t-on la peur excessive du vide et des hauteurs ?",
+  "r": "L'acrophobie",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_3-006",
+  "q": "Quel est le plus ancien édulcorant de synthèse, découvert par hasard en 1879 ?",
+  "r": "La saccharine",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-007",
+  "q": "Comment appelle-t-on la quantité et la fréquence de prise d'un médicament indiquées sur l'ordonnance ?",
+  "r": "La posologie",
+  "d": 1,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_3-008",
+  "q": "Quelle généticienne américaine, prix Nobel 1983, a découvert les « gènes sauteurs » en étudiant le maïs ?",
+  "r": "Barbara McClintock",
+  "d": 3,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_3-009",
+  "q": "Quels sont les deux os de l'avant-bras ?",
+  "r": "Le radius et l'ulna (cubitus)",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_3-010",
+  "q": "Quel ver parasite de l'intestin, pouvant mesurer plusieurs mètres, est surnommé « ver solitaire » ?",
+  "r": "Le ténia",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-011",
+  "q": "Quelle maladie virale, bénigne chez l'enfant, est dangereuse pour le fœtus si la femme enceinte l'attrape ?",
+  "r": "La rubéole",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-012",
+  "q": "Quel examen radiologique des seins sert au dépistage du cancer ?",
+  "r": "La mammographie",
+  "d": 1,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_3-013",
+  "q": "Quel prénom portait le premier bébé-éprouvette français, né en 1982 à Clamart ?",
+  "r": "Amandine",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-014",
+  "q": "Quel chirurgien cardiaque français a conçu le cœur artificiel Carmat, implanté pour la première fois en 2013 ?",
+  "r": "Alain Carpentier",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-015",
+  "q": "Combien de lobes compte le poumon gauche, qui laisse de la place au cœur ?",
+  "r": "Deux",
+  "d": 2,
+  "t": "Respiration"
+ },
+ {
+  "id": "sci_e_3-016",
+  "q": "Quel groupe sanguin est dit « receveur universel » ?",
+  "r": "AB positif",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "id": "sci_e_3-017",
+  "q": "Quelles sont les quatre saveurs de base traditionnelles, avant l'ajout de l'umami ?",
+  "r": "Sucré, salé, acide, amer",
+  "d": 1,
+  "t": "Sens : le goût"
+ },
+ {
+  "id": "sci_e_3-018",
+  "q": "Quelle méthode de soins manuels a été fondée en 1874 par le médecin américain Andrew Taylor Still ?",
+  "r": "L'ostéopathie",
+  "d": 2,
+  "t": "Médecines complémentaires"
+ },
+ {
+  "id": "sci_e_3-019",
+  "q": "Quel muscle de la joue tire le coin des lèvres vers le haut et vers l'extérieur quand on sourit ?",
+  "r": "Le grand zygomatique",
+  "d": 2,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_3-020",
+  "q": "Quelle spécialité médicale est consacrée aux maladies du sang, comme les leucémies ?",
+  "r": "L'hématologie",
+  "d": 2,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_3-021",
+  "q": "Comment appelle-t-on le cancer des cellules du sang et de la moelle osseuse ?",
+  "r": "La leucémie",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-022",
+  "q": "Comment appelle-t-on les bactéries sphériques groupées en chaînettes, responsables notamment d'angines ?",
+  "r": "Les streptocoques",
+  "d": 2,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_3-023",
+  "q": "Quel nom porte en France la profession médicale qui suit la grossesse et pratique les accouchements normaux ?",
+  "r": "Sage-femme",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_3-024",
+  "q": "Comment appelle-t-on la destruction des calculs rénaux par des ondes de choc envoyées de l'extérieur du corps ?",
+  "r": "La lithotritie (lithotripsie)",
+  "d": 3,
+  "t": "Soins"
+ },
+ {
+  "id": "sci_e_3-025",
+  "q": "Comment appelle-t-on l'obstruction brutale d'une artère du poumon par un caillot sanguin ?",
+  "r": "L'embolie pulmonaire",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-026",
+  "q": "Quel médecin et théologien espagnol, brûlé à Genève en 1553, avait décrit la circulation pulmonaire du sang ?",
+  "r": "Michel Servet",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-027",
+  "q": "Quelle spécialité médicale prend en charge les nouveau-nés, notamment les prématurés ?",
+  "r": "La néonatologie",
+  "d": 2,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_3-028",
+  "q": "Quel sigle désignait l'épidémie de pneumonie atypique due à un coronavirus, partie de Chine en 2002-2003 ?",
+  "r": "Le SRAS",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-029",
+  "q": "Que signifie le sigle SAMU ?",
+  "r": "Service d'aide médicale urgente",
+  "d": 2,
+  "t": "Urgences"
+ },
+ {
+  "id": "sci_e_3-030",
+  "q": "Quel syndrome touche les femmes qui ne possèdent qu'un seul chromosome X ?",
+  "r": "Le syndrome de Turner",
+  "d": 3,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_3-031",
+  "q": "Quels acides gras, abondants dans le beurre et les graisses animales, sont solides à température ambiante ?",
+  "r": "Les acides gras saturés",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-032",
+  "q": "Quelle maladie génétique, parmi les plus fréquentes en France, encombre les poumons et le pancréas d'un mucus épais ?",
+  "r": "La mucoviscidose",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-033",
+  "q": "Quel organe de l'oreille interne, formé notamment de trois canaux semi-circulaires, assure le sens de l'équilibre ?",
+  "r": "Le vestibule",
+  "d": 2,
+  "t": "Sens : l'ouïe"
+ },
+ {
+  "id": "sci_e_3-034",
+  "q": "Quelle vitamine, aussi appelée rétinol, est nécessaire à la vision dans la pénombre ?",
+  "r": "La vitamine A",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-035",
+  "q": "Comment appelle-t-on un rêve pendant lequel le dormeur a conscience de rêver ?",
+  "r": "Un rêve lucide",
+  "d": 2,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_3-036",
+  "q": "Comment appelle-t-on l'étirement ou la déchirure d'un ligament, fréquente à la cheville ?",
+  "r": "L'entorse",
+  "d": 1,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_3-037",
+  "q": "Quel score, noté sur 10, évalue l'état d'un nouveau-né juste après sa naissance ?",
+  "r": "Le score d'Apgar",
+  "d": 3,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_3-038",
+  "q": "Quel trouble psychiatrique a été nommé en 1908 par le Suisse Eugen Bleuler, d'après le grec « esprit fendu » ?",
+  "r": "La schizophrénie",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_3-039",
+  "q": "Quelle spécialité médicale traite les maladies du cerveau, de la moelle épinière et des nerfs ?",
+  "r": "La neurologie",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_3-040",
+  "q": "Quel muscle puissant de la mâchoire, que l'on sent se contracter sur la joue, permet de mâcher ?",
+  "r": "Le masséter",
+  "d": 3,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_3-041",
+  "q": "Comment appelle-t-on la protéine du système immunitaire qui reconnaît spécifiquement un intrus pour le neutraliser ?",
+  "r": "Un anticorps",
+  "d": 1,
+  "t": "Immunité"
+ },
+ {
+  "id": "sci_e_3-042",
+  "q": "Comment appelle-t-on l'obsession de ne manger que des aliments jugés parfaitement sains ?",
+  "r": "L'orthorexie",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-043",
+  "q": "Quel édulcorant naturel est extrait des feuilles d'une plante originaire du Paraguay ?",
+  "r": "La stévia",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-044",
+  "q": "Comment appelle-t-on les cellules reproductrices, spermatozoïdes et ovules ?",
+  "r": "Les gamètes",
+  "d": 1,
+  "t": "Biologie générale"
+ },
+ {
+  "id": "sci_e_3-045",
+  "q": "Comment appelle-t-on le phénomène qui fait voir des visages ou des animaux dans les nuages ?",
+  "r": "La paréidolie",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_3-046",
+  "q": "Quel biochimiste polonais a forgé en 1912 le mot « vitamine » ?",
+  "r": "Casimir Funk",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-047",
+  "q": "Quel chirurgien, futur chirurgien en chef de la Grande Armée, a créé les « ambulances volantes » pour secourir les blessés au combat ?",
+  "r": "Dominique-Jean Larrey",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-048",
+  "q": "Comment appelle-t-on l'arrêt définitif des règles, vers 50 ans ?",
+  "r": "La ménopause",
+  "d": 1,
+  "t": "Reproduction"
+ },
+ {
+  "id": "sci_e_3-049",
+  "q": "Quel anatomiste flamand a publié en 1543 le traité illustré « De humani corporis fabrica » ?",
+  "r": "André Vésale",
+  "d": 2,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-050",
+  "q": "Comment appelle-t-on le défaut de vision dans lequel l'œil, trop court, voit mal de près ?",
+  "r": "L'hypermétropie",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_3-051",
+  "q": "Comment appelle-t-on un gonflement dû à une accumulation de liquide dans les tissus ?",
+  "r": "Un œdème",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_3-052",
+  "q": "Quelle première partie du gros intestin, en cul-de-sac, porte l'appendice ?",
+  "r": "Le cæcum",
+  "d": 2,
+  "t": "Digestion"
+ },
+ {
+  "id": "sci_e_3-053",
+  "q": "Quelle vitamine antioxydante, abondante dans les huiles végétales, est aussi appelée tocophérol ?",
+  "r": "La vitamine E",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-054",
+  "q": "Comment appelle-t-on les coussinets de cartilage situés entre les vertèbres, dont la « hernie » provoque des douleurs ?",
+  "r": "Les disques intervertébraux",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_3-055",
+  "q": "Comment appelle-t-on couramment les troisièmes molaires, qui percent souvent entre 16 et 25 ans ?",
+  "r": "Les dents de sagesse",
+  "d": 1,
+  "t": "Dents"
+ },
+ {
+  "id": "sci_e_3-056",
+  "q": "Quelle plante à fleurs en doigts de gant, étudiée par William Withering en 1785, fournit un médicament pour le cœur ?",
+  "r": "La digitale",
+  "d": 3,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_3-057",
+  "q": "Quelle méthode thérapeutique, fondée par l'Allemand Samuel Hahnemann, repose sur la similitude et les hautes dilutions ?",
+  "r": "L'homéopathie",
+  "d": 2,
+  "t": "Médecines complémentaires"
+ },
+ {
+  "id": "sci_e_3-058",
+  "q": "Quel trouble alimentaire se caractérise par des crises de suralimentation, souvent suivies de vomissements provoqués ?",
+  "r": "La boulimie",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-059",
+  "q": "Comment appelle-t-on une infection généralisée grave, due à la diffusion de germes dans le sang ?",
+  "r": "La septicémie",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-060",
+  "q": "Comment appelle-t-on l'étude des modifications de l'activité des gènes qui ne changent pas la séquence de l'ADN ?",
+  "r": "L'épigénétique",
+  "d": 3,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_3-061",
+  "q": "Quelle déesse grecque de la santé, fille d'Asclépios, a donné son nom à l'hygiène ?",
+  "r": "Hygie",
+  "d": 2,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_3-062",
+  "q": "Quelle petite spatule en bois le médecin pose-t-il sur la langue pour examiner la gorge ?",
+  "r": "L'abaisse-langue",
+  "d": 1,
+  "t": "Instruments médicaux"
+ },
+ {
+  "id": "sci_e_3-063",
+  "q": "Comment appelle-t-on l'ensemble des micro-organismes qui peuplent notre intestin ?",
+  "r": "Le microbiote intestinal",
+  "d": 1,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_3-064",
+  "q": "Quel insecte transmet la maladie du sommeil en Afrique ?",
+  "r": "La mouche tsé-tsé",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-065",
+  "q": "Quelle hormone produite par le rein stimule la fabrication des globules rouges, et a défrayé la chronique du dopage ?",
+  "r": "L'EPO (érythropoïétine)",
+  "d": 1,
+  "t": "Hormones et glandes"
+ },
+ {
+  "id": "sci_e_3-066",
+  "q": "Quelle inflammation de la peau, souvent dite atopique, est très fréquente chez les nourrissons ?",
+  "r": "L'eczéma",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-067",
+  "q": "Quelle maladie des artères est due au dépôt de plaques graisseuses dans leur paroi ?",
+  "r": "L'athérosclérose",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-068",
+  "q": "Quelle enzyme de la salive commence dans la bouche la digestion de l'amidon ?",
+  "r": "L'amylase",
+  "d": 2,
+  "t": "Digestion"
+ },
+ {
+  "id": "sci_e_3-069",
+  "q": "Quelle campagne annuelle de sensibilisation au dépistage du cancer du sein porte le nom d'un mois et d'une couleur ?",
+  "r": "Octobre rose",
+  "d": 1,
+  "t": "Santé publique"
+ },
+ {
+  "id": "sci_e_3-070",
+  "q": "Quelle micro-algue bleu-vert, très riche en protéines, est vendue comme complément alimentaire ?",
+  "r": "La spiruline",
+  "d": 2,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-071",
+  "q": "Quelle maladie virale transmise par les moustiques Aedes, parfois appelée « grippe tropicale », sévit notamment aux Antilles ?",
+  "r": "La dengue",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-072",
+  "q": "Comment appelle-t-on la diminution ou la disparition temporaire des signes d'une maladie, notamment d'un cancer ?",
+  "r": "La rémission",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_3-073",
+  "q": "Quel liquide protecteur entoure le fœtus dans l'utérus ?",
+  "r": "Le liquide amniotique",
+  "d": 1,
+  "t": "Reproduction"
+ },
+ {
+  "id": "sci_e_3-074",
+  "q": "Quel ouvrier américain survécut en 1848 à une barre de fer qui lui traversa le crâne, éclairant le rôle du lobe frontal ?",
+  "r": "Phineas Gage",
+  "d": 3,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_3-075",
+  "q": "Combien de kilocalories apporte un gramme d'alcool pur ?",
+  "r": "7 kcal",
+  "d": 3,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_3-076",
+  "q": "Sous quel nom courant connaît-on la tomodensitométrie, imagerie en coupes par rayons X ?",
+  "r": "Le scanner",
+  "d": 2,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_3-077",
+  "q": "Comment appelle-t-on les zones molles du crâne du nourrisson, où les os ne sont pas encore soudés ?",
+  "r": "Les fontanelles",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_3-078",
+  "q": "Comment appelle-t-on la copie d'un médicament dont le brevet est tombé dans le domaine public ?",
+  "r": "Un générique",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_3-079",
+  "q": "Comment appelle-t-on la période entre la contamination et l'apparition des premiers symptômes ?",
+  "r": "L'incubation",
+  "d": 1,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_3-080",
+  "q": "Quelle maladie virale, transmise par la morsure d'un animal infecté, est presque toujours mortelle une fois déclarée ?",
+  "r": "La rage",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-081",
+  "q": "Quel professionnel de santé rééduque les troubles du langage, de la parole et de la déglutition ?",
+  "r": "L'orthophoniste",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_3-082",
+  "q": "Quelle usure du cartilage des articulations est la plus fréquente des maladies rhumatismales ?",
+  "r": "L'arthrose",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_3-083",
+  "q": "Quel muscle triangulaire recouvre l'épaule et permet de lever le bras sur le côté ?",
+  "r": "Le deltoïde",
+  "d": 1,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_3-084",
+  "q": "Quelle spécialité médicale soigne les maladies des os, des articulations et des tendons, comme l'arthrite ?",
+  "r": "La rhumatologie",
+  "d": 2,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_3-085",
+  "q": "Quel traitement permet de filtrer le sang des patients dont les reins ne fonctionnent plus ?",
+  "r": "La dialyse",
+  "d": 1,
+  "t": "Soins"
+ }
+]

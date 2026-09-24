@@ -1,0 +1,597 @@
+[
+ {
+  "id": "sci_f_2-001",
+  "q": "Quel mollusque marin fossile à coquille enroulée en spirale a disparu en même temps que les dinosaures ?",
+  "r": "L'ammonite",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_2-002",
+  "q": "Quel volcan indonésien a connu en 1883 une explosion entendue à plusieurs milliers de kilomètres ?",
+  "r": "Le Krakatoa",
+  "d": 2,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_2-003",
+  "q": "Quel petit renard du Sahara est reconnaissable à ses très grandes oreilles ?",
+  "r": "Le fennec",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_2-004",
+  "q": "Quel poisson osseux, le plus lourd du monde, porte le nom d'un astre ?",
+  "r": "Le poisson-lune (môle)",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-005",
+  "q": "Pourquoi les chats tricolores (écaille de tortue) sont-ils presque toujours des femelles ?",
+  "r": "Gène de couleur porté par l'X",
+  "d": 3,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_2-006",
+  "q": "Quelle console portable de Nintendo, lancée en 1989, était vendue avec le jeu Tetris ?",
+  "r": "La Game Boy",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_2-007",
+  "q": "Comment appelle-t-on le bébé phoque, célèbre pour son pelage blanc ?",
+  "r": "Le blanchon",
+  "d": 2,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_2-008",
+  "q": "Quel champignon comestible, à chapeau blanc et écailleux, se liquéfie en une encre noire en vieillissant ?",
+  "r": "Le coprin chevelu",
+  "d": 3,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_2-009",
+  "q": "Quel courant océanique chaud adoucit le climat de l'Europe de l'Ouest ?",
+  "r": "Le Gulf Stream",
+  "d": 1,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_2-010",
+  "q": "Quelle résine, récoltée sur les bourgeons, les abeilles utilisent-elles pour colmater leur ruche ?",
+  "r": "La propolis",
+  "d": 2,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_2-011",
+  "q": "Quel est le plus long serpent venimeux du monde ?",
+  "r": "Le cobra royal",
+  "d": 2,
+  "t": "Reptiles et amphibiens"
+ },
+ {
+  "id": "sci_f_2-012",
+  "q": "À quel embranchement appartiennent l'étoile de mer et l'oursin ?",
+  "r": "Les échinodermes",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-013",
+  "q": "Quel ver annélide suceur de sang était employé en médecine pour les saignées ?",
+  "r": "La sangsue",
+  "d": 1,
+  "t": "Comportements animaux"
+ },
+ {
+  "id": "sci_f_2-014",
+  "q": "Quel champignon printanier a un chapeau alvéolé en forme d'éponge ?",
+  "r": "La morille",
+  "d": 2,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_2-015",
+  "q": "Quel arbre des oasis produit les dattes ?",
+  "r": "Le palmier dattier",
+  "d": 1,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_2-016",
+  "q": "Quel pays a développé le système de positionnement par satellites GPS ?",
+  "r": "Les États-Unis",
+  "d": 2,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_2-017",
+  "q": "Quel singe d'Amérique du Sud compte parmi les animaux terrestres les plus bruyants ?",
+  "r": "Le singe hurleur (alouate)",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_2-018",
+  "q": "Quel mammifère d'Amérique est protégé par une carapace articulée en bandes ?",
+  "r": "Le tatou",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_2-019",
+  "q": "Quel appareil utilise la réflexion des ondes radio pour détecter avions et navires ?",
+  "r": "Le radar",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_2-020",
+  "q": "Dans quelle ville canadienne l'ONG Greenpeace a-t-elle été fondée en 1971 ?",
+  "r": "Vancouver",
+  "d": 2,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_2-021",
+  "q": "Quel champignon mortel au chapeau verdâtre est responsable de la plupart des intoxications fatales ?",
+  "r": "L'amanite phalloïde",
+  "d": 2,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_2-022",
+  "q": "Quel agrume a été découvert vers 1900 par un religieux dans un orphelinat près d'Oran ?",
+  "r": "La clémentine",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_2-023",
+  "q": "Quelle race bovine, reconnaissable aux taches sombres autour des yeux appelées « lunettes », est emblématique du pays d'Auge ?",
+  "r": "La normande",
+  "d": 2,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_2-024",
+  "q": "Quel arbuste à grosses fleurs change de couleur, du rose au bleu, selon l'acidité du sol ?",
+  "r": "L'hortensia",
+  "d": 1,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_2-025",
+  "q": "Quel système de numération n'utilise que les chiffres 0 et 1 ?",
+  "r": "Le binaire",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_2-026",
+  "q": "Quelle voiture Renault, lancée en 1961, a été produite à plus de huit millions d'exemplaires ?",
+  "r": "La 4L (Renault 4)",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_2-027",
+  "q": "Quel grand vautour est l'oiseau emblématique de la cordillère des Andes ?",
+  "r": "Le condor",
+  "d": 1,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_2-028",
+  "q": "Quelle fleur des champs est, en France, le symbole du souvenir des combattants de 1914-1918 ?",
+  "r": "Le bleuet",
+  "d": 1,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_2-029",
+  "q": "Quelle plante tropicale replie ses feuilles dès qu'on la touche ?",
+  "r": "La sensitive (Mimosa pudica)",
+  "d": 2,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_2-030",
+  "q": "De quelle roche volcanique sont faites les colonnes de la Chaussée des Géants, en Irlande du Nord ?",
+  "r": "Le basalte",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_2-031",
+  "q": "Dans quelle station antarctique, alors soviétique, a-t-on relevé −89,2 °C en 1983 ?",
+  "r": "La station Vostok",
+  "d": 3,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_2-032",
+  "q": "Quel instrument mesure la quantité de pluie tombée ?",
+  "r": "Le pluviomètre",
+  "d": 1,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_2-033",
+  "q": "Quelle forme ont les pupilles de la vipère, contrairement à celles des couleuvres de France ?",
+  "r": "Verticales (en fente)",
+  "d": 2,
+  "t": "Reptiles et amphibiens"
+ },
+ {
+  "id": "sci_f_2-034",
+  "q": "Quel est le plus grand des félins ?",
+  "r": "Le tigre",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_2-035",
+  "q": "Quel légume, cultivé dans l'obscurité à partir de racines de chicorée, est appelé « chicon » dans le Nord ?",
+  "r": "L'endive",
+  "d": 1,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_2-036",
+  "q": "Quel oiseau d'Amérique tropicale est célèbre pour son énorme bec coloré ?",
+  "r": "Le toucan",
+  "d": 1,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_2-037",
+  "q": "Quel mammifère marin du Pacifique Nord flotte sur le dos et brise des coquillages avec une pierre ?",
+  "r": "La loutre de mer",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-038",
+  "q": "Quel animal naît du croisement d'un cheval et d'une ânesse ?",
+  "r": "Le bardot",
+  "d": 2,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_2-039",
+  "q": "Comment appelle-t-on le porc mâle destiné à la reproduction ?",
+  "r": "Le verrat",
+  "d": 2,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_2-040",
+  "q": "Quel pays insulaire est traversé par la dorsale médio-atlantique, visible à Þingvellir ?",
+  "r": "L'Islande",
+  "d": 2,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_2-041",
+  "q": "Par quel orifice situé sur le dessus de la tête le dauphin respire-t-il ?",
+  "r": "L'évent",
+  "d": 1,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-042",
+  "q": "Comment appelle-t-on les vents réguliers qui soufflent des tropiques vers l'équateur, d'est en ouest ?",
+  "r": "Les alizés",
+  "d": 2,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_2-043",
+  "q": "Comment appelle-t-on le simple creux dans l'herbe où se repose le lièvre ?",
+  "r": "Le gîte (ou la forme)",
+  "d": 2,
+  "t": "Habitats et groupes"
+ },
+ {
+  "id": "sci_f_2-044",
+  "q": "Quelle amanite comestible au chapeau orangé était appréciée des empereurs romains ?",
+  "r": "L'oronge (amanite des Césars)",
+  "d": 3,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_2-045",
+  "q": "Quel volcan islandais a paralysé une grande partie du trafic aérien européen en avril 2010 ?",
+  "r": "L'Eyjafjallajökull",
+  "d": 2,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_2-046",
+  "q": "Quel minéral, forme de carbone comme le diamant, compose la mine des crayons ?",
+  "r": "Le graphite",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_2-047",
+  "q": "Quelle fleur blanche et duveteuse est l'emblème des Alpes ?",
+  "r": "L'edelweiss",
+  "d": 1,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_2-048",
+  "q": "Quel petit rongeur, grand dormeur hivernal, est à l'origine d'une expression sur le sommeil profond ?",
+  "r": "Le loir",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_2-049",
+  "q": "Quelle noix pousse accrochée sous un faux fruit charnu appelé « pomme » ?",
+  "r": "La noix de cajou",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_2-050",
+  "q": "Dans quelle ville l'OPEP a-t-elle été fondée en 1960 ?",
+  "r": "Bagdad",
+  "d": 3,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_2-051",
+  "q": "Quel chien de traîneau originaire de Sibérie a souvent les yeux bleus ?",
+  "r": "Le husky (sibérien)",
+  "d": 1,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_2-052",
+  "q": "Quel aviateur de l'Aéropostale, surnommé « l'Archange », disparut en 1936 au-dessus de l'Atlantique Sud ?",
+  "r": "Jean Mermoz",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_2-053",
+  "q": "Chez les tortues marines, quel facteur détermine le sexe des petits dans l'œuf ?",
+  "r": "La température d'incubation",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-054",
+  "q": "Quelle plante carnivore piège les insectes dans des urnes remplies de liquide digestif ?",
+  "r": "Le népenthès",
+  "d": 2,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_2-055",
+  "q": "Quelle plante, aussi appelée blé noir, n'est pas une céréale malgré son nom ?",
+  "r": "Le sarrasin",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_2-056",
+  "q": "Quelle température peut atteindre l'air traversé par un éclair ?",
+  "r": "Environ 30 000 °C",
+  "d": 3,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_2-057",
+  "q": "L'éruption de quel volcan indonésien, en 1815, provoqua « l'année sans été » en 1816 ?",
+  "r": "Le Tambora",
+  "d": 3,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_2-058",
+  "q": "Avec le chien, quel animal de ferme utilisait-on traditionnellement pour chercher les truffes ?",
+  "r": "Le cochon (la truie)",
+  "d": 1,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_2-059",
+  "q": "Quel pilote américain a le premier franchi le mur du son en vol, en 1947 ?",
+  "r": "Chuck Yeager",
+  "d": 3,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_2-060",
+  "q": "Quel champignon souterrain est surnommé le « diamant noir » ?",
+  "r": "La truffe noire",
+  "d": 1,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_2-061",
+  "q": "Comment appelle-t-on chacune des couches superposées d'une roche sédimentaire ?",
+  "r": "Une strate",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_2-062",
+  "q": "Quelle convention internationale, signée à Washington en 1973, encadre le commerce des espèces menacées ?",
+  "r": "La CITES",
+  "d": 3,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_2-063",
+  "q": "À quel endroit du corps mesure-t-on la taille d'un cheval ?",
+  "r": "Au garrot",
+  "d": 2,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_2-064",
+  "q": "Quel pinnipède de l'Arctique est reconnaissable à ses deux longues défenses ?",
+  "r": "Le morse",
+  "d": 1,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-065",
+  "q": "Quel vautour des montagnes laisse tomber des os sur les rochers pour les briser et s'en nourrir ?",
+  "r": "Le gypaète barbu",
+  "d": 2,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_2-066",
+  "q": "Comment appelle-t-on le jeune saumon qui vit encore en rivière, avant de descendre vers la mer ?",
+  "r": "Le tacon",
+  "d": 3,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_2-067",
+  "q": "Quel inventeur français mit au point en 1795 la mine de crayon mêlant graphite et argile ?",
+  "r": "Nicolas-Jacques Conté",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_2-068",
+  "q": "Quel verbe désigne le cri de l'oie ?",
+  "r": "Cacarder",
+  "d": 2,
+  "t": "Cris des animaux"
+ },
+ {
+  "id": "sci_f_2-069",
+  "q": "Quel jeune esclave réunionnais découvrit en 1841 la technique de pollinisation manuelle de la vanille ?",
+  "r": "Edmond Albius",
+  "d": 3,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_2-070",
+  "q": "Quelle couleur avaient la plupart des carottes cultivées avant l'essor des variétés orange au XVIIe siècle ?",
+  "r": "Violette (ou jaune)",
+  "d": 3,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_2-071",
+  "q": "De l'écorce de quel arbre d'Amérique du Sud tire-t-on la quinine, remède contre le paludisme ?",
+  "r": "Le quinquina",
+  "d": 2,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_2-072",
+  "q": "Dans quel État américain Edwin Drake a-t-il foré en 1859 le premier puits de pétrole moderne ?",
+  "r": "La Pennsylvanie",
+  "d": 3,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_2-073",
+  "q": "De quelle langue vient le mot « tsunami » ?",
+  "r": "Du japonais",
+  "d": 1,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_2-074",
+  "q": "Quel ordre d'insectes regroupe les abeilles, les guêpes et les fourmis ?",
+  "r": "Les hyménoptères",
+  "d": 3,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_2-075",
+  "q": "Quelle entreprise américaine a lancé l'agent conversationnel ChatGPT en novembre 2022 ?",
+  "r": "OpenAI",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_2-076",
+  "q": "Quelle unité de volume, d'environ 159 litres, sert à mesurer le pétrole ?",
+  "r": "Le baril",
+  "d": 1,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_2-077",
+  "q": "Comment appelle-t-on la partie femelle de la fleur, qui contient les ovules ?",
+  "r": "Le pistil",
+  "d": 1,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_2-078",
+  "q": "Quel arbuste aux feuilles piquantes et aux baies rouges décore les tables de Noël ?",
+  "r": "Le houx",
+  "d": 1,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_2-079",
+  "q": "À quel groupe d'animaux appartient le cloporte, bien qu'il vive sur la terre ferme ?",
+  "r": "Les crustacés",
+  "d": 2,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_2-080",
+  "q": "Quel perroquet nocturne et incapable de voler vit en Nouvelle-Zélande ?",
+  "r": "Le kakapo",
+  "d": 3,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_2-081",
+  "q": "Quel animal marin possède les plus grands yeux du règne animal, pouvant dépasser 25 cm ?",
+  "r": "Le calmar colossal",
+  "d": 3,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_2-082",
+  "q": "Quel insecte doit son nom à la très courte vie de l'adulte, parfois quelques heures ?",
+  "r": "L'éphémère",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_2-083",
+  "q": "Comment appelle-t-on le petit du canard ?",
+  "r": "Le caneton",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_2-084",
+  "q": "Comment appelle-t-on les fissures profondes qui s'ouvrent à la surface d'un glacier ?",
+  "r": "Les crevasses",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_2-085",
+  "q": "Qu'est-ce qu'une câpre, condiment au vinaigre ?",
+  "r": "Un bouton floral (du câprier)",
+  "d": 2,
+  "t": "Fruits et légumes"
+ }
+]

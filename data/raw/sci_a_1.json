@@ -1,539 +1,629 @@
 [
  {
+  "id": "sci_a_1-001",
   "q": "Quel physicien a formulé la célèbre équation E = mc² ?",
   "r": "Albert Einstein",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-002",
   "q": "Selon la légende, quel fruit serait tombé près d'Isaac Newton en lui inspirant la théorie de la gravitation ?",
   "r": "Une pomme",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-003",
   "q": "À quelle température, en degrés Celsius, l'eau pure bout-elle au niveau de la mer ?",
   "r": "100 °C",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-004",
   "q": "Quelle est la vitesse approximative de la lumière dans le vide, en kilomètres par seconde ?",
   "r": "Environ 300 000 km/s",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-005",
   "q": "Comment appelle-t-on la décomposition de la lumière blanche en couleurs par un prisme ?",
   "r": "La dispersion",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-006",
   "q": "Combien de couleurs compte-t-on traditionnellement dans l'arc-en-ciel ?",
   "r": "Sept",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-007",
   "q": "Quel savant grec se serait écrié « Eurêka ! » dans son bain ?",
   "r": "Archimède",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-008",
   "q": "Quelle particule de charge négative gravite autour du noyau de l'atome ?",
   "r": "L'électron",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-009",
   "q": "Quelle particule dépourvue de charge électrique se trouve dans le noyau atomique aux côtés des protons ?",
   "r": "Le neutron",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-010",
   "q": "Quel physicien britannique a découvert le neutron en 1932 ?",
   "r": "James Chadwick",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-011",
   "q": "Quel est le sigle du grand accélérateur de particules de 27 km de circonférence installé sous la frontière franco-suisse ?",
   "r": "Le LHC",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-012",
   "q": "Quelle particule, parfois surnommée « particule de Dieu », a été découverte au CERN en 2012 ?",
   "r": "Le boson de Higgs",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-013",
   "q": "Comment appelle-t-on le passage direct d'un corps de l'état solide à l'état gazeux ?",
   "r": "La sublimation",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-014",
   "q": "Comment appelle-t-on le passage d'un corps de l'état liquide à l'état solide ?",
   "r": "La solidification",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-015",
   "q": "À combien de degrés Celsius correspond le zéro absolu ?",
   "r": "−273,15 °C",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-016",
   "q": "Quel phénomène explique que la sirène d'une ambulance paraisse plus aiguë quand elle s'approche que quand elle s'éloigne ?",
   "r": "L'effet Doppler",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-017",
   "q": "Dans quel milieu le son ne peut-il pas se propager, contrairement à la lumière ?",
   "r": "Le vide",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-018",
   "q": "Quelle est la vitesse approximative du son dans l'air à 20 °C ?",
   "r": "Environ 340 m/s",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-019",
   "q": "Quel physicien italien a construit la première pile électrique en 1800 ?",
   "r": "Alessandro Volta",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-020",
   "q": "Quelle loi de l'électricité s'écrit U = R × I ?",
   "r": "La loi d'Ohm",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-021",
   "q": "Quel physicien français a démontré la rotation de la Terre grâce à un pendule suspendu au Panthéon en 1851 ?",
   "r": "Léon Foucault",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-022",
   "q": "Quel savant anglais a publié en 1687 les « Principia », où il énonce les lois du mouvement ?",
   "r": "Isaac Newton",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-023",
   "q": "Quel phénomène optique fait paraître brisé un bâton plongé à moitié dans l'eau ?",
   "r": "La réfraction",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-024",
   "q": "Quel rayonnement invisible émis par le Soleil est responsable des coups de soleil ?",
   "r": "Les ultraviolets (UV)",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-025",
   "q": "Quel physicien allemand a découvert les rayons X en 1895 ?",
   "r": "Wilhelm Röntgen",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-026",
   "q": "Quel physicien français a découvert la radioactivité en 1896 grâce à des sels d'uranium ?",
   "r": "Henri Becquerel",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-027",
   "q": "Quelle théorie d'Einstein, publiée en 1915, décrit la gravitation comme une courbure de l'espace-temps ?",
   "r": "La relativité générale",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-028",
   "q": "Pour l'explication de quel phénomène Albert Einstein a-t-il reçu le prix Nobel de physique ?",
   "r": "L'effet photoélectrique",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-029",
   "q": "Quel physicien allemand, considéré comme le père de la physique quantique, a donné son nom à la constante h ?",
   "r": "Max Planck",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-030",
   "q": "Quel physicien autrichien a imaginé une expérience de pensée avec un chat à la fois mort et vivant ?",
   "r": "Erwin Schrödinger",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-031",
   "q": "Quel principe énoncé par Werner Heisenberg interdit de connaître à la fois précisément la position et la vitesse d'une particule ?",
   "r": "Principe d'incertitude (indétermination)",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-032",
   "q": "Quelle réaction nucléaire, qui unit des noyaux d'hydrogène, produit l'énergie du Soleil ?",
   "r": "La fusion nucléaire",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-033",
   "q": "Quelle réaction, qui consiste à casser des noyaux lourds d'uranium, est utilisée dans les centrales nucléaires ?",
   "r": "La fission nucléaire",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-034",
   "q": "Quel projet international de réacteur expérimental à fusion est construit à Cadarache, dans les Bouches-du-Rhône ?",
   "r": "ITER",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-035",
   "q": "Quel instrument sert à mesurer la pression atmosphérique ?",
   "r": "Le baromètre",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-036",
   "q": "Quel savant italien, disciple de Galilée, a inventé le baromètre à mercure en 1643 ?",
   "r": "Evangelista Torricelli",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-037",
   "q": "Quel physicien écossais a unifié l'électricité et le magnétisme dans quatre célèbres équations ?",
   "r": "James Clerk Maxwell",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-038",
   "q": "Quel physicien anglais, fils de forgeron, a découvert l'induction électromagnétique en 1831 ?",
   "r": "Michael Faraday",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-039",
   "q": "Comment appelle-t-on les matériaux qui, refroidis à très basse température, conduisent l'électricité sans aucune résistance ?",
   "r": "Les supraconducteurs",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-040",
   "q": "Quel physicien né en Nouvelle-Zélande a mis en évidence le noyau atomique en 1911 ?",
   "r": "Ernest Rutherford",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-041",
   "q": "Quel physicien danois a proposé en 1913 un modèle d'atome où les électrons circulent sur des orbites définies ?",
   "r": "Niels Bohr",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-042",
   "q": "Quel physicien américain a dirigé le laboratoire de Los Alamos pendant le projet Manhattan ?",
   "r": "Robert Oppenheimer",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-043",
   "q": "Quel physicien italien a réalisé la première réaction nucléaire en chaîne contrôlée, à Chicago en 1942 ?",
   "r": "Enrico Fermi",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-044",
   "q": "Comment appelle-t-on l'énergie que possède un corps du fait de sa vitesse ?",
   "r": "L'énergie cinétique",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-045",
   "q": "Quel ingénieur français a donné son nom à la force qui dévie les vents et les courants en raison de la rotation de la Terre ?",
   "r": "Gaspard-Gustave Coriolis",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-046",
   "q": "Quel défaut de la vision, corrigé par des verres divergents, empêche de voir nettement de loin ?",
   "r": "La myopie",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-047",
   "q": "Quel physicien britannique a découvert l'électron en 1897 ?",
   "r": "Joseph John Thomson",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-048",
   "q": "Quelle célèbre expérience d'optique, menée au début du XIXe siècle, a révélé des interférences lumineuses à l'aide de deux fentes ?",
   "r": "Les fentes de Young",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-049",
   "q": "Quelle couleur obtient-on en superposant une lumière rouge et une lumière verte ?",
   "r": "Le jaune",
   "d": 3,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-050",
   "q": "Quelles sont les trois couleurs primaires de la synthèse additive de la lumière, utilisées par les écrans ?",
   "r": "Rouge, vert, bleu",
   "d": 2,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-051",
   "q": "Quelle force s'oppose au glissement de deux surfaces l'une contre l'autre et fait chauffer les mains qu'on frotte ?",
   "r": "Le frottement",
   "d": 1,
   "t": "Physique"
  },
  {
+  "id": "sci_a_1-052",
   "q": "Quelle est l'unité de fréquence dans le Système international ?",
   "r": "Le hertz",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-053",
   "q": "Quel ingénieur écossais, célèbre pour ses perfectionnements de la machine à vapeur, a donné son nom à l'unité de puissance ?",
   "r": "James Watt",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-054",
   "q": "Quelle est l'unité de force dans le Système international ?",
   "r": "Le newton",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-055",
   "q": "Quelle est l'unité de mesure de la résistance électrique ?",
   "r": "L'ohm",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-056",
   "q": "Quelle unité de base du Système international mesure la quantité de matière ?",
   "r": "La mole",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-057",
   "q": "Quelle unité de base du Système international mesure l'intensité lumineuse ?",
   "r": "La candela",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-058",
   "q": "Combien d'unités de base compte le Système international d'unités ?",
   "r": "Sept",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-059",
   "q": "Quel physicien anglais, brasseur de profession, a donné son nom à l'unité d'énergie du Système international ?",
   "r": "James Prescott Joule",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-060",
   "q": "Quelle unité de pression porte le nom d'un savant français auteur des « Pensées » ?",
   "r": "Le pascal",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-061",
   "q": "Combien de mètres mesure un mille marin international ?",
   "r": "1 852 m",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-062",
   "q": "À quelle vitesse correspond un nœud, unité utilisée en navigation ?",
   "r": "Un mille marin par heure",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-063",
   "q": "Combien de centimètres mesure exactement un pouce ?",
   "r": "2,54 cm",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-064",
   "q": "Combien de kilomètres mesure approximativement un mile terrestre ?",
   "r": "Environ 1,6 km",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-065",
   "q": "Quelle unité de distance, utilisée en astronomie, vaut environ 9 460 milliards de kilomètres ?",
   "r": "L'année-lumière",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-066",
   "q": "Quelle unité correspond à la distance moyenne entre la Terre et le Soleil, soit environ 150 millions de kilomètres ?",
   "r": "L'unité astronomique",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-067",
   "q": "Combien de litres contient un mètre cube ?",
   "r": "1 000 litres",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-068",
   "q": "Quel préfixe du Système international multiplie une unité par un milliard ?",
   "r": "Giga",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-069",
   "q": "Quels deux préfixes, adoptés en 2022, désignent 10 puissance 27 et 10 puissance 30 ?",
   "r": "Ronna et quetta",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-070",
   "q": "Dans quel pays le système métrique a-t-il été créé, sous la Révolution ?",
   "r": "La France",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-071",
   "q": "Quels deux astronomes français ont mesuré la méridienne de Dunkerque à Barcelone pour définir le mètre ?",
   "r": "Delambre et Méchain",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-072",
   "q": "Dans quelle commune des Hauts-de-Seine siège le Bureau international des poids et mesures ?",
   "r": "Sèvres",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-073",
   "q": "En quelle année est entrée en vigueur la nouvelle définition du kilogramme fondée sur la constante de Planck ?",
   "r": "2019",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-074",
   "q": "Combien de secondes compte une heure ?",
   "r": "3 600",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-075",
   "q": "Quelle unité de puissance, abrégée « ch », sert encore à exprimer la puissance des moteurs de voitures ?",
   "r": "Le cheval-vapeur",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-076",
   "q": "Quelle unité logarithmique sert à exprimer le niveau sonore ?",
   "r": "Le décibel",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-077",
   "q": "À combien de degrés Fahrenheit l'eau gèle-t-elle ?",
   "r": "32 °F",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-078",
   "q": "Quelle unité de surface, notée « ha », vaut 10 000 mètres carrés ?",
   "r": "L'hectare",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-079",
   "q": "Quelle unité, du nom d'un physicien suédois, mesure la dose de rayonnement reçue par l'organisme ?",
   "r": "Le sievert",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-080",
   "q": "Quelle unité, correspondant à une désintégration par seconde, mesure l'activité d'une source radioactive ?",
   "r": "Le becquerel",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-081",
   "q": "Quelle unité d'induction magnétique porte le nom d'un inventeur américain d'origine serbe ?",
   "r": "Le tesla",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-082",
   "q": "Quelle unité de charge électrique porte le nom d'un physicien français qui a étudié les forces électrostatiques ?",
   "r": "Le coulomb",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-083",
   "q": "Quel appareil, branché en série dans un circuit, mesure l'intensité du courant électrique ?",
   "r": "L'ampèremètre",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-084",
   "q": "Quelle unité d'énergie, utilisée en diététique, figure sur les étiquettes à côté des kilojoules ?",
   "r": "La kilocalorie",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-085",
   "q": "Quelle échelle, du nom d'un sismologue américain, mesure la magnitude des séismes ?",
   "r": "L'échelle de Richter",
   "d": 1,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-086",
   "q": "Quelle échelle de 1 à 10 classe la dureté des minéraux, du talc jusqu'au diamant ?",
   "r": "L'échelle de Mohs",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-087",
   "q": "Quelle unité de masse des pierres précieuses vaut 0,2 gramme ?",
   "r": "Le carat",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-088",
   "q": "Quelle unité, valant 10 puissance −10 mètre, porte le nom d'un physicien suédois et sert à mesurer les atomes ?",
   "r": "L'ångström",
   "d": 3,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-089",
   "q": "Depuis 1983, quelle unité est définie comme la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde ?",
   "r": "Le mètre",
   "d": 2,
   "t": "Unités et mesures"
  },
  {
+  "id": "sci_a_1-090",
   "q": "Depuis 1967, la seconde est définie à partir des oscillations de quel atome ?",
   "r": "Le césium",
   "d": 3,

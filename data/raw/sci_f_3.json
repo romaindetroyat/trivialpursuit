@@ -1,0 +1,597 @@
+[
+ {
+  "id": "sci_f_3-001",
+  "q": "Quel comte allemand a donné son nom aux grands dirigeables rigides ?",
+  "r": "Ferdinand von Zeppelin",
+  "d": 1,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-002",
+  "q": "Comment appelle-t-on botaniquement la partie renflée de la pomme de terre que l'on mange ?",
+  "r": "Un tubercule",
+  "d": 1,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_3-003",
+  "q": "Quel marsupial australien produit des excréments en forme de cube ?",
+  "r": "Le wombat",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_3-004",
+  "q": "Quelle ville a inauguré en 1983 le VAL, premier métro automatique sans conducteur de France ?",
+  "r": "Lille",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-005",
+  "q": "À quel fonctionnaire chinois attribue-t-on traditionnellement l'invention du papier vers l'an 105 ?",
+  "r": "Cai Lun",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_3-006",
+  "q": "Comment appelle-t-on la vaste dépression circulaire formée par l'effondrement du sommet d'un volcan ?",
+  "r": "Une caldeira",
+  "d": 2,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_3-007",
+  "q": "Quel coléoptère rayé jaune et noir ravage les champs de pommes de terre ?",
+  "r": "Le doryphore",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_3-008",
+  "q": "Comment appelle-t-on les précipitations en grains de glace, fréquentes lors des orages d'été ?",
+  "r": "La grêle",
+  "d": 1,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_3-009",
+  "q": "De quel pays est originaire le hamster doré, devenu animal de compagnie ?",
+  "r": "La Syrie",
+  "d": 3,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_3-010",
+  "q": "Quel animal marin urticant, appelé « galère portugaise », est en réalité une colonie d'organismes ?",
+  "r": "La physalie",
+  "d": 3,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_3-011",
+  "q": "De quelle couleur est la carapace du homard européen vivant, avant cuisson ?",
+  "r": "Bleu foncé",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_3-012",
+  "q": "Quel poète français décrivit en 1877 le « paléophone », procédé d'enregistrement et de reproduction du son ?",
+  "r": "Charles Cros",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_3-013",
+  "q": "Quelle région de Californie, au sud de San Francisco, concentre les géants de l'informatique ?",
+  "r": "La Silicon Valley",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_3-014",
+  "q": "Quel carnivore africain est célèbre pour ses cris ressemblant à un ricanement ?",
+  "r": "La hyène",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_3-015",
+  "q": "Comment appelle-t-on l'avalanche brûlante de gaz, de cendres et de blocs qui dévale les pentes d'un volcan ?",
+  "r": "Une nuée ardente (coulée pyroclastique)",
+  "d": 2,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_3-016",
+  "q": "Quelle épice est tirée de la membrane rouge qui entoure la noix de muscade ?",
+  "r": "Le macis",
+  "d": 3,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_3-017",
+  "q": "Quel conifère, souvent vendu comme « sapin de Noël », a des cônes qui pendent vers le bas ?",
+  "r": "L'épicéa",
+  "d": 3,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_3-018",
+  "q": "Dans quelle vallée désertique de Californie a-t-on relevé 56,7 °C en 1913 ?",
+  "r": "La vallée de la Mort",
+  "d": 2,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_3-019",
+  "q": "Comment qualifie-t-on une espèce introduite qui prolifère au détriment des espèces locales ?",
+  "r": "Invasive (envahissante)",
+  "d": 1,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_3-020",
+  "q": "Quel gisement de gaz naturel, découvert en 1951 dans les Pyrénées-Atlantiques, fut le plus important de France ?",
+  "r": "Lacq",
+  "d": 2,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_3-021",
+  "q": "Quelle plante à fleurs jaunes est aussi appelée « dent-de-lion » ?",
+  "r": "Le pissenlit",
+  "d": 1,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_3-022",
+  "q": "Dans un double arc-en-ciel, qu'a de particulier l'arc secondaire ?",
+  "r": "Ses couleurs sont inversées",
+  "d": 3,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_3-023",
+  "q": "Comment appelle-t-on la femelle du singe ?",
+  "r": "La guenon",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_3-024",
+  "q": "Quel verbe désigne le cri du mouton ?",
+  "r": "Bêler",
+  "d": 1,
+  "t": "Cris des animaux"
+ },
+ {
+  "id": "sci_f_3-025",
+  "q": "Qu'est-ce qu'une panthère noire ?",
+  "r": "Un léopard ou jaguar mélanique",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_3-026",
+  "q": "Quel mollusque marin projette un nuage d'encre, jadis utilisé pour produire la sépia ?",
+  "r": "La seiche",
+  "d": 1,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_3-027",
+  "q": "Comment appelle-t-on le phénomène qui rend les villes plus chaudes que les campagnes environnantes ?",
+  "r": "L'îlot de chaleur urbain",
+  "d": 2,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_3-028",
+  "q": "Quel arbre fruitier la Bounty devait-elle transporter de Tahiti aux Antilles en 1789 ?",
+  "r": "L'arbre à pain",
+  "d": 2,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_3-029",
+  "q": "Comment appelle-t-on le mâle de la brebis ?",
+  "r": "Le bélier",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_3-030",
+  "q": "De la contraction de quels mots anglais vient le terme « pixel » ?",
+  "r": "Picture element",
+  "d": 2,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_3-031",
+  "q": "Comment appelle-t-on l'allure où le cheval lève en même temps les deux jambes du même côté ?",
+  "r": "L'amble",
+  "d": 3,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_3-032",
+  "q": "Quel dirigeable allemand s'est embrasé en 1937 à Lakehurst, aux États-Unis ?",
+  "r": "Le Hindenburg",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-033",
+  "q": "Comment appelle-t-on le charbon le plus riche en carbone, à l'éclat brillant ?",
+  "r": "L'anthracite",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-034",
+  "q": "Quel arbre produit les châtaignes comestibles, à ne pas confondre avec le marronnier d'Inde ?",
+  "r": "Le châtaignier",
+  "d": 1,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_3-035",
+  "q": "Quel chien bas sur pattes, surnommé « chien saucisse », était sélectionné pour chasser le blaireau ?",
+  "r": "Le teckel",
+  "d": 1,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_3-036",
+  "q": "Quelle catastrophe minière fit plus de 1 000 morts dans le Pas-de-Calais en 1906 ?",
+  "r": "La catastrophe de Courrières",
+  "d": 2,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_3-037",
+  "q": "Combien de bras possède un calmar, en comptant ses deux longs tentacules ?",
+  "r": "Dix",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_3-038",
+  "q": "Comment appelle-t-on la femelle du cerf ?",
+  "r": "La biche",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_3-039",
+  "q": "Quel arbre du bord de l'eau est dit « pleureur » pour ses branches retombantes ?",
+  "r": "Le saule",
+  "d": 1,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_3-040",
+  "q": "Comment appelle-t-on le petit de l'éléphant ?",
+  "r": "L'éléphanteau",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_3-041",
+  "q": "Quelle plante urticante sert aussi à préparer un purin apprécié des jardiniers ?",
+  "r": "L'ortie",
+  "d": 1,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_3-042",
+  "q": "Quel minéral, dont un petit cristal vibre sous l'effet d'un courant électrique, cadence la plupart des montres ?",
+  "r": "Le quartz",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-043",
+  "q": "Quel petit oiseau au plumage bleu et orange plonge dans les rivières pour attraper des poissons ?",
+  "r": "Le martin-pêcheur",
+  "d": 1,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_3-044",
+  "q": "Quel aviateur américain a réussi en 1927 la première traversée de l'Atlantique en solitaire et sans escale ?",
+  "r": "Charles Lindbergh",
+  "d": 1,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-045",
+  "q": "Quel ingénieur américain a lancé en 1926 la première fusée à ergols liquides ?",
+  "r": "Robert Goddard",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_3-046",
+  "q": "Quel grand félin américain est aussi appelé couguar ou lion des montagnes ?",
+  "r": "Le puma",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_3-047",
+  "q": "Quel horloger anglais mit au point au XVIIIe siècle le chronomètre de marine permettant de calculer la longitude ?",
+  "r": "John Harrison",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_3-048",
+  "q": "Quelle race de chien d'origine chinoise a la particularité d'avoir la langue bleu-noir ?",
+  "r": "Le chow-chow (ou le shar-pei)",
+  "d": 2,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_3-049",
+  "q": "Quel insecte assure la pollinisation du figuier en pénétrant à l'intérieur de la figue ?",
+  "r": "Une petite guêpe (blastophage)",
+  "d": 3,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_3-050",
+  "q": "Quel train de luxe a été lancé en 1883 entre Paris et Constantinople ?",
+  "r": "L'Orient-Express",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-051",
+  "q": "Comment appelle-t-on l'exploration et l'étude des grottes ?",
+  "r": "La spéléologie",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-052",
+  "q": "Comment appelle-t-on le coq castré et engraissé pour la table ?",
+  "r": "Le chapon",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_3-053",
+  "q": "Les défenses de l'éléphant sont des dents : lesquelles ?",
+  "r": "Des incisives",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_3-054",
+  "q": "Quelle race de chien blanc à taches noires a été popularisée par un dessin animé Disney de 1961 ?",
+  "r": "Le dalmatien",
+  "d": 1,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_3-055",
+  "q": "De quelle couleur sont en réalité les « boîtes noires » des avions ?",
+  "r": "Orange",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-056",
+  "q": "Comment appelle-t-on la larve du hanneton, qui dévore les racines ?",
+  "r": "Le ver blanc",
+  "d": 2,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_3-057",
+  "q": "Quel agrume parfume le thé Earl Grey ?",
+  "r": "La bergamote",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_3-058",
+  "q": "Quel requin est reconnaissable à sa tête aplatie en forme de T ?",
+  "r": "Le requin-marteau",
+  "d": 1,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_3-059",
+  "q": "Quels petits insectes suceurs de sève sont la proie favorite de la coccinelle ?",
+  "r": "Les pucerons",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_3-060",
+  "q": "Quel insecte se camoufle en imitant parfaitement une brindille ?",
+  "r": "Le phasme",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_3-061",
+  "q": "Quel oiseau marin de l'hémisphère Nord, contrairement au manchot, sait voler ?",
+  "r": "Le pingouin (petit pingouin)",
+  "d": 2,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_3-062",
+  "q": "Quelle fibre textile provient de la chèvre angora ?",
+  "r": "Le mohair",
+  "d": 2,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_3-063",
+  "q": "Quelle roche très dure, trouvée dans la craie, servait à fabriquer des outils préhistoriques et à faire des étincelles ?",
+  "r": "Le silex",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-064",
+  "q": "Quel avion de Boeing, surnommé « Jumbo Jet », a effectué son premier vol en 1969 ?",
+  "r": "Le Boeing 747",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_3-065",
+  "q": "Quel horloger a breveté en 1801 le tourbillon, dispositif améliorant la précision des montres ?",
+  "r": "Abraham-Louis Breguet",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_3-066",
+  "q": "Quel chien de berger français à poil long, doté d'un double ergot, doit son nom à une région célèbre pour son fromage ?",
+  "r": "Le briard",
+  "d": 2,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_3-067",
+  "q": "Comment appelle-t-on le petit de la chèvre ?",
+  "r": "Le chevreau",
+  "d": 1,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_3-068",
+  "q": "Quelle roche, jadis extraite à Montmartre, sert à fabriquer le plâtre ?",
+  "r": "Le gypse",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-069",
+  "q": "Quels gaz, rejetés notamment par les centrales au charbon, sont les principaux responsables des pluies acides ?",
+  "r": "Dioxyde de soufre et oxydes d'azote",
+  "d": 3,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_3-070",
+  "q": "Comment appelle-t-on le gaz inflammable, surtout composé de méthane, redouté des mineurs de charbon ?",
+  "r": "Le grisou",
+  "d": 1,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_3-071",
+  "q": "Sur quel volcan d'Hawaï mesure-t-on depuis 1958 la concentration de CO2 de l'atmosphère ?",
+  "r": "Le Mauna Loa",
+  "d": 3,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_3-072",
+  "q": "Quel verbe désigne le cri du crocodile ?",
+  "r": "Vagir",
+  "d": 3,
+  "t": "Cris des animaux"
+ },
+ {
+  "id": "sci_f_3-073",
+  "q": "Quel insecte social, mangeur de bois, peut ravager les charpentes des maisons ?",
+  "r": "Le termite",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_3-074",
+  "q": "Quel détail physique distingue le hibou de la chouette ?",
+  "r": "Les aigrettes (« oreilles »)",
+  "d": 2,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_3-075",
+  "q": "Quel fruit, dont le nom vient du nahuatl « ahuacatl », est originaire du Mexique ?",
+  "r": "L'avocat",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_3-076",
+  "q": "Quelle race de chat originaire de Thaïlande a les yeux bleus et les extrémités du corps plus foncées ?",
+  "r": "Le siamois",
+  "d": 1,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_3-077",
+  "q": "En France, vers quel professionnel de santé se tourne-t-on traditionnellement pour faire identifier sa cueillette de champignons ?",
+  "r": "Le pharmacien",
+  "d": 1,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_3-078",
+  "q": "Quel message de deux mots fut le premier SMS envoyé, en décembre 1992 ?",
+  "r": "« Merry Christmas »",
+  "d": 3,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_3-079",
+  "q": "Quels insecticides, accusés de décimer les abeilles, ont été interdits en France en 2018 ?",
+  "r": "Les néonicotinoïdes",
+  "d": 2,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_3-080",
+  "q": "Quelle proportion environ du volume d'un iceberg est immergée ?",
+  "r": "Environ 90 %",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-081",
+  "q": "Quel reptile sans pattes, souvent pris pour un serpent, est en réalité un lézard ?",
+  "r": "L'orvet",
+  "d": 2,
+  "t": "Reptiles et amphibiens"
+ },
+ {
+  "id": "sci_f_3-082",
+  "q": "Comment appelle-t-on le repérage par l'écho des sons, utilisé par les chauves-souris et les dauphins ?",
+  "r": "L'écholocation",
+  "d": 2,
+  "t": "Comportements animaux"
+ },
+ {
+  "id": "sci_f_3-083",
+  "q": "De quel continent est originaire le mimosa qui fleurit en hiver sur la Côte d'Azur ?",
+  "r": "L'Australie",
+  "d": 2,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_3-084",
+  "q": "Quelle argile blanche, découverte près de Limoges au XVIIIe siècle, est indispensable à la porcelaine ?",
+  "r": "Le kaolin",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_3-085",
+  "q": "Quelle entreprise française a lancé en 1953 la « Super Cocotte » ?",
+  "r": "SEB",
+  "d": 2,
+  "t": "Inventions"
+ }
+]

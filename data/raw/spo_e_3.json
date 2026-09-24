@@ -1,0 +1,597 @@
+[
+ {
+  "id": "spo_e_3-001",
+  "q": "Quelle ville du Béarn accueille un Grand Prix automobile urbain depuis 1933 ?",
+  "r": "Pau",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-002",
+  "q": "Quel circuit allemand, surnommé « l'Enfer vert », possède une boucle nord de près de 21 km ?",
+  "r": "Le Nürburgring",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-003",
+  "q": "Quel championnat américain de stock-cars a pour course phare le Daytona 500 ?",
+  "r": "La NASCAR",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-004",
+  "q": "Quel est le seul pilote sacré champion du monde de F1 à titre posthume, en 1970 ?",
+  "r": "Jochen Rindt",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-005",
+  "q": "Sur quel circuit japonais Alain Prost et Ayrton Senna se sont-ils accrochés en 1989 et en 1990 ?",
+  "r": "Suzuka",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-006",
+  "q": "Quel pilote français a remporté le Grand Prix d'Italie de F1 en 2020, à Monza ?",
+  "r": "Pierre Gasly",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-007",
+  "q": "Quel surnom portaient les Mercedes et Auto Union de course des années 1930 ?",
+  "r": "Les Flèches d'argent",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-008",
+  "q": "Quelle marque alsacienne a remporté le premier Grand Prix de Monaco, en 1929 ?",
+  "r": "Bugatti",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-009",
+  "q": "Près de quelle ville s'est couru en 1906 le premier Grand Prix automobile de l'histoire, organisé par l'Automobile Club de France ?",
+  "r": "Le Mans",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-010",
+  "q": "Quel pilote néerlandais a été sacré champion du monde de F1 pour la première fois en 2021 ?",
+  "r": "Max Verstappen",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-011",
+  "q": "Quel pilote espagnol a été champion du monde de F1 en 2005 et en 2006 ?",
+  "r": "Fernando Alonso",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-012",
+  "q": "Quel pilote britannique, champion du monde de F1 en 1976, a vu son duel avec Niki Lauda raconté dans le film « Rush » ?",
+  "r": "James Hunt",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-013",
+  "q": "Quel pilote écossais a été trois fois champion du monde de F1, en 1969, 1971 et 1973 ?",
+  "r": "Jackie Stewart",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-014",
+  "q": "Quel pilote anglais moustachu, surnommé « Il Leone » par les tifosi, a été champion du monde de F1 en 1992 ?",
+  "r": "Nigel Mansell",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-015",
+  "q": "Quelle ville a accueilli en 2008 le premier Grand Prix de F1 couru de nuit ?",
+  "r": "Singapour",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-016",
+  "q": "Quel championnat français de courses automobiles se dispute sur circuits de glace en hiver ?",
+  "r": "Le Trophée Andros",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-017",
+  "q": "Quelle course de côte du Colorado Sébastien Loeb a-t-il remportée en 2013 en pulvérisant le record ?",
+  "r": "Pikes Peak",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-018",
+  "q": "Quelle discipline moto consiste à franchir des obstacles naturels ou artificiels sans poser le pied à terre ?",
+  "r": "Le trial",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-019",
+  "q": "Comment appelle-t-on la séance qui détermine l'ordre de la grille de départ d'un Grand Prix ?",
+  "r": "Les qualifications",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "id": "spo_e_3-020",
+  "q": "Quel est le plus ancien des tournois majeurs de golf, créé en 1860 en Écosse ?",
+  "r": "L'Open britannique (The Open)",
+  "d": 1,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-021",
+  "q": "Combien de clubs un golfeur peut-il avoir au maximum dans son sac en compétition ?",
+  "r": "14",
+  "d": 2,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-022",
+  "q": "Comment appelle-t-on la personne qui porte le sac et conseille le golfeur ?",
+  "r": "Le caddie",
+  "d": 1,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-023",
+  "q": "Comment appelle-t-on l'allée de gazon tondu ras qui mène du départ au green ?",
+  "r": "Le fairway",
+  "d": 1,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-024",
+  "q": "Quel nombre mesure le niveau de jeu d'un golfeur amateur, et lui donne des coups rendus ?",
+  "r": "Le handicap (index)",
+  "d": 1,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-025",
+  "q": "Quel golfeur sud-africain, surnommé « le Chevalier noir », a remporté neuf tournois majeurs ?",
+  "r": "Gary Player",
+  "d": 3,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-026",
+  "q": "Quel golfeur français a remporté le British Open en 1907 ?",
+  "r": "Arnaud Massy",
+  "d": 3,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-027",
+  "q": "Quelle Française a remporté l'US Open féminin de golf en 1967, alors qu'elle était amateur ?",
+  "r": "Catherine Lacoste",
+  "d": 3,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-028",
+  "q": "Quel est l'équivalent féminin de la Ryder Cup ?",
+  "r": "La Solheim Cup",
+  "d": 2,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-029",
+  "q": "Quelle golfeuse suédoise a été la première à jouer une carte de 59 sur le circuit LPGA, en 2001 ?",
+  "r": "Annika Sörenstam",
+  "d": 3,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-030",
+  "q": "Quel club, très ouvert, sert surtout à sortir la balle d'un bunker ?",
+  "r": "Le sand wedge",
+  "d": 2,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-031",
+  "q": "Comment appelle-t-on la formule de jeu où l'on compte les trous gagnés plutôt que le total de coups ?",
+  "r": "Le match-play",
+  "d": 2,
+  "t": "Golf"
+ },
+ {
+  "id": "spo_e_3-032",
+  "q": "Quel navigateur a remporté le Vendée Globe 2016-2017 en 74 jours ?",
+  "r": "Armel Le Cléac'h",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-033",
+  "q": "Quelle navigatrice, surnommée « la petite fiancée de l'Atlantique », a remporté la Route du Rhum en 1990 ?",
+  "r": "Florence Arthaud",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-034",
+  "q": "Quel Français de 73 ans a remporté en 2019 la Golden Globe Race, tour du monde en solitaire sans électronique ?",
+  "r": "Jean-Luc Van Den Heede",
+  "d": 3,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-035",
+  "q": "Quel marin a été le premier à faire le tour du monde à la voile en solitaire, de 1895 à 1898 ?",
+  "r": "Joshua Slocum",
+  "d": 3,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-036",
+  "q": "Comment appelle-t-on le côté droit d'un bateau quand on regarde vers l'avant ?",
+  "r": "Tribord",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-037",
+  "q": "Comment appelle-t-on l'avant d'un navire ?",
+  "r": "La proue",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-038",
+  "q": "Quelle voile triangulaire se hisse à l'avant du mât, sur l'étai ?",
+  "r": "Le foc",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-039",
+  "q": "Comment appelle-t-on l'espar horizontal, articulé sur le mât, qui tient le bas de la grand-voile ?",
+  "r": "La bôme",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-040",
+  "q": "Quel appendice lesté, sous la coque d'un voilier, l'empêche de dériver et de chavirer ?",
+  "r": "La quille",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-041",
+  "q": "Quels appendices en forme d'aile permettent à certains voiliers de « voler » au-dessus de l'eau ?",
+  "r": "Les foils",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-042",
+  "q": "À combien de kilomètres par heure correspond une vitesse d'un nœud ?",
+  "r": "1,852 km/h",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-043",
+  "q": "Comment appelle-t-on l'allure d'un voilier qui reçoit le vent perpendiculairement à son axe ?",
+  "r": "Le travers",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-044",
+  "q": "Comment appelle-t-on le changement d'amure qui fait passer l'arrière du bateau face au vent ?",
+  "r": "L'empannage",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-045",
+  "q": "Quel cap, au sud de l'Amérique, est le plus redouté des marins du Vendée Globe ?",
+  "r": "Le cap Horn",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-046",
+  "q": "Comment appelle-t-on les latitudes de l'océan Austral réputées pour leurs vents violents, entre 40° et 50° ?",
+  "r": "Les quarantièmes rugissants",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-047",
+  "q": "Quelle course transatlantique en solitaire se court sur des voiliers de 6,50 m ?",
+  "r": "La Mini-Transat",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-048",
+  "q": "Quel rameur britannique a remporté cinq titres olympiques consécutifs, de 1984 à 2000 ?",
+  "r": "Steve Redgrave",
+  "d": 3,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-049",
+  "q": "Quelle embarcation propulse-t-on assis, avec une pagaie à deux pales ?",
+  "r": "Le kayak",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-050",
+  "q": "Comment appelle-t-on en surf l'intérieur creux d'une vague qui déferle ?",
+  "r": "Le tube",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-051",
+  "q": "Quel nageur hawaïen, champion olympique en 1912 et 1920, est considéré comme le père du surf moderne ?",
+  "r": "Duke Kahanamoku",
+  "d": 3,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-052",
+  "q": "Près de quelle ville portugaise déferlent des vagues géantes de plus de 20 m, surfées en tow-in ?",
+  "r": "Nazaré",
+  "d": 2,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-053",
+  "q": "Quel surfeur américain a remporté onze titres de champion du monde ?",
+  "r": "Kelly Slater",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-054",
+  "q": "Quelle activité nautique se pratique debout sur une planche avec une longue pagaie ?",
+  "r": "Le stand up paddle",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-055",
+  "q": "Quel sport nautique consiste à glisser sur une planche courte, tracté par un bateau ou un câble ?",
+  "r": "Le wakeboard",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-056",
+  "q": "Quelle embarcation ouverte propulse-t-on, souvent à genoux, avec une pagaie à une seule pale ?",
+  "r": "Le canoë",
+  "d": 1,
+  "t": "Voile et nautisme"
+ },
+ {
+  "id": "spo_e_3-057",
+  "q": "Combien de reprises compte au maximum un championnat du monde de boxe professionnelle depuis la fin des années 1980 ?",
+  "r": "12",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-058",
+  "q": "Quel boxeur a infligé à Mohamed Ali sa première défaite professionnelle, en 1971 ?",
+  "r": "Joe Frazier",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-059",
+  "q": "Quel boxeur américain a été cinq fois champion du monde des poids moyens dans les années 1950 ?",
+  "r": "Sugar Ray Robinson",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-060",
+  "q": "Quel film de Martin Scorsese raconte la vie du boxeur Jake LaMotta ?",
+  "r": "Raging Bull",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-061",
+  "q": "Quel boxeur français affronta Jack Dempsey en 1921, lors du premier combat à un million de dollars de recette ?",
+  "r": "Georges Carpentier",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-062",
+  "q": "Comment appelle-t-on le coup porté de bas en haut vers le menton de l'adversaire ?",
+  "r": "L'uppercut",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-063",
+  "q": "Comment appelle-t-on en boxe le coup direct et rapide porté avec le bras avant ?",
+  "r": "Le jab",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-064",
+  "q": "Quelle catégorie de poids en boxe porte le nom de l'emblème de la France ?",
+  "r": "Les poids coq",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-065",
+  "q": "En savate boxe française, quel équipement de couleur indique le niveau du pratiquant ?",
+  "r": "Les gants",
+  "d": 3,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-066",
+  "q": "Quel boxeur a infligé à Mike Tyson sa première défaite professionnelle, à Tokyo en 1990 ?",
+  "r": "Buster Douglas",
+  "d": 3,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-067",
+  "q": "Quel boxeur est redevenu champion du monde des poids lourds en 1994, à 45 ans ?",
+  "r": "George Foreman",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-068",
+  "q": "Quels frères ukrainiens ont dominé la boxe poids lourds dans les années 2000 ?",
+  "r": "Vitali et Wladimir Klitschko",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-069",
+  "q": "Quelle ligue américaine est la plus célèbre organisation de combats d'arts martiaux mixtes ?",
+  "r": "L'UFC",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-070",
+  "q": "Comment s'appelle au judo l'avantage immédiatement inférieur à l'ippon ?",
+  "r": "Waza-ari",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-071",
+  "q": "Comment appelle-t-on la tenue en toile épaisse que porte le judoka ?",
+  "r": "Le judogi",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-072",
+  "q": "Quelle couleur de ceinture précède la ceinture noire au judo ?",
+  "r": "Marron",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-073",
+  "q": "Quelle judokate française a été sacrée championne olympique aux JO de Londres 2012 ?",
+  "r": "Lucie Décosse",
+  "d": 3,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-074",
+  "q": "Comment appelle-t-on la salle d'entraînement aux arts martiaux japonais ?",
+  "r": "Le dojo",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-075",
+  "q": "Comment appelle-t-on l'enchaînement codifié de mouvements exécuté seul en karaté ?",
+  "r": "Le kata",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-076",
+  "q": "Quel lutteur russe, triple champion olympique de lutte gréco-romaine, est resté invaincu pendant 13 ans jusqu'en 2000 ?",
+  "r": "Alexandre Kareline",
+  "d": 3,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-077",
+  "q": "Comment appelle-t-on le mouvement d'escrime où l'on projette la jambe avant en tendant le bras armé ?",
+  "r": "La fente",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-078",
+  "q": "Quelle épéiste française, surnommée « la Guêpe », a été double championne olympique à Atlanta en 1996 ?",
+  "r": "Laura Flessel",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-079",
+  "q": "Quelle veste conductrice porte le fleurettiste pour que les touches valables soient détectées ?",
+  "r": "Le lamé",
+  "d": 3,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-080",
+  "q": "Quelle méthode de combat et d'autodéfense a été développée par Imi Lichtenfeld pour l'armée israélienne ?",
+  "r": "Le krav-maga",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-081",
+  "q": "Quel art martial de combat au sol, dérivé du judo, a été popularisé par la famille Gracie ?",
+  "r": "Le jiu-jitsu brésilien",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-082",
+  "q": "Quelle lutte traditionnelle helvétique se pratique dans un rond de sciure ?",
+  "r": "La lutte suisse",
+  "d": 2,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-083",
+  "q": "Quel sabre en lamelles de bambou utilise-t-on au kendo ?",
+  "r": "Le shinai",
+  "d": 3,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-084",
+  "q": "Quel art martial chinois, pratiqué lentement dans les parcs, signifie « boxe du faîte suprême » ?",
+  "r": "Le tai-chi-chuan",
+  "d": 1,
+  "t": "Sports de combat"
+ },
+ {
+  "id": "spo_e_3-085",
+  "q": "Quelle pièce métallique, placée dans la bouche du cheval, permet au cavalier de le diriger ?",
+  "r": "Le mors",
+  "d": 1,
+  "t": "Équitation et hippisme"
+ }
+]

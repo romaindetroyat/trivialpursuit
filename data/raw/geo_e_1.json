@@ -1,0 +1,597 @@
+[
+ {
+  "id": "geo_e_1-001",
+  "q": "Quel tombeau néolithique irlandais, plus ancien que les pyramides, est illuminé par le soleil au solstice d'hiver ?",
+  "r": "Newgrange",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-002",
+  "q": "Quel mot arabe, signifiant « rivage », désigne la bande semi-aride qui borde le sud du Sahara ?",
+  "r": "Le Sahel",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-003",
+  "q": "Comment appelle-t-on les habitants du Burkina Faso ?",
+  "r": "Les Burkinabè",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-004",
+  "q": "Quelle région espagnole, dont la capitale est Mérida, fut la terre natale des conquistadors Pizarro et Cortés ?",
+  "r": "L'Estrémadure",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-005",
+  "q": "Quelle ville de Sicile, fondée par les Corinthiens, fut la patrie d'Archimède ?",
+  "r": "Syracuse",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-006",
+  "q": "Quel est le plus grand lac naturel d'Angleterre, dans le Lake District ?",
+  "r": "Le Windermere",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_1-007",
+  "q": "Quelle ville du Nigeria, capitale d'un ancien royaume, a donné son nom à des bronzes célèbres pillés en 1897 ?",
+  "r": "Benin City",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-008",
+  "q": "Quelle ville de Toscane accueille le Palio, course de chevaux disputée sur la Piazza del Campo ?",
+  "r": "Sienne",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-009",
+  "q": "Quelle ville russe portait le nom de Stalingrad de 1925 à 1961 ?",
+  "r": "Volgograd",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-010",
+  "q": "Quelle ville sénégalaise, bâtie sur une île à l'embouchure du fleuve Sénégal, fut fondée par les Français en 1659 ?",
+  "r": "Saint-Louis",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-011",
+  "q": "Quelle langue, dérivée du néerlandais, est l'une des langues officielles de l'Afrique du Sud ?",
+  "r": "L'afrikaans",
+  "d": 1,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_1-012",
+  "q": "Quel ancien port du Yémen a donné son nom à une variété de café ?",
+  "r": "Moka",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-013",
+  "q": "Comment appelle-t-on les églises médiévales en bois debout typiques de la Norvège ?",
+  "r": "Les stavkirker",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-014",
+  "q": "Comment appelle-t-on les habitants du Lesotho ?",
+  "r": "Les Basotho",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-015",
+  "q": "Quelle ville du nord du Maroc, face à Gibraltar, eut un statut de zone internationale de 1923 à 1956 ?",
+  "r": "Tanger",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-016",
+  "q": "Quel site de Campanie, l'antique Poseidonia, possède parmi les temples grecs les mieux conservés d'Italie ?",
+  "r": "Paestum",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-017",
+  "q": "Quel parc d'attractions de Copenhague, ouvert en 1843, aurait inspiré Walt Disney ?",
+  "r": "Tivoli",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-018",
+  "q": "Quelle ville espagnole d'Afrique du Nord, autre que Ceuta, est enclavée sur la côte marocaine ?",
+  "r": "Melilla",
+  "d": 1,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_1-019",
+  "q": "Sur quelle île des Canaries pratique-t-on le silbo, une langue sifflée ?",
+  "r": "La Gomera",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-020",
+  "q": "Comment appelle-t-on les habitants d'Alger ?",
+  "r": "Les Algérois",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-021",
+  "q": "Comment appelle-t-on les habitants de Damas ?",
+  "r": "Les Damascènes",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-022",
+  "q": "Quel îlot rocheux irlandais, portant un monastère perché, a servi de décor au film Star Wars : Le Réveil de la Force ?",
+  "r": "Skellig Michael",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-023",
+  "q": "Dans quelle ville la bière Guinness est-elle brassée depuis 1759 ?",
+  "r": "Dublin",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-024",
+  "q": "Quel légume est, avec la jonquille, l'emblème du pays de Galles ?",
+  "r": "Le poireau",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_1-025",
+  "q": "Quel mot arabe, signifiant « le couchant », désigne l'Afrique du Nord-Ouest ?",
+  "r": "Le Maghreb",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-026",
+  "q": "Dans quel château irlandais embrasse-t-on une pierre censée donner le don de l'éloquence ?",
+  "r": "Le château de Blarney",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-027",
+  "q": "Quelle langue germanique, officielle dans une province du nord des Pays-Bas, est réputée la plus proche de l'anglais ?",
+  "r": "Le frison",
+  "d": 3,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_1-028",
+  "q": "Quelle petite île anglo-normande, dotée de son propre parlement, interdit les voitures sur ses routes ?",
+  "r": "Sercq",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-029",
+  "q": "Quelle ville néerlandaise a donné son nom à un fromage en boule enrobé de cire rouge ?",
+  "r": "Édam",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-030",
+  "q": "Quelle sierra, au nord-ouest de Madrid, sépare la capitale espagnole de la ville de Ségovie ?",
+  "r": "La sierra de Guadarrama",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_1-031",
+  "q": "Quel fleuve sert de frontière entre l'Afrique du Sud et la Namibie ?",
+  "r": "L'Orange",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_1-032",
+  "q": "Quelle ville sainte de Tunisie, fondée en 670, abrite la plus ancienne grande mosquée du Maghreb ?",
+  "r": "Kairouan",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-033",
+  "q": "Quelle ville éthiopienne, capitale au XVIIe siècle, est célèbre pour ses châteaux qui lui valent le surnom de « Camelot de l'Afrique » ?",
+  "r": "Gondar",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-034",
+  "q": "Quelle ville bulgare, l'une des plus anciennes villes habitées d'Europe, fut appelée Philippopolis dans l'Antiquité ?",
+  "r": "Plovdiv",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-035",
+  "q": "Quelle ville du Yémen, aux gratte-ciel de terre crue, est surnommée le « Manhattan du désert » ?",
+  "r": "Shibam",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-036",
+  "q": "Quelle île kényane, classée à l'UNESCO, abrite une vieille ville swahilie où l'on circule à dos d'âne ?",
+  "r": "Lamu",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-037",
+  "q": "Quel fleuve d'Afrique de l'Ouest marque la frontière entre la Mauritanie et son voisin du sud-ouest ?",
+  "r": "Le fleuve Sénégal",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_1-038",
+  "q": "Quelle grande roue du Prater de Vienne apparaît dans le film Le Troisième Homme ?",
+  "r": "La Riesenrad",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-039",
+  "q": "Quelle province néerlandaise, faite d'îles et de presqu'îles, a donné son nom à un pays d'Océanie ?",
+  "r": "La Zélande",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-040",
+  "q": "Quel mont grec, domaine d'Apollon et des Muses, domine le site de Delphes ?",
+  "r": "Le Parnasse",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_1-041",
+  "q": "Sur quelle petite île écossaise saint Colomba fonda-t-il un monastère en 563 ?",
+  "r": "Iona",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-042",
+  "q": "Quelle région historique de la côte croate a donné son nom à une race de chiens tachetés ?",
+  "r": "La Dalmatie",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-043",
+  "q": "Quelle tour de style manuélin gardait l'entrée du port de Lisbonne sur le Tage ?",
+  "r": "La tour de Belém",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-044",
+  "q": "Quel château de l'ordre Teutonique, en Pologne, est le plus grand château en briques du monde ?",
+  "r": "Malbork",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-045",
+  "q": "Dans quelle ville néerlandaise fut signé en 1992 le traité fondateur de l'Union européenne ?",
+  "r": "Maastricht",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-046",
+  "q": "Comment appelle-t-on les habitants de Parme, en Italie ?",
+  "r": "Les Parmesans",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-047",
+  "q": "Quel loch, le plus vaste de Grande-Bretagne, est célébré par une ballade écossaise sur ses « bonnie banks » ?",
+  "r": "Le loch Lomond",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_1-048",
+  "q": "Comment appelle-t-on les habitants de Kinshasa ?",
+  "r": "Les Kinois",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-049",
+  "q": "Quel ksar marocain en terre, près de Ouarzazate, a servi de décor à de nombreux films ?",
+  "r": "Aït-Ben-Haddou",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-050",
+  "q": "Quel est le titre de l'hymne national de la Belgique ?",
+  "r": "La Brabançonne",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_1-051",
+  "q": "Comment appelle-t-on les habitants du Liechtenstein ?",
+  "r": "Les Liechtensteinois",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_1-052",
+  "q": "Dans quel site islandais, où l'on voit s'écarter les plaques tectoniques, se réunit le premier parlement, l'Althing, en 930 ?",
+  "r": "Þingvellir (Thingvellir)",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_1-053",
+  "q": "Quel plateau karstique de l'ouest de l'Irlande, dans le comté de Clare, est célèbre pour ses dalles calcaires nues ?",
+  "r": "Le Burren",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_1-054",
+  "q": "Quelle république autonome de l'Azerbaïdjan est séparée du reste du pays par l'Arménie ?",
+  "r": "Le Nakhitchevan",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_1-055",
+  "q": "Quelle région historique, aujourd'hui presque entièrement polonaise, fut conquise sur l'Autriche par Frédéric II de Prusse en 1740-1742 ?",
+  "r": "La Silésie",
+  "d": 3,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-056",
+  "q": "Quelle région d'Écosse, le long d'une rivière du nord-est, concentre le plus grand nombre de distilleries de whisky ?",
+  "r": "Le Speyside",
+  "d": 3,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-057",
+  "q": "Quel arbre géant au tronc renflé, dont plusieurs espèces ne poussent qu'à Madagascar, est l'emblème de l'île ?",
+  "r": "Le baobab",
+  "d": 1,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_1-058",
+  "q": "Quel sommet, souvent enneigé, est le point culminant de la chaîne de l'Anti-Liban ?",
+  "r": "Le mont Hermon",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_1-059",
+  "q": "Quel moine a créé l'alphabet arménien au début du Ve siècle ?",
+  "r": "Mesrop Machtots",
+  "d": 3,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_1-060",
+  "q": "Quel ancien royaume anglo-saxon d'Alfred le Grand a servi de cadre imaginaire aux romans de Thomas Hardy ?",
+  "r": "Le Wessex",
+  "d": 3,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-061",
+  "q": "Quelle île des Cyclades, réputée pour sa vie nocturne, est célèbre pour ses moulins et sa « petite Venise » ?",
+  "r": "Mykonos",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-062",
+  "q": "Quel petit pays insulaire lusophone du golfe de Guinée tire son nom de deux îles ?",
+  "r": "Sao Tomé-et-Principe",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-063",
+  "q": "Quelle soupe froide à base de tomate est une spécialité andalouse ?",
+  "r": "Le gazpacho",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-064",
+  "q": "Avec combien de pays l'Allemagne partage-t-elle une frontière terrestre ?",
+  "r": "Neuf",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_1-065",
+  "q": "Quel sommet turc porte les têtes colossales de statues élevées par le roi Antiochos Ier de Commagène ?",
+  "r": "Le Nemrut Dağ",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-066",
+  "q": "Quelle petite plante à trois feuilles est l'emblème de l'Irlande ?",
+  "r": "Le trèfle",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_1-067",
+  "q": "Quel volcan, point culminant de l'Iran, se dresse dans la chaîne de l'Elbourz ?",
+  "r": "Le Damavand",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_1-068",
+  "q": "Comment appelle-t-on l'horloge astronomique médiévale de l'hôtel de ville de Prague ?",
+  "r": "L'Orloj",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-069",
+  "q": "Quelle falaise norvégienne en forme de chaire, surplombant le Lysefjord, attire des milliers de randonneurs ?",
+  "r": "Le Preikestolen",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_1-070",
+  "q": "Quel ensemble de ruines de pierre sèche médiévales a donné son nom à un pays d'Afrique australe ?",
+  "r": "Le Grand Zimbabwe",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-071",
+  "q": "Quel massif calcaire, à cheval sur les Asturies, la Cantabrie et la province de León, porte un nom qui évoque tout un continent ?",
+  "r": "Les pics d'Europe",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_1-072",
+  "q": "Quel Land allemand, le plus vaste du pays, a pour capitale Munich ?",
+  "r": "La Bavière",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_1-073",
+  "q": "Quelle île sainte du nord-est de l'Angleterre, accessible à marée basse, fut pillée par les Vikings en 793 ?",
+  "r": "Lindisfarne",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-074",
+  "q": "Dans quelle ville d'Ombrie se trouve la basilique Saint-François, ornée de fresques de Giotto ?",
+  "r": "Assise",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-075",
+  "q": "Quel grand port du Kenya, sur l'océan Indien, est dominé par le fort Jesus construit par les Portugais ?",
+  "r": "Mombasa",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-076",
+  "q": "Quelle cathédrale anglaise possède la plus haute flèche du pays ?",
+  "r": "La cathédrale de Salisbury",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-077",
+  "q": "Quel théâtre d'opéra milanais, inauguré en 1778, est le plus célèbre d'Italie ?",
+  "r": "La Scala",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_1-078",
+  "q": "Quelle côte de Namibie doit son nom sinistre aux nombreuses épaves et ossements de baleines qui la jonchent ?",
+  "r": "La côte des Squelettes",
+  "d": 1,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_1-079",
+  "q": "Quelle ville de Saxe abrite la première manufacture de porcelaine dure d'Europe, fondée en 1710 ?",
+  "r": "Meissen",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-080",
+  "q": "Quelle ville suisse, capitale de l'horlogerie, est la ville natale de Le Corbusier ?",
+  "r": "La Chaux-de-Fonds",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_1-081",
+  "q": "Quelle dépression d'Éthiopie, l'un des lieux les plus chauds de la planète, abrite le volcan Erta Ale ?",
+  "r": "Le Danakil",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_1-082",
+  "q": "Quelle infusion rouge est tirée d'un arbuste cultivé presque exclusivement dans la région du Cederberg, en Afrique du Sud ?",
+  "r": "Le rooibos",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_1-083",
+  "q": "Quelle exclave angolaise, riche en pétrole, est séparée du reste du pays par une bande de territoire de la RD Congo ?",
+  "r": "Cabinda",
+  "d": 2,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_1-084",
+  "q": "Quelles îles au large de Galway ont donné leur nom à des pulls de laine torsadés ?",
+  "r": "Les îles d'Aran",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_1-085",
+  "q": "Comment appelle-t-on les cinq villages colorés accrochés aux falaises de la côte ligure ?",
+  "r": "Les Cinque Terre",
+  "d": 1,
+  "t": "Villes"
+ }
+]

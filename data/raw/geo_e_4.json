@@ -1,0 +1,597 @@
+[
+ {
+  "id": "geo_e_4-001",
+  "q": "Dans quelle région du sud de l'Italie se trouve Matera, célèbre pour ses habitations troglodytiques, les Sassi ?",
+  "r": "La Basilicate",
+  "d": 3,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-002",
+  "q": "Quelle commune allemande, près de Schaffhouse, est entièrement entourée par le territoire suisse ?",
+  "r": "Büsingen am Hochrhein",
+  "d": 3,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_4-003",
+  "q": "Sur quelle île des Cyclades Thésée aurait-il abandonné Ariane ?",
+  "r": "Naxos",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_4-004",
+  "q": "Quelle région historique de la côte sud de la Baltique, partagée entre Allemagne et Pologne, a donné son nom à une race de petits chiens ?",
+  "r": "La Poméranie",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-005",
+  "q": "Quel pays a un hymne national qui cite Bonaparte comme exemple à suivre ?",
+  "r": "La Pologne",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_4-006",
+  "q": "Dans quelle région autonome italienne, frontalière de la France et de la Suisse, le français est-il langue co-officielle ?",
+  "r": "La Vallée d'Aoste",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-007",
+  "q": "Quelle ville allemande, célèbre pour sa porte romaine, la Porta Nigra, est la ville natale de Karl Marx ?",
+  "r": "Trèves",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-008",
+  "q": "Quelle cuvette du désert du Namib, parsemée d'arbres morts sur un sol blanc, est l'un des paysages les plus photographiés d'Afrique ?",
+  "r": "Deadvlei",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_4-009",
+  "q": "Quel sommet, le plus haut des Alpes juliennes, figure sur les armoiries de la Slovénie ?",
+  "r": "Le Triglav",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_4-010",
+  "q": "Quelle rivière traverse Moscou et lui a donné son nom ?",
+  "r": "La Moskova",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-011",
+  "q": "Quelle région, partagée entre la Finlande et la Russie, a inspiré l'épopée du Kalevala et une suite de Sibelius ?",
+  "r": "La Carélie",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-012",
+  "q": "Quel volcan très actif, célèbre pour son lac de lave, domine la ville de Goma en RD Congo ?",
+  "r": "Le Nyiragongo",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_4-013",
+  "q": "Quel duché, disputé entre le Danemark et la Prusse lors de la guerre de 1864, fut partagé en 1920 après un plébiscite ?",
+  "r": "Le Schleswig",
+  "d": 3,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-014",
+  "q": "Quelle rivière, qui a donné naissance à l'oasis de la Ghouta, traverse Damas ?",
+  "r": "Le Barada",
+  "d": 3,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-015",
+  "q": "Comment appelle-t-on les habitants de Charleroi ?",
+  "r": "Les Carolorégiens",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_4-016",
+  "q": "Quel territoire désertique entre l'Égypte et le Soudan n'est revendiqué par aucun des deux pays ?",
+  "r": "Bir Tawil",
+  "d": 3,
+  "t": "Frontières et enclaves"
+ },
+ {
+  "id": "geo_e_4-017",
+  "q": "Quelle région viticole espagnole, dont Logroño est la capitale, est célèbre pour ses vins rouges ?",
+  "r": "La Rioja",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-018",
+  "q": "Quel palais d'Istanbul fut pendant près de quatre siècles la résidence des sultans ottomans ?",
+  "r": "Le palais de Topkapı",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-019",
+  "q": "Quel pays a un drapeau à neuf bandes bleues et blanches, qui représenteraient les syllabes de sa devise ?",
+  "r": "La Grèce",
+  "d": 2,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_4-020",
+  "q": "Quelle île grecque de la mer Égée est la patrie de la poétesse Sappho ?",
+  "r": "Lesbos",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_4-021",
+  "q": "Comment appelle-t-on les habitants de Madagascar ?",
+  "r": "Les Malgaches",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_4-022",
+  "q": "Quelle langue, parlée de part et d'autre des Pyrénées occidentales, n'est apparentée à aucune autre langue connue ?",
+  "r": "Le basque",
+  "d": 1,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_4-023",
+  "q": "Quelle ville écossaise, siège de la plus ancienne université d'Écosse, est considérée comme le berceau du golf ?",
+  "r": "St Andrews",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-024",
+  "q": "Quel palais baroque de Vienne fut la résidence d'été des Habsbourg ?",
+  "r": "Schönbrunn",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-025",
+  "q": "Quelle ville irlandaise a donné son nom à un petit poème humoristique de cinq vers ?",
+  "r": "Limerick",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-026",
+  "q": "Quel massif calcaire des Alpes italiennes est célèbre pour ses Tre Cime di Lavaredo ?",
+  "r": "Les Dolomites",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_4-027",
+  "q": "Sur quelle île de l'archipel toscan Napoléon fut-il exilé en 1814 ?",
+  "r": "L'île d'Elbe",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_4-028",
+  "q": "Quel geyser islandais a donné son nom à tous les geysers du monde ?",
+  "r": "Le Geysir",
+  "d": 1,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_4-029",
+  "q": "Dans quel musée madrilène sont exposées Les Ménines de Velázquez ?",
+  "r": "Le Prado",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-030",
+  "q": "Quel extrait de la 9e symphonie de Beethoven sert d'hymne à l'Union européenne ?",
+  "r": "L'Ode à la joie",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_4-031",
+  "q": "Quel lagon géothermal d'Islande, aux eaux laiteuses, est une station thermale célèbre près de Grindavík ?",
+  "r": "Le Lagon bleu (Blue Lagoon)",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_4-032",
+  "q": "Quelle région historique de l'ouest de l'Arabie saoudite abrite La Mecque et Médine ?",
+  "r": "Le Hedjaz",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-033",
+  "q": "Dans quelle ville de Basse-Saxe un joueur de flûte aurait-il entraîné tous les enfants, selon la légende ?",
+  "r": "Hamelin",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-034",
+  "q": "De quelle ville d'Émilie-Romagne est originaire le vinaigre balsamique traditionnel ?",
+  "r": "Modène",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-035",
+  "q": "Quelles chutes d'Ouganda voient le Nil Victoria s'engouffrer dans une gorge de sept mètres de large ?",
+  "r": "Les chutes Murchison",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_4-036",
+  "q": "Quel palais de Venise était le siège du gouvernement de la Sérénissime ?",
+  "r": "Le palais des Doges",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-037",
+  "q": "Quel lac alcalin de Tanzanie, aux eaux rougeâtres, est célèbre pour les oiseaux qui s'y retrouvent comme pétrifiés ?",
+  "r": "Le lac Natron",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-038",
+  "q": "Comment appelle-t-on les habitants de Varsovie ?",
+  "r": "Les Varsoviens",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_e_4-039",
+  "q": "Quelle est la langue officielle du Liechtenstein ?",
+  "r": "L'allemand",
+  "d": 1,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_4-040",
+  "q": "Dans quelle capitale fut créée la Sachertorte, gâteau au chocolat et à la confiture d'abricot ?",
+  "r": "Vienne",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-041",
+  "q": "Quelle île allemande de la mer du Nord, reliée au continent par une digue ferroviaire, est une station balnéaire huppée ?",
+  "r": "Sylt",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_4-042",
+  "q": "Quel pays balte partage la mélodie de son hymne national avec celui de la Finlande ?",
+  "r": "L'Estonie",
+  "d": 3,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_4-043",
+  "q": "Quelle ville espagnole brûle chaque mois de mars des statues géantes lors des Fallas ?",
+  "r": "Valence",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-044",
+  "q": "Quelle région d'Italie forme la « pointe » de la botte, face à la Sicile ?",
+  "r": "La Calabre",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-045",
+  "q": "Quelles formations calcaires malgaches, hérissées d'aiguilles tranchantes, sont classées à l'UNESCO ?",
+  "r": "Les Tsingy de Bemaraha",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "id": "geo_e_4-046",
+  "q": "Quelle ville allemande est associée au conte des frères Grimm où un âne, un chien, un chat et un coq veulent devenir musiciens ?",
+  "r": "Brême",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-047",
+  "q": "Sous quel nom turc connaît-on la colline où Heinrich Schliemann fouilla les ruines de Troie ?",
+  "r": "Hisarlik",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-048",
+  "q": "Quel fromage espagnol au lait de brebis tire son nom de la région de Don Quichotte ?",
+  "r": "Le manchego",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-049",
+  "q": "Quelle cité romaine, ensevelie comme Pompéi en 79, a livré des bois carbonisés et une bibliothèque de papyrus ?",
+  "r": "Herculanum",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-050",
+  "q": "Quel sanctuaire de Jérusalem, surmonté d'une coupole dorée, se dresse sur l'esplanade des Mosquées ?",
+  "r": "Le dôme du Rocher",
+  "d": 1,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-051",
+  "q": "De quelle ville italienne est originaire le pesto, sauce au basilic et aux pignons ?",
+  "r": "Gênes",
+  "d": 1,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-052",
+  "q": "Quelle ville autrichienne a donné son nom à une tarte à la confiture recouverte d'un croisillon de pâte ?",
+  "r": "Linz",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-053",
+  "q": "Quelle île de la baie de Naples fut la retraite de l'empereur Tibère ?",
+  "r": "Capri",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "id": "geo_e_4-054",
+  "q": "Quelle ville universitaire espagnole possède l'une des plus anciennes universités d'Europe et une célèbre Plaza Mayor en grès doré ?",
+  "r": "Salamanque",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-055",
+  "q": "Quel ossuaire tchèque, près de Kutná Hora, est décoré avec les os de dizaines de milliers de personnes ?",
+  "r": "Sedlec",
+  "d": 3,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-056",
+  "q": "Quelle ville de Castille est célèbre pour son aqueduc romain et son Alcazar ?",
+  "r": "Ségovie",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-057",
+  "q": "Quelle ville turque de la mer Égée s'appelait autrefois Smyrne ?",
+  "r": "Izmir",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-058",
+  "q": "Comment appelle-t-on la région montagneuse et peu peuplée du nord de l'Écosse ?",
+  "r": "Les Highlands",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-059",
+  "q": "Quelle ville espagnole est célèbre pour les fêtes de la San Fermín et leurs lâchers de taureaux ?",
+  "r": "Pampelune",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-060",
+  "q": "Quelle petite rivière César franchit-il avec ses troupes en 49 av. J.-C., déclenchant la guerre civile ?",
+  "r": "Le Rubicon",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-061",
+  "q": "Quel lac, partagé entre l'Italie et la Suisse, abrite les îles Borromées ?",
+  "r": "Le lac Majeur",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-062",
+  "q": "Quelle péninsule croate de l'Adriatique a pour principale ville Pula, célèbre pour son amphithéâtre romain ?",
+  "r": "L'Istrie",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-063",
+  "q": "Quelle montagne, deuxième sommet d'Afrique, a donné son nom au pays où elle se trouve ?",
+  "r": "Le mont Kenya",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_4-064",
+  "q": "Quelle ville des Pouilles, riche en églises de pierre dorée, est surnommée la « Florence du baroque » ?",
+  "r": "Lecce",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-065",
+  "q": "Quelle ville de Bavière accueille chaque été un festival consacré aux opéras de Richard Wagner ?",
+  "r": "Bayreuth",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-066",
+  "q": "Quel opéra vénitien, ravagé par les flammes en 1836 et 1996, porte le nom d'un oiseau qui renaît de ses cendres ?",
+  "r": "La Fenice",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-067",
+  "q": "Dans quel sanctuaire du Péloponnèse se tenaient les Jeux antiques en l'honneur de Zeus ?",
+  "r": "Olympie",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-068",
+  "q": "Quel fleuve de Turquie, aux courbes sinueuses, a donné un nom commun désignant ces boucles ?",
+  "r": "Le Méandre",
+  "d": 2,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-069",
+  "q": "Quelle ville du Liban, parmi les plus anciennes du monde, a donné par le grec son nom au mot « Bible » ?",
+  "r": "Byblos",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-070",
+  "q": "Sous quel nom français connaît-on Helsingør, la ville danoise où se déroule Hamlet ?",
+  "r": "Elseneur",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-071",
+  "q": "Quel fleuve traverse Florence puis Pise avant de se jeter dans la mer ?",
+  "r": "L'Arno",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-072",
+  "q": "Dans quel château de Thuringe Luther traduisit-il le Nouveau Testament en allemand ?",
+  "r": "La Wartbourg",
+  "d": 2,
+  "t": "Monuments et sites"
+ },
+ {
+  "id": "geo_e_4-073",
+  "q": "Quelle ville écossaise est célèbre pour sa marmelade d'orange et son cake aux fruits décoré d'amandes ?",
+  "r": "Dundee",
+  "d": 3,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-074",
+  "q": "Quelle chaîne de volcans, aux confins du Rwanda, de l'Ouganda et de la RD Congo, abrite les gorilles de montagne ?",
+  "r": "Les Virunga",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "id": "geo_e_4-075",
+  "q": "Quelle langue celtique est, avec l'anglais, langue officielle du pays de Galles ?",
+  "r": "Le gallois",
+  "d": 1,
+  "t": "Langues"
+ },
+ {
+  "id": "geo_e_4-076",
+  "q": "Quelle région du sud-est de l'Italie, dont Bari est la capitale, forme le « talon » de la botte ?",
+  "r": "Les Pouilles",
+  "d": 1,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-077",
+  "q": "Dans quel quartier de Lisbonne sont nés les pastéis de nata, créés par les moines d'un monastère voisin ?",
+  "r": "Belém",
+  "d": 2,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-078",
+  "q": "Quelle région du sud d'Oman est célèbre depuis l'Antiquité pour son encens ?",
+  "r": "Le Dhofar",
+  "d": 3,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-079",
+  "q": "Quel fleuve espagnol traverse Saragosse et forme un grand delta en Catalogne ?",
+  "r": "L'Èbre",
+  "d": 1,
+  "t": "Fleuves et lacs"
+ },
+ {
+  "id": "geo_e_4-080",
+  "q": "Quelle ville néerlandaise est célèbre pour sa faïence bleue et blanche ?",
+  "r": "Delft",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-081",
+  "q": "Quel territoire allemand, frontalier de la France, fut placé sous administration française après 1945 avant de redevenir allemand en 1957 ?",
+  "r": "La Sarre",
+  "d": 2,
+  "t": "Régions historiques"
+ },
+ {
+  "id": "geo_e_4-082",
+  "q": "Quelle fleur, cultivée en masse au printemps, est l'emblème des Pays-Bas ?",
+  "r": "La tulipe",
+  "d": 1,
+  "t": "Symboles nationaux"
+ },
+ {
+  "id": "geo_e_4-083",
+  "q": "Quelle ville du sud de la Turquie a donné son nom à une brochette de viande hachée épicée ?",
+  "r": "Adana",
+  "d": 3,
+  "t": "Spécialités"
+ },
+ {
+  "id": "geo_e_4-084",
+  "q": "Quelle ville natale de sainte Thérèse, entourée de remparts médiévaux intacts, est la plus haute capitale provinciale d'Espagne ?",
+  "r": "Ávila",
+  "d": 3,
+  "t": "Villes"
+ },
+ {
+  "id": "geo_e_4-085",
+  "q": "Comment appelle-t-on les habitants de Lisbonne ?",
+  "r": "Les Lisboètes (Lisbonnins)",
+  "d": 2,
+  "t": "Gentilés"
+ }
+]

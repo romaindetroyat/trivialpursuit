@@ -1,539 +1,629 @@
 [
  {
+  "id": "geo_c_1-001",
   "q": "Quel est le plus haut sommet du monde, à la frontière entre le Népal et la Chine ?",
   "r": "L'Everest",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-002",
   "q": "Quelle est la capitale de la Mongolie ?",
   "r": "Oulan-Bator",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-003",
   "q": "Quel fleuve, le plus long d'Asie, traverse la Chine d'ouest en est et se jette dans la mer près de Shanghai ?",
   "r": "Le Yangzi Jiang (Yangtsé)",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-004",
   "q": "Quel est le nom chinois du fleuve Jaune ?",
   "r": "Le Huang He",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-005",
   "q": "Quel désert s'étend sur le sud de la Mongolie et le nord de la Chine ?",
   "r": "Le désert de Gobi",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-006",
   "q": "Quel pays d'Asie, composé de plus de 7 000 îles, a pour capitale Manille ?",
   "r": "Les Philippines",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-007",
   "q": "Quel pays est l'archipel le plus vaste du monde, avec plus de 17 000 îles ?",
   "r": "L'Indonésie",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-008",
   "q": "Sur quelle île se trouve Jakarta, la capitale de l'Indonésie ?",
   "r": "Java",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-009",
   "q": "Quelle ville nouvelle a remplacé Rangoun comme capitale de la Birmanie au milieu des années 2000 ?",
   "r": "Naypyidaw",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-010",
   "q": "Quel pays d'Asie centrale est le plus vaste pays enclavé du monde ?",
   "r": "Le Kazakhstan",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-011",
   "q": "Quelle ville ouzbèke de la route de la soie est célèbre pour sa place du Registan ?",
   "r": "Samarcande",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-012",
   "q": "Quel fleuve sacré de l'Inde se jette dans le golfe du Bengale ?",
   "r": "Le Gange",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-013",
   "q": "Quelle ville sainte de l'hindouisme, au bord du Gange, était appelée Bénarès ?",
   "r": "Varanasi",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-014",
   "q": "Quel petit État de la côte ouest de l'Inde, réputé pour ses plages, fut une colonie portugaise jusqu'en 1961 ?",
   "r": "Goa",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-015",
   "q": "Quelle ville fut la capitale des Établissements français de l'Inde jusqu'en 1954 ?",
   "r": "Pondichéry",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-016",
   "q": "Quelle ville, siège du Parlement, est la capitale officielle du Sri Lanka ?",
   "r": "Sri Jayawardenepura Kotte",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-017",
   "q": "Quel nom portait le Sri Lanka jusqu'en 1972 ?",
   "r": "Ceylan",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-018",
   "q": "Sous quel nom la Thaïlande était-elle connue avant 1939 ?",
   "r": "Le Siam",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-019",
   "q": "Quel nom porte depuis 1976 la ville vietnamienne autrefois appelée Saïgon ?",
   "r": "Hô Chi Minh-Ville",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-020",
   "q": "Quelle baie du nord du Viêt Nam est célèbre pour ses milliers de pitons calcaires surgissant de la mer ?",
   "r": "La baie d'Along (Ha Long)",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-021",
   "q": "Quel grand fleuve d'Asie du Sud-Est traverse le Laos et le Cambodge avant de former un vaste delta au Viêt Nam ?",
   "r": "Le Mékong",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-022",
   "q": "Quel grand lac du Cambodge voit le cours de sa rivière s'inverser pendant la mousson ?",
   "r": "Le Tonlé Sap",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-023",
   "q": "Quel royaume himalayen a érigé le « bonheur national brut » en indicateur officiel ?",
   "r": "Le Bhoutan",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-024",
   "q": "Quel est le deuxième plus haut sommet du monde, situé dans le massif du Karakoram ?",
   "r": "Le K2",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-025",
   "q": "Quel lac de Sibérie est le plus profond du monde ?",
   "r": "Le lac Baïkal",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-026",
   "q": "Quelle ville russe du Pacifique est le terminus oriental du Transsibérien ?",
   "r": "Vladivostok",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-027",
   "q": "Quelle péninsule de l'Extrême-Orient russe, hérissée de volcans, s'avance entre la mer d'Okhotsk et la mer de Béring ?",
   "r": "Le Kamtchatka",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-028",
   "q": "Quelle grande île russe, au nord d'Hokkaido, est séparée du continent par le détroit de Tatarie ?",
   "r": "Sakhaline",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-029",
   "q": "Quelle est la plus grande île de l'archipel japonais ?",
   "r": "Honshu",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-030",
   "q": "Quelle ville fut la capitale impériale du Japon pendant plus de mille ans, de 794 à 1868 ?",
   "r": "Kyoto",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-031",
   "q": "Quel volcan est le point culminant du Japon ?",
   "r": "Le mont Fuji",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-032",
   "q": "Quel territoire du sud de la Chine fut administré par le Portugal jusqu'en 1999 ?",
   "r": "Macao",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-033",
   "q": "En quelle année le Royaume-Uni a-t-il rétrocédé Hong Kong à la Chine ?",
   "r": "1997",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-034",
   "q": "Quel parallèle a servi de ligne de partage entre les deux Corées en 1945 ?",
   "r": "Le 38e parallèle",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-035",
   "q": "Quelle cité-État se trouve à la pointe sud de la péninsule Malaise ?",
   "r": "Singapour",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-036",
   "q": "Quelle grande île est partagée entre la Malaisie, l'Indonésie et le Brunei ?",
   "r": "Bornéo",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-037",
   "q": "Quel archipel de l'océan Indien, formé d'atolls, a pour capitale Malé ?",
   "r": "Les Maldives",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-038",
   "q": "Quelle mer très salée, entre Israël et la Jordanie, borde le point émergé le plus bas du globe ?",
   "r": "La mer Morte",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-039",
   "q": "Quels deux fleuves encadrent la Mésopotamie ?",
   "r": "Le Tigre et l'Euphrate",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-040",
   "q": "Quel pays de la péninsule Arabique a pour capitale Mascate ?",
   "r": "Oman",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-041",
   "q": "Quelle ville est la capitale fédérale des Émirats arabes unis ?",
   "r": "Abou Dabi",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-042",
   "q": "Quel immense désert de sable du sud de l'Arabie est surnommé le « Quart vide » ?",
   "r": "Le Rub al-Khali",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-043",
   "q": "Quel pays est traversé du nord au sud par l'Indus sur l'essentiel de son cours ?",
   "r": "Le Pakistan",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-044",
   "q": "Quel col célèbre relie le Pakistan à l'Afghanistan ?",
   "r": "La passe de Khyber",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-045",
   "q": "Quel pays a pour capitale Dacca ?",
   "r": "Le Bangladesh",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-046",
   "q": "Quel haut plateau, surnommé le « toit du monde », a pour ville principale Lhassa ?",
   "r": "Le Tibet",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-047",
   "q": "Quel pays d'Asie centrale a pour capitale Bichkek ?",
   "r": "Le Kirghizistan",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-048",
   "q": "Quel pays d'Asie centrale a pour capitale Achgabat ?",
   "r": "Le Turkménistan",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-049",
   "q": "Quel fleuve traverse la Birmanie du nord au sud avant de se jeter dans la mer d'Andaman ?",
   "r": "L'Irrawaddy",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-050",
   "q": "Quel pays d'Asie du Sud-Est est le seul de la région à n'avoir jamais été colonisé par une puissance européenne ?",
   "r": "La Thaïlande",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-051",
   "q": "Quelle île indonésienne, majoritairement hindouiste, est célèbre pour ses rizières en terrasses ?",
   "r": "Bali",
   "d": 1,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-052",
   "q": "Avec quel pays l'Indonésie partage-t-elle l'île de Timor ?",
   "r": "Le Timor oriental",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "geo_c_1-053",
   "q": "Quelle chaîne de montagnes longe toute la côte ouest de l'Amérique du Sud ?",
   "r": "La cordillère des Andes",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-054",
   "q": "Quel sommet argentin est le point culminant des Amériques ?",
   "r": "L'Aconcagua",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-055",
   "q": "Quel lac, partagé entre le Pérou et la Bolivie, est réputé le plus haut lac navigable du monde ?",
   "r": "Le lac Titicaca",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-056",
   "q": "Quelle ville est le siège du gouvernement bolivien ?",
   "r": "La Paz",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-057",
   "q": "Quelle ville est la capitale constitutionnelle de la Bolivie ?",
   "r": "Sucre",
   "d": 3,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-058",
   "q": "Quel désert du nord du Chili est l'un des plus arides du monde ?",
   "r": "Le désert d'Atacama",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-059",
   "q": "Quel archipel équatorien du Pacifique a nourri les réflexions de Charles Darwin sur l'évolution ?",
   "r": "Les îles Galápagos",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-060",
   "q": "Quelle ville fut la capitale du Brésil jusqu'en 1960 ?",
   "r": "Rio de Janeiro",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-061",
   "q": "Quelle ville, dessinée par Lúcio Costa et Oscar Niemeyer, est la capitale du Brésil depuis 1960 ?",
   "r": "Brasilia",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-062",
   "q": "Quelles chutes spectaculaires se trouvent à la frontière entre l'Argentine et le Brésil ?",
   "r": "Les chutes d'Iguaçu",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-063",
   "q": "Quelle chute d'eau vénézuélienne est la plus haute du monde ?",
   "r": "Le Salto Ángel",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-064",
   "q": "Quel fleuve marque sur une grande partie de son cours la frontière entre les États-Unis et le Mexique ?",
   "r": "Le Rio Grande",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-065",
   "q": "Quelle vaste région steppique et venteuse s'étend au sud de l'Argentine et du Chili ?",
   "r": "La Patagonie",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-066",
   "q": "Quel archipel à l'extrême sud de l'Amérique doit son nom aux feux aperçus par l'expédition de Magellan ?",
   "r": "La Terre de Feu",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-067",
   "q": "Quel large estuaire sépare Buenos Aires de Montevideo ?",
   "r": "Le Río de la Plata",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-068",
   "q": "Quel département français d'Amérique du Sud abrite le centre spatial de Kourou ?",
   "r": "La Guyane",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-069",
   "q": "Quel est le seul pays d'Amérique du Sud dont la langue officielle est le néerlandais ?",
   "r": "Le Suriname",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-070",
   "q": "Quelle ville péruvienne était la capitale de l'Empire inca ?",
   "r": "Cuzco",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-071",
   "q": "Quel pays d'Amérique du Sud doit son nom à la ligne imaginaire qui le traverse ?",
   "r": "L'Équateur",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-072",
   "q": "Quel pays d'Amérique du Sud doit son nom au libérateur Simón Bolívar ?",
   "r": "La Bolivie",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-073",
   "q": "Quel pays d'Amérique du Sud porte un nom signifiant « petite Venise » ?",
   "r": "Le Venezuela",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-074",
   "q": "Quel est le seul pays d'Amérique du Sud bordé à la fois par la mer des Caraïbes et par l'océan Pacifique ?",
   "r": "La Colombie",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-075",
   "q": "Quelle immense baie du nord du Canada porte le nom d'un navigateur anglais du XVIIe siècle ?",
   "r": "La baie d'Hudson",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-076",
   "q": "Lequel des cinq Grands Lacs est entièrement situé aux États-Unis ?",
   "r": "Le lac Michigan",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-077",
   "q": "Quelles chutes célèbres sont partagées entre l'Ontario et l'État de New York ?",
   "r": "Les chutes du Niagara",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-078",
   "q": "Quel grand fleuve américain se jette dans le golfe du Mexique près de La Nouvelle-Orléans ?",
   "r": "Le Mississippi",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-079",
   "q": "Quel canyon de l'Arizona a été creusé par le fleuve Colorado ?",
   "r": "Le Grand Canyon",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-080",
   "q": "Quel sommet d'Alaska est le point culminant de l'Amérique du Nord ?",
   "r": "Le Denali (mont McKinley)",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-081",
   "q": "Quelle vallée désertique de Californie est l'un des endroits les plus chauds de la planète ?",
   "r": "La Vallée de la Mort",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-082",
   "q": "Quel parc créé en 1872, situé principalement dans le Wyoming, est considéré comme le premier parc national du monde ?",
   "r": "Yellowstone",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-083",
   "q": "Quelle chaîne de montagnes ancienne longe l'est des États-Unis ?",
   "r": "Les Appalaches",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-084",
   "q": "Quel territoire, aujourd'hui État américain, les États-Unis ont-ils acheté à la Russie en 1867 ?",
   "r": "L'Alaska",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-085",
   "q": "Quel immense territoire la France a-t-elle vendu aux États-Unis en 1803 ?",
   "r": "La Louisiane",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-086",
   "q": "Quel archipel français d'Amérique du Nord se trouve au sud de Terre-Neuve ?",
   "r": "Saint-Pierre-et-Miquelon",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-087",
   "q": "Quelle péninsule mexicaine abrite Cancún et de nombreux sites mayas ?",
   "r": "Le Yucatán",
   "d": 1,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-088",
   "q": "Quelle longue péninsule mexicaine est séparée du continent par le golfe de Californie ?",
   "r": "La Basse-Californie",
   "d": 2,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-089",
   "q": "Quel est le plus vaste pays d'Amérique centrale ?",
   "r": "Le Nicaragua",
   "d": 3,
   "t": "Amériques"
  },
  {
+  "id": "geo_c_1-090",
   "q": "Quel pays d'Amérique centrale a l'anglais pour seule langue officielle ?",
   "r": "Le Belize",
   "d": 2,

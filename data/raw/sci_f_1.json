@@ -1,0 +1,597 @@
+[
+ {
+  "id": "sci_f_1-001",
+  "q": "Quel nénuphar géant d'Amazonie, aux feuilles de plus de deux mètres, porte le nom d'une reine britannique ?",
+  "r": "Victoria amazonica (V. regia)",
+  "d": 3,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_1-002",
+  "q": "Comment appelle-t-on l'ensemble des organismes, souvent microscopiques, qui dérivent au gré des courants ?",
+  "r": "Le plancton",
+  "d": 1,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_1-003",
+  "q": "Comment appelle-t-on un groupe d'abeilles qui quitte la ruche avec une reine pour fonder une nouvelle colonie ?",
+  "r": "Un essaim",
+  "d": 1,
+  "t": "Habitats et groupes"
+ },
+ {
+  "id": "sci_f_1-004",
+  "q": "Comment appelle-t-on les cristaux de glace qui se déposent sur les surfaces par nuit froide ?",
+  "r": "Le givre (gelée blanche)",
+  "d": 2,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_1-005",
+  "q": "Quel amphibien, introduit en Australie en 1935 contre des coléoptères, est devenu envahissant ?",
+  "r": "Le crapaud buffle",
+  "d": 2,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_1-006",
+  "q": "Quel petit rongeur arctique fait l'objet d'un mythe tenace de suicides collectifs ?",
+  "r": "Le lemming",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_1-007",
+  "q": "Quel rongeur sud-américain, introduit pour sa fourrure, colonise les berges des rivières françaises ?",
+  "r": "Le ragondin",
+  "d": 2,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_1-008",
+  "q": "Quel physicien français fit voler en 1783 le premier ballon gonflé à l'hydrogène ?",
+  "r": "Jacques Charles",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_1-009",
+  "q": "Comment appelle-t-on la première et la plus grande poche de l'estomac des ruminants ?",
+  "r": "La panse (rumen)",
+  "d": 2,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_1-010",
+  "q": "Quel acarien transmet la maladie de Lyme ?",
+  "r": "La tique",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_1-011",
+  "q": "De quoi est constitué le squelette d'un requin ?",
+  "r": "De cartilage",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_1-012",
+  "q": "Quelle céréale, une fois maltée, sert de base à la fabrication de la bière ?",
+  "r": "L'orge",
+  "d": 1,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_1-013",
+  "q": "En quelle année une canicule a-t-elle causé environ 15 000 morts en France au mois d'août ?",
+  "r": "2003",
+  "d": 1,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_1-014",
+  "q": "Comment appelle-t-on l'état de vie ralentie de certains animaux pendant la saison chaude et sèche ?",
+  "r": "L'estivation",
+  "d": 3,
+  "t": "Comportements animaux"
+ },
+ {
+  "id": "sci_f_1-015",
+  "q": "Quelle chenille urticante des pinèdes se déplace en file indienne ?",
+  "r": "La chenille processionnaire",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_1-016",
+  "q": "Comment appelle-t-on les secousses qui suivent un séisme majeur ?",
+  "r": "Les répliques",
+  "d": 1,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_1-017",
+  "q": "Comment appelle-t-on le réseau de filaments souterrains qui constitue l'essentiel d'un champignon ?",
+  "r": "Le mycélium",
+  "d": 2,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_1-018",
+  "q": "Quel volcan des îles Éoliennes, en activité quasi permanente, est surnommé « le phare de la Méditerranée » ?",
+  "r": "Le Stromboli",
+  "d": 2,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_1-019",
+  "q": "Quel petit insecte sauteur, vecteur de la peste par l'intermédiaire du rat, peut bondir à plus de cent fois sa taille ?",
+  "r": "La puce",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_1-020",
+  "q": "Quel petit mustélidé domestiqué était jadis utilisé pour chasser le lapin dans les terriers ?",
+  "r": "Le furet",
+  "d": 1,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_1-021",
+  "q": "Comment appelle-t-on, dans les Causses, un puits naturel vertical creusé dans le calcaire ?",
+  "r": "Un aven",
+  "d": 3,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_1-022",
+  "q": "Quel minéral jaune doré est surnommé « l'or des fous » ?",
+  "r": "La pyrite",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_1-023",
+  "q": "Quel phénomène naturel, renforcé par les rejets de CO2, retient la chaleur près de la surface terrestre ?",
+  "r": "L'effet de serre",
+  "d": 1,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_1-024",
+  "q": "Quel appareil Apple, présenté par Steve Jobs en 2007, a popularisé le smartphone tactile ?",
+  "r": "L'iPhone",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_1-025",
+  "q": "Quel physicien français a inventé la lentille à échelons qui équipe les phares ?",
+  "r": "Augustin Fresnel",
+  "d": 2,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_1-026",
+  "q": "Quel médecin lyonnais a donné son nom à une seringue mise au point vers 1853 ?",
+  "r": "Charles Pravaz",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_1-027",
+  "q": "Comment appelle-t-on une jeune jument, avant l'âge adulte ?",
+  "r": "La pouliche",
+  "d": 2,
+  "t": "Noms des animaux"
+ },
+ {
+  "id": "sci_f_1-028",
+  "q": "Quel savant suédois a donné son nom à l'échelle de température où l'eau bout à 100 degrés ?",
+  "r": "Anders Celsius",
+  "d": 1,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_1-029",
+  "q": "Quelle Américaine a breveté en 1886 un lave-vaisselle mécanique ?",
+  "r": "Josephine Cochrane",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_1-030",
+  "q": "Quel poisson, réputé disparu depuis l'époque des dinosaures, a été redécouvert vivant en 1938 au large de l'Afrique du Sud ?",
+  "r": "Le cœlacanthe",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_1-031",
+  "q": "Quel champignon jaune-orangé, en forme d'entonnoir, est aussi appelé chanterelle ?",
+  "r": "La girolle",
+  "d": 1,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_1-032",
+  "q": "Quelle roche sédimentaire meuble et imperméable sert à fabriquer poteries et briques ?",
+  "r": "L'argile",
+  "d": 1,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_1-033",
+  "q": "Quel oiseau australien imite à la perfection le bruit d'une tronçonneuse ou d'un appareil photo ?",
+  "r": "L'oiseau-lyre (ménure)",
+  "d": 2,
+  "t": "Oiseaux"
+ },
+ {
+  "id": "sci_f_1-034",
+  "q": "Comment appelle-t-on le fruit du cacaoyer, qui renferme les fèves ?",
+  "r": "La cabosse",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_1-035",
+  "q": "De quel animal provient la laine cachemire ?",
+  "r": "La chèvre (du Cachemire)",
+  "d": 1,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_1-036",
+  "q": "Quel fruit d'Asie du Sud-Est, à l'odeur si forte qu'il est interdit dans certains transports, est surnommé « roi des fruits » ?",
+  "r": "Le durian",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_1-037",
+  "q": "Quelle primatologue britannique a étudié les chimpanzés de Gombe, en Tanzanie, à partir de 1960 ?",
+  "r": "Jane Goodall",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_1-038",
+  "q": "Quelle race de chien, originaire du Mexique, est considérée comme la plus petite du monde ?",
+  "r": "Le chihuahua",
+  "d": 1,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_1-039",
+  "q": "Quelle encyclopédie en ligne collaborative a été lancée en janvier 2001 ?",
+  "r": "Wikipédia",
+  "d": 1,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_1-040",
+  "q": "Quel inventeur américain proposa vers 1800 à la France un sous-marin baptisé Nautilus ?",
+  "r": "Robert Fulton",
+  "d": 3,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_1-041",
+  "q": "Qu'est-ce qui distingue une olive noire d'une olive verte ?",
+  "r": "Sa maturité (cueillie plus mûre)",
+  "d": 1,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_1-042",
+  "q": "Quel animal, introduit en 1859 par un colon pour la chasse, est devenu un fléau en Australie ?",
+  "r": "Le lapin",
+  "d": 1,
+  "t": "Écologie"
+ },
+ {
+  "id": "sci_f_1-043",
+  "q": "Quel champignon, appelé « pourriture noble », est indispensable aux vins liquoreux comme le sauternes ?",
+  "r": "Botrytis cinerea",
+  "d": 3,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_1-044",
+  "q": "Comment appelle-t-on les colonnes de terre coiffées d'un rocher, sculptées par l'érosion ?",
+  "r": "Des cheminées de fée",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_1-045",
+  "q": "Quelle moisissure donne ses veines bleues au roquefort ?",
+  "r": "Penicillium roqueforti",
+  "d": 2,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_1-046",
+  "q": "Quel type de climat, doux et humide, caractérise la Bretagne ?",
+  "r": "Le climat océanique",
+  "d": 1,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_1-047",
+  "q": "Quel physicien français a découvert l'effet photovoltaïque en 1839, à 19 ans ?",
+  "r": "Edmond Becquerel",
+  "d": 3,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_1-048",
+  "q": "Le ver à soie est la chenille de quel papillon ?",
+  "r": "Le bombyx du mûrier",
+  "d": 2,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_1-049",
+  "q": "Comment appelle-t-on les gouttelettes d'eau qui se déposent au petit matin sur l'herbe ?",
+  "r": "La rosée",
+  "d": 1,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_1-050",
+  "q": "Qu'est-ce qui produit le bruit du tonnerre ?",
+  "r": "L'air brusquement dilaté par l'éclair",
+  "d": 2,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_1-051",
+  "q": "Quel volcan philippin, en éruption en 1991, a fait baisser la température moyenne mondiale pendant plus d'un an ?",
+  "r": "Le Pinatubo",
+  "d": 3,
+  "t": "Volcans et séismes"
+ },
+ {
+  "id": "sci_f_1-052",
+  "q": "Quelle est la plus grande tortue marine du monde, grande consommatrice de méduses ?",
+  "r": "La tortue luth",
+  "d": 2,
+  "t": "Animaux marins"
+ },
+ {
+  "id": "sci_f_1-053",
+  "q": "À quel ordre d'insectes appartiennent la coccinelle et le hanneton ?",
+  "r": "Les coléoptères",
+  "d": 2,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_1-054",
+  "q": "Quelle volaille française sous appellation d'origine arbore des pattes bleues, un plumage blanc et une crête rouge ?",
+  "r": "La volaille (poulet) de Bresse",
+  "d": 1,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_1-055",
+  "q": "Quel camélidé sauvage des Andes, cousin du lama, fournit l'une des laines les plus fines et les plus chères du monde ?",
+  "r": "La vigogne",
+  "d": 3,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_1-056",
+  "q": "Comment s'appelait la voiture électrique qui, la première, dépassa les 100 km/h, en 1899 ?",
+  "r": "La Jamais Contente",
+  "d": 2,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_1-057",
+  "q": "Quelle est la pression atmosphérique moyenne au niveau de la mer, en hectopascals ?",
+  "r": "1 013 hPa",
+  "d": 2,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_1-058",
+  "q": "Quel vent du sud-est, réputé « rendre fou », souffle sur Toulouse et le Lauragais ?",
+  "r": "Le vent d'autan",
+  "d": 2,
+  "t": "Météorologie"
+ },
+ {
+  "id": "sci_f_1-059",
+  "q": "Comment appelle-t-on le fait, chez la vache, de remâcher des aliments remontés de l'estomac ?",
+  "r": "La rumination",
+  "d": 1,
+  "t": "Animaux de ferme"
+ },
+ {
+  "id": "sci_f_1-060",
+  "q": "De quelle ville du Piémont la plus réputée des truffes blanches porte-t-elle le nom ?",
+  "r": "Alba",
+  "d": 2,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_1-061",
+  "q": "De quelle couleur est la peau de l'ours polaire, sous sa fourrure ?",
+  "r": "Noire",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_1-062",
+  "q": "Quel type de courant Thomas Edison défendait-il lors de la « guerre des courants » ?",
+  "r": "Le courant continu",
+  "d": 2,
+  "t": "Énergie"
+ },
+ {
+  "id": "sci_f_1-063",
+  "q": "Quel mammifère d'Amérique du Sud, au museau très allongé, avale fourmis et termites grâce à sa longue langue ?",
+  "r": "Le fourmilier (tamanoir)",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_1-064",
+  "q": "Quelle forme géométrique ont les alvéoles de cire construites par les abeilles ?",
+  "r": "Hexagonale",
+  "d": 1,
+  "t": "Insectes"
+ },
+ {
+  "id": "sci_f_1-065",
+  "q": "Quel verbe désigne le cri du renard ?",
+  "r": "Glapir",
+  "d": 2,
+  "t": "Cris des animaux"
+ },
+ {
+  "id": "sci_f_1-066",
+  "q": "Quelle solanacée toxique, dont les Italiennes se servaient pour dilater leurs pupilles, doit son nom à cet usage de coquetterie ?",
+  "r": "La belladone",
+  "d": 2,
+  "t": "Botanique"
+ },
+ {
+  "id": "sci_f_1-067",
+  "q": "Quel verbe désigne le cri de la vache ?",
+  "r": "Meugler (ou beugler, mugir)",
+  "d": 1,
+  "t": "Cris des animaux"
+ },
+ {
+  "id": "sci_f_1-068",
+  "q": "Quel arbre des routes et des places du Midi perd son écorce par plaques ?",
+  "r": "Le platane",
+  "d": 1,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_1-069",
+  "q": "Quel peuplier doit son nom à ses feuilles qui s'agitent au moindre souffle de vent ?",
+  "r": "Le tremble",
+  "d": 2,
+  "t": "Arbres"
+ },
+ {
+  "id": "sci_f_1-070",
+  "q": "Comment appelle-t-on l'association symbiotique entre un champignon et les racines d'une plante ?",
+  "r": "La mycorhize",
+  "d": 3,
+  "t": "Champignons"
+ },
+ {
+  "id": "sci_f_1-071",
+  "q": "Quel lézard peut marcher au plafond grâce à des millions de poils microscopiques sous ses doigts ?",
+  "r": "Le gecko",
+  "d": 1,
+  "t": "Reptiles et amphibiens"
+ },
+ {
+  "id": "sci_f_1-072",
+  "q": "À quel jeu de plateau le programme AlphaGo a-t-il battu le champion Lee Sedol en 2016 ?",
+  "r": "Le go",
+  "d": 2,
+  "t": "Technologies"
+ },
+ {
+  "id": "sci_f_1-073",
+  "q": "Quelle voiture allemande est surnommée « Coccinelle » en France ?",
+  "r": "La Volkswagen Type 1",
+  "d": 1,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_1-074",
+  "q": "À quel animal Charles Darwin a-t-il consacré son dernier livre, en 1881 ?",
+  "r": "Le ver de terre",
+  "d": 3,
+  "t": "Comportements animaux"
+ },
+ {
+  "id": "sci_f_1-075",
+  "q": "Quel est le principal gaz à effet de serre naturel de l'atmosphère terrestre ?",
+  "r": "La vapeur d'eau",
+  "d": 3,
+  "t": "Climat"
+ },
+ {
+  "id": "sci_f_1-076",
+  "q": "Quel mammifère couvert d'écailles se roule en boule pour se protéger ?",
+  "r": "Le pangolin",
+  "d": 1,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_1-077",
+  "q": "De quels micro-organismes marins fossiles la craie est-elle principalement constituée ?",
+  "r": "Des coccolithes",
+  "d": 3,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_1-078",
+  "q": "Quel jardinier français fit breveter en 1867 des bacs à fleurs en ciment armé de fer, ancêtres du béton armé ?",
+  "r": "Joseph Monier",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_1-079",
+  "q": "Quelle Citroën présentée en 1955 a été surnommée « la déesse » ?",
+  "r": "La DS",
+  "d": 1,
+  "t": "Transports"
+ },
+ {
+  "id": "sci_f_1-080",
+  "q": "Quelle entreprise japonaise a lancé le baladeur Walkman en 1979 ?",
+  "r": "Sony",
+  "d": 1,
+  "t": "Inventions"
+ },
+ {
+  "id": "sci_f_1-081",
+  "q": "Comment appelle-t-on les poils non comestibles situés au cœur de l'artichaut ?",
+  "r": "Le foin",
+  "d": 2,
+  "t": "Fruits et légumes"
+ },
+ {
+  "id": "sci_f_1-082",
+  "q": "Quel mammifère africain sécrète une substance rougeâtre qui protège sa peau du soleil ?",
+  "r": "L'hippopotame",
+  "d": 2,
+  "t": "Mammifères"
+ },
+ {
+  "id": "sci_f_1-083",
+  "q": "Quels sont les trois minéraux qui composent le granite ?",
+  "r": "Quartz, feldspath et mica",
+  "d": 2,
+  "t": "Géologie"
+ },
+ {
+  "id": "sci_f_1-084",
+  "q": "Quelle race de chien d'Afrique centrale a la particularité de ne presque jamais aboyer ?",
+  "r": "Le basenji",
+  "d": 3,
+  "t": "Animaux de compagnie"
+ },
+ {
+  "id": "sci_f_1-085",
+  "q": "Comment appelle-t-on un cyclone tropical formé dans l'Atlantique Nord ?",
+  "r": "Un ouragan",
+  "d": 1,
+  "t": "Météorologie"
+ }
+]

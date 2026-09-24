@@ -1,539 +1,629 @@
 [
  {
+  "id": "his_b_3-001",
   "q": "Dans quelle salle de Versailles les députés du tiers état prêtent-ils serment le 20 juin 1789 ?",
   "r": "La salle du Jeu de paume",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-002",
   "q": "Quelle forteresse parisienne est prise par les insurgés le 14 juillet 1789 ?",
   "r": "La Bastille",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-003",
   "q": "Quel abbé est l'auteur du pamphlet « Qu'est-ce que le tiers état ? » publié en 1789 ?",
   "r": "Sieyès",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-004",
   "q": "Au cours de quelle nuit de 1789 l'Assemblée abolit-elle les privilèges ?",
   "r": "La nuit du 4 août",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-005",
   "q": "Quel texte fondateur l'Assemblée constituante adopte-t-elle le 26 août 1789 ?",
   "r": "La Déclaration des droits de l'homme",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-006",
   "q": "Dans quelle petite ville de la Meuse la famille royale est-elle arrêtée lors de sa fuite en juin 1791 ?",
   "r": "Varennes",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-007",
   "q": "Quelle fête célèbre le premier anniversaire de la prise de la Bastille, le 14 juillet 1790 ?",
   "r": "La fête de la Fédération",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-008",
   "q": "Quel texte de 1790 réorganise l'Église de France et fait des prêtres des fonctionnaires élus ?",
   "r": "La Constitution civile du clergé",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-009",
   "q": "Comment appelle-t-on les prêtres qui refusent de prêter serment à la Constitution civile du clergé ?",
   "r": "Les prêtres réfractaires",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-010",
   "q": "Quel chant composé à Strasbourg en 1792 par Rouget de Lisle deviendra l'hymne national français ?",
   "r": "La Marseillaise",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-011",
   "q": "Quelle bataille du 20 septembre 1792 est la première grande victoire de l'armée révolutionnaire ?",
   "r": "Valmy",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-012",
   "q": "Quel palais parisien, résidence de la famille royale, est pris d'assaut le 10 août 1792 ?",
   "r": "Les Tuileries",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-013",
   "q": "Sous quel nom Louis XVI est-il jugé par la Convention ?",
   "r": "Louis Capet",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-014",
   "q": "En quelle année Louis XVI est-il guillotiné ?",
   "r": "1793",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-015",
   "q": "Quel médecin et député a donné son nom à la machine à décapiter adoptée sous la Révolution ?",
   "r": "Joseph Ignace Guillotin",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-016",
   "q": "Qui assassine Marat dans sa baignoire en juillet 1793 ?",
   "r": "Charlotte Corday",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-017",
   "q": "Quel peintre a immortalisé La Mort de Marat ?",
   "r": "Jacques-Louis David",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-018",
   "q": "Comment appelle-t-on les révolutionnaires parisiens qui portaient le pantalon plutôt que la culotte aristocratique ?",
   "r": "Les sans-culottes",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-019",
   "q": "Quel groupe de députés, nommé d'après un département du Sud-Ouest, s'oppose aux Montagnards ?",
   "r": "Les Girondins",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-020",
   "q": "Quel révolutionnaire surnommé « l'Incorruptible » est guillotiné le 28 juillet 1794 ?",
   "r": "Maximilien de Robespierre",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-021",
   "q": "Quel mois du calendrier républicain désigne la chute de Robespierre en 1794 ?",
   "r": "Thermidor",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-022",
   "q": "Quel révolutionnaire aurait lancé au bourreau : « Tu montreras ma tête au peuple, elle en vaut la peine » ?",
   "r": "Georges Danton",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-023",
   "q": "Quelle insurrection royaliste et catholique éclate dans l'Ouest de la France en mars 1793 ?",
   "r": "La guerre de Vendée",
   "d": 1,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-024",
   "q": "Comment appelle-t-on les insurgés royalistes de Bretagne et du Maine sous la Révolution ?",
   "r": "Les chouans",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-025",
   "q": "Quel est le premier mois de l'année dans le calendrier républicain ?",
   "r": "Vendémiaire",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-026",
   "q": "Quel chimiste, ancien fermier général, est guillotiné en 1794 ?",
   "r": "Antoine Lavoisier",
   "d": 2,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-027",
   "q": "Quel ancien esclave prend la tête de la révolution de Saint-Domingue dans les années 1790 ?",
   "r": "Toussaint Louverture",
   "d": 1,
   "t": "Haïti"
  },
  {
+  "id": "his_b_3-028",
   "q": "En quelle année Haïti proclame-t-il son indépendance ?",
   "r": "1804",
   "d": 2,
   "t": "Haïti"
  },
  {
+  "id": "his_b_3-029",
   "q": "Quel coup d'État de novembre 1799 porte Bonaparte au pouvoir ?",
   "r": "Le 18 Brumaire",
   "d": 1,
   "t": "Consulat"
  },
  {
+  "id": "his_b_3-030",
   "q": "Dans quelle ville Napoléon Bonaparte est-il né ?",
   "r": "Ajaccio",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-031",
   "q": "Sur quel pont d'Italie Bonaparte se serait-il élancé drapeau à la main en 1796 ?",
   "r": "Le pont d'Arcole",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-032",
   "q": "Quelle pierre découverte en 1799 lors de l'expédition d'Égypte a permis de déchiffrer les hiéroglyphes ?",
   "r": "La pierre de Rosette",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-033",
   "q": "Quel amiral britannique détruit la flotte française à Aboukir en 1798 ?",
   "r": "Horatio Nelson",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-034",
   "q": "Avec quel pape Bonaparte signe-t-il le Concordat de 1801 ?",
   "r": "Pie VII",
   "d": 2,
   "t": "Consulat"
  },
  {
+  "id": "his_b_3-035",
   "q": "Quel recueil de lois publié en 1804 est aussi appelé Code Napoléon ?",
   "r": "Le Code civil",
   "d": 1,
   "t": "Consulat"
  },
  {
+  "id": "his_b_3-036",
   "q": "Quelle bataille, dite « des Trois Empereurs », Napoléon remporte-t-il le 2 décembre 1805 ?",
   "r": "Austerlitz",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-037",
   "q": "Quelle bataille navale de 1805 voit la mort de Nelson et la défaite de la flotte franco-espagnole ?",
   "r": "Trafalgar",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-038",
   "q": "Quel blocus économique Napoléon impose-t-il au Royaume-Uni à partir de 1806 ?",
   "r": "Le Blocus continental",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-039",
   "q": "Quel peintre espagnol a représenté les fusillades du 3 mai 1808 à Madrid ?",
   "r": "Francisco de Goya",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-040",
   "q": "Quelle première épouse de Napoléon, née en Martinique, est répudiée faute de lui avoir donné un héritier ?",
   "r": "Joséphine de Beauharnais",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-041",
   "q": "Quelle archiduchesse autrichienne Napoléon épouse-t-il en 1810 ?",
   "r": "Marie-Louise",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-042",
   "q": "Quel nom les Français donnent-ils à la bataille de Borodino, livrée en 1812 ?",
   "r": "La Moskova",
   "d": 3,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-043",
   "q": "Quelle rivière la Grande Armée franchit-elle au prix de lourdes pertes lors de la retraite de Russie en 1812 ?",
   "r": "La Bérézina",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-044",
   "q": "Quelle bataille de 1813, dite « des Nations », est une lourde défaite de Napoléon ?",
   "r": "Leipzig",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-045",
   "q": "Comment appelle-t-on le bref retour de Napoléon au pouvoir en 1815 ?",
   "r": "Les Cent-Jours",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-046",
   "q": "Quel maréchal de Napoléon, surnommé « le Brave des braves », est fusillé en décembre 1815 ?",
   "r": "Michel Ney",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-047",
   "q": "Sur quelle île de l'Atlantique Sud Napoléon meurt-il en 1821 ?",
   "r": "Sainte-Hélène",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-048",
   "q": "Quel diplomate, surnommé « le Diable boiteux », sert successivement la Révolution, l'Empire et la Restauration ?",
   "r": "Talleyrand",
   "d": 1,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-049",
   "q": "Quel ministre de la Police de Napoléon, ancien conventionnel régicide, est réputé pour son art de trahir ?",
   "r": "Joseph Fouché",
   "d": 2,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-050",
   "q": "Quel congrès réuni en 1814-1815 redessine la carte de l'Europe après Napoléon ?",
   "r": "Le congrès de Vienne",
   "d": 1,
   "t": "Restauration"
  },
  {
+  "id": "his_b_3-051",
   "q": "Quel chancelier autrichien est la figure dominante du congrès de Vienne ?",
   "r": "Metternich",
   "d": 2,
   "t": "Restauration"
  },
  {
+  "id": "his_b_3-052",
   "q": "Quel roi de France, dernier frère de Louis XVI, est renversé en 1830 ?",
   "r": "Charles X",
   "d": 1,
   "t": "Restauration"
  },
  {
+  "id": "his_b_3-053",
   "q": "Comment surnomme-t-on les journées révolutionnaires parisiennes des 27, 28 et 29 juillet 1830 ?",
   "r": "Les Trois Glorieuses",
   "d": 1,
   "t": "Monarchie de Juillet"
  },
  {
+  "id": "his_b_3-054",
   "q": "Quel « roi des Français » règne de 1830 à 1848 ?",
   "r": "Louis-Philippe Ier",
   "d": 1,
   "t": "Monarchie de Juillet"
  },
  {
+  "id": "his_b_3-055",
   "q": "Quel ministre de Louis-Philippe est resté célèbre pour son conseil « Enrichissez-vous » ?",
   "r": "François Guizot",
   "d": 2,
   "t": "Monarchie de Juillet"
  },
  {
+  "id": "his_b_3-056",
   "q": "Comment appelle-t-on les ouvriers de la soie lyonnais révoltés en 1831 et 1834 ?",
   "r": "Les canuts",
   "d": 2,
   "t": "Monarchie de Juillet"
  },
  {
+  "id": "his_b_3-057",
   "q": "Quel émir mène la résistance algérienne contre la conquête française jusqu'en 1847 ?",
   "r": "Abd el-Kader",
   "d": 2,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_3-058",
   "q": "Quel poète, membre du gouvernement provisoire, proclame la IIe République à l'Hôtel de Ville en février 1848 ?",
   "r": "Alphonse de Lamartine",
   "d": 2,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-059",
   "q": "Quel homme politique est l'artisan du décret d'abolition de l'esclavage dans les colonies françaises en 1848 ?",
   "r": "Victor Schœlcher",
   "d": 1,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-060",
   "q": "Quel mode de scrutin est instauré en France en mars 1848 pour tous les hommes majeurs ?",
   "r": "Le suffrage universel masculin",
   "d": 2,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-061",
   "q": "Qui est élu premier président de la République française en décembre 1848 ?",
   "r": "Louis-Napoléon Bonaparte",
   "d": 1,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-062",
   "q": "Quelle date anniversaire Louis-Napoléon Bonaparte choisit-il pour son coup d'État de 1851 ?",
   "r": "Le 2 décembre",
   "d": 2,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-063",
   "q": "Quel surnom Victor Hugo donne-t-il à Napoléon III dans un pamphlet de 1852 ?",
   "r": "Napoléon le Petit",
   "d": 2,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-064",
   "q": "Quel préfet de la Seine transforme en profondeur Paris sous le Second Empire ?",
   "r": "Le baron Haussmann",
   "d": 1,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-065",
   "q": "Quelle guerre de 1853-1856 oppose notamment la France et le Royaume-Uni à la Russie ?",
   "r": "La guerre de Crimée",
   "d": 1,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-066",
   "q": "Quel port de la mer Noire est assiégé pendant près d'un an lors de la guerre de Crimée ?",
   "r": "Sébastopol",
   "d": 2,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-067",
   "q": "Quelle bataille meurtrière de 1859 inspire à Henri Dunant la création de la Croix-Rouge ?",
   "r": "Solférino",
   "d": 2,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-068",
   "q": "Quels territoires la France annexe-t-elle en 1860 en échange de son soutien au Piémont ?",
   "r": "Nice et la Savoie",
   "d": 1,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-069",
   "q": "Quel archiduc autrichien Napoléon III installe-t-il sur le trône du Mexique en 1864 ?",
   "r": "Maximilien",
   "d": 2,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-070",
   "q": "Quel combat de 1863 au Mexique est commémoré chaque 30 avril par la Légion étrangère ?",
   "r": "Camerone",
   "d": 2,
   "t": "Second Empire"
  },
  {
+  "id": "his_b_3-071",
   "q": "Dans quelle ville des Ardennes Napoléon III capitule-t-il le 2 septembre 1870 ?",
   "r": "Sedan",
   "d": 1,
   "t": "Guerre de 1870"
  },
  {
+  "id": "his_b_3-072",
   "q": "Quel ministre quitte Paris assiégé en ballon en octobre 1870 pour organiser la résistance ?",
   "r": "Léon Gambetta",
   "d": 1,
   "t": "Guerre de 1870"
  },
  {
+  "id": "his_b_3-073",
   "q": "Quelle insurrection parisienne de 1871 est écrasée lors de la « Semaine sanglante » ?",
   "r": "La Commune de Paris",
   "d": 1,
   "t": "Guerre de 1870"
  },
  {
+  "id": "his_b_3-074",
   "q": "Quel général vendéen, surnommé « Monsieur Henri », est tué en 1794 à l'âge de 21 ans ?",
   "r": "Henri de La Rochejaquelein",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-075",
   "q": "Quel représentant en mission de la Convention organise les noyades de Nantes en 1793-1794 ?",
   "r": "Jean-Baptiste Carrier",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-076",
   "q": "Quel général républicain pacifie la Vendée et la chouannerie en 1796, avant de mourir l'année suivante ?",
   "r": "Lazare Hoche",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-077",
   "q": "Quelle loi de 1791 interdit les corporations et les coalitions ouvrières ?",
   "r": "La loi Le Chapelier",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-078",
   "q": "Quel journal révolutionnaire Jean-Paul Marat publiait-il ?",
   "r": "L'Ami du peuple",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-079",
   "q": "Quelle amie intime de Marie-Antoinette est tuée lors des massacres de Septembre 1792 ?",
   "r": "La princesse de Lamballe",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-080",
   "q": "Quel poète est guillotiné le 25 juillet 1794, deux jours avant la chute de Robespierre ?",
   "r": "André Chénier",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-081",
   "q": "Comment appelle-t-on le complot mené en 1796 par Gracchus Babeuf pour instaurer l'égalité réelle ?",
   "r": "La conjuration des Égaux",
   "d": 3,
   "t": "Révolution française"
  },
  {
+  "id": "his_b_3-082",
   "q": "Quel général français est tué en 1800 à Marengo, bataille dont il a assuré la victoire ?",
   "r": "Louis Desaix",
   "d": 3,
   "t": "Consulat"
  },
  {
+  "id": "his_b_3-083",
   "q": "Quel surnom donne-t-on à la bombe qui vise Bonaparte rue Saint-Nicaise le 24 décembre 1800 ?",
   "r": "La machine infernale",
   "d": 3,
   "t": "Consulat"
  },
  {
+  "id": "his_b_3-084",
   "q": "Quel prince de la maison de Condé est exécuté dans les fossés du château de Vincennes en 1804 ?",
   "r": "Le duc d'Enghien",
   "d": 3,
   "t": "Consulat"
  },
  {
+  "id": "his_b_3-085",
   "q": "À bord de quel navire britannique Napoléon se rend-il aux Anglais en juillet 1815 ?",
   "r": "Le Bellérophon",
   "d": 3,
   "t": "Napoléon"
  },
  {
+  "id": "his_b_3-086",
   "q": "Comment surnomme-t-on la loi de 1825 qui indemnise les nobles dont les biens avaient été confisqués sous la Révolution ?",
   "r": "Le milliard des émigrés",
   "d": 3,
   "t": "Restauration"
  },
  {
+  "id": "his_b_3-087",
   "q": "Quel neveu de Louis XVIII, fils du futur Charles X, est assassiné en 1820 à la sortie de l'Opéra ?",
   "r": "Le duc de Berry",
   "d": 3,
   "t": "Restauration"
  },
  {
+  "id": "his_b_3-088",
   "q": "Quelle campagne politique d'opposition, dont l'interdiction déclenche la révolution de février 1848, se tenait autour de repas ?",
   "r": "La campagne des banquets",
   "d": 3,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-089",
   "q": "Quel archevêque de Paris est mortellement blessé sur les barricades lors des journées de Juin 1848 ?",
   "r": "Monseigneur Affre",
   "d": 3,
   "t": "IIe République"
  },
  {
+  "id": "his_b_3-090",
   "q": "Quel révolutionnaire italien lance des bombes sur le cortège de Napoléon III devant l'Opéra en 1858 ?",
   "r": "Felice Orsini",
   "d": 3,

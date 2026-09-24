@@ -1,539 +1,629 @@
 [
  {
+  "id": "div_b_3-001",
   "q": "Quel plombier moustachu à casquette rouge est la mascotte de Nintendo ?",
   "r": "Mario",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-002",
   "q": "Quelle princesse du Royaume Champignon Mario doit-il régulièrement délivrer ?",
   "r": "Peach",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-003",
   "q": "Quel hérisson bleu supersonique est la mascotte de Sega ?",
   "r": "Sonic",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-004",
   "q": "Quel jeu d'arcade de 1980 met en scène une boule jaune qui avale des pastilles en fuyant des fantômes ?",
   "r": "Pac-Man",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-005",
   "q": "Quel jeu soviétique consiste à empiler des pièces géométriques qui tombent pour compléter des lignes ?",
   "r": "Tetris",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-006",
   "q": "Comment s'appelle le jeune héros en tunique verte de la saga « The Legend of Zelda » ?",
   "r": "Link",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-007",
   "q": "Quel Pokémon jaune de type Électrique est la mascotte de la franchise ?",
   "r": "Pikachu",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-008",
   "q": "Quelle aventurière archéologue est l'héroïne de la série de jeux « Tomb Raider » ?",
   "r": "Lara Croft",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-009",
   "q": "Quel jeu de construction fait de blocs cubiques a été créé par le Suédois Markus Persson ?",
   "r": "Minecraft",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-010",
   "q": "Quel jeu de « battle royale » d'Epic Games, sorti en 2017, est célèbre pour ses danses de victoire ?",
   "r": "Fortnite",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-011",
   "q": "Quel gorille lance des tonneaux dans un jeu d'arcade de Nintendo de 1981 ?",
   "r": "Donkey Kong",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-012",
   "q": "Quelle console portable de Nintendo, sortie en 1989, a rendu Tetris célèbre dans le monde entier ?",
   "r": "La Game Boy",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-013",
   "q": "Quelle console de salon de Nintendo, sortie en 2006, se jouait avec une manette détectant les mouvements ?",
   "r": "La Wii",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-014",
   "q": "Quelle série de jeux de simulation de vie, créée par Will Wright, permet de contrôler des personnages virtuels dans leur maison ?",
   "r": "Les Sims",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-015",
   "q": "Quelle série de jeux de Rockstar Games doit son nom au vol de voitures ?",
   "r": "Grand Theft Auto",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-016",
   "q": "Quel petit dinosaure vert à la longue langue sert de monture à Mario ?",
   "r": "Yoshi",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-017",
   "q": "Quel jeu mobile finlandais consiste à catapulter des oiseaux sur des cochons verts ?",
   "r": "Angry Birds",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-018",
   "q": "Quel roi des Koopas, une tortue géante cracheuse de feu, est l'ennemi juré de Mario ?",
   "r": "Bowser",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-019",
   "q": "Dans quelle série de jeux de combat de Capcom s'affrontent Ryu, Ken et Chun-Li ?",
   "r": "Street Fighter",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-020",
   "q": "Dans quel jeu de course de Nintendo les pilotes se lancent-ils des carapaces et des peaux de banane ?",
   "r": "Mario Kart",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-021",
   "q": "Quel éditeur français de jeux vidéo a créé les Lapins crétins ?",
   "r": "Ubisoft",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-022",
   "q": "Quel héros de jeu vidéo français n'a ni bras ni jambes, ses mains et ses pieds flottant autour de son corps ?",
   "r": "Rayman",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-023",
   "q": "Quelle série d'Ubisoft met en scène la lutte séculaire entre les Assassins et les Templiers ?",
   "r": "Assassin's Creed",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-024",
   "q": "Quel jeu pour smartphone a lancé en 2016 une chasse aux Pokémon en réalité augmentée dans les rues ?",
   "r": "Pokémon Go",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-025",
   "q": "Quel Pokémon de départ de type Feu ressemble à un petit lézard orange à la queue enflammée ?",
   "r": "Salamèche",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-026",
   "q": "Dans Minecraft, quelle créature verte s'approche silencieusement du joueur avant d'exploser ?",
   "r": "Le Creeper",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-027",
   "q": "Quelle petite boule rose de Nintendo aspire ses ennemis pour copier leurs pouvoirs ?",
   "r": "Kirby",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-028",
   "q": "Quel jeu mobile de King consiste à aligner des bonbons de même couleur ?",
   "r": "Candy Crush Saga",
   "d": 1,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-029",
   "q": "Quel détective créé par Arthur Conan Doyle habite au 221B Baker Street ?",
   "r": "Sherlock Holmes",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-030",
   "q": "Quel gentleman cambrioleur a été créé par Maurice Leblanc ?",
   "r": "Arsène Lupin",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-031",
   "q": "Comment s'appelle l'école de sorcellerie fréquentée par Harry Potter ?",
   "r": "Poudlard",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-032",
   "q": "Quel pantin de bois voit son nez s'allonger chaque fois qu'il ment ?",
   "r": "Pinocchio",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-033",
   "q": "Quel capitaine commande le sous-marin Nautilus dans « Vingt Mille Lieues sous les mers » ?",
   "r": "Le capitaine Nemo",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-034",
   "q": "Quel hobbit est chargé de détruire l'Anneau unique dans « Le Seigneur des anneaux » ?",
   "r": "Frodon",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-035",
   "q": "Quel chevalier de Cervantès charge des moulins à vent qu'il prend pour des géants ?",
   "r": "Don Quichotte",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-036",
   "q": "Comment s'appelle en français le grand chien maladroit Goofy, ami de Mickey ?",
   "r": "Dingo",
   "d": 1,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-037",
   "q": "Quel jeu de tennis de table électronique, sorti en 1972, fut le premier grand succès d'Atari ?",
   "r": "Pong",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-038",
   "q": "Quel jeu d'arcade japonais de 1978 fait tirer un canon sur des vagues d'extraterrestres descendant vers le sol ?",
   "r": "Space Invaders",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-039",
   "q": "Quelle série de Nintendo, dont l'épisode « New Horizons » est sorti en 2020, installe le joueur sur une île peuplée d'animaux ?",
   "r": "Animal Crossing",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-040",
   "q": "Quel Pokémon porte le numéro 001 du Pokédex national ?",
   "r": "Bulbizarre",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-041",
   "q": "Combien d'espèces de Pokémon comptait la première génération de jeux ?",
   "r": "151",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-042",
   "q": "Quelle chasseuse de primes en armure est l'héroïne de la saga « Metroid » ?",
   "r": "Samus Aran",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-043",
   "q": "Quel jeu de rôle en ligne massivement multijoueur a été lancé par Blizzard en 2004 ?",
   "r": "World of Warcraft",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-044",
   "q": "Dans quel jeu de Valve incarne-t-on le physicien Gordon Freeman, armé d'un pied-de-biche ?",
   "r": "Half-Life",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-045",
   "q": "Quelle série de jeux d'infiltration de Konami a pour héros Solid Snake ?",
   "r": "Metal Gear",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-046",
   "q": "Quel concepteur japonais de Nintendo a créé Mario et la saga Zelda ?",
   "r": "Shigeru Miyamoto",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-047",
   "q": "Quel seigneur maléfique, souvent sous forme de sanglier géant, est le grand méchant de la saga Zelda ?",
   "r": "Ganon",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-048",
   "q": "Quel jeu de tir d'id Software, sorti en 1993, oppose un marine à des hordes de démons ?",
   "r": "Doom",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-049",
   "q": "Quelle console, sortie en 1998, fut la dernière console de salon de Sega ?",
   "r": "La Dreamcast",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-050",
   "q": "Quel savant fou moustachu, aussi appelé Robotnik, est l'ennemi de Sonic ?",
   "r": "Dr Eggman",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-051",
   "q": "Quelle série de jeux de rôle de Square a pour héros Cloud Strife dans son septième épisode ?",
   "r": "Final Fantasy",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-052",
   "q": "Dans le jeu « Among Us », comment appelle-t-on les joueurs chargés de saboter le vaisseau ?",
   "r": "Les imposteurs",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-053",
   "q": "Quelle série de jeux de stratégie de Sid Meier fait guider un peuple de l'Antiquité jusqu'à l'ère spatiale ?",
   "r": "Civilization",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-054",
   "q": "Quelle fratrie bretonne a fondé l'éditeur de jeux vidéo Ubisoft ?",
   "r": "Les frères Guillemot",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-055",
   "q": "Quelle console portable de Nintendo, sortie en 2004, possédait deux écrans dont un tactile ?",
   "r": "La Nintendo DS",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-056",
   "q": "Dans quelle série de jeux de combat entend-on « Finish him ! » avant une « Fatality » ?",
   "r": "Mortal Kombat",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-057",
   "q": "Quel jeu de Naughty Dog suit Joel et Ellie dans une Amérique ravagée par un champignon parasite ?",
   "r": "The Last of Us",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-058",
   "q": "Quel chasseur de monstres aux cheveux blancs est le héros de la série de jeux « The Witcher » ?",
   "r": "Geralt de Riv",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-059",
   "q": "Quel guerrier spartiate affronte les dieux de l'Olympe dans la série « God of War » ?",
   "r": "Kratos",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-060",
   "q": "Dans quel jeu de la NES tirait-on sur des canards avec un pistolet, sous les ricanements d'un chien ?",
   "r": "Duck Hunt",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-061",
   "q": "Quel jeu mobile de 2013, retiré des magasins d'applications par son créateur vietnamien, faisait voler un oiseau entre des tuyaux ?",
   "r": "Flappy Bird",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-062",
   "q": "Comment s'appelle la relique sacrée formée de trois triangles d'or dans la saga Zelda ?",
   "r": "La Triforce",
   "d": 2,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-063",
   "q": "Comment s'appelle la chouette blanche d'Harry Potter ?",
   "r": "Hedwige",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-064",
   "q": "Quelle vieille demoiselle détective d'Agatha Christie vit au village de St Mary Mead ?",
   "r": "Miss Marple",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-065",
   "q": "Comment s'appelle le valet français de Phileas Fogg dans « Le Tour du monde en quatre-vingts jours » ?",
   "r": "Passepartout",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-066",
   "q": "Quel génie du crime, surnommé « le Napoléon du crime », est l'ennemi juré de Sherlock Holmes ?",
   "r": "Le professeur Moriarty",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-067",
   "q": "Quel écrivain britannique a créé l'agent secret James Bond ?",
   "r": "Ian Fleming",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-068",
   "q": "Quel chat d'« Alice au pays des merveilles » disparaît en ne laissant que son sourire ?",
   "r": "Le chat du Cheshire",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-069",
   "q": "Quel vieil avare visité par trois fantômes est le héros du « Conte de Noël » de Charles Dickens ?",
   "r": "Ebenezer Scrooge",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-070",
   "q": "Comment s'appelle l'écuyer de Don Quichotte ?",
   "r": "Sancho Panza",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-071",
   "q": "De quel astéroïde vient le Petit Prince de Saint-Exupéry ?",
   "r": "L'astéroïde B 612",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-072",
   "q": "Quel pirate à la jambe de bois est le personnage le plus célèbre de « L'Île au trésor » de Stevenson ?",
   "r": "Long John Silver",
   "d": 2,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-073",
   "q": "Quel concepteur japonais de Namco a créé Pac-Man ?",
   "r": "Tōru Iwatani",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-074",
   "q": "Quel informaticien soviétique a créé Tetris en 1984 ?",
   "r": "Alexeï Pajitnov",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-075",
   "q": "Quel créateur de jeux vidéo français a imaginé le personnage de Rayman ?",
   "r": "Michel Ancel",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-076",
   "q": "Quel studio français, fondé par David Cage, a développé « Heavy Rain » et « Detroit: Become Human » ?",
   "r": "Quantic Dream",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-077",
   "q": "Quel jeu français de 1992, conçu par Frédérick Raynal, est considéré comme le pionnier du « survival horror » ?",
   "r": "Alone in the Dark",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-078",
   "q": "En quelle année la première PlayStation de Sony est-elle sortie au Japon ?",
   "r": "1994",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-079",
   "q": "Quelle ville américaine fictive est ravagée par un virus dans les premiers « Resident Evil » ?",
   "r": "Raccoon City",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-080",
   "q": "De quel pays est originaire le studio CD Projekt, qui a développé « The Witcher » ?",
   "r": "Pologne",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-081",
   "q": "Quel créateur japonais, passionné d'insectes dans son enfance, a imaginé les Pokémon ?",
   "r": "Satoshi Tajiri",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-082",
   "q": "Sous quel nom Mario apparaissait-il dans le jeu d'arcade « Donkey Kong » de 1981 ?",
   "r": "Jumpman",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-083",
   "q": "Comment s'appelle la langue imaginaire et incompréhensible parlée par les personnages des Sims ?",
   "r": "Le simlish",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-084",
   "q": "Que fabriquait l'entreprise Nintendo lors de sa fondation à Kyoto en 1889 ?",
   "r": "Des cartes à jouer",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-085",
   "q": "Dans quel jeu de Valve la phrase « Le gâteau est un mensonge » est-elle devenue culte ?",
   "r": "Portal",
   "d": 3,
   "t": "Jeux vidéo"
  },
  {
+  "id": "div_b_3-086",
   "q": "Quel écrivain britannique a créé Winnie l'ourson ?",
   "r": "A. A. Milne",
   "d": 3,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-087",
   "q": "Quel romancier américain a créé Tarzan en 1912 ?",
   "r": "Edgar Rice Burroughs",
   "d": 3,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-088",
   "q": "Quel génie du crime masqué a été créé en 1911 par Pierre Souvestre et Marcel Allain ?",
   "r": "Fantômas",
   "d": 3,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-089",
   "q": "Quel jeune reporter créé par Gaston Leroux résout « Le Mystère de la chambre jaune » ?",
   "r": "Joseph Rouletabille",
   "d": 3,
   "t": "Personnages de fiction"
  },
  {
+  "id": "div_b_3-090",
   "q": "Quel est le prénom du commissaire Maigret, le héros de Georges Simenon ?",
   "r": "Jules",
   "d": 3,

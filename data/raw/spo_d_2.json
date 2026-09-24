@@ -1,0 +1,597 @@
+[
+ {
+  "id": "spo_d_2-001",
+  "q": "Quelle marque d'équipement sportif, née à Romilly-sur-Seine, a pour emblème un coq ?",
+  "r": "Le Coq sportif",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-002",
+  "q": "Quel Français a apporté le point décisif de la finale de Coupe Davis 1991 en battant Pete Sampras ?",
+  "r": "Guy Forget",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-003",
+  "q": "Quelle Belge a remporté l'US Open en 2009, peu après avoir fait son retour à la compétition en devenant mère ?",
+  "r": "Kim Clijsters",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-004",
+  "q": "Au water-polo, avec combien de mains un joueur de champ a-t-il le droit de saisir le ballon ?",
+  "r": "Une seule",
+  "d": 2,
+  "t": "Water-polo"
+ },
+ {
+  "id": "spo_d_2-005",
+  "q": "Quel club londonien est surnommé « les Hammers » ?",
+  "r": "West Ham United",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-006",
+  "q": "Quel défenseur français a marqué d'une reprise de volée contre l'Argentine en huitième de finale de la Coupe du monde 2018 ?",
+  "r": "Benjamin Pavard",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-007",
+  "q": "Dans quel club brésilien Pelé a-t-il joué l'essentiel de sa carrière ?",
+  "r": "Le Santos FC",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-008",
+  "q": "Quelle Suissesse a remporté l'Open d'Australie 1997 à seulement 16 ans ?",
+  "r": "Martina Hingis",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-009",
+  "q": "Comment s'appelle la principale compétition européenne de clubs de basket ?",
+  "r": "L'Euroligue",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-010",
+  "q": "Quel club normand, fondé en 1872, se présente comme le doyen des clubs de football français ?",
+  "r": "Le Havre AC",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-011",
+  "q": "Quel club madrilène, surnommé « les Colchoneros », joue au Metropolitano ?",
+  "r": "L'Atlético de Madrid",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-012",
+  "q": "Quel club de hockey sur glace est surnommé « le Tricolore » ou « les Glorieux » ?",
+  "r": "Les Canadiens de Montréal",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_2-013",
+  "q": "Comment appelle-t-on les grandes protections de jambes portées par le gardien de hockey ?",
+  "r": "Les jambières",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_2-014",
+  "q": "Quel meneur brésilien au sourire célèbre, passé par le PSG, a remporté le Ballon d'or en 2005 ?",
+  "r": "Ronaldinho",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-015",
+  "q": "Quelle course par étapes de mars est surnommée « la course au soleil » ?",
+  "r": "Paris-Nice",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_2-016",
+  "q": "Quelle sélection asiatique a éliminé l'Italie lors de la Coupe du monde 1966 grâce à un but de Pak Doo-ik ?",
+  "r": "La Corée du Nord",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-017",
+  "q": "Dans quel club new-yorkais Pelé a-t-il terminé sa carrière, en 1977 ?",
+  "r": "Le Cosmos de New York",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-018",
+  "q": "Quel milieu espagnol a marqué le but du titre en prolongation de la finale de la Coupe du monde 2010 ?",
+  "r": "Andrés Iniesta",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-019",
+  "q": "Quel attaquant croate a marqué contre son camp le premier but de la finale de la Coupe du monde 2018 ?",
+  "r": "Mario Mandžukić",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-020",
+  "q": "Sous quel nom la Ligue des champions de l'UEFA s'appelait-elle avant 1992 ?",
+  "r": "La Coupe des clubs champions",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-021",
+  "q": "Quel style de jeu fait de passes courtes et de conservation du ballon a caractérisé le Barça de Guardiola ?",
+  "r": "Le tiki-taka",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-022",
+  "q": "Au basket, comment appelle-t-on la surface rectangulaire fixée derrière le cercle, sur laquelle le ballon peut rebondir ?",
+  "r": "Le panneau (la planche)",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-023",
+  "q": "Quel commentateur télé du rugby est resté célèbre pour son encouragement « Allez les petits ! » ?",
+  "r": "Roger Couderc",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-024",
+  "q": "Quel entraîneur catalan a remporté la Ligue des champions en 2009 et 2011 avec le FC Barcelone ?",
+  "r": "Pep Guardiola",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-025",
+  "q": "Quel Français, célèbre pour sa passion du café, a remporté le titre NBA 2014 avec les Spurs aux côtés de Tony Parker ?",
+  "r": "Boris Diaw",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-026",
+  "q": "Quelle défenseure de l'OL, née en Martinique, a longtemps porté le brassard de capitaine des Bleues ?",
+  "r": "Wendie Renard",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-027",
+  "q": "Quelle troisième coupe d'Europe des clubs l'UEFA a-t-elle lancée en 2021 ?",
+  "r": "La Ligue Europa Conférence",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-028",
+  "q": "Quel jeu de balle, ancêtre du tennis, se jouait d'abord à main nue puis avec une raquette ?",
+  "r": "Le jeu de paume",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-029",
+  "q": "Quel club parisien de rugby, célèbre pour ses maillots roses, joue au stade Jean-Bouin ?",
+  "r": "Le Stade français",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-030",
+  "q": "Quel surnom affectueux donne-t-on à Zinédine Zidane ?",
+  "r": "Zizou",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-031",
+  "q": "Quel arrière argentin a formé avec Tony Parker et Tim Duncan le trio vedette des Spurs ?",
+  "r": "Manu Ginóbili",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-032",
+  "q": "Quel demi d'ouverture sud-africain a marqué le drop de la victoire en finale de la Coupe du monde 1995 ?",
+  "r": "Joel Stransky",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-033",
+  "q": "Quel objet le vainqueur de Paris-Roubaix reçoit-il en guise de trophée ?",
+  "r": "Un pavé",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_2-034",
+  "q": "Quel Américain gaucher, surnommé « Jimbo », a remporté cinq fois l'US Open ?",
+  "r": "Jimmy Connors",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-035",
+  "q": "Quel ailier droit des Experts, célèbre pour ses tirs acrobatiques, est aussi artiste peintre ?",
+  "r": "Luc Abalo",
+  "d": 3,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_2-036",
+  "q": "Quel club de Liverpool, voisin et rival des Reds, est surnommé « les Toffees » ?",
+  "r": "Everton",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-037",
+  "q": "Quel volleyeur français, meilleur joueur du tournoi olympique de Tokyo, doit son prénom à Magic Johnson ?",
+  "r": "Earvin Ngapeth",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_2-038",
+  "q": "Quel club anglais, dont les supporters sont des « Geordies », est surnommé « les Magpies » ?",
+  "r": "Newcastle United",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-039",
+  "q": "Quel système électronique reconstitue la trajectoire de la balle pour trancher les contestations au tennis ?",
+  "r": "Le Hawk-Eye (œil de faucon)",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-040",
+  "q": "Quel prix, portant le nom d'un attaquant hongrois, récompense chaque année le plus beau but selon la FIFA ?",
+  "r": "Le prix Puskás",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-041",
+  "q": "Quel club de la capitale italienne est surnommé « la Louve » ou « les Giallorossi » ?",
+  "r": "L'AS Roma",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-042",
+  "q": "Quel meneur des Lakers a annoncé en 1991 sa séropositivité et mis fin à sa carrière ?",
+  "r": "Magic Johnson",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-043",
+  "q": "Quel pays a remporté le tournoi olympique masculin de water-polo en 2000, 2004 et 2008 ?",
+  "r": "La Hongrie",
+  "d": 2,
+  "t": "Water-polo"
+ },
+ {
+  "id": "spo_d_2-044",
+  "q": "Quel attaquant des Bleus n'a pas cadré le moindre tir lors de la Coupe du monde 2018, pourtant remportée par la France ?",
+  "r": "Olivier Giroud",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-045",
+  "q": "Quel club londonien est surnommé « les Spurs » ?",
+  "r": "Tottenham Hotspur",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-046",
+  "q": "Sous quel nom la Ligue Europa était-elle connue jusqu'en 2009 ?",
+  "r": "La Coupe UEFA",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-047",
+  "q": "Où un hockeyeur sanctionné purge-t-il sa pénalité ?",
+  "r": "Au banc des pénalités",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_2-048",
+  "q": "Au handball, comment appelle-t-on la faute d'une équipe qui conserve le ballon sans chercher à attaquer ?",
+  "r": "Le jeu passif",
+  "d": 2,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_2-049",
+  "q": "Quel joueur roumain, vainqueur de Roland-Garros 1973, était surnommé « Nasty » ?",
+  "r": "Ilie Năstase",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-050",
+  "q": "Quel milieu allemand a marqué en prolongation le but de la victoire en finale de la Coupe du monde 2014 contre l'Argentine ?",
+  "r": "Mario Götze",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-051",
+  "q": "Comment appelle-t-on les joueurs de première ligne qui portent les numéros 1 et 3 ?",
+  "r": "Les piliers",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-052",
+  "q": "Quel arrière a conclu « l'essai du bout du monde » inscrit par la France à Auckland en 1994 ?",
+  "r": "Jean-Luc Sadourny",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-053",
+  "q": "Quel Suédois a infligé à Rafael Nadal sa première défaite à Roland-Garros, en 2009 ?",
+  "r": "Robin Söderling",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-054",
+  "q": "Sous quel nom historique connaît-on la course par étapes de juin, répétition du Tour, rebaptisée Tour Auvergne-Rhône-Alpes en 2026 ?",
+  "r": "Le Critérium du Dauphiné",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_2-055",
+  "q": "Quel surnom a reçu le match de water-polo très violent entre la Hongrie et l'URSS aux Jeux de 1956 ?",
+  "r": "Le bain de sang de Melbourne",
+  "d": 3,
+  "t": "Water-polo"
+ },
+ {
+  "id": "spo_d_2-056",
+  "q": "Quel Belge a remporté Paris-Roubaix à quatre reprises, la dernière fois en 2012 ?",
+  "r": "Tom Boonen",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_2-057",
+  "q": "Quel autre nom, formé d'une onomatopée, donne-t-on au tennis de table ?",
+  "r": "Le ping-pong",
+  "d": 1,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_2-058",
+  "q": "Dans quelle ville les Lakers étaient-ils installés avant de déménager à Los Angeles en 1960 ?",
+  "r": "Minneapolis",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-059",
+  "q": "Quel Français a perdu 70-68 au cinquième set face à John Isner à Wimbledon en 2010, au terme d'un match de 11 heures ?",
+  "r": "Nicolas Mahut",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-060",
+  "q": "Comment appelle-t-on l'engin qui refait la glace entre les périodes, souvent désigné par le nom de son inventeur ?",
+  "r": "La surfaceuse (Zamboni)",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_2-061",
+  "q": "Quel ailier des Celtics, originaire de l'Indiana, fut le grand rival de Magic Johnson dans les années 1980 ?",
+  "r": "Larry Bird",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-062",
+  "q": "Comment appelle-t-on, au tennis de table, le coup d'attaque très lifté ?",
+  "r": "Le top spin",
+  "d": 1,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_2-063",
+  "q": "Quel club français a disputé et perdu la finale de la Ligue des champions 2004 face au FC Porto ?",
+  "r": "L'AS Monaco",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-064",
+  "q": "Quelle grande course par étapes, disputée en mai, est surnommée le Giro ?",
+  "r": "Le Tour d'Italie",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_2-065",
+  "q": "Quel coup de pied, tenté après un essai, permet d'ajouter deux points ?",
+  "r": "La transformation",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-066",
+  "q": "Quel nom porte la deuxième compétition européenne de clubs de rugby, derrière la Champions Cup ?",
+  "r": "Le Challenge européen",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-067",
+  "q": "Quel gardien italien, champion du monde en 2006, a porté les maillots de la Juventus et du PSG ?",
+  "r": "Gianluigi Buffon",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-068",
+  "q": "Dans quelle salle du 12e arrondissement de Paris se disputait en 2023 le Masters 1000 de Paris ?",
+  "r": "Bercy (Accor Arena)",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-069",
+  "q": "Quelle sélection africaine est surnommée « les Super Eagles » ?",
+  "r": "Le Nigeria",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-070",
+  "q": "Quelle sélection de rugby est surnommée « le XV du Poireau » ?",
+  "r": "Le pays de Galles",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_2-071",
+  "q": "Quel attaquant brésilien surnommé « le Phénomène » a été meilleur buteur de la Coupe du monde 2002 ?",
+  "r": "Ronaldo (le Brésilien)",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-072",
+  "q": "Quel attaquant italien a été le meilleur buteur de la Coupe du monde 1982, remportée par son pays ?",
+  "r": "Paolo Rossi",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-073",
+  "q": "Quelle injonction française, lancée au service par les joueurs de paume, serait à l'origine du mot « tennis » ?",
+  "r": "« Tenez ! »",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-074",
+  "q": "Comment s'appelle le match d'exhibition annuel réunissant les meilleurs joueurs de la NBA ?",
+  "r": "Le All-Star Game",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_2-075",
+  "q": "Quelle sélection africaine est surnommée « les Lions indomptables » ?",
+  "r": "Le Cameroun",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-076",
+  "q": "Quel gardien argentin a été élu meilleur gardien de la Coupe du monde 2022 ?",
+  "r": "Emiliano Martínez",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-077",
+  "q": "Quel stade de Montevideo, construit pour la première Coupe du monde, en a accueilli la finale en 1930 ?",
+  "r": "L'Estadio Centenario",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-078",
+  "q": "Quelle Belge a remporté Roland-Garros en 2003, puis trois années de suite de 2005 à 2007 ?",
+  "r": "Justine Henin",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-079",
+  "q": "Contre quelle équipe la France a-t-elle remporté la finale olympique de volley-ball masculin de Tokyo, en 2021 ?",
+  "r": "Le Comité olympique russe",
+  "d": 2,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_2-080",
+  "q": "Quel club de football est surnommé « les Sang et Or » ?",
+  "r": "Le RC Lens",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-081",
+  "q": "Quelle compétition opposant l'Europe au reste du monde a été créée en 2017 à l'initiative de Roger Federer ?",
+  "r": "La Laver Cup",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_2-082",
+  "q": "Quel club anglais a remporté deux Coupes des clubs champions consécutives, en 1979 et 1980 ?",
+  "r": "Nottingham Forest",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_2-083",
+  "q": "Quelles sont les dimensions d'un but de handball ?",
+  "r": "3 m sur 2 m",
+  "d": 2,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_2-084",
+  "q": "Combien de points faut-il pour remporter un set de volley-ball, hors tie-break, avec deux points d'écart ?",
+  "r": "25 points",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_2-085",
+  "q": "Comment appelle-t-on les deux bandes latérales du court utilisées seulement en double ?",
+  "r": "Les couloirs",
+  "d": 1,
+  "t": "Tennis"
+ }
+]

@@ -1,0 +1,597 @@
+[
+ {
+  "id": "geo_d_1-001",
+  "q": "Comment appelle-t-on les habitants de Reims ?",
+  "r": "Les Rémois",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-002",
+  "q": "Comment appelle-t-on les habitants de Caen ?",
+  "r": "Les Caennais",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-003",
+  "q": "Comment appelle-t-on les habitants de Nice ?",
+  "r": "Les Niçois",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-004",
+  "q": "Comment appelle-t-on les habitants du Havre ?",
+  "r": "Les Havrais",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-005",
+  "q": "Comment appelle-t-on les habitants d'Arles ?",
+  "r": "Les Arlésiens",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-006",
+  "q": "Comment appelle-t-on les habitants de Bordeaux ?",
+  "r": "Les Bordelais",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-007",
+  "q": "Comment appelle-t-on les habitants d'Annecy ?",
+  "r": "Les Annéciens",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-008",
+  "q": "Comment appelle-t-on les habitants de Saint-Tropez ?",
+  "r": "Les Tropéziens",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-009",
+  "q": "Comment appelle-t-on les habitants d'Aix-en-Provence ?",
+  "r": "Les Aixois",
+  "d": 1,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-010",
+  "q": "Comment appelle-t-on les habitants du Mans ?",
+  "r": "Les Manceaux",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-011",
+  "q": "Comment appelle-t-on les habitants de Nancy ?",
+  "r": "Les Nancéiens",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-012",
+  "q": "Comment appelle-t-on les habitants de Bourges ?",
+  "r": "Les Berruyers",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-013",
+  "q": "Comment appelle-t-on les habitants de Chartres ?",
+  "r": "Les Chartrains",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-014",
+  "q": "Comment appelle-t-on les habitants de Biarritz ?",
+  "r": "Les Biarrots",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-015",
+  "q": "Comment appelle-t-on les habitants de Valence, dans la Drôme ?",
+  "r": "Les Valentinois",
+  "d": 2,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-016",
+  "q": "De quelle ville de la Marne, siège de nombreuses maisons de champagne, les Sparnaciens sont-ils les habitants ?",
+  "r": "Épernay",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-017",
+  "q": "De quelle ville de l'Hérault les Biterrois sont-ils les habitants ?",
+  "r": "Béziers",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-018",
+  "q": "De quelle ville du Nord, voisine de Roubaix, les Tourquennois sont-ils les habitants ?",
+  "r": "Tourcoing",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-019",
+  "q": "De quelle ville du Calvados, célèbre pour sa basilique Sainte-Thérèse, les Lexoviens sont-ils les habitants ?",
+  "r": "Lisieux",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-020",
+  "q": "De quelle préfecture de la Dordogne les Pétrocoriens sont-ils les habitants ?",
+  "r": "Périgueux",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-021",
+  "q": "De quelle ville des Vosges les Déodatiens sont-ils les habitants ?",
+  "r": "Saint-Dié-des-Vosges",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-022",
+  "q": "De quelle ville thermale des Landes les Dacquois sont-ils les habitants ?",
+  "r": "Dax",
+  "d": 3,
+  "t": "Gentilés"
+ },
+ {
+  "id": "geo_d_1-023",
+  "q": "Quel département français porte le numéro 59 ?",
+  "r": "Le Nord",
+  "d": 1,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-024",
+  "q": "Quel département d'Île-de-France est familièrement surnommé le « neuf-trois » ?",
+  "r": "La Seine-Saint-Denis",
+  "d": 1,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-025",
+  "q": "Quel numéro de département correspond à Paris ?",
+  "r": "75",
+  "d": 1,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-026",
+  "q": "Quel département de la Côte d'Azur porte le numéro 06 ?",
+  "r": "Les Alpes-Maritimes",
+  "d": 1,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-027",
+  "q": "Selon quel ordre la plupart des numéros des départements métropolitains ont-ils été attribués ?",
+  "r": "L'ordre alphabétique",
+  "d": 1,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-028",
+  "q": "Quel département breton porte le numéro 29 ?",
+  "r": "Le Finistère",
+  "d": 2,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-029",
+  "q": "Quel département porte le numéro 01, le premier de la liste ?",
+  "r": "L'Ain",
+  "d": 2,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-030",
+  "q": "Quel département porte le numéro 90, attribué au morceau d'Alsace resté français après 1871 ?",
+  "r": "Le Territoire de Belfort",
+  "d": 2,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-031",
+  "q": "Quel département d'outre-mer porte le numéro 971 ?",
+  "r": "La Guadeloupe",
+  "d": 2,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-032",
+  "q": "En quelle année l'Assemblée constituante a-t-elle fixé la liste des premiers départements français ?",
+  "r": "1790",
+  "d": 2,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-033",
+  "q": "Quel département corse est désigné par le code 2A ?",
+  "r": "La Corse-du-Sud",
+  "d": 2,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-034",
+  "q": "Quel numéro portait la Corse avant sa division en deux départements en 1976 ?",
+  "r": "20",
+  "d": 3,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-035",
+  "q": "Quel département d'outre-mer, créé en 2011, porte le numéro 976 ?",
+  "r": "Mayotte",
+  "d": 3,
+  "t": "Départements"
+ },
+ {
+  "id": "geo_d_1-036",
+  "q": "Quelle ville est la préfecture des Pyrénées-Orientales ?",
+  "r": "Perpignan",
+  "d": 1,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-037",
+  "q": "Quelle ville, célèbre pour son château, est la préfecture des Yvelines ?",
+  "r": "Versailles",
+  "d": 1,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-038",
+  "q": "Quelle ville est la préfecture de l'Indre-et-Loire ?",
+  "r": "Tours",
+  "d": 1,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-039",
+  "q": "Quelle ville, proche du parc du Futuroscope, est la préfecture de la Vienne ?",
+  "r": "Poitiers",
+  "d": 1,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-040",
+  "q": "Quelle ville, où naquit Henri IV, est la préfecture des Pyrénées-Atlantiques ?",
+  "r": "Pau",
+  "d": 1,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-041",
+  "q": "Quelle ville est la préfecture du département de la Loire ?",
+  "r": "Saint-Étienne",
+  "d": 1,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-042",
+  "q": "Quelle ville est la préfecture de l'Ain ?",
+  "r": "Bourg-en-Bresse",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-043",
+  "q": "Quelle ville, dont l'escalier monumental est orné d'une statue de d'Artagnan, est la préfecture du Gers ?",
+  "r": "Auch",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-044",
+  "q": "Dans quelle préfecture de la Nièvre repose le corps de sainte Bernadette Soubirous ?",
+  "r": "Nevers",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-045",
+  "q": "Quelle préfecture de l'Oise possède le chœur gothique le plus haut du monde ?",
+  "r": "Beauvais",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-046",
+  "q": "Quelle préfecture de l'Orne a donné son nom à un point de dentelle inscrit à l'UNESCO ?",
+  "r": "Alençon",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-047",
+  "q": "Quelle préfecture de Saône-et-Loire est la ville natale d'Alphonse de Lamartine ?",
+  "r": "Mâcon",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-048",
+  "q": "Quelle préfecture du Tarn-et-Garonne est la ville natale du peintre Ingres ?",
+  "r": "Montauban",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-049",
+  "q": "Quelle préfecture de la Vendée fut fondée sur ordre de Napoléon Ier en 1804 ?",
+  "r": "La Roche-sur-Yon",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-050",
+  "q": "Quelle ville est la préfecture des Landes ?",
+  "r": "Mont-de-Marsan",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-051",
+  "q": "Quelle ville est la préfecture des Hautes-Alpes ?",
+  "r": "Gap",
+  "d": 2,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-052",
+  "q": "Quelle ville, réputée pour ses marrons glacés, est la préfecture de l'Ardèche ?",
+  "r": "Privas",
+  "d": 3,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-053",
+  "q": "Quelle ville est la préfecture de l'Essonne ?",
+  "r": "Évry-Courcouronnes",
+  "d": 3,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-054",
+  "q": "Quelle ville est la préfecture de la Seine-Saint-Denis ?",
+  "r": "Bobigny",
+  "d": 3,
+  "t": "Préfectures"
+ },
+ {
+  "id": "geo_d_1-055",
+  "q": "Quelle ancienne province avait pour capitale Aix ?",
+  "r": "La Provence",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-056",
+  "q": "Quelle ancienne province, surnommée « le jardin de la France », avait pour capitale Tours ?",
+  "r": "La Touraine",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-057",
+  "q": "Quelle ancienne province, berceau de la dynastie des Plantagenêts, avait pour capitale Angers ?",
+  "r": "L'Anjou",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-058",
+  "q": "Sous quel nom d'ancienne province le département de la Dordogne est-il couramment désigné ?",
+  "r": "Le Périgord",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-059",
+  "q": "Quelle ancienne province, correspondant à peu près à la Lozère, fut terrorisée par une « bête » entre 1764 et 1767 ?",
+  "r": "Le Gévaudan",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-060",
+  "q": "De quelle ancienne province du Sud-Ouest le mousquetaire d'Artagnan était-il originaire ?",
+  "r": "La Gascogne",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-061",
+  "q": "Quelle ancienne province avait pour capitale Rouen ?",
+  "r": "La Normandie",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-062",
+  "q": "De quel ancien duché Chambéry fut-elle la capitale jusqu'au milieu du XVIe siècle ?",
+  "r": "La Savoie",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-063",
+  "q": "Quelle ancienne province avait pour capitale Limoges ?",
+  "r": "Le Limousin",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-064",
+  "q": "Quelle ancienne province avait pour capitale Troyes ?",
+  "r": "La Champagne",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-065",
+  "q": "Quelle ancienne province avait pour capitale Amiens ?",
+  "r": "La Picardie",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-066",
+  "q": "Quelle province, cédée au roi de France en 1349, a donné son titre à l'héritier du trône ?",
+  "r": "Le Dauphiné",
+  "d": 1,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-067",
+  "q": "Quelle ancienne province pyrénéenne avait pour capitale Pau ?",
+  "r": "Le Béarn",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-068",
+  "q": "Quelle ancienne province du centre de la France avait pour capitale Bourges ?",
+  "r": "Le Berry",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-069",
+  "q": "Quelle ancienne province, fief des ducs de Bourbon, avait pour capitale Moulins ?",
+  "r": "Le Bourbonnais",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-070",
+  "q": "Quelle ancienne province avait pour capitale Cahors ?",
+  "r": "Le Quercy",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-071",
+  "q": "Quelle ancienne province avait pour capitale Le Mans ?",
+  "r": "Le Maine",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-072",
+  "q": "Quelle province catalane fut rattachée à la France par le traité des Pyrénées en 1659 ?",
+  "r": "Le Roussillon",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-073",
+  "q": "Quelle province, dont la capitale fut Dole puis Besançon, fut rattachée à la France par le traité de Nimègue en 1678 ?",
+  "r": "La Franche-Comté",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-074",
+  "q": "Quelle province fut rattachée à la France en 1766, à la mort de Stanislas Leszczynski ?",
+  "r": "La Lorraine",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-075",
+  "q": "Quel territoire fut rattaché à la France en même temps que la Savoie, en 1860 ?",
+  "r": "Le comté de Nice",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-076",
+  "q": "Quelle ancienne province avait pour capitale Saintes ?",
+  "r": "La Saintonge",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-077",
+  "q": "En quelle année l'édit d'union rattacha-t-il définitivement la Bretagne au royaume de France ?",
+  "r": "1532",
+  "d": 2,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-078",
+  "q": "Quelle ancienne province avait pour capitale Rodez ?",
+  "r": "Le Rouergue",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-079",
+  "q": "Quelle enclave pontificale autour de Carpentras ne fut rattachée à la France qu'en 1791 ?",
+  "r": "Le Comtat Venaissin",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-080",
+  "q": "Quelles sont les trois provinces historiques du Pays basque français ?",
+  "r": "Labourd, Basse-Navarre et Soule",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-081",
+  "q": "Quelle ancienne province correspond en grande partie au département de l'Ardèche ?",
+  "r": "Le Vivarais",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-082",
+  "q": "Quelle ancienne province, dont Guéret était la capitale, correspond en grande partie à la Creuse ?",
+  "r": "La Marche",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-083",
+  "q": "Quelle ancienne province avait pour capitale Angoulême ?",
+  "r": "L'Angoumois",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-084",
+  "q": "Quelle petite ancienne province avait pour capitale La Rochelle ?",
+  "r": "L'Aunis",
+  "d": 3,
+  "t": "Anciennes provinces"
+ },
+ {
+  "id": "geo_d_1-085",
+  "q": "Quel ancien comté, autour de Montbrison, correspond à une partie du département de la Loire ?",
+  "r": "Le Forez",
+  "d": 3,
+  "t": "Anciennes provinces"
+ }
+]

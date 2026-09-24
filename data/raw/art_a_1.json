@@ -1,539 +1,629 @@
 [
  {
+  "id": "art_a_1-001",
   "q": "Quel écrivain a créé le personnage de Jean Valjean ?",
   "r": "Victor Hugo",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-002",
   "q": "Dans quel roman d'Alexandre Dumas apparaissent Athos, Porthos et Aramis ?",
   "r": "Les Trois Mousquetaires",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-003",
   "q": "Qui a écrit « Madame Bovary » ?",
   "r": "Gustave Flaubert",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-004",
   "q": "Quel est le prénom de Madame Bovary, l'héroïne de Flaubert ?",
   "r": "Emma",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-005",
   "q": "Quel écrivain a imaginé le pari de Phileas Fogg de faire le tour du monde en quatre-vingts jours ?",
   "r": "Jules Verne",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-006",
   "q": "Comment s'appelle le fidèle valet de Phileas Fogg ?",
   "r": "Passepartout",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-007",
   "q": "Quel capitaine commande le sous-marin Nautilus chez Jules Verne ?",
   "r": "Le capitaine Nemo",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-008",
   "q": "Qui a écrit « Germinal », roman sur la vie des mineurs du Nord ?",
   "r": "Émile Zola",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-009",
   "q": "Quel écrivain a imaginé le gentleman cambrioleur Arsène Lupin ?",
   "r": "Maurice Leblanc",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-010",
   "q": "Quel commissaire à la pipe est le héros de plus de soixante-dix romans de Georges Simenon ?",
   "r": "Maigret",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-011",
   "q": "Dans « Notre-Dame de Paris », comment s'appelle le sonneur de cloches bossu ?",
   "r": "Quasimodo",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-012",
   "q": "Quel gamin de Paris meurt sur une barricade en chantant dans « Les Misérables » ?",
   "r": "Gavroche",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-013",
   "q": "Dans « Les Misérables », quel policier traque inlassablement Jean Valjean ?",
   "r": "Javert",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-014",
   "q": "Quel écrivain a raconté la vengeance d'Edmond Dantès dans « Le Comte de Monte-Cristo » ?",
   "r": "Alexandre Dumas",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-015",
   "q": "Dans quelle forteresse, au large de Marseille, Edmond Dantès est-il emprisonné ?",
   "r": "Le château d'If",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-016",
   "q": "Quel écrivain est l'auteur de « À la recherche du temps perdu » ?",
   "r": "Marcel Proust",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-017",
   "q": "Quel petit gâteau trempé dans le thé fait ressurgir les souvenirs d'enfance du narrateur de Proust ?",
   "r": "La madeleine",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-018",
   "q": "Qui a écrit « L'Étranger », publié en 1942 ?",
   "r": "Albert Camus",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-019",
   "q": "Quel roman d'Albert Camus décrit une épidémie qui frappe la ville d'Oran ?",
   "r": "La Peste",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-020",
   "q": "Quel philosophe des Lumières a écrit le conte « Candide ou l'Optimisme » ?",
   "r": "Voltaire",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-021",
   "q": "Quel est le véritable nom de Voltaire ?",
   "r": "François-Marie Arouet",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-022",
   "q": "Qui a écrit le roman épistolaire « Les Liaisons dangereuses » (1782) ?",
   "r": "Choderlos de Laclos",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-023",
   "q": "Sous quel pseudonyme Henri Beyle a-t-il publié « Le Rouge et le Noir » ?",
   "r": "Stendhal",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-024",
   "q": "Comment s'appelle le jeune héros ambitieux du « Rouge et le Noir » ?",
   "r": "Julien Sorel",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-025",
   "q": "Quelle romancière a écrit la série des « Claudine », à commencer par « Claudine à l'école » ?",
   "r": "Colette",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-026",
   "q": "Quel est le nom de naissance de la romancière George Sand ?",
   "r": "Aurore Dupin",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-027",
   "q": "Quel roman champêtre de George Sand porte le nom d'une étendue d'eau maléfique ?",
   "r": "La Mare au diable",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-028",
   "q": "Quel cycle de Zola porte le sous-titre « Histoire naturelle et sociale d'une famille sous le Second Empire » ?",
   "r": "Les Rougon-Macquart",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-029",
   "q": "Combien de romans compte le cycle des Rougon-Macquart d'Émile Zola ?",
   "r": "20",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-030",
   "q": "Dans « Germinal », comment s'appelle le jeune ouvrier qui arrive à Montsou et mène la grève ?",
   "r": "Étienne Lantier",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-031",
   "q": "Quel écrivain a réuni la plupart de ses romans sous le titre « La Comédie humaine » ?",
   "r": "Honoré de Balzac",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-032",
   "q": "Quel personnage de Balzac lance à Paris « À nous deux maintenant ! » à la fin du « Père Goriot » ?",
   "r": "Eugène de Rastignac",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-033",
   "q": "Quel est le surnom de Vautrin, le forçat évadé de « La Comédie humaine » ?",
   "r": "Trompe-la-Mort",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-034",
   "q": "Quel roman de Balzac a pour héroïne la fille d'un tonnelier avare de Saumur ?",
   "r": "Eugénie Grandet",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-035",
   "q": "Quel écrivain, tué au front en 1914, a écrit « Le Grand Meaulnes » ?",
   "r": "Alain-Fournier",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-036",
   "q": "Quel écrivain a raconté l'ascension de Georges Duroy dans « Bel-Ami » ?",
   "r": "Guy de Maupassant",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-037",
   "q": "Quelle nouvelle de Maupassant se déroule dans une diligence fuyant Rouen occupée par les Prussiens ?",
   "r": "Boule de suif",
   "d": 2,
   "t": "Nouvelles"
  },
  {
+  "id": "art_a_1-038",
   "q": "Qui a écrit « Voyage au bout de la nuit » (1932) ?",
   "r": "Louis-Ferdinand Céline",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-039",
   "q": "Quel est le véritable nom de famille de Louis-Ferdinand Céline ?",
   "r": "Destouches",
   "d": 3,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-040",
   "q": "Quel roman de Victor Hugo, écrit à Guernesey, décrit le combat du pêcheur Gilliatt contre une pieuvre ?",
   "r": "Les Travailleurs de la mer",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-041",
   "q": "Quel roman de Flaubert suit la jeunesse de Frédéric Moreau et son amour pour Madame Arnoux ?",
   "r": "L'Éducation sentimentale",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-042",
   "q": "Quel roman inachevé de Flaubert met en scène deux copistes qui se lancent dans toutes les sciences ?",
   "r": "Bouvard et Pécuchet",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-043",
   "q": "Quel jeune Gascon rejoint les mousquetaires du roi dans le roman d'Alexandre Dumas ?",
   "r": "D'Artagnan",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-044",
   "q": "Quelle espionne de Richelieu porte une fleur de lys marquée au fer sur l'épaule dans « Les Trois Mousquetaires » ?",
   "r": "Milady de Winter",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-045",
   "q": "Quelle romancière a publié anonymement « La Princesse de Clèves » en 1678 ?",
   "r": "Madame de La Fayette",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-046",
   "q": "Quelle œuvre de Montesquieu raconte, par lettres, le séjour en France de deux Persans, Usbek et Rica ?",
   "r": "Les Lettres persanes",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-047",
   "q": "Qui a écrit « Paul et Virginie », idylle tragique sur l'île de France (Maurice) ?",
   "r": "Bernardin de Saint-Pierre",
   "d": 3,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-048",
   "q": "Quel abbé a écrit « Manon Lescaut » au XVIIIe siècle ?",
   "r": "L'abbé Prévost",
   "d": 3,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-049",
   "q": "Quel écrivain romantique a écrit les « Mémoires d'outre-tombe » ?",
   "r": "Chateaubriand",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-050",
   "q": "Quel écrivain de la Renaissance a raconté les aventures des géants Gargantua et Pantagruel ?",
   "r": "François Rabelais",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-051",
   "q": "Quel penseur bordelais du XVIe siècle a écrit « Les Essais » ?",
   "r": "Michel de Montaigne",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-052",
   "q": "Quel écrivain genevois a écrit « Les Rêveries du promeneur solitaire » ?",
   "r": "Jean-Jacques Rousseau",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-053",
   "q": "Quel philosophe des Lumières a écrit « Jacques le fataliste et son maître » ?",
   "r": "Denis Diderot",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-054",
   "q": "Quel immense ouvrage collectif, dirigé par Diderot et d'Alembert, paraît de 1751 à 1772 ?",
   "r": "L'Encyclopédie",
   "d": 1,
   "t": "Lumières"
  },
  {
+  "id": "art_a_1-055",
   "q": "Quel roman de Victor Hugo se déroule en Vendée pendant la Terreur ?",
   "r": "Quatrevingt-treize",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-056",
   "q": "Dans quel roman de Jules Verne le professeur Lidenbrock descend-il dans un volcan islandais ?",
   "r": "Voyage au centre de la Terre",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-057",
   "q": "Quel héros de Jules Verne, courrier du tsar, traverse la Sibérie ?",
   "r": "Michel Strogoff",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-058",
   "q": "Quel roman de Marguerite Yourcenar prend la forme d'une longue lettre d'un empereur romain à Marc Aurèle ?",
   "r": "Mémoires d'Hadrien",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-059",
   "q": "Quelle écrivaine est devenue en 1980 la première femme élue à l'Académie française ?",
   "r": "Marguerite Yourcenar",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-060",
   "q": "Quelle écrivaine a écrit dans « Le Deuxième Sexe » : « On ne naît pas femme : on le devient » ?",
   "r": "Simone de Beauvoir",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-061",
   "q": "Quel roman de Jean-Paul Sartre, paru en 1938, est le journal d'Antoine Roquentin ?",
   "r": "La Nausée",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-062",
   "q": "Quelle romancière a publié « Bonjour tristesse » à dix-huit ans, en 1954 ?",
   "r": "Françoise Sagan",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-063",
   "q": "Quel roman de Raymond Queneau a pour héroïne une fillette effrontée qui rêve de prendre le métro ?",
   "r": "Zazie dans le métro",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-064",
   "q": "Quel roman de Georges Perec est entièrement écrit sans la lettre « e » ?",
   "r": "La Disparition",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-065",
   "q": "Quel groupe de littérature à contraintes, fondé en 1960, a réuni Queneau, Perec et Calvino ?",
   "r": "L'Oulipo",
   "d": 2,
   "t": "Mouvements"
  },
  {
+  "id": "art_a_1-066",
   "q": "Qui a écrit « L'Écume des jours », où un nénuphar pousse dans le poumon de Chloé ?",
   "r": "Boris Vian",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-067",
   "q": "Quel instrument inventé par Colin, dans « L'Écume des jours », prépare des cocktails selon la musique jouée ?",
   "r": "Le pianocktail",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-068",
   "q": "Quel roman Boris Vian a-t-il publié en 1946 sous le pseudonyme de Vernon Sullivan ?",
   "r": "J'irai cracher sur vos tombes",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-069",
   "q": "Quel écrivain de Manosque a écrit « Le Hussard sur le toit » ?",
   "r": "Jean Giono",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-070",
   "q": "Quel écrivain provençal a imaginé les histoires de « Jean de Florette » et « Manon des sources » ?",
   "r": "Marcel Pagnol",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-071",
   "q": "Quel écrivain a signé « Les Lettres de mon moulin » ?",
   "r": "Alphonse Daudet",
   "d": 1,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-072",
   "q": "Quel héros vantard de Daudet part chasser le lion en Algérie ?",
   "r": "Tartarin de Tarascon",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-073",
   "q": "Dans quel roman de Stendhal Fabrice del Dongo erre-t-il sur le champ de bataille de Waterloo ?",
   "r": "La Chartreuse de Parme",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-074",
   "q": "Quel écrivain a créé le jeune reporter détective Rouletabille ?",
   "r": "Gaston Leroux",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-075",
   "q": "Quel roman de Gaston Leroux met en scène un être mystérieux qui hante le palais Garnier ?",
   "r": "Le Fantôme de l'Opéra",
   "d": 1,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-076",
   "q": "Quel génie du crime masqué, créé par Souvestre et Allain en 1911, terrorise Paris ?",
   "r": "Fantômas",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-077",
   "q": "Quel roman d'Alexandre Dumas fils a inspiré l'opéra « La Traviata » de Verdi ?",
   "r": "La Dame aux camélias",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-078",
   "q": "Quel est le véritable nom de l'écrivain et officier de marine Pierre Loti ?",
   "r": "Julien Viaud",
   "d": 3,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-079",
   "q": "Quel roman de Pierre Loti raconte la vie des marins bretons partant pêcher la morue au loin ?",
   "r": "Pêcheur d'Islande",
   "d": 3,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-080",
   "q": "Quel romancier bordelais a écrit « Thérèse Desqueyroux » ?",
   "r": "François Mauriac",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-081",
   "q": "Quel poète et cinéaste a écrit le roman « Les Enfants terribles » en 1929 ?",
   "r": "Jean Cocteau",
   "d": 3,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-082",
   "q": "Quel roman de Saint-Exupéry (1931) évoque les pilotes de l'Aéropostale en Amérique du Sud ?",
   "r": "Vol de nuit",
   "d": 2,
   "t": "Romans"
  },
  {
+  "id": "art_a_1-083",
   "q": "Quel personnage de Victor Hugo, défiguré par une bouche fendue jusqu'aux oreilles, est « l'homme qui rit » ?",
   "r": "Gwynplaine",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-084",
   "q": "Quel évêque de Digne offre ses chandeliers d'argent à Jean Valjean ?",
   "r": "Monseigneur Myriel",
   "d": 3,
   "t": "Personnages"
  },
  {
+  "id": "art_a_1-085",
   "q": "Quel auteur du XIIe siècle a écrit « Perceval ou le Conte du Graal » ?",
   "r": "Chrétien de Troyes",
   "d": 2,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_a_1-086",
   "q": "Quelle chanson de geste raconte la mort du neveu de Charlemagne au col de Roncevaux ?",
   "r": "La Chanson de Roland",
   "d": 1,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_a_1-087",
   "q": "Quel animal rusé est le héros d'un célèbre ensemble de récits satiriques du Moyen Âge ?",
   "r": "Le renard (Renart)",
   "d": 1,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_a_1-088",
   "q": "Comment s'appelle le loup, éternel ennemi de Renart, dans le « Roman de Renart » ?",
   "r": "Isengrin",
   "d": 3,
   "t": "Moyen Âge"
  },
  {
+  "id": "art_a_1-089",
   "q": "Quel est le véritable nom de Vercors, auteur du « Silence de la mer » publié clandestinement en 1942 ?",
   "r": "Jean Bruller",
   "d": 3,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_1-090",
   "q": "Quelle romancière, morte à Auschwitz, est l'autrice de « Suite française », publiée seulement en 2004 ?",
   "r": "Irène Némirovsky",
   "d": 3,

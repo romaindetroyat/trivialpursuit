@@ -1,0 +1,597 @@
+[
+ {
+  "id": "his_f_1-001",
+  "q": "Quel gouverneur militaire de Paris a fait réquisitionner des taxis en septembre 1914 pour renforcer le front de la Marne ?",
+  "r": "Joseph Gallieni",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-002",
+  "q": "Quel surnom donnait-on familièrement aux soldats britanniques de la Grande Guerre ?",
+  "r": "Les Tommies",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-003",
+  "q": "Quelle chanson antimilitariste, longtemps censurée, est associée aux mutineries qui ont suivi l'offensive du Chemin des Dames ?",
+  "r": "La Chanson de Craonne",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-004",
+  "q": "Quel fort de Verdun, défendu par le commandant Raynal, a capitulé en juin 1916 faute d'eau ?",
+  "r": "Le fort de Vaux",
+  "d": 3,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-005",
+  "q": "Quel monument de la Meuse abrite les restes d'environ 130 000 soldats non identifiés tombés à Verdun ?",
+  "r": "L'ossuaire de Douaumont",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-006",
+  "q": "Quelle flamme est ravivée chaque soir sous l'Arc de triomphe depuis novembre 1923 ?",
+  "r": "La flamme du Souvenir",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-007",
+  "q": "Quel télégramme allemand de 1917, intercepté par les Britanniques, proposait une alliance au Mexique contre les États-Unis ?",
+  "r": "Le télégramme Zimmermann",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-008",
+  "q": "Dans quelle rade des Orcades la flotte allemande internée s'est-elle sabordée en juin 1919 ?",
+  "r": "Scapa Flow",
+  "d": 3,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-009",
+  "q": "Quelle infirmière britannique a été fusillée par les Allemands à Bruxelles en 1915 pour avoir aidé des soldats alliés à s'évader ?",
+  "r": "Edith Cavell",
+  "d": 3,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-010",
+  "q": "Comment surnommait-on les soldats défigurés par leurs blessures pendant la Grande Guerre ?",
+  "r": "Les gueules cassées",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-011",
+  "q": "Quel traité de 1920 démantelant l'Empire ottoman n'a jamais été appliqué, faute de ratification par la Turquie ?",
+  "r": "Le traité de Sèvres",
+  "d": 3,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-012",
+  "q": "Quel surnom les Français ont-ils donné à Georges Clemenceau à la fin de la Grande Guerre ?",
+  "r": "Le Père la Victoire",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-013",
+  "q": "Quelle crête du Pas-de-Calais a été conquise par les troupes canadiennes en avril 1917 ?",
+  "r": "La crête de Vimy",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-014",
+  "q": "Quelle expression anglaise désigne la zone dévastée entre deux lignes de tranchées ennemies ?",
+  "r": "Le no man's land",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-015",
+  "q": "Quel surnom les Parisiens ont-ils donné au canon allemand à très longue portée qui bombarda la capitale en 1918 ?",
+  "r": "La Grosse Bertha",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-016",
+  "q": "Quelle église parisienne a été frappée par un obus allemand pendant l'office du Vendredi saint 1918, faisant 91 morts ?",
+  "r": "Saint-Gervais",
+  "d": 3,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-017",
+  "q": "Comment appelle-t-on les fraternisations spontanées entre soldats ennemis sur le front ouest à la fin de décembre 1914 ?",
+  "r": "La trêve de Noël",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-018",
+  "q": "Quel homme est devenu en 2008, à 110 ans, le dernier poilu français de la Grande Guerre à disparaître ?",
+  "r": "Lazare Ponticelli",
+  "d": 2,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-019",
+  "q": "Comment appelle-t-on le rassemblement de toutes les forces politiques françaises face à l'ennemi en août 1914 ?",
+  "r": "L'Union sacrée",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-020",
+  "q": "Quel nationaliste a assassiné Jean Jaurès au café du Croissant en 1914 ?",
+  "r": "Raoul Villain",
+  "d": 3,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-021",
+  "q": "Quel président de la République était en fonction pendant toute la Grande Guerre ?",
+  "r": "Raymond Poincaré",
+  "d": 1,
+  "t": "Première Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-022",
+  "q": "Quel nom portait la police politique créée par les bolcheviks en décembre 1917 ?",
+  "r": "La Tchéka",
+  "d": 2,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-023",
+  "q": "Dans quelle ville de l'Oural la famille impériale russe a-t-elle été exécutée en juillet 1918 ?",
+  "r": "Iekaterinbourg",
+  "d": 2,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-024",
+  "q": "Quel mystique guérisseur sibérien, très influent auprès de la tsarine, a été assassiné en décembre 1916 ?",
+  "r": "Raspoutine",
+  "d": 1,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-025",
+  "q": "Quel sigle désigne la politique lancée par Lénine en 1921, qui rétablissait une part de commerce privé ?",
+  "r": "La NEP",
+  "d": 2,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-026",
+  "q": "Quel acronyme russe désigne le système des camps de travail forcé soviétiques ?",
+  "r": "Le Goulag",
+  "d": 1,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-027",
+  "q": "Quel mouvement soviétique lancé en 1935 tire son nom d'un mineur aux rendements record ?",
+  "r": "Le stakhanovisme",
+  "d": 2,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-028",
+  "q": "Quel dirigeant a succédé à Khrouchtchev en 1964 et est resté à la tête de l'URSS jusqu'à sa mort en 1982 ?",
+  "r": "Leonid Brejnev",
+  "d": 1,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-029",
+  "q": "Quel jeune pilote allemand a posé son petit avion de tourisme près de la place Rouge en mai 1987 ?",
+  "r": "Mathias Rust",
+  "d": 3,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-030",
+  "q": "Quel pilote américain d'avion espion U-2 a été abattu au-dessus de l'URSS en mai 1960 ?",
+  "r": "Francis Gary Powers",
+  "d": 3,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-031",
+  "q": "Quel mot russe désigne la politique de transparence voulue par Gorbatchev ?",
+  "r": "La glasnost",
+  "d": 1,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-032",
+  "q": "Contre quelle république du Caucase la Russie a-t-elle mené deux guerres, en 1994-1996 puis à partir de 1999 ?",
+  "r": "La Tchétchénie",
+  "d": 1,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-033",
+  "q": "Quel homme a succédé à Boris Eltsine à la tête de la Russie le 31 décembre 1999 ?",
+  "r": "Vladimir Poutine",
+  "d": 1,
+  "t": "Russie et URSS"
+ },
+ {
+  "id": "his_f_1-034",
+  "q": "Quelle révolutionnaire, cofondatrice du mouvement spartakiste, a été assassinée à Berlin en janvier 1919 ?",
+  "r": "Rosa Luxemburg",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-035",
+  "q": "Quelle organisation paramilitaire du parti nazi était surnommée « les chemises brunes » ?",
+  "r": "La SA",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-036",
+  "q": "Quel ministre a dirigé la propagande du Troisième Reich de 1933 à 1945 ?",
+  "r": "Joseph Goebbels",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-037",
+  "q": "Quel dignitaire nazi s'est envolé seul vers l'Écosse en mai 1941 pour tenter de négocier la paix ?",
+  "r": "Rudolf Hess",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-038",
+  "q": "Quel chef de la SS a été l'un des principaux organisateurs de la Shoah ?",
+  "r": "Heinrich Himmler",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-039",
+  "q": "Quel organisateur de la déportation des Juifs a été enlevé en Argentine par le Mossad en 1960, puis jugé à Jérusalem ?",
+  "r": "Adolf Eichmann",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-040",
+  "q": "Quel titre, signifiant « guide », Mussolini portait-il comme chef du fascisme italien ?",
+  "r": "Le Duce",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-041",
+  "q": "Quel député socialiste italien, qui avait dénoncé les violences électorales fascistes, a été assassiné en 1924 ?",
+  "r": "Giacomo Matteotti",
+  "d": 3,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-042",
+  "q": "Sous quel surnom la dirigeante communiste espagnole Dolores Ibárruri est-elle restée célèbre ?",
+  "r": "La Pasionaria",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-043",
+  "q": "Dans quel monument proche de Madrid, bâti en partie par des prisonniers républicains, Franco a-t-il été inhumé en 1975 ?",
+  "r": "Valle de los Caídos",
+  "d": 3,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-044",
+  "q": "Quel pacte de 1928, signé à terme par une soixantaine d'États, prétendait mettre la guerre « hors la loi » ?",
+  "r": "Le pacte Briand-Kellogg",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-045",
+  "q": "Quel mot désigne l'interdiction de fabriquer et de vendre de l'alcool aux États-Unis, de 1920 à 1933 ?",
+  "r": "La Prohibition",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-046",
+  "q": "Quel gangster de Chicago a été condamné en 1931 pour fraude fiscale ?",
+  "r": "Al Capone",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-047",
+  "q": "Quels anarchistes italiens ont été exécutés aux États-Unis en 1927 malgré une mobilisation internationale ?",
+  "r": "Sacco et Vanzetti",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-048",
+  "q": "Quel président des États-Unis est le seul à avoir été élu quatre fois ?",
+  "r": "Franklin D. Roosevelt",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-049",
+  "q": "Quel empereur d'Éthiopie a plaidé la cause de son pays envahi devant la Société des Nations en 1936 ?",
+  "r": "Hailé Sélassié",
+  "d": 1,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-050",
+  "q": "Quel souverain a fondé en 1932 le royaume d'Arabie saoudite ?",
+  "r": "Ibn Saoud",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-051",
+  "q": "Sur quels deux territoires du Levant la France a-t-elle reçu un mandat de la SDN après 1920 ?",
+  "r": "La Syrie et le Liban",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-052",
+  "q": "Quelle guerre a opposé la Bolivie au Paraguay de 1932 à 1935 ?",
+  "r": "La guerre du Chaco",
+  "d": 3,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-053",
+  "q": "Quel révolutionnaire mexicain, chef des paysans du Morelos, a été assassiné en 1919 ?",
+  "r": "Emiliano Zapata",
+  "d": 2,
+  "t": "Entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-054",
+  "q": "Au cours de quel congrès socialiste de décembre 1920 est né le Parti communiste français ?",
+  "r": "Le congrès de Tours",
+  "d": 2,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-055",
+  "q": "Quel président de la République, élu en 1924, était surnommé « Gastounet » ?",
+  "r": "Gaston Doumergue",
+  "d": 3,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-056",
+  "q": "Quelle date est restée attachée aux émeutes antiparlementaires sanglantes de la place de la Concorde, en 1934 ?",
+  "r": "Le 6 février",
+  "d": 2,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-057",
+  "q": "Quel sous-secrétaire d'État aux Loisirs du Front populaire a créé un billet de train à tarif réduit pour les congés payés ?",
+  "r": "Léo Lagrange",
+  "d": 2,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-058",
+  "q": "Quelle scientifique, prix Nobel de chimie, fut en 1936 l'une des trois premières femmes membres d'un gouvernement français ?",
+  "r": "Irène Joliot-Curie",
+  "d": 2,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-059",
+  "q": "Quel ministre de l'Éducation nationale du Front populaire a été assassiné par des miliciens en juin 1944 ?",
+  "r": "Jean Zay",
+  "d": 3,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-060",
+  "q": "Quel paquebot français, lauréat du Ruban bleu en 1935, a brûlé dans le port de New York en 1942 ?",
+  "r": "Le Normandie",
+  "d": 2,
+  "t": "France de l'entre-deux-guerres"
+ },
+ {
+  "id": "his_f_1-061",
+  "q": "Quel pays nordique l'URSS a-t-elle attaqué en novembre 1939, déclenchant la « guerre d'Hiver » ?",
+  "r": "La Finlande",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-062",
+  "q": "Quel dirigeant norvégien collaborateur des nazis a donné son nom à un synonyme de « traître » ?",
+  "r": "Vidkun Quisling",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-063",
+  "q": "Quel président du Conseil a démissionné le 16 juin 1940, laissant la place au maréchal Pétain ?",
+  "r": "Paul Reynaud",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-064",
+  "q": "Sur quel paquebot des parlementaires français ont-ils embarqué pour le Maroc en juin 1940 afin de poursuivre la guerre ?",
+  "r": "Le Massilia",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-065",
+  "q": "Combien de parlementaires ont voté contre les pleins pouvoirs au maréchal Pétain le 10 juillet 1940 ?",
+  "r": "80",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-066",
+  "q": "Quel chef du gouvernement de Vichy, fusillé en 1945, avait déclaré souhaiter la victoire de l'Allemagne ?",
+  "r": "Pierre Laval",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-067",
+  "q": "Comment appelait-on la frontière intérieure séparant la zone occupée de la zone libre de 1940 à 1942 ?",
+  "r": "La ligne de démarcation",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-068",
+  "q": "Dans quel port la flotte française s'est-elle sabordée le 27 novembre 1942 ?",
+  "r": "Toulon",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-069",
+  "q": "Quel amiral, dauphin de Pétain, a été assassiné à Alger en décembre 1942 ?",
+  "r": "François Darlan",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-070",
+  "q": "Quelle force paramilitaire de Vichy, créée en 1943 et dirigée par Joseph Darnand, pourchassait les résistants ?",
+  "r": "La Milice",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-071",
+  "q": "Quel ancien chef milicien est devenu en 1994 le premier Français condamné pour crime contre l'humanité ?",
+  "r": "Paul Touvier",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-072",
+  "q": "Quel haut fonctionnaire, secrétaire général de la préfecture de la Gironde sous l'Occupation, a été condamné en 1998 ?",
+  "r": "Maurice Papon",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-073",
+  "q": "Quel secrétaire général de la police de Vichy a été assassiné en 1993 avant d'avoir pu être jugé ?",
+  "r": "René Bousquet",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-074",
+  "q": "Quel président de la République a reconnu en juillet 1995 la responsabilité de l'État français dans la rafle du Vél' d'Hiv ?",
+  "r": "Jacques Chirac",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-075",
+  "q": "Dans quel village de l'Ain quarante-quatre enfants juifs cachés ont-ils été raflés en avril 1944 ?",
+  "r": "Izieu",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-076",
+  "q": "Quel village de Haute-Loire, à l'initiative du pasteur Trocmé, a caché des milliers de Juifs sous l'Occupation ?",
+  "r": "Le Chambon-sur-Lignon",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-077",
+  "q": "Quel titre Israël décerne-t-il aux non-Juifs ayant sauvé des Juifs au péril de leur vie pendant la Shoah ?",
+  "r": "Juste parmi les nations",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-078",
+  "q": "Quel consul du Portugal à Bordeaux a délivré des milliers de visas en juin 1940, contre les ordres de Salazar ?",
+  "r": "Aristides de Sousa Mendes",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-079",
+  "q": "Dans quelle ville de Corrèze 99 hommes ont-ils été pendus par la division SS Das Reich le 9 juin 1944 ?",
+  "r": "Tulle",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-080",
+  "q": "Dans quelle ville normande libérée le général de Gaulle a-t-il prononcé son premier discours sur le sol français, le 14 juin 1944 ?",
+  "r": "Bayeux",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-081",
+  "q": "Quel nom de code portaient les ports artificiels construits par les Alliés en Normandie, dont celui d'Arromanches ?",
+  "r": "Mulberry",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-082",
+  "q": "Par quelle expression anglaise désigne-t-on le jour du débarquement en Normandie ?",
+  "r": "Le D-Day",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-083",
+  "q": "Quel général américain commandait en chef les forces alliées lors du débarquement de Normandie ?",
+  "r": "Dwight Eisenhower",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-084",
+  "q": "Quel nom de code désignait l'opération aéroportée alliée qui échoua devant le pont d'Arnhem en septembre 1944 ?",
+  "r": "Market Garden",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "id": "his_f_1-085",
+  "q": "Combien de commandos français du capitaine Kieffer ont débarqué en Normandie le 6 juin 1944 ?",
+  "r": "177",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ }
+]

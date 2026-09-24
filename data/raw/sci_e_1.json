@@ -1,0 +1,597 @@
+[
+ {
+  "id": "sci_e_1-001",
+  "q": "Comment appelle-t-on le trouble durable de l'apprentissage de la lecture ?",
+  "r": "La dyslexie",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-002",
+  "q": "Quelle maladie génétique du sang, fréquente en Afrique et aux Antilles, déforme les globules rouges en faucille ?",
+  "r": "La drépanocytose",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-003",
+  "q": "Comment s'appelle le liquide visqueux qui lubrifie l'intérieur des articulations ?",
+  "r": "La synovie (liquide synovial)",
+  "d": 2,
+  "t": "Articulations"
+ },
+ {
+  "id": "sci_e_1-004",
+  "q": "Comment appelle-t-on les dessins uniques formés par les crêtes de la peau au bout des doigts ?",
+  "r": "Les empreintes digitales",
+  "d": 1,
+  "t": "Peau et phanères"
+ },
+ {
+  "id": "sci_e_1-005",
+  "q": "Quelle petite languette de cartilage se rabat sur le larynx pour empêcher les aliments de passer dans la trachée ?",
+  "r": "L'épiglotte",
+  "d": 2,
+  "t": "Digestion"
+ },
+ {
+  "id": "sci_e_1-006",
+  "q": "Comment appelle-t-on la représentation ordonnée de l'ensemble des chromosomes d'une cellule ?",
+  "r": "Le caryotype",
+  "d": 2,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_1-007",
+  "q": "Quel réflexe le médecin teste-t-il en frappant sous le genou avec un petit marteau ?",
+  "r": "Le réflexe rotulien",
+  "d": 2,
+  "t": "Articulations"
+ },
+ {
+  "id": "sci_e_1-008",
+  "q": "Quel minuscule muscle, le plus petit du corps humain, est attaché à l'étrier dans l'oreille moyenne ?",
+  "r": "Le muscle stapédien",
+  "d": 3,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_1-009",
+  "q": "Quelle pneumonie bactérienne doit son nom à une épidémie survenue en 1976 lors d'un congrès d'anciens combattants à Philadelphie ?",
+  "r": "La légionellose (maladie du légionnaire)",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-010",
+  "q": "Comment appelle-t-on le petit os situé tout au bout de la colonne vertébrale, vestige d'une queue ?",
+  "r": "Le coccyx",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_1-011",
+  "q": "Comment appelle-t-on les contractions musculaires en vagues qui font progresser les aliments dans le tube digestif ?",
+  "r": "Le péristaltisme",
+  "d": 3,
+  "t": "Digestion"
+ },
+ {
+  "id": "sci_e_1-012",
+  "q": "Quel examen, abrégé EEG, enregistre l'activité électrique du cerveau ?",
+  "r": "L'électroencéphalogramme",
+  "d": 2,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_1-013",
+  "q": "Quelle hormone produite par l'embryon est détectée par les tests de grossesse ?",
+  "r": "L'hormone hCG",
+  "d": 3,
+  "t": "Reproduction"
+ },
+ {
+  "id": "sci_e_1-014",
+  "q": "Comment appelle-t-on un organisme génétiquement identique à un autre, obtenu par reproduction asexuée ou en laboratoire ?",
+  "r": "Un clone",
+  "d": 1,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_1-015",
+  "q": "Quel ensemble de protéines du blé, du seigle et de l'orge donne son élasticité à la pâte à pain ?",
+  "r": "Le gluten",
+  "d": 1,
+  "t": "Nutrition"
+ },
+ {
+  "id": "sci_e_1-016",
+  "q": "Comment appelle-t-on le trouble durable de l'apprentissage du calcul et des nombres ?",
+  "r": "La dyscalculie",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-017",
+  "q": "Quelle glande masculine, située sous la vessie, fait l'objet d'un dépistage fréquent après 50 ans ?",
+  "r": "La prostate",
+  "d": 1,
+  "t": "Organes"
+ },
+ {
+  "id": "sci_e_1-018",
+  "q": "Quel syndrome associant tics moteurs et vocaux porte le nom d'un élève français de Charcot ?",
+  "r": "Le syndrome de Gilles de la Tourette",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-019",
+  "q": "Quelle maladie infantile bactérienne se reconnaît à ses quintes de toux évoquant le chant du coq ?",
+  "r": "La coqueluche",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-020",
+  "q": "Comment appelle-t-on l'association de trois médicaments antirétroviraux utilisée contre le VIH depuis 1996 ?",
+  "r": "La trithérapie",
+  "d": 2,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_1-021",
+  "q": "Comment appelle-t-on en médecine un « bleu », dû à du sang infiltré sous la peau ?",
+  "r": "Une ecchymose",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_1-022",
+  "q": "Quel sigle désigne la technique de procréation où l'ovule est fécondé en laboratoire avant d'être implanté ?",
+  "r": "La FIV (fécondation in vitro)",
+  "d": 1,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_1-023",
+  "q": "Comment appelle-t-on le manque d'hémoglobine dans le sang, qui provoque pâleur et fatigue ?",
+  "r": "L'anémie",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-024",
+  "q": "Comment appelle-t-on les tumeurs secondaires qui apparaissent à distance du cancer d'origine ?",
+  "r": "Les métastases",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-025",
+  "q": "Quel hémisphère du cerveau commande les mouvements de la main droite ?",
+  "r": "L'hémisphère gauche",
+  "d": 1,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_1-026",
+  "q": "Quel dieu grec de la médecine tenait un bâton autour duquel s'enroule un serpent, devenu l'emblème médical ?",
+  "r": "Asclépios (Esculape)",
+  "d": 2,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_1-027",
+  "q": "Quel défaut de vision, dû le plus souvent à une courbure irrégulière de la cornée, donne une image floue et déformée ?",
+  "r": "L'astigmatisme",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_1-028",
+  "q": "Quel médicament contre la douleur et la fièvre est vendu en France sous les marques Doliprane ou Efferalgan ?",
+  "r": "Le paracétamol",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_1-029",
+  "q": "Quelle maladie du bétail, déclarée éradiquée en 2011, est la seconde maladie éradiquée par l'homme après la variole ?",
+  "r": "La peste bovine",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-030",
+  "q": "Comment appelle-t-on toute substance étrangère capable de déclencher la production d'anticorps ?",
+  "r": "Un antigène",
+  "d": 2,
+  "t": "Immunité"
+ },
+ {
+  "id": "sci_e_1-031",
+  "q": "Comment appelle-t-on la principale portion du gros intestin, située entre le cæcum et le rectum ?",
+  "r": "Le côlon",
+  "d": 1,
+  "t": "Digestion"
+ },
+ {
+  "id": "sci_e_1-032",
+  "q": "Quel test du psychologue Walter Mischel mesurait la capacité d'enfants à patienter devant une friandise ?",
+  "r": "Le test du marshmallow",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-033",
+  "q": "Quel os plat, situé au milieu de la poitrine, relie les côtes par l'avant ?",
+  "r": "Le sternum",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_1-034",
+  "q": "Quelle petite boîte ronde et transparente, du nom d'un bactériologiste allemand, sert à cultiver les microbes ?",
+  "r": "La boîte de Petri",
+  "d": 1,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_1-035",
+  "q": "Quel antidouleur très puissant, extrait de l'opium, a été isolé au début du XIXe siècle ?",
+  "r": "La morphine",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_1-036",
+  "q": "Quelle maladie rend les os poreux et fragiles, surtout chez les femmes après la ménopause ?",
+  "r": "L'ostéoporose",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-037",
+  "q": "Comment appelle-t-on l'effet par lequel les attentes d'un enseignant influencent les résultats de ses élèves ?",
+  "r": "L'effet Pygmalion",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-038",
+  "q": "Quelle protéine, issue d'une méduse et devenue un marqueur incontournable en biologie, a valu le prix Nobel de chimie 2008 ?",
+  "r": "La GFP (protéine fluorescente verte)",
+  "d": 3,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_1-039",
+  "q": "Quel anglicisme désigne la fatigue et les troubles du sommeil ressentis après un long vol traversant plusieurs fuseaux horaires ?",
+  "r": "Le jet lag",
+  "d": 1,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_1-040",
+  "q": "Quelle maladie neurologique, dont souffrait Dostoïevski, se manifeste par des crises convulsives ?",
+  "r": "L'épilepsie",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-041",
+  "q": "Quel examen d'imagerie utilise les ultrasons, notamment pour suivre le fœtus pendant la grossesse ?",
+  "r": "L'échographie",
+  "d": 1,
+  "t": "Examens médicaux"
+ },
+ {
+  "id": "sci_e_1-042",
+  "q": "Comment appelle-t-on la phase de contraction du cœur, qui chasse le sang dans les artères ?",
+  "r": "La systole",
+  "d": 2,
+  "t": "Cœur et circulation"
+ },
+ {
+  "id": "sci_e_1-043",
+  "q": "Quel médecin allemand a mis au point en 1909 le Salvarsan, premier traitement efficace de la syphilis ?",
+  "r": "Paul Ehrlich",
+  "d": 3,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_1-044",
+  "q": "Dans les bras de quel dieu grec des rêves dit-on que l'on tombe en s'endormant ?",
+  "r": "Morphée",
+  "d": 1,
+  "t": "Sommeil"
+ },
+ {
+  "id": "sci_e_1-045",
+  "q": "Quelles glandes, posées comme des chapeaux sur les reins, sécrètent l'adrénaline et le cortisol ?",
+  "r": "Les glandes surrénales",
+  "d": 2,
+  "t": "Hormones et glandes"
+ },
+ {
+  "id": "sci_e_1-046",
+  "q": "Quelle famille de puissants anti-inflammatoires, dérivés d'hormones surrénales, comprend la cortisone ?",
+  "r": "Les corticoïdes",
+  "d": 2,
+  "t": "Médicaments"
+ },
+ {
+  "id": "sci_e_1-047",
+  "q": "Comment appelle-t-on la partie centrale et vivante de la dent, qui contient nerfs et vaisseaux ?",
+  "r": "La pulpe",
+  "d": 2,
+  "t": "Dents"
+ },
+ {
+  "id": "sci_e_1-048",
+  "q": "Quel acarien microscopique creuse des sillons sous la peau et provoque la gale ?",
+  "r": "Le sarcopte",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-049",
+  "q": "Comment appelle-t-on un rythme cardiaque anormalement lent ?",
+  "r": "La bradycardie",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_1-050",
+  "q": "Quel sigle désigne le trouble associant inattention, impulsivité et hyperactivité ?",
+  "r": "Le TDAH",
+  "d": 1,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-051",
+  "q": "Quelle hormone sexuelle masculine est produite principalement par les testicules ?",
+  "r": "La testostérone",
+  "d": 1,
+  "t": "Hormones et glandes"
+ },
+ {
+  "id": "sci_e_1-052",
+  "q": "Comment appelle-t-on les cinq os longs qui forment la paume de la main ?",
+  "r": "Les métacarpiens",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_1-053",
+  "q": "Quel petit os en fer à cheval, situé dans le cou sous la langue, est le seul du squelette à ne s'articuler avec aucun autre ?",
+  "r": "L'os hyoïde",
+  "d": 3,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_1-054",
+  "q": "Comment appelle-t-on une maladie transmissible de l'animal à l'homme, comme la rage ?",
+  "r": "Une zoonose",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_1-055",
+  "q": "Quel anesthésique la reine Victoria reçut-elle en 1853, de la main de John Snow, pour la naissance du prince Léopold ?",
+  "r": "Le chloroforme",
+  "d": 2,
+  "t": "Histoire de la médecine"
+ },
+ {
+  "id": "sci_e_1-056",
+  "q": "Comment appelle-t-on la modification du comportement de personnes qui se savent observées, du nom d'une usine américaine ?",
+  "r": "L'effet Hawthorne",
+  "d": 3,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-057",
+  "q": "Quel biochimiste britannique, deux fois prix Nobel de chimie, a mis au point une méthode de séquençage de l'ADN ?",
+  "r": "Frederick Sanger",
+  "d": 3,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_1-058",
+  "q": "Quel os unique forme le bras, de l'épaule jusqu'au coude ?",
+  "r": "L'humérus",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_1-059",
+  "q": "Quel grand projet international, achevé en 2003, a permis de séquencer la quasi-totalité de l'ADN humain ?",
+  "r": "Le projet Génome humain",
+  "d": 1,
+  "t": "Génétique"
+ },
+ {
+  "id": "sci_e_1-060",
+  "q": "Comment appelle-t-on la réaction allergique généralisée et brutale qui peut entraîner la mort ?",
+  "r": "Le choc anaphylactique",
+  "d": 2,
+  "t": "Immunité"
+ },
+ {
+  "id": "sci_e_1-061",
+  "q": "Comment appelle-t-on les bactéries sphériques groupées en grappes, dont une espèce est dite « dorée » ?",
+  "r": "Les staphylocoques",
+  "d": 2,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_1-062",
+  "q": "Quelle couche du fond de l'œil contient les cellules sensibles à la lumière ?",
+  "r": "La rétine",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_1-063",
+  "q": "Comment appelle-t-on la paralysie de la moitié droite ou gauche du corps ?",
+  "r": "L'hémiplégie",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_1-064",
+  "q": "Quel organe, qui se forme pendant la grossesse, assure les échanges entre la mère et le fœtus ?",
+  "r": "Le placenta",
+  "d": 1,
+  "t": "Reproduction"
+ },
+ {
+  "id": "sci_e_1-065",
+  "q": "Quel surnom portait le grand respirateur en caisson utilisé lors des épidémies de poliomyélite ?",
+  "r": "Le poumon d'acier",
+  "d": 2,
+  "t": "Instruments médicaux"
+ },
+ {
+  "id": "sci_e_1-066",
+  "q": "Quel os de la jambe forme l'arête que l'on sent sous la peau, sur le devant du mollet ?",
+  "r": "Le tibia",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "id": "sci_e_1-067",
+  "q": "Comment appelle-t-on la science qui décrit et classe les êtres vivants ?",
+  "r": "La taxinomie (taxonomie)",
+  "d": 2,
+  "t": "Biologie générale"
+ },
+ {
+  "id": "sci_e_1-068",
+  "q": "Comment appelle-t-on l'opacification du cristallin, que l'on opère en posant un implant ?",
+  "r": "La cataracte",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "id": "sci_e_1-069",
+  "q": "Quel minuscule muscle, en se contractant sous l'effet du froid ou de la peur, redresse le poil et donne la chair de poule ?",
+  "r": "Le muscle arrecteur du poil",
+  "d": 3,
+  "t": "Peau et phanères"
+ },
+ {
+  "id": "sci_e_1-070",
+  "q": "Quel zoologiste russe, prix Nobel 1908, a découvert que certaines cellules « mangent » les microbes (phagocytose) ?",
+  "r": "Élie Metchnikoff",
+  "d": 3,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_1-071",
+  "q": "Quelle méthode de coloration, inventée par un Danois en 1884, classe les bactéries en deux grands groupes ?",
+  "r": "La coloration de Gram",
+  "d": 3,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_1-072",
+  "q": "Quelle forme grave de malnutrition de l'enfant, due à un manque de protéines, se reconnaît au ventre gonflé ?",
+  "r": "Le kwashiorkor",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-073",
+  "q": "Comment appelle-t-on la tendance à prêter des sentiments et des intentions humaines aux animaux ou aux objets ?",
+  "r": "L'anthropomorphisme",
+  "d": 2,
+  "t": "Psychologie"
+ },
+ {
+  "id": "sci_e_1-074",
+  "q": "Comment appelle-t-on la plaie qui se forme chez les personnes alitées, sous l'effet d'une pression prolongée ?",
+  "r": "L'escarre",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_1-075",
+  "q": "Quelle partie du système nerveux, aussi dite végétative, contrôle les fonctions involontaires comme la digestion ?",
+  "r": "Le système nerveux autonome",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_1-076",
+  "q": "Quelle spécialité médicale se consacre au diagnostic et au traitement des cancers ?",
+  "r": "L'oncologie (cancérologie)",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "id": "sci_e_1-077",
+  "q": "Quel gros muscle de l'avant de la cuisse, formé de quatre chefs, permet d'étendre la jambe ?",
+  "r": "Le quadriceps",
+  "d": 1,
+  "t": "Muscles"
+ },
+ {
+  "id": "sci_e_1-078",
+  "q": "Comment appelle-t-on un rythme cardiaque anormalement rapide ?",
+  "r": "La tachycardie",
+  "d": 2,
+  "t": "Vocabulaire médical"
+ },
+ {
+  "id": "sci_e_1-079",
+  "q": "Quelle enzyme permet au VIH de convertir son ARN en ADN, faisant de lui un rétrovirus ?",
+  "r": "La transcriptase inverse",
+  "d": 3,
+  "t": "Microbiologie"
+ },
+ {
+  "id": "sci_e_1-080",
+  "q": "Quelle maladie inflammatoire des gencives se manifeste par des saignements au brossage ?",
+  "r": "La gingivite",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "id": "sci_e_1-081",
+  "q": "Comment appelle-t-on la perte totale de l'odorat, symptôme fréquent de la Covid-19 ?",
+  "r": "L'anosmie",
+  "d": 2,
+  "t": "Sens : l'odorat"
+ },
+ {
+  "id": "sci_e_1-082",
+  "q": "Quelle est la concentration en chlorure de sodium du sérum physiologique ?",
+  "r": "0,9 %",
+  "d": 3,
+  "t": "Soins"
+ },
+ {
+  "id": "sci_e_1-083",
+  "q": "Quel appareil délivre un choc électrique pour relancer un cœur en fibrillation ?",
+  "r": "Le défibrillateur",
+  "d": 1,
+  "t": "Instruments médicaux"
+ },
+ {
+  "id": "sci_e_1-084",
+  "q": "Quel neurotransmetteur, souvent surnommé « molécule du bonheur », est la cible des antidépresseurs de type Prozac ?",
+  "r": "La sérotonine",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "id": "sci_e_1-085",
+  "q": "Quelle hormone du pancréas fait monter le taux de sucre dans le sang, à l'inverse de l'insuline ?",
+  "r": "Le glucagon",
+  "d": 2,
+  "t": "Hormones et glandes"
+ }
+]

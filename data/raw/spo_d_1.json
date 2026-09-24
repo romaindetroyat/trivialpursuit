@@ -1,0 +1,597 @@
+[
+ {
+  "id": "spo_d_1-001",
+  "q": "Comment appelle-t-on la balle frappée sans force, qui retombe juste derrière le filet ?",
+  "r": "Une amortie",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-002",
+  "q": "Comment appelle-t-on l'action défensive consistant à saisir le porteur du ballon pour l'amener au sol ?",
+  "r": "Un plaquage",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-003",
+  "q": "Dans quelle ville s'est disputé en 1875 le premier match de hockey sur glace organisé en salle ?",
+  "r": "Montréal",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-004",
+  "q": "Quel surnom affectueux donne-t-on à la bicyclette ?",
+  "r": "La petite reine",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-005",
+  "q": "Quel trophée est remis au club champion de la ligue nord-américaine de hockey sur glace ?",
+  "r": "La coupe Stanley",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-006",
+  "q": "Quel système défensif verrouillé est associé au football italien des années 1960 ?",
+  "r": "Le catenaccio",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-007",
+  "q": "Quel joueur tchécoslovaque a remporté Roland-Garros en 1984, 1986 et 1987 ?",
+  "r": "Ivan Lendl",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-008",
+  "q": "Quel grimpeur auvergnat a terminé deuxième du Tour de France 2016 ?",
+  "r": "Romain Bardet",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-009",
+  "q": "Comment appelle-t-on la zone située derrière la ligne de but, où l'on aplatit le ballon pour marquer ?",
+  "r": "L'en-but",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-010",
+  "q": "Quel attaquant français a contrôlé le ballon de la main avant une passe décisive lors du barrage contre l'Irlande, en 2009 ?",
+  "r": "Thierry Henry",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-011",
+  "q": "Quel stade de Mexico a accueilli les finales des Coupes du monde 1970 et 1986 ?",
+  "r": "Le stade Aztèque",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-012",
+  "q": "Quelle franchise canadienne a remporté le titre NBA en 2019 ?",
+  "r": "Les Toronto Raptors",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_1-013",
+  "q": "Quelle règle, introduite en 1992, interdit au gardien de saisir à la main une passe volontaire du pied d'un coéquipier ?",
+  "r": "La règle de la passe en retrait",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-014",
+  "q": "Combien de minutes dure un quart-temps en NBA ?",
+  "r": "12 minutes",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_1-015",
+  "q": "Quel pays a organisé la Coupe du monde de football 1986, remportée par l'Argentine ?",
+  "r": "Le Mexique",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-016",
+  "q": "Quel coureur italien, vainqueur du Tour 2014, était surnommé « le Requin de Messine » ?",
+  "r": "Vincenzo Nibali",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-017",
+  "q": "Quel Slovène, maillot jaune jusqu'à la veille de l'arrivée, a perdu le Tour de France 2020 face à son compatriote Pogačar ?",
+  "r": "Primož Roglič",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-018",
+  "q": "Quelle franchise NBA de l'Illinois a remporté six titres avec Michael Jordan ?",
+  "r": "Les Chicago Bulls",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_1-019",
+  "q": "Quel joueur chinois a été champion olympique de badminton en simple en 2008 et en 2012 ?",
+  "r": "Lin Dan",
+  "d": 3,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_1-020",
+  "q": "Quel meneur des Philadelphia 76ers était surnommé « the Answer » ?",
+  "r": "Allen Iverson",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_1-021",
+  "q": "Quel attaquant camerounais de 38 ans a dansé près du poteau de corner après ses buts lors de la Coupe du monde 1990 ?",
+  "r": "Roger Milla",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-022",
+  "q": "Quel trophée est familièrement surnommé « la Coupe aux grandes oreilles » ?",
+  "r": "La coupe de la Ligue des champions",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-023",
+  "q": "Quel sélectionneur a conduit les Barjots au titre de champions du monde de handball en 1995 ?",
+  "r": "Daniel Costantini",
+  "d": 2,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_1-024",
+  "q": "Quelle épreuve de vitesse sur piste, d'origine japonaise, débute derrière un engin motorisé ?",
+  "r": "Le keirin",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-025",
+  "q": "Dans quelle ville du Massachusetts le basket-ball a-t-il été inventé en 1891 ?",
+  "r": "Springfield",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_1-026",
+  "q": "Sur quel sommet auvergnat Anquetil et Poulidor se sont-ils livré un célèbre duel au coude-à-coude en 1964 ?",
+  "r": "Le puy de Dôme",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-027",
+  "q": "Combien de virages en lacet compte la montée de l'Alpe d'Huez ?",
+  "r": "21",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-028",
+  "q": "Quel attaquant du Bayern Munich, champion du monde 1974, était surnommé « Der Bomber » ?",
+  "r": "Gerd Müller",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-029",
+  "q": "Quel équipement de protection est devenu obligatoire en course pour les cyclistes professionnels en 2003 ?",
+  "r": "Le casque",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-030",
+  "q": "Quelle classique belge du printemps est surnommée « De Ronde » ?",
+  "r": "Le Tour des Flandres",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-031",
+  "q": "Quel entraîneur a conduit les volleyeurs français au titre olympique de Tokyo, en 2021 ?",
+  "r": "Laurent Tillie",
+  "d": 3,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_1-032",
+  "q": "Quel col alpin du Queyras est célèbre pour le paysage lunaire de la Casse Déserte ?",
+  "r": "Le col d'Izoard",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-033",
+  "q": "Quelle Roumaine a remporté Roland-Garros en 2018 puis Wimbledon en 2019 ?",
+  "r": "Simona Halep",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-034",
+  "q": "Comment appelle-t-on la remise en jeu effectuée au pied depuis l'angle du terrain ?",
+  "r": "Le corner (coup de pied de coin)",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-035",
+  "q": "Quel poste occupe au handball le joueur placé au centre de la base arrière, qui organise le jeu ?",
+  "r": "Demi-centre",
+  "d": 2,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_1-036",
+  "q": "Quel attaquant suédois au jeu acrobatique a porté le maillot du PSG de 2012 à 2016 ?",
+  "r": "Zlatan Ibrahimović",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-037",
+  "q": "Quel club écossais forme avec le Celtic le fameux « Old Firm » de Glasgow ?",
+  "r": "Les Rangers",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-038",
+  "q": "Quel footballeur anglais, marié à une ex-Spice Girl, a terminé sa carrière au PSG en 2013 ?",
+  "r": "David Beckham",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-039",
+  "q": "Comment appelle-t-on la défense où chaque joueur est chargé de surveiller un adversaire précis ?",
+  "r": "La défense individuelle",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_1-040",
+  "q": "Comment appelle-t-on l'arbitre de tennis assis sur une haute chaise au bord du filet ?",
+  "r": "L'arbitre de chaise",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-041",
+  "q": "Quel nom portait le ballon officiel de la Coupe du monde 2010, critiqué pour ses trajectoires imprévisibles ?",
+  "r": "Jabulani",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-042",
+  "q": "Quel capitaine des Springboks a reçu la Coupe du monde des mains de Nelson Mandela en 1995 ?",
+  "r": "François Pienaar",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-043",
+  "q": "Combien de minutes dure l'exclusion temporaire d'un joueur sanctionné d'un carton jaune au rugby à XV ?",
+  "r": "10 minutes",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-044",
+  "q": "Quelle joueuse russe a remporté Wimbledon en 2004, à 17 ans ?",
+  "r": "Maria Sharapova",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-045",
+  "q": "En combien de points se joue le cinquième set décisif d'un match de volley-ball ?",
+  "r": "15 points",
+  "d": 2,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_1-046",
+  "q": "Quel nom a-t-on donné au jeu de l'Ajax et des Pays-Bas des années 1970, où chaque joueur pouvait occuper tous les postes ?",
+  "r": "Le football total",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-047",
+  "q": "Quel grimpeur espagnol, surnommé « l'Aigle de Tolède », a remporté le Tour de France 1959 ?",
+  "r": "Federico Bahamontes",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-048",
+  "q": "Quel mécanisme permet de changer de vitesse sur un vélo en faisant passer la chaîne d'un pignon à l'autre ?",
+  "r": "Le dérailleur",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-049",
+  "q": "Quelle sélection africaine est surnommée « les Black Stars » ?",
+  "r": "Le Ghana",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-050",
+  "q": "Comment appelle-t-on un joueur de water-polo ?",
+  "r": "Un poloïste",
+  "d": 1,
+  "t": "Water-polo"
+ },
+ {
+  "id": "spo_d_1-051",
+  "q": "Quel joueur a remporté les quatre tournois du Grand Chelem en 1938, réalisant le premier Grand Chelem calendaire ?",
+  "r": "Don Budge",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-052",
+  "q": "Comment appelle-t-on le geste consistant à lober un adversaire au-dessus de sa tête pour récupérer le ballon derrière lui ?",
+  "r": "Le coup du sombrero",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-053",
+  "q": "Au hockey sur glace, comment appelle-t-on le tir puissant où la crosse est armée haut avant de frapper le palet ?",
+  "r": "Le lancer frappé",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-054",
+  "q": "Quelle course cycliste créée en 1891 reliait la capitale à la pointe bretonne, aller et retour ?",
+  "r": "Paris-Brest-Paris",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-055",
+  "q": "Quel Croate a remporté Wimbledon en 2001 alors qu'il n'y participait que grâce à une invitation ?",
+  "r": "Goran Ivanišević",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-056",
+  "q": "Comment appelle-t-on la défaillance brutale d'un coureur qui n'a pas assez mangé ?",
+  "r": "La fringale",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-057",
+  "q": "Comment a-t-on surnommé la demi-finale France-RFA de la Coupe du monde 1982, perdue aux tirs au but ?",
+  "r": "La nuit de Séville",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-058",
+  "q": "Quel attaquant ivoirien de Chelsea a égalisé puis marqué le tir au but décisif de la finale de la Ligue des champions 2012 ?",
+  "r": "Didier Drogba",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-059",
+  "q": "Comment appelle-t-on la formation en diagonale que prennent les coureurs pour s'abriter d'un vent de côté ?",
+  "r": "Un éventail (une bordure)",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-060",
+  "q": "Quel club de rugby francilien joue à Paris La Défense Arena, à Nanterre ?",
+  "r": "Le Racing 92",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-061",
+  "q": "Quel entraîneur italien a gagné la Ligue des champions avec l'AC Milan en 2003 et 2007, puis avec le Real Madrid en 2014, 2022 et 2024 ?",
+  "r": "Carlo Ancelotti",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-062",
+  "q": "Quel sélectionneur a conduit l'équipe de France au titre de champion d'Europe en 1984 ?",
+  "r": "Michel Hidalgo",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-063",
+  "q": "Quel club allemand joue ses matchs à domicile à l'Allianz Arena ?",
+  "r": "Le Bayern Munich",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-064",
+  "q": "Comment appelle-t-on les joueurs de rugby numérotés de 1 à 8 ?",
+  "r": "Les avants",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-065",
+  "q": "Quel club d'Amsterdam porte le nom d'un héros grec de la guerre de Troie ?",
+  "r": "L'Ajax Amsterdam",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-066",
+  "q": "Quel stade stéphanois est surnommé « le Chaudron » ?",
+  "r": "Le stade Geoffroy-Guichard",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-067",
+  "q": "Quel attaquant de Benfica, né au Mozambique, était surnommé « la Panthère noire » ?",
+  "r": "Eusébio",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-068",
+  "q": "Quel coureur espagnol, surnommé « El Pistolero », a remporté le Tour de France en 2007 et en 2009 ?",
+  "r": "Alberto Contador",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-069",
+  "q": "Quelle sœur aînée de Serena Williams a remporté cinq fois le tournoi de Wimbledon ?",
+  "r": "Venus Williams",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-070",
+  "q": "Quel numéro, porté par Wayne Gretzky, a été retiré dans toute la ligue nord-américaine de hockey ?",
+  "r": "99",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-071",
+  "q": "Quelle sélection de rugby est surnommée « le XV du Trèfle » ?",
+  "r": "L'Irlande",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-072",
+  "q": "Quelle demi-centre française a été élue meilleure handballeuse du monde en 2009 ?",
+  "r": "Allison Pineau",
+  "d": 3,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_1-073",
+  "q": "Quel surnom porte l'équipe de France masculine de volley-ball ?",
+  "r": "La Team Yavbou",
+  "d": 2,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_1-074",
+  "q": "Comment s'appelle le championnat de France élite de hockey sur glace ?",
+  "r": "La Ligue Magnus",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-075",
+  "q": "Quel club de football a remporté la Coupe de France 2023 en battant Nantes 5-1 ?",
+  "r": "Le Toulouse FC",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-076",
+  "q": "Quel Russe a privé Novak Djokovic du Grand Chelem calendaire en le battant en finale de l'US Open 2021 ?",
+  "r": "Daniil Medvedev",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_1-077",
+  "q": "Quel attaquant des Canadiens de Montréal était surnommé « le Rocket » ?",
+  "r": "Maurice Richard",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-078",
+  "q": "Sous quel nom le volley-ball a-t-il été inventé en 1895 ?",
+  "r": "La mintonette",
+  "d": 3,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_1-079",
+  "q": "Quel pongiste français a été sacré champion du monde en simple en 1993 ?",
+  "r": "Jean-Philippe Gatien",
+  "d": 2,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_1-080",
+  "q": "Combien de minutes dure une période de hockey sur glace ?",
+  "r": "20 minutes",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-081",
+  "q": "Quel club béarnais de rugby joue au stade du Hameau ?",
+  "r": "La Section paloise",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_1-082",
+  "q": "Quelle discipline cycliste se pratique sur de petits vélos, sur des pistes à bosses et virages relevés ?",
+  "r": "Le BMX",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_1-083",
+  "q": "Quel entraîneur portugais a remporté la Ligue des champions 2004 avec le FC Porto ?",
+  "r": "José Mourinho",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_1-084",
+  "q": "Quel est le sigle de la grande ligue professionnelle nord-américaine de hockey sur glace ?",
+  "r": "La NHL (LNH)",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_1-085",
+  "q": "Comment surnomme-t-on le match France-Angleterre de rugby ?",
+  "r": "Le Crunch",
+  "d": 2,
+  "t": "Rugby"
+ }
+]

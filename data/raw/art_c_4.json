@@ -1,503 +1,587 @@
 [
  {
+  "id": "art_c_4-001",
   "q": "Quel ballet de Tchaïkovski met en scène la princesse Odette, changée en oiseau par un sorcier ?",
   "r": "Le Lac des cygnes",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-002",
   "q": "Quel ballet de Tchaïkovski se déroule une nuit de Noël et fait apparaître la fée Dragée ?",
   "r": "Casse-Noisette",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-003",
   "q": "Quel danseur soviétique, passé à l'Ouest en 1961 à l'aéroport du Bourget, a ensuite dirigé le ballet de l'Opéra de Paris ?",
   "r": "Rudolf Noureev",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-004",
   "q": "Quelle danse de couple est née à la fin du XIXe siècle dans les faubourgs de Buenos Aires ?",
   "r": "Le tango",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-005",
   "q": "Quel art andalou mêle chant, guitare, claquements de mains et frappes de talons ?",
   "r": "Le flamenco",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-006",
   "q": "Quelle danse brésilienne à deux temps est reine du carnaval de Rio ?",
   "r": "La samba",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-007",
   "q": "Comment appelle-t-on le tour complet qu'un danseur effectue sur une seule jambe ?",
   "r": "Une pirouette",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-008",
   "q": "Comment appelle-t-on la jupe courte et bouffante en tulle portée par les ballerines ?",
   "r": "Le tutu",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-009",
   "q": "Quel surnom donne-t-on aux jeunes élèves de l'école de danse de l'Opéra de Paris ?",
   "r": "Les petits rats",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-010",
   "q": "Quelle artiste de music-hall a dansé aux Folies Bergère vêtue d'une célèbre ceinture de bananes ?",
   "r": "Joséphine Baker",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-011",
   "q": "Quel danseur américain a formé un duo légendaire avec Ginger Rogers dans les comédies musicales des années 1930 ?",
   "r": "Fred Astaire",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-012",
   "q": "Quel cabaret du boulevard de Clichy, ouvert en 1889, est célèbre pour son French cancan ?",
   "r": "Le Moulin-Rouge",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-013",
   "q": "Quel chanteur américain a popularisé le « moonwalk » en 1983 lors d'une émission télévisée ?",
   "r": "Michael Jackson",
   "d": 1,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-014",
   "q": "Quel inventeur bourguignon a réalisé vers 1827 la plus ancienne photographie connue ?",
   "r": "Nicéphore Niépce",
   "d": 1,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-015",
   "q": "Quel photographe a immortalisé en 1950 un couple s'embrassant devant l'hôtel de ville de Paris ?",
   "r": "Robert Doisneau",
   "d": 1,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-016",
   "q": "Quel photographe français, cofondateur de l'agence Magnum, a théorisé « l'instant décisif » ?",
   "r": "Henri Cartier-Bresson",
   "d": 1,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-017",
   "q": "Quel photographe a publié en 1999 le livre à succès « La Terre vue du ciel » ?",
   "r": "Yann Arthus-Bertrand",
   "d": 1,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-018",
   "q": "Comment appelle-t-on l'image aux valeurs inversées obtenue sur la pellicule avant le tirage ?",
   "r": "Le négatif",
   "d": 1,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-019",
   "q": "Quel dessinateur belge a créé Tintin en 1929 ?",
   "r": "Hergé",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-020",
   "q": "Comment s'appelle le fox-terrier blanc qui accompagne Tintin ?",
   "r": "Milou",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-021",
   "q": "Quel scénariste a créé Astérix avec Albert Uderzo en 1959 ?",
   "r": "René Goscinny",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-022",
   "q": "Comment s'appelle le petit chien d'Obélix ?",
   "r": "Idéfix",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-023",
   "q": "Quel cow-boy solitaire de bande dessinée « tire plus vite que son ombre » ?",
   "r": "Lucky Luke",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-024",
   "q": "Quel dessinateur belge a créé les Schtroumpfs ?",
   "r": "Peyo",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-025",
   "q": "Quel employé gaffeur et paresseux de la rédaction du journal de Spirou a été créé par Franquin en 1957 ?",
   "r": "Gaston Lagaffe",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-026",
   "q": "Quel animal imaginaire jaune tacheté de noir, à la queue interminable, est né dans les aventures de Spirou ?",
   "r": "Le Marsupilami",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-027",
   "q": "Comment s'appelle le château du capitaine Haddock ?",
   "r": "Moulinsart",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-028",
   "q": "Quel savant dur d'oreille, inventeur du sous-marin requin, accompagne Tintin ?",
   "r": "Le professeur Tournesol",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-029",
   "q": "Quel druide prépare la potion magique dans le village d'Astérix ?",
   "r": "Panoramix",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-030",
   "q": "Comment s'appelle le barde du village d'Astérix, souvent ligoté pendant le banquet final ?",
   "r": "Assurancetourix",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-031",
   "q": "Quelle ville de Charente accueille chaque année depuis 1974 un grand festival international de la bande dessinée ?",
   "r": "Angoulême",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-032",
   "q": "Comment s'appelle le sorcier qui veut capturer les Schtroumpfs ?",
   "r": "Gargamel",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-033",
   "q": "Comment s'appelle le cheval de Lucky Luke ?",
   "r": "Jolly Jumper",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-034",
   "q": "Quel vizir de Goscinny et Tabary rêve de devenir calife à la place du calife ?",
   "r": "Iznogoud",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-035",
   "q": "Quels policiers moustachus, presque identiques, accompagnent maladroitement Tintin ?",
   "r": "Dupond et Dupont",
   "d": 1,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-036",
   "q": "Quel ballet d'Adolphe Adam, créé à Paris en 1841, raconte l'histoire d'une paysanne devenue une Wili ?",
   "r": "Giselle",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-037",
   "q": "Quel est le titre le plus élevé dans la hiérarchie des danseurs du Ballet de l'Opéra de Paris ?",
   "r": "Danseur étoile",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-038",
   "q": "Quelle compagnie, fondée par Serge de Diaghilev, a révolutionné la scène parisienne à partir de 1909 ?",
   "r": "Les Ballets russes",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-039",
   "q": "Quel danseur des Ballets russes était célèbre pour son saut final dans « Le Spectre de la rose » ?",
   "r": "Vaslav Nijinski",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-040",
   "q": "Quel chorégraphe marseillais a fondé à Bruxelles en 1960 le Ballet du XXe siècle ?",
   "r": "Maurice Béjart",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-041",
   "q": "Quelle chorégraphe allemande a dirigé le Tanztheater de Wuppertal ?",
   "r": "Pina Bausch",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-042",
   "q": "Quelle danseuse américaine, pionnière de la danse moderne, est morte à Nice en 1927, étranglée par son écharpe ?",
   "r": "Isadora Duncan",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-043",
   "q": "Quel roi de France a dansé dès l'âge de 14 ans dans le « Ballet royal de la Nuit », en y incarnant le Soleil levant ?",
   "r": "Louis XIV",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-044",
   "q": "Quelle danse à trois temps, élégante et à petits pas, était en vogue à la cour de Louis XIV ?",
   "r": "Le menuet",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-045",
   "q": "Quel compositeur russe a écrit la musique du ballet « Roméo et Juliette », créé en 1938 ?",
   "r": "Sergueï Prokofiev",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-046",
   "q": "Quel ballet de Stravinsky, créé en 1910, s'inspire d'un conte russe mettant en scène un oiseau magique ?",
   "r": "L'Oiseau de feu",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-047",
   "q": "Comment appelle-t-on la danse urbaine née à New York dans les années 1970, avec des figures au sol comme le headspin ?",
   "r": "Le breakdance",
   "d": 2,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-048",
   "q": "Quel photographe hongrois, cofondateur de Magnum, a photographié le débarquement à Omaha Beach en 1944 ?",
   "r": "Robert Capa",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-049",
   "q": "Sous quel pseudonyme Gaspard-Félix Tournachon a-t-il photographié Baudelaire et Sarah Bernhardt ?",
   "r": "Nadar",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-050",
   "q": "Comment s'appelle le procédé photographique sur plaque de cuivre argentée rendu public à Paris en 1839 ?",
   "r": "Le daguerréotype",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-051",
   "q": "Quel photographe américain est célèbre pour ses paysages en noir et blanc du parc de Yosemite ?",
   "r": "Ansel Adams",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-052",
   "q": "Quel artiste américain a photographié Kiki de Montparnasse en « Violon d'Ingres » en 1924 ?",
   "r": "Man Ray",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-053",
   "q": "Quelle marque a lancé en 1888 un appareil vendu avec le slogan « Vous appuyez sur le bouton, nous faisons le reste » ?",
   "r": "Kodak",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-054",
   "q": "Quelle entreprise, fondée par Edwin Land, a commercialisé l'appareil photo à développement instantané ?",
   "r": "Polaroid",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-055",
   "q": "Comment appelle-t-on le dispositif réglable de l'objectif qui dose la quantité de lumière entrant dans l'appareil ?",
   "r": "Le diaphragme",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-056",
   "q": "Quelle règle de composition consiste à diviser l'image en neuf parties égales par deux lignes horizontales et deux verticales ?",
   "r": "La règle des tiers",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-057",
   "q": "Quel photographe brésilien a consacré huit ans à son grand projet « Genesis » sur les régions préservées de la planète ?",
   "r": "Sebastião Salgado",
   "d": 2,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-058",
   "q": "Quel est le véritable nom du dessinateur Hergé ?",
   "r": "Georges Remi",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-059",
   "q": "Dans quel album de Tintin le capitaine Haddock apparaît-il pour la première fois ?",
   "r": "Le Crabe aux pinces d'or",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-060",
   "q": "Quel ami chinois de Tintin a disparu dans l'Himalaya après que son avion s'y est écrasé ?",
   "r": "Tchang",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-061",
   "q": "Comment s'appelle le chef du village d'Astérix, qui ne craint qu'une chose : que le ciel lui tombe sur la tête ?",
   "r": "Abraracourcix",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-062",
   "q": "Quel dessinateur belge a créé le cow-boy Lucky Luke en 1946 ?",
   "r": "Morris",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-063",
   "q": "Quel auteur belge a créé la série « Blake et Mortimer » ?",
   "r": "Edgar P. Jacobs",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-064",
   "q": "Quel album de Blake et Mortimer doit son titre au signe laissé par un mystérieux criminel qui terrorise Londres ?",
   "r": "La Marque jaune",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-065",
   "q": "Quel pilote automobile est le héros d'une série créée par Jean Graton en 1957 ?",
   "r": "Michel Vaillant",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-066",
   "q": "Quel dessinateur belge a créé la série « Boule et Bill » ?",
   "r": "Jean Roba",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-067",
   "q": "Sous quel pseudonyme Jean Giraud signait-il ses bandes dessinées de science-fiction ?",
   "r": "Mœbius",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-068",
   "q": "Quel hebdomadaire de bande dessinée, lancé par l'éditeur Dupuis en 1938, porte le nom d'un groom ?",
   "r": "Spirou",
   "d": 2,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-069",
   "q": "Quelle chorégraphe américaine a fondé sa technique de danse moderne sur le principe « contraction et relâchement » ?",
   "r": "Martha Graham",
   "d": 3,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-070",
   "q": "Quel chorégraphe américain a travaillé toute sa vie aux côtés du compositeur John Cage ?",
   "r": "Merce Cunningham",
   "d": 3,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-071",
   "q": "Quel chorégraphe né à Saint-Pétersbourg a cofondé le New York City Ballet en 1948 ?",
   "r": "George Balanchine",
   "d": 3,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-072",
   "q": "Quel ballet de Léo Delibes, créé en 1870, met en scène une poupée mécanique dont un jeune homme s'éprend ?",
   "r": "Coppélia",
   "d": 3,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-073",
   "q": "Quelle danseuse fut nommée étoile de l'Opéra de Paris par Rudolf Noureev en 1984, à seulement 19 ans ?",
   "r": "Sylvie Guillem",
   "d": 3,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-074",
   "q": "Quel ballet de Stravinsky, créé en 1911, a pour héros une marionnette de foire russe amoureuse d'une ballerine ?",
   "r": "Petrouchka",
   "d": 3,
   "t": "Danse"
  },
  {
+  "id": "art_c_4-075",
   "q": "Quel photographe d'origine hongroise, surnommé « l'œil de Paris », a publié « Paris de nuit » en 1932 ?",
   "r": "Brassaï",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-076",
   "q": "Quel photographe français a documenté les rues et les boutiques du vieux Paris au début du XXe siècle ?",
   "r": "Eugène Atget",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-077",
   "q": "Quelle photographe américaine a pris en 1936 le cliché « Migrant Mother » pendant la Grande Dépression ?",
   "r": "Dorothea Lange",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-078",
   "q": "Quel photographe d'origine anglaise a décomposé en 1878 le galop d'un cheval en une série d'images ?",
   "r": "Eadweard Muybridge",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-079",
   "q": "Quel photographe cubain a pris en 1960 le célèbre portrait de Che Guevara intitulé « Guerrillero Heroico » ?",
   "r": "Alberto Korda",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-080",
   "q": "Quel festival international de photojournalisme se tient chaque année à Perpignan ?",
   "r": "Visa pour l'image",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-081",
   "q": "Quelle nounou de Chicago, disparue en 2009, a été révélée comme une grande photographe de rue après sa mort ?",
   "r": "Vivian Maier",
   "d": 3,
   "t": "Photographie"
  },
  {
+  "id": "art_c_4-082",
   "q": "Quel est le dernier album de Tintin, resté inachevé à la mort d'Hergé en 1983 ?",
   "r": "Tintin et l'Alph-Art",
   "d": 3,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-083",
   "q": "Dans quelle série de Peyo les Schtroumpfs sont-ils apparus pour la première fois en 1958 ?",
   "r": "Johan et Pirlouit",
   "d": 3,
   "t": "Bande dessinée"
  },
  {
+  "id": "art_c_4-084",
   "q": "Quels deux pilotes de chasse sont les héros d'une série créée par Jean-Michel Charlier et Albert Uderzo en 1959 ?",
   "r": "Tanguy et Laverdure",
   "d": 3,

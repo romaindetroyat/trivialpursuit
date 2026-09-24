@@ -1,0 +1,597 @@
+[
+ {
+  "id": "div_e_4-001",
+  "q": "Quel instrument de musique donne son titre à l'épisode de Zelda sorti en 1998 sur Nintendo 64 ?",
+  "r": "Un ocarina",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-002",
+  "q": "Quel roi danois du Xe siècle a donné son nom à la technologie sans fil Bluetooth ?",
+  "r": "Harald à la Dent bleue",
+  "d": 2,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-003",
+  "q": "Quel illusionniste était célèbre pour s'évader de camisoles de force, de menottes et de cuves remplies d'eau ?",
+  "r": "Harry Houdini",
+  "d": 1,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-004",
+  "q": "Dans quelle ville se tient depuis 1983 le grand festival d'humour « Juste pour rire » ?",
+  "r": "Montréal",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_4-005",
+  "q": "Que signifie l'abréviation PNJ dans les jeux vidéo et les jeux de rôle ?",
+  "r": "Personnage non joueur",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-006",
+  "q": "Quel animateur a lancé « Secrets d'histoire » sur France 2 en 2007 ?",
+  "r": "Stéphane Bern",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_4-007",
+  "q": "Quelle expression anglaise est devenue virale en 2019 pour moquer les idées jugées dépassées des plus âgés ?",
+  "r": "OK boomer",
+  "d": 2,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-008",
+  "q": "Dans quelle ville se déroule la série originale « Les Experts », lancée en 2000 ?",
+  "r": "Las Vegas",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-009",
+  "q": "Quelle attraction des parcs Disney a inspiré une saga de films avec Johnny Depp à partir de 2003 ?",
+  "r": "Pirates des Caraïbes",
+  "d": 1,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_4-010",
+  "q": "Quelle petite fille suisse vit dans les Alpes avec son grand-père et le jeune chevrier Peter ?",
+  "r": "Heidi",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_4-011",
+  "q": "Quel acteur incarnait Victor Novak, l'instituteur remplaçant de la série « L'Instit » ?",
+  "r": "Gérard Klein",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "id": "div_e_4-012",
+  "q": "À quelle grande période de l'art italien ont vécu les maîtres dont les quatre Tortues Ninja portent les prénoms ?",
+  "r": "La Renaissance",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_4-013",
+  "q": "Quelle application rachetée par Twitter permettait de publier des vidéos en boucle de six secondes ?",
+  "r": "Vine",
+  "d": 3,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-014",
+  "q": "Comment s'appelle le jeune acolyte masqué de Batman ?",
+  "r": "Robin",
+  "d": 1,
+  "t": "Comics"
+ },
+ {
+  "id": "div_e_4-015",
+  "q": "Dans quel pays le jeu « Qui veut gagner des millions ? » a-t-il été créé en 1998 ?",
+  "r": "Le Royaume-Uni",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_4-016",
+  "q": "Comment s'appelle la fée qui accompagne Link dans « Ocarina of Time » en répétant « Hé ! Écoute ! » ?",
+  "r": "Navi",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-017",
+  "q": "Quelle animatrice américaine a présenté un talk-show à son nom de 1986 à 2011 ?",
+  "r": "Oprah Winfrey",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_4-018",
+  "q": "Quel acteur a été révélé par son rôle de pédiatre Doug Ross dans « Urgences » ?",
+  "r": "George Clooney",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-019",
+  "q": "Quel astronaute bionique est le héros de « L'Homme qui valait trois milliards » ?",
+  "r": "Steve Austin",
+  "d": 3,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-020",
+  "q": "Dans quelle ville se trouve la Maison de la magie Robert-Houdin, face au château royal ?",
+  "r": "Blois",
+  "d": 3,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-021",
+  "q": "Pourquoi Obélix n'a-t-il pas le droit de boire la potion magique ?",
+  "r": "Il est tombé dedans petit",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-022",
+  "q": "Quel ourson de dessin animé franco-polonais des années 1970 rêvait de chanter ?",
+  "r": "Colargol",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_4-023",
+  "q": "Quel gamin fou de jeux vidéo, créé par Midam, affronte des monstres appelés « blorks » ?",
+  "r": "Kid Paddle",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-024",
+  "q": "Quelle psychiatre devenue criminelle est la compagne du Joker ?",
+  "r": "Harley Quinn",
+  "d": 1,
+  "t": "Comics"
+ },
+ {
+  "id": "div_e_4-025",
+  "q": "Dans quel jeu de 1991 faut-il guider vers la sortie des petites créatures aux cheveux verts qui marchent droit devant elles ?",
+  "r": "Lemmings",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-026",
+  "q": "Quel animateur toujours vêtu de noir présentait « Tout le monde en parle » sur France 2 ?",
+  "r": "Thierry Ardisson",
+  "d": 1,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_4-027",
+  "q": "Quelle émission de FR3 présentée par Fabrice a révélé de nombreux humoristes entre 1987 et 1994 ?",
+  "r": "La Classe",
+  "d": 3,
+  "t": "Émissions"
+ },
+ {
+  "id": "div_e_4-028",
+  "q": "Quelle lycéenne aux longues couettes blondes combat les forces du mal « au nom de la Lune » ?",
+  "r": "Sailor Moon",
+  "d": 1,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_4-029",
+  "q": "Au large de quel département se dresse Fort Boyard ?",
+  "r": "La Charente-Maritime",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_4-030",
+  "q": "Quel acteur britannique a incarné Hercule Poirot à la télévision de 1989 à 2013 ?",
+  "r": "David Suchet",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-031",
+  "q": "Quel héros de feuilleton des années 1960, sorte de Robin des Bois français, combattait les Anglais pendant la guerre de Cent Ans ?",
+  "r": "Thierry la Fronde",
+  "d": 2,
+  "t": "Séries françaises"
+ },
+ {
+  "id": "div_e_4-032",
+  "q": "Quelle héroïne japonaise, ingénieure en électronique, a été créée par Roger Leloup ?",
+  "r": "Yoko Tsuno",
+  "d": 3,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-033",
+  "q": "Quel mot anglais désignant un autoportrait photographique a été élu « mot de l'année » par les dictionnaires Oxford en 2013 ?",
+  "r": "Selfie",
+  "d": 1,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-034",
+  "q": "Que signifiait à l'origine le sigle de la radio NRJ, fondée en 1981 ?",
+  "r": "Nouvelle Radio Jeune",
+  "d": 2,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_4-035",
+  "q": "Sous quel titre français la série « Charlie's Angels » a-t-elle été diffusée ?",
+  "r": "Drôles de dames",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-036",
+  "q": "Quelle artiste, issue d'une dynastie de clowns, a fondé une école de cirque à Paris avec Pierre Étaix ?",
+  "r": "Annie Fratellini",
+  "d": 3,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-037",
+  "q": "Dans quel objet rouge et blanc capture-t-on les Pokémon ?",
+  "r": "Une Poké Ball",
+  "d": 1,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-038",
+  "q": "Quel prénom porte l'oiseau bleu de l'ancien logo de Twitter, en hommage à un basketteur de Boston ?",
+  "r": "Larry",
+  "d": 3,
+  "t": "Mascottes"
+ },
+ {
+  "id": "div_e_4-039",
+  "q": "Quel chat pixelisé au corps de biscuit laisse derrière lui une traînée d'arc-en-ciel dans un mème de 2011 ?",
+  "r": "Nyan Cat",
+  "d": 2,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-040",
+  "q": "Comment appelle-t-on l'acrobate qui marche en équilibre sur une corde ou un fil tendu ?",
+  "r": "Un funambule",
+  "d": 1,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-041",
+  "q": "Quel coq bleu était la mascotte de la Coupe du monde de football 1998 en France ?",
+  "r": "Footix",
+  "d": 1,
+  "t": "Mascottes"
+ },
+ {
+  "id": "div_e_4-042",
+  "q": "Quel feuilleton britannique, diffusé depuis 1960, se déroule dans la ville fictive de Weatherfield ?",
+  "r": "Coronation Street",
+  "d": 3,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-043",
+  "q": "Quel mangaka a créé « Dragon Ball » et « Dr Slump » ?",
+  "r": "Akira Toriyama",
+  "d": 1,
+  "t": "Mangas"
+ },
+ {
+  "id": "div_e_4-044",
+  "q": "Quelle chienne colley est l'héroïne de romans, de films et d'une longue série télévisée ?",
+  "r": "Lassie",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-045",
+  "q": "Quel écuyer britannique est considéré comme l'inventeur du cirque moderne, à Londres en 1768 ?",
+  "r": "Philip Astley",
+  "d": 3,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-046",
+  "q": "Quel baron de la drogue colombien est au centre des premières saisons de la série « Narcos » ?",
+  "r": "Pablo Escobar",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-047",
+  "q": "Dans quelle capitale se trouvent les jardins de Tivoli, ouverts en 1843 ?",
+  "r": "Copenhague",
+  "d": 2,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_4-048",
+  "q": "Quel site français a été créé pour retrouver ses anciens camarades de classe ?",
+  "r": "Copains d'avant",
+  "d": 2,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-049",
+  "q": "Quelle journaliste du Daily Planet est la bien-aimée de Superman ?",
+  "r": "Lois Lane",
+  "d": 1,
+  "t": "Comics"
+ },
+ {
+  "id": "div_e_4-050",
+  "q": "Dans quel département se trouve le parc du Puy du Fou ?",
+  "r": "La Vendée",
+  "d": 1,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_4-051",
+  "q": "Sous quel pseudonyme Walter White se fait-il connaître dans le milieu de la drogue dans « Breaking Bad » ?",
+  "r": "Heisenberg",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-052",
+  "q": "Quel duo comique a inventé le « Kamoulox », un jeu télévisé parodique aux règles totalement absurdes ?",
+  "r": "Kad et Olivier",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_4-053",
+  "q": "Quel cow-boy solitaire « tire plus vite que son ombre » ?",
+  "r": "Lucky Luke",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-054",
+  "q": "Le nom de quel quotidien le site d'information parodique « Le Gorafi » détourne-t-il ?",
+  "r": "Le Figaro",
+  "d": 2,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_4-055",
+  "q": "Quelle série de jeux d'Ubisoft, lancée en 2009, invite à reproduire des chorégraphies affichées à l'écran ?",
+  "r": "Just Dance",
+  "d": 1,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-056",
+  "q": "Quelle souris mexicaine est surnommée « la souris la plus rapide du Mexique » ?",
+  "r": "Speedy Gonzales",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_4-057",
+  "q": "Quel écolier obèse et odieux de « South Park » se prend pour le chef de la bande ?",
+  "r": "Eric Cartman",
+  "d": 2,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_4-058",
+  "q": "Quel roman de H. G. Wells, adapté à la radio en 1938, aurait semé la panique chez des auditeurs américains ?",
+  "r": "La Guerre des mondes",
+  "d": 2,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_4-059",
+  "q": "Que signifie le sigle NFT, désignant des jetons numériques très à la mode en 2021 ?",
+  "r": "Jeton non fongible",
+  "d": 3,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-060",
+  "q": "Quel colonel à la barbe noire est l'ennemi juré de Blake et Mortimer ?",
+  "r": "Olrik",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-061",
+  "q": "Quel illusionniste israélien prétendait tordre des cuillères par la seule force de sa pensée ?",
+  "r": "Uri Geller",
+  "d": 2,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-062",
+  "q": "Quel architecte, héros de la série « Les Envahisseurs », tente de prouver que des extraterrestres ont pris forme humaine ?",
+  "r": "David Vincent",
+  "d": 2,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-063",
+  "q": "Quelle célèbre radio pirate émettait à partir de 1964 depuis un bateau ancré au large des côtes anglaises ?",
+  "r": "Radio Caroline",
+  "d": 2,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_4-064",
+  "q": "Quel personnage chauve et muet frappe le gong dans « Fort Boyard » ?",
+  "r": "La Boule",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_4-065",
+  "q": "Quelle famille se déchire pour le contrôle d'un empire médiatique dans la série « Succession » ?",
+  "r": "Les Roy",
+  "d": 3,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-066",
+  "q": "Quel éléphant géant, vedette du cirque Barnum, a donné son nom à un mot anglais synonyme d'énorme ?",
+  "r": "Jumbo",
+  "d": 2,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-067",
+  "q": "Selon les Gaulois d'Astérix, quelle est la seule chose qu'ils redoutent ?",
+  "r": "Que le ciel leur tombe sur la tête",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-068",
+  "q": "Quelle animatrice de RTL recueillait dans les années 1970 les confidences intimes des auditrices ?",
+  "r": "Ménie Grégoire",
+  "d": 3,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_4-069",
+  "q": "Comment appelle-t-on un message ou un bonus caché volontairement dans un jeu vidéo par ses créateurs ?",
+  "r": "Un easter egg",
+  "d": 2,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-070",
+  "q": "Quel jeu de France 2 animé par Nagui oppose des challengers au champion assis dans son fauteuil ?",
+  "r": "Tout le monde veut prendre sa place",
+  "d": 2,
+  "t": "Jeux télé"
+ },
+ {
+  "id": "div_e_4-071",
+  "q": "Dans quelle province canadienne le Cirque du Soleil a-t-il été fondé en 1984 ?",
+  "r": "Le Québec",
+  "d": 1,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-072",
+  "q": "Avec quel humoriste Francis Blanche jouait-il le sketch du « Sâr Rabindranath Duval » ?",
+  "r": "Pierre Dac",
+  "d": 3,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_4-073",
+  "q": "Quelle dessinatrice a créé « Les Frustrés » et l'adolescente « Agrippine » ?",
+  "r": "Claire Bretécher",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "div_e_4-074",
+  "q": "Quelle sitcom d'AB Productions suivait une bande d'étudiants dont Nicolas, Johanna et Cri-Cri ?",
+  "r": "Hélène et les Garçons",
+  "d": 1,
+  "t": "Séries françaises"
+ },
+ {
+  "id": "div_e_4-075",
+  "q": "Depuis quelle radio la France libre diffusait-elle « Les Français parlent aux Français » pendant la Seconde Guerre mondiale ?",
+  "r": "Radio Londres (BBC)",
+  "d": 1,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_4-076",
+  "q": "Quel canari jaune échappe sans cesse aux griffes du chat Grosminet ?",
+  "r": "Titi",
+  "d": 1,
+  "t": "Dessins animés"
+ },
+ {
+  "id": "div_e_4-077",
+  "q": "Quel jeu d'action français de 1991, conçu par Éric Chahi, est une référence pour ses séquences cinématiques ?",
+  "r": "Another World",
+  "d": 3,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-078",
+  "q": "Comment appelle-t-on le clown au nez rouge et aux vêtements trop grands, souffre-douleur du clown blanc ?",
+  "r": "L'auguste",
+  "d": 2,
+  "t": "Cirque et magie"
+ },
+ {
+  "id": "div_e_4-079",
+  "q": "Quel surnom les internautes ont-ils donné à Grogu, le petit personnage vert de « The Mandalorian » ?",
+  "r": "Bébé Yoda",
+  "d": 1,
+  "t": "Séries étrangères"
+ },
+ {
+  "id": "div_e_4-080",
+  "q": "Sous quel sigle la station Radio Luxembourg est-elle connue depuis 1966 ?",
+  "r": "RTL",
+  "d": 2,
+  "t": "Radio"
+ },
+ {
+  "id": "div_e_4-081",
+  "q": "Quel duo de secrétaires commères, joué par Alex Lutz et Bruno Sanches, faisait l'objet d'un programme court de Canal+ ?",
+  "r": "Catherine et Liliane",
+  "d": 3,
+  "t": "Humoristes"
+ },
+ {
+  "id": "div_e_4-082",
+  "q": "Quelle application française, lancée en 2020, invite chaque jour ses utilisateurs à se photographier tous au même moment ?",
+  "r": "BeReal",
+  "d": 2,
+  "t": "Internet"
+ },
+ {
+  "id": "div_e_4-083",
+  "q": "Quel jeu musical de 2005 fait jouer des tubes rock avec une manette imitant un instrument à cordes ?",
+  "r": "Guitar Hero",
+  "d": 1,
+  "t": "Jeux vidéo"
+ },
+ {
+  "id": "div_e_4-084",
+  "q": "Comment les Russes appellent-ils les montagnes russes ?",
+  "r": "Les montagnes américaines",
+  "d": 3,
+  "t": "Parcs d'attractions"
+ },
+ {
+  "id": "div_e_4-085",
+  "q": "Quel mangaka a signé « Quartier lointain » et « Le Sommet des dieux » ?",
+  "r": "Jirō Taniguchi",
+  "d": 3,
+  "t": "Mangas"
+ }
+]

@@ -1,0 +1,597 @@
+[
+ {
+  "id": "art_f_2-001",
+  "q": "Dans quel tableau de Millet un couple de paysans interrompt-il son travail pour prier au son des cloches ?",
+  "r": "L'Angélus",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-002",
+  "q": "Quel peintre français s'est installé à Tahiti puis aux îles Marquises, où il est mort en 1903 ?",
+  "r": "Paul Gauguin",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-003",
+  "q": "Quelle toile de Picasso (1907), peuplée de cinq nus féminins, est considérée comme l'acte fondateur du cubisme ?",
+  "r": "Les Demoiselles d'Avignon",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-004",
+  "q": "Dans quel village de l'Eure Claude Monet a-t-il aménagé son célèbre jardin d'eau ?",
+  "r": "Giverny",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-005",
+  "q": "Quel peintre du XVIIIe siècle, maître de la nature morte, a peint La Raie et Le Bénédicité ?",
+  "r": "Jean Siméon Chardin",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-006",
+  "q": "Quel peintre japonais de l'École de Paris, à la frange et aux lunettes rondes, est célèbre pour ses chats et ses nus au « blanc de lait » ?",
+  "r": "Foujita",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-007",
+  "q": "Quel artiste d'origine hongroise, installé en France, est considéré comme le père de l'art optique (op art) ?",
+  "r": "Victor Vasarely",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-008",
+  "q": "Quel peintre italien du XVIe siècle a composé des portraits entièrement faits de fruits, de légumes ou de fleurs ?",
+  "r": "Giuseppe Arcimboldo",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-009",
+  "q": "Quel peintre vénitien, surnommé « le petit teinturier » en raison du métier de son père, a peint Le Paradis du palais des Doges ?",
+  "r": "Le Tintoret",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-010",
+  "q": "Quel peintre belge, fils d'une marchande de souvenirs d'Ostende, a peint L'Entrée du Christ à Bruxelles, peuplée de masques ?",
+  "r": "James Ensor",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-011",
+  "q": "Dans quelle chapelle du Vatican, dont Michel-Ange a peint le plafond, se réunissent les conclaves ?",
+  "r": "La chapelle Sixtine",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "id": "art_f_2-012",
+  "q": "Comment appelle-t-on une image déformée qui ne se révèle que sous un angle précis, comme le crâne des Ambassadeurs d'Holbein ?",
+  "r": "Une anamorphose",
+  "d": 2,
+  "t": "Techniques artistiques"
+ },
+ {
+  "id": "art_f_2-013",
+  "q": "Comment s'appelle le bâtonnet de charbon de bois utilisé pour dessiner des esquisses ?",
+  "r": "Le fusain",
+  "d": 1,
+  "t": "Techniques artistiques"
+ },
+ {
+  "id": "art_f_2-014",
+  "q": "Quel procédé d'impression, cher à Warhol, fait passer l'encre à travers un écran de soie ou de tissu ?",
+  "r": "La sérigraphie",
+  "d": 2,
+  "t": "Techniques artistiques"
+ },
+ {
+  "id": "art_f_2-015",
+  "q": "Quel groupe d'artistes fondé en 1948 tire son nom des initiales de trois capitales européennes ?",
+  "r": "CoBrA",
+  "d": 3,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "id": "art_f_2-016",
+  "q": "De quelle ville de Toscane provient le marbre blanc utilisé par Michel-Ange ?",
+  "r": "Carrare",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "id": "art_f_2-017",
+  "q": "Quel prophète Michel-Ange a-t-il sculpté avec deux cornes sur la tête pour le tombeau du pape Jules II ?",
+  "r": "Moïse",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "id": "art_f_2-018",
+  "q": "Quel sculpteur, ancien praticien de Rodin, est l'auteur d'Héraklès archer et a son musée à Montparnasse ?",
+  "r": "Antoine Bourdelle",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "id": "art_f_2-019",
+  "q": "Quelle statue de Bartholdi, taillée dans le grès rouge, commémore le siège d'une ville de l'Est en 1870-1871 ?",
+  "r": "Le Lion de Belfort",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "id": "art_f_2-020",
+  "q": "Comment appelle-t-on une sculpture qui ne se détache que faiblement du fond sur lequel elle est taillée ?",
+  "r": "Un bas-relief",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "id": "art_f_2-021",
+  "q": "Quel architecte allemand a fondé l'école du Bauhaus à Weimar en 1919 ?",
+  "r": "Walter Gropius",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-022",
+  "q": "Quel architecte français a conçu le MuCEM de Marseille et sa résille de béton ?",
+  "r": "Rudy Ricciotti",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-023",
+  "q": "Quel temple romain presque intact, au cœur de Nîmes, doit son nom à sa forme rectangulaire ?",
+  "r": "La Maison carrée",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-024",
+  "q": "En quelle année un incendie a-t-il détruit la flèche de Notre-Dame de Paris ?",
+  "r": "2019",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-025",
+  "q": "Quelle place de Nancy, fermée par des grilles dorées de Jean Lamour, porte le nom d'un duc de Lorraine ?",
+  "r": "La place Stanislas",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-026",
+  "q": "Quel architecte a reconstruit la cathédrale Saint-Paul de Londres après le grand incendie de 1666 ?",
+  "r": "Christopher Wren",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-027",
+  "q": "Quelle cathédrale moscovite aux bulbes multicolores se dresse sur la place Rouge ?",
+  "r": "Saint-Basile-le-Bienheureux",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-028",
+  "q": "Comment appelle-t-on la grande fenêtre circulaire à vitraux des cathédrales gothiques ?",
+  "r": "La rosace (ou rose)",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-029",
+  "q": "Comment appelle-t-on la niche d'une mosquée qui indique la direction de La Mecque ?",
+  "r": "Le mihrab",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-030",
+  "q": "Quel pont basculant de Londres, aux deux tours néogothiques, fut inauguré en 1894 ?",
+  "r": "Tower Bridge",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-031",
+  "q": "Dans quel manoir d'Amboise Léonard de Vinci a-t-il passé les dernières années de sa vie ?",
+  "r": "Le Clos Lucé",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-032",
+  "q": "Quelle cité médiévale de l'Aude, restaurée par Viollet-le-Duc, est protégée par une double enceinte ?",
+  "r": "Carcassonne",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "id": "art_f_2-033",
+  "q": "Dans quel musée parisien peut-on voir la tenture de La Dame à la licorne ?",
+  "r": "Le musée de Cluny",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "id": "art_f_2-034",
+  "q": "Quel musée de cire parisien a été fondé en 1882 par un journaliste et un caricaturiste ?",
+  "r": "Le musée Grévin",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "id": "art_f_2-035",
+  "q": "Dans quelle ville catalane, natale du peintre, se trouve le Théâtre-Musée Dalí ?",
+  "r": "Figueras (Figueres)",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "id": "art_f_2-036",
+  "q": "Dans quelle ville belge a ouvert en 2009 le musée Hergé ?",
+  "r": "Louvain-la-Neuve",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "id": "art_f_2-037",
+  "q": "Quel oiseleur vêtu de plumes est un personnage comique de La Flûte enchantée de Mozart ?",
+  "r": "Papageno",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-038",
+  "q": "Quel est le seul opéra composé par Beethoven ?",
+  "r": "Fidelio",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-039",
+  "q": "Quel violoniste virtuose génois, qu'on disait avoir vendu son âme au diable, a composé 24 Caprices ?",
+  "r": "Niccolò Paganini",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-040",
+  "q": "Quel air de Carmen commence par « L'amour est un oiseau rebelle » ?",
+  "r": "La Habanera",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-041",
+  "q": "Quelle jeune brodeuse phtisique est l'héroïne de La Bohème de Puccini ?",
+  "r": "Mimi",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-042",
+  "q": "Quel opéra de Bellini contient l'air « Casta diva », chanté par une prêtresse gauloise ?",
+  "r": "Norma",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-043",
+  "q": "Quelle ouverture de Tchaïkovski, qui célèbre la retraite de Napoléon, fait parfois tonner de vrais canons ?",
+  "r": "L'Ouverture 1812",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-044",
+  "q": "Quelle œuvre orchestrale d'Arthur Honegger évoque une locomotive à vapeur ?",
+  "r": "Pacific 231",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-045",
+  "q": "Quel ténor espagnol formait les « Trois Ténors » avec Luciano Pavarotti et José Carreras ?",
+  "r": "Plácido Domingo",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-046",
+  "q": "Quelle indication de tempo, qui signifie « gai » en italien, désigne un mouvement rapide ?",
+  "r": "Allegro",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-047",
+  "q": "Quel signe musical prolonge la durée d'une note ou d'un silence à la discrétion de l'interprète ?",
+  "r": "Le point d'orgue",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "id": "art_f_2-048",
+  "q": "Quel facteur italien a inventé le piano vers 1700, à Florence ?",
+  "r": "Bartolomeo Cristofori",
+  "d": 3,
+  "t": "Instruments de musique"
+ },
+ {
+  "id": "art_f_2-049",
+  "q": "Quel instrument à clavier et à lames métalliques joue la Danse de la fée Dragée de Casse-Noisette ?",
+  "r": "Le célesta",
+  "d": 2,
+  "t": "Instruments de musique"
+ },
+ {
+  "id": "art_f_2-050",
+  "q": "Quel instrument à cordes frottées se joue assis, calé entre les genoux et posé au sol sur une pique ?",
+  "r": "Le violoncelle",
+  "d": 1,
+  "t": "Instruments de musique"
+ },
+ {
+  "id": "art_f_2-051",
+  "q": "Quel instrument à soufflet, cousin de l'accordéon, est l'âme du tango argentin ?",
+  "r": "Le bandonéon",
+  "d": 2,
+  "t": "Instruments de musique"
+ },
+ {
+  "id": "art_f_2-052",
+  "q": "Quel instrument à vent des Aborigènes d'Australie est un tronc d'eucalyptus creusé par les termites ?",
+  "r": "Le didgeridoo",
+  "d": 1,
+  "t": "Instruments de musique"
+ },
+ {
+  "id": "art_f_2-053",
+  "q": "Comment s'appelle le cygne noir qui séduit le prince dans Le Lac des cygnes ?",
+  "r": "Odile",
+  "d": 2,
+  "t": "Danse"
+ },
+ {
+  "id": "art_f_2-054",
+  "q": "Combien de fouettés enchaîne le cygne noir dans le 3e acte du Lac des cygnes ?",
+  "r": "32",
+  "d": 3,
+  "t": "Danse"
+ },
+ {
+  "id": "art_f_2-055",
+  "q": "La mazurka est une danse traditionnelle de quel pays ?",
+  "r": "La Pologne",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "id": "art_f_2-056",
+  "q": "Quel pas de danse glissé à reculons Michael Jackson a-t-il popularisé en 1983 ?",
+  "r": "Le moonwalk",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "id": "art_f_2-057",
+  "q": "Comment appelle-t-on en danse classique le saut où les jambes se croisent rapidement plusieurs fois en l'air ?",
+  "r": "L'entrechat",
+  "d": 2,
+  "t": "Danse"
+ },
+ {
+  "id": "art_f_2-058",
+  "q": "Quel ballet de Prokofiev s'inspire d'une tragédie de Shakespeare sur deux amants de Vérone ?",
+  "r": "Roméo et Juliette",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "id": "art_f_2-059",
+  "q": "Quel photographe français a saisi enfant les joies de sa famille à la Belle Époque, comme sa cousine Bichonnade en plein saut ?",
+  "r": "Jacques Henri Lartigue",
+  "d": 3,
+  "t": "Photographie"
+ },
+ {
+  "id": "art_f_2-060",
+  "q": "Quel photographe américain a réalisé le portrait de « l'Afghane aux yeux verts », en une du National Geographic en 1985 ?",
+  "r": "Steve McCurry",
+  "d": 2,
+  "t": "Photographie"
+ },
+ {
+  "id": "art_f_2-061",
+  "q": "Comment Man Ray appelait-il ses images obtenues sans appareil, en posant des objets sur du papier photosensible ?",
+  "r": "Des rayogrammes",
+  "d": 3,
+  "t": "Photographie"
+ },
+ {
+  "id": "art_f_2-062",
+  "q": "Quel couple de designers américains a créé en 1956 le célèbre fauteuil Lounge Chair et son ottomane ?",
+  "r": "Charles et Ray Eames",
+  "d": 2,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-063",
+  "q": "Quelle ville de Meurthe-et-Moselle est célèbre pour sa cristallerie fondée en 1764 sous Louis XV ?",
+  "r": "Baccarat",
+  "d": 2,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-064",
+  "q": "Quelle ville du Limousin est la capitale française de la porcelaine ?",
+  "r": "Limoges",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-065",
+  "q": "Quelle broderie de près de 70 mètres raconte la conquête de l'Angleterre par Guillaume en 1066 ?",
+  "r": "La tapisserie de Bayeux",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-066",
+  "q": "Quel ébéniste de Louis XIV a donné son nom à une marqueterie d'écaille et de laiton ?",
+  "r": "André-Charles Boulle",
+  "d": 3,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-067",
+  "q": "Quel scooter italien, dessiné en 1946, doit son nom au mot italien pour « guêpe » ?",
+  "r": "La Vespa",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-068",
+  "q": "Quel style de mobilier, sous Napoléon Ier, est orné d'aigles, d'abeilles et de motifs égyptiens ?",
+  "r": "Le style Empire",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "id": "art_f_2-069",
+  "q": "Dans quelle ville marocaine se trouvent le jardin Majorelle et un musée Yves Saint Laurent ?",
+  "r": "Marrakech",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-070",
+  "q": "Quel couturier a habillé Audrey Hepburn dans Diamants sur canapé ?",
+  "r": "Hubert de Givenchy",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-071",
+  "q": "Quelle couturière française a imposé la coupe en biais dans les années 1920 et 1930 ?",
+  "r": "Madeleine Vionnet",
+  "d": 3,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-072",
+  "q": "Quel couturier français est associé à la minijupe, aux bottes blanches et au style « Space Age » des années 1960 ?",
+  "r": "André Courrèges",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-073",
+  "q": "Quel couturier français a fait de la marinière son emblème et créé le bustier conique de Madonna en 1990 ?",
+  "r": "Jean Paul Gaultier",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-074",
+  "q": "Comment appelle-t-on les jeunes femmes de 25 ans, non mariées, qui portent un chapeau jaune et vert le 25 novembre ?",
+  "r": "Les catherinettes",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-075",
+  "q": "Comment appelle-t-on les ouvrières des ateliers de couture qui réalisent les vêtements à la main ?",
+  "r": "Les petites mains",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "id": "art_f_2-076",
+  "q": "Quel assureur envahissant ne cesse d'importuner le capitaine Haddock ?",
+  "r": "Séraphin Lampion",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-077",
+  "q": "Quel pirate a affronté le chevalier François de Hadoque, ancêtre du capitaine Haddock ?",
+  "r": "Rackham le Rouge",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-078",
+  "q": "Quel est le métier d'Obélix dans le village gaulois ?",
+  "r": "Livreur de menhirs",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-079",
+  "q": "Quel chien stupide accompagne souvent les Dalton ?",
+  "r": "Rantanplan",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-080",
+  "q": "Comment s'appelle l'écureuil de Spirou ?",
+  "r": "Spip",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-081",
+  "q": "Quel homme d'affaires ne parvient jamais à signer ses contrats à cause de Gaston ?",
+  "r": "Monsieur De Mesmaeker",
+  "d": 3,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-082",
+  "q": "Comment s'appelle le chat de Gargamel ?",
+  "r": "Azraël",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-083",
+  "q": "Quel auteur suisse a créé Titeuf, le garnement à la mèche blonde ?",
+  "r": "Zep",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-084",
+  "q": "Quelle héroïne de Jacques Tardi, romancière intrépide, affronte monstres et savants fous dans le Paris d'avant 1914 ?",
+  "r": "Adèle Blanc-Sec",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "id": "art_f_2-085",
+  "q": "Quel rang d'art attribue-t-on couramment à la bande dessinée ?",
+  "r": "Le neuvième art",
+  "d": 1,
+  "t": "BD franco-belge"
+ }
+]

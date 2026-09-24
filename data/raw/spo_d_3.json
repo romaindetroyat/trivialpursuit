@@ -1,0 +1,597 @@
+[
+ {
+  "id": "spo_d_3-001",
+  "q": "Quel Français, qui frappait à deux mains en coup droit comme en revers, était surnommé « le Magicien » ?",
+  "r": "Fabrice Santoro",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-002",
+  "q": "Quelle chanson reprise par tout le stade d'Anfield est devenue l'hymne des supporters de Liverpool ?",
+  "r": "« You'll Never Walk Alone »",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-003",
+  "q": "Quelle marque allemande a équipé l'équipe de France de football de 1972 à 2010 ?",
+  "r": "Adidas",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-004",
+  "q": "Quel sport proche du hockey se pratique sur des patins à roulettes avec une balle ?",
+  "r": "Le rink hockey",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_3-005",
+  "q": "À quelle distance minimale du ballon le mur défensif doit-il se placer lors d'un coup franc ?",
+  "r": "9,15 m",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-006",
+  "q": "Contre quelle nation la France a-t-elle remporté la finale du championnat du monde de handball 2001, disputée à Bercy ?",
+  "r": "La Suède",
+  "d": 3,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_3-007",
+  "q": "Le badminton tient son nom de Badminton House, résidence de quel duc anglais ?",
+  "r": "Le duc de Beaufort",
+  "d": 3,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_3-008",
+  "q": "Comment appelle-t-on la cérémonie annuelle où les franchises NBA choisissent les jeunes joueurs ?",
+  "r": "La draft",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_3-009",
+  "q": "Quel stade de Manchester United est surnommé « le Théâtre des rêves » ?",
+  "r": "Old Trafford",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-010",
+  "q": "Comment appelle-t-on le phénomène qui permet à un coureur de s'économiser en roulant dans le sillage d'un autre ?",
+  "r": "L'aspiration",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-011",
+  "q": "Combien de buts Michel Platini a-t-il marqués lors de l'Euro 1984 ?",
+  "r": "9 buts",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-012",
+  "q": "Quel troisième ligne, capitaine des All Blacks, a soulevé la Coupe du monde en 2011 et en 2015 ?",
+  "r": "Richie McCaw",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-013",
+  "q": "Quels deux pays ont organisé conjointement la Coupe du monde de football 2002 ?",
+  "r": "La Corée du Sud et le Japon",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-014",
+  "q": "Quelle nation a rejoint en 2000 le Tournoi, qui est alors passé de Cinq à Six Nations ?",
+  "r": "L'Italie",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-015",
+  "q": "En combien de sets gagnants se dispute un match de badminton ?",
+  "r": "2 sets gagnants",
+  "d": 2,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_3-016",
+  "q": "De 2006 à 2026, en combien de points se jouait un set de badminton ?",
+  "r": "21 points",
+  "d": 2,
+  "t": "Badminton"
+ },
+ {
+  "id": "spo_d_3-017",
+  "q": "Quelles sont les dimensions d'un terrain de volley-ball en salle ?",
+  "r": "18 m sur 9 m",
+  "d": 2,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_3-018",
+  "q": "Quel club espagnol dispute ses matchs à domicile au Camp Nou ?",
+  "r": "Le FC Barcelone",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-019",
+  "q": "Comment appelle-t-on la prise de raquette asiatique, tenue comme un stylo ?",
+  "r": "La prise porte-plume",
+  "d": 2,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_3-020",
+  "q": "Quelle nation a remporté l'or olympique de hockey sur glace à Vancouver en 2010, grâce à un but de Sidney Crosby en prolongation ?",
+  "r": "Le Canada",
+  "d": 1,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_3-021",
+  "q": "Quel Luxembourgeois a été déclaré vainqueur du Tour de France 2010 après le déclassement d'Alberto Contador ?",
+  "r": "Andy Schleck",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-022",
+  "q": "Dans quelle ville italienne se trouve le stade San Siro ?",
+  "r": "Milan",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-023",
+  "q": "Au hockey sur glace, comment appelle-t-on la faute consistant à expédier le palet de son camp jusqu'au-delà de la ligne de but adverse ?",
+  "r": "Le dégagement interdit",
+  "d": 3,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_3-024",
+  "q": "Comment appelle-t-on la partie cordée d'une raquette de tennis ?",
+  "r": "Le tamis",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-025",
+  "q": "Quel joueur français est surnommé « la Monf' » ?",
+  "r": "Gaël Monfils",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-026",
+  "q": "Quel entraîneur italien, passé par Nantes, a mené Leicester City au titre de champion d'Angleterre en 2016 ?",
+  "r": "Claudio Ranieri",
+  "d": 3,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-027",
+  "q": "Comment appelle-t-on la réception du ballon sur les deux avant-bras joints ?",
+  "r": "Une manchette",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_3-028",
+  "q": "Quel Mousquetaire du tennis était surnommé « le Basque bondissant » ?",
+  "r": "Jean Borotra",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-029",
+  "q": "À quelle hauteur est fixé le filet de volley-ball masculin ?",
+  "r": "2,43 m",
+  "d": 3,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_3-030",
+  "q": "Quel pays, repêché au dernier moment à la place de la Yougoslavie, a remporté l'Euro 1992 ?",
+  "r": "Le Danemark",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-031",
+  "q": "Quelle marque a lancé en 1985 la gamme de chaussures de basket Air Jordan ?",
+  "r": "Nike",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_3-032",
+  "q": "Quel surnom porte le club de hockey sur glace de Rouen ?",
+  "r": "Les Dragons",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_3-033",
+  "q": "Dans quelle commune de la banlieue lyonnaise l'Olympique lyonnais joue-t-il depuis 2016 ?",
+  "r": "Décines-Charpieu",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-034",
+  "q": "Quel trophée récompense le vainqueur du match France-Italie dans le Tournoi des Six Nations ?",
+  "r": "Le trophée Garibaldi",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-035",
+  "q": "Quelle compétition oppose les sélections nationales d'Amérique du Sud ?",
+  "r": "La Copa América",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-036",
+  "q": "Quel coureur franc-comtois a gagné au sommet du Tourmalet en 2019 avant d'abandonner le Tour en larmes quelques jours plus tard ?",
+  "r": "Thibaut Pinot",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-037",
+  "q": "En combien de points se joue une manche de tennis de table depuis 2001 ?",
+  "r": "11 points",
+  "d": 2,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_3-038",
+  "q": "Au hockey sur glace, comment appelle-t-on la remise en jeu où l'arbitre lâche le palet entre deux joueurs ?",
+  "r": "La mise au jeu (engagement)",
+  "d": 2,
+  "t": "Hockey"
+ },
+ {
+  "id": "spo_d_3-039",
+  "q": "Comment appelle-t-on les pointes fixées sous la semelle des chaussures de football ?",
+  "r": "Les crampons",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-040",
+  "q": "Quel coureur néerlandais, multiple champion du monde de cyclo-cross, est le petit-fils de Raymond Poulidor ?",
+  "r": "Mathieu van der Poel",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-041",
+  "q": "Comment appelle-t-on le coup qui passe le long ou à côté d'un adversaire monté au filet ?",
+  "r": "Un passing-shot",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-042",
+  "q": "Comment appelle-t-on le coup de pied très haut permettant aux coéquipiers de disputer le ballon à la retombée ?",
+  "r": "Une chandelle",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-043",
+  "q": "Quel club lorrain de football est surnommé « les Grenats » ?",
+  "r": "Le FC Metz",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-044",
+  "q": "Quelle cycliste française a été sacrée championne olympique sur route à Atlanta, en 1996 ?",
+  "r": "Jeannie Longo",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-045",
+  "q": "Au volley-ball, sur quelle surface se joue la variante à deux contre deux inscrite aux Jeux depuis 1996 ?",
+  "r": "Le sable",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_3-046",
+  "q": "Sur quelle montée des Vosges Tadej Pogačar a-t-il pris le maillot jaune lors du contre-la-montre du Tour 2020 ?",
+  "r": "La Planche des Belles Filles",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-047",
+  "q": "Comment appelle-t-on la performance d'un joueur atteignant au moins dix unités dans deux catégories statistiques ?",
+  "r": "Un double-double",
+  "d": 2,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_3-048",
+  "q": "Quel attaquant brésilien le PSG a-t-il recruté en 2017 pour la somme record de 222 millions d'euros ?",
+  "r": "Neymar",
+  "d": 1,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-049",
+  "q": "Quel Suédois, maître du service-volée, a remporté Wimbledon en 1988 et 1990 ?",
+  "r": "Stefan Edberg",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-050",
+  "q": "Quel arrière des Experts, double champion olympique en 2008 et 2012, était surnommé « Air France » pour sa détente ?",
+  "r": "Daniel Narcisse",
+  "d": 2,
+  "t": "Handball"
+ },
+ {
+  "id": "spo_d_3-051",
+  "q": "Quel coureur est devenu en 2019 le premier Colombien à remporter le Tour de France ?",
+  "r": "Egan Bernal",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-052",
+  "q": "Quel nom a-t-on donné au rapprochement sino-américain amorcé en 1971 par des échanges de pongistes ?",
+  "r": "La diplomatie du ping-pong",
+  "d": 1,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_3-053",
+  "q": "Quel stade de Cardiff, inauguré en 1999 pour la Coupe du monde, est doté d'un toit rétractable ?",
+  "r": "Le Millennium Stadium (Principality)",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-054",
+  "q": "Quel arrière du XV de France, né au Venezuela, était surnommé « le Pelé du rugby » ?",
+  "r": "Serge Blanco",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-055",
+  "q": "Quel Américain surnommé « Pistol Pete » a remporté sept fois le tournoi de Wimbledon ?",
+  "r": "Pete Sampras",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-056",
+  "q": "Quel club alsacien de football joue au stade de la Meinau ?",
+  "r": "Le RC Strasbourg",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-057",
+  "q": "Combien de minutes dure au total une prolongation au football ?",
+  "r": "30 minutes (2 × 15)",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-058",
+  "q": "Comment a-t-on surnommé les reprises de volée acrobatiques de Jean-Pierre Papin ?",
+  "r": "Les papinades",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-059",
+  "q": "Comment appelle-t-on le coup de tennis joué du côté opposé à la main qui tient la raquette ?",
+  "r": "Le revers",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-060",
+  "q": "Combien de joueurs chaque équipe aligne-t-elle sur le terrain au rugby à XV ?",
+  "r": "15",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-061",
+  "q": "Quel animal est l'emblème du XV de France ?",
+  "r": "Le coq",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-062",
+  "q": "Au volley-ball, comment appelle-t-on le joueur qui effectue la deuxième touche pour préparer l'attaque ?",
+  "r": "Le passeur",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_3-063",
+  "q": "Quel joueur allemand a remporté Wimbledon en 1985, à seulement 17 ans ?",
+  "r": "Boris Becker",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-064",
+  "q": "Quel joueur autrichien a remporté l'US Open en 2020 ?",
+  "r": "Dominic Thiem",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-065",
+  "q": "Comment s'appelle le championnat de France de rugby de première division ?",
+  "r": "Le Top 14",
+  "d": 1,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-066",
+  "q": "Comment appelle-t-on l'action de sauter devant le filet, bras levés, pour intercepter une attaque adverse ?",
+  "r": "Un contre",
+  "d": 1,
+  "t": "Volley-ball"
+ },
+ {
+  "id": "spo_d_3-067",
+  "q": "Quel coureur gallois a remporté le Tour de France 2018 ?",
+  "r": "Geraint Thomas",
+  "d": 3,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-068",
+  "q": "Quel nom de famille portent les frères Félix et Alexis, prodiges montpelliérains du tennis de table ?",
+  "r": "Lebrun",
+  "d": 2,
+  "t": "Tennis de table"
+ },
+ {
+  "id": "spo_d_3-069",
+  "q": "Quel club anglais a été sacré champion en 2016 alors que les bookmakers le donnaient à 5 000 contre 1 ?",
+  "r": "Leicester City",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-070",
+  "q": "Comment appelle-t-on l'effet donné à la balle frappée de bas en haut, qui la fait plonger après le filet ?",
+  "r": "Le lift",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-071",
+  "q": "Comment appelle-t-on la tactique consistant à monter au filet immédiatement après avoir servi ?",
+  "r": "Le service-volée",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-072",
+  "q": "Avec quelle franchise NBA Tony Parker a-t-il remporté ses quatre titres ?",
+  "r": "Les San Antonio Spurs",
+  "d": 1,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_3-073",
+  "q": "Quel tournoi du Grand Chelem se dispute chaque fin d'été à New York ?",
+  "r": "L'US Open",
+  "d": 1,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-074",
+  "q": "Quelle nation a remporté le tournoi olympique masculin de water-polo à Rio en 2016 puis à Tokyo en 2021 ?",
+  "r": "La Serbie",
+  "d": 3,
+  "t": "Water-polo"
+ },
+ {
+  "id": "spo_d_3-075",
+  "q": "Quelle discipline cycliste hivernale se court sur un parcours boueux, avec des passages vélo à l'épaule ?",
+  "r": "Le cyclo-cross",
+  "d": 1,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-076",
+  "q": "Dans quelle ville se trouve l'Aviva Stadium, ex-Lansdowne Road ?",
+  "r": "Dublin",
+  "d": 2,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-077",
+  "q": "Quel ailier fort des Utah Jazz était surnommé « the Mailman » ?",
+  "r": "Karl Malone",
+  "d": 3,
+  "t": "Basket-ball"
+ },
+ {
+  "id": "spo_d_3-078",
+  "q": "Quelle Française a atteint la finale de Wimbledon en 1998, battue par Jana Novotná ?",
+  "r": "Nathalie Tauziat",
+  "d": 3,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-079",
+  "q": "Quel stade romain accueille à la fois l'AS Roma, la Lazio et le XV d'Italie ?",
+  "r": "Le Stadio Olimpico",
+  "d": 2,
+  "t": "Football"
+ },
+ {
+  "id": "spo_d_3-080",
+  "q": "Quel col alpin, souvent précédé du Télégraphe, abrite un monument dédié à Henri Desgrange ?",
+  "r": "Le col du Galibier",
+  "d": 2,
+  "t": "Cyclisme"
+ },
+ {
+  "id": "spo_d_3-081",
+  "q": "Quel couvre-chef muni de protège-oreilles distingue les équipes de water-polo ?",
+  "r": "Le bonnet",
+  "d": 1,
+  "t": "Water-polo"
+ },
+ {
+  "id": "spo_d_3-082",
+  "q": "En quelle année le rugby à XV est-il officiellement devenu professionnel ?",
+  "r": "1995",
+  "d": 3,
+  "t": "Rugby"
+ },
+ {
+  "id": "spo_d_3-083",
+  "q": "Quelle Américaine a remporté sept fois Roland-Garros, entre 1974 et 1986 ?",
+  "r": "Chris Evert",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-084",
+  "q": "Quel tournoi du Grand Chelem s'est joué sur gazon jusqu'en 1987 avant de passer sur surface dure ?",
+  "r": "L'Open d'Australie",
+  "d": 2,
+  "t": "Tennis"
+ },
+ {
+  "id": "spo_d_3-085",
+  "q": "Quel club gardois de football est surnommé « les Crocos » ?",
+  "r": "Le Nîmes Olympique",
+  "d": 2,
+  "t": "Football"
+ }
+]

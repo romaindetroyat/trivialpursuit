@@ -1,539 +1,629 @@
 [
  {
+  "id": "sci_b_3-001",
   "q": "Quel naturaliste anglais a publié « L'Origine des espèces » en 1859 ?",
   "r": "Charles Darwin",
   "d": 1,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-002",
   "q": "À bord de quel navire Charles Darwin a-t-il fait le tour du monde entre 1831 et 1836 ?",
   "r": "Le Beagle",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-003",
   "q": "Dans quel archipel du Pacifique les pinsons et les tortues géantes ont-ils nourri la réflexion de Darwin ?",
   "r": "Les Galápagos",
   "d": 1,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-004",
   "q": "Quel naturaliste français a proposé en 1809 une théorie de l'évolution fondée sur l'hérédité des caractères acquis ?",
   "r": "Lamarck",
   "d": 1,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-005",
   "q": "Quel naturaliste britannique a formulé la théorie de la sélection naturelle en même temps que Darwin ?",
   "r": "Alfred Russel Wallace",
   "d": 3,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-006",
   "q": "Quel moine a découvert les lois de l'hérédité en croisant des petits pois ?",
   "r": "Gregor Mendel",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-007",
   "q": "Dans quelle ville de l'actuelle République tchèque Gregor Mendel a-t-il mené ses expériences sur les pois ?",
   "r": "Brno",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-008",
   "q": "Quelle molécule en double hélice porte l'information génétique des êtres vivants ?",
   "r": "L'ADN",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-009",
   "q": "Que signifie le sigle ADN ?",
   "r": "Acide désoxyribonucléique",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-010",
   "q": "Quels deux chercheurs ont publié en 1953 le modèle de la double hélice de l'ADN ?",
   "r": "Watson et Crick",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-011",
   "q": "Sous la direction de quelle chercheuse britannique a été réalisé le cliché de diffraction de l'ADN appelé « photo 51 » ?",
   "r": "Rosalind Franklin",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-012",
   "q": "Combien de chromosomes compte une cellule humaine non reproductrice ?",
   "r": "46",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-013",
   "q": "Quelle paire de chromosomes sexuels possède habituellement un homme ?",
   "r": "XY",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-014",
   "q": "Quelles sont les quatre bases azotées de l'ADN ?",
   "r": "Adénine, thymine, guanine, cytosine",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-015",
   "q": "Quelle base azotée remplace la thymine dans l'ARN ?",
   "r": "L'uracile",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-016",
   "q": "Quel sucre entre dans la composition de l'ADN et lui donne une partie de son nom ?",
   "r": "Le désoxyribose",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-017",
   "q": "Quel type de liaisons chimiques relie entre eux les deux brins de l'ADN ?",
   "r": "Des liaisons hydrogène",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-018",
   "q": "Quel organite, doté de son propre ADN, est surnommé la « centrale énergétique » de la cellule ?",
   "r": "La mitochondrie",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-019",
   "q": "Par quel parent l'ADN mitochondrial est-il transmis chez l'être humain ?",
   "r": "La mère",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-020",
   "q": "Quelle molécule sert de « monnaie énergétique » universelle de la cellule ?",
   "r": "L'ATP",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-021",
   "q": "Dans quel organite des cellules végétales se déroule la photosynthèse ?",
   "r": "Le chloroplaste",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-022",
   "q": "Quel pigment vert des plantes capte l'énergie lumineuse ?",
   "r": "La chlorophylle",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-023",
   "q": "Quel gaz les plantes rejettent-elles au cours de la photosynthèse ?",
   "r": "Le dioxygène (oxygène)",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-024",
   "q": "Quelle théorie, défendue par Lynn Margulis, explique que mitochondries et chloroplastes sont d'anciennes bactéries ?",
   "r": "L'endosymbiose",
   "d": 3,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-025",
   "q": "Comment appelle-t-on les êtres vivants dont les cellules n'ont pas de noyau, comme les bactéries ?",
   "r": "Les procaryotes",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-026",
   "q": "Dans quelle structure de la cellule eucaryote l'ADN est-il principalement enfermé ?",
   "r": "Le noyau",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-027",
   "q": "Quels petits organites fabriquent les protéines dans la cellule ?",
   "r": "Les ribosomes",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-028",
   "q": "Quel organite cellulaire, qui porte le nom d'un savant italien, modifie et emballe les protéines ?",
   "r": "L'appareil de Golgi",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-029",
   "q": "Quels organites remplis d'enzymes digèrent les déchets de la cellule ?",
   "r": "Les lysosomes",
   "d": 3,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-030",
   "q": "Quelle division cellulaire donne deux cellules filles génétiquement identiques ?",
   "r": "La mitose",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-031",
   "q": "Quelle division cellulaire produit les gamètes, avec deux fois moins de chromosomes ?",
   "r": "La méiose",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-032",
   "q": "Quel savant anglais a employé le premier le mot « cellule » en 1665, en observant du liège ?",
   "r": "Robert Hooke",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-033",
   "q": "Quel drapier néerlandais du XVIIe siècle a été le premier à observer des micro-organismes grâce à ses microscopes ?",
   "r": "Antoni van Leeuwenhoek",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-034",
   "q": "Quels deux savants allemands ont formulé la théorie cellulaire en 1838-1839 ?",
   "r": "Schleiden et Schwann",
   "d": 3,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-035",
   "q": "Quelle enveloppe rigide, faite de cellulose, entoure la cellule végétale ?",
   "r": "La paroi (pectocellulosique)",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-036",
   "q": "Comment s'appelle le milieu gélatineux qui remplit la cellule autour du noyau ?",
   "r": "Le cytoplasme",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-037",
   "q": "Quelle double couche de lipides délimite toute cellule vivante ?",
   "r": "La membrane plasmique",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-038",
   "q": "Comment appelle-t-on le passage de l'eau à travers une membrane semi-perméable ?",
   "r": "L'osmose",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-039",
   "q": "Comment appelle-t-on la mort cellulaire programmée ?",
   "r": "L'apoptose",
   "d": 3,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-040",
   "q": "Comment appelle-t-on les extrémités des chromosomes qui raccourcissent à chaque division cellulaire ?",
   "r": "Les télomères",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-041",
   "q": "Quelle brebis, née en 1996 en Écosse, fut le premier mammifère cloné à partir d'une cellule adulte ?",
   "r": "Dolly",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-042",
   "q": "Quel outil d'édition du génome a valu le prix Nobel de chimie 2020 à Emmanuelle Charpentier et Jennifer Doudna ?",
   "r": "CRISPR-Cas9",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-043",
   "q": "Quel sigle désigne un organisme dont le génome a été modifié par génie génétique ?",
   "r": "OGM",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-044",
   "q": "Comment appelle-t-on les différentes versions d'un même gène ?",
   "r": "Les allèles",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-045",
   "q": "Comment appelle-t-on l'ensemble du matériel génétique d'un organisme ?",
   "r": "Le génome",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-046",
   "q": "Comment appelle-t-on l'ensemble des caractères observables d'un individu, par opposition au génotype ?",
   "r": "Le phénotype",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-047",
   "q": "Comment qualifie-t-on un allèle qui ne s'exprime que s'il est présent en deux exemplaires ?",
   "r": "Récessif",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-048",
   "q": "Comment appelle-t-on une modification héréditaire de la séquence de l'ADN ?",
   "r": "Une mutation",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-049",
   "q": "Comment appelle-t-on la copie d'un gène d'ADN en ARN ?",
   "r": "La transcription",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-050",
   "q": "Comment appelle-t-on l'étape où les ribosomes assemblent une protéine en lisant l'ARN messager ?",
   "r": "La traduction",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-051",
   "q": "Comment appelle-t-on un triplet de nucléotides qui code un acide aminé ?",
   "r": "Un codon",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-052",
   "q": "Quelle technique, inventée par Kary Mullis en 1983, permet de copier des millions de fois un fragment d'ADN ?",
   "r": "La PCR",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-053",
   "q": "Quel généticien britannique a mis au point en 1984 la technique des empreintes génétiques ?",
   "r": "Alec Jeffreys",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-054",
   "q": "Quelle petite mouche fut l'organisme modèle des travaux de Thomas Morgan sur les chromosomes ?",
   "r": "La drosophile",
   "d": 2,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-055",
   "q": "Quel biologiste français, prix Nobel 1965, a écrit l'essai « Le Hasard et la Nécessité » en 1970 ?",
   "r": "Jacques Monod",
   "d": 3,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-056",
   "q": "Quel chercheur japonais a reçu le prix Nobel 2012 pour avoir reprogrammé des cellules adultes en cellules souches ?",
   "r": "Shinya Yamanaka",
   "d": 3,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-057",
   "q": "Comment appelle-t-on les cellules non spécialisées capables de donner naissance à différents types de cellules ?",
   "r": "Les cellules souches",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-058",
   "q": "Quelle est la plus grande cellule du corps humain ?",
   "r": "L'ovule (ovocyte)",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-059",
   "q": "Quelle cellule humaine se déplace grâce à un flagelle ?",
   "r": "Le spermatozoïde",
   "d": 1,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-060",
   "q": "Comment appelle-t-on la cellule issue de la fécondation, première cellule d'un nouvel individu ?",
   "r": "Le zygote (cellule-œuf)",
   "d": 2,
   "t": "Cellule"
  },
  {
+  "id": "sci_b_3-061",
   "q": "Comment appelle-t-on les jumeaux issus d'un même ovule fécondé ?",
   "r": "Des jumeaux monozygotes (vrais)",
   "d": 1,
   "t": "Génétique"
  },
  {
+  "id": "sci_b_3-062",
   "q": "Comment appelle-t-on le mode de reproduction où un embryon se développe à partir d'un ovule non fécondé ?",
   "r": "La parthénogenèse",
   "d": 3,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-063",
   "q": "Quel nom a été donné au squelette d'australopithèque découvert en Éthiopie en 1974, en référence à une chanson des Beatles ?",
   "r": "Lucy",
   "d": 1,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-064",
   "q": "Quel paléontologue français, professeur au Collège de France, fut l'un des codécouvreurs de Lucy ?",
   "r": "Yves Coppens",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-065",
   "q": "Quel surnom, signifiant « espoir de vie » en langue goran, a reçu le crâne d'hominidé de 7 millions d'années découvert au Tchad en 2001 ?",
   "r": "Toumaï",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-066",
   "q": "Dans quelle vallée allemande a été découvert en 1856 le fossile qui a donné son nom à une espèce humaine disparue ?",
   "r": "La vallée de Neander (Néandertal)",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-067",
   "q": "Quel animal fossile du Jurassique, découvert en Bavière en 1861, possède à la fois des plumes et des dents ?",
   "r": "L'archéoptéryx",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-068",
   "q": "Quel philosophe britannique a forgé l'expression « survie du plus apte » pour résumer la sélection naturelle ?",
   "r": "Herbert Spencer",
   "d": 3,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-069",
   "q": "Quelle théorie de Stephen Jay Gould et Niles Eldredge décrit une évolution faite de longues stabilités et de brusques changements ?",
   "r": "Les équilibres ponctués",
   "d": 3,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-070",
   "q": "Comment appelle-t-on des organes de même origine évolutive, comme le bras humain et l'aile de chauve-souris ?",
   "r": "Des organes homologues",
   "d": 3,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-071",
   "q": "Comment appelle-t-on l'évolution conjointe de deux espèces qui s'influencent mutuellement, comme une fleur et son pollinisateur ?",
   "r": "La coévolution",
   "d": 3,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-072",
   "q": "Quel mot, inventé par Richard Dawkins en 1976, désigne une unité d'information culturelle qui se propage par imitation ?",
   "r": "Le mème",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-073",
   "q": "Quel naturaliste suédois du XVIIIe siècle a instauré le système de nomenclature à deux noms latins ?",
   "r": "Carl von Linné",
   "d": 1,
   "t": "Classification"
  },
  {
+  "id": "sci_b_3-074",
   "q": "Quel est le nom scientifique de l'être humain moderne ?",
   "r": "Homo sapiens",
   "d": 1,
   "t": "Classification"
  },
  {
+  "id": "sci_b_3-075",
   "q": "Dans la classification des êtres vivants, quel rang se situe juste au-dessus de l'espèce ?",
   "r": "Le genre",
   "d": 2,
   "t": "Classification"
  },
  {
+  "id": "sci_b_3-076",
   "q": "Quel naturaliste français, intendant du Jardin du roi, a rédigé une monumentale « Histoire naturelle » au XVIIIe siècle ?",
   "r": "Buffon",
   "d": 1,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-077",
   "q": "Quel savant français, fondateur de l'anatomie comparée, expliquait la disparition des espèces par des catastrophes ?",
   "r": "Georges Cuvier",
   "d": 2,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-078",
   "q": "Comment appelle-t-on la faculté d'un animal inoffensif à imiter l'apparence d'une espèce dangereuse ?",
   "r": "Le mimétisme",
   "d": 1,
   "t": "Évolution"
  },
  {
+  "id": "sci_b_3-079",
   "q": "Comment appelle-t-on les bactéries en forme de bâtonnet ?",
   "r": "Les bacilles",
   "d": 2,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_b_3-080",
   "q": "Comment appelle-t-on les virus qui infectent spécifiquement les bactéries ?",
   "r": "Les bactériophages",
   "d": 2,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_b_3-081",
   "q": "Quel savant français a réfuté la génération spontanée dans les années 1860 grâce à des flacons à col de cygne ?",
   "r": "Louis Pasteur",
   "d": 1,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_b_3-082",
   "q": "Quel être unicellulaire se déplace et se nourrit en déformant son corps en pseudopodes ?",
   "r": "L'amibe",
   "d": 2,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_b_3-083",
   "q": "Comment qualifie-t-on un être vivant composé d'une seule cellule ?",
   "r": "Unicellulaire",
   "d": 1,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-084",
   "q": "Comment appelle-t-on la transformation d'une chenille en papillon ?",
   "r": "La métamorphose",
   "d": 1,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-085",
   "q": "Quel processus, réalisé par les levures sans oxygène, transforme le sucre en alcool ?",
   "r": "La fermentation alcoolique",
   "d": 1,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_b_3-086",
   "q": "Quel gaz, qui fait lever la pâte à pain, est produit par la fermentation des levures ?",
   "r": "Le dioxyde de carbone",
   "d": 1,
   "t": "Microbiologie"
  },
  {
+  "id": "sci_b_3-087",
   "q": "Quel physiologiste français a publié en 1865 une « Introduction à l'étude de la médecine expérimentale » et défini le « milieu intérieur » ?",
   "r": "Claude Bernard",
   "d": 2,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-088",
   "q": "Comment appelle-t-on le phénomène, étudié par Konrad Lorenz chez les oies, par lequel un jeune s'attache au premier être qu'il voit ?",
   "r": "L'empreinte (imprégnation)",
   "d": 3,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-089",
   "q": "Comment appelle-t-on la science qui étudie les relations des êtres vivants entre eux et avec leur milieu ?",
   "r": "L'écologie",
   "d": 1,
   "t": "Biologie générale"
  },
  {
+  "id": "sci_b_3-090",
   "q": "Quelle bactérie intestinale, symbole de la microbiologie de laboratoire, porte le nom d'un pédiatre allemand ?",
   "r": "Escherichia coli",
   "d": 2,

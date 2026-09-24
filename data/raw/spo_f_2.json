@@ -1,0 +1,597 @@
+[
+ {
+  "id": "spo_f_2-001",
+  "q": "Comment appelle-t-on la collection de sous-bocks de bière ?",
+  "r": "La tégestophilie",
+  "d": 3,
+  "t": "Collections"
+ },
+ {
+  "id": "spo_f_2-002",
+  "q": "Quelle bière belge à fermentation spontanée est produite dans la région de Bruxelles ?",
+  "r": "Le lambic",
+  "d": 3,
+  "t": "Bières et boissons"
+ },
+ {
+  "id": "spo_f_2-003",
+  "q": "Quelle passoire conique à mailles très fines porte le nom d'un peuple d'Asie ?",
+  "r": "Le chinois",
+  "d": 2,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "id": "spo_f_2-004",
+  "q": "Dans quel département est né le couteau Opinel, dont le logo est une main couronnée ?",
+  "r": "La Savoie",
+  "d": 2,
+  "t": "Bricolage"
+ },
+ {
+  "id": "spo_f_2-005",
+  "q": "Quel coléoptère rouge à points noirs est l'allié du jardinier contre les pucerons ?",
+  "r": "La coccinelle",
+  "d": 1,
+  "t": "Jardinage"
+ },
+ {
+  "id": "spo_f_2-006",
+  "q": "Comment appelle-t-on l'opération qui consiste à garnir de pâte le fond et les bords d'un moule à tarte ?",
+  "r": "Foncer",
+  "d": 3,
+  "t": "Techniques culinaires"
+ },
+ {
+  "id": "spo_f_2-007",
+  "q": "Quelle île anglo-normande a donné son nom à un tissu à mailles souple ?",
+  "r": "Jersey",
+  "d": 2,
+  "t": "Couture"
+ },
+ {
+  "id": "spo_f_2-008",
+  "q": "Quelle ville des Alpes-Maritimes organise chaque février une fête autour des agrumes ?",
+  "r": "Menton",
+  "d": 2,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "id": "spo_f_2-009",
+  "q": "Combien de cartes compte un jeu classique, sans les jokers ?",
+  "r": "52",
+  "d": 1,
+  "t": "Jeux de cartes"
+ },
+ {
+  "id": "spo_f_2-010",
+  "q": "Quels jardins botaniques de Londres, inscrits à l'UNESCO, abritent la célèbre serre victorienne Palm House ?",
+  "r": "Kew Gardens",
+  "d": 3,
+  "t": "Jardinage"
+ },
+ {
+  "id": "spo_f_2-011",
+  "q": "Quelle sainte, fêtée le 13 décembre, est célébrée en Suède par des jeunes filles couronnées de bougies ?",
+  "r": "Sainte Lucie",
+  "d": 2,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "id": "spo_f_2-012",
+  "q": "Comment appelle-t-on l'installation légère en pleine nature pour une seule nuit, souvent tolérée en montagne du soir au matin ?",
+  "r": "Le bivouac",
+  "d": 2,
+  "t": "Camping"
+ },
+ {
+  "id": "spo_f_2-013",
+  "q": "Comment appelle-t-on la fête de nuit bretonne où l'on danse au son des instruments traditionnels ?",
+  "r": "Le fest-noz",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "id": "spo_f_2-014",
+  "q": "Quel outil formé d'une masse suspendue à une ficelle permet de vérifier la verticalité d'un mur ?",
+  "r": "Le fil à plomb",
+  "d": 1,
+  "t": "Bricolage"
+ },
+ {
+  "id": "spo_f_2-015",
+  "q": "Quel glacier est desservi par le train à crémaillère du Montenvers, au départ de Chamonix ?",
+  "r": "La Mer de Glace",
+  "d": 2,
+  "t": "Transports touristiques"
+ },
+ {
+  "id": "spo_f_2-016",
+  "q": "Quelle saucisse corse à base de foie de porc se déguste grillée en hiver ?",
+  "r": "Le figatellu",
+  "d": 3,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-017",
+  "q": "Quel pays évoque la première lettre du sigle IPA, style de bière très houblonnée ?",
+  "r": "L'Inde",
+  "d": 2,
+  "t": "Bières et boissons"
+ },
+ {
+  "id": "spo_f_2-018",
+  "q": "Quelle place parisienne à colonne réunit les plus grands joailliers ?",
+  "r": "La place Vendôme",
+  "d": 1,
+  "t": "Mode"
+ },
+ {
+  "id": "spo_f_2-019",
+  "q": "Quelle technique consiste à insérer un fragment d'une plante sur une autre pour qu'ils se soudent ?",
+  "r": "La greffe",
+  "d": 1,
+  "t": "Jardinage"
+ },
+ {
+  "id": "spo_f_2-020",
+  "q": "Quel œuf en chocolat contenant un petit jouet à monter a été lancé en Italie en 1974 ?",
+  "r": "Kinder Surprise",
+  "d": 1,
+  "t": "Jouets"
+ },
+ {
+  "id": "spo_f_2-021",
+  "q": "Quel jouet est une boîte d'où jaillit un personnage monté sur ressort à l'ouverture du couvercle ?",
+  "r": "Le diable (en boîte)",
+  "d": 1,
+  "t": "Jouets"
+ },
+ {
+  "id": "spo_f_2-022",
+  "q": "Quelle technique de teinture, emblème des hippies, consiste à nouer le tissu avant de le plonger dans le bain ?",
+  "r": "Le tie-dye",
+  "d": 1,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "id": "spo_f_2-023",
+  "q": "Quelle grande brioche milanaise aux fruits confits est un classique de Noël en Italie ?",
+  "r": "Le panettone",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "id": "spo_f_2-024",
+  "q": "Quel jouet volant, retenu au sol par un fil, serait apparu en Chine il y a plus de deux mille ans ?",
+  "r": "Le cerf-volant",
+  "d": 1,
+  "t": "Jouets"
+ },
+ {
+  "id": "spo_f_2-025",
+  "q": "Quelle franchise japonaise née en 1996 a donné naissance à un jeu de cartes à collectionner avec Pikachu ?",
+  "r": "Pokémon",
+  "d": 1,
+  "t": "Jeux de cartes"
+ },
+ {
+  "id": "spo_f_2-026",
+  "q": "Quelle commune du Jura, qui abrite un musée du Jouet, se présente comme la capitale française du jouet ?",
+  "r": "Moirans-en-Montagne",
+  "d": 3,
+  "t": "Jouets"
+ },
+ {
+  "id": "spo_f_2-027",
+  "q": "Quel tissu à petits carreaux, popularisé par la robe de mariée rose de Brigitte Bardot en 1959, porte le nom d'une ville thermale ?",
+  "r": "Le vichy",
+  "d": 1,
+  "t": "Couture"
+ },
+ {
+  "id": "spo_f_2-028",
+  "q": "Quelle andouille bretonne se reconnaît aux cercles concentriques visibles à la coupe ?",
+  "r": "L'andouille de Guémené",
+  "d": 3,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-029",
+  "q": "Comment appelle-t-on l'opération qui expulse le dépôt de levures accumulé dans le col d'une bouteille de champagne ?",
+  "r": "Le dégorgement",
+  "d": 3,
+  "t": "Vins"
+ },
+ {
+  "id": "spo_f_2-030",
+  "q": "Quelle plante urticante sert à préparer un purin utilisé comme engrais et répulsif ?",
+  "r": "L'ortie",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "id": "spo_f_2-031",
+  "q": "Comment appelle-t-on l'opération qui consiste à envelopper une viande maigre de fines tranches de lard ?",
+  "r": "Barder",
+  "d": 2,
+  "t": "Techniques culinaires"
+ },
+ {
+  "id": "spo_f_2-032",
+  "q": "Quel art japonais est celui de la composition florale ?",
+  "r": "L'ikebana",
+  "d": 1,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "id": "spo_f_2-033",
+  "q": "Quelle fête chrétienne du 6 janvier célèbre-t-on en France en partageant une galette ?",
+  "r": "L'Épiphanie",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "id": "spo_f_2-034",
+  "q": "Quel château de la Loire accueille depuis 1992 un Festival international des jardins ?",
+  "r": "Chaumont-sur-Loire",
+  "d": 3,
+  "t": "Jardinage"
+ },
+ {
+  "id": "spo_f_2-035",
+  "q": "Quel jeu électronique de 1978, à quatre touches colorées, fait répéter des séquences de sons et de lumières ?",
+  "r": "Simon",
+  "d": 3,
+  "t": "Jouets"
+ },
+ {
+  "id": "spo_f_2-036",
+  "q": "Sous quel nom de marque désigne-t-on couramment la plaque de plâtre cartonnée ?",
+  "r": "Placo (Placoplâtre)",
+  "d": 1,
+  "t": "Bricolage"
+ },
+ {
+  "id": "spo_f_2-037",
+  "q": "Quel fromage de Haute-Marne présente sur le dessus un creux, appelé « fontaine », où l'on peut verser du marc ?",
+  "r": "Le langres",
+  "d": 3,
+  "t": "Fromages"
+ },
+ {
+  "id": "spo_f_2-038",
+  "q": "Quel créateur japonais, arrivé à Paris en 1965, a donné son prénom à la maison de mode qu'il a fondée ?",
+  "r": "Kenzo",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "id": "spo_f_2-039",
+  "q": "Quel village de l'Aveyron a donné son nom à un couteau pliant orné d'une abeille ?",
+  "r": "Laguiole",
+  "d": 1,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "id": "spo_f_2-040",
+  "q": "Quelle légumineuse verte, protégée par une AOP, fait la réputation du Puy-en-Velay ?",
+  "r": "La lentille verte",
+  "d": 1,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-041",
+  "q": "Quel parfum, lancé en 1921, Marilyn Monroe disait-elle porter pour seul vêtement la nuit ?",
+  "r": "Chanel n° 5",
+  "d": 1,
+  "t": "Mode"
+ },
+ {
+  "id": "spo_f_2-042",
+  "q": "Quelle appellation de la vallée du Rhône doit son nom à la résidence d'été des papes d'Avignon ?",
+  "r": "Châteauneuf-du-Pape",
+  "d": 1,
+  "t": "Vins"
+ },
+ {
+  "id": "spo_f_2-043",
+  "q": "Quel roi de Pologne devenu duc de Lorraine est associé à la légende de l'invention du baba ?",
+  "r": "Stanislas Leszczynski",
+  "d": 3,
+  "t": "Pâtisserie"
+ },
+ {
+  "id": "spo_f_2-044",
+  "q": "Quel dessert se monte dans un moule tapissé de biscuits à la cuillère ?",
+  "r": "La charlotte",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "id": "spo_f_2-045",
+  "q": "Quel petit accessoire de métal protège le doigt qui pousse l'aiguille ?",
+  "r": "Le dé à coudre",
+  "d": 1,
+  "t": "Couture"
+ },
+ {
+  "id": "spo_f_2-046",
+  "q": "Quel lubrifiant en aérosol a un nom signifiant en anglais « chasse-eau, 40e formule » ?",
+  "r": "Le WD-40",
+  "d": 2,
+  "t": "Bricolage"
+ },
+ {
+  "id": "spo_f_2-047",
+  "q": "Comment appelle-t-on la pêche où l'on lance, par un mouvement de fouet, un leurre imitant un insecte ?",
+  "r": "La pêche à la mouche",
+  "d": 1,
+  "t": "Pêche"
+ },
+ {
+  "id": "spo_f_2-048",
+  "q": "Quel loisir créatif consiste à réaliser des objets uniquement à l'aide de nœuds de ficelle ?",
+  "r": "Le macramé",
+  "d": 1,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "id": "spo_f_2-049",
+  "q": "Comment appelle-t-on en Bretagne la plaque de fonte ronde sur laquelle on cuit crêpes et galettes ?",
+  "r": "Le billig",
+  "d": 2,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "id": "spo_f_2-050",
+  "q": "Quel outil de charpentier, à lame perpendiculaire au manche, sert à dégrossir et aplanir le bois ?",
+  "r": "L'herminette",
+  "d": 3,
+  "t": "Bricolage"
+ },
+ {
+  "id": "spo_f_2-051",
+  "q": "Quel mot désigne l'année de récolte des raisins d'un vin, indiquée sur l'étiquette ?",
+  "r": "Le millésime",
+  "d": 1,
+  "t": "Vins"
+ },
+ {
+  "id": "spo_f_2-052",
+  "q": "À la belote, quelle annonce fait-on en jouant le roi puis la dame d'atout ?",
+  "r": "Belote et rebelote",
+  "d": 1,
+  "t": "Jeux de cartes"
+ },
+ {
+  "id": "spo_f_2-053",
+  "q": "Quelle fête mexicaine honore les défunts avec des crânes en sucre et des autels fleuris ?",
+  "r": "Le Jour des morts",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "id": "spo_f_2-054",
+  "q": "Comment appelle-t-on les bateaux-bus qui assurent les transports publics sur les canaux de Venise ?",
+  "r": "Les vaporettos",
+  "d": 2,
+  "t": "Transports touristiques"
+ },
+ {
+  "id": "spo_f_2-055",
+  "q": "Quelle soupe épaisse au chou et au confit est la spécialité du Béarn ?",
+  "r": "La garbure",
+  "d": 3,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-056",
+  "q": "Quelle préparation provençale mixe olives noires, câpres, anchois et huile d'olive ?",
+  "r": "La tapenade",
+  "d": 1,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-057",
+  "q": "Quel fromage normand, cerclé de cinq lanières, est surnommé « le colonel » ?",
+  "r": "Le livarot",
+  "d": 3,
+  "t": "Fromages"
+ },
+ {
+  "id": "spo_f_2-058",
+  "q": "Quelle ville du Nord accueille chaque début septembre une gigantesque braderie ?",
+  "r": "Lille",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "id": "spo_f_2-059",
+  "q": "Quel couteau japonais polyvalent a un nom signifiant « trois vertus » ?",
+  "r": "Le santoku",
+  "d": 3,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "id": "spo_f_2-060",
+  "q": "Quel est le prénom du fiancé de la poupée Barbie, lancé en 1961 ?",
+  "r": "Ken",
+  "d": 1,
+  "t": "Jouets"
+ },
+ {
+  "id": "spo_f_2-061",
+  "q": "Comment appelle-t-on un mélange de légumes coupés en petits dés, du nom d'une région des Balkans ?",
+  "r": "La macédoine",
+  "d": 1,
+  "t": "Techniques culinaires"
+ },
+ {
+  "id": "spo_f_2-062",
+  "q": "Quelle spécialité auvergnate fait sauter des pommes de terre avec de la tome fraîche de Cantal jusqu'à ce qu'elle file ?",
+  "r": "La truffade",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-063",
+  "q": "Quel jeu africain consiste à semer des graines dans des trous creusés dans une planche ?",
+  "r": "L'awalé",
+  "d": 2,
+  "t": "Jeux de société"
+ },
+ {
+  "id": "spo_f_2-064",
+  "q": "Quel jeu fait glisser des jetons dans une grille verticale pour en aligner quatre de sa couleur ?",
+  "r": "Le Puissance 4",
+  "d": 1,
+  "t": "Jeux de société"
+ },
+ {
+  "id": "spo_f_2-065",
+  "q": "Quel fromage bleu cylindrique porte le nom d'une ville du Puy-de-Dôme ?",
+  "r": "La fourme d'Ambert",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "id": "spo_f_2-066",
+  "q": "Quelle recette romaine de pâtes associe jaunes d'œufs, pecorino, joue de porc séchée et poivre noir ?",
+  "r": "La carbonara",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "id": "spo_f_2-067",
+  "q": "Comment appelle-t-on la collection de cartes téléphoniques à puce ?",
+  "r": "La télécartophilie",
+  "d": 2,
+  "t": "Collections"
+ },
+ {
+  "id": "spo_f_2-068",
+  "q": "Quelle crêpe est flambée avec un beurre à l'orange et une liqueur d'orange ?",
+  "r": "La crêpe Suzette",
+  "d": 2,
+  "t": "Pâtisserie"
+ },
+ {
+  "id": "spo_f_2-069",
+  "q": "Quels petits pains britanniques se dégustent avec de la crème épaisse et de la confiture à l'heure du thé ?",
+  "r": "Les scones",
+  "d": 1,
+  "t": "Cuisine du monde"
+ },
+ {
+  "id": "spo_f_2-070",
+  "q": "Quel loisir créatif consiste à enrouler de fines bandes de papier pour former des motifs ?",
+  "r": "Le quilling (paperolles)",
+  "d": 3,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "id": "spo_f_2-071",
+  "q": "Comment appelle-t-on la collection de porte-clés ?",
+  "r": "La copocléphilie",
+  "d": 3,
+  "t": "Collections"
+ },
+ {
+  "id": "spo_f_2-072",
+  "q": "Comment appelle-t-on la pratique de pêche qui consiste à relâcher le poisson vivant ?",
+  "r": "Le no-kill",
+  "d": 2,
+  "t": "Pêche"
+ },
+ {
+  "id": "spo_f_2-073",
+  "q": "Dans quel jeu coopératif de 2008 les joueurs doivent-ils enrayer quatre maladies menaçant la planète ?",
+  "r": "Pandemic",
+  "d": 3,
+  "t": "Jeux de société"
+ },
+ {
+  "id": "spo_f_2-074",
+  "q": "Quel sentier de grande randonnée traverse les Alpes françaises du lac Léman à Nice ?",
+  "r": "Le GR 5",
+  "d": 3,
+  "t": "Randonnée"
+ },
+ {
+  "id": "spo_f_2-075",
+  "q": "Comment appelle-t-on en Espagne l'omelette épaisse aux pommes de terre, souvent servie en parts ?",
+  "r": "La tortilla",
+  "d": 1,
+  "t": "Cuisine du monde"
+ },
+ {
+  "id": "spo_f_2-076",
+  "q": "Quel jeu de pose de tuiles de 2000 porte le nom d'une cité médiévale fortifiée de l'Aude ?",
+  "r": "Carcassonne",
+  "d": 1,
+  "t": "Jeux de société"
+ },
+ {
+  "id": "spo_f_2-077",
+  "q": "Quel chapeau rond et rigide est indissociable de Charlot, le personnage de Charlie Chaplin ?",
+  "r": "Le chapeau melon",
+  "d": 1,
+  "t": "Mode"
+ },
+ {
+  "id": "spo_f_2-078",
+  "q": "Comment appelle-t-on le modèle en papier qui sert à découper les pièces d'un vêtement ?",
+  "r": "Le patron",
+  "d": 1,
+  "t": "Couture"
+ },
+ {
+  "id": "spo_f_2-079",
+  "q": "Comment appelle-t-on un arbre fruitier dont les branches sont palissées à plat contre un mur ou un treillage ?",
+  "r": "Un espalier",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "id": "spo_f_2-080",
+  "q": "Quelle marque française doit son nom au moulin à légumes breveté par Jean Mantelet en 1932 ?",
+  "r": "Moulinex",
+  "d": 2,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "id": "spo_f_2-081",
+  "q": "Quel chapeau de feutre à bord souple et calotte pincée est porté par Indiana Jones ?",
+  "r": "Le fedora",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "id": "spo_f_2-082",
+  "q": "Quelle crêpe roulée, garnie de jambon et de champignons puis gratinée à la crème, est une spécialité d'Amiens ?",
+  "r": "La ficelle picarde",
+  "d": 3,
+  "t": "Gastronomie française"
+ },
+ {
+  "id": "spo_f_2-083",
+  "q": "Quel jeu d'adresse consiste à retirer une à une de fines baguettes sans faire bouger les autres ?",
+  "r": "Le mikado",
+  "d": 1,
+  "t": "Jeux de société"
+ },
+ {
+  "id": "spo_f_2-084",
+  "q": "Dans quel jeu de parcours d'origine indienne monte-t-on par des échelles et redescend-on par des reptiles ?",
+  "r": "Serpents et échelles",
+  "d": 2,
+  "t": "Jeux de société"
+ },
+ {
+  "id": "spo_f_2-085",
+  "q": "Quelle marque française a lancé en 1953 l'autocuiseur baptisé « Cocotte-Minute » ?",
+  "r": "SEB",
+  "d": 2,
+  "t": "Ustensiles de cuisine"
+ }
+]

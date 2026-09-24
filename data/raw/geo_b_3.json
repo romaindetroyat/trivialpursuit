@@ -1,539 +1,629 @@
 [
  {
+  "id": "geo_b_3-001",
   "q": "Quel est le plus long fleuve d'Afrique ?",
   "r": "Le Nil",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_3-002",
   "q": "Dans quelle capitale africaine le Nil Blanc et le Nil Bleu se rejoignent-ils ?",
   "r": "Khartoum",
   "d": 2,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_3-003",
   "q": "De quel lac éthiopien le Nil Bleu prend-il sa source ?",
   "r": "Le lac Tana",
   "d": 3,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_3-004",
   "q": "Quel est le plus grand lac d'Afrique ?",
   "r": "Le lac Victoria",
   "d": 1,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_3-005",
   "q": "Quel est le point culminant de l'Afrique ?",
   "r": "Le Kilimandjaro",
   "d": 1,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_3-006",
   "q": "Dans quel pays se dresse le Kilimandjaro ?",
   "r": "La Tanzanie",
   "d": 1,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_3-007",
   "q": "Quel est le plus grand désert chaud du monde ?",
   "r": "Le Sahara",
   "d": 1,
   "t": "Déserts"
  },
  {
+  "id": "geo_b_3-008",
   "q": "Quel désert côtier de Namibie est célèbre pour les dunes rouges de Sossusvlei ?",
   "r": "Le Namib",
   "d": 2,
   "t": "Déserts"
  },
  {
+  "id": "geo_b_3-009",
   "q": "Quel désert semi-aride couvre une grande partie du Botswana ?",
   "r": "Le Kalahari",
   "d": 2,
   "t": "Déserts"
  },
  {
+  "id": "geo_b_3-010",
   "q": "Quelles chutes du Zambèze sont appelées localement « la fumée qui gronde » ?",
   "r": "Les chutes Victoria",
   "d": 1,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_3-011",
   "q": "Entre quels deux pays se trouvent les chutes Victoria ?",
   "r": "La Zambie et le Zimbabwe",
   "d": 2,
   "t": "Frontières"
  },
  {
+  "id": "geo_b_3-012",
   "q": "Quel grand fleuve d'Afrique de l'Ouest arrose Bamako et Niamey ?",
   "r": "Le Niger",
   "d": 2,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_3-013",
   "q": "Quel fleuve sépare Kinshasa de Brazzaville ?",
   "r": "Le Congo",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_3-014",
   "q": "Quel fleuve marque la frontière entre l'Afrique du Sud et le Zimbabwe ?",
   "r": "Le Limpopo",
   "d": 3,
   "t": "Frontières"
  },
  {
+  "id": "geo_b_3-015",
   "q": "Quelle est la capitale du Sénégal ?",
   "r": "Dakar",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-016",
   "q": "Quelle petite île face à Dakar, avec sa Maison des esclaves, est un lieu de mémoire de la traite négrière ?",
   "r": "L'île de Gorée",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-017",
   "q": "Quelle est la capitale du Mali ?",
   "r": "Bamako",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-018",
   "q": "Quelle ville malienne, surnommée « la cité des 333 saints », fut un grand foyer intellectuel de l'islam ?",
   "r": "Tombouctou",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_3-019",
   "q": "Dans quelle ville malienne se dresse la Grande Mosquée, plus grand édifice en terre crue du monde ?",
   "r": "Djenné",
   "d": 2,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_3-020",
   "q": "Quelle est la capitale du Burkina Faso ?",
   "r": "Ouagadougou",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-021",
   "q": "Quel nom portait le Burkina Faso avant 1984 ?",
   "r": "La Haute-Volta",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-022",
   "q": "Quelle est la plus grande ville et la capitale économique de la Côte d'Ivoire ?",
   "r": "Abidjan",
   "d": 1,
   "t": "Villes"
  },
  {
+  "id": "geo_b_3-023",
   "q": "Dans quelle ville ivoirienne se dresse la basilique Notre-Dame-de-la-Paix, inspirée de Saint-Pierre de Rome ?",
   "r": "Yamoussoukro",
   "d": 2,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_3-024",
   "q": "Quelle est la capitale du Niger ?",
   "r": "Niamey",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-025",
   "q": "Quelle est la capitale du Tchad ?",
   "r": "N'Djaména",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-026",
   "q": "Quel lac partagé par quatre pays, dont le Niger et le Cameroun, a vu sa surface fondre depuis les années 1960 ?",
   "r": "Le lac Tchad",
   "d": 2,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_3-027",
   "q": "Quelle est la capitale du Cameroun ?",
   "r": "Yaoundé",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-028",
   "q": "Quelle ville est le principal port et la capitale économique du Cameroun ?",
   "r": "Douala",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_3-029",
   "q": "Quelle est la capitale du Gabon ?",
   "r": "Libreville",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-030",
   "q": "Dans quelle ville du Gabon le docteur Albert Schweitzer fonda-t-il son hôpital ?",
   "r": "Lambaréné",
   "d": 3,
   "t": "Villes"
  },
  {
+  "id": "geo_b_3-031",
   "q": "Quelle est la capitale de la république démocratique du Congo ?",
   "r": "Kinshasa",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-032",
   "q": "Quel nom portait la république démocratique du Congo de 1971 à 1997 ?",
   "r": "Le Zaïre",
   "d": 1,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-033",
   "q": "Quelle capitale africaine porte le nom d'un explorateur français d'origine italienne ?",
   "r": "Brazzaville",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-034",
   "q": "Quelle est la capitale de la Guinée ?",
   "r": "Conakry",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-035",
   "q": "Quel massif guinéen est surnommé le « château d'eau de l'Afrique de l'Ouest » ?",
   "r": "Le Fouta-Djalon",
   "d": 3,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_3-036",
   "q": "Quelle ville est la capitale officielle du Bénin, bien que le gouvernement siège à Cotonou ?",
   "r": "Porto-Novo",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-037",
   "q": "Quelle est la capitale du Togo ?",
   "r": "Lomé",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-038",
   "q": "Quelle est la capitale du Ghana ?",
   "r": "Accra",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-039",
   "q": "Sous quel nom le Ghana était-il connu à l'époque coloniale britannique ?",
   "r": "La Côte-de-l'Or (Gold Coast)",
   "d": 3,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-040",
   "q": "Quelle ville a officiellement remplacé Lagos comme capitale du Nigeria en 1991 ?",
   "r": "Abuja",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-041",
   "q": "Quel est le seul pays d'Afrique à avoir l'espagnol pour langue officielle ?",
   "r": "La Guinée équatoriale",
   "d": 2,
   "t": "Langues"
  },
  {
+  "id": "geo_b_3-042",
   "q": "Quelle est la capitale de la Mauritanie ?",
   "r": "Nouakchott",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-043",
   "q": "Quel archipel lusophone de l'Atlantique, au large du Sénégal, a pour capitale Praia ?",
   "r": "Le Cap-Vert",
   "d": 2,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-044",
   "q": "Quel pays d'Afrique de l'Ouest, fondé par d'anciens esclaves affranchis venus des États-Unis, a pour capitale Monrovia ?",
   "r": "Le Liberia",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-045",
   "q": "Quelle est la capitale de la Sierra Leone ?",
   "r": "Freetown",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-046",
   "q": "Quel petit pays anglophone, étiré le long d'un fleuve, est presque entièrement enclavé dans le Sénégal ?",
   "r": "La Gambie",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-047",
   "q": "Quelle est la capitale de l'Éthiopie ?",
   "r": "Addis-Abeba",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-048",
   "q": "Quelle ville éthiopienne est célèbre pour ses églises monolithes taillées dans la roche au Moyen Âge ?",
   "r": "Lalibela",
   "d": 3,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_3-049",
   "q": "Quelle est la capitale du Kenya ?",
   "r": "Nairobi",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-050",
   "q": "Quel parc national tanzanien, dont le nom signifie « plaine sans fin » en maa, est célèbre pour la grande migration des gnous ?",
   "r": "Le Serengeti",
   "d": 1,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_3-051",
   "q": "Quel immense cratère volcanique de Tanzanie abrite une forte concentration d'animaux sauvages ?",
   "r": "Le Ngorongoro",
   "d": 2,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_3-052",
   "q": "Quelle île tanzanienne de l'océan Indien, dont la vieille ville s'appelle Stone Town, est surnommée « l'île aux épices » ?",
   "r": "Zanzibar",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-053",
   "q": "Quelle langue bantoue, largement parlée en Afrique de l'Est, est officielle au Kenya et en Tanzanie ?",
   "r": "Le swahili",
   "d": 1,
   "t": "Langues"
  },
  {
+  "id": "geo_b_3-054",
   "q": "Quelle ville est la capitale officielle de la Tanzanie, à la place de Dar es Salaam ?",
   "r": "Dodoma",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-055",
   "q": "Quelle est la capitale de l'Ouganda ?",
   "r": "Kampala",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-056",
   "q": "Quel massif entre l'Ouganda et la RDC est surnommé les « montagnes de la Lune » ?",
   "r": "Le Rwenzori",
   "d": 3,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_3-057",
   "q": "Quelle est la capitale du Rwanda ?",
   "r": "Kigali",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-058",
   "q": "Quel très long lac d'Afrique est bordé par la Tanzanie, le Burundi, la RDC et la Zambie ?",
   "r": "Le lac Tanganyika",
   "d": 2,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_3-059",
   "q": "Comment appelle-t-on la grande fracture géologique qui traverse l'Afrique de l'Est du nord au sud ?",
   "r": "Le Grand Rift",
   "d": 2,
   "t": "Paysages"
  },
  {
+  "id": "geo_b_3-060",
   "q": "Quelle est la capitale de la Somalie ?",
   "r": "Mogadiscio",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-061",
   "q": "Quel petit pays francophone de la Corne de l'Afrique porte le même nom que sa capitale ?",
   "r": "Djibouti",
   "d": 1,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-062",
   "q": "Quel lac salé de Djibouti constitue le point le plus bas du continent africain ?",
   "r": "Le lac Assal",
   "d": 3,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_3-063",
   "q": "Quelle est la capitale de l'Érythrée ?",
   "r": "Asmara",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-064",
   "q": "Quelle ville est devenue capitale du Soudan du Sud lors de son indépendance en 2011 ?",
   "r": "Djouba",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-065",
   "q": "Quelle ville sud-africaine est dominée par la montagne de la Table ?",
   "r": "Le Cap",
   "d": 1,
   "t": "Villes"
  },
  {
+  "id": "geo_b_3-066",
   "q": "Quel cap, doublé par Bartolomeu Dias en 1488, fut d'abord baptisé « cap des Tempêtes » ?",
   "r": "Le cap de Bonne-Espérance",
   "d": 2,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_3-067",
   "q": "Quel cap marque le point le plus méridional du continent africain ?",
   "r": "Le cap des Aiguilles",
   "d": 3,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_3-068",
   "q": "Quelle ville sud-africaine est la capitale administrative et le siège du gouvernement ?",
   "r": "Pretoria",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-069",
   "q": "Sur quelle île au large du Cap Nelson Mandela fut-il emprisonné pendant dix-huit ans ?",
   "r": "Robben Island",
   "d": 2,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-070",
   "q": "Quelle métropole sud-africaine est née de la ruée vers l'or du Witwatersrand en 1886 ?",
   "r": "Johannesburg",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_3-071",
   "q": "Comment s'appelle la monnaie de l'Afrique du Sud ?",
   "r": "Le rand",
   "d": 2,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_3-072",
   "q": "Quel royaume montagneux est entièrement enclavé dans l'Afrique du Sud ?",
   "r": "Le Lesotho",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-073",
   "q": "Sous quel nom l'Eswatini était-il connu avant 2018 ?",
   "r": "Le Swaziland",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-074",
   "q": "Quel grand parc national d'Afrique du Sud longe la frontière avec le Mozambique ?",
   "r": "Le parc Kruger",
   "d": 2,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_3-075",
   "q": "Quel delta intérieur du Botswana se perd dans les sables sans jamais atteindre la mer ?",
   "r": "Le delta de l'Okavango",
   "d": 2,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_3-076",
   "q": "Quelle est la capitale de la Namibie ?",
   "r": "Windhoek",
   "d": 3,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-077",
   "q": "Quelle est la capitale du Zimbabwe ?",
   "r": "Harare",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-078",
   "q": "Sous quel nom le Zimbabwe était-il connu avant son indépendance en 1980 ?",
   "r": "La Rhodésie",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-079",
   "q": "Quel grand lac de barrage sur le Zambèze est partagé entre la Zambie et le Zimbabwe ?",
   "r": "Le lac Kariba",
   "d": 3,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_3-080",
   "q": "Quelle est la capitale du Mozambique ?",
   "r": "Maputo",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-081",
   "q": "Quelle langue est officielle à la fois en Angola et au Mozambique ?",
   "r": "Le portugais",
   "d": 1,
   "t": "Langues"
  },
  {
+  "id": "geo_b_3-082",
   "q": "Quelle est la capitale de l'Angola ?",
   "r": "Luanda",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-083",
   "q": "Quel pays d'Afrique australe a pour capitale Lilongwe et longe le lac Nyassa ?",
   "r": "Le Malawi",
   "d": 3,
   "t": "Pays"
  },
  {
+  "id": "geo_b_3-084",
   "q": "Quelle est la capitale de Madagascar ?",
   "r": "Antananarivo",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_3-085",
   "q": "Quels primates endémiques, comme le maki catta, sont emblématiques de Madagascar ?",
   "r": "Les lémuriens",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-086",
   "q": "Quelle île de l'océan Indien, patrie du dodo disparu, a pour capitale Port-Louis ?",
   "r": "Maurice",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-087",
   "q": "Quel archipel de l'océan Indien a pour capitale Victoria, sur l'île de Mahé ?",
   "r": "Les Seychelles",
   "d": 2,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-088",
   "q": "Quel archipel de l'océan Indien, entre Madagascar et le Mozambique, a pour capitale Moroni ?",
   "r": "Les Comores",
   "d": 2,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-089",
   "q": "Quelle est la plus grande île d'Afrique ?",
   "r": "Madagascar",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_3-090",
   "q": "Quel immense lac de barrage du Ghana, formé par le barrage d'Akosombo, est l'un des plus vastes réservoirs du monde ?",
   "r": "Le lac Volta",
   "d": 3,

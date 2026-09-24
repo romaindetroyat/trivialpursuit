@@ -1,0 +1,597 @@
+[
+ {
+  "id": "his_d_4-001",
+  "q": "Comment appelle-t-on les sculptures en saillie des cathédrales servant à évacuer l'eau de pluie ?",
+  "r": "Les gargouilles",
+  "d": 1,
+  "t": "Arts médiévaux"
+ },
+ {
+  "id": "his_d_4-002",
+  "q": "Quel deuxième roi légendaire de Rome, successeur de Romulus, aurait organisé la religion romaine ?",
+  "r": "Numa Pompilius",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-003",
+  "q": "Quel nom les Romains donnaient-ils à la Gaule non encore conquise, par opposition à la Narbonnaise ?",
+  "r": "La Gaule chevelue",
+  "d": 3,
+  "t": "Gaule antique"
+ },
+ {
+  "id": "his_d_4-004",
+  "q": "Quel sage chinois est considéré comme le fondateur du taoïsme ?",
+  "r": "Lao-tseu",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "id": "his_d_4-005",
+  "q": "Quel immense monument bouddhiste du IXe siècle se trouve sur l'île de Java ?",
+  "r": "Borobudur",
+  "d": 2,
+  "t": "Asie médiévale"
+ },
+ {
+  "id": "his_d_4-006",
+  "q": "Quel châtiment consistait à exécuter un soldat sur dix dans une unité romaine qui avait failli ?",
+  "r": "La décimation",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-007",
+  "q": "Quelle arme de trait le concile de Latran II interdit-il en 1139 dans les combats entre chrétiens ?",
+  "r": "L'arbalète",
+  "d": 2,
+  "t": "Guerre médiévale"
+ },
+ {
+  "id": "his_d_4-008",
+  "q": "Quel égyptologue français, découvreur du Sérapéum de Saqqarah, a imaginé l'argument de l'opéra Aïda ?",
+  "r": "Auguste Mariette",
+  "d": 3,
+  "t": "Égypte ancienne"
+ },
+ {
+  "id": "his_d_4-009",
+  "q": "Quelle princesse, fille du grand-prince de Kiev, épousa le roi de France Henri Ier en 1051 ?",
+  "r": "Anne de Kiev",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "id": "his_d_4-010",
+  "q": "Quelle dynastie, issue des comtes d'Anjou, régna sur l'Angleterre à partir d'Henri II ?",
+  "r": "Les Plantagenêts",
+  "d": 1,
+  "t": "Dynasties"
+ },
+ {
+  "id": "his_d_4-011",
+  "q": "Dans quelle ville d'Arabie se trouve la tombe du prophète Mahomet ?",
+  "r": "Médine",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "id": "his_d_4-012",
+  "q": "Quelle étoffe précieuse les Chinois gardèrent-ils secrète pendant des siècles ?",
+  "r": "La soie",
+  "d": 1,
+  "t": "Chine ancienne"
+ },
+ {
+  "id": "his_d_4-013",
+  "q": "À quel poète grec, dit aveugle, attribue-t-on l'Iliade et l'Odyssée ?",
+  "r": "Homère",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "id": "his_d_4-014",
+  "q": "Quelle petite monnaie médiévale, valant un demi-denier, se retrouve dans l'expression « avoir ... à partir » ?",
+  "r": "La maille",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_d_4-015",
+  "q": "Quel poète satirique romain a dénoncé un peuple qui ne réclamait plus que « du pain et des jeux » ?",
+  "r": "Juvénal",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-016",
+  "q": "Quel pigment minéral, du jaune au rouge, fut le plus employé par les peintres des grottes ornées ?",
+  "r": "L'ocre",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "id": "his_d_4-017",
+  "q": "Quel dieu égyptien à tête de faucon était le fils d'Isis et d'Osiris ?",
+  "r": "Horus",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "id": "his_d_4-018",
+  "q": "Quelle dynastie accéda au trône d'Angleterre avec Henri VII en 1485 ?",
+  "r": "Les Tudor",
+  "d": 1,
+  "t": "Dynasties"
+ },
+ {
+  "id": "his_d_4-019",
+  "q": "Quelle bataille terrestre de 479 av. J.-C. mit fin à l'invasion perse de Xerxès en Grèce ?",
+  "r": "Platées",
+  "d": 3,
+  "t": "Batailles antiques"
+ },
+ {
+  "id": "his_d_4-020",
+  "q": "Quelle impératrice byzantine, ancienne actrice, raffermit Justinien lors de la sédition Nika en 532 ?",
+  "r": "Théodora",
+  "d": 2,
+  "t": "Byzance"
+ },
+ {
+  "id": "his_d_4-021",
+  "q": "Quel compagnon de Jeanne d'Arc a prêté son surnom au valet de cœur des cartes à jouer françaises ?",
+  "r": "La Hire",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "id": "his_d_4-022",
+  "q": "Quel officier de la légion romaine, reconnaissable à la crête transversale de son casque, commandait une centurie ?",
+  "r": "Le centurion",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-023",
+  "q": "Quel dramaturge grec est l'auteur de la tragédie Œdipe roi ?",
+  "r": "Sophocle",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "id": "his_d_4-024",
+  "q": "Quel dieu mésoaméricain était représenté sous la forme d'un serpent à plumes ?",
+  "r": "Quetzalcóatl",
+  "d": 1,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "id": "his_d_4-025",
+  "q": "Quel mur de Jérusalem, lieu de prière juif, est un vestige de l'esplanade du Second Temple ?",
+  "r": "Le mur des Lamentations",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "id": "his_d_4-026",
+  "q": "Quel roi anglo-saxon fut tué à la bataille de Hastings en 1066 ?",
+  "r": "Harold II (Godwinson)",
+  "d": 2,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "id": "his_d_4-027",
+  "q": "Quelle boisson fermentée à base d'orge, sans houblon, buvaient les Gaulois et les paysans médiévaux ?",
+  "r": "La cervoise",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-028",
+  "q": "Dans quel pays se trouve le site archéologique de Troie ?",
+  "r": "La Turquie",
+  "d": 1,
+  "t": "Villes antiques"
+ },
+ {
+  "id": "his_d_4-029",
+  "q": "Sur quelle île se dressait le phare d'Alexandrie, qui a donné son nom à tous les phares ?",
+  "r": "Pharos",
+  "d": 2,
+  "t": "Merveilles du monde"
+ },
+ {
+  "id": "his_d_4-030",
+  "q": "Comment appelle-t-on les trois guerres qui opposèrent Rome à Carthage ?",
+  "r": "Les guerres puniques",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-031",
+  "q": "Quelle reine franque, mère de Charlemagne, est restée célèbre sous un surnom évoquant la taille de son pied ?",
+  "r": "Berthe (au grand pied)",
+  "d": 2,
+  "t": "Carolingiens"
+ },
+ {
+  "id": "his_d_4-032",
+  "q": "Quel champignon parasite du seigle provoquait au Moyen Âge le « mal des ardents » ?",
+  "r": "L'ergot de seigle",
+  "d": 3,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-033",
+  "q": "Sur quelle épaisse tranche de pain posait-on la viande dans les banquets médiévaux ?",
+  "r": "Le tranchoir",
+  "d": 3,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-034",
+  "q": "Près de quel lac d'Italie Hannibal tendit-il une embuscade meurtrière aux Romains en 217 av. J.-C. ?",
+  "r": "Le lac Trasimène",
+  "d": 3,
+  "t": "Batailles antiques"
+ },
+ {
+  "id": "his_d_4-035",
+  "q": "Quel roi de Lydie, d'une richesse proverbiale, a donné son nom à une expression désignant un homme très riche ?",
+  "r": "Crésus",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_d_4-036",
+  "q": "Quel architecte romain, auteur du traité De architectura, a inspiré à Léonard de Vinci un célèbre dessin d'homme inscrit dans un cercle et un carré ?",
+  "r": "Vitruve",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-037",
+  "q": "Dans quels vases les Égyptiens conservaient-ils les viscères des défunts momifiés ?",
+  "r": "Les vases canopes",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "id": "his_d_4-038",
+  "q": "Quel empereur romain, successeur d'Auguste, passa la fin de son règne retiré à Capri ?",
+  "r": "Tibère",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-039",
+  "q": "Quel long poème allégorique du XIIIe siècle fut commencé par Guillaume de Lorris et achevé par Jean de Meun ?",
+  "r": "Le Roman de la Rose",
+  "d": 2,
+  "t": "Arts médiévaux"
+ },
+ {
+  "id": "his_d_4-040",
+  "q": "Quelle ville italienne abrite l'université considérée comme la plus ancienne d'Europe, traditionnellement datée de 1088 ?",
+  "r": "Bologne",
+  "d": 2,
+  "t": "Savoirs médiévaux"
+ },
+ {
+  "id": "his_d_4-041",
+  "q": "Comment appelait-on à Rome les membres des vieilles familles aristocratiques, par opposition aux plébéiens ?",
+  "r": "Les patriciens",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-042",
+  "q": "Comment appelle-t-on les populations qui vivent de la chasse, de la pêche et de la collecte de plantes sauvages ?",
+  "r": "Les chasseurs-cueilleurs",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "id": "his_d_4-043",
+  "q": "Lors de quelle bataille de la Beauce, en juin 1429, les archers anglais de Talbot furent-ils écrasés ?",
+  "r": "Patay",
+  "d": 3,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "id": "his_d_4-044",
+  "q": "Quelle roche de Saône-et-Loire, gravie chaque année par François Mitterrand, a donné son nom à une culture du Paléolithique ?",
+  "r": "La roche de Solutré",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "id": "his_d_4-045",
+  "q": "Quel artisan chinois du XIe siècle inventa des caractères d'imprimerie mobiles en argile cuite ?",
+  "r": "Bi Sheng",
+  "d": 3,
+  "t": "Inventions"
+ },
+ {
+  "id": "his_d_4-046",
+  "q": "Comment appelle-t-on le seigneur dont un vassal tient son fief ?",
+  "r": "Le suzerain",
+  "d": 1,
+  "t": "Féodalité"
+ },
+ {
+  "id": "his_d_4-047",
+  "q": "Selon la théorie des humeurs, quelle humeur en excès était censée rendre mélancolique ?",
+  "r": "La bile noire",
+  "d": 3,
+  "t": "Sciences médiévales"
+ },
+ {
+  "id": "his_d_4-048",
+  "q": "Quelle machine de siège médiévale projetait des pierres grâce à un lourd contrepoids ?",
+  "r": "Le trébuchet",
+  "d": 2,
+  "t": "Guerre médiévale"
+ },
+ {
+  "id": "his_d_4-049",
+  "q": "Comment appelle-t-on l'art de chasser avec des rapaces dressés, très prisé de la noblesse médiévale ?",
+  "r": "La fauconnerie",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-050",
+  "q": "Quelle expression, héritée de la condition des serfs, désigne une personne exploitée sans limite ?",
+  "r": "Taillable et corvéable à merci",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_d_4-051",
+  "q": "Quel gibet monumental se dressait au nord de Paris au Moyen Âge ?",
+  "r": "Montfaucon",
+  "d": 2,
+  "t": "Villes médiévales"
+ },
+ {
+  "id": "his_d_4-052",
+  "q": "Quel coquillage était le signe de reconnaissance des pèlerins de Compostelle ?",
+  "r": "La coquille Saint-Jacques",
+  "d": 1,
+  "t": "Religions"
+ },
+ {
+  "id": "his_d_4-053",
+  "q": "Quel mémorialiste servit Charles le Téméraire avant de passer au service de Louis XI ?",
+  "r": "Philippe de Commynes",
+  "d": 3,
+  "t": "Personnages médiévaux"
+ },
+ {
+  "id": "his_d_4-054",
+  "q": "Comment appelle-t-on la rotation des cultures sur trois parcelles, répandue au Moyen Âge ?",
+  "r": "L'assolement triennal",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-055",
+  "q": "Quel compagnon de Jeanne d'Arc était surnommé le « Bâtard d'Orléans » ?",
+  "r": "Jean de Dunois",
+  "d": 3,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "id": "his_d_4-056",
+  "q": "Quelle région en forme d'arc, de la vallée du Nil au golfe Persique, a vu naître l'agriculture au Proche-Orient ?",
+  "r": "Le Croissant fertile",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "id": "his_d_4-057",
+  "q": "Quel historien grec a raconté dans l'Anabase la retraite des Dix Mille ?",
+  "r": "Xénophon",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "id": "his_d_4-058",
+  "q": "Quel impôt royal sur le sel, instauré au XIVe siècle, fut l'un des plus détestés de l'Ancien Régime ?",
+  "r": "La gabelle",
+  "d": 1,
+  "t": "Féodalité"
+ },
+ {
+  "id": "his_d_4-059",
+  "q": "Quel mois de l'année doit son nom à l'empereur Auguste ?",
+  "r": "Août",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-060",
+  "q": "Quelle boisson alcoolisée obtenue par fermentation de miel et d'eau était prisée des Celtes et des Vikings ?",
+  "r": "L'hydromel",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-061",
+  "q": "Quel orfèvre et conseiller du roi Dagobert est devenu le saint patron des orfèvres ?",
+  "r": "Saint Éloi",
+  "d": 2,
+  "t": "Mérovingiens"
+ },
+ {
+  "id": "his_d_4-062",
+  "q": "Quel site du sud-est de la Turquie, vieux de plus de 11 000 ans, est souvent présenté comme le plus ancien sanctuaire monumental connu ?",
+  "r": "Göbekli Tepe",
+  "d": 3,
+  "t": "Préhistoire"
+ },
+ {
+  "id": "his_d_4-063",
+  "q": "Quel dictateur romain, rival de Marius, fit afficher des listes de proscription ?",
+  "r": "Sylla",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-064",
+  "q": "Quel Romain, appelé à la dictature alors qu'il labourait son champ, retourna à sa charrue après sa victoire ?",
+  "r": "Cincinnatus",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "id": "his_d_4-065",
+  "q": "Quel mélange de terre argileuse et de paille servait à garnir les murs des maisons à pans de bois ?",
+  "r": "Le torchis",
+  "d": 1,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-066",
+  "q": "Quelle saga romanesque de Maurice Druon raconte la fin des Capétiens directs ?",
+  "r": "Les Rois maudits",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "id": "his_d_4-067",
+  "q": "Dans quelle forêt anglaise vivait, selon la légende, le hors-la-loi Robin des Bois ?",
+  "r": "Sherwood",
+  "d": 1,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "id": "his_d_4-068",
+  "q": "Quel peuple a donné son nom à une expression désignant un travail long et colossal ?",
+  "r": "Les Romains",
+  "d": 1,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_d_4-069",
+  "q": "Quelle dynastie, dont le château d'origine se trouve en Suisse, accéda au trône du Saint-Empire avec Rodolphe Ier en 1273 ?",
+  "r": "Les Habsbourg",
+  "d": 2,
+  "t": "Dynasties"
+ },
+ {
+  "id": "his_d_4-070",
+  "q": "Quel prédicateur picard entraîna la « croisade populaire » de 1096 ?",
+  "r": "Pierre l'Ermite",
+  "d": 2,
+  "t": "Croisades"
+ },
+ {
+  "id": "his_d_4-071",
+  "q": "Comment s'appelaient les envoyés de Charlemagne qui inspectaient l'empire deux par deux ?",
+  "r": "Les missi dominici",
+  "d": 2,
+  "t": "Carolingiens"
+ },
+ {
+  "id": "his_d_4-072",
+  "q": "Quel traité de 1360 céda à l'Angleterre de vastes territoires contre la libération de Jean le Bon ?",
+  "r": "Le traité de Brétigny",
+  "d": 3,
+  "t": "Traités"
+ },
+ {
+  "id": "his_d_4-073",
+  "q": "Quel animal le calife Haroun al-Rachid offrit-il à Charlemagne ?",
+  "r": "Un éléphant",
+  "d": 2,
+  "t": "Carolingiens"
+ },
+ {
+  "id": "his_d_4-074",
+  "q": "À quel peuple gaulois, qui a donné son nom à l'Auvergne, appartenait Vercingétorix ?",
+  "r": "Les Arvernes",
+  "d": 1,
+  "t": "Gaule antique"
+ },
+ {
+  "id": "his_d_4-075",
+  "q": "Quelle couleur de toge portaient les Romains qui briguaient une magistrature, d'où le mot « candidat » ?",
+  "r": "Blanche",
+  "d": 2,
+  "t": "Expressions historiques"
+ },
+ {
+  "id": "his_d_4-076",
+  "q": "Quel empereur byzantin fut surnommé le « Tueur de Bulgares » ?",
+  "r": "Basile II",
+  "d": 3,
+  "t": "Byzance"
+ },
+ {
+  "id": "his_d_4-077",
+  "q": "Quel philosophe cynique, qui vivait dans une jarre, aurait demandé à Alexandre de s'ôter de son soleil ?",
+  "r": "Diogène",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "id": "his_d_4-078",
+  "q": "Comment appelle-t-on l'ouvrage que devait réaliser un compagnon pour être reçu maître dans son métier ?",
+  "r": "Le chef-d'œuvre",
+  "d": 2,
+  "t": "Vie quotidienne"
+ },
+ {
+  "id": "his_d_4-079",
+  "q": "Devant quelle ville de l'Oise Jeanne d'Arc fut-elle capturée par les Bourguignons en 1430 ?",
+  "r": "Compiègne",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "id": "his_d_4-080",
+  "q": "Quelle déesse égyptienne était représentée sous la forme d'une chatte ou d'une femme à tête de chat ?",
+  "r": "Bastet",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "id": "his_d_4-081",
+  "q": "Quelle basilique au nord de Paris abrite la nécropole des rois de France ?",
+  "r": "La basilique Saint-Denis",
+  "d": 1,
+  "t": "Royauté"
+ },
+ {
+  "id": "his_d_4-082",
+  "q": "Quel philosophe grec fonda l'Académie à Athènes vers 387 av. J.-C. ?",
+  "r": "Platon",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "id": "his_d_4-083",
+  "q": "Quel scandale de 1314 vit les belles-filles de Philippe le Bel accusées d'adultère ?",
+  "r": "L'affaire de la tour de Nesle",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "id": "his_d_4-084",
+  "q": "Comment appelle-t-on le conflit qui opposa papes et empereurs aux XIe et XIIe siècles sur la nomination des évêques ?",
+  "r": "La querelle des Investitures",
+  "d": 2,
+  "t": "Religions"
+ },
+ {
+  "id": "his_d_4-085",
+  "q": "Quelle juridiction de l'Église fut créée au XIIIe siècle pour rechercher et juger les hérétiques ?",
+  "r": "L'Inquisition",
+  "d": 1,
+  "t": "Religions"
+ }
+]

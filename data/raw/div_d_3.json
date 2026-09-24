@@ -1,0 +1,597 @@
+[
+ {
+  "id": "div_d_3-001",
+  "q": "Dans « Les Indestructibles » (2004), quelle styliste de super-héros refuse catégoriquement les capes ?",
+  "r": "Edna Mode",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-002",
+  "q": "Quel film de James Cameron (1994), avec Arnold Schwarzenegger en espion, est le remake de « La Totale ! » de Claude Zidi ?",
+  "r": "True Lies",
+  "d": 3,
+  "t": "Remakes"
+ },
+ {
+  "id": "div_d_3-003",
+  "q": "Quelle actrice est devenue en 2002 la première Afro-Américaine à recevoir l'Oscar de la meilleure actrice ?",
+  "r": "Halle Berry",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_3-004",
+  "q": "Quel cinéaste français joue un scientifique dans « Rencontres du troisième type » (1977) de Steven Spielberg ?",
+  "r": "François Truffaut",
+  "d": 2,
+  "t": "Anecdotes de tournage"
+ },
+ {
+  "id": "div_d_3-005",
+  "q": "Quelle revue, fondée en 1951, a servi de tremplin aux futurs cinéastes de la Nouvelle Vague ?",
+  "r": "Les Cahiers du cinéma",
+  "d": 2,
+  "t": "Nouvelle Vague"
+ },
+ {
+  "id": "div_d_3-006",
+  "q": "Quelle actrice britannique incarne Scarlett O'Hara dans « Autant en emporte le vent » (1939) ?",
+  "r": "Vivien Leigh",
+  "d": 2,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "id": "div_d_3-007",
+  "q": "Comment appelle-t-on la technique d'animation image par image de figurines ou de pâte à modeler ?",
+  "r": "Le stop motion",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "id": "div_d_3-008",
+  "q": "Quelle réplique d'Osgood conclut « Certains l'aiment chaud » (1959) quand il apprend que sa fiancée est un homme ?",
+  "r": "« Personne n'est parfait »",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "id": "div_d_3-009",
+  "q": "Quel film d'Abderrahmane Sissako, se déroulant au Mali, a remporté sept César en 2015, dont celui du meilleur film ?",
+  "r": "Timbuktu",
+  "d": 3,
+  "t": "César"
+ },
+ {
+  "id": "div_d_3-010",
+  "q": "Comment appelle-t-on le cadrage d'un personnage coupé à mi-cuisse, popularisé par les westerns ?",
+  "r": "Le plan américain",
+  "d": 2,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-011",
+  "q": "Quel acteur moustachu incarne le mari rêveur d'« Un éléphant ça trompe énormément » (1976) ?",
+  "r": "Jean Rochefort",
+  "d": 3,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-012",
+  "q": "Quels grands studios de cinéma, inaugurés en 1937 près de Rome, ont accueilli le tournage de « Ben-Hur » (1959) ?",
+  "r": "Cinecittà",
+  "d": 2,
+  "t": "Lieux de tournage"
+ },
+ {
+  "id": "div_d_3-013",
+  "q": "Comment appelle-t-on la technique consistant à filmer de jour une scène censée se dérouler la nuit ?",
+  "r": "La nuit américaine",
+  "d": 2,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-014",
+  "q": "Quel courant cinématographique, né en Italie après la guerre, est illustré par « Rome, ville ouverte » et « Le Voleur de bicyclette » ?",
+  "r": "Le néoréalisme",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "id": "div_d_3-015",
+  "q": "Quel tueur de la saga « Vendredi 13 » porte un masque de gardien de but de hockey ?",
+  "r": "Jason Voorhees",
+  "d": 2,
+  "t": "Horreur"
+ },
+ {
+  "id": "div_d_3-016",
+  "q": "Comment s'appelle le tueur masqué de « Halloween » (1978) de John Carpenter ?",
+  "r": "Michael Myers",
+  "d": 2,
+  "t": "Horreur"
+ },
+ {
+  "id": "div_d_3-017",
+  "q": "Quelle amie d'enfance crie « Cours, Forrest, cours ! » au jeune Forrest Gump ?",
+  "r": "Jenny",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "id": "div_d_3-018",
+  "q": "Quel acteur incarne François Pignon, l'invité naïf du « Dîner de cons » (1998) ?",
+  "r": "Jacques Villeret",
+  "d": 1,
+  "t": "Comédies françaises"
+ },
+ {
+  "id": "div_d_3-019",
+  "q": "Comment appelle-t-on le sous-genre de l'horreur où un tueur masqué élimine un à un de jeunes gens ?",
+  "r": "Le slasher",
+  "d": 2,
+  "t": "Horreur"
+ },
+ {
+  "id": "div_d_3-020",
+  "q": "Dans quel pays du Maghreb ont été tournées les scènes de la planète Tatooine du premier « Star Wars » ?",
+  "r": "La Tunisie",
+  "d": 2,
+  "t": "Lieux de tournage"
+ },
+ {
+  "id": "div_d_3-021",
+  "q": "Quel film de James Cameron est devenu en 1998 le premier de l'histoire à dépasser le milliard de dollars de recettes mondiales ?",
+  "r": "Titanic",
+  "d": 1,
+  "t": "Films cultes"
+ },
+ {
+  "id": "div_d_3-022",
+  "q": "Quel film de Dominik Moll, sur l'enquête autour du meurtre d'une jeune femme, a reçu le César du meilleur film en 2023 ?",
+  "r": "La Nuit du 12",
+  "d": 3,
+  "t": "César"
+ },
+ {
+  "id": "div_d_3-023",
+  "q": "Quel romancier américain est l'auteur du livre « Jurassic Park », adapté par Spielberg en 1993 ?",
+  "r": "Michael Crichton",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_3-024",
+  "q": "Comment s'appellent les petites créatures jaunes en salopette de « Moi, moche et méchant » (2010) ?",
+  "r": "Les Minions",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-025",
+  "q": "Dans quel pays se déroule « Encanto » (2021) de Disney, l'histoire de la famille Madrigal ?",
+  "r": "La Colombie",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-026",
+  "q": "Quelle actrice française a été nommée à l'Oscar de la meilleure actrice pour « Elle » (2016) de Paul Verhoeven ?",
+  "r": "Isabelle Huppert",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_3-027",
+  "q": "Quel animal, fêté chaque 2 février en Pennsylvanie, est au cœur de la comédie « Un jour sans fin » ?",
+  "r": "La marmotte",
+  "d": 2,
+  "t": "Comédies"
+ },
+ {
+  "id": "div_d_3-028",
+  "q": "Comment s'appelle le crabe musicien, conseiller du roi Triton dans « La Petite Sirène » (1989) ?",
+  "r": "Sébastien",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-029",
+  "q": "Avec quel vin italien Hannibal Lecter dit-il avoir dégusté le foie d'un recenseur ?",
+  "r": "Du chianti",
+  "d": 2,
+  "t": "Répliques cultes"
+ },
+ {
+  "id": "div_d_3-030",
+  "q": "Quel acteur incarne César dans la trilogie marseillaise de Marcel Pagnol : « Marius », « Fanny » et « César » ?",
+  "r": "Raimu",
+  "d": 2,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-031",
+  "q": "Quelle actrice britannique incarne Rose, l'héroïne de « Titanic » (1997) ?",
+  "r": "Kate Winslet",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-032",
+  "q": "Quel petit droïde bleu et blanc s'exprime uniquement par des bips dans « Star Wars » ?",
+  "r": "R2-D2",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "id": "div_d_3-033",
+  "q": "Quel cinéaste a créé le personnage de François Pignon et réalisé « Le Dîner de cons » ?",
+  "r": "Francis Veber",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_3-034",
+  "q": "Quel film d'horreur japonais de 1998 met en scène une cassette vidéo maudite qui tue ses spectateurs au bout de sept jours ?",
+  "r": "Ring",
+  "d": 2,
+  "t": "Horreur"
+ },
+ {
+  "id": "div_d_3-035",
+  "q": "Quel cinéaste français a réalisé « Alien, la résurrection » (1997) à Hollywood ?",
+  "r": "Jean-Pierre Jeunet",
+  "d": 3,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_3-036",
+  "q": "Comment appelle-t-on l'enregistrement en studio, après le tournage, de dialogues qui remplacent le son direct ?",
+  "r": "La postsynchronisation",
+  "d": 3,
+  "t": "Doublage"
+ },
+ {
+  "id": "div_d_3-037",
+  "q": "Quel acteur d'origine hongroise incarne le comte Dracula dans le film de 1931 ?",
+  "r": "Bela Lugosi",
+  "d": 2,
+  "t": "Horreur"
+ },
+ {
+  "id": "div_d_3-038",
+  "q": "À quel personnage Dark Vador révèle-t-il « Je suis ton père » dans « L'Empire contre-attaque » (1980) ?",
+  "r": "Luke Skywalker",
+  "d": 1,
+  "t": "Répliques cultes"
+ },
+ {
+  "id": "div_d_3-039",
+  "q": "Quelle actrice française a reçu l'Oscar du meilleur second rôle en 1997 pour « Le Patient anglais » ?",
+  "r": "Juliette Binoche",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_3-040",
+  "q": "Comment appelle-t-on la relance d'une saga depuis le début, qui ignore les épisodes précédents ?",
+  "r": "Un reboot",
+  "d": 2,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-041",
+  "q": "Quel petit criquet sert de conscience à Pinocchio dans le film de Disney (1940) ?",
+  "r": "Jiminy Cricket",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-042",
+  "q": "Comment s'appelle le petit chien de Dorothy dans « Le Magicien d'Oz » (1939) ?",
+  "r": "Toto",
+  "d": 1,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_3-043",
+  "q": "Quel compositeur, rival jaloux de Mozart, est le narrateur d'« Amadeus » (1984) de Miloš Forman ?",
+  "r": "Antonio Salieri",
+  "d": 2,
+  "t": "Films historiques"
+ },
+ {
+  "id": "div_d_3-044",
+  "q": "Comment appelle-t-on la voix d'un narrateur qui commente l'action sans apparaître à l'écran ?",
+  "r": "La voix off",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-045",
+  "q": "Quel surnom la presse donne-t-elle au tueur en série que traque Clarice Starling dans « Le Silence des agneaux » ?",
+  "r": "Buffalo Bill",
+  "d": 3,
+  "t": "Personnages"
+ },
+ {
+  "id": "div_d_3-046",
+  "q": "Quel film de 1995 avec Robin Williams tourne autour d'un jeu de société qui fait surgir la jungle ?",
+  "r": "Jumanji",
+  "d": 1,
+  "t": "Films cultes"
+ },
+ {
+  "id": "div_d_3-047",
+  "q": "Dans quel film d'Hitchcock (1954) un photographe à la jambe plâtrée espionne-t-il ses voisins d'en face ?",
+  "r": "Fenêtre sur cour",
+  "d": 2,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "id": "div_d_3-048",
+  "q": "Quel acteur, célèbre pour avoir incarné Spock, a réalisé « Trois hommes et un bébé » (1987), remake d'un succès français ?",
+  "r": "Leonard Nimoy",
+  "d": 2,
+  "t": "Remakes"
+ },
+ {
+  "id": "div_d_3-049",
+  "q": "Comment s'appelle la fée malveillante qui jette un sort à la princesse Aurore dans « La Belle au bois dormant » (1959) ?",
+  "r": "Maléfique",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-050",
+  "q": "Dans « La Belle et la Bête » (1991) de Disney, quel chandelier chante « C'est la fête » ?",
+  "r": "Lumière",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-051",
+  "q": "Quel animal marin un jeune garçon aide-t-il à retrouver la liberté dans « Sauvez Willy » (1993) ?",
+  "r": "Une orque",
+  "d": 1,
+  "t": "Animaux de cinéma"
+ },
+ {
+  "id": "div_d_3-052",
+  "q": "Comment appelle-t-on un film à grand spectacle situé dans l'Antiquité, comme « Ben-Hur » ou « Spartacus » ?",
+  "r": "Un péplum",
+  "d": 1,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-053",
+  "q": "Quel court métrage de Chris Marker (1962), fait presque uniquement de photos fixes, a inspiré « L'Armée des douze singes » ?",
+  "r": "La Jetée",
+  "d": 3,
+  "t": "Remakes"
+ },
+ {
+  "id": "div_d_3-054",
+  "q": "Quel film allemand de 2003 montre un fils cachant la chute du mur de Berlin à sa mère sortie du coma ?",
+  "r": "Good Bye, Lenin!",
+  "d": 2,
+  "t": "Cinéma européen"
+ },
+ {
+  "id": "div_d_3-055",
+  "q": "Quelle ville imaginaire Batman protège-t-il ?",
+  "r": "Gotham City",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "id": "div_d_3-056",
+  "q": "Quelle actrice autrichienne, révélée par « Sissi », a tourné « Les Choses de la vie » (1970) avec Claude Sautet ?",
+  "r": "Romy Schneider",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-057",
+  "q": "Quelle personnalité détient le record de 22 Oscars remportés en compétition, obtenus entre 1932 et 1969 ?",
+  "r": "Walt Disney",
+  "d": 1,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_3-058",
+  "q": "Quel cinéaste mexicain a reçu l'Oscar de la meilleure réalisation deux années de suite, en 2015 et en 2016 ?",
+  "r": "Alejandro González Iñárritu",
+  "d": 3,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_3-059",
+  "q": "À quelle créature de feu Gandalf lance-t-il « Vous ne passerez pas ! » dans les mines de la Moria ?",
+  "r": "Le Balrog",
+  "d": 2,
+  "t": "Sagas"
+ },
+ {
+  "id": "div_d_3-060",
+  "q": "Quel film de Michael Curtiz, avec Humphrey Bogart et Ingrid Bergman, a reçu l'Oscar du meilleur film en 1944 ?",
+  "r": "Casablanca",
+  "d": 2,
+  "t": "Oscars"
+ },
+ {
+  "id": "div_d_3-061",
+  "q": "Quel film brésilien de 2002 décrit la violence d'une favela de Rio à travers le regard d'un jeune photographe ?",
+  "r": "La Cité de Dieu",
+  "d": 2,
+  "t": "Cinéma international"
+ },
+ {
+  "id": "div_d_3-062",
+  "q": "Quel acteur revit sans cesse la même journée dans « Un jour sans fin » (1993) ?",
+  "r": "Bill Murray",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-063",
+  "q": "Quel royaume africain imaginaire est la patrie de Black Panther ?",
+  "r": "Le Wakanda",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "id": "div_d_3-064",
+  "q": "Quel comédien français double à la fois le Génie d'« Aladdin » et Harrison Ford ?",
+  "r": "Richard Darbois",
+  "d": 3,
+  "t": "Doublage"
+ },
+ {
+  "id": "div_d_3-065",
+  "q": "Dans « Le Voyage de Chihiro », en quels animaux sont transformés les parents de l'héroïne ?",
+  "r": "En cochons",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-066",
+  "q": "Quel acteur canadien, célèbre pour ses grimaces, tient le rôle-titre de « The Mask » (1994) ?",
+  "r": "Jim Carrey",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-067",
+  "q": "À quelle race de chien japonaise appartient Hachikō, dont la fidélité a inspiré le film « Hatchi » (2009) ?",
+  "r": "Un akita",
+  "d": 3,
+  "t": "Animaux de cinéma"
+ },
+ {
+  "id": "div_d_3-068",
+  "q": "Comment appelle-t-on le genre de polars sombres américains des années 1940, baptisé ainsi par des critiques français ?",
+  "r": "Le film noir",
+  "d": 2,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-069",
+  "q": "Quel roman d'Émile Zola Claude Berri a-t-il adapté en 1993 avec Renaud et Gérard Depardieu ?",
+  "r": "Germinal",
+  "d": 1,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_3-070",
+  "q": "Dans « Shrek » (2001), quel animal bavard accompagne l'ogre dans sa quête ?",
+  "r": "Un âne",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-071",
+  "q": "Quel animal est Robin des Bois dans le dessin animé de Disney de 1973 ?",
+  "r": "Un renard",
+  "d": 1,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-072",
+  "q": "De quel écrivain « Diamants sur canapé » (1961), avec Audrey Hepburn, adapte-t-il un court roman ?",
+  "r": "Truman Capote",
+  "d": 3,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_3-073",
+  "q": "Comment s'appelle le demi-géant, garde-chasse de Poudlard, dans « Harry Potter » ?",
+  "r": "Hagrid",
+  "d": 1,
+  "t": "Sagas"
+ },
+ {
+  "id": "div_d_3-074",
+  "q": "Quel film de Christopher Nolan (2014) envoie des astronautes à travers un trou de ver situé près de Saturne ?",
+  "r": "Interstellar",
+  "d": 1,
+  "t": "Science-fiction"
+ },
+ {
+  "id": "div_d_3-075",
+  "q": "Comment appelle-t-on un film qui raconte des événements antérieurs à ceux d'un film déjà sorti ?",
+  "r": "Un préquel",
+  "d": 2,
+  "t": "Vocabulaire du cinéma"
+ },
+ {
+  "id": "div_d_3-076",
+  "q": "Quel cinéaste suédois a réalisé « Le Septième Sceau » (1957) et « Fanny et Alexandre » (1982) ?",
+  "r": "Ingmar Bergman",
+  "d": 2,
+  "t": "Réalisateurs"
+ },
+ {
+  "id": "div_d_3-077",
+  "q": "Quelle actrice aux yeux violets incarne la reine d'Égypte dans « Cléopâtre » (1963) ?",
+  "r": "Elizabeth Taylor",
+  "d": 1,
+  "t": "Classiques hollywoodiens"
+ },
+ {
+  "id": "div_d_3-078",
+  "q": "Dans « Aladdin » (1992) de Disney, comment s'appelle le petit singe chapardeur d'Aladdin ?",
+  "r": "Abu",
+  "d": 2,
+  "t": "Animation"
+ },
+ {
+  "id": "div_d_3-079",
+  "q": "Dans quelle station balnéaire normande se tient chaque septembre un festival consacré au cinéma américain ?",
+  "r": "Deauville",
+  "d": 1,
+  "t": "Salles et festivals"
+ },
+ {
+  "id": "div_d_3-080",
+  "q": "Comment appelle-t-on la personne qui veille aux raccords et à la continuité entre les plans d'un tournage ?",
+  "r": "La scripte",
+  "d": 2,
+  "t": "Métiers du cinéma"
+ },
+ {
+  "id": "div_d_3-081",
+  "q": "Quel romancier français est l'auteur de « La Planète des singes », adaptée à Hollywood en 1968 ?",
+  "r": "Pierre Boulle",
+  "d": 2,
+  "t": "Adaptations"
+ },
+ {
+  "id": "div_d_3-082",
+  "q": "Quel acteur hongkongais, célèbre pour réaliser lui-même ses cascades, forme un duo avec Chris Tucker dans « Rush Hour » ?",
+  "r": "Jackie Chan",
+  "d": 1,
+  "t": "Acteurs"
+ },
+ {
+  "id": "div_d_3-083",
+  "q": "Quelle actrice israélienne incarne Wonder Woman dans le film de 2017 ?",
+  "r": "Gal Gadot",
+  "d": 1,
+  "t": "Super-héros"
+ },
+ {
+  "id": "div_d_3-084",
+  "q": "Quel acteur a repris le rôle de Dumbledore dans « Harry Potter » après la mort de Richard Harris ?",
+  "r": "Michael Gambon",
+  "d": 3,
+  "t": "Sagas"
+ },
+ {
+  "id": "div_d_3-085",
+  "q": "Quel cinéaste a réalisé « Le Salaire de la peur » (1953) et « Les Diaboliques » (1955) ?",
+  "r": "Henri-Georges Clouzot",
+  "d": 2,
+  "t": "Classiques français"
+ }
+]
