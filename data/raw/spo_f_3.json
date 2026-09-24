@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Selon la tradition française, de quelle ville reviennent les cloches qui apportent les œufs de Pâques ?",
+  "r": "Rome",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quelle marque de stout irlandaise est brassée à Dublin depuis 1759 ?",
+  "r": "Guinness",
+  "d": 1,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "Comment appelle-t-on la découpe de feuilles roulées sur elles-mêmes puis taillées en fines lanières ?",
+  "r": "La chiffonnade",
+  "d": 2,
+  "t": "Techniques culinaires"
+ },
+ {
+  "q": "Quelle enseigne suédoise de meubles en kit a été fondée en 1943 par Ingvar Kamprad ?",
+  "r": "IKEA",
+  "d": 1,
+  "t": "Bricolage"
+ },
+ {
+  "q": "Quel petit fromage de chèvre du Lot porte le nom d'une cité religieuse accrochée à une falaise ?",
+  "r": "Le rocamadour",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Comment appelle-t-on l'œuf battu que l'on étale au pinceau sur une pâte pour la faire briller au four ?",
+  "r": "La dorure",
+  "d": 2,
+  "t": "Techniques culinaires"
+ },
+ {
+  "q": "Quelle pâte, d'abord desséchée dans une casserole, sert à faire éclairs, profiteroles et gougères ?",
+  "r": "La pâte à choux",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quelle ville italienne, dont les marins portaient une toile bleue, aurait donné son nom au « jean » ?",
+  "r": "Gênes",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "q": "Quelle ville de l'Aube est réputée pour son andouillette ?",
+  "r": "Troyes",
+  "d": 1,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quelle marque française de coupe-vent pliable dans sa poche, créée en 1965, est devenue un nom commun ?",
+  "r": "K-Way",
+  "d": 1,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel vin doux naturel du Roussillon porte le nom d'une station balnéaire proche de la frontière espagnole ?",
+  "r": "Le banyuls",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Comment appelle-t-on le mélange d'appâts jeté à l'eau pour attirer les poissons sur un coin de pêche ?",
+  "r": "L'amorce",
+  "d": 2,
+  "t": "Pêche"
+ },
+ {
+  "q": "Quel jeu de logique d'origine japonaise consiste à remplir une grille de 9 × 9 avec les chiffres de 1 à 9 ?",
+  "r": "Le sudoku",
+  "d": 1,
+  "t": "Jeux de lettres"
+ },
+ {
+  "q": "Comment appelle-t-on en Thaïlande le tricycle motorisé qui sert de taxi ?",
+  "r": "Le tuk-tuk",
+  "d": 1,
+  "t": "Transports touristiques"
+ },
+ {
+  "q": "Quel pot-au-feu du pays de Léon a un nom breton signifiant « viande et farce » ?",
+  "r": "Le kig ha farz",
+  "d": 3,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Comment appelle-t-on le point de tricot obtenu en tricotant tous les rangs à l'endroit ?",
+  "r": "Le point mousse",
+  "d": 2,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "q": "Quel puzzle chinois de sept pièces géométriques permet de reproduire des silhouettes ?",
+  "r": "Le tangram",
+  "d": 2,
+  "t": "Jeux de société"
+ },
+ {
+  "q": "Quel jouet en forme de tubercule, dont on change les yeux et la bouche, apparaît dans « Toy Story » ?",
+  "r": "Monsieur Patate",
+  "d": 1,
+  "t": "Jouets"
+ },
+ {
+  "q": "Quelle mini-poupée, vendue dans une boîte en forme de poudrier, a été créée en 1989 ?",
+  "r": "Polly Pocket",
+  "d": 2,
+  "t": "Jouets"
+ },
+ {
+  "q": "Comment appelle-t-on au Québec le bâtiment où l'on transforme la sève d'érable, lieu de repas festifs au printemps ?",
+  "r": "La cabane à sucre",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quelle sauce au beurre, à l'échalote et au vinaigre, née près de Nantes, accompagne traditionnellement le brochet ?",
+  "r": "Le beurre blanc",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Comment appelle-t-on les bouchées cantonaises, comme les raviolis vapeur, servies dans de petits paniers en bambou ?",
+  "r": "Les dim sum",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quelle forme de bouteille, haute et élancée, est obligatoire pour les vins d'Alsace ?",
+  "r": "La flûte (d'Alsace)",
+  "d": 3,
+  "t": "Vins"
+ },
+ {
+  "q": "Quel fromage italien à pâte persillée porte le nom d'une commune proche de Milan ?",
+  "r": "Le gorgonzola",
+  "d": 1,
+  "t": "Fromages"
+ },
+ {
+  "q": "Comment appelle-t-on la récolte de coquillages et de crustacés sur l'estran à marée basse, sans bateau ?",
+  "r": "La pêche à pied",
+  "d": 2,
+  "t": "Pêche"
+ },
+ {
+  "q": "Quel fromage normand de forme carrée porte le nom d'une commune du Calvados ?",
+  "r": "Le pont-l'évêque",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel gâteau de choux et de crème chiboust porte le nom du saint patron des boulangers et des pâtissiers ?",
+  "r": "Le saint-honoré",
+  "d": 2,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quel jeu de casino, où le total de 9 est le meilleur, oppose la main du banquier à celle du ponte ?",
+  "r": "Le baccara",
+  "d": 2,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Comment appelle-t-on la vente d'objets d'occasion par des particuliers, au nom évoquant le grenier ?",
+  "r": "Le vide-grenier",
+  "d": 1,
+  "t": "Collections"
+ },
+ {
+  "q": "Quelles noces célèbre-t-on après 25 ans de mariage ?",
+  "r": "Les noces d'argent",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quelle crème cuite au four est recouverte d'une fine couche de sucre caramélisé au chalumeau ?",
+  "r": "La crème brûlée",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quel sentier de grande randonnée traverse la Corse du nord au sud par la montagne ?",
+  "r": "Le GR 20",
+  "d": 2,
+  "t": "Randonnée"
+ },
+ {
+  "q": "Quel vin muté porte le nom d'une île portugaise de l'Atlantique ?",
+  "r": "Le madère",
+  "d": 1,
+  "t": "Vins"
+ },
+ {
+  "q": "Quelle ville du Puy-de-Dôme est la capitale française de la coutellerie ?",
+  "r": "Thiers",
+  "d": 2,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "q": "Quel gâteau superpose trois couches de pâte feuilletée et de crème pâtissière sous un glaçage marbré ?",
+  "r": "Le mille-feuille",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Comment appelle-t-on la couture provisoire à grands points qui maintient le tissu avant la couture définitive ?",
+  "r": "Le bâti (faufilage)",
+  "d": 3,
+  "t": "Couture"
+ },
+ {
+  "q": "Quelle sauce mexicaine épaisse, à base de piments et de chocolat, nappe traditionnellement la dinde ?",
+  "r": "Le mole (poblano)",
+  "d": 3,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quel couturier espagnol a présenté en 1966 des robes « importables » en plaques de métal et de plastique ?",
+  "r": "Paco Rabanne",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "q": "Quelle chaussure de toile à semelle de corde tressée est une spécialité de Mauléon, au Pays basque ?",
+  "r": "L'espadrille",
+  "d": 1,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel fromage espagnol au lait de brebis porte le nom de la région de Don Quichotte ?",
+  "r": "Le manchego",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quelle substance, extraite de l'estomac des jeunes veaux, fait cailler le lait ?",
+  "r": "La présure",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Comment appelle-t-on le filet à manche qui sert à sortir le poisson de l'eau ?",
+  "r": "L'épuisette",
+  "d": 1,
+  "t": "Pêche"
+ },
+ {
+  "q": "Quelle pâte à modeler, lancée aux États-Unis dans les années 1950, servait d'abord à nettoyer le papier peint ?",
+  "r": "Play-Doh",
+  "d": 2,
+  "t": "Jouets"
+ },
+ {
+  "q": "Quelles boulettes frites de pois chiches ou de fèves sont une spécialité du Proche-Orient ?",
+  "r": "Les falafels",
+  "d": 1,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quel jour de juillet est la fête nationale belge ?",
+  "r": "Le 21 juillet",
+  "d": 3,
+  "t": "Calendrier"
+ },
+ {
+  "q": "Comment appelle-t-on, dans les cours de récréation, une bille plus grosse que les autres ?",
+  "r": "Le calot",
+  "d": 2,
+  "t": "Jouets"
+ },
+ {
+  "q": "Quel cépage rouge domine sur la rive droite de Bordeaux, notamment à Pomerol ?",
+  "r": "Le merlot",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Quel train panoramique suisse relie Zermatt à Saint-Moritz ?",
+  "r": "Le Glacier Express",
+  "d": 2,
+  "t": "Transports touristiques"
+ },
+ {
+  "q": "Dans quel village de Côte-d'Or fabrique-t-on, dans une ancienne abbaye, de célèbres petits bonbons à l'anis ?",
+  "r": "Flavigny-sur-Ozerain",
+  "d": 3,
+  "t": "Confiserie"
+ },
+ {
+  "q": "Quel numéro porte le sentier de grande randonnée qui suit les traces de Stevenson dans les Cévennes ?",
+  "r": "Le GR 70",
+  "d": 3,
+  "t": "Randonnée"
+ },
+ {
+  "q": "Quel jeu de déduction consiste à deviner une combinaison secrète de pions de couleur ?",
+  "r": "Le Mastermind",
+  "d": 1,
+  "t": "Jeux de société"
+ },
+ {
+  "q": "Quelle ville allemande aurait donné son nom au hamburger ?",
+  "r": "Hambourg",
+  "d": 1,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quel fromage frais corse, au lait de brebis ou de chèvre, est l'ingrédient clé du fiadone ?",
+  "r": "Le brocciu",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quelle ville du Loiret a donné son nom à un gâteau feuilleté fourré à la crème d'amandes ?",
+  "r": "Pithiviers",
+  "d": 3,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Comment appelle-t-on la viande de canard ou d'oie cuite puis conservée dans sa propre graisse ?",
+  "r": "Le confit",
+  "d": 1,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quel fromage du Cantal, fabriqué seulement à la saison des pâturages, porte le nom d'un village et d'une race bovine ?",
+  "r": "Le salers",
+  "d": 3,
+  "t": "Fromages"
+ },
+ {
+  "q": "Au tarot à quatre joueurs, comment appelle-t-on les six cartes mises de côté au début de la donne ?",
+  "r": "Le chien",
+  "d": 2,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Quel fromage néerlandais porte le nom d'une ville de Hollande-Méridionale célèbre pour son marché aux fromages ?",
+  "r": "Le gouda",
+  "d": 1,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quelle marque britannique de voitures miniatures, créée en 1953, tire son nom d'une boîte d'allumettes ?",
+  "r": "Matchbox",
+  "d": 2,
+  "t": "Jouets"
+ },
+ {
+  "q": "Quel cépage blanc est l'emblème des vignobles allemands de la Moselle et du Rhin ?",
+  "r": "Le riesling",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Quel mécanisme à manivelle, fixé sur la canne, permet d'enrouler le fil ?",
+  "r": "Le moulinet",
+  "d": 1,
+  "t": "Pêche"
+ },
+ {
+  "q": "Quel arbuste à grosses boules de fleurs devient bleu en sol acide et rose en sol calcaire ?",
+  "r": "L'hortensia",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quel joueur de basket a donné son nom aux baskets en toile All Star de Converse ?",
+  "r": "Chuck Taylor",
+  "d": 3,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel titre reçoit la personne qui trouve la fève dans la galette ?",
+  "r": "Le roi (ou la reine)",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Comment appelle-t-on la collection d'étiquettes de vin ?",
+  "r": "L'œnographilie",
+  "d": 3,
+  "t": "Collections"
+ },
+ {
+  "q": "Quelle bière belge est obtenue en faisant macérer des cerises dans du lambic ?",
+  "r": "La kriek",
+  "d": 2,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "Quel jeu de cartes consiste à poser des suites et des brelans jusqu'à se débarrasser de toute sa main ?",
+  "r": "Le rami",
+  "d": 2,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Comment appelle-t-on la collection des fèves des galettes des rois ?",
+  "r": "La fabophilie",
+  "d": 2,
+  "t": "Collections"
+ },
+ {
+  "q": "Quelle ville de l'Hérault est célèbre pour ses petits pâtés sucrés-salés en forme de bobine, hérités des cuisiniers de Lord Clive ?",
+  "r": "Pézenas",
+  "d": 3,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quelle soupe froide de poireaux et de pommes de terre, créée à New York par un chef français, porte le nom d'une ville thermale de l'Allier ?",
+  "r": "La vichyssoise",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Au tarot, quelle carte peut être jouée à tout moment pour ne pas fournir la couleur demandée ?",
+  "r": "L'Excuse",
+  "d": 2,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Dans quel jeu de cartes enfantin faut-il éviter de rester avec le valet de pique en main ?",
+  "r": "Le pouilleux",
+  "d": 2,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Quel dessert de meringue aux fruits rouges porte le nom d'une célèbre ballerine russe ?",
+  "r": "La pavlova",
+  "d": 2,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quelle région viticole française est de loin la première productrice de vins rosés d'appellation ?",
+  "r": "La Provence",
+  "d": 1,
+  "t": "Vins"
+ },
+ {
+  "q": "Quelle technique de cuisson céramique d'origine japonaise sort les pièces rougeoyantes du four pour les enfumer ?",
+  "r": "Le raku",
+  "d": 3,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "q": "En l'honneur de quel saint se déroulent chaque juillet à Pampelune les lâchers de taureaux ?",
+  "r": "Saint Firmin",
+  "d": 2,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quels sont les trois pays traversés par le Tour du Mont-Blanc ?",
+  "r": "France, Italie, Suisse",
+  "d": 2,
+  "t": "Randonnée"
+ },
+ {
+  "q": "Comment appelle-t-on en Vendée les haricots blancs secs, souvent servis avec du jambon ?",
+  "r": "Les mogettes (mojettes)",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quel pain de Noël allemand aux fruits secs, saupoudré de sucre glace, est une spécialité de Dresde ?",
+  "r": "Le stollen",
+  "d": 2,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Comment appelle-t-on les trois jours de mai, fêtes de saint Mamert, saint Pancrace et saint Servais, où l'on craint les dernières gelées ?",
+  "r": "Les saints de glace",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quelle ville italienne accueille un carnaval célèbre pour ses masques et ses costumes d'époque ?",
+  "r": "Venise",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quel itinéraire touristique suit le trajet de l'Empereur de Golfe-Juan à Grenoble en 1815 ?",
+  "r": "La route Napoléon",
+  "d": 1,
+  "t": "Voyages"
+ },
+ {
+  "q": "Quel jeu inventé par les surréalistes fait composer une phrase à plusieurs, chacun ignorant ce qu'ont écrit les autres ?",
+  "r": "Le cadavre exquis",
+  "d": 2,
+  "t": "Jeux de lettres"
+ },
+ {
+  "q": "Quel fromage basque au lait de brebis se déguste avec de la confiture de cerises noires ?",
+  "r": "L'ossau-iraty",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Dans quel jeu de cartes enfantin la carte la plus forte remporte le pli, deux cartes égales déclenchant un nouveau duel ?",
+  "r": "La bataille",
+  "d": 1,
+  "t": "Jeux de cartes"
+ }
+]

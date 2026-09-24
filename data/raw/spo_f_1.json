@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle saucisse fumée du Haut-Doubs se reconnaît à la petite cheville de bois qui la ferme ?",
+  "r": "La saucisse de Morteau",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quelle grande fête de la bière se tient chaque automne à Munich ?",
+  "r": "L'Oktoberfest",
+  "d": 1,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "Quel loisir créatif consiste à décorer des albums photo avec des papiers, des découpes et des embellissements ?",
+  "r": "Le scrapbooking",
+  "d": 1,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "q": "Quel plat maghrébin fait cuire des œufs dans une sauce de tomates et de poivrons ?",
+  "r": "La chakchouka",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "De quel poisson provient le caviar ?",
+  "r": "L'esturgeon",
+  "d": 1,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quelle laine très fine et douce est tirée du duvet d'une chèvre d'Asie centrale ?",
+  "r": "Le cachemire",
+  "d": 1,
+  "t": "Couture"
+ },
+ {
+  "q": "Quel plat de Gand est un ragoût crémeux de poulet ou de poisson aux légumes ?",
+  "r": "Le waterzooi",
+  "d": 3,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Comment appelle-t-on le compostage réalisé à l'aide de vers de terre ?",
+  "r": "Le lombricompostage",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quel tricot rayé bleu et blanc, issu de l'uniforme de la Marine nationale, fut adopté par Coco Chanel ?",
+  "r": "La marinière",
+  "d": 1,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel jeu de rôle, créé en 1974 par Gary Gygax et Dave Arneson, a popularisé le rôle de maître du jeu ?",
+  "r": "Donjons et Dragons",
+  "d": 2,
+  "t": "Jeux de société"
+ },
+ {
+  "q": "Quelle technique indonésienne de teinture protège certaines zones du tissu avec de la cire ?",
+  "r": "Le batik",
+  "d": 2,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "q": "Quelle technique décorative consiste à coller des motifs de serviettes en papier sur un objet avant de le vernir ?",
+  "r": "Le serviettage",
+  "d": 3,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "q": "Quel dessert se compose de blancs en neige pochés flottant sur une crème anglaise ?",
+  "r": "L'île flottante",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quel jouet ancien consiste en une boule percée, reliée à un manche par une cordelette, qu'il faut embrocher ?",
+  "r": "Le bilboquet",
+  "d": 1,
+  "t": "Jouets"
+ },
+ {
+  "q": "Quel cépage rouge est majoritaire dans les grands crus du Médoc ?",
+  "r": "Le cabernet-sauvignon",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Quelle maison parisienne est réputée pour avoir popularisé le macaron à deux coques garni de ganache ?",
+  "r": "Ladurée",
+  "d": 2,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Comment appelle-t-on en Bavière la grande chope d'un litre servie à l'Oktoberfest ?",
+  "r": "La Maß",
+  "d": 3,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "Quelle ville tchèque a donné son nom au style de bière blonde appelé pils ?",
+  "r": "Plzeň (Pilsen)",
+  "d": 2,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "Comment appelle-t-on une devinette qui fait trouver un mot ou une phrase à l'aide de dessins, de lettres et de chiffres ?",
+  "r": "Un rébus",
+  "d": 1,
+  "t": "Jeux de lettres"
+ },
+ {
+  "q": "Quel mois du calendrier républicain correspondait au temps des vendanges, de fin septembre à fin octobre ?",
+  "r": "Vendémiaire",
+  "d": 3,
+  "t": "Calendrier"
+ },
+ {
+  "q": "Quel jeu fait chercher en trois minutes des mots dans une grille de seize dés à lettres ?",
+  "r": "Le Boggle",
+  "d": 2,
+  "t": "Jeux de lettres"
+ },
+ {
+  "q": "À la belote, combien de points vaut le neuf d'atout ?",
+  "r": "14 points",
+  "d": 2,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Quelle ville de la Creuse est célèbre pour ses tapisseries, inscrites au patrimoine immatériel de l'UNESCO ?",
+  "r": "Aubusson",
+  "d": 2,
+  "t": "Loisirs créatifs"
+ },
+ {
+  "q": "Comment appelle-t-on la série de cartes de l'IGN au 1/25 000, prisée des randonneurs ?",
+  "r": "TOP 25 (série bleue)",
+  "d": 3,
+  "t": "Randonnée"
+ },
+ {
+  "q": "Quel plat sénégalais est un poulet mariné au citron et aux oignons ?",
+  "r": "Le poulet yassa",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Comment appelle-t-on une plante, comme la phacélie ou la moutarde, semée pour être enfouie afin d'enrichir le sol ?",
+  "r": "Un engrais vert",
+  "d": 3,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Comment appelle-t-on l'orge germée puis séchée utilisée pour brasser la bière ?",
+  "r": "Le malt",
+  "d": 1,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "De quelle ancienne province vient le gratin de pommes de terre à la crème le plus célèbre de France ?",
+  "r": "Le Dauphiné",
+  "d": 1,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Comment appelle-t-on l'opération qui consiste à plier plusieurs fois une pâte autour du beurre pour obtenir un feuilletage ?",
+  "r": "Le tourage",
+  "d": 3,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quelle ville du Sud-Ouest a donné son nom à une saucisse de porc pur, pilier du cassoulet ?",
+  "r": "Toulouse",
+  "d": 1,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quel agrume parfume le thé Earl Grey ?",
+  "r": "La bergamote",
+  "d": 1,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Comment appelle-t-on à Lyon le fromage blanc battu aux fines herbes et à l'échalote ?",
+  "r": "La cervelle de canut",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Comment appelle-t-on la chaussure de ville à lacets dont les quartiers sont cousus sous l'empeigne, par opposition au derby ?",
+  "r": "Le richelieu",
+  "d": 3,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel gâteau de pâte sablée, fourré de crème pâtissière ou de confiture de cerises noires d'Itxassou, est né à Cambo-les-Bains ?",
+  "r": "Le gâteau basque",
+  "d": 2,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Comment s'appelle le Nouvel An juif, annoncé par le son de la corne de bélier ?",
+  "r": "Roch Hachana",
+  "d": 2,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quelle ville de la Côte d'Azur est célèbre pour les batailles de fleurs de son carnaval ?",
+  "r": "Nice",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Comment appelle-t-on l'abri de montagne, souvent gardé, où les randonneurs passent la nuit ?",
+  "r": "Le refuge",
+  "d": 1,
+  "t": "Randonnée"
+ },
+ {
+  "q": "Quel jeu de cartes italien, dont le nom signifie « balai », consiste à ramasser les cartes posées sur la table ?",
+  "r": "La scopa",
+  "d": 3,
+  "t": "Jeux de cartes"
+ },
+ {
+  "q": "Quel calendrier à petites fenêtres fait patienter les enfants du 1er au 24 décembre ?",
+  "r": "Le calendrier de l'Avent",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quelle ville champenoise est célèbre pour ses biscuits roses que l'on trempe dans le champagne ?",
+  "r": "Reims",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Quelle pâtisserie japonaise est faite de riz gluant pilé, souvent fourrée de pâte de haricots rouges ?",
+  "r": "Le mochi",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quel jambon espagnol provient de porcs noirs nourris aux glands dans les forêts de chênes ?",
+  "r": "Le jambon ibérique (pata negra)",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quelle maison a lancé en 1896 une toile Monogram ornée des initiales de son fondateur ?",
+  "r": "Louis Vuitton",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel outil de serrage à mâchoires, fixé à l'établi, immobilise la pièce à travailler ?",
+  "r": "L'étau",
+  "d": 1,
+  "t": "Bricolage"
+ },
+ {
+  "q": "Comment appelle-t-on les traînées qui coulent le long de la paroi du verre après avoir fait tourner le vin ?",
+  "r": "Les larmes (jambes)",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Quel fromage savoyard doit son nom à une seconde traite discrète, pratiquée pour réduire la redevance due au propriétaire ?",
+  "r": "Le reblochon",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Le mohair est tiré du poil de quel animal ?",
+  "r": "La chèvre angora",
+  "d": 3,
+  "t": "Couture"
+ },
+ {
+  "q": "Quelle soupe de légumes provençale est servie avec une pommade d'ail, de basilic et d'huile d'olive ?",
+  "r": "La soupe au pistou",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quel fromage suisse à pâte dure porte le nom d'un bourg médiéval du canton de Fribourg ?",
+  "r": "Le gruyère",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "En menuiserie, comment appelle-t-on la partie mâle d'un assemblage qui s'emboîte dans une mortaise ?",
+  "r": "Le tenon",
+  "d": 2,
+  "t": "Bricolage"
+ },
+ {
+  "q": "Quelle fête nord-américaine se célèbre aux États-Unis le quatrième jeudi de novembre, autour d'une dinde ?",
+  "r": "Thanksgiving",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quel chef, élu « cuisinier du siècle » par le Gault et Millau, était célèbre pour sa purée de pommes de terre ?",
+  "r": "Joël Robuchon",
+  "d": 2,
+  "t": "Chefs et guides"
+ },
+ {
+  "q": "Quel jeu consiste à trouver le plus vite possible un pays, un prénom, un animal… commençant par une lettre tirée au sort ?",
+  "r": "Le petit bac",
+  "d": 1,
+  "t": "Jeux de lettres"
+ },
+ {
+  "q": "Quel parc à thème vendéen présente chaque été le spectacle nocturne de la « Cinéscénie » ?",
+  "r": "Le Puy du Fou",
+  "d": 1,
+  "t": "Voyages"
+ },
+ {
+  "q": "Selon une tradition répandue, de quelle ville de Minorque la mayonnaise tirerait-elle son nom ?",
+  "r": "Mahón",
+  "d": 2,
+  "t": "Techniques culinaires"
+ },
+ {
+  "q": "Quelle marque de cocottes en fonte émaillée a été fondée en 1925 à Fresnoy-le-Grand, dans l'Aisne ?",
+  "r": "Le Creuset",
+  "d": 3,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "q": "Quel cépage aromatique d'Alsace a un nom allemand évoquant les épices ?",
+  "r": "Le gewurztraminer",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Quel vin toscan était traditionnellement vendu dans une bouteille ventrue habillée de paille ?",
+  "r": "Le chianti",
+  "d": 1,
+  "t": "Vins"
+ },
+ {
+  "q": "Quelle région a fait du caramel au beurre salé l'une de ses spécialités ?",
+  "r": "La Bretagne",
+  "d": 1,
+  "t": "Confiserie"
+ },
+ {
+  "q": "De quel peuple, dont des cavaliers servaient la France au XVIIe siècle, la cravate tire-t-elle son nom ?",
+  "r": "Les Croates",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel nom portent les vins effervescents de méthode traditionnelle produits en Alsace, en Loire ou en Bourgogne ?",
+  "r": "Le crémant",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Comment appelle-t-on la cuisson douce dans un récipient posé dans un autre rempli d'eau chaude ?",
+  "r": "Le bain-marie",
+  "d": 1,
+  "t": "Techniques culinaires"
+ },
+ {
+  "q": "Quel plat du Nord, d'origine galloise, fait gratiner du cheddar fondu à la bière sur du pain et du jambon ?",
+  "r": "Le welsh",
+  "d": 2,
+  "t": "Gastronomie française"
+ },
+ {
+  "q": "Quelle confrérie bourguignonne tient ses chapitres au château du Clos de Vougeot ?",
+  "r": "Les chevaliers du Tastevin",
+  "d": 3,
+  "t": "Vins"
+ },
+ {
+  "q": "Quel jeu de société fait relier des villes en posant de petits wagons en plastique sur des lignes de chemin de fer ?",
+  "r": "Les Aventuriers du Rail",
+  "d": 2,
+  "t": "Jeux de société"
+ },
+ {
+  "q": "Quel type de terre acide réclament les rhododendrons, les azalées et les camélias ?",
+  "r": "La terre de bruyère",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quel architecte américain est l'inventeur du jeu de lettres qui deviendra le Scrabble ?",
+  "r": "Alfred Butts",
+  "d": 3,
+  "t": "Jeux de lettres"
+ },
+ {
+  "q": "Quel petit couteau à lame fendue permet d'éplucher les légumes en fines lanières ?",
+  "r": "L'économe",
+  "d": 1,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "q": "Quel jeu d'ambiance français oppose des villageois à des créatures nocturnes qu'il faut démasquer ?",
+  "r": "Les Loups-garous de Thiercelieux",
+  "d": 2,
+  "t": "Jeux de société"
+ },
+ {
+  "q": "Comment appelle-t-on la couche de paille, d'écorces ou de feuilles posée au pied des plantes pour garder l'humidité ?",
+  "r": "Le paillage (paillis)",
+  "d": 1,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quel cépage blanc, emblème de Sancerre, fait aussi la réputation des vins de Nouvelle-Zélande ?",
+  "r": "Le sauvignon (blanc)",
+  "d": 2,
+  "t": "Vins"
+ },
+ {
+  "q": "Comment appelle-t-on le petit tas de pierres qui sert de repère aux randonneurs en montagne ?",
+  "r": "Un cairn",
+  "d": 2,
+  "t": "Randonnée"
+ },
+ {
+  "q": "Quelle boisson alcoolisée très ancienne est obtenue par fermentation de miel et d'eau ?",
+  "r": "L'hydromel",
+  "d": 1,
+  "t": "Bières et boissons"
+ },
+ {
+  "q": "Comment appelle-t-on la clé dont on règle l'ouverture en tournant une petite vis sans fin ?",
+  "r": "La clé à molette",
+  "d": 1,
+  "t": "Bricolage"
+ },
+ {
+  "q": "Quel joaillier a créé en 1917 la montre Tank, inspirée des chars d'assaut ?",
+  "r": "Cartier",
+  "d": 3,
+  "t": "Mode"
+ },
+ {
+  "q": "Quel outil à deux lames courtes sert à tailler les rosiers et les petites branches ?",
+  "r": "Le sécateur",
+  "d": 1,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quel couturier a dessiné la petite robe noire d'Audrey Hepburn dans « Diamants sur canapé » ?",
+  "r": "Hubert de Givenchy",
+  "d": 2,
+  "t": "Mode"
+ },
+ {
+  "q": "Quelle fête musulmane marque la fin du jeûne du ramadan ?",
+  "r": "L'Aïd el-Fitr",
+  "d": 2,
+  "t": "Fêtes et traditions"
+ },
+ {
+  "q": "Quelle pâte d'amandes sucrée, spécialité de Lübeck, sert à modeler des fruits miniatures ?",
+  "r": "Le massepain",
+  "d": 2,
+  "t": "Confiserie"
+ },
+ {
+  "q": "Comment appelle-t-on le jardin japonais sec fait de rochers et de gravier ratissé ?",
+  "r": "Le jardin zen (karesansui)",
+  "d": 2,
+  "t": "Jardinage"
+ },
+ {
+  "q": "Quel flan épais breton est traditionnellement garni de pruneaux ?",
+  "r": "Le far (breton)",
+  "d": 1,
+  "t": "Pâtisserie"
+ },
+ {
+  "q": "Comment appelle-t-on en Bretagne le petit râteau en bois qui étale la pâte sur la plaque à galettes ?",
+  "r": "Le rozell",
+  "d": 3,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "q": "Quel ustensile à lame réglable, qui tranche finement les légumes, porte le nom d'un instrument de musique ?",
+  "r": "La mandoline",
+  "d": 1,
+  "t": "Ustensiles de cuisine"
+ },
+ {
+  "q": "Quelle ville japonaise a donné son nom à un bœuf wagyu très persillé, parmi les plus chers du monde ?",
+  "r": "Kobe",
+  "d": 2,
+  "t": "Cuisine du monde"
+ },
+ {
+  "q": "Quel dimanche, une semaine avant Pâques, fait-on bénir des branches de buis ?",
+  "r": "Le dimanche des Rameaux",
+  "d": 1,
+  "t": "Fêtes et traditions"
+ }
+]
