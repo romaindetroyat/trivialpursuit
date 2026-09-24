@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel jour de l'année célèbre-t-on la journée de π, en référence à 3,14 ?",
+  "r": "Le 14 mars",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "En quelle année une éclipse totale de Soleil a-t-elle traversé le nord de la France, un 11 août ?",
+  "r": "1999",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle échelle, graduée de 0 à 14, indique si une solution est acide ou basique ?",
+  "r": "Le pH",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel savant né à Lyon en 1775 a fondé l'électrodynamique et donné son nom à l'unité d'intensité du courant ?",
+  "r": "André-Marie Ampère",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Dans l'œuvre de quel écrivain le physicien Murray Gell-Mann a-t-il puisé le mot « quark » ?",
+  "r": "James Joyce",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel instrument de géométrie, à deux branches articulées, sert à tracer des cercles ?",
+  "r": "Le compas",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on l'enceinte métallique qui protège son contenu des champs électriques, ce qui explique qu'on soit à l'abri dans une voiture frappée par la foudre ?",
+  "r": "La cage de Faraday",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "De combien de degrés environ l'axe de rotation de la Terre est-il incliné par rapport à la perpendiculaire à son orbite ?",
+  "r": "Environ 23,4°",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle forme géométrique ont les alvéoles des rayons de cire construits par les abeilles ?",
+  "r": "L'hexagone",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel physicien né à Dantzig a donné son nom à l'échelle de température utilisée aux États-Unis ?",
+  "r": "Daniel Gabriel Fahrenheit",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle roche, abondante sous Montmartre, donne le plâtre une fois cuite et broyée ?",
+  "r": "Le gypse",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel instrument de mesure à vernier permet de mesurer précisément un diamètre ou une épaisseur ?",
+  "r": "Le pied à coulisse",
+  "d": 2,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quel phénomène se produit quand la Terre s'interpose entre le Soleil et la Lune ?",
+  "r": "Une éclipse de Lune",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle fusée géante, haute d'environ 110 mètres, propulsait les missions Apollo vers la Lune ?",
+  "r": "Saturn V",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Dans quel État américain se trouve le centre spatial Kennedy, d'où partaient les missions Apollo ?",
+  "r": "La Floride",
+  "d": 1,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on la valeur qui partage une série statistique ordonnée en deux moitiés d'effectifs égaux ?",
+  "r": "La médiane",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on la trajectoire courbe d'une planète autour du Soleil ?",
+  "r": "L'orbite",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment qualifie-t-on une eau riche en calcium et en magnésium, qui entartre les bouilloires ?",
+  "r": "Une eau dure (calcaire)",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on le solide à six faces rectangulaires, en forme de boîte à chaussures ?",
+  "r": "Un pavé droit",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Combien de secondes compte une journée de 24 heures ?",
+  "r": "86 400",
+  "d": 2,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel observatoire astronomique français est perché à 2 877 mètres d'altitude dans les Hautes-Pyrénées ?",
+  "r": "Le pic du Midi",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel rover de la NASA s'est posé en août 2012 dans le cratère Gale, sur Mars ?",
+  "r": "Curiosity",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on les particules élémentaires qui, groupées par trois, forment les protons et les neutrons ?",
+  "r": "Les quarks",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle constellation, figurant notamment sur les drapeaux de l'Australie et de la Nouvelle-Zélande, sert à repérer le sud ?",
+  "r": "La Croix du Sud",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel réseau social limitait à ses débuts la longueur des messages à 140 caractères ?",
+  "r": "Twitter",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quelle actrice hollywoodienne a coinventé en 1942 un système de saut de fréquence, précurseur du Wi-Fi et du Bluetooth ?",
+  "r": "Hedy Lamarr",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel désinfectant doit son nom à un ancien hameau aujourd'hui intégré au 15e arrondissement de Paris ?",
+  "r": "L'eau de Javel",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on les zones plus froides et plus sombres qui apparaissent à la surface du Soleil ?",
+  "r": "Les taches solaires",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on la décomposition d'une substance par un courant électrique, comme celle de l'eau en hydrogène et en oxygène ?",
+  "r": "L'électrolyse",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel cosmonaute soviétique a réalisé la première sortie dans l'espace, en mars 1965 ?",
+  "r": "Alexeï Leonov",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quelle nébuleuse du Taureau est le reste d'une supernova observée par les astronomes chinois en 1054 ?",
+  "r": "La nébuleuse du Crabe",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle unité de volume est égale à un décimètre cube ?",
+  "r": "Le litre",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quelle proportion d'or pur contient un bijou en or 18 carats ?",
+  "r": "75 %",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on le dioxyde de carbone à l'état solide, qui se sublime en fumée blanche ?",
+  "r": "La glace carbonique (carboglace)",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on l'état des astronautes qui flottent librement à bord d'une station en orbite ?",
+  "r": "L'impesanteur (apesanteur)",
+  "d": 1,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on la branche de la chimie consacrée aux composés du carbone ?",
+  "r": "La chimie organique",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on le jouet de bureau formé de billes d'acier suspendues qui s'entrechoquent en se transmettant le mouvement ?",
+  "r": "Le pendule de Newton",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle est la fréquence du courant alternatif distribué sur le réseau électrique européen ?",
+  "r": "50 hertz",
+  "d": 2,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Comment appelle-t-on l'échauffement d'un conducteur parcouru par un courant, exploité dans les grille-pain et les radiateurs électriques ?",
+  "r": "L'effet Joule",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on la droite qui coupe un segment en son milieu en formant un angle droit ?",
+  "r": "La médiatrice",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Pourquoi aucun son ne peut-il être entendu dans l'espace ?",
+  "r": "Le son ne se propage pas dans le vide",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel instrument à réglettes coulissantes, fondé sur les logarithmes, a servi aux ingénieurs jusqu'à l'arrivée des calculatrices électroniques ?",
+  "r": "La règle à calcul",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quelle est la valeur approximative de l'accélération de la pesanteur à la surface de la Terre ?",
+  "r": "Environ 9,81 m/s²",
+  "d": 2,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Comment appelle-t-on la molécule de 60 atomes de carbone en forme de ballon de football ?",
+  "r": "Le fullerène",
+  "d": 3,
+  "t": "Chimie"
+ },
+ {
+  "q": "Selon la première loi de Kepler, quelle forme géométrique décrit l'orbite d'une planète autour du Soleil ?",
+  "r": "Une ellipse",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel architecte et enseignant hongrois a inventé en 1974 un célèbre casse-tête cubique à faces colorées ?",
+  "r": "Ernő Rubik",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Sous quel nom familier désigne-t-on en France les sept étoiles les plus brillantes de la Grande Ourse ?",
+  "r": "La Grande Casserole (le Grand Chariot)",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel gaz liquéfié sous pression remplit la plupart des briquets jetables ?",
+  "r": "Le butane",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel amas d'étoiles de la constellation du Taureau, visible à l'œil nu, est aussi appelé « les Sept Sœurs » ?",
+  "r": "Les Pléiades",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel astronome américain a obtenu que Voyager 1 photographie la Terre en 1990, cliché baptisé « Pale Blue Dot » ?",
+  "r": "Carl Sagan",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on le réchauffement d'une atmosphère dû à des gaz qui retiennent le rayonnement infrarouge ?",
+  "r": "L'effet de serre",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel mathématicien a codirigé l'« Encyclopédie » avec Denis Diderot ?",
+  "r": "Jean Le Rond d'Alembert",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle grandeur thermodynamique mesure le désordre d'un système et ne peut qu'augmenter dans un système isolé ?",
+  "r": "L'entropie",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel gaz à l'odeur d'œuf pourri a pour formule H₂S ?",
+  "r": "Le sulfure d'hydrogène",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment s'appelle le plus grand satellite de Pluton, qui porte le nom du passeur des Enfers ?",
+  "r": "Charon",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "De combien de centimètres environ la Lune s'éloigne-t-elle de la Terre chaque année ?",
+  "r": "Environ 3,8 cm",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle étoile brillante de la Lyre deviendra l'étoile polaire dans environ 12 000 ans, en raison de la précession ?",
+  "r": "Véga",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on les sons trop aigus pour être perçus par l'oreille humaine, mais entendus par les chiens et les chauves-souris ?",
+  "r": "Les ultrasons",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle ancienne unité française de longueur, valant six pieds, mesurait environ 1,95 mètre ?",
+  "r": "La toise",
+  "d": 3,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel astre glacé, doté d'une chevelure et d'une queue lumineuse lorsqu'il approche du Soleil, parcourt le système solaire ?",
+  "r": "Une comète",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quels sont les deux seuls chiffres utilisés en numération binaire ?",
+  "r": "0 et 1",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel astronaute d'Apollo 14 a frappé des balles de golf sur la Lune en 1971 ?",
+  "r": "Alan Shepard",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Quelle particule presque sans masse, surnommée « particule fantôme », traverse la Terre sans presque jamais interagir ?",
+  "r": "Le neutrino",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel petit appareil compte le nombre de pas effectués par un marcheur ?",
+  "r": "Le podomètre",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quel bref éclat coloré, titre d'un roman de Jules Verne, peut s'observer au dernier instant d'un coucher de soleil sur la mer ?",
+  "r": "Le rayon vert",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Comment appelle-t-on la diffusion de la lumière par les molécules de l'air, qui explique la couleur bleue du ciel ?",
+  "r": "La diffusion Rayleigh",
+  "d": 3,
+  "t": "Physique"
+ },
+ {
+  "q": "Au-dessus de quelle ville russe un météore a-t-il explosé en février 2013, blessant plus de 1 000 personnes ?",
+  "r": "Tcheliabinsk",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle loi de Newton s'énonce « à toute action correspond une réaction égale et opposée » ?",
+  "r": "La troisième loi (actions réciproques)",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel chimiste français s'est élevé seul en ballon en 1804 à plus de 7 000 mètres pour étudier l'atmosphère ?",
+  "r": "Joseph Louis Gay-Lussac",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel métal alcalino-terreux donne leur couleur rouge vif aux feux d'artifice ?",
+  "r": "Le strontium",
+  "d": 3,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quelle est la cause principale des saisons sur Terre ?",
+  "r": "L'inclinaison de l'axe terrestre",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle physicienne franco-suédoise a reçu le prix Nobel de physique 2023 pour ses travaux sur les impulsions lumineuses attosecondes ?",
+  "r": "Anne L'Huillier",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on le plus petit point élémentaire composant une image numérique ?",
+  "r": "Le pixel",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment appelle-t-on la tige dont l'ombre indique l'heure sur un cadran solaire ?",
+  "r": "Le gnomon (style)",
+  "d": 3,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Que signifient les trois lettres « www » au début de nombreuses adresses de sites Internet ?",
+  "r": "World Wide Web",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quelle unité de volume, utilisée pour le commerce du pétrole, vaut environ 159 litres ?",
+  "r": "Le baril",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel astre est le principal responsable des marées océaniques sur Terre ?",
+  "r": "La Lune",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel composé chimique donne à la planète Mars sa couleur rouge ?",
+  "r": "L'oxyde de fer (rouille)",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel appareil élève ou abaisse la tension d'un courant alternatif, par exemple entre une ligne haute tension et une maison ?",
+  "r": "Le transformateur",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment qualifie-t-on un fluide, comme le mélange de fécule de maïs et d'eau, qui durcit brusquement sous un choc ?",
+  "r": "Non newtonien",
+  "d": 3,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel instrument, du nom d'un ingénieur français du XVIIIe siècle, mesure la vitesse d'un avion par rapport à l'air ?",
+  "r": "Le tube de Pitot",
+  "d": 3,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Comment appelle-t-on le sifflement aigu produit quand un micro capte le son de son propre haut-parleur ?",
+  "r": "L'effet Larsen",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel instrument à aiguille aimantée indique la direction du nord magnétique ?",
+  "r": "La boussole",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quel instrument de calcul à boules coulissantes, appelé soroban au Japon, est encore utilisé en Asie ?",
+  "r": "Le boulier",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on la matière invisible qui représenterait l'essentiel de la masse des galaxies ?",
+  "r": "La matière noire",
+  "d": 2,
+  "t": "Astronomie"
+ }
+]

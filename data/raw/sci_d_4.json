@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel surnom porte la région de la baie de San Francisco où se concentrent les géants de l'informatique ?",
+  "r": "La Silicon Valley",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment appelle-t-on les lueurs électriques qui apparaissent parfois au sommet des mâts des navires par temps orageux ?",
+  "r": "Le feu de Saint-Elme",
+  "d": 3,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Comment appelle-t-on l'argent recouvert d'une fine couche d'or ?",
+  "r": "Le vermeil",
+  "d": 3,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quelle encyclopédie en ligne collaborative a été lancée en 2001 par Jimmy Wales et Larry Sanger ?",
+  "r": "Wikipédia",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel astrophysicien québécois, grand vulgarisateur, a écrit « Patience dans l'azur » ?",
+  "r": "Hubert Reeves",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel gaz rare, présent à près de 1 % dans l'air, remplit les ampoules à incandescence ?",
+  "r": "L'argon",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Le mot « spam », qui désigne les courriels indésirables, vient à l'origine de la marque de quel produit ?",
+  "r": "Une viande de porc en conserve",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel physicien français a mesuré en 1849 la vitesse de la lumière grâce à une roue dentée, entre Suresnes et Montmartre ?",
+  "r": "Hippolyte Fizeau",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel métal est le meilleur conducteur d'électricité ?",
+  "r": "L'argent",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel président américain a fixé en 1961 l'objectif d'envoyer un homme sur la Lune avant la fin de la décennie ?",
+  "r": "John F. Kennedy",
+  "d": 1,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on le résultat d'une division ?",
+  "r": "Le quotient",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quelle unité anglo-saxonne de longueur vaut environ 30,48 cm ?",
+  "r": "Le pied",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel instrument mesure la quantité de pluie tombée en un lieu ?",
+  "r": "Le pluviomètre",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Dans quel domaine anglais les cryptanalystes, dont Alan Turing, ont-ils cassé les codes allemands pendant la Seconde Guerre mondiale ?",
+  "r": "Bletchley Park",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel alliage naturel d'or et d'argent servit à frapper les premières pièces de monnaie en Lydie ?",
+  "r": "L'électrum",
+  "d": 3,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on le passage de l'état gazeux à l'état liquide, qui fait apparaître la buée sur un miroir de salle de bains ?",
+  "r": "La condensation (liquéfaction)",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel type de courant électrique, continu ou alternatif, fournit une pile ?",
+  "r": "Le courant continu",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on un groupe d'étoiles formant une figure reconnaissable dans le ciel, comme la Grande Ourse ?",
+  "r": "Une constellation",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "À combien de joules équivaut approximativement une calorie ?",
+  "r": "Environ 4,18 joules",
+  "d": 3,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Comment appelle-t-on la couche verdâtre qui se forme sur le cuivre ou le bronze exposé à l'air humide ?",
+  "r": "Le vert-de-gris",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Dans quelle direction pointe toujours la queue d'une comète ?",
+  "r": "À l'opposé du Soleil",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on le mélange homogène obtenu en dissolvant du sucre dans de l'eau ?",
+  "r": "Une solution",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel principe explique que l'eau atteigne la même hauteur dans plusieurs récipients reliés par le fond ?",
+  "r": "Les vases communicants",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle unité agricole de masse vaut 100 kilogrammes ?",
+  "r": "Le quintal",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Comment appelle-t-on la particule élémentaire de la lumière, sans masse ?",
+  "r": "Le photon",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Dans quelle « mer » lunaire le module d'Apollo 11 s'est-il posé en juillet 1969 ?",
+  "r": "La mer de la Tranquillité",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel mathématicien franco-américain a popularisé les fractales, notamment l'ensemble qui porte son nom ?",
+  "r": "Benoît Mandelbrot",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle machine simple Archimède évoquait-il en disant « Donnez-moi un point d'appui et je soulèverai le monde » ?",
+  "r": "Le levier",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on la durée au bout de laquelle la moitié des noyaux d'un échantillon radioactif s'est désintégrée ?",
+  "r": "La demi-vie (période)",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on l'oxyde de fer brun-rouge qui se forme sur le fer exposé à l'air humide ?",
+  "r": "La rouille",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel procédé, mis au point par Charles Goodyear en 1839, rend le caoutchouc plus résistant en le chauffant avec du soufre ?",
+  "r": "La vulcanisation",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel météorologue américain est à l'origine de l'expression « effet papillon » ?",
+  "r": "Edward Lorenz",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle mathématicienne iranienne est devenue en 2014 la première femme à recevoir la médaille Fields ?",
+  "r": "Maryam Mirzakhani",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel physicien écossais a inventé en 1892 le récipient isolant à double paroi sous vide, ancêtre de la bouteille Thermos ?",
+  "r": "James Dewar",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Où doit se trouver le Soleil par rapport à l'observateur pour que celui-ci puisse voir un arc-en-ciel ?",
+  "r": "Dans son dos",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Combien de colonnes, ou groupes, compte le tableau périodique des éléments standard ?",
+  "r": "18",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel type de lentille est une loupe ?",
+  "r": "Une lentille convergente",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle est la cause du scintillement des étoiles vues depuis le sol ?",
+  "r": "La turbulence de l'atmosphère",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "À combien de mètres carrés équivaut un are ?",
+  "r": "100 m²",
+  "d": 2,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel préfixe, symbolisé par la lettre grecque μ, correspond à un millionième ?",
+  "r": "Micro",
+  "d": 2,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel produit ménager, de formule NaHCO₃, fait lever les gâteaux et mousser le vinaigre ?",
+  "r": "Le bicarbonate de sodium",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on le passage de l'état solide à l'état liquide, comme celui d'un glaçon qui fond ?",
+  "r": "La fusion",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle lune de Jupiter est le corps le plus volcaniquement actif du système solaire ?",
+  "r": "Io",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel état de la matière, constitué d'un gaz ionisé, compose les étoiles et les éclairs ?",
+  "r": "Le plasma",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel physicien, prix Nobel 1926, a fondé le palais de la Découverte à Paris en 1937 ?",
+  "r": "Jean Perrin",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle unité de masse était définie, jusqu'en 2019, par un cylindre de platine iridié conservé près de Paris ?",
+  "r": "Le kilogramme",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quelle mathématicienne allemande a donné son nom à un théorème fondamental reliant symétries et lois de conservation en physique ?",
+  "r": "Emmy Noether",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle informaticienne américaine est associée à l'anecdote du papillon de nuit coincé dans un ordinateur en 1947, qui a popularisé le mot « bug » ?",
+  "r": "Grace Hopper",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on, en informatique, le stockage de données sur des serveurs distants accessibles par Internet ?",
+  "r": "Le cloud (nuage)",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment qualifie-t-on un nombre, comme racine de 2, qui ne peut pas s'écrire sous la forme d'une fraction d'entiers ?",
+  "r": "Irrationnel",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel philosophe grec est l'auteur du paradoxe d'Achille et de la tortue ?",
+  "r": "Zénon d'Élée",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on une grille de nombres dont les lignes, les colonnes et les diagonales ont toutes la même somme ?",
+  "r": "Un carré magique",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quelle unité de distance astronomique vaut environ 3,26 années-lumière ?",
+  "r": "Le parsec",
+  "d": 3,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Dans un triangle rectangle, quel rapport trigonométrique est égal au côté opposé divisé par l'hypoténuse ?",
+  "r": "Le sinus",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel gigantesque système de canyons martiens porte le nom de la sonde américaine qui l'a découvert en 1971 ?",
+  "r": "Valles Marineris",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on la barrière symbolique franchie par un avion qui dépasse la vitesse du son, dans un « bang » caractéristique ?",
+  "r": "Le mur du son",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Dans l'échelle originale proposée par Anders Celsius en 1742, quelle graduation correspondait à l'ébullition de l'eau ?",
+  "r": "0 (l'échelle était inversée)",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel jeu vidéo de tennis de table, sorti par Atari en 1972, fut l'un des premiers grands succès de l'histoire du jeu vidéo ?",
+  "r": "Pong",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Sous quel nom commercial connaît-on le polytétrafluoroéthylène, qui rend les poêles antiadhésives ?",
+  "r": "Le Téflon",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on les nombres 0, 1, 2, 3… entiers et positifs, qui servent à compter ?",
+  "r": "Les entiers naturels",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on la réaction chimique qui produit du savon à partir d'un corps gras et d'une base ?",
+  "r": "La saponification",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel effet explique la trajectoire courbe d'un ballon frappé avec un effet de rotation, comme dans un coup franc « brossé » ?",
+  "r": "L'effet Magnus",
+  "d": 3,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on les longues traînées blanches laissées dans le ciel par les avions volant à haute altitude ?",
+  "r": "Des traînées de condensation",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel phénomène fait monter l'eau dans un tube très fin ou dans un morceau de sucre trempé dans le café ?",
+  "r": "La capillarité",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel appareil, présenté par Thomas Edison en 1877, pouvait enregistrer et restituer les sons ?",
+  "r": "Le phonographe",
+  "d": 1,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Combien de jours compte une année bissextile ?",
+  "r": "366",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Dans quelle ville française se trouve la Cité de l'espace, parc à thème consacré à l'astronomie et à la conquête spatiale ?",
+  "r": "Toulouse",
+  "d": 1,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on un fragment de roche venu de l'espace qui atteint le sol terrestre ?",
+  "r": "Une météorite",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on une étoile à neutrons en rotation rapide qui émet des impulsions radio très régulières ?",
+  "r": "Un pulsar",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Que signifie le sigle CNES, l'agence spatiale française créée en 1961 ?",
+  "r": "Centre national d'études spatiales",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel est le troisième ingrédient de la poudre noire, avec le soufre et le charbon de bois ?",
+  "r": "Le salpêtre (nitrate de potassium)",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment se nomme la protoplanète hypothétique dont la collision avec la Terre aurait donné naissance à la Lune ?",
+  "r": "Théia",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle fibre synthétique, inventée par la chimiste Stephanie Kwolek, sert à fabriquer les gilets pare-balles ?",
+  "r": "Le Kevlar",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on un composé formé uniquement d'atomes de carbone et d'hydrogène, comme le pétrole ou le gaz naturel ?",
+  "r": "Un hydrocarbure",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel métal léger brûle avec une lumière blanche éblouissante, jadis utilisée pour les flashs des photographes ?",
+  "r": "Le magnésium",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Comment appelle-t-on des molécules qui ont la même formule brute mais des structures différentes ?",
+  "r": "Des isomères",
+  "d": 3,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel phénomène fait se dresser les cheveux lorsqu'on les frotte avec un ballon de baudruche ?",
+  "r": "L'électricité statique",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel prix, créé par la Norvège en 2002 et nommé d'après un mathématicien norvégien, est souvent présenté comme le Nobel des mathématiques ?",
+  "r": "Le prix Abel",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quelle supergéante rouge, l'une des étoiles les plus brillantes du ciel, marque une épaule du chasseur Orion ?",
+  "r": "Bételgeuse",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle couleur se trouve sur le bord extérieur d'un arc-en-ciel principal ?",
+  "r": "Le rouge",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Comment appelle-t-on le nombre situé sous la barre d'une fraction ?",
+  "r": "Le dénominateur",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quelle unité d'énergie figure sur les factures d'électricité des particuliers ?",
+  "r": "Le kilowattheure",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel matériau, formé d'une seule couche d'atomes de carbone, a valu le prix Nobel de physique 2010 à ses découvreurs ?",
+  "r": "Le graphène",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on la région autour d'une étoile où l'eau peut exister à l'état liquide à la surface d'une planète ?",
+  "r": "La zone habitable",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel jeu de logique consiste à remplir une grille de 9 × 9 cases avec les chiffres de 1 à 9, sans répétition par ligne, colonne ou carré ?",
+  "r": "Le sudoku",
+  "d": 1,
+  "t": "Mathématiques"
+ }
+]

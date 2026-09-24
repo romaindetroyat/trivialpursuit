@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel casse-tête chinois consiste à former des silhouettes avec sept pièces géométriques ?",
+  "r": "Le tangram",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment s'appelle le système européen de positionnement par satellites, équivalent du GPS américain ?",
+  "r": "Galileo",
+  "d": 1,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel métal léger et résistant à la corrosion, nommé d'après des géants de la mythologie grecque, sert aux prothèses et à l'aéronautique ?",
+  "r": "Le titane",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel micro-ordinateur français, conçu en 1973 par François Gernelle, est considéré comme le premier micro-ordinateur commercial ?",
+  "r": "Le Micral N",
+  "d": 3,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel écrivain de science-fiction britannique a imaginé dès 1945 les satellites de télécommunication géostationnaires ?",
+  "r": "Arthur C. Clarke",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Quelle région de Sibérie a été dévastée en 1908 par l'explosion d'un bolide dans l'atmosphère ?",
+  "r": "La Toungouska",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on un aimant qui ne fonctionne que lorsqu'un courant électrique circule dans sa bobine ?",
+  "r": "Un électroaimant",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel nom porte la disposition de clavier la plus courante en France, d'après ses premières lettres ?",
+  "r": "AZERTY",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel physicien danois a découvert en 1820 qu'un courant électrique fait dévier l'aiguille d'une boussole ?",
+  "r": "Hans Christian Ørsted",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel phénomène optique permet à la lumière de rester piégée et guidée à l'intérieur d'une fibre optique ?",
+  "r": "La réflexion totale",
+  "d": 3,
+  "t": "Physique"
+ },
+ {
+  "q": "Pourquoi un oiseau posé sur un seul fil électrique à haute tension n'est-il pas électrocuté ?",
+  "r": "Aucune différence de potentiel",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quelle est la durée approximative d'un jour sidéral, soit une rotation complète de la Terre par rapport aux étoiles ?",
+  "r": "23 h 56 min",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel instrument de géométrie en demi-cercle gradué sert à mesurer les angles ?",
+  "r": "Le rapporteur",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on la réaction chimique d'un combustible avec l'oxygène, qui dégage chaleur et flamme ?",
+  "r": "La combustion",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel astronome grec d'Alexandrie a exposé le modèle géocentrique dans son traité l'« Almageste » ?",
+  "r": "Ptolémée",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel chimiste allemand aurait imaginé la structure en anneau du benzène en rêvant d'un serpent qui se mord la queue ?",
+  "r": "August Kekulé",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on le mélange d'acides nitrique et chlorhydrique capable de dissoudre l'or ?",
+  "r": "L'eau régale",
+  "d": 3,
+  "t": "Chimie"
+ },
+ {
+  "q": "Dans quel pays le QR code a-t-il été inventé en 1994, à l'origine pour suivre des pièces automobiles ?",
+  "r": "Le Japon",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment appelle-t-on le petit fichier déposé par un site web sur l'ordinateur d'un internaute pour mémoriser ses préférences ?",
+  "r": "Un cookie (témoin)",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Combien vaut 2 puissance 10 ?",
+  "r": "1 024",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on le jour le plus long de l'année dans l'hémisphère Nord, vers le 21 juin ?",
+  "r": "Le solstice d'été",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quelle sonde soviétique a photographié pour la première fois la face cachée de la Lune, en 1959 ?",
+  "r": "Luna 3",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Quelle couleur de lumière obtient-on en superposant toutes les couleurs de l'arc-en-ciel ?",
+  "r": "Le blanc",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Pourquoi un glaçon flotte-t-il à la surface de l'eau ?",
+  "r": "La glace est moins dense que l'eau",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Comment appelle-t-on l'isotope de l'hydrogène dont le noyau compte un proton et un neutron ?",
+  "r": "Le deutérium",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel petit générateur, frottant contre la roue, alimentait autrefois l'éclairage des bicyclettes ?",
+  "r": "La dynamo",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Comment appelle-t-on le test qui demande de recopier des caractères déformés pour prouver qu'on n'est pas un robot ?",
+  "r": "Un CAPTCHA",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quelle couleur prend généralement la Lune lors d'une éclipse totale de Lune ?",
+  "r": "Rouge cuivré",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on le son renvoyé par une paroi ou une falaise, que l'on entend avec un léger retard ?",
+  "r": "L'écho",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Dans l'usage français, combien vaut un billion ?",
+  "r": "Mille milliards (10¹²)",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel ingénieur français, auteur en 1824 des « Réflexions sur la puissance motrice du feu », est considéré comme le père de la thermodynamique ?",
+  "r": "Sadi Carnot",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel physicien français, prix Nobel 1929, a proposé d'associer une onde à toute particule de matière ?",
+  "r": "Louis de Broglie",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Dans quel pays se trouve le cosmodrome de Baïkonour, d'où a décollé Gagarine ?",
+  "r": "Le Kazakhstan",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on une planète qui tourne autour d'une autre étoile que le Soleil ?",
+  "r": "Une exoplanète",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Pourquoi répand-on du sel sur les routes verglacées en hiver ?",
+  "r": "Il abaisse le point de congélation",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel savant, directeur de l'Observatoire de Paris, est honoré par des médaillons de bronze qui jalonnent le méridien de Paris ?",
+  "r": "François Arago",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on en français une LED, source lumineuse à semi-conducteur ?",
+  "r": "Une diode électroluminescente",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on la force d'attraction qui nous maintient au sol et fait tomber les objets ?",
+  "r": "La gravitation (pesanteur)",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Dans quel pays l'Observatoire européen austral a-t-il installé le VLT, dans le désert d'Atacama ?",
+  "r": "Le Chili",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on les deux extrémités d'un aimant, où son attraction est la plus forte ?",
+  "r": "Les pôles (nord et sud)",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on les deux moments de l'année où le jour et la nuit ont à peu près la même durée partout sur Terre ?",
+  "r": "Les équinoxes",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on le segment qui relie le centre d'un cercle à un point de ce cercle ?",
+  "r": "Le rayon",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel acide donne son goût acidulé au citron ?",
+  "r": "L'acide citrique",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on un programme malveillant capable de se reproduire et de se propager d'un ordinateur à l'autre, par analogie avec la biologie ?",
+  "r": "Un virus informatique",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel professeur de lettres a proposé en 1955 à IBM France le mot « ordinateur » ?",
+  "r": "Jacques Perret",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel liquide, de formule H₂O₂, sert à désinfecter les plaies et à décolorer les cheveux ?",
+  "r": "L'eau oxygénée",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel mathématicien d'origine hongroise a donné son nom à l'architecture des ordinateurs à programme enregistré ?",
+  "r": "John von Neumann",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Pourquoi les aliments cuisent-ils plus vite dans un autocuiseur ?",
+  "r": "L'eau y bout au-delà de 100 °C",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel chimiste français, homonyme d'un célèbre écrivain, a énoncé la loi des proportions définies ?",
+  "r": "Joseph Louis Proust",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Sous quel pseudonyme se cache le créateur de la cryptomonnaie bitcoin ?",
+  "r": "Satoshi Nakamoto",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment appelle-t-on un nombre entier qui n'est divisible que par 1 et par lui-même ?",
+  "r": "Un nombre premier",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel nom porte la force verticale, dirigée vers le haut, que subit tout corps plongé dans un liquide ?",
+  "r": "La poussée d'Archimède",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel élément, découvert en 1669 par l'alchimiste Hennig Brand en distillant de l'urine, luit dans l'obscurité ?",
+  "r": "Le phosphore",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel appareil de mesure, branché en dérivation, indique la tension électrique en volts ?",
+  "r": "Le voltmètre",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quelle femme de sciences, compagne de Voltaire, a traduit en français les « Principia » de Newton ?",
+  "r": "Émilie du Châtelet",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle propriété de la surface de l'eau permet à certains insectes, comme le gerris, de marcher dessus ?",
+  "r": "La tension superficielle",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle ceinture de petits corps glacés s'étend au-delà de l'orbite de Neptune et abrite Pluton ?",
+  "r": "La ceinture de Kuiper",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel appareil enregistre les mouvements du sol lors d'un tremblement de terre ?",
+  "r": "Le sismographe",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quelle force apparente plaque le linge contre la paroi du tambour d'une machine à laver pendant l'essorage ?",
+  "r": "La force centrifuge",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel rayonnement invisible émettent les télécommandes de téléviseur pour transmettre leurs ordres ?",
+  "r": "L'infrarouge",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Pourquoi la Lune paraît-elle plus grosse lorsqu'elle est près de l'horizon ?",
+  "r": "C'est une illusion d'optique",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel rayonnement radioactif, désigné par une lettre grecque, est le plus pénétrant et n'est arrêté que par d'épaisses couches de plomb ou de béton ?",
+  "r": "Le rayonnement gamma",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on un triangle dont les trois côtés ont la même longueur ?",
+  "r": "Un triangle équilatéral",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel ministre de Louis XIV a fondé l'Académie royale des sciences en 1666 ?",
+  "r": "Jean-Baptiste Colbert",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Autour de quel point de Lagrange, à 1,5 million de km de la Terre, le télescope James Webb est-il placé ?",
+  "r": "Le point L2",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Que perçoit-on réellement lorsqu'on porte un gros coquillage à son oreille pour « entendre la mer » ?",
+  "r": "Les bruits ambiants amplifiés",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quelle unité du Système international mesure la température thermodynamique, avec un zéro placé au zéro absolu ?",
+  "r": "Le kelvin",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel était le nom du premier satellite français, lancé en 1965 ?",
+  "r": "Astérix",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment s'appelait la première station spatiale de l'histoire, lancée par l'URSS en 1971 ?",
+  "r": "Saliout 1",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Quelle unité de masse anglo-saxonne vaut environ 453 grammes ?",
+  "r": "La livre (pound)",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel astronaute américain fut, en décembre 1972, le dernier homme à marcher sur la Lune ?",
+  "r": "Eugene Cernan",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel principe de mécanique des fluides, dû à un savant suisse du XVIIIe siècle, relie la vitesse d'un fluide à sa pression ?",
+  "r": "Le principe de Bernoulli",
+  "d": 3,
+  "t": "Physique"
+ },
+ {
+  "q": "Que compte le numéro atomique d'un élément chimique ?",
+  "r": "Le nombre de protons",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quelle vitesse minimale, d'environ 11,2 km/s depuis la Terre, un objet doit-il atteindre pour échapper définitivement à l'attraction terrestre ?",
+  "r": "La vitesse de libération",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on les deux galaxies naines visibles à l'œil nu dans le ciel de l'hémisphère Sud, qui portent le nom d'un navigateur ?",
+  "r": "Les Nuages de Magellan",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Pourquoi une bouteille en verre remplie d'eau peut-elle éclater au congélateur ?",
+  "r": "L'eau se dilate en gelant",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Comment appelle-t-on un polygone à cinq côtés ?",
+  "r": "Un pentagone",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quelle unité du Système international mesure un angle, en rapportant la longueur de l'arc au rayon ?",
+  "r": "Le radian",
+  "d": 3,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "À l'origine, le mètre était défini comme quelle fraction de la distance entre le pôle Nord et l'équateur ?",
+  "r": "Un dix-millionième",
+  "d": 2,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Comment appelle-t-on un astronaute chinois ?",
+  "r": "Un taïkonaute",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on un alliage contenant du mercure, longtemps utilisé pour les plombages dentaires ?",
+  "r": "Un amalgame",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quelle matière, mise au point en 1907 par Leo Baekeland, est considérée comme le premier plastique entièrement synthétique ?",
+  "r": "La bakélite",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on une très grande molécule formée par la répétition d'un même motif, comme les plastiques ?",
+  "r": "Un polymère",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quelle comète très brillante est restée visible à l'œil nu pendant plusieurs mois en 1997 ?",
+  "r": "Hale-Bopp",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel mathématicien français, reconnaissable à sa lavallière et à sa broche en forme d'araignée, a reçu la médaille Fields en 2010 ?",
+  "r": "Cédric Villani",
+  "d": 2,
+  "t": "Histoire des sciences"
+ }
+]

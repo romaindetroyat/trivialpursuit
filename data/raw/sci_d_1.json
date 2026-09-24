@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel métal rare, anormalement abondant dans une fine couche géologique vieille de 66 millions d'années, a appuyé l'hypothèse d'un impact d'astéroïde ?",
+  "r": "L'iridium",
+  "d": 3,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel astronome suédois a donné son nom à l'échelle de température où l'eau gèle à 0 degré ?",
+  "r": "Anders Celsius",
+  "d": 1,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle est la tension nominale du courant électrique domestique en France ?",
+  "r": "230 volts",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Comment appelle-t-on le produit de tous les entiers de 1 à n, noté n! ?",
+  "r": "La factorielle",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel programme de DeepMind a battu en 2016 le champion de go sud-coréen Lee Sedol ?",
+  "r": "AlphaGo",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel légume au jus violet change de couleur selon l'acidité et sert d'indicateur coloré naturel ?",
+  "r": "Le chou rouge",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel langage de programmation doit son nom à une île indonésienne célèbre pour son café ?",
+  "r": "Java",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment s'appelait la chatte française envoyée dans l'espace en 1963 ?",
+  "r": "Félicette",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on l'antiparticule de l'électron, de charge positive ?",
+  "r": "Le positon (positron)",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel gaz rare porte un nom qui évoque aussi la planète natale de Superman ?",
+  "r": "Le krypton",
+  "d": 1,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Comment appelle-t-on l'horloge antique qui mesurait le temps par l'écoulement régulier de l'eau ?",
+  "r": "La clepsydre",
+  "d": 2,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quel vaisseau russe, en service depuis 1967, transporte des équipages vers les stations spatiales ?",
+  "r": "Soyouz",
+  "d": 1,
+  "t": "Espace"
+ },
+ {
+  "q": "De quel degré est une équation de la forme ax² + bx + c = 0 ?",
+  "r": "Du second degré",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel métal de la famille du platine est l'élément naturel le plus dense ?",
+  "r": "L'osmium",
+  "d": 3,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel élément toxique, surnommé « poudre de succession », fut longtemps le poison favori des empoisonneurs ?",
+  "r": "L'arsenic",
+  "d": 1,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Comment appelle-t-on un logiciel malveillant qui se fait passer pour un programme inoffensif, par référence à une ruse de la guerre de Troie ?",
+  "r": "Un cheval de Troie",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quelles ondes, prédites par Einstein, ont été détectées directement pour la première fois en 2015 ?",
+  "r": "Les ondes gravitationnelles",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel philosophe italien fut brûlé à Rome en 1600, notamment pour avoir soutenu l'existence d'une infinité de mondes ?",
+  "r": "Giordano Bruno",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel instrument les marins utilisaient-ils pour mesurer la hauteur des astres au-dessus de l'horizon ?",
+  "r": "Le sextant",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Comment appelle-t-on la machine imaginaire qui fonctionnerait éternellement sans aucun apport d'énergie ?",
+  "r": "Le mouvement perpétuel",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle planète naine, découverte en 2005 au-delà de Neptune, a précipité le déclassement de Pluton ?",
+  "r": "Éris",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel nombre s'écrit D en chiffres romains ?",
+  "r": "500",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on un angle qui mesure exactement 90 degrés ?",
+  "r": "Un angle droit",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Comment appelle-t-on le logiciel qui permet de consulter des pages sur le Web, comme Firefox ou Chrome ?",
+  "r": "Un navigateur",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel mathématicien français a formulé en 1904 une célèbre conjecture sur la sphère, démontrée un siècle plus tard ?",
+  "r": "Henri Poincaré",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel homme d'affaires américain est devenu en 2001 le premier touriste spatial en payant son séjour à bord de l'ISS ?",
+  "r": "Dennis Tito",
+  "d": 3,
+  "t": "Espace"
+ },
+ {
+  "q": "Comment appelle-t-on le rapport entre la vitesse d'un objet et celle du son, qui porte le nom d'un physicien autrichien ?",
+  "r": "Le nombre de Mach",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle ancienne unité de distance figure dans le titre d'un roman de Jules Verne consacré au capitaine Nemo ?",
+  "r": "La lieue",
+  "d": 1,
+  "t": "Unités et mesures"
+ },
+ {
+  "q": "Quel mathématicien français a inventé en 1883 le casse-tête des tours de Hanoï ?",
+  "r": "Édouard Lucas",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel instrument à toupie, baptisé ainsi par Léon Foucault, garde une orientation fixe et sert à la navigation des avions ?",
+  "r": "Le gyroscope",
+  "d": 2,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Comment appelle-t-on le flux de particules chargées émis en permanence par le Soleil ?",
+  "r": "Le vent solaire",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel réseau social Mark Zuckerberg a-t-il lancé en 2004 depuis l'université Harvard ?",
+  "r": "Facebook",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Pourquoi la transpiration rafraîchit-elle le corps ?",
+  "r": "L'évaporation absorbe de la chaleur",
+  "d": 2,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quelle lune de Jupiter, recouverte d'une croûte de glace, abriterait un océan d'eau liquide ?",
+  "r": "Europe",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel cristal, qui vibre à une fréquence très stable, sert de référence de temps dans la plupart des montres électroniques ?",
+  "r": "Le quartz",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quel petit hélicoptère a réalisé en 2021 le premier vol motorisé contrôlé sur une autre planète que la Terre ?",
+  "r": "Ingenuity",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel acide fort, jadis appelé « huile de vitriol », remplit les batteries au plomb des voitures ?",
+  "r": "L'acide sulfurique",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quelle grandeur, exprimée en kilogrammes, mesure la quantité de matière d'un corps et ne change pas sur la Lune ?",
+  "r": "La masse",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel méridien a été adopté en 1884 comme méridien d'origine international des longitudes ?",
+  "r": "Le méridien de Greenwich",
+  "d": 1,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle physicienne autrichienne, qui participa à l'explication de la fission nucléaire, a donné son nom à l'élément 109 ?",
+  "r": "Lise Meitner",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel instrument à lentilles Galilée a-t-il pointé vers le ciel en 1609 pour observer la Lune et Jupiter ?",
+  "r": "La lunette astronomique",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Quel code d'erreur s'affiche lorsqu'une page web demandée est introuvable ?",
+  "r": "404",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel chimiste américain est le seul à avoir reçu deux prix Nobel non partagés, en chimie (1954) et pour la paix (1962) ?",
+  "r": "Linus Pauling",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "À quelle altitude place-t-on conventionnellement la limite de l'espace, appelée ligne de Kármán ?",
+  "r": "100 km",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel ingénieur d'origine allemande, concepteur du V2, dirigea le développement de la fusée lunaire américaine ?",
+  "r": "Wernher von Braun",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel composant, souvent surnommé le « cerveau » de l'ordinateur, exécute les instructions des programmes ?",
+  "r": "Le processeur",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel physicien américain, prix Nobel 1965, a montré à la télévision la cause de l'accident de Challenger avec un verre d'eau glacée ?",
+  "r": "Richard Feynman",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Comment appelle-t-on la force aérodynamique, née de l'écoulement de l'air autour des ailes, qui maintient un avion en vol ?",
+  "r": "La portance",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel solide possède une base en forme de disque et un sommet pointu ?",
+  "r": "Un cône",
+  "d": 1,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel savant allemand a inventé le calcul différentiel indépendamment de Newton, à la fin du XVIIe siècle ?",
+  "r": "Gottfried Wilhelm Leibniz",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle constellation, ignorée par l'astrologie, le Soleil traverse-t-il entre le Scorpion et le Sagittaire ?",
+  "r": "Ophiuchus (le Serpentaire)",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel physicien français a conçu les lentilles à échelons qui équipent les phares maritimes ?",
+  "r": "Augustin Fresnel",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel effet permet aux panneaux solaires de convertir directement la lumière en électricité ?",
+  "r": "L'effet photovoltaïque",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel appareil de détection, dont le nom est l'acronyme anglais de « radio detection and ranging », repère les avions grâce à l'écho d'ondes radio ?",
+  "r": "Le radar",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle propriété, découverte en 1880 par Pierre et Jacques Curie, permet à certains cristaux comprimés de produire une tension électrique, comme dans les briquets à allumage électronique ?",
+  "r": "La piézoélectricité",
+  "d": 3,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle mathématicienne afro-américaine de la NASA, héroïne du film « Les Figures de l'ombre », a vérifié les calculs du vol orbital de John Glenn ?",
+  "r": "Katherine Johnson",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quel mathématicien anglais a conçu au XIXe siècle la « machine analytique », ancêtre de l'ordinateur ?",
+  "r": "Charles Babbage",
+  "d": 2,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Que désignait le mot latin « calculus », à l'origine du mot calcul ?",
+  "r": "Un petit caillou",
+  "d": 2,
+  "t": "Mathématiques"
+ },
+ {
+  "q": "Quel appareil les sous-marins utilisent-ils pour détecter les obstacles grâce à l'écho d'ondes sonores ?",
+  "r": "Le sonar",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Quelle mission a été la première à emmener des hommes en orbite autour de la Lune, en décembre 1968 ?",
+  "r": "Apollo 8",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel élément chimique, découvert en 1886 par Clemens Winkler, porte le nom de l'Allemagne ?",
+  "r": "Le germanium",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel chiffrement consiste à décaler chaque lettre de l'alphabet d'un nombre fixe de rangs, du nom d'un général romain qui l'employait ?",
+  "r": "Le chiffre de César",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "De quelle forme de carbone est faite la mine d'un crayon à papier ?",
+  "r": "Le graphite",
+  "d": 1,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel instrument d'optique, doté de lentilles puissantes, permet d'observer des objets invisibles à l'œil nu comme les cellules ?",
+  "r": "Le microscope",
+  "d": 1,
+  "t": "Instruments de mesure"
+ },
+ {
+  "q": "Comment appelle-t-on le principe selon lequel un corps reste immobile ou en mouvement rectiligne uniforme si aucune force ne s'exerce sur lui ?",
+  "r": "Le principe d'inertie",
+  "d": 2,
+  "t": "Physique"
+ },
+ {
+  "q": "Quel produit, utilisé par la police scientifique, révèle les traces de sang en émettant une lueur bleue ?",
+  "r": "Le luminol",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel petit composant de sécurité fond pour couper le courant en cas de surintensité dans un circuit ?",
+  "r": "Le fusible",
+  "d": 1,
+  "t": "Physique"
+ },
+ {
+  "q": "Comment appelle-t-on un nuage de gaz et de poussières dans l'espace, où naissent souvent les étoiles ?",
+  "r": "Une nébuleuse",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quels sont les trois éléments du « triangle du feu », nécessaires à toute combustion ?",
+  "r": "Combustible, comburant, chaleur",
+  "d": 2,
+  "t": "Chimie"
+ },
+ {
+  "q": "Quel gaz émis par les fruits mûrs, comme la banane, accélère le mûrissement des fruits voisins ?",
+  "r": "L'éthylène",
+  "d": 3,
+  "t": "Chimie"
+ },
+ {
+  "q": "Comment appelle-t-on la phase où la Lune apparaît comme un disque entièrement éclairé ?",
+  "r": "La pleine lune",
+  "d": 1,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel animal est la mascotte officielle du système d'exploitation Linux ?",
+  "r": "Un manchot (Tux)",
+  "d": 2,
+  "t": "Informatique"
+ },
+ {
+  "q": "Comment appelle-t-on en français le phishing, technique de fraude par faux courriels destinée à voler des identifiants ?",
+  "r": "L'hameçonnage",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Quel élément radioactif artificiel, présent dans certains détecteurs de fumée, porte le nom d'un continent ?",
+  "r": "L'américium",
+  "d": 3,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Comment appelle-t-on la plus ancienne lumière de l'Univers, émise environ 380 000 ans après le Big Bang ?",
+  "r": "Le fond diffus cosmologique",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Comment appelle-t-on la transformation du sucre chauffé en une substance brune et aromatique ?",
+  "r": "La caramélisation",
+  "d": 1,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quel immense réservoir sphérique de comètes, jamais observé directement, entourerait le système solaire à très grande distance ?",
+  "r": "Le nuage d'Oort",
+  "d": 3,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel ingénieur américain a mécanisé le recensement de 1890 grâce à des cartes perforées, avant de fonder l'ancêtre d'IBM ?",
+  "r": "Herman Hollerith",
+  "d": 3,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle mémoire d'un ordinateur, désignée par le sigle RAM, s'efface quand on l'éteint ?",
+  "r": "La mémoire vive",
+  "d": 1,
+  "t": "Informatique"
+ },
+ {
+  "q": "Dans quel parc parisien se trouve la Cité des sciences et de l'industrie, ouverte en 1986 ?",
+  "r": "La Villette",
+  "d": 1,
+  "t": "Histoire des sciences"
+ },
+ {
+  "q": "Quelle est la distance moyenne entre la Terre et la Lune ?",
+  "r": "Environ 384 000 km",
+  "d": 2,
+  "t": "Astronomie"
+ },
+ {
+  "q": "Quel métal, qui a donné son nom à un bleu intense, tire son nom d'un lutin malicieux des mines allemandes ?",
+  "r": "Le cobalt",
+  "d": 2,
+  "t": "Éléments chimiques"
+ },
+ {
+  "q": "Quel astronaute est devenu en 1962 le premier Américain à effectuer un vol en orbite autour de la Terre ?",
+  "r": "John Glenn",
+  "d": 2,
+  "t": "Espace"
+ },
+ {
+  "q": "Quel effet, controversé, désigne le fait qu'une eau chaude puisse geler plus vite qu'une eau froide, du nom d'un lycéen tanzanien ?",
+  "r": "L'effet Mpemba",
+  "d": 3,
+  "t": "Phénomènes du quotidien"
+ },
+ {
+  "q": "Quelle est l'unité de base du temps dans le Système international ?",
+  "r": "La seconde",
+  "d": 1,
+  "t": "Unités et mesures"
+ }
+]
