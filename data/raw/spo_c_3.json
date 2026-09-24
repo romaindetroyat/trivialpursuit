@@ -1,93 +1,542 @@
 [
-  {"q": "Quel jeu de société américain fait acheter des rues, des gares et des compagnies pour ruiner ses adversaires ?", "r": "Le Monopoly", "d": 1, "t": "Jeux de société"},
-  {"q": "Quelle est la propriété la plus chère du Monopoly dans sa version française classique ?", "r": "La rue de la Paix", "d": 1, "t": "Jeux de société"},
-  {"q": "Quelle est la propriété la moins chère du Monopoly dans sa version française classique ?", "r": "Le boulevard de Belleville", "d": 2, "t": "Jeux de société"},
-  {"q": "Combien de gares compte le plateau du Monopoly ?", "r": "Quatre", "d": 1, "t": "Jeux de société"},
-  {"q": "Au Scrabble en français, combien de points rapporte la lettre Z ?", "r": "10 points", "d": 2, "t": "Jeux de société"},
-  {"q": "Combien de lettres chaque joueur a-t-il sur son chevalet au Scrabble ?", "r": "Sept", "d": 1, "t": "Jeux de société"},
-  {"q": "Au Scrabble, combien de points de bonus rapporte le fait de poser ses sept lettres en un seul coup ?", "r": "50 points", "d": 2, "t": "Jeux de société"},
-  {"q": "Dans quel jeu de société faut-il découvrir le coupable, l'arme et la pièce du crime commis dans un manoir ?", "r": "Le Cluedo", "d": 1, "t": "Jeux de société"},
-  {"q": "Quel militaire à la couleur jaune fait partie des suspects du Cluedo dans sa version française ?", "r": "Le colonel Moutarde", "d": 1, "t": "Jeux de société"},
-  {"q": "Quel jeu de stratégie, créé en 1957 par le cinéaste Albert Lamorisse, fut d'abord publié sous le titre « La Conquête du monde » ?", "r": "Risk", "d": 3, "t": "Jeux de société"},
-  {"q": "Quel jeu allemand de 1995 invite à coloniser une île en échangeant bois, argile, laine, blé et minerai ?", "r": "Les Colons de Catane", "d": 2, "t": "Jeux de société"},
-  {"q": "Quel jeu de société fait deviner des mots à son équipe uniquement à l'aide de dessins ?", "r": "Le Pictionary", "d": 1, "t": "Jeux de société"},
-  {"q": "Quel jeu de questions, inventé en 1979 par deux Canadiens, fait gagner des « camemberts » dans six catégories ?", "r": "Le Trivial Pursuit", "d": 1, "t": "Jeux de société"},
-  {"q": "Quel jeu de déduction consiste à deviner le personnage de l'adversaire en posant des questions sur son apparence ?", "r": "Qui est-ce ?", "d": 1, "t": "Jeux de société"},
-  {"q": "Combien de cases compte le parcours en spirale du jeu de l'oie traditionnel ?", "r": "63", "d": 2, "t": "Jeux de société"},
-  {"q": "Au jeu de l'oie, quelle case numérotée représente la mort et oblige à recommencer la partie ?", "r": "La case 58", "d": 3, "t": "Jeux de société"},
-  {"q": "Combien de cases compte un damier de jeu de dames international ?", "r": "100", "d": 2, "t": "Jeux de société"},
-  {"q": "Quel jeu de stratégie d'origine chinoise, très populaire au Japon, oppose pierres noires et blanches sur une grille de 19 lignes sur 19 ?", "r": "Le go", "d": 1, "t": "Jeux de société"},
-  {"q": "Sous quel autre nom commercial connaît-on le reversi, jeu de pions bicolores que l'on retourne ?", "r": "Othello", "d": 2, "t": "Jeux de société"},
-  {"q": "Quel jeu de dés consiste à réaliser des combinaisons comme le full, le carré ou la grande suite avec cinq dés ?", "r": "Le yams (Yahtzee)", "d": 1, "t": "Jeux de société"},
-  {"q": "Quelle est la somme de tous les points inscrits sur les six faces d'un dé classique ?", "r": "21", "d": 1, "t": "Jeux de société"},
-  {"q": "Sur un dé classique, quel nombre figure sur la face opposée au 6 ?", "r": "Le 1", "d": 2, "t": "Jeux de société"},
-  {"q": "Quel jeu d'adresse consiste à retirer des blocs de bois d'une tour sans la faire tomber, son nom venant du swahili ?", "r": "Le Jenga", "d": 2, "t": "Jeux de société"},
-  {"q": "Combien de pièces compte un jeu de dominos classique allant jusqu'au double-six ?", "r": "28", "d": 2, "t": "Jeux de société"},
-  {"q": "Quel jeu de tuiles d'origine chinoise comporte notamment les familles des bambous, des caractères et des cercles ?", "r": "Le mah-jong", "d": 2, "t": "Jeux de société"},
-  {"q": "Quel jeu d'ambiance français, conçu par Jean-Louis Roubira, fait retrouver des cartes aux illustrations oniriques à partir d'un indice ?", "r": "Dixit", "d": 3, "t": "Jeux de société"},
-  {"q": "Quel jeu de cartes de course automobile a été créé en France en 1954 par Edmond Dujardin ?", "r": "Le 1000 bornes", "d": 2, "t": "Jeux de société"},
-  {"q": "Au 1000 bornes, quelle carte « botte » protège définitivement contre les crevaisons ?", "r": "Increvable", "d": 3, "t": "Jeux de société"},
-  {"q": "Quel jeu de casino se joue sur un cylindre à 37 cases numérotées de 0 à 36 ?", "r": "La roulette", "d": 1, "t": "Jeux de hasard"},
-  {"q": "Combien de cartes compte un jeu de tarot ?", "r": "78", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Au tarot, comment appelle-t-on les trois cartes maîtresses que sont le 1 d'atout, le 21 et l'Excuse ?", "r": "Les bouts (oudlers)", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Au tarot, quel nom donne-t-on au 1 d'atout ?", "r": "Le Petit", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Combien de cartes compte le jeu utilisé pour la belote ?", "r": "32", "d": 1, "t": "Jeux de cartes"},
-  {"q": "À la belote, quelle carte est la plus forte dans la couleur d'atout ?", "r": "Le valet", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Au poker, comment appelle-t-on la suite de l'as au dix dans une même couleur, meilleure main possible ?", "r": "La quinte flush royale", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Au Texas hold'em, combien de cartes cachées chaque joueur reçoit-il en début de donne ?", "r": "Deux", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Quel jeu de levées anglais du XVIIIe siècle est considéré comme l'ancêtre du bridge ?", "r": "Le whist", "d": 3, "t": "Jeux de cartes"},
-  {"q": "Au bridge, comment appelle-t-on le joueur dont les cartes sont étalées face visible sur la table ?", "r": "Le mort", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Quel jeu de cartes, créé aux États-Unis en 1971, oblige à annoncer son nom lorsqu'il ne reste qu'une carte en main ?", "r": "Le Uno", "d": 1, "t": "Jeux de cartes"},
-  {"q": "Quel jeu de cartes à collectionner, créé en 1993 par Richard Garfield, oppose des duels de magiciens ?", "r": "Magic : l'Assemblée", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Quelles sont les quatre couleurs d'un jeu de cartes français ?", "r": "Pique, cœur, carreau, trèfle", "d": 1, "t": "Jeux de cartes"},
-  {"q": "Dans le jeu de cartes français traditionnel, quel roi biblique est représenté sur le roi de pique ?", "r": "David", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Dans le jeu de cartes français traditionnel, quel général romain est représenté sur le roi de carreau ?", "r": "Jules César", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Dans le jeu de cartes français traditionnel, quelle déesse guerrière est représentée sur la dame de pique ?", "r": "Pallas (Athéna)", "d": 3, "t": "Jeux de cartes"},
-  {"q": "Quel jeu de cartes pour enfants demande de réunir le grand-père, la grand-mère, le père, la mère, le fils et la fille ?", "r": "Le jeu des sept familles", "d": 1, "t": "Jeux de cartes"},
-  {"q": "Au blackjack, quel total de points ne faut-il surtout pas dépasser ?", "r": "21", "d": 1, "t": "Jeux de cartes"},
-  {"q": "Comment appelle-t-on les 22 atouts illustrés d'un tarot divinatoire, comme le Bateleur ou la Roue de fortune ?", "r": "Les arcanes majeurs", "d": 2, "t": "Jeux de cartes"},
-  {"q": "Aux échecs, quelle pièce se déplace en formant un « L » ?", "r": "Le cavalier", "d": 1, "t": "Échecs"},
-  {"q": "Combien de pions chaque joueur possède-t-il au début d'une partie d'échecs ?", "r": "Huit", "d": 1, "t": "Échecs"},
-  {"q": "Comment appelle-t-on le coup spécial des échecs où le roi et une tour se déplacent simultanément ?", "r": "Le roque", "d": 1, "t": "Échecs"},
-  {"q": "Aux échecs, comment appelle-t-on la prise particulière d'un pion adverse qui vient d'avancer de deux cases ?", "r": "La prise en passant", "d": 2, "t": "Échecs"},
-  {"q": "Aux échecs, comment appelle-t-on la situation de partie nulle où un joueur ne peut plus jouer sans mettre son roi en échec ?", "r": "Le pat", "d": 2, "t": "Échecs"},
-  {"q": "Quelle pièce occupe chacun des quatre coins de l'échiquier au début d'une partie ?", "r": "La tour", "d": 1, "t": "Échecs"},
-  {"q": "Combien de cases compte un échiquier ?", "r": "64", "d": 1, "t": "Échecs"},
-  {"q": "Quel Américain est devenu champion du monde d'échecs en 1972 en battant Boris Spassky à Reykjavik ?", "r": "Bobby Fischer", "d": 1, "t": "Échecs"},
-  {"q": "Quel ordinateur d'IBM a battu le champion du monde Garry Kasparov en 1997 ?", "r": "Deep Blue", "d": 1, "t": "Échecs"},
-  {"q": "Comment appelle-t-on une ouverture d'échecs dans laquelle on sacrifie volontairement un pion pour obtenir un avantage ?", "r": "Un gambit", "d": 2, "t": "Échecs"},
-  {"q": "Quelle série de 2020 suit Beth Harmon, orpheline devenue prodige des échecs ?", "r": "Le Jeu de la dame", "d": 1, "t": "Échecs"},
-  {"q": "Comment appelle-t-on en français le mat en quatre coups qui attaque la case f7 avec la dame et le fou ?", "r": "Le coup du berger", "d": 2, "t": "Échecs"},
-  {"q": "Dans quel café parisien, cadre du « Neveu de Rameau » de Diderot, se retrouvaient les meilleurs joueurs d'échecs du XVIIIe siècle ?", "r": "Le café de la Régence", "d": 3, "t": "Échecs"},
-  {"q": "Quel compositeur français du XVIIIe siècle, meilleur joueur d'échecs de son temps, affirmait que « les pions sont l'âme des échecs » ?", "r": "Philidor", "d": 3, "t": "Échecs"},
-  {"q": "Quel artiste français, auteur de « Fontaine », délaissa en grande partie l'art pour se consacrer aux échecs ?", "r": "Marcel Duchamp", "d": 3, "t": "Échecs"},
-  {"q": "Quel Norvégien est devenu champion du monde d'échecs en 2013 en battant Viswanathan Anand ?", "r": "Magnus Carlsen", "d": 2, "t": "Échecs"},
-  {"q": "Quelle entreprise danoise a breveté en 1958 sa célèbre brique en plastique à tenons et tubes ?", "r": "Lego", "d": 1, "t": "Jouets"},
-  {"q": "Que signifie l'expression danoise « leg godt », à l'origine du nom Lego ?", "r": "« Joue bien »", "d": 2, "t": "Jouets"},
-  {"q": "Quelle poupée lancée par Mattel en 1959 s'appelle en réalité Barbara Millicent Roberts ?", "r": "Barbie", "d": 1, "t": "Jouets"},
-  {"q": "Quel président américain a donné son surnom à l'ours en peluche appelé « teddy bear » ?", "r": "Theodore Roosevelt", "d": 1, "t": "Jouets"},
-  {"q": "Quelle entreprise allemande, fondée par Margarete, reconnaît ses peluches à un bouton dans l'oreille ?", "r": "Steiff", "d": 3, "t": "Jouets"},
-  {"q": "Quel casse-tête en forme de cube a été inventé en 1974 par un professeur d'architecture hongrois ?", "r": "Le Rubik's Cube", "d": 1, "t": "Jouets"},
-  {"q": "Combien de petites facettes colorées compte au total un Rubik's Cube classique 3×3×3 ?", "r": "54", "d": 2, "t": "Jouets"},
-  {"q": "Quelle marque allemande de figurines en plastique de 7,5 cm a été lancée en 1974 ?", "r": "Playmobil", "d": 2, "t": "Jouets"},
-  {"q": "Quel jouet de dentition en caoutchouc, en forme d'animal au long cou, est né en France en 1961 ?", "r": "Sophie la girafe", "d": 2, "t": "Jouets"},
-  {"q": "Quel jouet à dessin, avec deux boutons et un écran de poudre d'aluminium, fut inventé par le Français André Cassagnes ?", "r": "L'Écran magique", "d": 2, "t": "Jouets"},
-  {"q": "Quel jouet en forme de ressort hélicoïdal, capable de descendre les escaliers tout seul, fut inventé aux États-Unis dans les années 1940 ?", "r": "Le Slinky", "d": 3, "t": "Jouets"},
-  {"q": "Quel disque volant en plastique tire son nom d'une pâtisserie du Connecticut dont les étudiants se lançaient les moules à tarte ?", "r": "Le Frisbee", "d": 2, "t": "Jouets"},
-  {"q": "Quel jouet est formé de deux disques reliés par un axe autour duquel s'enroule une ficelle ?", "r": "Le yo-yo", "d": 1, "t": "Jouets"},
-  {"q": "Quel cerceau en plastique, que l'on fait tourner autour de la taille, a fait fureur aux États-Unis en 1958 ?", "r": "Le hula hoop", "d": 1, "t": "Jouets"},
-  {"q": "Quel animal virtuel électronique en forme d'œuf, qu'il fallait nourrir et soigner, a été lancé au Japon en 1996 ?", "r": "Le Tamagotchi", "d": 1, "t": "Jouets"},
-  {"q": "Quelle console portable de Nintendo, sortie en 1989, était vendue avec le jeu Tetris ?", "r": "La Game Boy", "d": 1, "t": "Jouets"},
-  {"q": "Quel jeu de construction français est composé uniquement de planchettes de pin identiques, sans colle ni attache ?", "r": "Kapla", "d": 2, "t": "Jouets"},
-  {"q": "Quelles poupées gigognes en bois peint, emboîtées les unes dans les autres, sont un emblème de la Russie ?", "r": "Les matriochkas", "d": 1, "t": "Jouets"},
-  {"q": "Quel cow-boy en tissu est le jouet préféré d'Andy dans « Toy Story » ?", "r": "Woody", "d": 1, "t": "Jouets"},
-  {"q": "Quel outil permet de vérifier l'horizontalité d'une surface grâce à une bulle d'air ?", "r": "Le niveau à bulle", "d": 1, "t": "Bricolage"},
-  {"q": "Comment appelle-t-on couramment la clé hexagonale coudée en forme de L ?", "r": "La clé Allen", "d": 2, "t": "Bricolage"},
-  {"q": "Quel outil de menuisier permet d'aplanir une pièce de bois en enlevant de fins copeaux ?", "r": "Le rabot", "d": 1, "t": "Bricolage"},
-  {"q": "Comment appelle-t-on l'assemblage de menuiserie en forme de trapèze évasé évoquant une queue d'oiseau ?", "r": "La queue d'aronde", "d": 2, "t": "Bricolage"},
-  {"q": "Quel mélange de sulfate de cuivre et de chaux protège la vigne et les tomates du mildiou ?", "r": "La bouillie bordelaise", "d": 2, "t": "Jardinage"},
-  {"q": "Quel art japonais consiste à cultiver des arbres miniatures en pot ?", "r": "Le bonsaï", "d": 1, "t": "Jardinage"},
-  {"q": "Comment appelle-t-on l'art de tailler les arbres et les arbustes en formes géométriques ou animales ?", "r": "L'art topiaire", "d": 2, "t": "Jardinage"},
-  {"q": "Quel jardinier de Louis XIV a dessiné les jardins à la française du château de Versailles ?", "r": "André Le Nôtre", "d": 1, "t": "Jardinage"},
-  {"q": "Quelle technique de multiplication des végétaux consiste à planter un fragment de tige pour qu'il produise des racines ?", "r": "Le bouturage", "d": 1, "t": "Jardinage"}
+  {
+    "q": "Quel jeu de société américain fait acheter des rues, des gares et des compagnies pour ruiner ses adversaires ?",
+    "r": "Le Monopoly",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quelle est la propriété la plus chère du Monopoly dans sa version française classique ?",
+    "r": "La rue de la Paix",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quelle est la propriété la moins chère du Monopoly dans sa version française classique ?",
+    "r": "Le boulevard de Belleville",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Combien de gares compte le plateau du Monopoly ?",
+    "r": "Quatre",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Au Scrabble en français, combien de points rapporte la lettre Z ?",
+    "r": "10 points",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Combien de lettres chaque joueur a-t-il sur son chevalet au Scrabble ?",
+    "r": "Sept",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Au Scrabble, combien de points de bonus rapporte le fait de poser ses sept lettres en un seul coup ?",
+    "r": "50 points",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Dans quel jeu de société faut-il découvrir le coupable, l'arme et la pièce du crime commis dans un manoir ?",
+    "r": "Le Cluedo",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel militaire à la couleur jaune fait partie des suspects du Cluedo dans sa version française ?",
+    "r": "Le colonel Moutarde",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de stratégie, créé en 1957 par le cinéaste Albert Lamorisse, fut d'abord publié sous le titre « La Conquête du monde » ?",
+    "r": "Risk",
+    "d": 3,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu allemand de 1995 invite à coloniser une île en échangeant bois, argile, laine, blé et minerai ?",
+    "r": "Les Colons de Catane",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de société fait deviner des mots à son équipe uniquement à l'aide de dessins ?",
+    "r": "Le Pictionary",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de questions, inventé en 1979 par deux Canadiens, fait gagner des « camemberts » dans six catégories ?",
+    "r": "Le Trivial Pursuit",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de déduction consiste à deviner le personnage de l'adversaire en posant des questions sur son apparence ?",
+    "r": "Qui est-ce ?",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Combien de cases compte le parcours en spirale du jeu de l'oie traditionnel ?",
+    "r": "63",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Au jeu de l'oie, quelle case numérotée représente la mort et oblige à recommencer la partie ?",
+    "r": "La case 58",
+    "d": 3,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Combien de cases compte un damier de jeu de dames international ?",
+    "r": "100",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de stratégie d'origine chinoise, très populaire au Japon, oppose pierres noires et blanches sur une grille de 19 lignes sur 19 ?",
+    "r": "Le go",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Sous quel autre nom commercial connaît-on le reversi, jeu de pions bicolores que l'on retourne ?",
+    "r": "Othello",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de dés consiste à réaliser des combinaisons comme le full, le carré ou la grande suite avec cinq dés ?",
+    "r": "Le yams (Yahtzee)",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quelle est la somme de tous les points inscrits sur les six faces d'un dé classique ?",
+    "r": "21",
+    "d": 1,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Sur un dé classique, quel nombre figure sur la face opposée au 6 ?",
+    "r": "Le 1",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu d'adresse consiste à retirer des blocs de bois d'une tour sans la faire tomber, son nom venant du swahili ?",
+    "r": "Le Jenga",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Combien de pièces compte un jeu de dominos classique allant jusqu'au double-six ?",
+    "r": "28",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de tuiles d'origine chinoise comporte notamment les familles des bambous, des caractères et des cercles ?",
+    "r": "Le mah-jong",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu d'ambiance français, conçu par Jean-Louis Roubira, fait retrouver des cartes aux illustrations oniriques à partir d'un indice ?",
+    "r": "Dixit",
+    "d": 3,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de cartes de course automobile a été créé en France en 1954 par Edmond Dujardin ?",
+    "r": "Le 1000 bornes",
+    "d": 2,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Au 1000 bornes, quelle carte « botte » protège définitivement contre les crevaisons ?",
+    "r": "Increvable",
+    "d": 3,
+    "t": "Jeux de société"
+  },
+  {
+    "q": "Quel jeu de casino se joue sur un cylindre à 37 cases numérotées de 0 à 36 ?",
+    "r": "La roulette",
+    "d": 1,
+    "t": "Jeux de hasard"
+  },
+  {
+    "q": "Combien de cartes compte un jeu de tarot ?",
+    "r": "78",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Au tarot, comment appelle-t-on les trois cartes maîtresses que sont le 1 d'atout, le 21 et l'Excuse ?",
+    "r": "Les bouts (oudlers)",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Au tarot, quel nom donne-t-on au 1 d'atout ?",
+    "r": "Le Petit",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Combien de cartes compte le jeu utilisé pour la belote ?",
+    "r": "32",
+    "d": 1,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "À la belote, quelle carte est la plus forte dans la couleur d'atout ?",
+    "r": "Le valet",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Au poker, comment appelle-t-on la suite de l'as au dix dans une même couleur, meilleure main possible ?",
+    "r": "La quinte flush royale",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Au Texas hold'em, combien de cartes cachées chaque joueur reçoit-il en début de donne ?",
+    "r": "Deux",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Quel jeu de levées anglais du XVIIIe siècle est considéré comme l'ancêtre du bridge ?",
+    "r": "Le whist",
+    "d": 3,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Au bridge, comment appelle-t-on le joueur dont les cartes sont étalées face visible sur la table ?",
+    "r": "Le mort",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Quel jeu de cartes, créé aux États-Unis en 1971, oblige à annoncer son nom lorsqu'il ne reste qu'une carte en main ?",
+    "r": "Le Uno",
+    "d": 1,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Quel jeu de cartes à collectionner, créé en 1993 par Richard Garfield, oppose des duels de magiciens ?",
+    "r": "Magic : l'Assemblée",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Quelles sont les quatre couleurs d'un jeu de cartes français ?",
+    "r": "Pique, cœur, carreau, trèfle",
+    "d": 1,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Dans le jeu de cartes français traditionnel, quel roi biblique est représenté sur le roi de pique ?",
+    "r": "David",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Dans le jeu de cartes français traditionnel, quel général romain est représenté sur le roi de carreau ?",
+    "r": "Jules César",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Dans le jeu de cartes français traditionnel, quelle déesse guerrière est représentée sur la dame de pique ?",
+    "r": "Pallas (Athéna)",
+    "d": 3,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Quel jeu de cartes pour enfants demande de réunir le grand-père, la grand-mère, le père, la mère, le fils et la fille ?",
+    "r": "Le jeu des sept familles",
+    "d": 1,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Au blackjack, quel total de points ne faut-il surtout pas dépasser ?",
+    "r": "21",
+    "d": 1,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Comment appelle-t-on les 22 atouts illustrés d'un tarot divinatoire, comme le Bateleur ou la Roue de fortune ?",
+    "r": "Les arcanes majeurs",
+    "d": 2,
+    "t": "Jeux de cartes"
+  },
+  {
+    "q": "Aux échecs, quelle pièce se déplace en formant un « L » ?",
+    "r": "Le cavalier",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Combien de pions chaque joueur possède-t-il au début d'une partie d'échecs ?",
+    "r": "Huit",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Comment appelle-t-on le coup spécial des échecs où le roi et une tour se déplacent simultanément ?",
+    "r": "Le roque",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Aux échecs, comment appelle-t-on la prise particulière d'un pion adverse qui vient d'avancer de deux cases ?",
+    "r": "La prise en passant",
+    "d": 2,
+    "t": "Échecs"
+  },
+  {
+    "q": "Aux échecs, comment appelle-t-on la situation de partie nulle où un joueur ne peut plus jouer sans mettre son roi en échec ?",
+    "r": "Le pat",
+    "d": 2,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quelle pièce occupe chacun des quatre coins de l'échiquier au début d'une partie ?",
+    "r": "La tour",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Combien de cases compte un échiquier ?",
+    "r": "64",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quel Américain est devenu champion du monde d'échecs en 1972 en battant Boris Spassky à Reykjavik ?",
+    "r": "Bobby Fischer",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quel ordinateur d'IBM a battu le champion du monde Garry Kasparov en 1997 ?",
+    "r": "Deep Blue",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Comment appelle-t-on une ouverture d'échecs dans laquelle on sacrifie volontairement un pion pour obtenir un avantage ?",
+    "r": "Un gambit",
+    "d": 2,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quelle série de 2020 suit Beth Harmon, orpheline devenue prodige des échecs ?",
+    "r": "Le Jeu de la dame",
+    "d": 1,
+    "t": "Échecs"
+  },
+  {
+    "q": "Comment appelle-t-on en français le mat en quatre coups qui attaque la case f7 avec la dame et le fou ?",
+    "r": "Le coup du berger",
+    "d": 2,
+    "t": "Échecs"
+  },
+  {
+    "q": "Dans quel café parisien, cadre du « Neveu de Rameau » de Diderot, se retrouvaient les meilleurs joueurs d'échecs du XVIIIe siècle ?",
+    "r": "Le café de la Régence",
+    "d": 3,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quel compositeur français du XVIIIe siècle, meilleur joueur d'échecs de son temps, affirmait que « les pions sont l'âme des échecs » ?",
+    "r": "Philidor",
+    "d": 3,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quel artiste français, auteur de « Fontaine », délaissa en grande partie l'art pour se consacrer aux échecs ?",
+    "r": "Marcel Duchamp",
+    "d": 3,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quel Norvégien est devenu champion du monde d'échecs en 2013 en battant Viswanathan Anand ?",
+    "r": "Magnus Carlsen",
+    "d": 2,
+    "t": "Échecs"
+  },
+  {
+    "q": "Quelle entreprise danoise a breveté en 1958 sa célèbre brique en plastique à tenons et tubes ?",
+    "r": "Lego",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Que signifie l'expression danoise « leg godt », à l'origine du nom Lego ?",
+    "r": "« Joue bien »",
+    "d": 2,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quelle poupée lancée par Mattel en 1959 s'appelle en réalité Barbara Millicent Roberts ?",
+    "r": "Barbie",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel président américain a donné son surnom à l'ours en peluche appelé « teddy bear » ?",
+    "r": "Theodore Roosevelt",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quelle entreprise allemande, fondée par Margarete, reconnaît ses peluches à un bouton dans l'oreille ?",
+    "r": "Steiff",
+    "d": 3,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel casse-tête en forme de cube a été inventé en 1974 par un professeur d'architecture hongrois ?",
+    "r": "Le Rubik's Cube",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Combien de petites facettes colorées compte au total un Rubik's Cube classique 3×3×3 ?",
+    "r": "54",
+    "d": 2,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quelle marque allemande de figurines en plastique de 7,5 cm a été lancée en 1974 ?",
+    "r": "Playmobil",
+    "d": 2,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel jouet de dentition en caoutchouc, en forme d'animal au long cou, est né en France en 1961 ?",
+    "r": "Sophie la girafe",
+    "d": 2,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel jouet à dessin, avec deux boutons et un écran de poudre d'aluminium, fut inventé par le Français André Cassagnes ?",
+    "r": "L'Écran magique",
+    "d": 3,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel jouet en forme de ressort hélicoïdal, capable de descendre les escaliers tout seul, fut inventé aux États-Unis dans les années 1940 ?",
+    "r": "Le Slinky",
+    "d": 3,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel disque volant en plastique tire son nom d'une pâtisserie du Connecticut dont les étudiants se lançaient les moules à tarte ?",
+    "r": "Le Frisbee",
+    "d": 3,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel jouet est formé de deux disques reliés par un axe autour duquel s'enroule une ficelle ?",
+    "r": "Le yo-yo",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel cerceau en plastique, que l'on fait tourner autour de la taille, a fait fureur aux États-Unis en 1958 ?",
+    "r": "Le hula hoop",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel animal virtuel électronique en forme d'œuf, qu'il fallait nourrir et soigner, a été lancé au Japon en 1996 ?",
+    "r": "Le Tamagotchi",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quelle console portable de Nintendo, sortie en 1989, était vendue avec le jeu Tetris ?",
+    "r": "La Game Boy",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel jeu de construction français est composé uniquement de planchettes de pin identiques, sans colle ni attache ?",
+    "r": "Kapla",
+    "d": 2,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quelles poupées gigognes en bois peint, emboîtées les unes dans les autres, sont un emblème de la Russie ?",
+    "r": "Les matriochkas",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel cow-boy en tissu est le jouet préféré d'Andy dans « Toy Story » ?",
+    "r": "Woody",
+    "d": 1,
+    "t": "Jouets"
+  },
+  {
+    "q": "Quel outil permet de vérifier l'horizontalité d'une surface grâce à une bulle d'air ?",
+    "r": "Le niveau à bulle",
+    "d": 1,
+    "t": "Bricolage"
+  },
+  {
+    "q": "Comment appelle-t-on couramment la clé hexagonale coudée en forme de L ?",
+    "r": "La clé Allen",
+    "d": 2,
+    "t": "Bricolage"
+  },
+  {
+    "q": "Quel outil de menuisier permet d'aplanir une pièce de bois en enlevant de fins copeaux ?",
+    "r": "Le rabot",
+    "d": 1,
+    "t": "Bricolage"
+  },
+  {
+    "q": "Comment appelle-t-on l'assemblage de menuiserie en forme de trapèze évasé évoquant une queue d'oiseau ?",
+    "r": "La queue d'aronde",
+    "d": 2,
+    "t": "Bricolage"
+  },
+  {
+    "q": "Quel mélange de sulfate de cuivre et de chaux protège la vigne et les tomates du mildiou ?",
+    "r": "La bouillie bordelaise",
+    "d": 2,
+    "t": "Jardinage"
+  },
+  {
+    "q": "Quel art japonais consiste à cultiver des arbres miniatures en pot ?",
+    "r": "Le bonsaï",
+    "d": 1,
+    "t": "Jardinage"
+  },
+  {
+    "q": "Comment appelle-t-on l'art de tailler les arbres et les arbustes en formes géométriques ou animales ?",
+    "r": "L'art topiaire",
+    "d": 2,
+    "t": "Jardinage"
+  },
+  {
+    "q": "Quel jardinier de Louis XIV a dessiné les jardins à la française du château de Versailles ?",
+    "r": "André Le Nôtre",
+    "d": 1,
+    "t": "Jardinage"
+  }
 ]

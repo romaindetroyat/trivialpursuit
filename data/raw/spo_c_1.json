@@ -1,92 +1,542 @@
 [
-  {"q": "À quelle grande ville portuaire associe-t-on traditionnellement la bouillabaisse ?", "r": "Marseille", "d": 1, "t": "Cuisine régionale"},
-  {"q": "De quelle région française la choucroute garnie est-elle la spécialité emblématique ?", "r": "L'Alsace", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quel plat du Sud-Ouest fait mijoter haricots blancs, confit de canard et saucisse dans une terrine en terre cuite ?", "r": "Le cassoulet", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle ville de l'Aude se proclame « capitale mondiale du cassoulet » ?", "r": "Castelnaudary", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quel pharmacien du XVIIIe siècle, promoteur de la pomme de terre, a donné son nom à un hachis gratiné ?", "r": "Antoine Parmentier", "d": 1, "t": "Histoire de la cuisine"},
-  {"q": "Quel plat provençal de légumes mijotés (aubergines, courgettes, poivrons, tomates) a donné son titre à un film Pixar de 2007 ?", "r": "La ratatouille", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle spécialité savoyarde associe pommes de terre, lardons, oignons et reblochon gratinés ?", "r": "La tartiflette", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quel fromage fondu, raclé sur des pommes de terre, donne son nom à un plat valaisan et savoyard ?", "r": "La raclette", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Avec quelle farine prépare-t-on traditionnellement la galette bretonne salée ?", "r": "Farine de sarrasin (blé noir)", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle spécialité lyonnaise, souvent à base de brochet, est pochée puis servie avec une sauce Nantua ?", "r": "La quenelle", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quel crustacé d'eau douce est l'ingrédient principal de la sauce Nantua ?", "r": "L'écrevisse", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Comment appelle-t-on les petits restaurants traditionnels typiques de Lyon ?", "r": "Les bouchons", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quelle spécialité lyonnaise de gras-double pané porte le nom d'une pièce de l'uniforme des pompiers ?", "r": "Le tablier de sapeur", "d": 3, "t": "Cuisine régionale"},
-  {"q": "Quel plat mijote longuement des morceaux de bœuf dans du vin rouge avec lardons, champignons et petits oignons ?", "r": "Le bœuf bourguignon", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle région a donné son nom à la quiche préparée avec des œufs, de la crème et des lardons ?", "r": "La Lorraine", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle galette fine à base de farine de pois chiches est une spécialité de rue niçoise ?", "r": "La socca", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Comment appelle-t-on la tarte à l'oignon niçoise garnie d'anchois et d'olives noires ?", "r": "La pissaladière", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quel sandwich niçois, pain rond garni des ingrédients de la salade niçoise, a un nom signifiant « pain mouillé » ?", "r": "Le pan bagnat", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quelle sauce provençale émulsionnée, à l'ail et à l'huile d'olive, tire son nom de ses deux ingrédients ?", "r": "L'aïoli", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quelle ville du Gard est réputée pour sa brandade de morue ?", "r": "Nîmes", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quelle tourte au poulpe épicée est la spécialité de la ville de Sète ?", "r": "La tielle", "d": 3, "t": "Cuisine régionale"},
-  {"q": "Quel plat du Nord, servi froid en gelée, associe plusieurs viandes blanches comme le poulet, le lapin et le porc ?", "r": "Le potjevleesch", "d": 3, "t": "Cuisine régionale"},
-  {"q": "Quel plat du Nord et de la Belgique fait mijoter du bœuf dans de la bière avec du pain d'épices ?", "r": "La carbonade flamande", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quelle spécialité de l'Aubrac mêle purée de pommes de terre et tome fraîche pour obtenir une texture filante ?", "r": "L'aligot", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quel plat basque associe poivrons, tomates et oignons revenus, souvent servi avec des œufs ?", "r": "La piperade", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quel piment rouge, bénéficiant d'une AOP, porte le nom d'un village du Pays basque ?", "r": "Le piment d'Espelette", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quelle ville du Pays basque a donné son nom à un célèbre jambon sec ?", "r": "Bayonne", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle charcuterie corse est préparée à partir du filet de porc salé et séché ?", "r": "Le lonzu", "d": 3, "t": "Cuisine régionale"},
-  {"q": "Quelle farine, emblématique de la Corse, sert à préparer la pulenda et de nombreux gâteaux de l'île ?", "r": "La farine de châtaigne", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Quel gâteau breton très riche en beurre et en sucre a un nom qui signifie « gâteau au beurre » en breton ?", "r": "Le kouign-amann", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle soupe de poissons de pêcheurs est considérée comme la cousine bretonne de la bouillabaisse ?", "r": "La cotriade", "d": 3, "t": "Cuisine régionale"},
-  {"q": "À la mode de quelle ville normande prépare-t-on les tripes les plus célèbres de France ?", "r": "Caen", "d": 2, "t": "Cuisine régionale"},
-  {"q": "Comment appelle-t-on la pause au milieu d'un long repas normand où l'on boit un petit verre de calvados ?", "r": "Le trou normand", "d": 1, "t": "Traditions culinaires"},
-  {"q": "Quel champignon souterrain, surnommé « diamant noir », fait la réputation gastronomique du Périgord ?", "r": "La truffe noire", "d": 1, "t": "Produits du terroir"},
-  {"q": "Quelle volaille française fut la première à obtenir une appellation d'origine contrôlée, en 1957 ?", "r": "La volaille de Bresse", "d": 2, "t": "Produits du terroir"},
-  {"q": "Quelle ville du Lot-et-Garonne a donné son nom à de célèbres pruneaux ?", "r": "Agen", "d": 1, "t": "Produits du terroir"},
-  {"q": "Quelle ville bourguignonne est mondialement connue pour sa moutarde ?", "r": "Dijon", "d": 1, "t": "Produits du terroir"},
-  {"q": "Quelle spécialité alsacienne est une pâte à pain très fine garnie de crème, d'oignons et de lardons ?", "r": "La flammekueche (tarte flambée)", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quelle brioche alsacienne en forme de couronne, cuite dans un moule en terre, contient raisins secs et amandes ?", "r": "Le kouglof", "d": 1, "t": "Cuisine régionale"},
-  {"q": "Quel plat alsacien fait cuire au four trois viandes marinées au vin blanc et des pommes de terre dans une terrine scellée ?", "r": "Le baeckeoffe", "d": 2, "t": "Cuisine régionale"},
-  {"q": "De quelle région d'Espagne la paella est-elle originaire ?", "r": "La région de Valence", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Comment appelle-t-on au Japon les fines tranches de poisson cru servies sans riz ?", "r": "Le sashimi", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quel condiment japonais vert et très piquant accompagne traditionnellement les sushis ?", "r": "Le wasabi", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle préparation mexicaine est une purée d'avocat relevée de citron vert, d'oignon et de piment ?", "r": "Le guacamole", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quel ragoût hongrois de bœuf est fortement parfumé au paprika ?", "r": "Le goulash", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle sauce grecque associe yaourt, concombre râpé, ail et huile d'olive ?", "r": "Le tzatziki", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quel récipient en terre cuite à couvercle conique a donné son nom à un plat mijoté marocain ?", "r": "Le tajine", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quel mélange d'épices marocain a un nom arabe signifiant « tête de la boutique » ?", "r": "Le ras el-hanout", "d": 3, "t": "Cuisine du monde"},
-  {"q": "Quelle pâte de piments rouges est un condiment emblématique de la cuisine tunisienne ?", "r": "L'harissa", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quel plat italien de riz crémeux se prépare en ajoutant le bouillon louche après louche ?", "r": "Le risotto", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle épice précieuse donne sa couleur jaune au risotto à la milanaise ?", "r": "Le safran", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quel plat milanais consiste en jarret de veau tranché avec son os à moelle, puis braisé ?", "r": "L'osso buco", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quelle ville italienne est considérée comme le berceau de la pizza ?", "r": "Naples", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Selon la tradition, quelle reine d'Italie a donné son nom à la pizza tomate-mozzarella-basilic en 1889 ?", "r": "Marguerite de Savoie", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quelle sauce génoise est préparée en pilant basilic, pignons de pin, ail, parmesan et huile d'olive ?", "r": "Le pesto", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Dans quel pays déguste-t-on le haggis, panse de brebis farcie d'abats et d'avoine ?", "r": "L'Écosse", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle soupe froide à base de tomates, de concombre et de poivron est une spécialité andalouse ?", "r": "Le gaspacho", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quel pays dispute à la France l'invention de la frite et en a fait un symbole national ?", "r": "La Belgique", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle soupe vietnamienne associe nouilles de riz, bouillon de bœuf parfumé à l'anis étoilé et herbes fraîches ?", "r": "Le phở", "d": 2, "t": "Cuisine du monde"},
-  {"q": "De quel pays le kimchi, chou fermenté au piment, est-il le plat emblématique ?", "r": "La Corée", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle galette suisse est faite de pommes de terre râpées et dorées à la poêle ?", "r": "Le rösti", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quelle soupe d'Europe de l'Est doit sa couleur rouge vif à la betterave ?", "r": "Le bortsch", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle capitale a donné son nom à la plus célèbre escalope de veau panée, la « Schnitzel » ?", "r": "Vienne", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quel plat national brésilien est un ragoût de haricots noirs et de viandes de porc ?", "r": "La feijoada", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quel plat emblématique du Pérou consiste en poisson cru mariné dans du jus de citron vert ?", "r": "Le ceviche", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quelle salade libanaise est composée surtout de persil haché, de boulgour, de tomate et de menthe ?", "r": "Le taboulé", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Quelle purée de pois chiches au citron et à la crème de sésame est un classique du Proche-Orient ?", "r": "Le houmous", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Comment appelle-t-on la crème de sésame utilisée dans le houmous ?", "r": "Le tahini (tahina)", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quel mélange d'épices de la cuisine indienne a un nom signifiant « mélange chaud » ?", "r": "Le garam masala", "d": 3, "t": "Cuisine du monde"},
-  {"q": "Comment appelle-t-on le four cylindrique en terre cuite utilisé en Inde pour cuire le pain naan ?", "r": "Le tandoor", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quels beignets japonais très légers de légumes et de crevettes auraient été introduits par des missionnaires portugais ?", "r": "Les tempuras", "d": 2, "t": "Cuisine du monde"},
-  {"q": "Quel bouillon japonais de base est préparé avec de l'algue kombu et des copeaux de bonite séchée ?", "r": "Le dashi", "d": 3, "t": "Cuisine du monde"},
-  {"q": "Quelle volaille à la peau croustillante, servie avec des crêpes fines, est la grande spécialité de Pékin ?", "r": "Le canard laqué", "d": 1, "t": "Cuisine du monde"},
-  {"q": "Comment appelle-t-on la technique consistant à plonger brièvement un aliment dans l'eau bouillante ?", "r": "Blanchir", "d": 2, "t": "Vocabulaire culinaire"},
-  {"q": "Comment nomme-t-on l'action d'arroser un plat d'alcool chaud puis de l'enflammer ?", "r": "Flamber", "d": 1, "t": "Vocabulaire culinaire"},
-  {"q": "Quel terme désigne la découpe de légumes en très fins bâtonnets ?", "r": "La julienne", "d": 2, "t": "Vocabulaire culinaire"},
-  {"q": "Comment appelle-t-on une taille de légumes en tout petits dés réguliers de deux à trois millimètres ?", "r": "La brunoise", "d": 2, "t": "Vocabulaire culinaire"},
-  {"q": "Comment appelle-t-on la base aromatique de carottes, d'oignons et de céleri taillés en dés, du nom d'un duc ?", "r": "La mirepoix", "d": 3, "t": "Vocabulaire culinaire"},
-  {"q": "Comment appelle-t-on le mélange de farine et de beurre cuits ensemble qui sert à lier les sauces ?", "r": "Le roux", "d": 2, "t": "Vocabulaire culinaire"},
-  {"q": "Quelle sauce blanche de la cuisine française associe un roux et du lait, souvent parfumée à la muscade ?", "r": "La béchamel", "d": 1, "t": "Vocabulaire culinaire"},
-  {"q": "Quelle sauce émulsionnée au beurre, aux jaunes d'œufs, à l'échalote et à l'estragon accompagne les viandes grillées ?", "r": "La béarnaise", "d": 1, "t": "Vocabulaire culinaire"},
-  {"q": "Comment appelle-t-on le petit fagot de thym, de laurier et de persil ficelés qui parfume les bouillons ?", "r": "Le bouquet garni", "d": 1, "t": "Vocabulaire culinaire"},
-  {"q": "Comment appelle-t-on l'opération consistant à dissoudre les sucs d'une poêle avec un liquide ?", "r": "Déglacer", "d": 2, "t": "Vocabulaire culinaire"},
-  {"q": "Que signifie littéralement l'expression italienne « al dente » appliquée aux pâtes ?", "r": "« À la dent »", "d": 2, "t": "Vocabulaire culinaire"},
-  {"q": "Quelle grande poêle creuse, à fond arrondi, est l'ustensile emblématique de la cuisine chinoise ?", "r": "Le wok", "d": 1, "t": "Vocabulaire culinaire"},
-  {"q": "Quel gastronome a écrit dans sa « Physiologie du goût » (1825) : « Dis-moi ce que tu manges, je te dirai ce que tu es » ?", "r": "Brillat-Savarin", "d": 2, "t": "Histoire de la cuisine"},
-  {"q": "Quel guide gastronomique décerne des étoiles aux restaurants depuis 1926 ?", "r": "Le Guide Michelin", "d": 1, "t": "Histoire de la cuisine"},
-  {"q": "Quel chef lyonnais a créé en 1987 un concours international de cuisine qui porte son nom ?", "r": "Paul Bocuse", "d": 2, "t": "Histoire de la cuisine"},
-  {"q": "Pour quel président de la République Paul Bocuse a-t-il créé en 1975 une soupe aux truffes noires en croûte ?", "r": "Valéry Giscard d'Estaing", "d": 3, "t": "Histoire de la cuisine"},
-  {"q": "Quel maître d'hôtel du prince de Condé se serait donné la mort en 1671 parce que la marée tardait à arriver ?", "r": "François Vatel", "d": 2, "t": "Histoire de la cuisine"}
+  {
+    "q": "À quelle grande ville portuaire associe-t-on traditionnellement la bouillabaisse ?",
+    "r": "Marseille",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "De quelle région française la choucroute garnie est-elle la spécialité emblématique ?",
+    "r": "L'Alsace",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel plat du Sud-Ouest fait mijoter haricots blancs, confit de canard et saucisse dans une terrine en terre cuite ?",
+    "r": "Le cassoulet",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle ville de l'Aude se proclame « capitale mondiale du cassoulet » ?",
+    "r": "Castelnaudary",
+    "d": 3,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel pharmacien du XVIIIe siècle, promoteur de la pomme de terre, a donné son nom à un hachis gratiné ?",
+    "r": "Antoine Parmentier",
+    "d": 1,
+    "t": "Histoire de la cuisine"
+  },
+  {
+    "q": "Quel plat provençal de légumes mijotés (aubergines, courgettes, poivrons, tomates) a donné son titre à un film Pixar de 2007 ?",
+    "r": "La ratatouille",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle spécialité savoyarde associe pommes de terre, lardons, oignons et reblochon gratinés ?",
+    "r": "La tartiflette",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel fromage fondu, raclé sur des pommes de terre, donne son nom à un plat valaisan et savoyard ?",
+    "r": "La raclette",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Avec quelle farine prépare-t-on traditionnellement la galette bretonne salée ?",
+    "r": "Farine de sarrasin (blé noir)",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle spécialité lyonnaise, souvent à base de brochet, est pochée puis servie avec une sauce Nantua ?",
+    "r": "La quenelle",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel crustacé d'eau douce est l'ingrédient principal de la sauce Nantua ?",
+    "r": "L'écrevisse",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Comment appelle-t-on les petits restaurants traditionnels typiques de Lyon ?",
+    "r": "Les bouchons",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle spécialité lyonnaise de gras-double pané porte le nom d'une pièce de l'uniforme des pompiers ?",
+    "r": "Le tablier de sapeur",
+    "d": 3,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel plat mijote longuement des morceaux de bœuf dans du vin rouge avec lardons, champignons et petits oignons ?",
+    "r": "Le bœuf bourguignon",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle région a donné son nom à la quiche préparée avec des œufs, de la crème et des lardons ?",
+    "r": "La Lorraine",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle galette fine à base de farine de pois chiches est une spécialité de rue niçoise ?",
+    "r": "La socca",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Comment appelle-t-on la tarte à l'oignon niçoise garnie d'anchois et d'olives noires ?",
+    "r": "La pissaladière",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel sandwich niçois, pain rond garni des ingrédients de la salade niçoise, a un nom signifiant « pain mouillé » ?",
+    "r": "Le pan bagnat",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle sauce provençale émulsionnée, à l'ail et à l'huile d'olive, tire son nom de ses deux ingrédients ?",
+    "r": "L'aïoli",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle ville du Gard est réputée pour sa brandade de morue ?",
+    "r": "Nîmes",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle tourte au poulpe épicée est la spécialité de la ville de Sète ?",
+    "r": "La tielle",
+    "d": 3,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel plat du Nord, servi froid en gelée, associe plusieurs viandes blanches comme le poulet, le lapin et le porc ?",
+    "r": "Le potjevleesch",
+    "d": 3,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel plat du Nord et de la Belgique fait mijoter du bœuf dans de la bière avec du pain d'épices ?",
+    "r": "La carbonade flamande",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle spécialité de l'Aubrac mêle purée de pommes de terre et tome fraîche pour obtenir une texture filante ?",
+    "r": "L'aligot",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel plat basque associe poivrons, tomates et oignons revenus, souvent servi avec des œufs ?",
+    "r": "La piperade",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel piment rouge, bénéficiant d'une AOP, porte le nom d'un village du Pays basque ?",
+    "r": "Le piment d'Espelette",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle ville du Pays basque a donné son nom à un célèbre jambon sec ?",
+    "r": "Bayonne",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle charcuterie corse est préparée à partir du filet de porc salé et séché ?",
+    "r": "Le lonzu",
+    "d": 3,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle farine, emblématique de la Corse, sert à préparer la pulenda et de nombreux gâteaux de l'île ?",
+    "r": "La farine de châtaigne",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel gâteau breton très riche en beurre et en sucre a un nom qui signifie « gâteau au beurre » en breton ?",
+    "r": "Le kouign-amann",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle soupe de poissons de pêcheurs est considérée comme la cousine bretonne de la bouillabaisse ?",
+    "r": "La cotriade",
+    "d": 3,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "À la mode de quelle ville normande prépare-t-on les tripes les plus célèbres de France ?",
+    "r": "Caen",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Comment appelle-t-on la pause au milieu d'un long repas normand où l'on boit un petit verre de calvados ?",
+    "r": "Le trou normand",
+    "d": 1,
+    "t": "Traditions culinaires"
+  },
+  {
+    "q": "Quel champignon souterrain, surnommé « diamant noir », fait la réputation gastronomique du Périgord ?",
+    "r": "La truffe noire",
+    "d": 1,
+    "t": "Produits du terroir"
+  },
+  {
+    "q": "Quelle volaille française fut la première à obtenir une appellation d'origine contrôlée, en 1957 ?",
+    "r": "La volaille de Bresse",
+    "d": 2,
+    "t": "Produits du terroir"
+  },
+  {
+    "q": "Quelle ville du Lot-et-Garonne a donné son nom à de célèbres pruneaux ?",
+    "r": "Agen",
+    "d": 1,
+    "t": "Produits du terroir"
+  },
+  {
+    "q": "Quelle ville bourguignonne est mondialement connue pour sa moutarde ?",
+    "r": "Dijon",
+    "d": 1,
+    "t": "Produits du terroir"
+  },
+  {
+    "q": "Quelle spécialité alsacienne est une pâte à pain très fine garnie de crème, d'oignons et de lardons ?",
+    "r": "La flammekueche (tarte flambée)",
+    "d": 1,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quelle brioche alsacienne en forme de couronne, cuite dans un moule en terre, contient raisins secs et amandes ?",
+    "r": "Le kouglof",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "Quel plat alsacien fait cuire au four trois viandes marinées au vin blanc et des pommes de terre dans une terrine scellée ?",
+    "r": "Le baeckeoffe",
+    "d": 2,
+    "t": "Cuisine régionale"
+  },
+  {
+    "q": "De quelle région d'Espagne la paella est-elle originaire ?",
+    "r": "La région de Valence",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Comment appelle-t-on au Japon les fines tranches de poisson cru servies sans riz ?",
+    "r": "Le sashimi",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel condiment japonais vert et très piquant accompagne traditionnellement les sushis ?",
+    "r": "Le wasabi",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle préparation mexicaine est une purée d'avocat relevée de citron vert, d'oignon et de piment ?",
+    "r": "Le guacamole",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel ragoût hongrois de bœuf est fortement parfumé au paprika ?",
+    "r": "Le goulash",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle sauce grecque associe yaourt, concombre râpé, ail et huile d'olive ?",
+    "r": "Le tzatziki",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel récipient en terre cuite à couvercle conique a donné son nom à un plat mijoté marocain ?",
+    "r": "Le tajine",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel mélange d'épices marocain a un nom arabe signifiant « tête de la boutique » ?",
+    "r": "Le ras el-hanout",
+    "d": 3,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle pâte de piments rouges est un condiment emblématique de la cuisine tunisienne ?",
+    "r": "L'harissa",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel plat italien de riz crémeux se prépare en ajoutant le bouillon louche après louche ?",
+    "r": "Le risotto",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle épice précieuse donne sa couleur jaune au risotto à la milanaise ?",
+    "r": "Le safran",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel plat milanais consiste en jarret de veau tranché avec son os à moelle, puis braisé ?",
+    "r": "L'osso buco",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle ville italienne est considérée comme le berceau de la pizza ?",
+    "r": "Naples",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Selon la tradition, quelle reine d'Italie a donné son nom à la pizza tomate-mozzarella-basilic en 1889 ?",
+    "r": "Marguerite de Savoie",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle sauce génoise est préparée en pilant basilic, pignons de pin, ail, parmesan et huile d'olive ?",
+    "r": "Le pesto",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Dans quel pays déguste-t-on le haggis, panse de brebis farcie d'abats et d'avoine ?",
+    "r": "L'Écosse",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle soupe froide à base de tomates, de concombre et de poivron est une spécialité andalouse ?",
+    "r": "Le gaspacho",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel pays dispute à la France l'invention de la frite et en a fait un symbole national ?",
+    "r": "La Belgique",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle soupe vietnamienne associe nouilles de riz, bouillon de bœuf parfumé à l'anis étoilé et herbes fraîches ?",
+    "r": "Le phở",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "De quel pays le kimchi, chou fermenté au piment, est-il le plat emblématique ?",
+    "r": "La Corée",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle galette suisse est faite de pommes de terre râpées et dorées à la poêle ?",
+    "r": "Le rösti",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle soupe d'Europe de l'Est doit sa couleur rouge vif à la betterave ?",
+    "r": "Le bortsch",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle capitale a donné son nom à la plus célèbre escalope de veau panée, la « Schnitzel » ?",
+    "r": "Vienne",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel plat national brésilien est un ragoût de haricots noirs et de viandes de porc ?",
+    "r": "La feijoada",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel plat emblématique du Pérou consiste en poisson cru mariné dans du jus de citron vert ?",
+    "r": "Le ceviche",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle salade libanaise est composée surtout de persil haché, de boulgour, de tomate et de menthe ?",
+    "r": "Le taboulé",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle purée de pois chiches au citron et à la crème de sésame est un classique du Proche-Orient ?",
+    "r": "Le houmous",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Comment appelle-t-on la crème de sésame utilisée dans le houmous ?",
+    "r": "Le tahini (tahina)",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel mélange d'épices de la cuisine indienne a un nom signifiant « mélange chaud » ?",
+    "r": "Le garam masala",
+    "d": 3,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Comment appelle-t-on le four cylindrique en terre cuite utilisé en Inde pour cuire le pain naan ?",
+    "r": "Le tandoor",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quels beignets japonais très légers de légumes et de crevettes auraient été introduits par des missionnaires portugais ?",
+    "r": "Les tempuras",
+    "d": 2,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quel bouillon japonais de base est préparé avec de l'algue kombu et des copeaux de bonite séchée ?",
+    "r": "Le dashi",
+    "d": 3,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Quelle volaille à la peau croustillante, servie avec des crêpes fines, est la grande spécialité de Pékin ?",
+    "r": "Le canard laqué",
+    "d": 1,
+    "t": "Cuisine du monde"
+  },
+  {
+    "q": "Comment appelle-t-on la technique consistant à plonger brièvement un aliment dans l'eau bouillante ?",
+    "r": "Blanchir",
+    "d": 2,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Comment nomme-t-on l'action d'arroser un plat d'alcool chaud puis de l'enflammer ?",
+    "r": "Flamber",
+    "d": 1,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Quel terme désigne la découpe de légumes en très fins bâtonnets ?",
+    "r": "La julienne",
+    "d": 2,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Comment appelle-t-on une taille de légumes en tout petits dés réguliers de deux à trois millimètres ?",
+    "r": "La brunoise",
+    "d": 2,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Comment appelle-t-on la base aromatique de carottes, d'oignons et de céleri taillés en dés, du nom d'un duc ?",
+    "r": "La mirepoix",
+    "d": 3,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Comment appelle-t-on le mélange de farine et de beurre cuits ensemble qui sert à lier les sauces ?",
+    "r": "Le roux",
+    "d": 2,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Quelle sauce blanche de la cuisine française associe un roux et du lait, souvent parfumée à la muscade ?",
+    "r": "La béchamel",
+    "d": 1,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Quelle sauce émulsionnée au beurre, aux jaunes d'œufs, à l'échalote et à l'estragon accompagne les viandes grillées ?",
+    "r": "La béarnaise",
+    "d": 1,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Comment appelle-t-on le petit fagot de thym, de laurier et de persil ficelés qui parfume les bouillons ?",
+    "r": "Le bouquet garni",
+    "d": 1,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Comment appelle-t-on l'opération consistant à dissoudre les sucs d'une poêle avec un liquide ?",
+    "r": "Déglacer",
+    "d": 2,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Que signifie littéralement l'expression italienne « al dente » appliquée aux pâtes ?",
+    "r": "« À la dent »",
+    "d": 2,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Quelle grande poêle creuse, à fond arrondi, est l'ustensile emblématique de la cuisine chinoise ?",
+    "r": "Le wok",
+    "d": 1,
+    "t": "Vocabulaire culinaire"
+  },
+  {
+    "q": "Quel gastronome a écrit dans sa « Physiologie du goût » (1825) : « Dis-moi ce que tu manges, je te dirai ce que tu es » ?",
+    "r": "Brillat-Savarin",
+    "d": 2,
+    "t": "Histoire de la cuisine"
+  },
+  {
+    "q": "Quel guide gastronomique décerne des étoiles aux restaurants depuis 1926 ?",
+    "r": "Le Guide Michelin",
+    "d": 1,
+    "t": "Histoire de la cuisine"
+  },
+  {
+    "q": "Quel chef lyonnais a créé en 1987 un concours international de cuisine qui porte son nom ?",
+    "r": "Paul Bocuse",
+    "d": 2,
+    "t": "Histoire de la cuisine"
+  },
+  {
+    "q": "Pour quel président de la République Paul Bocuse a-t-il créé en 1975 une soupe aux truffes noires en croûte ?",
+    "r": "Valéry Giscard d'Estaing",
+    "d": 3,
+    "t": "Histoire de la cuisine"
+  },
+  {
+    "q": "Quel maître d'hôtel du prince de Condé se serait donné la mort en 1671 parce que la marée tardait à arriver ?",
+    "r": "François Vatel",
+    "d": 3,
+    "t": "Histoire de la cuisine"
+  }
 ]

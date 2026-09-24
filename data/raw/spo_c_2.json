@@ -1,91 +1,542 @@
 [
-  {"q": "Quel fromage normand à pâte molle et croûte fleurie porte le nom d'un village de l'Orne ?", "r": "Le camembert", "d": 1, "t": "Fromages"},
-  {"q": "Quelle fermière normande est, selon la tradition, l'inventrice du camembert vers 1791 ?", "r": "Marie Harel", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage persillé au lait de brebis est affiné dans des caves naturelles de l'Aveyron ?", "r": "Le roquefort", "d": 1, "t": "Fromages"},
-  {"q": "Quelle moisissure donne ses veines bleu-vert au roquefort ?", "r": "Penicillium roqueforti", "d": 3, "t": "Fromages"},
-  {"q": "Selon la légende, quel fromage fut sacré « roi des fromages » lors du congrès de Vienne en 1815 ?", "r": "Le brie de Meaux", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage AOP du massif du Jura, à pâte pressée cuite, est affiné en grandes meules ?", "r": "Le comté", "d": 1, "t": "Fromages"},
-  {"q": "Quel fromage savoyard, surnommé « le prince des gruyères », se reconnaît à sa meule au talon concave ?", "r": "Le beaufort", "d": 3, "t": "Fromages"},
-  {"q": "Quel fromage du Nord à croûte orangée et à l'odeur puissante porte le nom d'un village de l'Avesnois ?", "r": "Le maroilles", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage vosgien à croûte lavée, souvent dégusté avec du cumin, porte le nom d'une ville du Haut-Rhin ?", "r": "Le munster", "d": 1, "t": "Fromages"},
-  {"q": "Quel fromage néerlandais en forme de boule, enrobé de cire rouge, porte le nom d'une ville au nord d'Amsterdam ?", "r": "L'édam", "d": 2, "t": "Fromages"},
-  {"q": "Avec le lait de quel animal est fabriquée la véritable mozzarella de Campanie ?", "r": "La bufflonne", "d": 1, "t": "Fromages"},
-  {"q": "Quel fromage italien à pâte dure, affiné au moins douze mois, est produit notamment autour de Parme et de Reggio d'Émilie ?", "r": "Le parmesan (parmigiano reggiano)", "d": 1, "t": "Fromages"},
-  {"q": "Quel fromage grec conservé en saumure est fabriqué principalement avec du lait de brebis ?", "r": "La feta", "d": 1, "t": "Fromages"},
-  {"q": "Quel fromage anglais à pâte pressée porte le nom d'un village du Somerset ?", "r": "Le cheddar", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage bleu anglais, traditionnellement servi à Noël avec du porto, porte le nom d'un village du Cambridgeshire ?", "r": "Le stilton", "d": 3, "t": "Fromages"},
-  {"q": "Quel fromage suisse se déguste en fines rosettes raclées à l'aide d'une girolle ?", "r": "La tête de moine", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage suisse à gros trous est souvent appelé simplement « fromage suisse » à l'étranger ?", "r": "L'emmental", "d": 1, "t": "Fromages"},
-  {"q": "Quel fromage de chèvre de Touraine est traversé en son centre par une paille de seigle ?", "r": "Le sainte-maure-de-touraine", "d": 2, "t": "Fromages"},
-  {"q": "Quel petit fromage de chèvre du Cher porte le nom d'un hameau voisin de Sancerre ?", "r": "Le crottin de Chavignol", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage de chèvre de l'Indre a la forme d'une pyramide tronquée ?", "r": "Le valençay", "d": 3, "t": "Fromages"},
-  {"q": "Quel fromage auvergnat doit son nom au maréchal de Senneterre, qui l'aurait fait servir à la table de Louis XIV ?", "r": "Le saint-nectaire", "d": 3, "t": "Fromages"},
-  {"q": "Quel fromage bourguignon à croûte orangée est lavé au marc de Bourgogne ?", "r": "L'époisses", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage du Jura se reconnaît à la fine raie noire de charbon végétal qui le traverse ?", "r": "Le morbier", "d": 2, "t": "Fromages"},
-  {"q": "Quel fromage du Haut-Doubs, cerclé d'une sangle d'épicéa, se déguste à la cuillère en hiver ?", "r": "Le mont-d'or", "d": 2, "t": "Fromages"},
-  {"q": "Comment appelle-t-on la collection des étiquettes de boîtes de fromage ?", "r": "La tyrosémiophilie", "d": 3, "t": "Fromages"},
-  {"q": "Dans quel grand vignoble français produit-on le sauternes, vin blanc liquoreux ?", "r": "Le Bordelais", "d": 1, "t": "Vins"},
-  {"q": "Quel champignon, appelé « pourriture noble », concentre les sucres des raisins du sauternes ?", "r": "Botrytis cinerea", "d": 3, "t": "Vins"},
-  {"q": "Quel cépage rouge est utilisé pour tous les grands crus rouges de Bourgogne ?", "r": "Le pinot noir", "d": 2, "t": "Vins"},
-  {"q": "Quel cépage blanc est le seul utilisé pour produire le chablis ?", "r": "Le chardonnay", "d": 2, "t": "Vins"},
-  {"q": "Quel moine bénédictin de l'abbaye d'Hautvillers est, selon la légende, l'inventeur du champagne ?", "r": "Dom Pérignon", "d": 1, "t": "Vins"},
-  {"q": "Comment appelle-t-on l'art d'ouvrir une bouteille de champagne d'un coup de sabre ?", "r": "Le sabrage", "d": 2, "t": "Vins"},
-  {"q": "Quel vin primeur est traditionnellement mis en vente le troisième jeudi de novembre ?", "r": "Le beaujolais nouveau", "d": 1, "t": "Vins"},
-  {"q": "Quel cépage compose les vins rouges du Beaujolais ?", "r": "Le gamay", "d": 2, "t": "Vins"},
-  {"q": "Comment s'appelle la bouteille de 62 centilitres réservée au vin jaune du Jura ?", "r": "Le clavelin", "d": 3, "t": "Vins"},
-  {"q": "Combien de centilitres contient une bouteille de vin standard ?", "r": "75 cl", "d": 1, "t": "Vins"},
-  {"q": "Comment nomme-t-on une bouteille de vin ou de champagne d'une contenance de 1,5 litre ?", "r": "Un magnum", "d": 1, "t": "Vins"},
-  {"q": "Quel nom de roi biblique porte une bouteille de champagne de 3 litres ?", "r": "Jéroboam", "d": 3, "t": "Vins"},
-  {"q": "Comment appelle-t-on le professionnel chargé de conseiller et de servir les vins dans un restaurant ?", "r": "Le sommelier", "d": 1, "t": "Vins"},
-  {"q": "Comment appelle-t-on la science qui étudie la fabrication et la conservation du vin ?", "r": "L'œnologie", "d": 1, "t": "Vins"},
-  {"q": "Quel petit insecte venu d'Amérique a ravagé le vignoble français à partir des années 1860 ?", "r": "Le phylloxéra", "d": 2, "t": "Vins"},
-  {"q": "En quelle année fut établi, pour l'Exposition universelle de Paris, le célèbre classement officiel des vins de Bordeaux ?", "r": "1855", "d": 2, "t": "Vins"},
-  {"q": "Quel château des Graves est le seul vin rouge hors Médoc classé premier grand cru en 1855 ?", "r": "Château Haut-Brion", "d": 3, "t": "Vins"},
-  {"q": "Dans quelle vallée portugaise sont cultivés les raisins du porto ?", "r": "La vallée du Douro", "d": 2, "t": "Vins"},
-  {"q": "Quel vin effervescent espagnol est principalement produit en Catalogne ?", "r": "Le cava", "d": 2, "t": "Vins"},
-  {"q": "Quel vin mousseux de Vénétie entre dans la recette du spritz ?", "r": "Le prosecco", "d": 1, "t": "Vins"},
-  {"q": "Quel vin liquoreux de Hongrie aurait été surnommé par Louis XIV « le vin des rois, le roi des vins » ?", "r": "Le tokaji (tokay)", "d": 2, "t": "Vins"},
-  {"q": "Quelle ville andalouse a donné son nom au xérès, appelé « sherry » par les Anglais ?", "r": "Jerez de la Frontera", "d": 2, "t": "Vins"},
-  {"q": "Quelle eau-de-vie de vin porte le nom d'une ville de Charente ?", "r": "Le cognac", "d": 1, "t": "Spiritueux"},
-  {"q": "Quelle eau-de-vie de vin gasconne est considérée comme la plus ancienne de France ?", "r": "L'armagnac", "d": 2, "t": "Spiritueux"},
-  {"q": "Quelle eau-de-vie normande est obtenue par distillation du cidre ?", "r": "Le calvados", "d": 1, "t": "Spiritueux"},
-  {"q": "Quel apéritif anisé Paul Ricard a-t-il lancé à Marseille en 1932 ?", "r": "Le pastis", "d": 1, "t": "Spiritueux"},
-  {"q": "Quel spiritueux, surnommé « la fée verte », fut interdit en France en 1915 ?", "r": "L'absinthe", "d": 2, "t": "Spiritueux"},
-  {"q": "À partir de quelle plante succulente produit-on la tequila ?", "r": "L'agave bleu", "d": 1, "t": "Spiritueux"},
-  {"q": "Quelle céréale est majoritaire dans la fabrication du bourbon américain ?", "r": "Le maïs", "d": 2, "t": "Spiritueux"},
-  {"q": "Quelle boisson alcoolisée japonaise est obtenue par fermentation du riz ?", "r": "Le saké", "d": 1, "t": "Spiritueux"},
-  {"q": "Quel spiritueux des Antilles françaises est distillé directement à partir du jus de canne à sucre ?", "r": "Le rhum agricole", "d": 1, "t": "Spiritueux"},
-  {"q": "Quel alcool doit son arôme principal aux baies de genièvre ?", "r": "Le gin", "d": 1, "t": "Spiritueux"},
-  {"q": "Quelle liqueur verte ou jaune est élaborée depuis le XVIIIe siècle par des moines de l'Isère ?", "r": "La Chartreuse", "d": 2, "t": "Spiritueux"},
-  {"q": "Quel cocktail cubain associe rhum blanc, citron vert, sucre, menthe fraîche et eau gazeuse ?", "r": "Le mojito", "d": 1, "t": "Cocktails"},
-  {"q": "Quel apéritif, mélange de crème de cassis et de vin blanc, porte le nom d'un chanoine maire de Dijon ?", "r": "Le kir", "d": 1, "t": "Cocktails"},
-  {"q": "Quel cocktail italien associe à parts égales gin, vermouth rouge et Campari ?", "r": "Le negroni", "d": 2, "t": "Cocktails"},
-  {"q": "Quel cocktail de Porto Rico mélange rhum, jus d'ananas et crème de coco ?", "r": "La piña colada", "d": 2, "t": "Cocktails"},
-  {"q": "Quel thé vert japonais en poudre est utilisé lors de la cérémonie du thé ?", "r": "Le matcha", "d": 1, "t": "Boissons"},
-  {"q": "Quelle boisson italienne au café doit son nom à la couleur de la robe des moines capucins ?", "r": "Le cappuccino", "d": 2, "t": "Boissons"},
-  {"q": "Quelle infusion, bue dans une calebasse avec une paille métallique appelée bombilla, est populaire en Argentine ?", "r": "Le maté", "d": 2, "t": "Boissons"},
-  {"q": "Quelle pâtisserie en forme de roue, créée en 1910, rend hommage à une course cycliste ?", "r": "Le paris-brest", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle tarte aux pommes caramélisées, cuite à l'envers, doit son nom à deux sœurs de Sologne ?", "r": "La tarte Tatin", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quel petit gâteau en forme de coquillage est la spécialité de Commercy ?", "r": "La madeleine", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle ville est célèbre pour ses cannelés, petits gâteaux caramélisés au rhum et à la vanille ?", "r": "Bordeaux", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle pâtisserie formée de deux choux superposés et glacés évoque la silhouette d'une nonne ?", "r": "La religieuse", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle pièce montée de choux caramélisés est traditionnellement servie aux mariages en France ?", "r": "Le croquembouche", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quel cuisinier et pâtissier du début du XIXe siècle fut surnommé « le roi des chefs et le chef des rois » ?", "r": "Antonin Carême", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quelle ville de Lorraine est célèbre pour les macarons des « Sœurs » ?", "r": "Nancy", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quelle actrice aurait suggéré le nom de la tarte tropézienne lors d'un tournage à Saint-Tropez dans les années 1950 ?", "r": "Brigitte Bardot", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quelle crème aux amandes garnit la galette des rois parisienne ?", "r": "La frangipane", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle crème fouettée sucrée et vanillée porte le nom d'un château de l'Oise ?", "r": "La crème Chantilly", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle ville de la Drôme est la capitale du nougat ?", "r": "Montélimar", "d": 1, "t": "Confiserie"},
-  {"q": "Quelle confiserie en forme de losange, à base d'amandes et de melon confit, est la spécialité d'Aix-en-Provence ?", "r": "Le calisson", "d": 1, "t": "Confiserie"},
-  {"q": "Quelle ville du Nord est célèbre pour ses « bêtises », bonbons à la menthe ?", "r": "Cambrai", "d": 2, "t": "Confiserie"},
-  {"q": "Quelle ville de la Meuse est réputée depuis des siècles pour ses dragées ?", "r": "Verdun", "d": 3, "t": "Confiserie"},
-  {"q": "Quelle confiture recouvre traditionnellement l'intérieur de la Sachertorte viennoise sous son glaçage au chocolat ?", "r": "La confiture d'abricot", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quel dessert italien au mascarpone et au café a un nom signifiant « tire-moi vers le haut » ?", "r": "Le tiramisu", "d": 1, "t": "Pâtisserie"},
-  {"q": "Quelle eau-de-vie de cerise parfume la génoise de la forêt-noire ?", "r": "Le kirsch", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quel dessert composé d'une poire pochée, de glace vanille et de sauce chocolat porte le nom d'une opérette d'Offenbach ?", "r": "La poire Belle-Hélène", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quel grand chef a créé la pêche Melba en hommage à une cantatrice australienne ?", "r": "Auguste Escoffier", "d": 2, "t": "Pâtisserie"},
-  {"q": "Comment appelle-t-on l'opération qui consiste à chauffer puis refroidir le chocolat à des températures précises pour le rendre brillant ?", "r": "Le tempérage", "d": 3, "t": "Pâtisserie"},
-  {"q": "Quels biscuits secs toscans aux amandes trempe-t-on traditionnellement dans le vin santo ?", "r": "Les cantucci", "d": 3, "t": "Pâtisserie"},
-  {"q": "Quelle petite tartelette portugaise, emblème du quartier lisboète de Belém, contient un flan à la crème ?", "r": "Le pastel de nata", "d": 2, "t": "Pâtisserie"},
-  {"q": "Quel Suisse a mis au point le chocolat au lait en 1875, avec le lait concentré d'Henri Nestlé ?", "r": "Daniel Peter", "d": 3, "t": "Chocolat"}
+  {
+    "q": "Quel fromage normand à pâte molle et croûte fleurie porte le nom d'un village de l'Orne ?",
+    "r": "Le camembert",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quelle fermière normande est, selon la tradition, l'inventrice du camembert vers 1791 ?",
+    "r": "Marie Harel",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage persillé au lait de brebis est affiné dans des caves naturelles de l'Aveyron ?",
+    "r": "Le roquefort",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quelle moisissure donne ses veines bleu-vert au roquefort ?",
+    "r": "Penicillium roqueforti",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Selon la légende, quel fromage fut sacré « roi des fromages » lors du congrès de Vienne en 1815 ?",
+    "r": "Le brie de Meaux",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage AOP du massif du Jura, à pâte pressée cuite, est affiné en grandes meules ?",
+    "r": "Le comté",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage savoyard, surnommé « le prince des gruyères », se reconnaît à sa meule au talon concave ?",
+    "r": "Le beaufort",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage du Nord à croûte orangée et à l'odeur puissante porte le nom d'un village de l'Avesnois ?",
+    "r": "Le maroilles",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage vosgien à croûte lavée, souvent dégusté avec du cumin, porte le nom d'une ville du Haut-Rhin ?",
+    "r": "Le munster",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage néerlandais en forme de boule, enrobé de cire rouge, porte le nom d'une ville au nord d'Amsterdam ?",
+    "r": "L'édam",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Avec le lait de quel animal est fabriquée la véritable mozzarella de Campanie ?",
+    "r": "La bufflonne",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage italien à pâte dure, affiné au moins douze mois, est produit notamment autour de Parme et de Reggio d'Émilie ?",
+    "r": "Le parmesan (parmigiano reggiano)",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage grec conservé en saumure est fabriqué principalement avec du lait de brebis ?",
+    "r": "La feta",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage anglais à pâte pressée porte le nom d'un village du Somerset ?",
+    "r": "Le cheddar",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage bleu anglais, traditionnellement servi à Noël avec du porto, porte le nom d'un village du Cambridgeshire ?",
+    "r": "Le stilton",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage suisse se déguste en fines rosettes raclées à l'aide d'une girolle ?",
+    "r": "La tête de moine",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage suisse à gros trous est souvent appelé simplement « fromage suisse » à l'étranger ?",
+    "r": "L'emmental",
+    "d": 1,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage de chèvre de Touraine est traversé en son centre par une paille de seigle ?",
+    "r": "Le sainte-maure-de-touraine",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel petit fromage de chèvre du Cher porte le nom d'un hameau voisin de Sancerre ?",
+    "r": "Le crottin de Chavignol",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage de chèvre de l'Indre a la forme d'une pyramide tronquée ?",
+    "r": "Le valençay",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage auvergnat doit son nom au maréchal de Senneterre, qui l'aurait fait servir à la table de Louis XIV ?",
+    "r": "Le saint-nectaire",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage bourguignon à croûte orangée est lavé au marc de Bourgogne ?",
+    "r": "L'époisses",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage du Jura se reconnaît à la fine raie noire de charbon végétal qui le traverse ?",
+    "r": "Le morbier",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Quel fromage du Haut-Doubs, cerclé d'une sangle d'épicéa, se déguste à la cuillère en hiver ?",
+    "r": "Le mont-d'or",
+    "d": 2,
+    "t": "Fromages"
+  },
+  {
+    "q": "Comment appelle-t-on la collection des étiquettes de boîtes de fromage ?",
+    "r": "La tyrosémiophilie",
+    "d": 3,
+    "t": "Fromages"
+  },
+  {
+    "q": "Dans quel grand vignoble français produit-on le sauternes, vin blanc liquoreux ?",
+    "r": "Le Bordelais",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel champignon, appelé « pourriture noble », concentre les sucres des raisins du sauternes ?",
+    "r": "Botrytis cinerea",
+    "d": 3,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel cépage rouge est utilisé pour tous les grands crus rouges de Bourgogne ?",
+    "r": "Le pinot noir",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel cépage blanc est le seul utilisé pour produire le chablis ?",
+    "r": "Le chardonnay",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel moine bénédictin de l'abbaye d'Hautvillers est, selon la légende, l'inventeur du champagne ?",
+    "r": "Dom Pérignon",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Comment appelle-t-on l'art d'ouvrir une bouteille de champagne d'un coup de sabre ?",
+    "r": "Le sabrage",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel vin primeur est traditionnellement mis en vente le troisième jeudi de novembre ?",
+    "r": "Le beaujolais nouveau",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel cépage compose les vins rouges du Beaujolais ?",
+    "r": "Le gamay",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Comment s'appelle la bouteille de 62 centilitres réservée au vin jaune du Jura ?",
+    "r": "Le clavelin",
+    "d": 3,
+    "t": "Vins"
+  },
+  {
+    "q": "Combien de centilitres contient une bouteille de vin standard ?",
+    "r": "75 cl",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Comment nomme-t-on une bouteille de vin ou de champagne d'une contenance de 1,5 litre ?",
+    "r": "Un magnum",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel nom de roi biblique porte une bouteille de champagne de 3 litres ?",
+    "r": "Jéroboam",
+    "d": 3,
+    "t": "Vins"
+  },
+  {
+    "q": "Comment appelle-t-on le professionnel chargé de conseiller et de servir les vins dans un restaurant ?",
+    "r": "Le sommelier",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Comment appelle-t-on la science qui étudie la fabrication et la conservation du vin ?",
+    "r": "L'œnologie",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel petit insecte venu d'Amérique a ravagé le vignoble français à partir des années 1860 ?",
+    "r": "Le phylloxéra",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "En quelle année fut établi, pour l'Exposition universelle de Paris, le célèbre classement officiel des vins de Bordeaux ?",
+    "r": "1855",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel château des Graves est le seul vin rouge hors Médoc classé premier grand cru en 1855 ?",
+    "r": "Château Haut-Brion",
+    "d": 3,
+    "t": "Vins"
+  },
+  {
+    "q": "Dans quelle vallée portugaise sont cultivés les raisins du porto ?",
+    "r": "La vallée du Douro",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel vin effervescent espagnol est principalement produit en Catalogne ?",
+    "r": "Le cava",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel vin mousseux de Vénétie entre dans la recette du spritz ?",
+    "r": "Le prosecco",
+    "d": 1,
+    "t": "Vins"
+  },
+  {
+    "q": "Quel vin liquoreux de Hongrie aurait été surnommé par Louis XIV « le vin des rois, le roi des vins » ?",
+    "r": "Le tokaji (tokay)",
+    "d": 3,
+    "t": "Vins"
+  },
+  {
+    "q": "Quelle ville andalouse a donné son nom au xérès, appelé « sherry » par les Anglais ?",
+    "r": "Jerez de la Frontera",
+    "d": 2,
+    "t": "Vins"
+  },
+  {
+    "q": "Quelle eau-de-vie de vin porte le nom d'une ville de Charente ?",
+    "r": "Le cognac",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quelle eau-de-vie de vin gasconne est considérée comme la plus ancienne de France ?",
+    "r": "L'armagnac",
+    "d": 2,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quelle eau-de-vie normande est obtenue par distillation du cidre ?",
+    "r": "Le calvados",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quel apéritif anisé Paul Ricard a-t-il lancé à Marseille en 1932 ?",
+    "r": "Le pastis",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quel spiritueux, surnommé « la fée verte », fut interdit en France en 1915 ?",
+    "r": "L'absinthe",
+    "d": 2,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "À partir de quelle plante succulente produit-on la tequila ?",
+    "r": "L'agave bleu",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quelle céréale est majoritaire dans la fabrication du bourbon américain ?",
+    "r": "Le maïs",
+    "d": 2,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quelle boisson alcoolisée japonaise est obtenue par fermentation du riz ?",
+    "r": "Le saké",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quel spiritueux des Antilles françaises est distillé directement à partir du jus de canne à sucre ?",
+    "r": "Le rhum agricole",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quel alcool doit son arôme principal aux baies de genièvre ?",
+    "r": "Le gin",
+    "d": 1,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quelle liqueur verte ou jaune est élaborée depuis le XVIIIe siècle par des moines de l'Isère ?",
+    "r": "La Chartreuse",
+    "d": 2,
+    "t": "Spiritueux"
+  },
+  {
+    "q": "Quel cocktail cubain associe rhum blanc, citron vert, sucre, menthe fraîche et eau gazeuse ?",
+    "r": "Le mojito",
+    "d": 1,
+    "t": "Cocktails"
+  },
+  {
+    "q": "Quel apéritif, mélange de crème de cassis et de vin blanc, porte le nom d'un chanoine maire de Dijon ?",
+    "r": "Le kir",
+    "d": 1,
+    "t": "Cocktails"
+  },
+  {
+    "q": "Quel cocktail italien associe à parts égales gin, vermouth rouge et Campari ?",
+    "r": "Le negroni",
+    "d": 2,
+    "t": "Cocktails"
+  },
+  {
+    "q": "Quel cocktail de Porto Rico mélange rhum, jus d'ananas et crème de coco ?",
+    "r": "La piña colada",
+    "d": 2,
+    "t": "Cocktails"
+  },
+  {
+    "q": "Quel thé vert japonais en poudre est utilisé lors de la cérémonie du thé ?",
+    "r": "Le matcha",
+    "d": 1,
+    "t": "Boissons"
+  },
+  {
+    "q": "Quelle boisson italienne au café doit son nom à la couleur de la robe des moines capucins ?",
+    "r": "Le cappuccino",
+    "d": 2,
+    "t": "Boissons"
+  },
+  {
+    "q": "Quelle infusion, bue dans une calebasse avec une paille métallique appelée bombilla, est populaire en Argentine ?",
+    "r": "Le maté",
+    "d": 2,
+    "t": "Boissons"
+  },
+  {
+    "q": "Quelle pâtisserie en forme de roue, créée en 1910, rend hommage à une course cycliste ?",
+    "r": "Le paris-brest",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle tarte aux pommes caramélisées, cuite à l'envers, doit son nom à deux sœurs de Sologne ?",
+    "r": "La tarte Tatin",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quel petit gâteau en forme de coquillage est la spécialité de Commercy ?",
+    "r": "La madeleine",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle ville est célèbre pour ses cannelés, petits gâteaux caramélisés au rhum et à la vanille ?",
+    "r": "Bordeaux",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle pâtisserie formée de deux choux superposés et glacés évoque la silhouette d'une nonne ?",
+    "r": "La religieuse",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle pièce montée de choux caramélisés est traditionnellement servie aux mariages en France ?",
+    "r": "Le croquembouche",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quel cuisinier et pâtissier du début du XIXe siècle fut surnommé « le roi des chefs et le chef des rois » ?",
+    "r": "Antonin Carême",
+    "d": 3,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle ville de Lorraine est célèbre pour les macarons des « Sœurs » ?",
+    "r": "Nancy",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle actrice aurait suggéré le nom de la tarte tropézienne lors d'un tournage à Saint-Tropez dans les années 1950 ?",
+    "r": "Brigitte Bardot",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle crème aux amandes garnit la galette des rois parisienne ?",
+    "r": "La frangipane",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle crème fouettée sucrée et vanillée porte le nom d'un château de l'Oise ?",
+    "r": "La crème Chantilly",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle ville de la Drôme est la capitale du nougat ?",
+    "r": "Montélimar",
+    "d": 1,
+    "t": "Confiserie"
+  },
+  {
+    "q": "Quelle confiserie en forme de losange, à base d'amandes et de melon confit, est la spécialité d'Aix-en-Provence ?",
+    "r": "Le calisson",
+    "d": 1,
+    "t": "Confiserie"
+  },
+  {
+    "q": "Quelle ville du Nord est célèbre pour ses « bêtises », bonbons à la menthe ?",
+    "r": "Cambrai",
+    "d": 2,
+    "t": "Confiserie"
+  },
+  {
+    "q": "Quelle ville de la Meuse est réputée depuis des siècles pour ses dragées ?",
+    "r": "Verdun",
+    "d": 3,
+    "t": "Confiserie"
+  },
+  {
+    "q": "Quelle confiture recouvre traditionnellement l'intérieur de la Sachertorte viennoise sous son glaçage au chocolat ?",
+    "r": "La confiture d'abricot",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quel dessert italien au mascarpone et au café a un nom signifiant « tire-moi vers le haut » ?",
+    "r": "Le tiramisu",
+    "d": 1,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle eau-de-vie de cerise parfume la génoise de la forêt-noire ?",
+    "r": "Le kirsch",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quel dessert composé d'une poire pochée, de glace vanille et de sauce chocolat porte le nom d'une opérette d'Offenbach ?",
+    "r": "La poire Belle-Hélène",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quel grand chef a créé la pêche Melba en hommage à une cantatrice australienne ?",
+    "r": "Auguste Escoffier",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Comment appelle-t-on l'opération qui consiste à chauffer puis refroidir le chocolat à des températures précises pour le rendre brillant ?",
+    "r": "Le tempérage",
+    "d": 3,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quels biscuits secs toscans aux amandes trempe-t-on traditionnellement dans le vin santo ?",
+    "r": "Les cantucci",
+    "d": 3,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quelle petite tartelette portugaise, emblème du quartier lisboète de Belém, contient un flan à la crème ?",
+    "r": "Le pastel de nata",
+    "d": 2,
+    "t": "Pâtisserie"
+  },
+  {
+    "q": "Quel Suisse a mis au point le chocolat au lait en 1875, avec le lait concentré d'Henri Nestlé ?",
+    "r": "Daniel Peter",
+    "d": 3,
+    "t": "Chocolat"
+  },
+  {
+    "q": "Quelle technique de multiplication des végétaux consiste à planter un fragment de tige pour qu'il produise des racines ?",
+    "r": "Le bouturage",
+    "d": 1,
+    "t": "Jardinage"
+  }
 ]

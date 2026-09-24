@@ -1,97 +1,542 @@
 [
-  {"q": "Combien de minutes dure une exclusion temporaire au handball ?", "r": "2 minutes", "d": 2, "t": "Handball – règles"},
-  {"q": "Au handball, combien de secondes un joueur peut-il garder le ballon en main sans dribbler ni passer ?", "r": "3 secondes", "d": 2, "t": "Handball – règles"},
-  {"q": "Quel poste occupe au handball le joueur placé au contact de la défense adverse, au milieu des défenseurs ?", "r": "Pivot", "d": 2, "t": "Handball – règles"},
-  {"q": "Comment appelle-t-on au handball la faute d'un joueur qui dribble, saisit le ballon puis se remet à dribbler ?", "r": "La reprise de dribble", "d": 2, "t": "Handball – règles"},
-  {"q": "Quelles sont les dimensions réglementaires d'un terrain de handball ?", "r": "40 m sur 20 m", "d": 2, "t": "Handball – règles"},
-  {"q": "Quel club est devenu en 2003 le premier club français à remporter la Ligue des champions de handball ?", "r": "Montpellier (MHB)", "d": 2, "t": "Handball – clubs"},
-  {"q": "Quelle nation a battu la France en finale du tournoi olympique masculin de handball de Rio, en 2016 ?", "r": "Le Danemark", "d": 2, "t": "Handball – compétitions"},
-  {"q": "Quelle équipe nationale féminine a remporté la médaille d'or olympique de handball à Tokyo, en 2021 ?", "r": "La France", "d": 2, "t": "Handball – compétitions"},
-  {"q": "Quel gardien de but alsacien a été le dernier rempart des Experts lors des titres olympiques de 2008 et 2012 ?", "r": "Thierry Omeyer", "d": 2, "t": "Handball – champions"},
-  {"q": "Quel pays la France a-t-elle battu en finale du championnat du monde masculin de handball 2017, disputé à domicile ?", "r": "La Norvège", "d": 2, "t": "Handball – compétitions"},
-
-  {"q": "Comment appelle-t-on au handball l'action où un joueur saute dans la zone, capte une passe en l'air et tire avant de retomber ?", "r": "Un kung-fu", "d": 3, "t": "Handball – vocabulaire"},
-  {"q": "Comment appelle-t-on au handball un tir lobé par-dessus le gardien ?", "r": "Une chabala", "d": 3, "t": "Handball – vocabulaire"},
-  {"q": "En quelle année l'équipe de France féminine de handball a-t-elle été sacrée championne du monde pour la première fois ?", "r": "2003", "d": 3, "t": "Handball – compétitions"},
-  {"q": "Quel sélectionneur a mené les handballeuses françaises au titre olympique de Tokyo, en 2021 ?", "r": "Olivier Krumbholz", "d": 3, "t": "Handball – équipe de France"},
-  {"q": "Quelle nation a battu la France en finale du championnat du monde féminin de handball 2021 ?", "r": "La Norvège", "d": 3, "t": "Handball – compétitions"},
-  {"q": "Sur quelle surface se disputait le tournoi de handball à onze des Jeux olympiques de Berlin, en 1936 ?", "r": "Sur gazon (en plein air)", "d": 3, "t": "Handball – histoire"},
-  {"q": "Contre quel pays les Barjots ont-ils remporté la finale du championnat du monde de handball 1995, en Islande ?", "r": "La Croatie", "d": 3, "t": "Handball – compétitions"},
-  {"q": "Dans quelle ville du nord de l'Allemagne joue le THW, l'un des clubs de handball les plus titrés d'Europe ?", "r": "Kiel", "d": 3, "t": "Handball – clubs"},
-
-  {"q": "Sur quelle surface se dispute le tournoi de Roland-Garros ?", "r": "La terre battue", "d": 1, "t": "Tennis – compétitions"},
-  {"q": "Quel tournoi du Grand Chelem se joue sur gazon, dans la banlieue sud-ouest de Londres ?", "r": "Wimbledon", "d": 1, "t": "Tennis – compétitions"},
-  {"q": "Comment appelle-t-on un service gagnant que l'adversaire ne parvient même pas à toucher ?", "r": "Un ace", "d": 1, "t": "Tennis – vocabulaire"},
-  {"q": "Quel mot l'arbitre de tennis annonce-t-il lorsque les deux joueurs sont à 40 partout ?", "r": "Égalité", "d": 1, "t": "Tennis – règles"},
-  {"q": "Quel nom anglais donne-t-on au jeu décisif disputé à six jeux partout ?", "r": "Le tie-break", "d": 1, "t": "Tennis – règles"},
-  {"q": "Combien de jeux faut-il gagner au minimum pour remporter un set ?", "r": "6", "d": 1, "t": "Tennis – règles"},
-  {"q": "Comment appelle-t-on un coup frappé avant que la balle n'ait touché le sol ?", "r": "Une volée", "d": 1, "t": "Tennis – vocabulaire"},
-  {"q": "Comment appelle-t-on le coup qui fait passer la balle en hauteur au-dessus d'un adversaire monté au filet ?", "r": "Un lob", "d": 1, "t": "Tennis – vocabulaire"},
-  {"q": "Quelle couleur de tenue est imposée aux joueurs du tournoi de Wimbledon ?", "r": "Le blanc", "d": 1, "t": "Tennis – compétitions"},
-  {"q": "Dans quelle ville se dispute l'Open d'Australie ?", "r": "Melbourne", "d": 1, "t": "Tennis – compétitions"},
-  {"q": "Quel aviateur, premier à traverser la Méditerranée en avion, a donné son nom au stade du tournoi parisien ?", "r": "Roland Garros", "d": 1, "t": "Tennis – stades"},
-  {"q": "Quelle compétition masculine par nations, créée en 1900, porte le nom d'un joueur américain ?", "r": "La Coupe Davis", "d": 1, "t": "Tennis – compétitions"},
-  {"q": "Quel Mousquetaire du tennis, surnommé « le Crocodile », a fondé une célèbre marque de vêtements ?", "r": "René Lacoste", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quel Français a remporté le simple messieurs de Roland-Garros en 1983 ?", "r": "Yannick Noah", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quel joueur espagnol a remporté quatorze fois Roland-Garros, entre 2005 et 2022 ?", "r": "Rafael Nadal", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quel joueur suisse a remporté le tournoi de Wimbledon à huit reprises ?", "r": "Roger Federer", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quel Serbe totalisait dix victoires à l'Open d'Australie à l'issue de l'édition 2023 ?", "r": "Novak Djokovic", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quel Suédois a remporté cinq fois de suite le tournoi de Wimbledon, de 1976 à 1980 ?", "r": "Björn Borg", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quelle Américaine a remporté 23 titres du Grand Chelem en simple avant de mettre fin à sa carrière en 2022 ?", "r": "Serena Williams", "d": 1, "t": "Tennis – champions"},
-  {"q": "Quelle Française a remporté le tournoi de Wimbledon en 2013 ?", "r": "Marion Bartoli", "d": 1, "t": "Tennis – champions"},
-
-  {"q": "Quelle Française a remporté le simple dames de Roland-Garros en 2000 ?", "r": "Mary Pierce", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quelle Française a remporté l'Open d'Australie et Wimbledon la même année, en 2006 ?", "r": "Amélie Mauresmo", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel surnom collectif donnait-on à Lacoste, Borotra, Cochet et Brugnon, vainqueurs de la Coupe Davis de 1927 à 1932 ?", "r": "Les Mousquetaires", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quelle joueuse française, surnommée « la Divine », a dominé le tennis féminin dans les années 1920 ?", "r": "Suzanne Lenglen", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel nom porte le court central du stade Roland-Garros ?", "r": "Le court Philippe-Chatrier", "d": 2, "t": "Tennis – stades"},
-  {"q": "Dans quel parc du Queens, à New York, se dispute l'US Open ?", "r": "Flushing Meadows", "d": 2, "t": "Tennis – stades"},
-  {"q": "Sur quel type de surface se dispute l'US Open depuis 1978 ?", "r": "Surface dure (ciment)", "d": 2, "t": "Tennis – compétitions"},
-  {"q": "Quel dessert est traditionnellement dégusté par les spectateurs de Wimbledon ?", "r": "Des fraises à la crème", "d": 2, "t": "Tennis – compétitions"},
-  {"q": "Comment appelle-t-on la faute du serveur qui touche la ligne de fond avec le pied avant de frapper la balle ?", "r": "Une faute de pied", "d": 2, "t": "Tennis – règles"},
-  {"q": "Quel terme désigne un service qui touche le haut du filet avant de retomber dans le bon carré ?", "r": "Un let", "d": 2, "t": "Tennis – vocabulaire"},
-  {"q": "Quel mot anglais utilise-t-on au tennis pour annoncer un score de zéro ?", "r": "Love", "d": 2, "t": "Tennis – vocabulaire"},
-  {"q": "Combien de points faut-il au minimum pour remporter un tie-break classique ?", "r": "7 points", "d": 2, "t": "Tennis – règles"},
-  {"q": "En combien de sets gagnants se disputent les matchs de simple messieurs en Grand Chelem ?", "r": "3 sets gagnants", "d": 2, "t": "Tennis – règles"},
-  {"q": "Comment appelle-t-on l'invitation accordée par un tournoi à un joueur qui n'a pas le classement requis ?", "r": "Une wild card", "d": 2, "t": "Tennis – vocabulaire"},
-  {"q": "Quelle joueuse allemande a réussi en 1988 le « Grand Chelem doré », les quatre majeurs plus l'or olympique ?", "r": "Steffi Graf", "d": 2, "t": "Tennis – exploits"},
-  {"q": "Quel Américain au caractère explosif a battu Björn Borg en finale de Wimbledon 1981 ?", "r": "John McEnroe", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quelle joueuse d'origine tchécoslovaque a remporté neuf fois le simple dames de Wimbledon ?", "r": "Martina Navrátilová", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel Américain a complété son Grand Chelem en carrière en remportant Roland-Garros en 1999 ?", "r": "Andre Agassi", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel Brésilien surnommé « Guga » a remporté trois fois Roland-Garros ?", "r": "Gustavo Kuerten", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel Français a atteint la finale de l'Open d'Australie en 2008 ?", "r": "Jo-Wilfried Tsonga", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel pays la France a-t-elle battu en finale de la Coupe Davis 2017, disputée à Lille ?", "r": "La Belgique", "d": 2, "t": "Tennis – compétitions"},
-  {"q": "Quelle championne américaine a donné son nom en 2020 à la compétition féminine par nations, l'ex-Fed Cup ?", "r": "Billie Jean King", "d": 2, "t": "Tennis – compétitions"},
-  {"q": "Quel Suisse a battu Novak Djokovic en finale de Roland-Garros 2015 ?", "r": "Stan Wawrinka", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel Britannique a remporté Wimbledon en 2013, 77 ans après la dernière victoire d'un joueur de son pays ?", "r": "Andy Murray", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quel Espagnol a remporté l'US Open 2022 à seulement 19 ans ?", "r": "Carlos Alcaraz", "d": 2, "t": "Tennis – champions"},
-  {"q": "Quelle Polonaise a remporté Roland-Garros en 2020, 2022 et 2023 ?", "r": "Iga Świątek", "d": 2, "t": "Tennis – champions"},
-
-  {"q": "Quel Suédois Yannick Noah a-t-il battu en finale de Roland-Garros 1983 ?", "r": "Mats Wilander", "d": 3, "t": "Tennis – champions"},
-  {"q": "Sur quelle chanson de Yannick Noah les joueurs français ont-ils dansé après leur victoire en Coupe Davis 1991 ?", "r": "Saga Africa", "d": 3, "t": "Tennis – exploits"},
-  {"q": "Contre quelle nation la France a-t-elle remporté la finale de la Coupe Davis 1991, à Lyon ?", "r": "Les États-Unis", "d": 3, "t": "Tennis – compétitions"},
-  {"q": "Contre quel joueur Billie Jean King a-t-elle remporté la « bataille des sexes » en 1973 ?", "r": "Bobby Riggs", "d": 3, "t": "Tennis – exploits"},
-  {"q": "Quel Français a remporté le simple messieurs de Wimbledon en 1946 ?", "r": "Yvon Petra", "d": 3, "t": "Tennis – champions"},
-  {"q": "Quelle Française a remporté le simple dames de Roland-Garros en 1967 ?", "r": "Françoise Dürr", "d": 3, "t": "Tennis – champions"},
-  {"q": "Quel Argentin a remporté Roland-Garros en 2004 face à son compatriote Guillermo Coria ?", "r": "Gastón Gaudio", "d": 3, "t": "Tennis – champions"},
-  {"q": "Quel Français a atteint la finale de Roland-Garros en 1988 ?", "r": "Henri Leconte", "d": 3, "t": "Tennis – champions"},
-  {"q": "Dans quel pays se trouvent en réalité les courts du Masters de Monte-Carlo ?", "r": "La France (Roquebrune-Cap-Martin)", "d": 3, "t": "Tennis – stades"},
-  {"q": "Quelle Japonaise a battu Serena Williams en finale de l'US Open 2018 ?", "r": "Naomi Osaka", "d": 3, "t": "Tennis – champions"},
-  {"q": "Avec quelle partenaire Kristina Mladenovic a-t-elle remporté le double dames de Roland-Garros 2016 ?", "r": "Caroline Garcia", "d": 3, "t": "Tennis – champions"},
-  {"q": "Quel Australien a réalisé le Grand Chelem calendaire en 1962, puis de nouveau en 1969 ?", "r": "Rod Laver", "d": 3, "t": "Tennis – exploits"},
-  {"q": "Quel Américain de 17 ans a remporté Roland-Garros en 1989 ?", "r": "Michael Chang", "d": 3, "t": "Tennis – champions"},
-
-  {"q": "De quelle couleur est le maillot du leader du classement général du Tour de France ?", "r": "Jaune", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "Quel classement du Tour de France est récompensé par le maillot blanc à pois rouges ?", "r": "Le meilleur grimpeur", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "De quelle couleur est le maillot du leader du classement par points, souvent un sprinteur, sur le Tour de France ?", "r": "Vert", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "Sur quelle avenue parisienne le Tour de France se termine-t-il traditionnellement depuis 1975 ?", "r": "Les Champs-Élysées", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "Quel coureur breton, surnommé « le Blaireau », a remporté cinq Tours de France ?", "r": "Bernard Hinault", "d": 1, "t": "Cyclisme – champions"},
-  {"q": "Quel coureur belge était surnommé « le Cannibale » ?", "r": "Eddy Merckx", "d": 1, "t": "Cyclisme – champions"},
-  {"q": "Quel coureur français surnommé « Poupou », éternel second, n'a jamais porté le maillot jaune ?", "r": "Raymond Poulidor", "d": 1, "t": "Cyclisme – champions"},
-  {"q": "Quel coureur américain a été déchu en 2012 de ses sept victoires sur le Tour de France pour dopage ?", "r": "Lance Armstrong", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "Quel sommet du Vaucluse est surnommé « le Géant de Provence » ?", "r": "Le mont Ventoux", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "Quelle montée de l'Isère est célèbre pour ses 21 virages numérotés ?", "r": "L'Alpe d'Huez", "d": 1, "t": "Cyclisme – Tour de France"},
-  {"q": "De quelle couleur est le maillot du leader du Tour d'Italie ?", "r": "Rose", "d": 1, "t": "Cyclisme – compétitions"},
-  {"q": "Sous quel nom espagnol désigne-t-on couramment le Tour d'Espagne ?", "r": "La Vuelta", "d": 1, "t": "Cyclisme – compétitions"},
-  {"q": "Quel grimpeur français a remporté à sept reprises le maillot à pois du Tour de France ?", "r": "Richard Virenque", "d": 1, "t": "Cyclisme – champions"}
+  {
+    "q": "Combien de minutes dure une exclusion temporaire au handball ?",
+    "r": "2 minutes",
+    "d": 1,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Au handball, combien de secondes un joueur peut-il garder le ballon en main sans dribbler ni passer ?",
+    "r": "3 secondes",
+    "d": 2,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quel poste occupe au handball le joueur placé au contact de la défense adverse, au milieu des défenseurs ?",
+    "r": "Pivot",
+    "d": 2,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Comment appelle-t-on au handball la faute d'un joueur qui dribble, saisit le ballon puis se remet à dribbler ?",
+    "r": "La reprise de dribble",
+    "d": 2,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quelles sont les dimensions réglementaires d'un terrain de handball ?",
+    "r": "40 m sur 20 m",
+    "d": 2,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quel club est devenu en 2003 le premier club français à remporter la Ligue des champions de handball ?",
+    "r": "Montpellier (MHB)",
+    "d": 2,
+    "t": "Handball – clubs"
+  },
+  {
+    "q": "Quelle nation a battu la France en finale du tournoi olympique masculin de handball de Rio, en 2016 ?",
+    "r": "Le Danemark",
+    "d": 2,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Quelle équipe nationale féminine a remporté la médaille d'or olympique de handball à Tokyo, en 2021 ?",
+    "r": "La France",
+    "d": 2,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Quel gardien de but alsacien a été le dernier rempart des Experts lors des titres olympiques de 2008 et 2012 ?",
+    "r": "Thierry Omeyer",
+    "d": 2,
+    "t": "Handball – champions"
+  },
+  {
+    "q": "Quel pays la France a-t-elle battu en finale du championnat du monde masculin de handball 2017, disputé à domicile ?",
+    "r": "La Norvège",
+    "d": 2,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on au handball l'action où un joueur saute dans la zone, capte une passe en l'air et tire avant de retomber ?",
+    "r": "Un kung-fu",
+    "d": 3,
+    "t": "Handball – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on au handball un tir lobé par-dessus le gardien ?",
+    "r": "Une chabala",
+    "d": 3,
+    "t": "Handball – vocabulaire"
+  },
+  {
+    "q": "En quelle année l'équipe de France féminine de handball a-t-elle été sacrée championne du monde pour la première fois ?",
+    "r": "2003",
+    "d": 3,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Quel sélectionneur a mené les handballeuses françaises au titre olympique de Tokyo, en 2021 ?",
+    "r": "Olivier Krumbholz",
+    "d": 3,
+    "t": "Handball – équipe de France"
+  },
+  {
+    "q": "Quelle nation a battu la France en finale du championnat du monde féminin de handball 2021 ?",
+    "r": "La Norvège",
+    "d": 3,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Sur quelle surface se disputait le tournoi de handball à onze des Jeux olympiques de Berlin, en 1936 ?",
+    "r": "Sur gazon (en plein air)",
+    "d": 3,
+    "t": "Handball – histoire"
+  },
+  {
+    "q": "Contre quel pays les Barjots ont-ils remporté la finale du championnat du monde de handball 1995, en Islande ?",
+    "r": "La Croatie",
+    "d": 3,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Dans quelle ville du nord de l'Allemagne joue le THW, l'un des clubs de handball les plus titrés d'Europe ?",
+    "r": "Kiel",
+    "d": 3,
+    "t": "Handball – clubs"
+  },
+  {
+    "q": "Sur quelle surface se dispute le tournoi de Roland-Garros ?",
+    "r": "La terre battue",
+    "d": 1,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Quel tournoi du Grand Chelem se joue sur gazon, dans la banlieue sud-ouest de Londres ?",
+    "r": "Wimbledon",
+    "d": 1,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on un service gagnant que l'adversaire ne parvient même pas à toucher ?",
+    "r": "Un ace",
+    "d": 1,
+    "t": "Tennis – vocabulaire"
+  },
+  {
+    "q": "Quel mot l'arbitre de tennis annonce-t-il lorsque les deux joueurs sont à 40 partout ?",
+    "r": "Égalité",
+    "d": 1,
+    "t": "Tennis – règles"
+  },
+  {
+    "q": "Quel nom anglais donne-t-on au jeu décisif disputé à six jeux partout ?",
+    "r": "Le tie-break",
+    "d": 1,
+    "t": "Tennis – règles"
+  },
+  {
+    "q": "Combien de jeux faut-il gagner au minimum pour remporter un set ?",
+    "r": "6",
+    "d": 1,
+    "t": "Tennis – règles"
+  },
+  {
+    "q": "Comment appelle-t-on un coup frappé avant que la balle n'ait touché le sol ?",
+    "r": "Une volée",
+    "d": 1,
+    "t": "Tennis – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on le coup qui fait passer la balle en hauteur au-dessus d'un adversaire monté au filet ?",
+    "r": "Un lob",
+    "d": 1,
+    "t": "Tennis – vocabulaire"
+  },
+  {
+    "q": "Quelle couleur de tenue est imposée aux joueurs du tournoi de Wimbledon ?",
+    "r": "Le blanc",
+    "d": 1,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Dans quelle ville se dispute l'Open d'Australie ?",
+    "r": "Melbourne",
+    "d": 1,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Quel aviateur, premier à traverser la Méditerranée en avion, a donné son nom au stade du tournoi parisien ?",
+    "r": "Roland Garros",
+    "d": 1,
+    "t": "Tennis – stades"
+  },
+  {
+    "q": "Quelle compétition masculine par nations, créée en 1900, porte le nom d'un joueur américain ?",
+    "r": "La Coupe Davis",
+    "d": 1,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Quel Mousquetaire du tennis, surnommé « le Crocodile », a fondé une célèbre marque de vêtements ?",
+    "r": "René Lacoste",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Français a remporté le simple messieurs de Roland-Garros en 1983 ?",
+    "r": "Yannick Noah",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel joueur espagnol a remporté quatorze fois Roland-Garros, entre 2005 et 2022 ?",
+    "r": "Rafael Nadal",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel joueur suisse a remporté le tournoi de Wimbledon à huit reprises ?",
+    "r": "Roger Federer",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Serbe totalisait dix victoires à l'Open d'Australie à l'issue de l'édition 2023 ?",
+    "r": "Novak Djokovic",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Suédois a remporté cinq fois de suite le tournoi de Wimbledon, de 1976 à 1980 ?",
+    "r": "Björn Borg",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle Américaine a remporté 23 titres du Grand Chelem en simple avant de mettre fin à sa carrière en 2022 ?",
+    "r": "Serena Williams",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle Française a remporté le tournoi de Wimbledon en 2013 ?",
+    "r": "Marion Bartoli",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle Française a remporté le simple dames de Roland-Garros en 2000 ?",
+    "r": "Mary Pierce",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle Française a remporté l'Open d'Australie et Wimbledon la même année, en 2006 ?",
+    "r": "Amélie Mauresmo",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel surnom collectif donnait-on à Lacoste, Borotra, Cochet et Brugnon, vainqueurs de la Coupe Davis de 1927 à 1932 ?",
+    "r": "Les Mousquetaires",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle joueuse française, surnommée « la Divine », a dominé le tennis féminin dans les années 1920 ?",
+    "r": "Suzanne Lenglen",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel nom porte le court central du stade Roland-Garros ?",
+    "r": "Le court Philippe-Chatrier",
+    "d": 2,
+    "t": "Tennis – stades"
+  },
+  {
+    "q": "Dans quel parc du Queens, à New York, se dispute l'US Open ?",
+    "r": "Flushing Meadows",
+    "d": 2,
+    "t": "Tennis – stades"
+  },
+  {
+    "q": "Sur quel type de surface se dispute l'US Open depuis 1978 ?",
+    "r": "Surface dure (ciment)",
+    "d": 2,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Quel dessert est traditionnellement dégusté par les spectateurs de Wimbledon ?",
+    "r": "Des fraises à la crème",
+    "d": 1,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on la faute du serveur qui touche la ligne de fond avec le pied avant de frapper la balle ?",
+    "r": "Une faute de pied",
+    "d": 2,
+    "t": "Tennis – règles"
+  },
+  {
+    "q": "Quel terme désigne un service qui touche le haut du filet avant de retomber dans le bon carré ?",
+    "r": "Un let",
+    "d": 2,
+    "t": "Tennis – vocabulaire"
+  },
+  {
+    "q": "Quel mot anglais utilise-t-on au tennis pour annoncer un score de zéro ?",
+    "r": "Love",
+    "d": 2,
+    "t": "Tennis – vocabulaire"
+  },
+  {
+    "q": "Combien de points faut-il au minimum pour remporter un tie-break classique ?",
+    "r": "7 points",
+    "d": 2,
+    "t": "Tennis – règles"
+  },
+  {
+    "q": "En combien de sets gagnants se disputent les matchs de simple messieurs en Grand Chelem ?",
+    "r": "3 sets gagnants",
+    "d": 2,
+    "t": "Tennis – règles"
+  },
+  {
+    "q": "Comment appelle-t-on l'invitation accordée par un tournoi à un joueur qui n'a pas le classement requis ?",
+    "r": "Une wild card",
+    "d": 2,
+    "t": "Tennis – vocabulaire"
+  },
+  {
+    "q": "Quelle joueuse allemande a réussi en 1988 le « Grand Chelem doré », les quatre majeurs plus l'or olympique ?",
+    "r": "Steffi Graf",
+    "d": 2,
+    "t": "Tennis – exploits"
+  },
+  {
+    "q": "Quel Américain au caractère explosif a battu Björn Borg en finale de Wimbledon 1981 ?",
+    "r": "John McEnroe",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle joueuse d'origine tchécoslovaque a remporté neuf fois le simple dames de Wimbledon ?",
+    "r": "Martina Navrátilová",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Américain a complété son Grand Chelem en carrière en remportant Roland-Garros en 1999 ?",
+    "r": "Andre Agassi",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Brésilien surnommé « Guga » a remporté trois fois Roland-Garros ?",
+    "r": "Gustavo Kuerten",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Français a atteint la finale de l'Open d'Australie en 2008 ?",
+    "r": "Jo-Wilfried Tsonga",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel pays la France a-t-elle battu en finale de la Coupe Davis 2017, disputée à Lille ?",
+    "r": "La Belgique",
+    "d": 2,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Quelle championne américaine a donné son nom en 2020 à la compétition féminine par nations, l'ex-Fed Cup ?",
+    "r": "Billie Jean King",
+    "d": 2,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Quel Suisse a battu Novak Djokovic en finale de Roland-Garros 2015 ?",
+    "r": "Stan Wawrinka",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Britannique a remporté Wimbledon en 2013, 77 ans après la dernière victoire d'un joueur de son pays ?",
+    "r": "Andy Murray",
+    "d": 1,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Espagnol a remporté l'US Open 2022 à seulement 19 ans ?",
+    "r": "Carlos Alcaraz",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle Polonaise a remporté Roland-Garros en 2020, 2022 et 2023 ?",
+    "r": "Iga Świątek",
+    "d": 2,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Suédois Yannick Noah a-t-il battu en finale de Roland-Garros 1983 ?",
+    "r": "Mats Wilander",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Sur quelle chanson de Yannick Noah les joueurs français ont-ils dansé après leur victoire en Coupe Davis 1991 ?",
+    "r": "Saga Africa",
+    "d": 3,
+    "t": "Tennis – exploits"
+  },
+  {
+    "q": "Contre quelle nation la France a-t-elle remporté la finale de la Coupe Davis 1991, à Lyon ?",
+    "r": "Les États-Unis",
+    "d": 3,
+    "t": "Tennis – compétitions"
+  },
+  {
+    "q": "Contre quel joueur Billie Jean King a-t-elle remporté la « bataille des sexes » en 1973 ?",
+    "r": "Bobby Riggs",
+    "d": 3,
+    "t": "Tennis – exploits"
+  },
+  {
+    "q": "Quel Français a remporté le simple messieurs de Wimbledon en 1946 ?",
+    "r": "Yvon Petra",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quelle Française a remporté le simple dames de Roland-Garros en 1967 ?",
+    "r": "Françoise Dürr",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Argentin a remporté Roland-Garros en 2004 face à son compatriote Guillermo Coria ?",
+    "r": "Gastón Gaudio",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Français a atteint la finale de Roland-Garros en 1988 ?",
+    "r": "Henri Leconte",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Dans quel pays se trouvent en réalité les courts du Masters de Monte-Carlo ?",
+    "r": "La France (Roquebrune-Cap-Martin)",
+    "d": 3,
+    "t": "Tennis – stades"
+  },
+  {
+    "q": "Quelle Japonaise a battu Serena Williams en finale de l'US Open 2018 ?",
+    "r": "Naomi Osaka",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Avec quelle partenaire Kristina Mladenovic a-t-elle remporté le double dames de Roland-Garros 2016 ?",
+    "r": "Caroline Garcia",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "Quel Australien a réalisé le Grand Chelem calendaire en 1962, puis de nouveau en 1969 ?",
+    "r": "Rod Laver",
+    "d": 3,
+    "t": "Tennis – exploits"
+  },
+  {
+    "q": "Quel Américain de 17 ans a remporté Roland-Garros en 1989 ?",
+    "r": "Michael Chang",
+    "d": 3,
+    "t": "Tennis – champions"
+  },
+  {
+    "q": "De quelle couleur est le maillot du leader du classement général du Tour de France ?",
+    "r": "Jaune",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel classement du Tour de France est récompensé par le maillot blanc à pois rouges ?",
+    "r": "Le meilleur grimpeur",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "De quelle couleur est le maillot du leader du classement par points, souvent un sprinteur, sur le Tour de France ?",
+    "r": "Vert",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Sur quelle avenue parisienne le Tour de France se termine-t-il traditionnellement depuis 1975 ?",
+    "r": "Les Champs-Élysées",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel coureur breton, surnommé « le Blaireau », a remporté cinq Tours de France ?",
+    "r": "Bernard Hinault",
+    "d": 1,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur belge était surnommé « le Cannibale » ?",
+    "r": "Eddy Merckx",
+    "d": 1,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur français surnommé « Poupou », éternel second, n'a jamais porté le maillot jaune ?",
+    "r": "Raymond Poulidor",
+    "d": 1,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur américain a été déchu en 2012 de ses sept victoires sur le Tour de France pour dopage ?",
+    "r": "Lance Armstrong",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel sommet du Vaucluse est surnommé « le Géant de Provence » ?",
+    "r": "Le mont Ventoux",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quelle montée de l'Isère est célèbre pour ses 21 virages numérotés ?",
+    "r": "L'Alpe d'Huez",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "De quelle couleur est le maillot du leader du Tour d'Italie ?",
+    "r": "Rose",
+    "d": 1,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Sous quel nom espagnol désigne-t-on couramment le Tour d'Espagne ?",
+    "r": "La Vuelta",
+    "d": 1,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Quel grimpeur français a remporté à sept reprises le maillot à pois du Tour de France ?",
+    "r": "Richard Virenque",
+    "d": 1,
+    "t": "Cyclisme – champions"
+  }
 ]

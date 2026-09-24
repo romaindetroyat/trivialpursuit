@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Quelle classique cycliste printanière, célèbre pour ses secteurs pavés, est surnommée « l'Enfer du Nord » ?",
+    "r": "Paris-Roubaix",
+    "d": 1,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on le groupe principal de coureurs dans une course cycliste ?",
+    "r": "Le peloton",
+    "d": 1,
+    "t": "Cyclisme – vocabulaire"
+  },
+  {
+    "q": "Comment surnomme-t-on le coureur classé dernier au classement général du Tour de France ?",
+    "r": "La lanterne rouge",
+    "d": 1,
+    "t": "Cyclisme – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on l'épreuve où chaque coureur s'élance seul et affronte le chronomètre ?",
+    "r": "Le contre-la-montre",
+    "d": 1,
+    "t": "Cyclisme – vocabulaire"
+  },
+  {
+    "q": "Quel véhicule ferme la marche d'une course cycliste pour recueillir les coureurs qui abandonnent ?",
+    "r": "La voiture-balai",
+    "d": 1,
+    "t": "Cyclisme – vocabulaire"
+  },
+  {
+    "q": "Quel titre permet à un coureur de porter le maillot arc-en-ciel pendant un an ?",
+    "r": "Champion du monde",
+    "d": 1,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Quelle équipe cycliste a été exclue du Tour de France 1998 lors d'un retentissant scandale de dopage ?",
+    "r": "Festina",
+    "d": 1,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel classement du Tour de France est récompensé par le maillot blanc ?",
+    "r": "Le meilleur jeune",
+    "d": 2,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "En quelle année s'est disputé le premier Tour de France ?",
+    "r": "1903",
+    "d": 2,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel journal sportif a organisé le premier Tour de France pour doper ses ventes ?",
+    "r": "L'Auto",
+    "d": 2,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel journaliste, directeur de L'Auto, est considéré comme le père du Tour de France ?",
+    "r": "Henri Desgrange",
+    "d": 2,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel coureur normand a été le premier à remporter cinq fois le Tour de France ?",
+    "r": "Jacques Anquetil",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur espagnol a remporté cinq Tours de France consécutifs, de 1991 à 1995 ?",
+    "r": "Miguel Indurain",
+    "d": 1,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Par combien de secondes Greg LeMond a-t-il devancé Laurent Fignon au classement final du Tour 1989 ?",
+    "r": "8 secondes",
+    "d": 2,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel coureur français à lunettes, surnommé « le Professeur », a remporté le Tour en 1983 et 1984 ?",
+    "r": "Laurent Fignon",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel grimpeur italien, surnommé « le Pirate », a remporté le Tour de France 1998 ?",
+    "r": "Marco Pantani",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel col pyrénéen de 2 115 m relie Barèges à La Mongie ?",
+    "r": "Le Tourmalet",
+    "d": 2,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel coureur est devenu en 2012 le premier Britannique à remporter le Tour de France ?",
+    "r": "Bradley Wiggins",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel Slovène a remporté le Tour 2020 en renversant Primož Roglič lors du contre-la-montre de la Planche des Belles Filles ?",
+    "r": "Tadej Pogačar",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel Danois a remporté le Tour de France en 2022 et en 2023 ?",
+    "r": "Jonas Vingegaard",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel Français a été sacré champion du monde de cyclisme sur route en 2020 et 2021 ?",
+    "r": "Julian Alaphilippe",
+    "d": 1,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quelle classique italienne, première grande course du printemps, est surnommée « la Primavera » ?",
+    "r": "Milan-San Remo",
+    "d": 2,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Quelle classique belge, la plus ancienne des grandes classiques, est surnommée « la Doyenne » ?",
+    "r": "Liège-Bastogne-Liège",
+    "d": 2,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Qu'indique la flamme rouge suspendue au-dessus de la route lors d'une course cycliste ?",
+    "r": "Le dernier kilomètre",
+    "d": 2,
+    "t": "Cyclisme – vocabulaire"
+  },
+  {
+    "q": "Comment qualifie-t-on les ascensions les plus difficiles du Tour de France, au-delà de la 1re catégorie ?",
+    "r": "Hors catégorie",
+    "d": 2,
+    "t": "Cyclisme – vocabulaire"
+  },
+  {
+    "q": "Quel coureur italien de l'après-guerre était surnommé « il Campionissimo » ?",
+    "r": "Fausto Coppi",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur breton a remporté trois Tours de France consécutifs, de 1953 à 1955 ?",
+    "r": "Louison Bobet",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel sprinteur slovaque a remporté sept fois le maillot vert du Tour de France ?",
+    "r": "Peter Sagan",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur britannique né au Kenya a remporté quatre Tours de France entre 2013 et 2017 ?",
+    "r": "Chris Froome",
+    "d": 2,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur a remporté le tout premier Tour de France, en 1903 ?",
+    "r": "Maurice Garin",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur britannique est mort d'épuisement sur les pentes du mont Ventoux lors du Tour 1967 ?",
+    "r": "Tom Simpson",
+    "d": 3,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel Français a terminé deuxième du Tour de France 2014, derrière Vincenzo Nibali ?",
+    "r": "Jean-Christophe Péraud",
+    "d": 3,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel Irlandais a remporté le Tour de France 1987 ?",
+    "r": "Stephen Roche",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel coureur allemand a remporté le Tour de France 1997 ?",
+    "r": "Jan Ullrich",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel secteur pavé de Paris-Roubaix traverse une forêt du Nord en ligne droite ?",
+    "r": "La trouée d'Arenberg",
+    "d": 3,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "De quelle ville espagnole s'est élancé le Tour de France 2023 ?",
+    "r": "Bilbao",
+    "d": 3,
+    "t": "Cyclisme – Tour de France"
+  },
+  {
+    "q": "Quel Italien, grand rival de Fausto Coppi, a remporté le Tour de France en 1938 et en 1948 ?",
+    "r": "Gino Bartali",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel grimpeur luxembourgeois, surnommé « l'Ange de la montagne », a remporté le Tour 1958 ?",
+    "r": "Charly Gaul",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Quel Breton a remporté en 1947 le premier Tour de France de l'après-guerre ?",
+    "r": "Jean Robic",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "De quelle couleur est le maillot du leader du Tour d'Espagne depuis 2010 ?",
+    "r": "Rouge",
+    "d": 3,
+    "t": "Cyclisme – compétitions"
+  },
+  {
+    "q": "Quel Français a mis fin à la domination d'Eddy Merckx en remportant le Tour de France 1975 ?",
+    "r": "Bernard Thévenet",
+    "d": 3,
+    "t": "Cyclisme – champions"
+  },
+  {
+    "q": "Combien de joueurs chaque équipe de basket-ball aligne-t-elle sur le terrain ?",
+    "r": "5",
+    "d": 1,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Combien de points rapporte un lancer franc réussi au basket-ball ?",
+    "r": "1 point",
+    "d": 1,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Combien de points rapporte un panier marqué derrière la ligne en arc de cercle ?",
+    "r": "3 points",
+    "d": 1,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Quel est le sigle de la grande ligue professionnelle de basket nord-américaine ?",
+    "r": "NBA",
+    "d": 1,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on la faute d'un joueur qui se déplace en tenant le ballon sans dribbler ?",
+    "r": "Le marcher",
+    "d": 1,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Comment appelle-t-on la zone peinte située sous le panier ?",
+    "r": "La raquette",
+    "d": 1,
+    "t": "Basket – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on la mise en jeu où l'arbitre lance le ballon en l'air entre deux joueurs ?",
+    "r": "L'entre-deux",
+    "d": 1,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Comment appelle-t-on le fait de marquer en écrasant le ballon directement dans le cercle ?",
+    "r": "Un dunk (smash)",
+    "d": 1,
+    "t": "Basket – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on la récupération du ballon après un tir manqué ?",
+    "r": "Un rebond",
+    "d": 1,
+    "t": "Basket – vocabulaire"
+  },
+  {
+    "q": "Quel joueur des Chicago Bulls, qui portait le numéro 23, a remporté six titres NBA ?",
+    "r": "Michael Jordan",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel meneur français a été élu meilleur joueur des finales NBA en 2007 ?",
+    "r": "Tony Parker",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel pivot français a été choisi en premier lors de la draft NBA 2023 ?",
+    "r": "Victor Wembanyama",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel surnom a été donné à l'équipe américaine de basket des Jeux olympiques de Barcelone, en 1992 ?",
+    "r": "La Dream Team",
+    "d": 1,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Avec quelle franchise NBA Larry Bird a-t-il fait toute sa carrière ?",
+    "r": "Les Boston Celtics",
+    "d": 1,
+    "t": "Basket – clubs"
+  },
+  {
+    "q": "Quel joueur NBA est surnommé « King James » ?",
+    "r": "LeBron James",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel joueur des Los Angeles Lakers, surnommé « Black Mamba », est mort dans un accident d'hélicoptère en 2020 ?",
+    "r": "Kobe Bryant",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel pivot géant de la NBA était surnommé « Shaq » ?",
+    "r": "Shaquille O'Neal",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel meneur des Golden State Warriors est célèbre pour son adresse à trois points ?",
+    "r": "Stephen Curry",
+    "d": 1,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Dans quelle salle mythique de Manhattan jouent les New York Knicks ?",
+    "r": "Le Madison Square Garden",
+    "d": 1,
+    "t": "Basket – stades"
+  },
+  {
+    "q": "À quelle hauteur du sol est fixé le cercle d'un panier de basket ?",
+    "r": "3,05 m",
+    "d": 2,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Quel professeur d'éducation physique canadien a inventé le basket-ball en 1891 ?",
+    "r": "James Naismith",
+    "d": 2,
+    "t": "Basket – histoire"
+  },
+  {
+    "q": "Quels objets servaient de paniers lors des toutes premières parties de basket-ball ?",
+    "r": "Des paniers à pêches",
+    "d": 2,
+    "t": "Basket – histoire"
+  },
+  {
+    "q": "Selon les règles FIBA, combien de fautes personnelles entraînent l'exclusion définitive d'un joueur ?",
+    "r": "5",
+    "d": 2,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "De combien de secondes une équipe dispose-t-elle pour tenter un tir après avoir pris possession du ballon ?",
+    "r": "24 secondes",
+    "d": 2,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Comment appelle-t-on le fait d'atteindre au moins dix unités dans trois catégories statistiques lors d'un même match ?",
+    "r": "Un triple-double",
+    "d": 2,
+    "t": "Basket – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on la passe lobée qu'un coéquipier reprend en l'air pour la smasher directement ?",
+    "r": "Un alley-oop",
+    "d": 2,
+    "t": "Basket – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on un panier marqué au moment même où retentit la sirène de fin ?",
+    "r": "Un buzzer beater",
+    "d": 2,
+    "t": "Basket – vocabulaire"
+  },
+  {
+    "q": "Quel est le véritable prénom du meneur des Lakers surnommé « Magic » Johnson ?",
+    "r": "Earvin",
+    "d": 2,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel pivot a marqué 100 points lors d'un même match NBA, en 1962 ?",
+    "r": "Wilt Chamberlain",
+    "d": 2,
+    "t": "Basket – exploits"
+  },
+  {
+    "q": "Quel ailier fut le fidèle lieutenant de Michael Jordan lors des six titres des Chicago Bulls ?",
+    "r": "Scottie Pippen",
+    "d": 2,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Avec quelle franchise l'Allemand Dirk Nowitzki a-t-il effectué toute sa carrière NBA ?",
+    "r": "Les Dallas Mavericks",
+    "d": 2,
+    "t": "Basket – clubs"
+  },
+  {
+    "q": "Quel pivot chinois de 2,29 m a évolué sous le maillot des Houston Rockets ?",
+    "r": "Yao Ming",
+    "d": 2,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quel joueur des Milwaukee Bucks, champion NBA en 2021, est surnommé « the Greek Freak » ?",
+    "r": "Giannis Antetokounmpo",
+    "d": 2,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quelle équipe de basket-spectacle, fondée à Chicago, porte pourtant le nom d'un quartier de New York ?",
+    "r": "Les Harlem Globetrotters",
+    "d": 2,
+    "t": "Basket – clubs"
+  },
+  {
+    "q": "Quel club français de basket a remporté la Coupe d'Europe des clubs champions en 1993 ?",
+    "r": "Limoges (CSP)",
+    "d": 2,
+    "t": "Basket – clubs"
+  },
+  {
+    "q": "Dans quelle ville de la métropole lyonnaise le club de basket de l'ASVEL a-t-il son siège ?",
+    "r": "Villeurbanne",
+    "d": 2,
+    "t": "Basket – clubs"
+  },
+  {
+    "q": "Quelle médaille l'équipe de France masculine de basket a-t-elle remportée aux Jeux olympiques de Tokyo, en 2021 ?",
+    "r": "L'argent",
+    "d": 2,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Quelle nation a battu la France en finale de l'Eurobasket 2022 ?",
+    "r": "L'Espagne",
+    "d": 2,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Quelle nation a battu les États-Unis en finale du tournoi olympique de basket en 1972, à Munich ?",
+    "r": "L'URSS",
+    "d": 2,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Quel entraîneur serbe dirigeait Limoges lors de son titre européen de 1993 ?",
+    "r": "Božidar Maljković",
+    "d": 3,
+    "t": "Basket – clubs"
+  },
+  {
+    "q": "Comment s'appelle la salle mythique du CSP Limoges ?",
+    "r": "Beaublanc",
+    "d": 3,
+    "t": "Basket – stades"
+  },
+  {
+    "q": "Sous quel nom de naissance Kareem Abdul-Jabbar a-t-il débuté sa carrière ?",
+    "r": "Lew Alcindor",
+    "d": 3,
+    "t": "Basket – champions"
+  },
+  {
+    "q": "Quelle nation a remporté le tournoi olympique de basket masculin à Athènes, en 2004 ?",
+    "r": "L'Argentine",
+    "d": 3,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Contre quelle nation la France a-t-elle remporté la finale de l'Eurobasket 2013, son premier titre européen ?",
+    "r": "La Lituanie",
+    "d": 3,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "En quelle année l'équipe de France féminine de basket a-t-elle remporté son premier championnat d'Europe ?",
+    "r": "2001",
+    "d": 3,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Quel nom porte le trophée remis à la franchise championne NBA ?",
+    "r": "Le trophée Larry O'Brien",
+    "d": 3,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "Quel légendaire pivot des Celtics a donné son nom, en 2009, au trophée de meilleur joueur des finales NBA ?",
+    "r": "Bill Russell",
+    "d": 3,
+    "t": "Basket – compétitions"
+  },
+  {
+    "q": "À quelle distance du panier se situe la ligne à trois points selon les règles FIBA ?",
+    "r": "6,75 m",
+    "d": 3,
+    "t": "Basket – règles"
+  },
+  {
+    "q": "Quelle franchise, emmenée par Nikola Jokić, a remporté en 2023 le premier titre NBA de son histoire ?",
+    "r": "Les Denver Nuggets",
+    "d": 3,
+    "t": "Basket – compétitions"
+  }
+]

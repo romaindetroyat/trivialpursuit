@@ -1,542 +1,542 @@
 [
- {
-  "q": "Quelle équipe a battu la Hongrie en finale de la Coupe du monde 1954, un exploit surnommé « le miracle de Berne » ?",
-  "r": "La RFA (Allemagne de l'Ouest)",
-  "d": 3,
-  "t": "Football – Coupe du monde"
- },
- {
-  "q": "Quel nom donne-t-on à la défaite du Brésil face à l'Uruguay au Maracanã lors de la Coupe du monde 1950 ?",
-  "r": "Le Maracanazo",
-  "d": 3,
-  "t": "Football – Coupe du monde"
- },
- {
-  "q": "Quel pays a remporté l'Euro 1976 grâce à un tir au but piqué resté célèbre ?",
-  "r": "La Tchécoslovaquie",
-  "d": 3,
-  "t": "Football – Euro"
- },
- {
-  "q": "Quel pays a remporté le premier championnat d'Europe des nations, en 1960 ?",
-  "r": "L'URSS",
-  "d": 3,
-  "t": "Football – Euro"
- },
- {
-  "q": "Quel club corse a disputé la finale de la Coupe UEFA en 1978 face au PSV Eindhoven ?",
-  "r": "Le SC Bastia",
-  "d": 3,
-  "t": "Football – clubs"
- },
- {
-  "q": "Quel club français a remporté la Coupe des vainqueurs de coupe en 1996 ?",
-  "r": "Le Paris Saint-Germain",
-  "d": 3,
-  "t": "Football – clubs"
- },
- {
-  "q": "Quel ailier français a marqué pour le Bayern Munich le seul but de la finale de la Ligue des champions 2020 contre le PSG ?",
-  "r": "Kingsley Coman",
-  "d": 3,
-  "t": "Football – clubs"
- },
- {
-  "q": "Quel attaquant néerlandais de l'AC Milan était surnommé « le Cygne d'Utrecht » ?",
-  "r": "Marco van Basten",
-  "d": 3,
-  "t": "Football – champions"
- },
- {
-  "q": "Dans quelle ville la FIFA a-t-elle été fondée en 1904 ?",
-  "r": "Paris",
-  "d": 3,
-  "t": "Football – compétitions"
- },
- {
-  "q": "Quel club est devenu en 1967 le premier club britannique à remporter la Coupe des clubs champions ?",
-  "r": "Le Celtic Glasgow",
-  "d": 3,
-  "t": "Football – clubs"
- },
- {
-  "q": "Quel club breton de football est surnommé « les Merlus » ?",
-  "r": "Le FC Lorient",
-  "d": 3,
-  "t": "Football – clubs"
- },
- {
-  "q": "Quel club de la Côte d'Azur est surnommé « les Aiglons » ?",
-  "r": "L'OGC Nice",
-  "d": 3,
-  "t": "Football – clubs"
- },
- {
-  "q": "Quel nom officiel porte le trophée remis au vainqueur de la Coupe de France de football ?",
-  "r": "La coupe Charles-Simon",
-  "d": 3,
-  "t": "Football – compétitions"
- },
- {
-  "q": "Comment appelle-t-on la tribune populaire des supporters les plus fervents, notamment celle d'Anfield à Liverpool ?",
-  "r": "Le Kop",
-  "d": 3,
-  "t": "Football – vocabulaire"
- },
- {
-  "q": "Quelle sélection a remporté la Copa América 2021 en battant le Brésil au Maracanã ?",
-  "r": "L'Argentine",
-  "d": 3,
-  "t": "Football – compétitions"
- },
- {
-  "q": "Quelle équipe la France a-t-elle éliminée aux tirs au but en quart de finale de la Coupe du monde 1998 ?",
-  "r": "L'Italie",
-  "d": 3,
-  "t": "Football – Coupe du monde"
- },
- {
-  "q": "Combien de points rapporte un essai au rugby à XV ?",
-  "r": "5 points",
-  "d": 1,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Combien de points rapporte une transformation réussie au rugby à XV ?",
-  "r": "2 points",
-  "d": 1,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Combien de points rapporte une pénalité réussie au rugby à XV ?",
-  "r": "3 points",
-  "d": 1,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Quelle faute commet un rugbyman qui laisse échapper ou passe le ballon vers l'avant avec les mains ?",
-  "r": "Un en-avant",
-  "d": 1,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Comment appelle-t-on la phase de jeu où les avants des deux équipes, liés entre eux, poussent pour conquérir le ballon ?",
-  "r": "La mêlée",
-  "d": 1,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Comment appelle-t-on la remise en jeu latérale au rugby, où des joueurs sont soulevés pour attraper le ballon ?",
-  "r": "La touche",
-  "d": 1,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Quel tournoi annuel réunit l'Angleterre, l'Écosse, la France, l'Irlande, l'Italie et le pays de Galles ?",
-  "r": "Le Tournoi des Six Nations",
-  "d": 1,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Comment appelle-t-on la victoire d'une équipe qui remporte tous ses matchs du Tournoi des Six Nations ?",
-  "r": "Le Grand Chelem",
-  "d": 1,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Quelle « distinction » peu enviable reçoit l'équipe qui perd tous ses matchs du Tournoi des Six Nations ?",
-  "r": "La cuillère de bois",
-  "d": 1,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Quel trophée est remis au club champion de France de rugby ?",
-  "r": "Le bouclier de Brennus",
-  "d": 1,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Quelle sélection nationale de rugby est surnommée « les All Blacks » ?",
-  "r": "La Nouvelle-Zélande",
-  "d": 1,
-  "t": "Rugby – sélections"
- },
- {
-  "q": "Comment s'appelle la danse guerrière maorie exécutée par les All Blacks avant leurs matchs ?",
-  "r": "Le haka",
-  "d": 1,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Quel surnom porte l'équipe d'Afrique du Sud de rugby ?",
-  "r": "Les Springboks",
-  "d": 1,
-  "t": "Rugby – sélections"
- },
- {
-  "q": "Quel surnom porte l'équipe d'Australie de rugby ?",
-  "r": "Les Wallabies",
-  "d": 1,
-  "t": "Rugby – sélections"
- },
- {
-  "q": "Quel pays a organisé la Coupe du monde de rugby 2023 ?",
-  "r": "La France",
-  "d": 1,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quelle nation a remporté la Coupe du monde de rugby 2023 ?",
-  "r": "L'Afrique du Sud",
-  "d": 1,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quel pays a organisé la Coupe du monde de rugby 2019, une première en Asie ?",
-  "r": "Le Japon",
-  "d": 1,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quel pays a remporté la Coupe du monde de rugby 1995, sous les yeux de Nelson Mandela ?",
-  "r": "L'Afrique du Sud",
-  "d": 1,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quel pays a remporté la Coupe du monde de rugby 2003 en Australie ?",
-  "r": "L'Angleterre",
-  "d": 1,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Dans quel stade du sud-ouest de Londres le XV de la Rose joue-t-il ses matchs à domicile ?",
-  "r": "Twickenham",
-  "d": 1,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Quel demi de mêlée toulousain a été élu meilleur joueur du monde World Rugby en 2021 ?",
-  "r": "Antoine Dupont",
-  "d": 1,
-  "t": "Rugby – champions"
- },
- {
-  "q": "Quel troisième ligne barbu était surnommé « l'Homme des cavernes » par la presse britannique ?",
-  "r": "Sébastien Chabal",
-  "d": 1,
-  "t": "Rugby – champions"
- },
- {
-  "q": "Quel pays a remporté la première Coupe du monde de rugby, en 1987 ?",
-  "r": "La Nouvelle-Zélande",
-  "d": 2,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quelle nation a battu la France en finale de la Coupe du monde de rugby 1999 ?",
-  "r": "L'Australie",
-  "d": 2,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quel demi d'ouverture anglais a offert le titre mondial 2003 à son pays d'un drop en prolongation ?",
-  "r": "Jonny Wilkinson",
-  "d": 2,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quel ailier néo-zélandais a écrasé les Anglais de sa puissance en demi-finale de la Coupe du monde 1995 ?",
-  "r": "Jonah Lomu",
-  "d": 2,
-  "t": "Rugby – champions"
- },
- {
-  "q": "Quel film de Clint Eastwood, sorti en 2009, raconte la Coupe du monde de rugby 1995 ?",
-  "r": "Invictus",
-  "d": 2,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quel trophée est remis au vainqueur de la Coupe du monde de rugby ?",
-  "r": "Le trophée Webb-Ellis",
-  "d": 2,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Selon la légende, dans quelle école anglaise le rugby serait-il né en 1823 ?",
-  "r": "Rugby School",
-  "d": 2,
-  "t": "Rugby – histoire"
- },
- {
-  "q": "Contre quelle équipe le XV de France a-t-il remporté la demi-finale de la Coupe du monde 1999 (43-31) ?",
-  "r": "La Nouvelle-Zélande",
-  "d": 2,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Contre quelle équipe la France a-t-elle marqué en 1994 à Auckland « l'essai du bout du monde » ?",
-  "r": "La Nouvelle-Zélande",
-  "d": 2,
-  "t": "Rugby – exploits"
- },
- {
-  "q": "Quel sélectionneur a mené le XV de France au Grand Chelem dans le Tournoi 2022 ?",
-  "r": "Fabien Galthié",
-  "d": 2,
-  "t": "Rugby – sélections"
- },
- {
-  "q": "Quel capitaine du XV de France, à la chevelure blonde, était surnommé « Casque d'or » ?",
-  "r": "Jean-Pierre Rives",
-  "d": 2,
-  "t": "Rugby – champions"
- },
- {
-  "q": "Quel troisième ligne, capitaine des Springboks sacrés en 2019 et 2023, fut le premier capitaine noir de l'équipe ?",
-  "r": "Siya Kolisi",
-  "d": 2,
-  "t": "Rugby – champions"
- },
- {
-  "q": "Quel ouvreur néo-zélandais, champion du monde 2015, a ensuite rejoint le Racing 92 ?",
-  "r": "Dan Carter",
-  "d": 2,
-  "t": "Rugby – champions"
- },
- {
-  "q": "Quelle nation complète la Nouvelle-Zélande, l'Australie et l'Afrique du Sud dans le Rugby Championship ?",
-  "r": "L'Argentine",
-  "d": 2,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Quel surnom porte l'équipe d'Argentine de rugby ?",
-  "r": "Los Pumas",
-  "d": 2,
-  "t": "Rugby – sélections"
- },
- {
-  "q": "Quel poste occupe le joueur qui porte le numéro 9 au rugby à XV ?",
-  "r": "Demi de mêlée",
-  "d": 2,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Quel numéro porte traditionnellement le demi d'ouverture au rugby à XV ?",
-  "r": "10",
-  "d": 2,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Quel avant, numéro 2, est généralement chargé de lancer le ballon en touche ?",
-  "r": "Le talonneur",
-  "d": 2,
-  "t": "Rugby – règles"
- },
- {
-  "q": "Comment appelle-t-on le coup de pied où le ballon est frappé juste après avoir rebondi au sol ?",
-  "r": "Un drop",
-  "d": 2,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Quel club de rugby joue au stade Ernest-Wallon ?",
-  "r": "Le Stade toulousain",
-  "d": 2,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Quel club de rugby évolue au stade Marcel-Michelin ?",
-  "r": "L'ASM Clermont Auvergne",
-  "d": 2,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Dans quelle ville se trouve le stade de Murrayfield, antre du rugby écossais ?",
-  "r": "Édimbourg",
-  "d": 2,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Dans quelle ville se trouve le Millennium Stadium, rebaptisé Principality Stadium ?",
-  "r": "Cardiff",
-  "d": 2,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Quel stade parisien a accueilli les matchs du XV de France jusqu'à l'ouverture du Stade de France en 1998 ?",
-  "r": "Le Parc des Princes",
-  "d": 2,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Quel club a remporté la première Coupe d'Europe de rugby, en 1996 ?",
-  "r": "Le Stade toulousain",
-  "d": 2,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Quel club varois a remporté trois Coupes d'Europe consécutives, de 2013 à 2015 ?",
-  "r": "Le RC Toulon",
-  "d": 2,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Quel club a remporté la Coupe d'Europe de rugby en 2022 et en 2023 ?",
-  "r": "Le Stade rochelais",
-  "d": 2,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Quel club héraultais a remporté son premier bouclier de Brennus en 2022 ?",
-  "r": "Montpellier (MHR)",
-  "d": 2,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Sur quel score la France a-t-elle perdu la finale de la Coupe du monde de rugby 2011 contre la Nouvelle-Zélande ?",
-  "r": "8-7",
-  "d": 3,
-  "t": "Rugby – Coupe du monde"
- },
- {
-  "q": "Quelle nation a battu l'Afrique du Sud en 2015 lors du « miracle de Brighton » ?",
-  "r": "Le Japon",
-  "d": 3,
-  "t": "Rugby – exploits"
- },
- {
-  "q": "Quel trophée l'Angleterre et l'Écosse se disputent-elles chaque année lors de leur match du Tournoi ?",
-  "r": "La Calcutta Cup",
-  "d": 3,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Comment appelle-t-on le regroupement spontané de joueurs debout au-dessus du ballon posé au sol ?",
-  "r": "Un ruck",
-  "d": 3,
-  "t": "Rugby – vocabulaire"
- },
- {
-  "q": "Quelle nation a remporté le premier tournoi olympique masculin de rugby à sept, à Rio en 2016 ?",
-  "r": "Les Fidji",
-  "d": 3,
-  "t": "Rugby – compétitions"
- },
- {
-  "q": "Quel club perpignanais de rugby à XIII évolue dans la Super League anglaise ?",
-  "r": "Les Dragons catalans",
-  "d": 3,
-  "t": "Rugby – clubs"
- },
- {
-  "q": "Quel club basque de rugby joue au stade Jean-Dauger ?",
-  "r": "L'Aviron bayonnais",
-  "d": 3,
-  "t": "Rugby – stades"
- },
- {
-  "q": "Dans quelle salle couverte de Nanterre le Racing 92 joue-t-il à domicile ?",
-  "r": "Paris La Défense Arena",
-  "d": 3,
-  "t": "Rugby – stades"
- },
- {
-  "q": "En quelle année la France a-t-elle réussi son premier Grand Chelem dans le Tournoi des Cinq Nations ?",
-  "r": "1968",
-  "d": 3,
-  "t": "Rugby – exploits"
- },
- {
-  "q": "Combien de joueurs chaque équipe de handball aligne-t-elle sur le terrain, gardien compris ?",
-  "r": "7",
-  "d": 1,
-  "t": "Handball – règles"
- },
- {
-  "q": "Quel surnom a été donné à l'équipe de France masculine de handball victorieuse dans les années 2000-2010 ?",
-  "r": "Les Experts",
-  "d": 1,
-  "t": "Handball – équipe de France"
- },
- {
-  "q": "Comment appelle-t-on l'équivalent du penalty au handball ?",
-  "r": "Le jet de 7 mètres",
-  "d": 1,
-  "t": "Handball – règles"
- },
- {
-  "q": "Quel handballeur français, triple champion olympique (2008, 2012, 2021), a pour frère cadet Luka ?",
-  "r": "Nikola Karabatic",
-  "d": 1,
-  "t": "Handball – champions"
- },
- {
-  "q": "Quel poste occupe au handball le joueur placé à l'extrémité du terrain, le long de la ligne de touche ?",
-  "r": "Ailier",
-  "d": 1,
-  "t": "Handball – règles"
- },
- {
-  "q": "Quel pays la France a-t-elle battu en finale du tournoi olympique masculin de handball de Tokyo, en 2021 ?",
-  "r": "Le Danemark",
-  "d": 1,
-  "t": "Handball – compétitions"
- },
- {
-  "q": "Quel surnom portait l'équipe de France de handball médaillée de bronze aux JO de Barcelone en 1992 ?",
-  "r": "Les Bronzés",
-  "d": 2,
-  "t": "Handball – équipe de France"
- },
- {
-  "q": "Quel surnom portait l'équipe de France de handball championne du monde en 1995 ?",
-  "r": "Les Barjots",
-  "d": 2,
-  "t": "Handball – équipe de France"
- },
- {
-  "q": "Dans quelle ville l'équipe de France masculine de handball a-t-elle remporté son premier titre olympique ?",
-  "r": "Pékin (2008)",
-  "d": 2,
-  "t": "Handball – compétitions"
- },
- {
-  "q": "Quel entraîneur dirigeait les Experts lors de leurs titres olympiques de 2008 et 2012 ?",
-  "r": "Claude Onesta",
-  "d": 2,
-  "t": "Handball – équipe de France"
- },
- {
-  "q": "Quel handballeur réunionnais aux célèbres dreadlocks a été élu meilleur joueur du monde en 1995 ?",
-  "r": "Jackson Richardson",
-  "d": 1,
-  "t": "Handball – champions"
- },
- {
-  "q": "Au handball, combien de pas un joueur peut-il faire au maximum en tenant le ballon sans dribbler ?",
-  "r": "3 pas",
-  "d": 1,
-  "t": "Handball – règles"
- },
- {
-  "q": "Quelle substance collante les handballeurs s'appliquent-ils sur les mains pour mieux tenir le ballon ?",
-  "r": "La résine (colle)",
-  "d": 1,
-  "t": "Handball – vocabulaire"
- },
- {
-  "q": "Combien de minutes dure un match de handball chez les seniors, hors prolongations ?",
-  "r": "60 minutes",
-  "d": 1,
-  "t": "Handball – règles"
- },
- {
-  "q": "À quelle distance du but est tracée la ligne de la surface de but, où seul le gardien peut évoluer ?",
-  "r": "6 mètres",
-  "d": 2,
-  "t": "Handball – règles"
- }
+  {
+    "q": "Quelle équipe a battu la Hongrie en finale de la Coupe du monde 1954, un exploit surnommé « le miracle de Berne » ?",
+    "r": "La RFA (Allemagne de l'Ouest)",
+    "d": 3,
+    "t": "Football – Coupe du monde"
+  },
+  {
+    "q": "Quel nom donne-t-on à la défaite du Brésil face à l'Uruguay au Maracanã lors de la Coupe du monde 1950 ?",
+    "r": "Le Maracanazo",
+    "d": 3,
+    "t": "Football – Coupe du monde"
+  },
+  {
+    "q": "Quel pays a remporté l'Euro 1976 grâce à un tir au but piqué resté célèbre ?",
+    "r": "La Tchécoslovaquie",
+    "d": 3,
+    "t": "Football – Euro"
+  },
+  {
+    "q": "Quel pays a remporté le premier championnat d'Europe des nations, en 1960 ?",
+    "r": "L'URSS",
+    "d": 3,
+    "t": "Football – Euro"
+  },
+  {
+    "q": "Quel club corse a disputé la finale de la Coupe UEFA en 1978 face au PSV Eindhoven ?",
+    "r": "Le SC Bastia",
+    "d": 3,
+    "t": "Football – clubs"
+  },
+  {
+    "q": "Quel club français a remporté la Coupe des vainqueurs de coupe en 1996 ?",
+    "r": "Le Paris Saint-Germain",
+    "d": 3,
+    "t": "Football – clubs"
+  },
+  {
+    "q": "Quel ailier français a marqué pour le Bayern Munich le seul but de la finale de la Ligue des champions 2020 contre le PSG ?",
+    "r": "Kingsley Coman",
+    "d": 3,
+    "t": "Football – clubs"
+  },
+  {
+    "q": "Quel attaquant néerlandais de l'AC Milan était surnommé « le Cygne d'Utrecht » ?",
+    "r": "Marco van Basten",
+    "d": 3,
+    "t": "Football – champions"
+  },
+  {
+    "q": "Dans quelle ville la FIFA a-t-elle été fondée en 1904 ?",
+    "r": "Paris",
+    "d": 3,
+    "t": "Football – compétitions"
+  },
+  {
+    "q": "Quel club est devenu en 1967 le premier club britannique à remporter la Coupe des clubs champions ?",
+    "r": "Le Celtic Glasgow",
+    "d": 3,
+    "t": "Football – clubs"
+  },
+  {
+    "q": "Quel club breton de football est surnommé « les Merlus » ?",
+    "r": "Le FC Lorient",
+    "d": 3,
+    "t": "Football – clubs"
+  },
+  {
+    "q": "Quel club de la Côte d'Azur est surnommé « les Aiglons » ?",
+    "r": "L'OGC Nice",
+    "d": 3,
+    "t": "Football – clubs"
+  },
+  {
+    "q": "Quel nom officiel porte le trophée remis au vainqueur de la Coupe de France de football ?",
+    "r": "La coupe Charles-Simon",
+    "d": 3,
+    "t": "Football – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on la tribune populaire des supporters les plus fervents, notamment celle d'Anfield à Liverpool ?",
+    "r": "Le Kop",
+    "d": 3,
+    "t": "Football – vocabulaire"
+  },
+  {
+    "q": "Quelle sélection a remporté la Copa América 2021 en battant le Brésil au Maracanã ?",
+    "r": "L'Argentine",
+    "d": 3,
+    "t": "Football – compétitions"
+  },
+  {
+    "q": "Quelle équipe la France a-t-elle éliminée aux tirs au but en quart de finale de la Coupe du monde 1998 ?",
+    "r": "L'Italie",
+    "d": 3,
+    "t": "Football – Coupe du monde"
+  },
+  {
+    "q": "Combien de points rapporte un essai au rugby à XV ?",
+    "r": "5 points",
+    "d": 1,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Combien de points rapporte une transformation réussie au rugby à XV ?",
+    "r": "2 points",
+    "d": 1,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Combien de points rapporte une pénalité réussie au rugby à XV ?",
+    "r": "3 points",
+    "d": 1,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Quelle faute commet un rugbyman qui laisse échapper ou passe le ballon vers l'avant avec les mains ?",
+    "r": "Un en-avant",
+    "d": 1,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Comment appelle-t-on la phase de jeu où les avants des deux équipes, liés entre eux, poussent pour conquérir le ballon ?",
+    "r": "La mêlée",
+    "d": 1,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Comment appelle-t-on la remise en jeu latérale au rugby, où des joueurs sont soulevés pour attraper le ballon ?",
+    "r": "La touche",
+    "d": 1,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Quel tournoi annuel réunit l'Angleterre, l'Écosse, la France, l'Irlande, l'Italie et le pays de Galles ?",
+    "r": "Le Tournoi des Six Nations",
+    "d": 1,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on la victoire d'une équipe qui remporte tous ses matchs du Tournoi des Six Nations ?",
+    "r": "Le Grand Chelem",
+    "d": 1,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Quelle « distinction » peu enviable reçoit l'équipe qui perd tous ses matchs du Tournoi des Six Nations ?",
+    "r": "La cuillère de bois",
+    "d": 1,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Quel trophée est remis au club champion de France de rugby ?",
+    "r": "Le bouclier de Brennus",
+    "d": 1,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Quelle sélection nationale de rugby est surnommée « les All Blacks » ?",
+    "r": "La Nouvelle-Zélande",
+    "d": 1,
+    "t": "Rugby – sélections"
+  },
+  {
+    "q": "Comment s'appelle la danse guerrière maorie exécutée par les All Blacks avant leurs matchs ?",
+    "r": "Le haka",
+    "d": 1,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Quel surnom porte l'équipe d'Afrique du Sud de rugby ?",
+    "r": "Les Springboks",
+    "d": 1,
+    "t": "Rugby – sélections"
+  },
+  {
+    "q": "Quel surnom porte l'équipe d'Australie de rugby ?",
+    "r": "Les Wallabies",
+    "d": 1,
+    "t": "Rugby – sélections"
+  },
+  {
+    "q": "Quel pays a organisé la Coupe du monde de rugby 2023 ?",
+    "r": "La France",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quelle nation a remporté la Coupe du monde de rugby 2023 ?",
+    "r": "L'Afrique du Sud",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quel pays a organisé la Coupe du monde de rugby 2019, une première en Asie ?",
+    "r": "Le Japon",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quel pays a remporté la Coupe du monde de rugby 1995, sous les yeux de Nelson Mandela ?",
+    "r": "L'Afrique du Sud",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quel pays a remporté la Coupe du monde de rugby 2003 en Australie ?",
+    "r": "L'Angleterre",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Dans quel stade du sud-ouest de Londres le XV de la Rose joue-t-il ses matchs à domicile ?",
+    "r": "Twickenham",
+    "d": 1,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Quel demi de mêlée toulousain a été élu meilleur joueur du monde World Rugby en 2021 ?",
+    "r": "Antoine Dupont",
+    "d": 1,
+    "t": "Rugby – champions"
+  },
+  {
+    "q": "Quel troisième ligne barbu était surnommé « l'Homme des cavernes » par la presse britannique ?",
+    "r": "Sébastien Chabal",
+    "d": 1,
+    "t": "Rugby – champions"
+  },
+  {
+    "q": "Quel pays a remporté la première Coupe du monde de rugby, en 1987 ?",
+    "r": "La Nouvelle-Zélande",
+    "d": 2,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quelle nation a battu la France en finale de la Coupe du monde de rugby 1999 ?",
+    "r": "L'Australie",
+    "d": 2,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quel demi d'ouverture anglais a offert le titre mondial 2003 à son pays d'un drop en prolongation ?",
+    "r": "Jonny Wilkinson",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quel ailier néo-zélandais a écrasé les Anglais de sa puissance en demi-finale de la Coupe du monde 1995 ?",
+    "r": "Jonah Lomu",
+    "d": 2,
+    "t": "Rugby – champions"
+  },
+  {
+    "q": "Quel film de Clint Eastwood, sorti en 2009, raconte la Coupe du monde de rugby 1995 ?",
+    "r": "Invictus",
+    "d": 1,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quel trophée est remis au vainqueur de la Coupe du monde de rugby ?",
+    "r": "Le trophée Webb-Ellis",
+    "d": 2,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Selon la légende, dans quelle école anglaise le rugby serait-il né en 1823 ?",
+    "r": "Rugby School",
+    "d": 2,
+    "t": "Rugby – histoire"
+  },
+  {
+    "q": "Contre quelle équipe le XV de France a-t-il remporté la demi-finale de la Coupe du monde 1999 (43-31) ?",
+    "r": "La Nouvelle-Zélande",
+    "d": 2,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Contre quelle équipe la France a-t-elle marqué en 1994 à Auckland « l'essai du bout du monde » ?",
+    "r": "La Nouvelle-Zélande",
+    "d": 2,
+    "t": "Rugby – exploits"
+  },
+  {
+    "q": "Quel sélectionneur a mené le XV de France au Grand Chelem dans le Tournoi 2022 ?",
+    "r": "Fabien Galthié",
+    "d": 2,
+    "t": "Rugby – sélections"
+  },
+  {
+    "q": "Quel capitaine du XV de France, à la chevelure blonde, était surnommé « Casque d'or » ?",
+    "r": "Jean-Pierre Rives",
+    "d": 2,
+    "t": "Rugby – champions"
+  },
+  {
+    "q": "Quel troisième ligne, capitaine des Springboks sacrés en 2019 et 2023, fut le premier capitaine noir de l'équipe ?",
+    "r": "Siya Kolisi",
+    "d": 2,
+    "t": "Rugby – champions"
+  },
+  {
+    "q": "Quel ouvreur néo-zélandais, champion du monde 2015, a ensuite rejoint le Racing 92 ?",
+    "r": "Dan Carter",
+    "d": 2,
+    "t": "Rugby – champions"
+  },
+  {
+    "q": "Quelle nation complète la Nouvelle-Zélande, l'Australie et l'Afrique du Sud dans le Rugby Championship ?",
+    "r": "L'Argentine",
+    "d": 2,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Quel surnom porte l'équipe d'Argentine de rugby ?",
+    "r": "Los Pumas",
+    "d": 2,
+    "t": "Rugby – sélections"
+  },
+  {
+    "q": "Quel poste occupe le joueur qui porte le numéro 9 au rugby à XV ?",
+    "r": "Demi de mêlée",
+    "d": 2,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Quel numéro porte traditionnellement le demi d'ouverture au rugby à XV ?",
+    "r": "10",
+    "d": 2,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Quel avant, numéro 2, est généralement chargé de lancer le ballon en touche ?",
+    "r": "Le talonneur",
+    "d": 2,
+    "t": "Rugby – règles"
+  },
+  {
+    "q": "Comment appelle-t-on le coup de pied où le ballon est frappé juste après avoir rebondi au sol ?",
+    "r": "Un drop",
+    "d": 2,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Quel club de rugby joue au stade Ernest-Wallon ?",
+    "r": "Le Stade toulousain",
+    "d": 2,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Quel club de rugby évolue au stade Marcel-Michelin ?",
+    "r": "L'ASM Clermont Auvergne",
+    "d": 2,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Dans quelle ville se trouve le stade de Murrayfield, antre du rugby écossais ?",
+    "r": "Édimbourg",
+    "d": 2,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Dans quelle ville se trouve le Millennium Stadium, rebaptisé Principality Stadium ?",
+    "r": "Cardiff",
+    "d": 2,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Quel stade parisien a accueilli les matchs du XV de France jusqu'à l'ouverture du Stade de France en 1998 ?",
+    "r": "Le Parc des Princes",
+    "d": 2,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Quel club a remporté la première Coupe d'Europe de rugby, en 1996 ?",
+    "r": "Le Stade toulousain",
+    "d": 2,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Quel club varois a remporté trois Coupes d'Europe consécutives, de 2013 à 2015 ?",
+    "r": "Le RC Toulon",
+    "d": 2,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Quel club a remporté la Coupe d'Europe de rugby en 2022 et en 2023 ?",
+    "r": "Le Stade rochelais",
+    "d": 2,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Quel club héraultais a remporté son premier bouclier de Brennus en 2022 ?",
+    "r": "Montpellier (MHR)",
+    "d": 2,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Sur quel score la France a-t-elle perdu la finale de la Coupe du monde de rugby 2011 contre la Nouvelle-Zélande ?",
+    "r": "8-7",
+    "d": 3,
+    "t": "Rugby – Coupe du monde"
+  },
+  {
+    "q": "Quelle nation a battu l'Afrique du Sud en 2015 lors du « miracle de Brighton » ?",
+    "r": "Le Japon",
+    "d": 3,
+    "t": "Rugby – exploits"
+  },
+  {
+    "q": "Quel trophée l'Angleterre et l'Écosse se disputent-elles chaque année lors de leur match du Tournoi ?",
+    "r": "La Calcutta Cup",
+    "d": 3,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Comment appelle-t-on le regroupement spontané de joueurs debout au-dessus du ballon posé au sol ?",
+    "r": "Un ruck",
+    "d": 3,
+    "t": "Rugby – vocabulaire"
+  },
+  {
+    "q": "Quelle nation a remporté le premier tournoi olympique masculin de rugby à sept, à Rio en 2016 ?",
+    "r": "Les Fidji",
+    "d": 3,
+    "t": "Rugby – compétitions"
+  },
+  {
+    "q": "Quel club perpignanais de rugby à XIII évolue dans la Super League anglaise ?",
+    "r": "Les Dragons catalans",
+    "d": 3,
+    "t": "Rugby – clubs"
+  },
+  {
+    "q": "Quel club basque de rugby joue au stade Jean-Dauger ?",
+    "r": "L'Aviron bayonnais",
+    "d": 3,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "Dans quelle salle couverte de Nanterre le Racing 92 joue-t-il à domicile ?",
+    "r": "Paris La Défense Arena",
+    "d": 3,
+    "t": "Rugby – stades"
+  },
+  {
+    "q": "En quelle année la France a-t-elle réussi son premier Grand Chelem dans le Tournoi des Cinq Nations ?",
+    "r": "1968",
+    "d": 3,
+    "t": "Rugby – exploits"
+  },
+  {
+    "q": "Combien de joueurs chaque équipe de handball aligne-t-elle sur le terrain, gardien compris ?",
+    "r": "7",
+    "d": 1,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quel surnom a été donné à l'équipe de France masculine de handball victorieuse dans les années 2000-2010 ?",
+    "r": "Les Experts",
+    "d": 1,
+    "t": "Handball – équipe de France"
+  },
+  {
+    "q": "Comment appelle-t-on l'équivalent du penalty au handball ?",
+    "r": "Le jet de 7 mètres",
+    "d": 1,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quel handballeur français, triple champion olympique (2008, 2012, 2021), a pour frère cadet Luka ?",
+    "r": "Nikola Karabatic",
+    "d": 1,
+    "t": "Handball – champions"
+  },
+  {
+    "q": "Quel poste occupe au handball le joueur placé à l'extrémité du terrain, le long de la ligne de touche ?",
+    "r": "Ailier",
+    "d": 1,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quel pays la France a-t-elle battu en finale du tournoi olympique masculin de handball de Tokyo, en 2021 ?",
+    "r": "Le Danemark",
+    "d": 1,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Quel surnom portait l'équipe de France de handball médaillée de bronze aux JO de Barcelone en 1992 ?",
+    "r": "Les Bronzés",
+    "d": 2,
+    "t": "Handball – équipe de France"
+  },
+  {
+    "q": "Quel surnom portait l'équipe de France de handball championne du monde en 1995 ?",
+    "r": "Les Barjots",
+    "d": 2,
+    "t": "Handball – équipe de France"
+  },
+  {
+    "q": "Dans quelle ville l'équipe de France masculine de handball a-t-elle remporté son premier titre olympique ?",
+    "r": "Pékin (2008)",
+    "d": 2,
+    "t": "Handball – compétitions"
+  },
+  {
+    "q": "Quel entraîneur dirigeait les Experts lors de leurs titres olympiques de 2008 et 2012 ?",
+    "r": "Claude Onesta",
+    "d": 2,
+    "t": "Handball – équipe de France"
+  },
+  {
+    "q": "Quel handballeur réunionnais aux célèbres dreadlocks a été élu meilleur joueur du monde en 1995 ?",
+    "r": "Jackson Richardson",
+    "d": 1,
+    "t": "Handball – champions"
+  },
+  {
+    "q": "Au handball, combien de pas un joueur peut-il faire au maximum en tenant le ballon sans dribbler ?",
+    "r": "3 pas",
+    "d": 1,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "Quelle substance collante les handballeurs s'appliquent-ils sur les mains pour mieux tenir le ballon ?",
+    "r": "La résine (colle)",
+    "d": 1,
+    "t": "Handball – vocabulaire"
+  },
+  {
+    "q": "Combien de minutes dure un match de handball chez les seniors, hors prolongations ?",
+    "r": "60 minutes",
+    "d": 1,
+    "t": "Handball – règles"
+  },
+  {
+    "q": "À quelle distance du but est tracée la ligne de la surface de but, où seul le gardien peut évoluer ?",
+    "r": "6 mètres",
+    "d": 2,
+    "t": "Handball – règles"
+  }
 ]
