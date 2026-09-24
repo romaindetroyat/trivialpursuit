@@ -1,92 +1,542 @@
 [
-  {"q": "Quel trompettiste et chanteur de jazz américain était surnommé « Satchmo » ?", "r": "Louis Armstrong", "d": 1, "t": "Jazz"},
-  {"q": "Quelle chanson de Louis Armstrong, sortie en 1967, célèbre les arbres verts et les roses rouges ?", "r": "What a Wonderful World", "d": 1, "t": "Jazz"},
-  {"q": "Dans quelle ville de Louisiane le jazz est-il né au début du XXe siècle ?", "r": "La Nouvelle-Orléans", "d": 1, "t": "Jazz"},
-  {"q": "Quel instrument emblématique du jazz a été inventé par le Belge Adolphe Sax ?", "r": "Le saxophone", "d": 1, "t": "Jazz"},
-  {"q": "Quelle chanteuse de jazz américaine était surnommée « Lady Day » ?", "r": "Billie Holiday", "d": 2, "t": "Jazz"},
-  {"q": "Quel saxophoniste, pionnier du be-bop, était surnommé « Bird » ?", "r": "Charlie Parker", "d": 3, "t": "Jazz"},
-  {"q": "Quel saxophoniste américain a enregistré l'album « A Love Supreme » ?", "r": "John Coltrane", "d": 3, "t": "Jazz"},
-  {"q": "Quel trompettiste a enregistré en 1959 l'album « Kind of Blue » ?", "r": "Miles Davis", "d": 2, "t": "Jazz"},
-  {"q": "Quel guitariste manouche a fondé le Quintette du Hot Club de France avec le violoniste Stéphane Grappelli ?", "r": "Django Reinhardt", "d": 2, "t": "Jazz"},
-  {"q": "Quel pianiste de jazz français, atteint de la maladie des os de verre, a joué avec les plus grands jazzmen ?", "r": "Michel Petrucciani", "d": 2, "t": "Jazz"},
-  {"q": "Dans quelle ville suisse, au bord du Léman, Claude Nobs a-t-il fondé un célèbre festival de jazz en 1967 ?", "r": "Montreux", "d": 2, "t": "Festivals"},
-  {"q": "Quelle artiste américaine, vedette des Folies Bergère, dansait vêtue d'une ceinture de bananes ?", "r": "Joséphine Baker", "d": 1, "t": "Music-hall"},
-  {"q": "Quel chanteur et pianiste aveugle a chanté « Georgia on My Mind » et « Hit the Road Jack » ?", "r": "Ray Charles", "d": 1, "t": "Soul"},
-  {"q": "Quel crooner américain était surnommé « The Voice » et « Ol' Blue Eyes » ?", "r": "Frank Sinatra", "d": 1, "t": "Jazz vocal"},
-  {"q": "Quelle chanteuse et pianiste, surnommée « la Grande Prêtresse de la soul », a chanté « My Baby Just Cares for Me » ?", "r": "Nina Simone", "d": 2, "t": "Soul"},
-  {"q": "Quel genre musical afro-américain est né dans le delta du Mississippi ?", "r": "Le blues", "d": 1, "t": "Blues"},
-  {"q": "Quel bluesman appelait sa guitare « Lucille » ?", "r": "B.B. King", "d": 2, "t": "Blues"},
-  {"q": "Quel bluesman aurait, selon la légende, vendu son âme au diable à un carrefour ?", "r": "Robert Johnson", "d": 3, "t": "Blues"},
-  {"q": "Quelle chanteuse américaine est surnommée la « Reine de la soul » ?", "r": "Aretha Franklin", "d": 1, "t": "Soul"},
-  {"q": "Quelle chanson d'Aretha Franklin de 1967 épelle son titre lettre par lettre ?", "r": "Respect", "d": 1, "t": "Soul"},
-  {"q": "Quel label de Detroit a révélé les Supremes, les Temptations et Stevie Wonder ?", "r": "Motown", "d": 1, "t": "Soul"},
-  {"q": "Qui a fondé le label Motown en 1959 ?", "r": "Berry Gordy", "d": 3, "t": "Soul"},
-  {"q": "Quelle chanteuse était la voix principale des Supremes ?", "r": "Diana Ross", "d": 2, "t": "Soul"},
-  {"q": "Quel chanteur aveugle a signé « Superstition » et « I Just Called to Say I Love You » ?", "r": "Stevie Wonder", "d": 1, "t": "Soul"},
-  {"q": "Quel chanteur américain était surnommé le « Parrain de la soul » ?", "r": "James Brown", "d": 2, "t": "Funk"},
-  {"q": "Quel chanteur de la Motown a sorti l'album « What's Going On » en 1971 ?", "r": "Marvin Gaye", "d": 2, "t": "Soul"},
-  {"q": "Quel chanteur de soul, mort dans un accident d'avion en 1967, a enregistré « (Sittin' On) The Dock of the Bay » ?", "r": "Otis Redding", "d": 3, "t": "Soul"},
-  {"q": "Quel chanteur jamaïcain a chanté « No Woman, No Cry » et « Redemption Song » ?", "r": "Bob Marley", "d": 1, "t": "Reggae"},
-  {"q": "De quelle île des Caraïbes le reggae est-il originaire ?", "r": "La Jamaïque", "d": 1, "t": "Reggae"},
-  {"q": "Comment s'appelait le groupe qui accompagnait Bob Marley ?", "r": "The Wailers", "d": 2, "t": "Reggae"},
-  {"q": "Quel mouvement spirituel, qui vénère l'empereur éthiopien Haïlé Sélassié, est étroitement associé au reggae ?", "r": "Le rastafarisme", "d": 2, "t": "Reggae"},
-  {"q": "Quel chanteur ivoirien de reggae a connu le succès avec « Brigadier Sabari » ?", "r": "Alpha Blondy", "d": 2, "t": "Reggae"},
-  {"q": "Quel film de 1977, avec John Travolta, a déclenché la fièvre du disco ?", "r": "La Fièvre du samedi soir", "d": 1, "t": "Disco"},
-  {"q": "Quel groupe formé par trois frères Gibb a chanté « Stayin' Alive » ?", "r": "Bee Gees", "d": 1, "t": "Disco"},
-  {"q": "Quelle chanteuse, surnommée la « Reine du disco », a chanté « I Feel Love » en 1977 ?", "r": "Donna Summer", "d": 2, "t": "Disco"},
-  {"q": "Quel producteur italien, pionnier du disco électronique, a coproduit « I Feel Love » ?", "r": "Giorgio Moroder", "d": 3, "t": "Disco"},
-  {"q": "Quel groupe américain, créé par le producteur français Jacques Morali, a chanté « Y.M.C.A. » ?", "r": "Village People", "d": 1, "t": "Disco"},
-  {"q": "Quelle chanson de Gloria Gaynor, sortie en 1978, est devenue un hymne à la résilience ?", "r": "I Will Survive", "d": 1, "t": "Disco"},
-  {"q": "Quel groupe disco du guitariste Nile Rodgers a chanté « Le Freak » en 1978 ?", "r": "Chic", "d": 2, "t": "Disco"},
-  {"q": "Quel groupe créé par le producteur allemand Frank Farian a chanté « Daddy Cool » et « Rasputin » ?", "r": "Boney M.", "d": 2, "t": "Disco"},
-  {"q": "Quelle discothèque new-yorkaise, ouverte en 1977, est devenue le temple du disco ?", "r": "Le Studio 54", "d": 2, "t": "Disco"},
-  {"q": "Quel groupe funk américain a chanté « September » en 1978 ?", "r": "Earth, Wind & Fire", "d": 2, "t": "Funk"},
-  {"q": "Quel chanteur américain a chanté « Uptown Funk » avec le producteur Mark Ronson ?", "r": "Bruno Mars", "d": 1, "t": "Funk"},
-  {"q": "Quel duo français casqué a connu un succès mondial avec « One More Time » ?", "r": "Daft Punk", "d": 1, "t": "Électro"},
-  {"q": "Quel album de Daft Punk, sorti en 2013, contient le tube « Get Lucky » ?", "r": "Random Access Memories", "d": 2, "t": "Électro"},
-  {"q": "En quelle année Daft Punk a-t-il annoncé sa séparation avec la vidéo « Epilogue » ?", "r": "2021", "d": 3, "t": "Électro"},
-  {"q": "Quel membre de Daft Punk faisait partie du trio Stardust, auteur de « Music Sounds Better with You » ?", "r": "Thomas Bangalter", "d": 3, "t": "Électro"},
-  {"q": "Quel DJ français a produit « Titanium » avec la chanteuse Sia en 2011 ?", "r": "David Guetta", "d": 1, "t": "Électro"},
-  {"q": "Quel musicien français a sorti l'album électronique « Oxygène » en 1976 ?", "r": "Jean-Michel Jarre", "d": 1, "t": "Électro"},
-  {"q": "Quel groupe allemand, pionnier de la musique électronique, a sorti « Autobahn » en 1974 ?", "r": "Kraftwerk", "d": 2, "t": "Électro"},
-  {"q": "Dans quelle ville américaine la house music est-elle née dans les années 1980 ?", "r": "Chicago", "d": 2, "t": "Électro"},
-  {"q": "Quelle ville industrielle américaine est considérée comme le berceau de la techno ?", "r": "Detroit", "d": 2, "t": "Électro"},
-  {"q": "Quel duo versaillais a sorti l'album « Moon Safari » en 1998 ?", "r": "Air", "d": 3, "t": "Électro"},
-  {"q": "Quel DJ suédois, mort en 2018, a signé « Levels » et « Wake Me Up » ?", "r": "Avicii", "d": 2, "t": "Électro"},
-  {"q": "Quel DJ écossais a signé « Summer » et « One Kiss » avec Dua Lipa ?", "r": "Calvin Harris", "d": 3, "t": "Électro"},
-  {"q": "Quel duo électro français a sorti « D.A.N.C.E. » en 2007 ?", "r": "Justice", "d": 3, "t": "Électro"},
-  {"q": "Quelle marque japonaise fabrique la boîte à rythmes TR-808, pilier du hip-hop et de l'électro ?", "r": "Roland", "d": 3, "t": "Électro"},
-  {"q": "À quelle date la Fête de la musique a-t-elle lieu chaque année en France ?", "r": "Le 21 juin", "d": 1, "t": "Festivals"},
-  {"q": "Comment appelle-t-on la technique du DJ qui consiste à faire aller et venir un vinyle sous le diamant ?", "r": "Le scratch", "d": 1, "t": "Hip-hop"},
-  {"q": "Comment s'appelle la danse acrobatique née dans le hip-hop, faite de figures au sol et de rotations sur la tête ?", "r": "Le breakdance", "d": 1, "t": "Hip-hop"},
-  {"q": "Dans quelle ville américaine le hip-hop est-il né, dans le quartier du Bronx ?", "r": "New York", "d": 1, "t": "Hip-hop"},
-  {"q": "Quel groupe a enregistré « Rapper's Delight » en 1979, l'un des premiers tubes du rap ?", "r": "The Sugarhill Gang", "d": 3, "t": "Rap américain"},
-  {"q": "Avec quel groupe de rock le trio Run-DMC a-t-il enregistré une nouvelle version de « Walk This Way » en 1986 ?", "r": "Aerosmith", "d": 3, "t": "Rap américain"},
-  {"q": "Quel rappeur de Detroit a pour alter ego Slim Shady ?", "r": "Eminem", "d": 1, "t": "Rap américain"},
-  {"q": "Quel film de 2002 s'inspire de la jeunesse d'Eminem, qui y tient le rôle principal ?", "r": "8 Mile", "d": 2, "t": "Rap américain"},
-  {"q": "Quel producteur, ancien membre de N.W.A, a lancé les carrières de Snoop Dogg et d'Eminem ?", "r": "Dr. Dre", "d": 2, "t": "Rap américain"},
-  {"q": "Quels deux rappeurs américains rivaux ont été assassinés en 1996 et en 1997 ?", "r": "Tupac et The Notorious B.I.G.", "d": 2, "t": "Rap américain"},
-  {"q": "Quel rappeur new-yorkais a épousé Beyoncé en 2008 ?", "r": "Jay-Z", "d": 1, "t": "Rap américain"},
-  {"q": "Quelle chanteuse américaine est surnommée « Queen B » ?", "r": "Beyoncé", "d": 1, "t": "R&B"},
-  {"q": "Quel rappeur américain a chanté « Gangsta's Paradise » en 1995 ?", "r": "Coolio", "d": 2, "t": "Rap américain"},
-  {"q": "Quel rappeur américain a reçu le prix Pulitzer de musique en 2018 ?", "r": "Kendrick Lamar", "d": 3, "t": "Rap américain"},
-  {"q": "Quel rappeur canadien a sorti « Hotline Bling » en 2015 ?", "r": "Drake", "d": 1, "t": "Rap américain"},
-  {"q": "Quel chanteur et producteur a chanté « Happy » en 2013, pour le film « Moi, moche et méchant 2 » ?", "r": "Pharrell Williams", "d": 1, "t": "R&B"},
-  {"q": "Quel groupe de rap marseillais a sorti l'album « L'École du micro d'argent » en 1997 ?", "r": "IAM", "d": 2, "t": "Rap français"},
-  {"q": "Quel groupe de rap de Seine-Saint-Denis était formé de JoeyStarr et Kool Shen ?", "r": "Suprême NTM", "d": 1, "t": "Rap français"},
-  {"q": "Quel rappeur français a connu le succès avec « Bouge de là » au début des années 1990 ?", "r": "MC Solaar", "d": 1, "t": "Rap français"},
-  {"q": "Quel rappeur est surnommé « le Duc de Boulogne » ?", "r": "Booba", "d": 2, "t": "Rap français"},
-  {"q": "Avec quel rappeur Booba formait-il le duo Lunatic ?", "r": "Ali", "d": 3, "t": "Rap français"},
-  {"q": "Quel rappeur caennais a sorti l'album « La fête est finie » en 2017 ?", "r": "Orelsan", "d": 2, "t": "Rap français"},
-  {"q": "Quel chanteur, ancien membre de la Sexion d'Assaut, a connu le succès avec « Bella » en 2013 ?", "r": "Maître Gims", "d": 2, "t": "Rap français"},
-  {"q": "De quel groupe de rap font partie les frères Ademo et N.O.S ?", "r": "PNL", "d": 3, "t": "Rap français"},
-  {"q": "Quelle chanteuse franco-malienne a connu un succès international avec « Djadja » en 2018 ?", "r": "Aya Nakamura", "d": 1, "t": "Pop urbaine"},
-  {"q": "Quel groupe de rumba gitane a chanté « Bamboléo » et « Djobi, Djoba » ?", "r": "Gipsy Kings", "d": 1, "t": "Musiques du monde"},
-  {"q": "Quelle danse d'origine brésilienne le groupe Kaoma a-t-il popularisée en 1989 ?", "r": "La lambada", "d": 1, "t": "Musiques du monde"},
-  {"q": "Quelle chanteuse cap-verdienne était surnommée « la Diva aux pieds nus » ?", "r": "Cesária Évora", "d": 2, "t": "Musiques du monde"},
-  {"q": "Quel chanteur sénégalais a chanté « 7 Seconds » avec Neneh Cherry en 1994 ?", "r": "Youssou N'Dour", "d": 2, "t": "Musiques du monde"},
-  {"q": "Quel genre musical portugais mélancolique a été incarné par Amália Rodrigues ?", "r": "Le fado", "d": 2, "t": "Musiques du monde"},
-  {"q": "Quel genre musical brésilien a été popularisé par « La Fille d'Ipanema » ?", "r": "La bossa nova", "d": 2, "t": "Musiques du monde"},
-  {"q": "Quel groupe antillais a popularisé le zouk dans les années 1980 ?", "r": "Kassav'", "d": 2, "t": "Musiques du monde"},
-  {"q": "Quel groupe moldave a chanté « Dragostea din tei » en 2003 ?", "r": "O-Zone", "d": 3, "t": "Pop européenne"}
+ {
+  "q": "Quel trompettiste et chanteur de jazz américain était surnommé « Satchmo » ?",
+  "r": "Louis Armstrong",
+  "d": 1,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quelle chanson de Louis Armstrong, sortie en 1967, célèbre les arbres verts et les roses rouges ?",
+  "r": "What a Wonderful World",
+  "d": 1,
+  "t": "Jazz"
+ },
+ {
+  "q": "Dans quelle ville de Louisiane le jazz est-il né au début du XXe siècle ?",
+  "r": "La Nouvelle-Orléans",
+  "d": 1,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel instrument emblématique du jazz a été inventé par le Belge Adolphe Sax ?",
+  "r": "Le saxophone",
+  "d": 1,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quelle chanteuse de jazz américaine était surnommée « Lady Day » ?",
+  "r": "Billie Holiday",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel saxophoniste, pionnier du be-bop, était surnommé « Bird » ?",
+  "r": "Charlie Parker",
+  "d": 3,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel saxophoniste américain a enregistré l'album « A Love Supreme » ?",
+  "r": "John Coltrane",
+  "d": 3,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel trompettiste a enregistré en 1959 l'album « Kind of Blue » ?",
+  "r": "Miles Davis",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel guitariste manouche a fondé le Quintette du Hot Club de France avec le violoniste Stéphane Grappelli ?",
+  "r": "Django Reinhardt",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "q": "Quel pianiste de jazz français, atteint de la maladie des os de verre, a joué avec les plus grands jazzmen ?",
+  "r": "Michel Petrucciani",
+  "d": 2,
+  "t": "Jazz"
+ },
+ {
+  "q": "Dans quelle ville suisse, au bord du Léman, Claude Nobs a-t-il fondé un célèbre festival de jazz en 1967 ?",
+  "r": "Montreux",
+  "d": 2,
+  "t": "Festivals"
+ },
+ {
+  "q": "Quelle artiste américaine, vedette des Folies Bergère, dansait vêtue d'une ceinture de bananes ?",
+  "r": "Joséphine Baker",
+  "d": 1,
+  "t": "Music-hall"
+ },
+ {
+  "q": "Quel chanteur et pianiste aveugle a chanté « Georgia on My Mind » et « Hit the Road Jack » ?",
+  "r": "Ray Charles",
+  "d": 1,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel crooner américain était surnommé « The Voice » et « Ol' Blue Eyes » ?",
+  "r": "Frank Sinatra",
+  "d": 1,
+  "t": "Jazz vocal"
+ },
+ {
+  "q": "Quelle chanteuse et pianiste, surnommée « la Grande Prêtresse de la soul », a chanté « My Baby Just Cares for Me » ?",
+  "r": "Nina Simone",
+  "d": 2,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel genre musical afro-américain est né dans le delta du Mississippi ?",
+  "r": "Le blues",
+  "d": 1,
+  "t": "Blues"
+ },
+ {
+  "q": "Quel bluesman appelait sa guitare « Lucille » ?",
+  "r": "B.B. King",
+  "d": 2,
+  "t": "Blues"
+ },
+ {
+  "q": "Quel bluesman aurait, selon la légende, vendu son âme au diable à un carrefour ?",
+  "r": "Robert Johnson",
+  "d": 3,
+  "t": "Blues"
+ },
+ {
+  "q": "Quelle chanteuse américaine est surnommée la « Reine de la soul » ?",
+  "r": "Aretha Franklin",
+  "d": 1,
+  "t": "Soul"
+ },
+ {
+  "q": "Quelle chanson d'Aretha Franklin de 1967 épelle son titre lettre par lettre ?",
+  "r": "Respect",
+  "d": 1,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel label de Detroit a révélé les Supremes, les Temptations et Stevie Wonder ?",
+  "r": "Motown",
+  "d": 1,
+  "t": "Soul"
+ },
+ {
+  "q": "Qui a fondé le label Motown en 1959 ?",
+  "r": "Berry Gordy",
+  "d": 3,
+  "t": "Soul"
+ },
+ {
+  "q": "Quelle chanteuse était la voix principale des Supremes ?",
+  "r": "Diana Ross",
+  "d": 2,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel chanteur aveugle a signé « Superstition » et « I Just Called to Say I Love You » ?",
+  "r": "Stevie Wonder",
+  "d": 1,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel chanteur américain était surnommé le « Parrain de la soul » ?",
+  "r": "James Brown",
+  "d": 2,
+  "t": "Funk"
+ },
+ {
+  "q": "Quel chanteur de la Motown a sorti l'album « What's Going On » en 1971 ?",
+  "r": "Marvin Gaye",
+  "d": 2,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel chanteur de soul, mort dans un accident d'avion en 1967, a enregistré « (Sittin' On) The Dock of the Bay » ?",
+  "r": "Otis Redding",
+  "d": 3,
+  "t": "Soul"
+ },
+ {
+  "q": "Quel chanteur jamaïcain a chanté « No Woman, No Cry » et « Redemption Song » ?",
+  "r": "Bob Marley",
+  "d": 1,
+  "t": "Reggae"
+ },
+ {
+  "q": "De quelle île des Caraïbes le reggae est-il originaire ?",
+  "r": "La Jamaïque",
+  "d": 1,
+  "t": "Reggae"
+ },
+ {
+  "q": "Comment s'appelait le groupe qui accompagnait Bob Marley ?",
+  "r": "The Wailers",
+  "d": 2,
+  "t": "Reggae"
+ },
+ {
+  "q": "Quel mouvement spirituel, qui vénère l'empereur éthiopien Haïlé Sélassié, est étroitement associé au reggae ?",
+  "r": "Le rastafarisme",
+  "d": 2,
+  "t": "Reggae"
+ },
+ {
+  "q": "Quel chanteur ivoirien de reggae a connu le succès avec « Brigadier Sabari » ?",
+  "r": "Alpha Blondy",
+  "d": 2,
+  "t": "Reggae"
+ },
+ {
+  "q": "Quel film de 1977, avec John Travolta, a déclenché la fièvre du disco ?",
+  "r": "La Fièvre du samedi soir",
+  "d": 1,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel groupe formé par trois frères Gibb a chanté « Stayin' Alive » ?",
+  "r": "Bee Gees",
+  "d": 1,
+  "t": "Disco"
+ },
+ {
+  "q": "Quelle chanteuse, surnommée la « Reine du disco », a chanté « I Feel Love » en 1977 ?",
+  "r": "Donna Summer",
+  "d": 2,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel producteur italien, pionnier du disco électronique, a coproduit « I Feel Love » ?",
+  "r": "Giorgio Moroder",
+  "d": 3,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel groupe américain, créé par le producteur français Jacques Morali, a chanté « Y.M.C.A. » ?",
+  "r": "Village People",
+  "d": 1,
+  "t": "Disco"
+ },
+ {
+  "q": "Quelle chanson de Gloria Gaynor, sortie en 1978, est devenue un hymne à la résilience ?",
+  "r": "I Will Survive",
+  "d": 1,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel groupe disco du guitariste Nile Rodgers a chanté « Le Freak » en 1978 ?",
+  "r": "Chic",
+  "d": 2,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel groupe créé par le producteur allemand Frank Farian a chanté « Daddy Cool » et « Rasputin » ?",
+  "r": "Boney M.",
+  "d": 2,
+  "t": "Disco"
+ },
+ {
+  "q": "Quelle discothèque new-yorkaise, ouverte en 1977, est devenue le temple du disco ?",
+  "r": "Le Studio 54",
+  "d": 2,
+  "t": "Disco"
+ },
+ {
+  "q": "Quel groupe funk américain a chanté « September » en 1978 ?",
+  "r": "Earth, Wind & Fire",
+  "d": 2,
+  "t": "Funk"
+ },
+ {
+  "q": "Quel chanteur américain a chanté « Uptown Funk » avec le producteur Mark Ronson ?",
+  "r": "Bruno Mars",
+  "d": 1,
+  "t": "Funk"
+ },
+ {
+  "q": "Quel duo français casqué a connu un succès mondial avec « One More Time » ?",
+  "r": "Daft Punk",
+  "d": 1,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel album de Daft Punk, sorti en 2013, contient le tube « Get Lucky » ?",
+  "r": "Random Access Memories",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "q": "En quelle année Daft Punk a-t-il annoncé sa séparation avec la vidéo « Epilogue » ?",
+  "r": "2021",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel membre de Daft Punk faisait partie du trio Stardust, auteur de « Music Sounds Better with You » ?",
+  "r": "Thomas Bangalter",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel DJ français a produit « Titanium » avec la chanteuse Sia en 2011 ?",
+  "r": "David Guetta",
+  "d": 1,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel musicien français a sorti l'album électronique « Oxygène » en 1976 ?",
+  "r": "Jean-Michel Jarre",
+  "d": 1,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel groupe allemand, pionnier de la musique électronique, a sorti « Autobahn » en 1974 ?",
+  "r": "Kraftwerk",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "q": "Dans quelle ville américaine la house music est-elle née dans les années 1980 ?",
+  "r": "Chicago",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "q": "Quelle ville industrielle américaine est considérée comme le berceau de la techno ?",
+  "r": "Detroit",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel duo versaillais a sorti l'album « Moon Safari » en 1998 ?",
+  "r": "Air",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel DJ suédois, mort en 2018, a signé « Levels » et « Wake Me Up » ?",
+  "r": "Avicii",
+  "d": 2,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel DJ écossais a signé « Summer » et « One Kiss » avec Dua Lipa ?",
+  "r": "Calvin Harris",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "Quel duo électro français a sorti « D.A.N.C.E. » en 2007 ?",
+  "r": "Justice",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "Quelle marque japonaise fabrique la boîte à rythmes TR-808, pilier du hip-hop et de l'électro ?",
+  "r": "Roland",
+  "d": 3,
+  "t": "Électro"
+ },
+ {
+  "q": "À quelle date la Fête de la musique a-t-elle lieu chaque année en France ?",
+  "r": "Le 21 juin",
+  "d": 1,
+  "t": "Festivals"
+ },
+ {
+  "q": "Comment appelle-t-on la technique du DJ qui consiste à faire aller et venir un vinyle sous le diamant ?",
+  "r": "Le scratch",
+  "d": 1,
+  "t": "Hip-hop"
+ },
+ {
+  "q": "Comment s'appelle la danse acrobatique née dans le hip-hop, faite de figures au sol et de rotations sur la tête ?",
+  "r": "Le breakdance",
+  "d": 1,
+  "t": "Hip-hop"
+ },
+ {
+  "q": "Dans quel arrondissement de New York le hip-hop est-il né au début des années 1970 ?",
+  "r": "Le Bronx",
+  "d": 1,
+  "t": "Hip-hop"
+ },
+ {
+  "q": "Quel groupe a enregistré « Rapper's Delight » en 1979, l'un des premiers tubes du rap ?",
+  "r": "The Sugarhill Gang",
+  "d": 3,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Avec quel groupe de rock le trio Run-DMC a-t-il enregistré une nouvelle version de « Walk This Way » en 1986 ?",
+  "r": "Aerosmith",
+  "d": 3,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel rappeur de Detroit a pour alter ego Slim Shady ?",
+  "r": "Eminem",
+  "d": 1,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel film de 2002 s'inspire de la jeunesse d'Eminem, qui y tient le rôle principal ?",
+  "r": "8 Mile",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel producteur, ancien membre de N.W.A, a lancé les carrières de Snoop Dogg et d'Eminem ?",
+  "r": "Dr. Dre",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quels deux rappeurs américains rivaux ont été assassinés en 1996 et en 1997 ?",
+  "r": "Tupac et The Notorious B.I.G.",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel rappeur new-yorkais a épousé Beyoncé en 2008 ?",
+  "r": "Jay-Z",
+  "d": 1,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quelle chanteuse américaine est surnommée « Queen B » ?",
+  "r": "Beyoncé",
+  "d": 1,
+  "t": "R&B"
+ },
+ {
+  "q": "Quel rappeur américain a chanté « Gangsta's Paradise » en 1995 ?",
+  "r": "Coolio",
+  "d": 2,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel rappeur américain a reçu le prix Pulitzer de musique en 2018 ?",
+  "r": "Kendrick Lamar",
+  "d": 3,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel rappeur canadien a sorti « Hotline Bling » en 2015 ?",
+  "r": "Drake",
+  "d": 1,
+  "t": "Rap américain"
+ },
+ {
+  "q": "Quel chanteur et producteur a chanté « Happy » en 2013, pour le film « Moi, moche et méchant 2 » ?",
+  "r": "Pharrell Williams",
+  "d": 1,
+  "t": "R&B"
+ },
+ {
+  "q": "Quel groupe de rap marseillais a sorti l'album « L'École du micro d'argent » en 1997 ?",
+  "r": "IAM",
+  "d": 2,
+  "t": "Rap français"
+ },
+ {
+  "q": "Quel groupe de rap de Seine-Saint-Denis était formé de JoeyStarr et Kool Shen ?",
+  "r": "Suprême NTM",
+  "d": 1,
+  "t": "Rap français"
+ },
+ {
+  "q": "Quel rappeur français a connu le succès avec « Bouge de là » au début des années 1990 ?",
+  "r": "MC Solaar",
+  "d": 1,
+  "t": "Rap français"
+ },
+ {
+  "q": "Quel rappeur est surnommé « le Duc de Boulogne » ?",
+  "r": "Booba",
+  "d": 2,
+  "t": "Rap français"
+ },
+ {
+  "q": "Avec quel rappeur Booba formait-il le duo Lunatic ?",
+  "r": "Ali",
+  "d": 3,
+  "t": "Rap français"
+ },
+ {
+  "q": "Quel rappeur caennais a sorti l'album « La fête est finie » en 2017 ?",
+  "r": "Orelsan",
+  "d": 2,
+  "t": "Rap français"
+ },
+ {
+  "q": "Quel chanteur, ancien membre de la Sexion d'Assaut, a connu le succès avec « Bella » en 2013 ?",
+  "r": "Maître Gims (Gims)",
+  "d": 2,
+  "t": "Rap français"
+ },
+ {
+  "q": "De quel groupe de rap font partie les frères Ademo et N.O.S ?",
+  "r": "PNL",
+  "d": 3,
+  "t": "Rap français"
+ },
+ {
+  "q": "Quelle chanteuse franco-malienne a connu un succès international avec « Djadja » en 2018 ?",
+  "r": "Aya Nakamura",
+  "d": 1,
+  "t": "Pop urbaine"
+ },
+ {
+  "q": "Quel groupe de rumba gitane a chanté « Bamboléo » et « Djobi, Djoba » ?",
+  "r": "Gipsy Kings",
+  "d": 1,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quelle danse d'origine brésilienne le groupe Kaoma a-t-il popularisée en 1989 ?",
+  "r": "La lambada",
+  "d": 1,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quelle chanteuse cap-verdienne était surnommée « la Diva aux pieds nus » ?",
+  "r": "Cesária Évora",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel chanteur sénégalais a chanté « 7 Seconds » avec Neneh Cherry en 1994 ?",
+  "r": "Youssou N'Dour",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel genre musical portugais mélancolique a été incarné par Amália Rodrigues ?",
+  "r": "Le fado",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel genre musical brésilien a été popularisé par « La Fille d'Ipanema » ?",
+  "r": "La bossa nova",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel groupe antillais a popularisé le zouk dans les années 1980 ?",
+  "r": "Kassav'",
+  "d": 2,
+  "t": "Musiques du monde"
+ },
+ {
+  "q": "Quel groupe moldave a chanté « Dragostea din tei » en 2003 ?",
+  "r": "O-Zone",
+  "d": 3,
+  "t": "Pop européenne"
+ }
 ]

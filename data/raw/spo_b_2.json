@@ -1,99 +1,584 @@
 [
-  {"q": "Quelle nage, dont le nom évoque un insecte, se pratique avec les deux bras projetés simultanément et une ondulation du corps ?", "r": "Le papillon", "d": 1, "t": "Natation"},
-  {"q": "Dans l'épreuve individuelle du 4 nages, quelle nage ouvre la course ?", "r": "Le papillon", "d": 2, "t": "Natation"},
-  {"q": "Dans le relais 4 nages, quelle nage le premier relayeur pratique-t-il ?", "r": "Le dos", "d": 3, "t": "Natation"},
-  {"q": "Quelle est la longueur d'un bassin olympique ?", "r": "50 m", "d": 1, "t": "Natation"},
-  {"q": "Quelle nageuse française est devenue championne olympique du 400 m nage libre aux Jeux d'Athènes en 2004 ?", "r": "Laure Manaudou", "d": 1, "t": "Natation"},
-  {"q": "Quel nageur français a été sacré champion olympique du 50 m nage libre aux Jeux de Londres en 2012 ?", "r": "Florent Manaudou", "d": 1, "t": "Natation"},
-  {"q": "Quel nageur français a remporté le 100 m nage libre olympique aux Jeux de Pékin en 2008 ?", "r": "Alain Bernard", "d": 2, "t": "Natation"},
-  {"q": "Quel nageur français a été sacré champion olympique du 200 m nage libre à Londres en 2012 ?", "r": "Yannick Agnel", "d": 2, "t": "Natation"},
-  {"q": "Quel nageur américain a remporté sept médailles d'or aux Jeux de Munich en 1972 ?", "r": "Mark Spitz", "d": 2, "t": "Natation"},
-  {"q": "Quel nageur américain a remporté huit médailles d'or lors des seuls Jeux de Pékin en 2008 ?", "r": "Michael Phelps", "d": 1, "t": "Natation"},
-  {"q": "Quel nageur quintuple champion olympique dans les années 1920 est devenu célèbre en incarnant Tarzan au cinéma ?", "r": "Johnny Weissmuller", "d": 2, "t": "Natation"},
-  {"q": "Quelle nageuse australienne a remporté le 100 m nage libre olympique en 1956, 1960 et 1964 ?", "r": "Dawn Fraser", "d": 3, "t": "Natation"},
-  {"q": "Quel nouveau nom la fédération internationale a-t-elle donné à la natation synchronisée en 2017 ?", "r": "La natation artistique", "d": 2, "t": "Natation"},
-  {"q": "Quel sport collectif aquatique oppose deux équipes cherchant à marquer dans des cages flottantes ?", "r": "Le water-polo", "d": 1, "t": "Natation"},
-  {"q": "Au water-polo, combien de joueurs de chaque équipe sont dans l'eau, gardien compris ?", "r": "Sept", "d": 2, "t": "Natation"},
-  {"q": "Quelle est la distance de l'épreuve olympique de nage en eau libre ?", "r": "10 km", "d": 2, "t": "Natation"},
-  {"q": "Quel bras de mer le capitaine Matthew Webb a-t-il été le premier à traverser à la nage, en 1875 ?", "r": "La Manche", "d": 2, "t": "Natation"},
-  {"q": "Quelle nageuse américaine a remporté le 800 m nage libre olympique en 2012, en 2016 et aux Jeux de Tokyo 2020 ?", "r": "Katie Ledecky", "d": 2, "t": "Natation"},
-  {"q": "Comment appelle-t-on le virage en crawl où le nageur effectue une roulade sous l'eau avant de repousser le mur ?", "r": "Le virage culbute", "d": 2, "t": "Natation"},
-  {"q": "De quelle hauteur s'élancent les plongeurs lors de l'épreuve olympique de plongeon de haut vol ?", "r": "10 m", "d": 2, "t": "Natation"},
-  {"q": "Quel plongeur américain s'est cogné la tête contre le tremplin aux Jeux de Séoul en 1988 avant de remporter l'or ?", "r": "Greg Louganis", "d": 3, "t": "Natation"},
-  {"q": "Quelle est la plus lente des quatre nages de compétition ?", "r": "La brasse", "d": 2, "t": "Natation"},
-  {"q": "Quelle est la plus longue course de nage libre disputée en bassin aux Jeux olympiques ?", "r": "Le 1 500 m", "d": 2, "t": "Natation"},
-  {"q": "Quelle discipline olympique associe ski de fond et tir à la carabine ?", "r": "Le biathlon", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Quel biathlète français a remporté cinq médailles d'or olympiques entre 2014 et 2018 ?", "r": "Martin Fourcade", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Quel biathlète norvégien a remporté huit titres olympiques entre 1998 et 2014 ?", "r": "Ole Einar Bjørndalen", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quel skieur français a remporté la descente, le slalom et le slalom géant aux Jeux de Grenoble en 1968 ?", "r": "Jean-Claude Killy", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Quel skieur autrichien avait déjà réalisé le triplé en ski alpin aux Jeux de Cortina d'Ampezzo en 1956 ?", "r": "Toni Sailer", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quelle est la discipline la plus rapide du ski alpin ?", "r": "La descente", "d": 1, "t": "Sports d'hiver"},
-  {"q": "De quelle expression le nom de la discipline de ski alpin « super-G » est-il l'abréviation ?", "r": "Super-géant", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel sport d'hiver consiste à faire glisser des pierres de granit vers une cible en balayant la glace devant elles ?", "r": "Le curling", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Au curling, comment appelle-t-on la cible circulaire vers laquelle on fait glisser les pierres ?", "r": "La maison", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Dans quel sport olympique dévale-t-on une piste de glace allongé sur le dos, les pieds en avant ?", "r": "La luge", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Dans quel sport olympique dévale-t-on une piste de glace à plat ventre, la tête en avant ?", "r": "Le skeleton", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel pays tropical a engagé une équipe de bobsleigh aux Jeux de Calgary en 1988, histoire qui a inspiré le film « Rasta Rockett » ?", "r": "La Jamaïque", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Quelle discipline nordique associe une épreuve de saut à ski et une course de ski de fond ?", "r": "Le combiné nordique", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel saut de patinage artistique, le seul à s'élancer vers l'avant, comporte une demi-rotation supplémentaire ?", "r": "L'axel", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel patineur français a remporté deux médailles de bronze olympiques, en 1994 et en 1998 ?", "r": "Philippe Candeloro", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quelle patineuse française a exécuté un salto arrière atterri sur une seule lame aux Jeux de Nagano en 1998 ?", "r": "Surya Bonaly", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel couple français a remporté le titre olympique de danse sur glace aux Jeux de Pékin en 2022 ?", "r": "Papadakis et Cizeron", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel Français est devenu le premier champion olympique de ski de bosses, aux Jeux d'Albertville en 1992 ?", "r": "Edgar Grospiron", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quel skieur suédois a remporté 86 courses de Coupe du monde de ski alpin entre 1974 et 1989 ?", "r": "Ingemar Stenmark", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quel skieur français a remporté la descente olympique aux Jeux de Nagano en 1998 ?", "r": "Jean-Luc Crétier", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quelle skieuse française a remporté la descente olympique aux Jeux de Salt Lake City en 2002 ?", "r": "Carole Montillet", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Au hockey sur glace, combien de joueurs de chaque équipe sont sur la glace en même temps, gardien compris ?", "r": "Six", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Comment appelle-t-on le disque de caoutchouc avec lequel on joue au hockey sur glace ?", "r": "Le palet", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Dans quelle station américaine les étudiants des États-Unis ont-ils battu l'URSS au hockey lors du « Miracle sur glace » de 1980 ?", "r": "Lake Placid", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Comment appelle-t-on la piste en forme de demi-tube où les snowboardeurs enchaînent les figures ?", "r": "Le half-pipe", "d": 1, "t": "Sports d'hiver"},
-  {"q": "Comment appelle-t-on la position des skis écartés en pointe, adoptée par les sauteurs à ski depuis les années 1990 ?", "r": "Le style en V", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quelle course de ski de fond suédoise de 90 km commémore la fuite du futur roi Gustave Vasa ?", "r": "La Vasaloppet", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quelle station suisse a accueilli les Jeux olympiques d'hiver en 1928 et en 1948 ?", "r": "Saint-Moritz", "d": 2, "t": "Villes olympiques"},
-  {"q": "Quelle capitale scandinave a accueilli les Jeux olympiques d'hiver de 1952 ?", "r": "Oslo", "d": 2, "t": "Villes olympiques"},
-  {"q": "Quelle ville sud-coréenne a accueilli les Jeux olympiques d'hiver de 2018 ?", "r": "Pyeongchang", "d": 2, "t": "Villes olympiques"},
-  {"q": "Quelle ville de l'ex-Yougoslavie a accueilli les Jeux olympiques d'hiver de 1984 ?", "r": "Sarajevo", "d": 2, "t": "Villes olympiques"},
-  {"q": "Quelle station balnéaire russe des bords de la mer Noire a accueilli les Jeux olympiques d'hiver de 2014 ?", "r": "Sotchi", "d": 1, "t": "Villes olympiques"},
-  {"q": "Quelle ville canadienne de la province d'Alberta a accueilli les Jeux olympiques d'hiver de 1988 ?", "r": "Calgary", "d": 2, "t": "Villes olympiques"},
-  {"q": "Quelle ville italienne a accueilli les Jeux olympiques d'hiver de 2006 ?", "r": "Turin", "d": 2, "t": "Villes olympiques"},
-  {"q": "Quelle ville de Colombie-Britannique a accueilli les Jeux olympiques d'hiver de 2010 ?", "r": "Vancouver", "d": 1, "t": "Villes olympiques"},
-  {"q": "Sur quelle piste de Kitzbühel se court la plus célèbre descente de la Coupe du monde de ski alpin ?", "r": "La Streif", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quel trophée récompense le vainqueur du classement général de la Coupe du monde de ski alpin ?", "r": "Le gros globe de cristal", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quelle patineuse norvégienne, triple championne olympique de 1928 à 1936, est ensuite devenue une vedette d'Hollywood ?", "r": "Sonja Henie", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Quelle discipline de patinage de vitesse se dispute sur une petite piste d'environ 111 m tracée sur une patinoire ?", "r": "Le short-track", "d": 3, "t": "Sports d'hiver"},
-  {"q": "Comment appelle-t-on la cire appliquée sous les skis pour améliorer la glisse ou l'accroche ?", "r": "Le fart", "d": 2, "t": "Sports d'hiver"},
-  {"q": "Quel pilote allemand a remporté sept titres de champion du monde de Formule 1 avec Benetton puis Ferrari ?", "r": "Michael Schumacher", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote français a été champion du monde de Formule 1 en 1985, 1986, 1989 et 1993 ?", "r": "Alain Prost", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote brésilien, triple champion du monde de Formule 1, s'est tué sur le circuit d'Imola en 1994 ?", "r": "Ayrton Senna", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote argentin a remporté cinq titres de champion du monde de Formule 1 dans les années 1950 ?", "r": "Juan Manuel Fangio", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel Grand Prix de Formule 1 se dispute dans les rues d'une principauté depuis 1929 ?", "r": "Le Grand Prix de Monaco", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quelle course d'endurance automobile se dispute chaque année sur le circuit de la Sarthe ?", "r": "Les 24 Heures du Mans", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Comment s'appelle la longue ligne droite du circuit des 24 Heures du Mans, empruntant une route nationale ?", "r": "Les Hunaudières", "d": 2, "t": "Sports mécaniques"},
-  {"q": "En quelle année s'est tenue la première édition des 24 Heures du Mans ?", "r": "1923", "d": 3, "t": "Sports mécaniques"},
-  {"q": "Quel pilote danois a remporté à neuf reprises les 24 Heures du Mans entre 1997 et 2013 ?", "r": "Tom Kristensen", "d": 3, "t": "Sports mécaniques"},
-  {"q": "Quel pilote belge a remporté six fois les 24 Heures du Mans entre 1969 et 1982 ?", "r": "Jacky Ickx", "d": 3, "t": "Sports mécaniques"},
-  {"q": "En quelle année un accident aux 24 Heures du Mans a-t-il fait plus de 80 morts parmi les spectateurs ?", "r": "1955", "d": 3, "t": "Sports mécaniques"},
-  {"q": "Comment appelait-on le départ où les pilotes traversaient la piste en courant pour rejoindre leur voiture ?", "r": "Le départ type Le Mans", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel constructeur français a remporté les 24 Heures du Mans en 1992 et 1993 avec sa 905 ?", "r": "Peugeot", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel pilote alsacien a remporté neuf titres consécutifs de champion du monde des rallyes, de 2004 à 2012 ?", "r": "Sébastien Loeb", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote haut-alpin a succédé à Sébastien Loeb en remportant le championnat du monde des rallyes de 2013 à 2018 ?", "r": "Sébastien Ogier", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel célèbre rallye, disputé pour la première fois en 1911, se déroule en janvier dans les Alpes du Sud et la principauté ?", "r": "Le rallye Monte-Carlo", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel pilote et organisateur français a créé le rallye-raid Paris-Dakar à la fin des années 1970 ?", "r": "Thierry Sabine", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Sur quel continent le rallye Dakar s'est-il disputé de 2009 à 2019 ?", "r": "L'Amérique du Sud", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel drapeau agite-t-on pour signaler l'arrivée d'une course automobile ?", "r": "Le drapeau à damier", "d": 1, "t": "Sports mécaniques"},
-  {"q": "En Formule 1, que signale aux pilotes l'agitation d'un drapeau jaune ?", "r": "Un danger (dépassement interdit)", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quelle écurie italienne de Formule 1 a pour emblème un cheval cabré ?", "r": "Ferrari", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Comment appelle-t-on la première place sur la grille de départ d'un Grand Prix ?", "r": "La pole position", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote français a remporté le Grand Prix de Monaco 1996 au volant d'une Ligier ?", "r": "Olivier Panis", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel célèbre enchaînement de virages en montée se trouve sur le circuit de Spa-Francorchamps ?", "r": "Le raidillon de l'Eau Rouge", "d": 3, "t": "Sports mécaniques"},
-  {"q": "Quel pilote autrichien, grièvement brûlé sur le Nürburgring en 1976, a été trois fois champion du monde de Formule 1 ?", "r": "Niki Lauda", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quelle boisson le vainqueur des 500 miles d'Indianapolis boit-il traditionnellement sur le podium ?", "r": "Du lait", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quelle célèbre course motocycliste se dispute sur les routes de l'île de Man ?", "r": "Le Tourist Trophy", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel pilote italien de moto, surnommé « The Doctor », a remporté neuf titres de champion du monde ?", "r": "Valentino Rossi", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel circuit varois, situé au Castellet, a accueilli le Grand Prix de France de Formule 1 en 2018 ?", "r": "Le circuit Paul-Ricard", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel circuit de la Nièvre a accueilli le Grand Prix de France de Formule 1 de 1991 à 2008 ?", "r": "Magny-Cours", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quelle couleur était traditionnellement attribuée aux voitures de course françaises ?", "r": "Le bleu", "d": 2, "t": "Sports mécaniques"},
-  {"q": "Quel pilote allemand a remporté quatre titres consécutifs de Formule 1 avec Red Bull, de 2010 à 2013 ?", "r": "Sebastian Vettel", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote britannique a été sacré sept fois champion du monde de Formule 1 entre 2008 et 2020 ?", "r": "Lewis Hamilton", "d": 1, "t": "Sports mécaniques"},
-  {"q": "Quel pilote finlandais surnommé « Iceman » a été champion du monde de Formule 1 avec Ferrari en 2007 ?", "r": "Kimi Räikkönen", "d": 2, "t": "Sports mécaniques"}
+ {
+  "q": "Quelle nage, dont le nom évoque un insecte, se pratique avec les deux bras projetés simultanément et une ondulation du corps ?",
+  "r": "Le papillon",
+  "d": 1,
+  "t": "Natation"
+ },
+ {
+  "q": "Dans l'épreuve individuelle du 4 nages, quelle nage ouvre la course ?",
+  "r": "Le papillon",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Dans le relais 4 nages, quelle nage le premier relayeur pratique-t-il ?",
+  "r": "Le dos",
+  "d": 3,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle est la longueur d'un bassin olympique ?",
+  "r": "50 m",
+  "d": 1,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle nageuse française est devenue championne olympique du 400 m nage libre aux Jeux d'Athènes en 2004 ?",
+  "r": "Laure Manaudou",
+  "d": 1,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nageur français a été sacré champion olympique du 50 m nage libre aux Jeux de Londres en 2012 ?",
+  "r": "Florent Manaudou",
+  "d": 1,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nageur français a remporté le 100 m nage libre olympique aux Jeux de Pékin en 2008 ?",
+  "r": "Alain Bernard",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nageur français a été sacré champion olympique du 200 m nage libre à Londres en 2012 ?",
+  "r": "Yannick Agnel",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nageur américain a remporté sept médailles d'or aux Jeux de Munich en 1972 ?",
+  "r": "Mark Spitz",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nageur américain a remporté huit médailles d'or lors des seuls Jeux de Pékin en 2008 ?",
+  "r": "Michael Phelps",
+  "d": 1,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nageur quintuple champion olympique dans les années 1920 est devenu célèbre en incarnant Tarzan au cinéma ?",
+  "r": "Johnny Weissmuller",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle nageuse australienne a remporté le 100 m nage libre olympique en 1956, 1960 et 1964 ?",
+  "r": "Dawn Fraser",
+  "d": 3,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel nouveau nom la fédération internationale a-t-elle donné à la natation synchronisée en 2017 ?",
+  "r": "La natation artistique",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel sport collectif aquatique oppose deux équipes cherchant à marquer dans des cages flottantes ?",
+  "r": "Le water-polo",
+  "d": 1,
+  "t": "Natation"
+ },
+ {
+  "q": "Au water-polo, combien de joueurs de chaque équipe sont dans l'eau, gardien compris ?",
+  "r": "Sept",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle est la distance de l'épreuve olympique de nage en eau libre ?",
+  "r": "10 km",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel bras de mer le capitaine Matthew Webb a-t-il été le premier à traverser à la nage, en 1875 ?",
+  "r": "La Manche",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle nageuse américaine a remporté le 800 m nage libre olympique en 2012, en 2016 et aux Jeux de Tokyo 2020 ?",
+  "r": "Katie Ledecky",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Comment appelle-t-on le virage en crawl où le nageur effectue une roulade sous l'eau avant de repousser le mur ?",
+  "r": "Le virage culbute",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle est la hauteur de la plus haute plateforme utilisée lors des épreuves olympiques de plongeon ?",
+  "r": "10 m",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quel plongeur américain s'est cogné la tête contre le tremplin aux Jeux de Séoul en 1988 avant de remporter l'or ?",
+  "r": "Greg Louganis",
+  "d": 3,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle est la plus lente des quatre nages de compétition ?",
+  "r": "La brasse",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle est la plus longue course de nage libre disputée en bassin aux Jeux olympiques ?",
+  "r": "Le 1 500 m",
+  "d": 2,
+  "t": "Natation"
+ },
+ {
+  "q": "Quelle discipline olympique associe ski de fond et tir à la carabine ?",
+  "r": "Le biathlon",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel biathlète français a remporté cinq médailles d'or olympiques entre 2014 et 2018 ?",
+  "r": "Martin Fourcade",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel biathlète norvégien a remporté huit titres olympiques entre 1998 et 2014 ?",
+  "r": "Ole Einar Bjørndalen",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel skieur français a remporté la descente, le slalom et le slalom géant aux Jeux de Grenoble en 1968 ?",
+  "r": "Jean-Claude Killy",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel skieur autrichien avait déjà réalisé le triplé en ski alpin aux Jeux de Cortina d'Ampezzo en 1956 ?",
+  "r": "Toni Sailer",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle est la discipline la plus rapide du ski alpin ?",
+  "r": "La descente",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "De quelle expression le nom de la discipline de ski alpin « super-G » est-il l'abréviation ?",
+  "r": "Super-géant",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel sport d'hiver consiste à faire glisser des pierres de granit vers une cible en balayant la glace devant elles ?",
+  "r": "Le curling",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Au curling, comment appelle-t-on la cible circulaire vers laquelle on fait glisser les pierres ?",
+  "r": "La maison",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Dans quel sport olympique dévale-t-on une piste de glace allongé sur le dos, les pieds en avant ?",
+  "r": "La luge",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Dans quel sport olympique dévale-t-on une piste de glace à plat ventre, la tête en avant ?",
+  "r": "Le skeleton",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel pays tropical a engagé une équipe de bobsleigh aux Jeux de Calgary en 1988, histoire qui a inspiré le film « Rasta Rockett » ?",
+  "r": "La Jamaïque",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle discipline nordique associe une épreuve de saut à ski et une course de ski de fond ?",
+  "r": "Le combiné nordique",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel saut de patinage artistique, le seul à s'élancer vers l'avant, comporte une demi-rotation supplémentaire ?",
+  "r": "L'axel",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel patineur français a remporté deux médailles de bronze olympiques, en 1994 et en 1998 ?",
+  "r": "Philippe Candeloro",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle patineuse française a exécuté un salto arrière atterri sur une seule lame aux Jeux de Nagano en 1998 ?",
+  "r": "Surya Bonaly",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel couple français a remporté le titre olympique de danse sur glace aux Jeux de Pékin en 2022 ?",
+  "r": "Papadakis et Cizeron",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel Français est devenu le premier champion olympique de ski de bosses, aux Jeux d'Albertville en 1992 ?",
+  "r": "Edgar Grospiron",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel skieur suédois a remporté 86 courses de Coupe du monde de ski alpin entre 1974 et 1989 ?",
+  "r": "Ingemar Stenmark",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel skieur français a remporté la descente olympique aux Jeux de Nagano en 1998 ?",
+  "r": "Jean-Luc Crétier",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle skieuse française a remporté la descente olympique aux Jeux de Salt Lake City en 2002 ?",
+  "r": "Carole Montillet",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Au hockey sur glace, combien de joueurs de chaque équipe sont sur la glace en même temps, gardien compris ?",
+  "r": "Six",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Comment appelle-t-on le disque de caoutchouc avec lequel on joue au hockey sur glace ?",
+  "r": "Le palet",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Dans quelle station américaine les étudiants des États-Unis ont-ils battu l'URSS au hockey lors du « Miracle sur glace » de 1980 ?",
+  "r": "Lake Placid",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Comment appelle-t-on la piste en forme de demi-tube où les snowboardeurs enchaînent les figures ?",
+  "r": "Le half-pipe",
+  "d": 1,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Comment appelle-t-on la position des skis écartés en pointe, adoptée par les sauteurs à ski depuis les années 1990 ?",
+  "r": "Le style en V",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle course de ski de fond suédoise de 90 km commémore la fuite du futur roi Gustave Vasa ?",
+  "r": "La Vasaloppet",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle station suisse a accueilli les Jeux olympiques d'hiver en 1928 et en 1948 ?",
+  "r": "Saint-Moritz",
+  "d": 2,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle capitale scandinave a accueilli les Jeux olympiques d'hiver de 1952 ?",
+  "r": "Oslo",
+  "d": 2,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle ville sud-coréenne a accueilli les Jeux olympiques d'hiver de 2018 ?",
+  "r": "Pyeongchang",
+  "d": 2,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle ville de l'ex-Yougoslavie a accueilli les Jeux olympiques d'hiver de 1984 ?",
+  "r": "Sarajevo",
+  "d": 2,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle station balnéaire russe des bords de la mer Noire a accueilli les Jeux olympiques d'hiver de 2014 ?",
+  "r": "Sotchi",
+  "d": 1,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle ville canadienne de la province d'Alberta a accueilli les Jeux olympiques d'hiver de 1988 ?",
+  "r": "Calgary",
+  "d": 2,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle ville italienne a accueilli les Jeux olympiques d'hiver de 2006 ?",
+  "r": "Turin",
+  "d": 2,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Quelle ville de Colombie-Britannique a accueilli les Jeux olympiques d'hiver de 2010 ?",
+  "r": "Vancouver",
+  "d": 1,
+  "t": "Villes olympiques"
+ },
+ {
+  "q": "Sur quelle piste de Kitzbühel se court la plus célèbre descente de la Coupe du monde de ski alpin ?",
+  "r": "La Streif",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel trophée récompense le vainqueur du classement général de la Coupe du monde de ski alpin ?",
+  "r": "Le gros globe de cristal",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle patineuse norvégienne, triple championne olympique de 1928 à 1936, est ensuite devenue une vedette d'Hollywood ?",
+  "r": "Sonja Henie",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quelle discipline de patinage de vitesse se dispute sur une petite piste d'environ 111 m tracée sur une patinoire ?",
+  "r": "Le short-track",
+  "d": 3,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Comment appelle-t-on la cire appliquée sous les skis pour améliorer la glisse ou l'accroche ?",
+  "r": "Le fart",
+  "d": 2,
+  "t": "Sports d'hiver"
+ },
+ {
+  "q": "Quel pilote allemand a remporté sept titres de champion du monde de Formule 1 avec Benetton puis Ferrari ?",
+  "r": "Michael Schumacher",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote français a été champion du monde de Formule 1 en 1985, 1986, 1989 et 1993 ?",
+  "r": "Alain Prost",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote brésilien, triple champion du monde de Formule 1, s'est tué sur le circuit d'Imola en 1994 ?",
+  "r": "Ayrton Senna",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote argentin a remporté cinq titres de champion du monde de Formule 1 dans les années 1950 ?",
+  "r": "Juan Manuel Fangio",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel Grand Prix de Formule 1 se dispute dans les rues d'une principauté depuis 1929 ?",
+  "r": "Le Grand Prix de Monaco",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quelle course d'endurance automobile se dispute chaque année sur le circuit de la Sarthe ?",
+  "r": "Les 24 Heures du Mans",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Comment s'appelle la longue ligne droite du circuit des 24 Heures du Mans, empruntant une route nationale ?",
+  "r": "Les Hunaudières",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "En quelle année s'est tenue la première édition des 24 Heures du Mans ?",
+  "r": "1923",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote danois a remporté à neuf reprises les 24 Heures du Mans entre 1997 et 2013 ?",
+  "r": "Tom Kristensen",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote belge a remporté six fois les 24 Heures du Mans entre 1969 et 1982 ?",
+  "r": "Jacky Ickx",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "En quelle année un accident aux 24 Heures du Mans a-t-il fait plus de 80 morts parmi les spectateurs ?",
+  "r": "1955",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Comment appelait-on le départ où les pilotes traversaient la piste en courant pour rejoindre leur voiture ?",
+  "r": "Le départ type Le Mans",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel constructeur français a remporté les 24 Heures du Mans en 1992 et 1993 avec sa 905 ?",
+  "r": "Peugeot",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote alsacien a remporté neuf titres consécutifs de champion du monde des rallyes, de 2004 à 2012 ?",
+  "r": "Sébastien Loeb",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote haut-alpin a succédé à Sébastien Loeb en remportant le championnat du monde des rallyes de 2013 à 2018 ?",
+  "r": "Sébastien Ogier",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel célèbre rallye, disputé pour la première fois en 1911, se déroule en janvier dans les Alpes du Sud et la principauté ?",
+  "r": "Le rallye Monte-Carlo",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote et organisateur français a créé le rallye-raid Paris-Dakar à la fin des années 1970 ?",
+  "r": "Thierry Sabine",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Sur quel continent le rallye Dakar s'est-il disputé de 2009 à 2019 ?",
+  "r": "L'Amérique du Sud",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel drapeau agite-t-on pour signaler l'arrivée d'une course automobile ?",
+  "r": "Le drapeau à damier",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "En Formule 1, que signale aux pilotes l'agitation d'un drapeau jaune ?",
+  "r": "Un danger (dépassement interdit)",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quelle écurie italienne de Formule 1 a pour emblème un cheval cabré ?",
+  "r": "Ferrari",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Comment appelle-t-on la première place sur la grille de départ d'un Grand Prix ?",
+  "r": "La pole position",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote français a remporté le Grand Prix de Monaco 1996 au volant d'une Ligier ?",
+  "r": "Olivier Panis",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel célèbre enchaînement de virages en montée se trouve sur le circuit de Spa-Francorchamps ?",
+  "r": "Le raidillon de l'Eau Rouge",
+  "d": 3,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote autrichien, grièvement brûlé sur le Nürburgring en 1976, a été trois fois champion du monde de Formule 1 ?",
+  "r": "Niki Lauda",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quelle boisson le vainqueur des 500 miles d'Indianapolis boit-il traditionnellement sur le podium ?",
+  "r": "Du lait",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quelle célèbre course motocycliste se dispute sur les routes de l'île de Man ?",
+  "r": "Le Tourist Trophy",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote italien de moto, surnommé « The Doctor », a remporté neuf titres de champion du monde ?",
+  "r": "Valentino Rossi",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel circuit varois, situé au Castellet, a accueilli le Grand Prix de France de Formule 1 en 2018 ?",
+  "r": "Le circuit Paul-Ricard",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel circuit de la Nièvre a accueilli le Grand Prix de France de Formule 1 de 1991 à 2008 ?",
+  "r": "Magny-Cours",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quelle couleur était traditionnellement attribuée aux voitures de course françaises ?",
+  "r": "Le bleu",
+  "d": 2,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote allemand a remporté quatre titres consécutifs de Formule 1 avec Red Bull, de 2010 à 2013 ?",
+  "r": "Sebastian Vettel",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote britannique a été sacré sept fois champion du monde de Formule 1 entre 2008 et 2020 ?",
+  "r": "Lewis Hamilton",
+  "d": 1,
+  "t": "Sports mécaniques"
+ },
+ {
+  "q": "Quel pilote finlandais surnommé « Iceman » a été champion du monde de Formule 1 avec Ferrari en 2007 ?",
+  "r": "Kimi Räikkönen",
+  "d": 2,
+  "t": "Sports mécaniques"
+ }
 ]

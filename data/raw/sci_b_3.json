@@ -60,7 +60,7 @@
   "t": "Génétique"
  },
  {
-  "q": "Quelle chercheuse britannique a réalisé le cliché de diffraction de l'ADN appelé « photo 51 » ?",
+  "q": "Sous la direction de quelle chercheuse britannique a été réalisé le cliché de diffraction de l'ADN appelé « photo 51 » ?",
   "r": "Rosalind Franklin",
   "d": 2,
   "t": "Génétique"
@@ -133,7 +133,7 @@
  },
  {
   "q": "Quel gaz les plantes rejettent-elles au cours de la photosynthèse ?",
-  "r": "Le dioxygène",
+  "r": "Le dioxygène (oxygène)",
   "d": 1,
   "t": "Cellule"
  },
@@ -523,7 +523,7 @@
  },
  {
   "q": "Comment appelle-t-on le phénomène, étudié par Konrad Lorenz chez les oies, par lequel un jeune s'attache au premier être qu'il voit ?",
-  "r": "L'empreinte",
+  "r": "L'empreinte (imprégnation)",
   "d": 3,
   "t": "Biologie générale"
  },

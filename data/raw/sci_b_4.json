@@ -6,7 +6,7 @@
   "t": "Nutrition"
  },
  {
-  "q": "Quel minéral, abondant dans les produits laitiers, est le principal constituant des os ?",
+  "q": "Quel minéral, abondant dans les produits laitiers, est le principal minéral des os ?",
   "r": "Le calcium",
   "d": 1,
   "t": "Nutrition"
@@ -72,7 +72,7 @@
   "t": "Nutrition"
  },
  {
-  "q": "Quel sucre donne leur goût sucré aux fruits et au miel ?",
+  "q": "Quel sucre, surnommé « sucre des fruits », abonde dans les fruits et le miel ?",
   "r": "Le fructose",
   "d": 1,
   "t": "Nutrition"
@@ -271,7 +271,7 @@
  },
  {
   "q": "Quel ouvrage de Freud, paru fin 1899, est consacré à l'analyse des rêves ?",
-  "r": "L'Interprétation du rêve",
+  "r": "L'Interprétation des rêves",
   "d": 2,
   "t": "Psychologie"
  },
@@ -360,7 +360,7 @@
   "t": "Psychologie"
  },
  {
-  "q": "Quel psychologue américain a représenté la hiérarchie des besoins humains sous forme de pyramide ?",
+  "q": "Quel psychologue américain a théorisé une hiérarchie des besoins humains, popularisée sous forme de pyramide ?",
   "r": "Abraham Maslow",
   "d": 1,
   "t": "Psychologie"
@@ -492,7 +492,7 @@
   "t": "Psychologie"
  },
  {
-  "q": "Quel neurobiologiste français a découvert et nommé le sommeil paradoxal à la fin des années 1950 ?",
+  "q": "Quel neurobiologiste français a nommé et caractérisé le sommeil paradoxal à la fin des années 1950 ?",
   "r": "Michel Jouvet",
   "d": 3,
   "t": "Psychologie"
