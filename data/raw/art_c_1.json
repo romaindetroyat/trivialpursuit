@@ -1,100 +1,572 @@
 [
-  {"q": "Qui a peint « La Joconde » ?", "r": "Léonard de Vinci", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre néerlandais s'est tranché une partie de l'oreille à Arles en décembre 1888 ?", "r": "Vincent van Gogh", "d": 1, "t": "Peintres"},
-  {"q": "Quel peintre a réalisé « Guernica » en 1937, en réaction au bombardement d'une ville basque ?", "r": "Pablo Picasso", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre surréaliste espagnol a représenté des montres molles dans « La Persistance de la mémoire » ?", "r": "Salvador Dalí", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel artiste de la Renaissance a peint le plafond de la chapelle Sixtine ?", "r": "Michel-Ange", "d": 1, "t": "Renaissance"},
-  {"q": "Quel peintre norvégien est l'auteur du « Cri » ?", "r": "Edvard Munch", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel tableau de Claude Monet, peint au Havre, a donné son nom au mouvement impressionniste ?", "r": "Impression, soleil levant", "d": 1, "t": "Impressionnisme"},
-  {"q": "Quel peintre de Delft a peint « La Jeune Fille à la perle » ?", "r": "Johannes Vermeer", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre a consacré la fin de sa vie à peindre les « Nymphéas » de son jardin de Giverny ?", "r": "Claude Monet", "d": 1, "t": "Impressionnisme"},
-  {"q": "Quel peintre florentin a représenté une déesse debout sur une coquille dans « La Naissance de Vénus » ?", "r": "Sandro Botticelli", "d": 1, "t": "Renaissance"},
-  {"q": "Quel peintre impressionniste est célèbre pour ses nombreuses danseuses de l'Opéra peintes au pastel ?", "r": "Edgar Degas", "d": 1, "t": "Impressionnisme"},
-  {"q": "Quel peintre romantique a peint « La Liberté guidant le peuple » en hommage aux Trois Glorieuses de 1830 ?", "r": "Eugène Delacroix", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel artiste du pop art américain a reproduit en série des boîtes de soupe Campbell ?", "r": "Andy Warhol", "d": 1, "t": "Pop art"},
-  {"q": "Quel peintre de petite taille, habitué de Montmartre, a signé de nombreuses affiches pour le Moulin-Rouge ?", "r": "Henri de Toulouse-Lautrec", "d": 1, "t": "Peintres"},
-  {"q": "Quel peintre a fait scandale au Salon des refusés de 1863 avec « Le Déjeuner sur l'herbe » ?", "r": "Édouard Manet", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre aixois a représenté inlassablement la montagne Sainte-Victoire ?", "r": "Paul Cézanne", "d": 1, "t": "Post-impressionnisme"},
-  {"q": "Sur quelle île de Polynésie Paul Gauguin s'est-il installé à partir de 1891 ?", "r": "Tahiti", "d": 1, "t": "Peintres"},
-  {"q": "Quel peintre belge a écrit « Ceci n'est pas une pipe » sous l'image d'une pipe ?", "r": "René Magritte", "d": 1, "t": "Surréalisme"},
-  {"q": "Quel maître hollandais du XVIIe siècle a peint « La Ronde de nuit » ?", "r": "Rembrandt", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre viennois a peint « Le Baiser », couvert de feuilles d'or ?", "r": "Gustav Klimt", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Quelle peintre mexicaine, épouse de Diego Rivera, est célèbre pour ses autoportraits ?", "r": "Frida Kahlo", "d": 1, "t": "Peintres"},
-  {"q": "Quel peintre néerlandais a composé des tableaux de lignes noires et de rectangles rouges, jaunes et bleus ?", "r": "Piet Mondrian", "d": 1, "t": "Art abstrait"},
-  {"q": "Quel peintre naïf français était surnommé « le Douanier » ?", "r": "Henri Rousseau", "d": 1, "t": "Peintres"},
-  {"q": "Quel peintre américain projetait la peinture sur la toile posée au sol, technique appelée « dripping » ?", "r": "Jackson Pollock", "d": 1, "t": "Art abstrait"},
-  {"q": "Quel peintre officiel de Napoléon a représenté son sacre à Notre-Dame dans une toile immense ?", "r": "Jacques-Louis David", "d": 1, "t": "Néoclassicisme"},
-  {"q": "Quel artiste japonais a réalisé l'estampe « La Grande Vague de Kanagawa » ?", "r": "Hokusai", "d": 1, "t": "Estampes"},
-  {"q": "Quel artiste de rue britannique anonyme a vu sa « Fille au ballon » s'autodétruire aux enchères en 2018 ?", "r": "Banksy", "d": 1, "t": "Art contemporain"},
-  {"q": "Quel mouvement artistique André Breton a-t-il lancé par un manifeste en 1924 ?", "r": "Le surréalisme", "d": 1, "t": "Mouvements artistiques"},
-  {"q": "Comment appelle-t-on la technique de peinture murale réalisée sur un enduit encore frais ?", "r": "La fresque", "d": 1, "t": "Techniques"},
-  {"q": "Comment appelle-t-on une œuvre peinte composée de trois panneaux ?", "r": "Un triptyque", "d": 1, "t": "Techniques"},
-  {"q": "Comment appelle-t-on un tableau représentant des objets inanimés comme des fruits, des fleurs ou de la vaisselle ?", "r": "Une nature morte", "d": 1, "t": "Genres picturaux"},
-  {"q": "Quel peintre impressionniste a représenté une guinguette de Montmartre dans « Bal du moulin de la Galette » ?", "r": "Auguste Renoir", "d": 1, "t": "Impressionnisme"},
-  {"q": "Quel peintre a représenté les naufragés d'une frégate dans « Le Radeau de la Méduse » ?", "r": "Théodore Géricault", "d": 1, "t": "Tableaux célèbres"},
-  {"q": "Avec quel peintre français Pablo Picasso a-t-il inventé le cubisme ?", "r": "Georges Braque", "d": 1, "t": "Mouvements artistiques"},
-  {"q": "Comment s'appelle la plaque sur laquelle le peintre dispose et mélange ses couleurs ?", "r": "La palette", "d": 1, "t": "Techniques"},
-  {"q": "Comment s'appelle le support à trois pieds sur lequel le peintre pose sa toile ?", "r": "Le chevalet", "d": 1, "t": "Techniques"},
-  {"q": "Quel artiste a peint « La Cène » sur un mur du couvent Santa Maria delle Grazie à Milan ?", "r": "Léonard de Vinci", "d": 1, "t": "Renaissance"},
-
-  {"q": "Quel peintre russe, auteur de « Du spirituel dans l'art », est considéré comme un pionnier de l'abstraction ?", "r": "Vassily Kandinsky", "d": 2, "t": "Art abstrait"},
-  {"q": "Quel peintre de la Renaissance a représenté Platon et Aristote au centre de « L'École d'Athènes » ?", "r": "Raphaël", "d": 2, "t": "Renaissance"},
-  {"q": "Quel peintre réaliste a peint en 1866 le très provocant « L'Origine du monde » ?", "r": "Gustave Courbet", "d": 2, "t": "Réalisme"},
-  {"q": "Quel peintre a créé à la fin de sa vie des gouaches découpées comme « La Tristesse du roi » ?", "r": "Henri Matisse", "d": 2, "t": "Peintres"},
-  {"q": "Quel peintre anglais a représenté un train dans la brume dans « Pluie, vapeur et vitesse » ?", "r": "William Turner", "d": 2, "t": "Romantisme"},
-  {"q": "Quel peintre flamand a signé en 1434 « Les Époux Arnolfini », avec son célèbre miroir convexe ?", "r": "Jan van Eyck", "d": 2, "t": "Primitifs flamands"},
-  {"q": "Quel peintre néerlandais a imaginé les créatures fantastiques du « Jardin des délices » ?", "r": "Jérôme Bosch", "d": 2, "t": "Primitifs flamands"},
-  {"q": "Quel peintre flamand a peint « Chasseurs dans la neige » en 1565 ?", "r": "Pieter Bruegel l'Ancien", "d": 2, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre espagnol a représenté l'exécution de civils madrilènes par les troupes françaises dans « Tres de mayo » ?", "r": "Francisco de Goya", "d": 2, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre néoclassique a doté « La Grande Odalisque » de quelques vertèbres de trop ?", "r": "Jean-Auguste-Dominique Ingres", "d": 2, "t": "Néoclassicisme"},
-  {"q": "Quel peintre pointilliste a peint « Un dimanche après-midi à l'île de la Grande Jatte » ?", "r": "Georges Seurat", "d": 2, "t": "Post-impressionnisme"},
-  {"q": "Quel peintre italien, célèbre pour ses portraits aux cous allongés, est mort à Paris en 1920 ?", "r": "Amedeo Modigliani", "d": 2, "t": "École de Paris"},
-  {"q": "Quel peintre né à Vitebsk a réalisé en 1964 le nouveau plafond de l'Opéra Garnier ?", "r": "Marc Chagall", "d": 2, "t": "École de Paris"},
-  {"q": "Quel artiste niçois a déposé en 1960 la formule d'un bleu outremer intense appelé IKB ?", "r": "Yves Klein", "d": 2, "t": "Art contemporain"},
-  {"q": "Quel peintre américain a représenté des clients nocturnes d'un bar dans « Nighthawks » (1942) ?", "r": "Edward Hopper", "d": 2, "t": "Tableaux célèbres"},
-  {"q": "Quel peintre italien, maître du clair-obscur, a peint « La Vocation de saint Matthieu » ?", "r": "Le Caravage", "d": 2, "t": "Baroque"},
-  {"q": "Quel artiste de Nuremberg a gravé « Melencolia I » et peint un autoportrait christique en 1500 ?", "r": "Albrecht Dürer", "d": 2, "t": "Renaissance"},
-  {"q": "Quel peintre flamand a réalisé pour le palais du Luxembourg un cycle de 24 toiles sur la vie de Marie de Médicis ?", "r": "Pierre Paul Rubens", "d": 2, "t": "Baroque"},
-  {"q": "Quel peintre vénitien du XVIIIe siècle est célèbre pour ses « vedute » du Grand Canal ?", "r": "Canaletto", "d": 2, "t": "Peintres"},
-  {"q": "Quel artiste a présenté en 1917 un urinoir renversé intitulé « Fontaine » ?", "r": "Marcel Duchamp", "d": 2, "t": "Art moderne"},
-  {"q": "Quel peintre né à Barcelone en 1893 a peint « Le Carnaval d'Arlequin » ?", "r": "Joan Miró", "d": 2, "t": "Surréalisme"},
-  {"q": "Quel mouvement artistique est né en 1916 au Cabaret Voltaire de Zurich ?", "r": "Dada", "d": 2, "t": "Mouvements artistiques"},
-  {"q": "Quel mouvement pictural, mené par Matisse et Derain, a choqué le Salon d'automne de 1905 par ses couleurs pures ?", "r": "Le fauvisme", "d": 2, "t": "Mouvements artistiques"},
-  {"q": "Comment appelle-t-on une nature morte comportant un crâne, rappelant la brièveté de la vie ?", "r": "Une vanité", "d": 2, "t": "Genres picturaux"},
-  {"q": "Quel artiste du pop art imitait les cases de comics en reproduisant les points de trame Ben-Day ?", "r": "Roy Lichtenstein", "d": 2, "t": "Pop art"},
-  {"q": "À quel mouvement pictural anglais du XIXe siècle appartenaient Dante Gabriel Rossetti et John Everett Millais ?", "r": "Le préraphaélisme", "d": 2, "t": "Mouvements artistiques"},
-  {"q": "Comment appelle-t-on la peinture dont les pigments sont liés au jaune d'œuf, très utilisée avant la peinture à l'huile ?", "r": "La tempera", "d": 2, "t": "Techniques"},
-  {"q": "Quel terme italien désigne le modelé vaporeux aux contours estompés cher à Léonard de Vinci ?", "r": "Le sfumato", "d": 2, "t": "Techniques"},
-  {"q": "Quelle couleur domine les toiles peintes par Picasso de 1901 à 1904, après le suicide de son ami Casagemas ?", "r": "Le bleu", "d": 2, "t": "Peintres"},
-  {"q": "Quel peintre britannique, homonyme d'un philosophe anglais du XVIIe siècle, a peint des papes hurlants ?", "r": "Francis Bacon", "d": 2, "t": "Art moderne"},
-  {"q": "Dans quelle ville andalouse Pablo Picasso est-il né en 1881 ?", "r": "Malaga", "d": 2, "t": "Peintres"},
-  {"q": "Quel peintre aveyronnais est célèbre pour ses toiles monochromes noires qu'il appelait « outrenoir » ?", "r": "Pierre Soulages", "d": 2, "t": "Art contemporain"},
-  {"q": "Quelle femme peintre fut la portraitiste attitrée de la reine Marie-Antoinette ?", "r": "Élisabeth Vigée Le Brun", "d": 2, "t": "Peintres"},
-  {"q": "Quel peintre américain a représenté un fermier à la fourche et sa fille dans « American Gothic » (1930) ?", "r": "Grant Wood", "d": 2, "t": "Tableaux célèbres"},
-  {"q": "Quelle peintre américaine est célèbre pour ses fleurs géantes et ses paysages du Nouveau-Mexique ?", "r": "Georgia O'Keeffe", "d": 2, "t": "Peintres"},
-  {"q": "Quel artiste new-yorkais, ami d'Andy Warhol, signait ses premiers graffitis « SAMO » ?", "r": "Jean-Michel Basquiat", "d": 2, "t": "Art contemporain"},
-  {"q": "Quel tableau de Manet, présenté en 1865, montre une courtisane nue qui fixe le spectateur ?", "r": "Olympia", "d": 2, "t": "Tableaux célèbres"},
-  {"q": "Quel mouvement artistique italien, lancé par Marinetti en 1909, exaltait la vitesse et la machine ?", "r": "Le futurisme", "d": 2, "t": "Mouvements artistiques"},
-  {"q": "Quel peintre d'origine crétoise a peint « L'Enterrement du comte d'Orgaz » à Tolède ?", "r": "Le Greco", "d": 2, "t": "Peintres"},
-  {"q": "Quel peintre de la cour d'Espagne s'est représenté à son chevalet dans « Les Ménines » ?", "r": "Diego Velázquez", "d": 2, "t": "Tableaux célèbres"},
-
-  {"q": "Quelle peintre impressionniste, belle-sœur d'Édouard Manet, a peint « Le Berceau » en 1872 ?", "r": "Berthe Morisot", "d": 3, "t": "Impressionnisme"},
-  {"q": "Quel peintre lorrain du XVIIe siècle est célèbre pour ses scènes éclairées à la bougie, comme « La Madeleine à la veilleuse » ?", "r": "Georges de La Tour", "d": 3, "t": "Baroque"},
-  {"q": "Quel peintre vénitien est l'auteur de l'énigmatique « La Tempête », vers 1508 ?", "r": "Giorgione", "d": 3, "t": "Renaissance"},
-  {"q": "Quel peintre a glissé un crâne en anamorphose au premier plan des « Ambassadeurs » en 1533 ?", "r": "Hans Holbein le Jeune", "d": 3, "t": "Renaissance"},
-  {"q": "Quel peintre romantique allemand a peint « Le Voyageur contemplant une mer de nuages » ?", "r": "Caspar David Friedrich", "d": 3, "t": "Romantisme"},
-  {"q": "Quel peintre suisse a peint plusieurs versions de « L'Île des morts » ?", "r": "Arnold Böcklin", "d": 3, "t": "Symbolisme"},
-  {"q": "Quel peintre a été reçu à l'Académie en 1717 avec « Pèlerinage à l'île de Cythère », inventant la fête galante ?", "r": "Antoine Watteau", "d": 3, "t": "Rococo"},
-  {"q": "Quel peintre français a peint « Les Hasards heureux de l'escarpolette » ?", "r": "Jean-Honoré Fragonard", "d": 3, "t": "Rococo"},
-  {"q": "Quel peintre cubiste français a célébré les ouvriers dans « Les Constructeurs » en 1950 ?", "r": "Fernand Léger", "d": 3, "t": "Cubisme"},
-  {"q": "Quel peintre de paysages est associé à Ville-d'Avray et au « Souvenir de Mortefontaine » ?", "r": "Camille Corot", "d": 3, "t": "Paysage"},
-  {"q": "Quel peintre impressionniste, né à Paris de parents anglais, a peint « L'Inondation à Port-Marly » ?", "r": "Alfred Sisley", "d": 3, "t": "Impressionnisme"},
-  {"q": "Quel peintre a représenté des ouvriers torse nu décapant un plancher dans « Les Raboteurs de parquet » ?", "r": "Gustave Caillebotte", "d": 3, "t": "Impressionnisme"},
-  {"q": "Quel peintre impressionniste, né aux Antilles danoises, a peint de nombreuses vues de Pontoise ?", "r": "Camille Pissarro", "d": 3, "t": "Impressionnisme"},
-  {"q": "Quel peintre anglais du XVIIIe siècle est l'auteur du portrait « The Blue Boy » ?", "r": "Thomas Gainsborough", "d": 3, "t": "Portrait"},
-  {"q": "Quel peintre normand, installé à Rome, a peint « Les Bergers d'Arcadie » ?", "r": "Nicolas Poussin", "d": 3, "t": "Classicisme"},
-  {"q": "Comment appelle-t-on les estampes japonaises dont le nom signifie « images du monde flottant » ?", "r": "Ukiyo-e", "d": 3, "t": "Estampes"},
-  {"q": "Quel peintre russe du suprématisme a peint « Carré blanc sur fond blanc » en 1918 ?", "r": "Kasimir Malevitch", "d": 3, "t": "Art abstrait"},
-  {"q": "Quel peintre italien, père de la peinture métaphysique, a peint des places désertes aux arcades inquiétantes ?", "r": "Giorgio De Chirico", "d": 3, "t": "Art moderne"},
-  {"q": "Quel groupe de peintres, dont Bonnard, Vuillard et Sérusier, tirait son nom d'un mot hébreu signifiant « prophètes » ?", "r": "Les nabis", "d": 3, "t": "Mouvements artistiques"}
+ {
+  "q": "Qui a peint « La Joconde » ?",
+  "r": "Léonard de Vinci",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre néerlandais s'est tranché une partie de l'oreille à Arles en décembre 1888 ?",
+  "r": "Vincent van Gogh",
+  "d": 1,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre a réalisé « Guernica » en 1937, en réaction au bombardement d'une ville basque ?",
+  "r": "Pablo Picasso",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre surréaliste espagnol a représenté des montres molles dans « La Persistance de la mémoire » ?",
+  "r": "Salvador Dalí",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel artiste de la Renaissance a peint le plafond de la chapelle Sixtine ?",
+  "r": "Michel-Ange",
+  "d": 1,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre norvégien est l'auteur du « Cri » ?",
+  "r": "Edvard Munch",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel tableau de Claude Monet, peint au Havre, a donné son nom au mouvement impressionniste ?",
+  "r": "Impression, soleil levant",
+  "d": 1,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre de Delft a peint « La Jeune Fille à la perle » ?",
+  "r": "Johannes Vermeer",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre a consacré la fin de sa vie à peindre les « Nymphéas » de son jardin de Giverny ?",
+  "r": "Claude Monet",
+  "d": 1,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre florentin a représenté une déesse debout sur une coquille dans « La Naissance de Vénus » ?",
+  "r": "Sandro Botticelli",
+  "d": 1,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre impressionniste est célèbre pour ses nombreuses danseuses de l'Opéra peintes au pastel ?",
+  "r": "Edgar Degas",
+  "d": 1,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre romantique a peint « La Liberté guidant le peuple » en hommage aux Trois Glorieuses de 1830 ?",
+  "r": "Eugène Delacroix",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel artiste du pop art américain a reproduit en série des boîtes de soupe Campbell ?",
+  "r": "Andy Warhol",
+  "d": 1,
+  "t": "Pop art"
+ },
+ {
+  "q": "Quel peintre de petite taille, habitué de Montmartre, a signé de nombreuses affiches pour le Moulin-Rouge ?",
+  "r": "Henri de Toulouse-Lautrec",
+  "d": 1,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre a fait scandale au Salon des refusés de 1863 avec « Le Déjeuner sur l'herbe » ?",
+  "r": "Édouard Manet",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre aixois a représenté inlassablement la montagne Sainte-Victoire ?",
+  "r": "Paul Cézanne",
+  "d": 1,
+  "t": "Post-impressionnisme"
+ },
+ {
+  "q": "Sur quelle île de Polynésie Paul Gauguin s'est-il installé à partir de 1891 ?",
+  "r": "Tahiti",
+  "d": 1,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre belge a écrit « Ceci n'est pas une pipe » sous l'image d'une pipe ?",
+  "r": "René Magritte",
+  "d": 1,
+  "t": "Surréalisme"
+ },
+ {
+  "q": "Quel maître hollandais du XVIIe siècle a peint « La Ronde de nuit » ?",
+  "r": "Rembrandt",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre viennois a peint « Le Baiser », couvert de feuilles d'or ?",
+  "r": "Gustav Klimt",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quelle peintre mexicaine, épouse de Diego Rivera, est célèbre pour ses autoportraits ?",
+  "r": "Frida Kahlo",
+  "d": 1,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre néerlandais a composé des tableaux de lignes noires et de rectangles rouges, jaunes et bleus ?",
+  "r": "Piet Mondrian",
+  "d": 1,
+  "t": "Art abstrait"
+ },
+ {
+  "q": "Quel peintre naïf français était surnommé « le Douanier » ?",
+  "r": "Henri Rousseau",
+  "d": 1,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre américain projetait la peinture sur la toile posée au sol, technique appelée « dripping » ?",
+  "r": "Jackson Pollock",
+  "d": 1,
+  "t": "Art abstrait"
+ },
+ {
+  "q": "Quel peintre officiel de Napoléon a représenté son sacre à Notre-Dame dans une toile immense ?",
+  "r": "Jacques-Louis David",
+  "d": 1,
+  "t": "Néoclassicisme"
+ },
+ {
+  "q": "Quel artiste japonais a réalisé l'estampe « La Grande Vague de Kanagawa » ?",
+  "r": "Hokusai",
+  "d": 1,
+  "t": "Estampes"
+ },
+ {
+  "q": "Quel artiste de rue britannique anonyme a vu sa « Fille au ballon » s'autodétruire aux enchères en 2018 ?",
+  "r": "Banksy",
+  "d": 1,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Quel mouvement artistique André Breton a-t-il lancé par un manifeste en 1924 ?",
+  "r": "Le surréalisme",
+  "d": 1,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Comment appelle-t-on la technique de peinture murale réalisée sur un enduit encore frais ?",
+  "r": "La fresque",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "q": "Comment appelle-t-on une œuvre peinte composée de trois panneaux ?",
+  "r": "Un triptyque",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "q": "Comment appelle-t-on un tableau représentant des objets inanimés comme des fruits, des fleurs ou de la vaisselle ?",
+  "r": "Une nature morte",
+  "d": 1,
+  "t": "Genres picturaux"
+ },
+ {
+  "q": "Quel peintre impressionniste a représenté une guinguette de Montmartre dans « Bal du moulin de la Galette » ?",
+  "r": "Auguste Renoir",
+  "d": 1,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre a représenté les naufragés d'une frégate dans « Le Radeau de la Méduse » ?",
+  "r": "Théodore Géricault",
+  "d": 1,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Avec quel peintre français Pablo Picasso a-t-il inventé le cubisme ?",
+  "r": "Georges Braque",
+  "d": 1,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Comment s'appelle la plaque sur laquelle le peintre dispose et mélange ses couleurs ?",
+  "r": "La palette",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "q": "Comment s'appelle le support à trois pieds sur lequel le peintre pose sa toile ?",
+  "r": "Le chevalet",
+  "d": 1,
+  "t": "Techniques"
+ },
+ {
+  "q": "Quel artiste a peint « La Cène » sur un mur du couvent Santa Maria delle Grazie à Milan ?",
+  "r": "Léonard de Vinci",
+  "d": 1,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre russe, auteur de « Du spirituel dans l'art », est considéré comme un pionnier de l'abstraction ?",
+  "r": "Vassily Kandinsky",
+  "d": 2,
+  "t": "Art abstrait"
+ },
+ {
+  "q": "Quel peintre de la Renaissance a représenté Platon et Aristote au centre de « L'École d'Athènes » ?",
+  "r": "Raphaël",
+  "d": 2,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre réaliste a peint en 1866 le très provocant « L'Origine du monde » ?",
+  "r": "Gustave Courbet",
+  "d": 2,
+  "t": "Réalisme"
+ },
+ {
+  "q": "Quel peintre a créé à la fin de sa vie des gouaches découpées comme « La Tristesse du roi » ?",
+  "r": "Henri Matisse",
+  "d": 2,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre anglais a représenté un train dans la brume dans « Pluie, vapeur et vitesse » ?",
+  "r": "William Turner",
+  "d": 2,
+  "t": "Romantisme"
+ },
+ {
+  "q": "Quel peintre flamand a signé en 1434 « Les Époux Arnolfini », avec son célèbre miroir convexe ?",
+  "r": "Jan van Eyck",
+  "d": 2,
+  "t": "Primitifs flamands"
+ },
+ {
+  "q": "Quel peintre néerlandais a imaginé les créatures fantastiques du « Jardin des délices » ?",
+  "r": "Jérôme Bosch",
+  "d": 2,
+  "t": "Primitifs flamands"
+ },
+ {
+  "q": "Quel peintre flamand a peint « Chasseurs dans la neige » en 1565 ?",
+  "r": "Pieter Bruegel l'Ancien",
+  "d": 2,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre espagnol a représenté l'exécution de civils madrilènes par les troupes françaises dans « Tres de mayo » ?",
+  "r": "Francisco de Goya",
+  "d": 2,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre néoclassique a doté « La Grande Odalisque » de quelques vertèbres de trop ?",
+  "r": "Jean-Auguste-Dominique Ingres",
+  "d": 2,
+  "t": "Néoclassicisme"
+ },
+ {
+  "q": "Quel peintre pointilliste a peint « Un dimanche après-midi à l'île de la Grande Jatte » ?",
+  "r": "Georges Seurat",
+  "d": 2,
+  "t": "Post-impressionnisme"
+ },
+ {
+  "q": "Quel peintre italien, célèbre pour ses portraits aux cous allongés, est mort à Paris en 1920 ?",
+  "r": "Amedeo Modigliani",
+  "d": 2,
+  "t": "École de Paris"
+ },
+ {
+  "q": "Quel peintre né à Vitebsk a réalisé en 1964 le nouveau plafond de l'Opéra Garnier ?",
+  "r": "Marc Chagall",
+  "d": 2,
+  "t": "École de Paris"
+ },
+ {
+  "q": "Quel artiste niçois a déposé en 1960 la formule d'un bleu outremer intense appelé IKB ?",
+  "r": "Yves Klein",
+  "d": 2,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Quel peintre américain a représenté des clients nocturnes d'un bar dans « Nighthawks » (1942) ?",
+  "r": "Edward Hopper",
+  "d": 2,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel peintre italien, maître du clair-obscur, a peint « La Vocation de saint Matthieu » ?",
+  "r": "Le Caravage",
+  "d": 2,
+  "t": "Baroque"
+ },
+ {
+  "q": "Quel artiste de Nuremberg a gravé « Melencolia I » et peint un autoportrait christique en 1500 ?",
+  "r": "Albrecht Dürer",
+  "d": 2,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre flamand a réalisé pour le palais du Luxembourg un cycle de 24 toiles sur la vie de Marie de Médicis ?",
+  "r": "Pierre Paul Rubens",
+  "d": 2,
+  "t": "Baroque"
+ },
+ {
+  "q": "Quel peintre vénitien du XVIIIe siècle est célèbre pour ses « vedute » du Grand Canal ?",
+  "r": "Canaletto",
+  "d": 2,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel artiste a présenté en 1917 un urinoir renversé intitulé « Fontaine » ?",
+  "r": "Marcel Duchamp",
+  "d": 2,
+  "t": "Art moderne"
+ },
+ {
+  "q": "Quel peintre né à Barcelone en 1893 a peint « Le Carnaval d'Arlequin » ?",
+  "r": "Joan Miró",
+  "d": 2,
+  "t": "Surréalisme"
+ },
+ {
+  "q": "Quel mouvement artistique est né en 1916 au Cabaret Voltaire de Zurich ?",
+  "r": "Dada",
+  "d": 2,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Quel mouvement pictural, mené par Matisse et Derain, a choqué le Salon d'automne de 1905 par ses couleurs pures ?",
+  "r": "Le fauvisme",
+  "d": 2,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Comment appelle-t-on une nature morte comportant un crâne, rappelant la brièveté de la vie ?",
+  "r": "Une vanité",
+  "d": 2,
+  "t": "Genres picturaux"
+ },
+ {
+  "q": "Quel artiste du pop art imitait les cases de comics en reproduisant les points de trame Ben-Day ?",
+  "r": "Roy Lichtenstein",
+  "d": 2,
+  "t": "Pop art"
+ },
+ {
+  "q": "À quel mouvement pictural anglais du XIXe siècle appartenaient Dante Gabriel Rossetti et John Everett Millais ?",
+  "r": "Le préraphaélisme",
+  "d": 2,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Comment appelle-t-on la peinture dont les pigments sont liés au jaune d'œuf, très utilisée avant la peinture à l'huile ?",
+  "r": "La tempera",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "q": "Quel terme italien désigne le modelé vaporeux aux contours estompés cher à Léonard de Vinci ?",
+  "r": "Le sfumato",
+  "d": 2,
+  "t": "Techniques"
+ },
+ {
+  "q": "Quelle couleur domine les toiles peintes par Picasso de 1901 à 1904, après le suicide de son ami Casagemas ?",
+  "r": "Le bleu",
+  "d": 2,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre britannique, homonyme d'un philosophe anglais du XVIIe siècle, a peint des papes hurlants ?",
+  "r": "Francis Bacon",
+  "d": 2,
+  "t": "Art moderne"
+ },
+ {
+  "q": "Quel peintre aveyronnais est célèbre pour ses toiles monochromes noires qu'il appelait « outrenoir » ?",
+  "r": "Pierre Soulages",
+  "d": 2,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Quelle femme peintre fut la portraitiste attitrée de la reine Marie-Antoinette ?",
+  "r": "Élisabeth Vigée Le Brun",
+  "d": 2,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre américain a représenté un fermier à la fourche et sa fille dans « American Gothic » (1930) ?",
+  "r": "Grant Wood",
+  "d": 2,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quelle peintre américaine est célèbre pour ses fleurs géantes et ses paysages du Nouveau-Mexique ?",
+  "r": "Georgia O'Keeffe",
+  "d": 2,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel artiste new-yorkais, ami d'Andy Warhol, signait ses premiers graffitis « SAMO » ?",
+  "r": "Jean-Michel Basquiat",
+  "d": 2,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Quel tableau de Manet, présenté en 1865, montre une courtisane nue qui fixe le spectateur ?",
+  "r": "Olympia",
+  "d": 2,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quel mouvement artistique italien, lancé par Marinetti en 1909, exaltait la vitesse et la machine ?",
+  "r": "Le futurisme",
+  "d": 2,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Quel peintre d'origine crétoise a peint « L'Enterrement du comte d'Orgaz » à Tolède ?",
+  "r": "Le Greco",
+  "d": 2,
+  "t": "Peintres"
+ },
+ {
+  "q": "Quel peintre de la cour d'Espagne s'est représenté à son chevalet dans « Les Ménines » ?",
+  "r": "Diego Velázquez",
+  "d": 2,
+  "t": "Tableaux célèbres"
+ },
+ {
+  "q": "Quelle peintre impressionniste, belle-sœur d'Édouard Manet, a peint « Le Berceau » en 1872 ?",
+  "r": "Berthe Morisot",
+  "d": 3,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre lorrain du XVIIe siècle est célèbre pour ses scènes éclairées à la bougie, comme « La Madeleine à la veilleuse » ?",
+  "r": "Georges de La Tour",
+  "d": 3,
+  "t": "Baroque"
+ },
+ {
+  "q": "Quel peintre vénitien est l'auteur de l'énigmatique « La Tempête », vers 1508 ?",
+  "r": "Giorgione",
+  "d": 3,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre a glissé un crâne en anamorphose au premier plan des « Ambassadeurs » en 1533 ?",
+  "r": "Hans Holbein le Jeune",
+  "d": 3,
+  "t": "Renaissance"
+ },
+ {
+  "q": "Quel peintre romantique allemand a peint « Le Voyageur contemplant une mer de nuages » ?",
+  "r": "Caspar David Friedrich",
+  "d": 3,
+  "t": "Romantisme"
+ },
+ {
+  "q": "Quel peintre suisse a peint plusieurs versions de « L'Île des morts » ?",
+  "r": "Arnold Böcklin",
+  "d": 3,
+  "t": "Symbolisme"
+ },
+ {
+  "q": "Quel peintre a été reçu à l'Académie en 1717 avec « Pèlerinage à l'île de Cythère », inventant la fête galante ?",
+  "r": "Antoine Watteau",
+  "d": 3,
+  "t": "Rococo"
+ },
+ {
+  "q": "Quel peintre français a peint « Les Hasards heureux de l'escarpolette » ?",
+  "r": "Jean-Honoré Fragonard",
+  "d": 3,
+  "t": "Rococo"
+ },
+ {
+  "q": "Quel peintre cubiste français a célébré les ouvriers dans « Les Constructeurs » en 1950 ?",
+  "r": "Fernand Léger",
+  "d": 3,
+  "t": "Cubisme"
+ },
+ {
+  "q": "Quel peintre de paysages est associé à Ville-d'Avray et au « Souvenir de Mortefontaine » ?",
+  "r": "Camille Corot",
+  "d": 3,
+  "t": "Paysage"
+ },
+ {
+  "q": "Quel peintre impressionniste, né à Paris de parents anglais, a peint « L'Inondation à Port-Marly » ?",
+  "r": "Alfred Sisley",
+  "d": 3,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre a représenté des ouvriers torse nu décapant un plancher dans « Les Raboteurs de parquet » ?",
+  "r": "Gustave Caillebotte",
+  "d": 3,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre impressionniste, né aux Antilles danoises, a peint de nombreuses vues de Pontoise ?",
+  "r": "Camille Pissarro",
+  "d": 3,
+  "t": "Impressionnisme"
+ },
+ {
+  "q": "Quel peintre anglais du XVIIIe siècle est l'auteur du portrait « The Blue Boy » ?",
+  "r": "Thomas Gainsborough",
+  "d": 3,
+  "t": "Portrait"
+ },
+ {
+  "q": "Quel peintre normand, installé à Rome, a peint « Les Bergers d'Arcadie » ?",
+  "r": "Nicolas Poussin",
+  "d": 3,
+  "t": "Classicisme"
+ },
+ {
+  "q": "Comment appelle-t-on les estampes japonaises dont le nom signifie « images du monde flottant » ?",
+  "r": "Ukiyo-e",
+  "d": 3,
+  "t": "Estampes"
+ },
+ {
+  "q": "Quel peintre russe du suprématisme a peint « Carré blanc sur fond blanc » en 1918 ?",
+  "r": "Kasimir Malevitch",
+  "d": 3,
+  "t": "Art abstrait"
+ },
+ {
+  "q": "Quel peintre italien, père de la peinture métaphysique, a peint des places désertes aux arcades inquiétantes ?",
+  "r": "Giorgio De Chirico",
+  "d": 3,
+  "t": "Art moderne"
+ },
+ {
+  "q": "Quel groupe de peintres, dont Bonnard, Vuillard et Sérusier, tirait son nom d'un mot hébreu signifiant « prophètes » ?",
+  "r": "Les nabis",
+  "d": 3,
+  "t": "Mouvements artistiques"
+ }
 ]
