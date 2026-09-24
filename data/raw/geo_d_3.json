@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle ville des Vosges a donné son nom à des images populaires aux couleurs vives ?",
+  "r": "Épinal",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville du Limousin est mondialement réputée pour sa porcelaine ?",
+  "r": "Limoges",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village de l'Aubrac a donné son nom à un couteau pliant orné d'une abeille ?",
+  "r": "Laguiole",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quelle ville de Charente se tient chaque hiver le Festival international de la bande dessinée ?",
+  "r": "Angoulême",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville du Morbihan accueille chaque été le Festival interceltique ?",
+  "r": "Lorient",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville de l'Isère a accueilli les Jeux olympiques d'hiver de 1968 ?",
+  "r": "Grenoble",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quelle ville du Puy-de-Dôme se trouve le siège historique de Michelin ?",
+  "r": "Clermont-Ferrand",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville de Haute-Savoie, au bord du Léman, a donné son nom à une eau minérale et aux accords de 1962 ?",
+  "r": "Évian-les-Bains",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village du Lot, accroché à une falaise, est un grand lieu de pèlerinage à la Vierge noire ?",
+  "r": "Rocamadour",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel port du Calvados, sur l'estuaire de la Seine, est la ville natale d'Eugène Boudin et d'Erik Satie ?",
+  "r": "Honfleur",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village du Finistère a donné son nom à une école de peintres réunis autour de Paul Gauguin ?",
+  "r": "Pont-Aven",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quelle ville du Maine-et-Loire est installé le Cadre noir, fleuron de l'équitation française ?",
+  "r": "Saumur",
+  "d": 1,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quelle commune du Val-d'Oise Vincent van Gogh est-il mort en 1890 ?",
+  "r": "Auvers-sur-Oise",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Dans quel village de Haute-Marne le général de Gaulle est-il enterré ?",
+  "r": "Colombey-les-Deux-Églises",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Dans quel village des Vosges Jeanne d'Arc est-elle née ?",
+  "r": "Domrémy",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Quelle ville de Saône-et-Loire abritait au Moyen Âge la plus grande abbaye de la chrétienté ?",
+  "r": "Cluny",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Quel village de Haute-Vienne, où une division SS massacra la population le 10 juin 1944, a été conservé en ruines ?",
+  "r": "Oradour-sur-Glane",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Au clocher de quelle église de la Manche un parachutiste américain resta-t-il accroché dans la nuit du 5 au 6 juin 1944 ?",
+  "r": "Sainte-Mère-Église",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Quel site gaulois de Côte-d'Or vit la reddition de Vercingétorix face à César en 52 av. J.-C. ?",
+  "r": "Alésia",
+  "d": 1,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Quel fromage AOP à pâte pressée cuite est fabriqué en grandes meules dans le massif du Jura ?",
+  "r": "Le comté",
+  "d": 1,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage savoyard est l'ingrédient principal de la tartiflette ?",
+  "r": "Le reblochon",
+  "d": 1,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage à croûte lavée porte le nom d'une petite ville du Haut-Rhin ?",
+  "r": "Le munster",
+  "d": 1,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage à croûte orangée du Nord porte le nom d'un village de la Thiérache ?",
+  "r": "Le maroilles",
+  "d": 1,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quelle petite légumineuse verte AOP est cultivée en Haute-Loire ?",
+  "r": "La lentille verte du Puy",
+  "d": 1,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quel piment AOP sèche en guirlandes sur les façades d'un village du Pays basque ?",
+  "r": "Le piment d'Espelette",
+  "d": 1,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quelle ville du Lot-et-Garonne est célèbre pour ses pruneaux ?",
+  "r": "Agen",
+  "d": 1,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quelle ville du Vaucluse est réputée pour ses melons ?",
+  "r": "Cavaillon",
+  "d": 1,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "De quelle région viennent les volailles AOP à pattes bleues, crête rouge et plumage blanc ?",
+  "r": "La Bresse",
+  "d": 1,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quelle eau-de-vie de cidre est notamment produite dans le Pays d'Auge ?",
+  "r": "Le calvados",
+  "d": 1,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Quelle eau-de-vie de vin, produite en Gascogne, revendique d'être la plus ancienne de France ?",
+  "r": "L'armagnac",
+  "d": 1,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Quel apéritif des Charentes associe du moût de raisin et du cognac ?",
+  "r": "Le pineau des Charentes",
+  "d": 1,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Quel vin primeur est mis en vente le troisième jeudi de novembre ?",
+  "r": "Le beaujolais nouveau",
+  "d": 1,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Quel petit gâteau bordelais, parfumé au rhum et à la vanille, doit son nom à son moule strié ?",
+  "r": "Le canelé",
+  "d": 1,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "De quelle ville proviennent les calissons, confiseries en losange à la pâte d'amande et au melon confit ?",
+  "r": "Aix-en-Provence",
+  "d": 1,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "Quel gâteau breton très beurré, dont le nom signifie « gâteau au beurre », est né à Douarnenez ?",
+  "r": "Le kouign-amann",
+  "d": 1,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "Quelle pâtisserie à la crème porte le nom d'une célèbre station balnéaire varoise ?",
+  "r": "La tarte tropézienne",
+  "d": 1,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "À la mode de quelle ville normande prépare-t-on de célèbres tripes ?",
+  "r": "Caen",
+  "d": 1,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "Comment appelle-t-on la haute coiffe de dentelle portée dans le pays de Pont-l'Abbé ?",
+  "r": "La coiffe bigoudène",
+  "d": 1,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Comment appelle-t-on la fête de danse traditionnelle bretonne inscrite à l'UNESCO en 2012 ?",
+  "r": "Le fest-noz",
+  "d": 1,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Comment appelle-t-on les petites figurines d'argile qui peuplent les crèches provençales ?",
+  "r": "Les santons",
+  "d": 1,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Dans quelle ville du Nord le maire lance-t-il des harengs du balcon de l'hôtel de ville pendant le carnaval ?",
+  "r": "Dunkerque",
+  "d": 1,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Quelle ville des Alpes-Maritimes organise chaque février une fête du Citron ?",
+  "r": "Menton",
+  "d": 1,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Quelle ville du Puy-de-Dôme est la capitale française de la coutellerie ?",
+  "r": "Thiers",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville de la Creuse est célèbre pour ses tapisseries, inscrites au patrimoine immatériel de l'UNESCO ?",
+  "r": "Aubusson",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle commune de Meurthe-et-Moselle a donné son nom à une prestigieuse cristallerie fondée en 1764 ?",
+  "r": "Baccarat",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville des Hauts-de-Seine accueille depuis 1756 une manufacture royale de porcelaine ?",
+  "r": "Sèvres",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville du Maine-et-Loire a donné son nom à un mouchoir rouge chanté par Théodore Botrel ?",
+  "r": "Cholet",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville est dominée par un lion monumental en grès rose sculpté par Bartholdi ?",
+  "r": "Belfort",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quelle ville de l'Ardèche les frères Montgolfier firent-ils voler en public leur premier ballon en 1783 ?",
+  "r": "Annonay",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle ville de Saône-et-Loire fut le berceau de l'empire industriel des Schneider ?",
+  "r": "Le Creusot",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village de l'Aveyron, étape du chemin de Compostelle, conserve le trésor et la statue-reliquaire de sainte Foy ?",
+  "r": "Conques",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle bastide du Tarn, perchée sur un piton, fut fondée en 1222 par le comte de Toulouse Raymond VII ?",
+  "r": "Cordes-sur-Ciel",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village alsacien fortifié est surnommé « la perle du vignoble alsacien » ?",
+  "r": "Riquewihr",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village de Seine-et-Marne, à l'orée de la forêt de Fontainebleau, a donné son nom à une école de peintres paysagistes ?",
+  "r": "Barbizon",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quel port catalan Matisse et Derain ont-ils posé les bases du fauvisme durant l'été 1905 ?",
+  "r": "Collioure",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel port de l'Hérault est la ville natale de Paul Valéry et de Georges Brassens ?",
+  "r": "Sète",
+  "d": 2,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Dans quelle abbaye du Maine-et-Loire reposent Aliénor d'Aquitaine et Henri II Plantagenêt ?",
+  "r": "Fontevraud",
+  "d": 2,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Dans quelle ville des Alpilles Van Gogh fut-il soigné à l'asile Saint-Paul-de-Mausole en 1889-1890 ?",
+  "r": "Saint-Rémy-de-Provence",
+  "d": 2,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Quel fromage savoyard, surnommé le « prince des gruyères », se reconnaît à son talon concave ?",
+  "r": "Le beaufort",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage du Jura est traversé en son milieu par une fine raie noire de charbon végétal ?",
+  "r": "Le morbier",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage du Haut-Doubs, cerclé d'une sangle d'épicéa, se déguste souvent chaud à la cuillère ?",
+  "r": "Le mont-d'or",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage bourguignon à croûte orangée est lavé au marc de Bourgogne ?",
+  "r": "L'époisses",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage normand est surnommé « le colonel » à cause des cinq lanières qui l'entourent ?",
+  "r": "Le livarot",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage de chèvre porte le nom d'un hameau de Sancerre, dans le Cher ?",
+  "r": "Le crottin de Chavignol",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage frais, emblème de la Corse, entre dans la recette du gâteau appelé fiadone ?",
+  "r": "Le brocciu",
+  "d": 2,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel oignon rosé AOP était vendu en Grande-Bretagne par des marchands bretons surnommés les « Johnnies » ?",
+  "r": "L'oignon de Roscoff",
+  "d": 2,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quelle liqueur fut lancée en 1863 à Fécamp d'après une recette attribuée à un moine ?",
+  "r": "La Bénédictine",
+  "d": 2,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Quel vin du Jura, vieilli plus de six ans sous un voile de levures, est vendu en « clavelin » ?",
+  "r": "Le vin jaune",
+  "d": 2,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Quelle tarte aux pommes caramélisées, cuite à l'envers, est née dans un hôtel de Lamotte-Beuvron ?",
+  "r": "La tarte Tatin",
+  "d": 2,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "Dans quelle ville des Bouches-du-Rhône la pétanque serait-elle née en 1907 ?",
+  "r": "La Ciotat",
+  "d": 2,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Quel attribut les raseteurs cherchent-ils à arracher entre les cornes du taureau lors d'une course camarguaise ?",
+  "r": "La cocarde",
+  "d": 2,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Sur quelle île de la Bidassoa fut signé le traité des Pyrénées en 1659 ?",
+  "r": "L'île des Faisans",
+  "d": 3,
+  "t": "Lieux d'histoire"
+ },
+ {
+  "q": "Dans quelle localité des Pyrénées-Orientales se dresse le grand four solaire inauguré en 1970 ?",
+  "r": "Odeillo (Font-Romeu)",
+  "d": 3,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quelle cité médiévale de l'Ain, décor de nombreux films de cape et d'épée, a donné son nom à une galette sucrée ?",
+  "r": "Pérouges",
+  "d": 3,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel village du Finistère, aux maisons de granit, s'est enrichi grâce au commerce des toiles à voile ?",
+  "r": "Locronan",
+  "d": 3,
+  "t": "Villes et savoir-faire"
+ },
+ {
+  "q": "Quel fromage de chèvre de l'Indre a la forme d'une pyramide tronquée ?",
+  "r": "Le valençay",
+  "d": 3,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel fromage de chèvre provençal est vendu enveloppé de feuilles de châtaignier ?",
+  "r": "Le banon",
+  "d": 3,
+  "t": "Fromages"
+ },
+ {
+  "q": "Quel haricot AOP est récolté en demi-sec autour d'un port des Côtes-d'Armor ?",
+  "r": "Le coco de Paimpol",
+  "d": 3,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quelle ville de la Drôme provençale a donné son nom à des olives noires AOP ?",
+  "r": "Nyons",
+  "d": 3,
+  "t": "Produits du terroir"
+ },
+ {
+  "q": "Quelle ville de l'Aude revendique, avec sa blanquette, le plus ancien vin effervescent du monde ?",
+  "r": "Limoux",
+  "d": 3,
+  "t": "Boissons régionales"
+ },
+ {
+  "q": "Dans quel village de Côte-d'Or fabrique-t-on depuis des siècles de petits bonbons à l'anis ?",
+  "r": "Flavigny-sur-Ozerain",
+  "d": 3,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "Quelle andouille du Morbihan se reconnaît, une fois tranchée, à ses cercles concentriques ?",
+  "r": "L'andouille de Guémené",
+  "d": 3,
+  "t": "Douceurs et plats régionaux"
+ },
+ {
+  "q": "Comment appelle-t-on les cabanes de pierre des monts d'Auvergne où l'on fabriquait autrefois le fromage l'été ?",
+  "r": "Les burons",
+  "d": 3,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Quel géant de procession, accompagné de sa famille, est l'emblème de la ville de Douai ?",
+  "r": "Gayant",
+  "d": 3,
+  "t": "Traditions régionales"
+ },
+ {
+  "q": "Comment appelle-t-on les cabanes sur pilotis qui se dressent près de l'île aux Oiseaux, dans le bassin d'Arcachon ?",
+  "r": "Les cabanes tchanquées",
+  "d": 3,
+  "t": "Traditions régionales"
+ }
+]

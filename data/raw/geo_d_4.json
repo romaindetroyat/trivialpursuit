@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle île de Polynésie française fait face à Tahiti, à moins de vingt kilomètres ?",
+  "r": "Moorea",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle île des Antilles françaises a la forme d'un papillon ?",
+  "r": "La Guadeloupe",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel minerai fait de la Nouvelle-Calédonie l'un des grands producteurs mondiaux ?",
+  "r": "Le nickel",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville de Grande-Terre est le principal port et pôle économique de la Guadeloupe ?",
+  "r": "Pointe-à-Pitre",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel fruit est la principale culture d'exportation de la Martinique et de la Guadeloupe ?",
+  "r": "La banane",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle langue, née de la colonisation, est couramment parlée aux Antilles à côté du français ?",
+  "r": "Le créole",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle épice, tirée des gousses d'une orchidée, est une production réputée de La Réunion ?",
+  "r": "La vanille",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle fleur blanche parfumée, emblème de Tahiti, se porte souvent à l'oreille ?",
+  "r": "Le tiaré",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Sous quel nom La Réunion était-elle connue sous l'Ancien Régime ?",
+  "r": "L'île Bourbon",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle course transatlantique en solitaire relie Saint-Malo à la Guadeloupe ?",
+  "r": "La Route du Rhum",
+  "d": 1,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle région belge, majoritairement francophone, occupe le sud du pays ?",
+  "r": "La Wallonie",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Comment appelle-t-on la région néerlandophone du nord de la Belgique ?",
+  "r": "La Flandre",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle ville des Ardennes belges fut encerclée en décembre 1944 pendant la bataille des Ardennes ?",
+  "r": "Bastogne",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Comment les Belges appellent-ils l'endive ?",
+  "r": "Le chicon",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle gaufre belge, à pâte levée et parsemée de perles de sucre, porte le nom d'une ville wallonne ?",
+  "r": "La gaufre de Liège",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quel biscuit à la cannelle, spécialité belge, accompagne souvent le café ?",
+  "r": "Le spéculoos",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quel parc bruxellois présente en miniature les monuments les plus célèbres de l'Union européenne ?",
+  "r": "Mini-Europe",
+  "d": 1,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle ville suisse, traversée par la Reuss, s'étend au bord du lac des Quatre-Cantons ?",
+  "r": "Lucerne",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel plat valaisan consiste à racler du fromage fondu sur des pommes de terre ?",
+  "r": "La raclette",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle petite ville fribourgeoise, dominée par un château, a donné son nom à un célèbre fromage ?",
+  "r": "Gruyères",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle ville suisse sur le Rhin est frontalière à la fois de la France et de l'Allemagne ?",
+  "r": "Bâle",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel jour la Suisse célèbre-t-elle sa fête nationale ?",
+  "r": "Le 1er août",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel monument aquatique, haut d'environ 140 mètres, est l'emblème de la rade de Genève ?",
+  "r": "Le jet d'eau",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel long instrument en bois, joué par les bergers, est un symbole des Alpes suisses ?",
+  "r": "Le cor des Alpes",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel héros légendaire suisse aurait tiré une flèche dans une pomme posée sur la tête de son fils ?",
+  "r": "Guillaume Tell",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Comment appelle-t-on les Suisses de langue française ?",
+  "r": "Les Romands",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle est la langue la plus parlée en Suisse ?",
+  "r": "L'allemand (suisse allemand)",
+  "d": 1,
+  "t": "Suisse"
+ },
+ {
+  "q": "Outre le luxembourgeois et l'allemand, quelle langue est officielle au Luxembourg ?",
+  "r": "Le français",
+  "d": 1,
+  "t": "Luxembourg"
+ },
+ {
+  "q": "Quel célèbre établissement de jeux, agrandi par Charles Garnier, fait face à la mer à Monaco ?",
+  "r": "Le Casino de Monte-Carlo",
+  "d": 1,
+  "t": "Monaco"
+ },
+ {
+  "q": "Quel surnom, longtemps inscrit sur ses plaques d'immatriculation, désigne le Québec ?",
+  "r": "La Belle Province",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quel plat québécois associe frites, fromage en grains et sauce brune ?",
+  "r": "La poutine",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Comment appelle-t-on au Québec le lieu où l'on transforme la sève d'érable en sirop au printemps ?",
+  "r": "La cabane à sucre",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quel personnage de neige est la mascotte du Carnaval de Québec ?",
+  "r": "Bonhomme Carnaval",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quelle région de l'est du Canada, peuplée de francophones, vit sa population déportée par les Britanniques à partir de 1755 ?",
+  "r": "L'Acadie",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Montréal ?",
+  "r": "Les Montréalais",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Comment appelle-t-on les francophones de Louisiane dont les ancêtres furent chassés du Canada au XVIIIe siècle ?",
+  "r": "Les Cadiens (Cajuns)",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Sur quelle île du Saint-Laurent la ville de Montréal est-elle principalement bâtie ?",
+  "r": "L'île de Montréal",
+  "d": 1,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quel cirque de La Réunion, le plus humide et le plus verdoyant, a pour village principal Hell-Bourg ?",
+  "r": "Salazie",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "À quel archipel de Polynésie française appartiennent Tahiti, Moorea et Bora-Bora ?",
+  "r": "Les îles de la Société",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle monnaie a cours en Polynésie française, en Nouvelle-Calédonie et à Wallis-et-Futuna ?",
+  "r": "Le franc Pacifique (franc CFP)",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle île de Nouvelle-Calédonie, au sud de la Grande Terre, fut ainsi baptisée par James Cook à cause de ses araucarias ?",
+  "r": "L'île des Pins",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "À quel archipel de Nouvelle-Calédonie appartiennent Lifou, Maré et Ouvéa ?",
+  "r": "Les îles Loyauté",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "À quel pays la France céda-t-elle Saint-Barthélemy de 1784 à 1878 ?",
+  "r": "La Suède",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Comment appelle-t-on les habitants de Mayotte ?",
+  "r": "Les Mahorais",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Dans quel petit archipel guadeloupéen se trouve Terre-de-Haut et sa baie réputée ?",
+  "r": "Les Saintes",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Dans quelle commune de la Martinique est née la future impératrice Joséphine ?",
+  "r": "Les Trois-Îlets",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel rhum fut en 1996 le premier à obtenir une appellation d'origine contrôlée ?",
+  "r": "Le rhum agricole de Martinique",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel parc national, le plus vaste de France, couvre le sud de la Guyane ?",
+  "r": "Le parc amazonien de Guyane",
+  "d": 2,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville du Hainaut, sur la Sambre, fut le cœur industriel du « Pays noir » ?",
+  "r": "Charleroi",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle ville universitaire belge a été créée de toutes pièces au début des années 1970 ?",
+  "r": "Louvain-la-Neuve",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle station balnéaire belge est la ville natale du peintre James Ensor ?",
+  "r": "Ostende",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle petite localité des Ardennes belges, sur l'Ourthe, se proclame « la plus petite ville du monde » ?",
+  "r": "Durbuy",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle ville du Hainaut possède une cathédrale Notre-Dame aux cinq clochers ?",
+  "r": "Tournai",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelles grottes célèbres de la province de Namur ont été creusées par la Lesse ?",
+  "r": "Les grottes de Han",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quel fleuve côtier a donné son nom au front où l'armée belge tint de 1914 à 1918 ?",
+  "r": "L'Yser",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quelle abbaye trappiste de Gaume produit une bière à la bouteille en forme de quille ?",
+  "r": "Orval",
+  "d": 2,
+  "t": "Belgique"
+ },
+ {
+  "q": "Quel canton suisse a donné son nom et son drapeau au pays ?",
+  "r": "Schwyz",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle ville horlogère du Jura suisse est la ville natale de Le Corbusier ?",
+  "r": "La Chaux-de-Fonds",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel vignoble en terrasses dominant le Léman, entre Lausanne et Montreux, est inscrit à l'UNESCO depuis 2007 ?",
+  "r": "Lavaux",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle ville vaudoise abrite le siège de Nestlé et une statue de Charlie Chaplin ?",
+  "r": "Vevey",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel sommet de l'Oberland bernois est célèbre pour sa redoutable face nord ?",
+  "r": "L'Eiger",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Comment appelle-t-on avec humour la frontière culturelle entre Suisse alémanique et Suisse romande ?",
+  "r": "Le Röstigraben",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel train panoramique relie Zermatt à Saint-Moritz ?",
+  "r": "Le Glacier Express",
+  "d": 2,
+  "t": "Suisse"
+ },
+ {
+  "q": "Dans quelle ville luxembourgeoise se déroule une procession dansante inscrite à l'UNESCO ?",
+  "r": "Echternach",
+  "d": 2,
+  "t": "Luxembourg"
+ },
+ {
+  "q": "Quelle sainte, patronne de Monaco, est fêtée chaque 27 janvier ?",
+  "r": "Sainte Dévote",
+  "d": 2,
+  "t": "Monaco"
+ },
+ {
+  "q": "Quel village à l'embouchure du Saguenay est réputé pour l'observation des baleines ?",
+  "r": "Tadoussac",
+  "d": 2,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quelle grande île du golfe du Saint-Laurent fut achetée en 1895 par le chocolatier Henri Menier ?",
+  "r": "L'île d'Anticosti",
+  "d": 2,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quel sanctuaire montréalais, sur le mont Royal, est la plus grande église du Canada ?",
+  "r": "L'oratoire Saint-Joseph",
+  "d": 2,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quelle sphère géodésique de Montréal, ancien pavillon américain de l'Expo 67, est devenue un musée de l'environnement ?",
+  "r": "La Biosphère",
+  "d": 2,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quelle région autonome d'Italie, au pied du mont Blanc, a le français pour langue officielle avec l'italien ?",
+  "r": "La Vallée d'Aoste",
+  "d": 2,
+  "t": "Europe francophone"
+ },
+ {
+  "q": "Quelle commune de Guyane est la plus vaste commune de France ?",
+  "r": "Maripasoula",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle ville est le chef-lieu de Wallis-et-Futuna ?",
+  "r": "Mata-Utu",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Sur quelle île de l'océan Indien des esclaves malgaches furent-ils abandonnés pendant quinze ans après un naufrage en 1761 ?",
+  "r": "Tromelin",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel atoll des Tuamotu est le plus grand de Polynésie française ?",
+  "r": "Rangiroa",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Comment appelle-t-on les deux parties de Tahiti reliées par l'isthme de Taravao ?",
+  "r": "Tahiti Nui et Tahiti Iti",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quelle musique traditionnelle de La Réunion, héritée des esclaves, est inscrite à l'UNESCO depuis 2009 ?",
+  "r": "Le maloya",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Comment appelle-t-on en Nouvelle-Calédonie les descendants des colons européens ?",
+  "r": "Les Caldoches",
+  "d": 3,
+  "t": "Outre-mer"
+ },
+ {
+  "q": "Quel ascenseur à bateaux du canal du Centre, en Belgique, fut à son ouverture en 2002 le plus haut du monde ?",
+  "r": "L'ascenseur de Strépy-Thieu",
+  "d": 3,
+  "t": "Belgique"
+ },
+ {
+  "q": "Sur quelle prairie au bord du lac d'Uri le pacte fondateur de la Confédération aurait-il été juré en 1291 ?",
+  "r": "Le Grütli (Rütli)",
+  "d": 3,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quel fromage du Jura bernois se racle en fines rosettes à l'aide d'une girolle ?",
+  "r": "La tête de moine",
+  "d": 3,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle est la plus grande ville officiellement bilingue français-allemand de Suisse ?",
+  "r": "Bienne (Biel)",
+  "d": 3,
+  "t": "Suisse"
+ },
+ {
+  "q": "Quelle région de rochers et de forêts de l'est du Luxembourg est surnommée « la petite Suisse luxembourgeoise » ?",
+  "r": "Le Mullerthal",
+  "d": 3,
+  "t": "Luxembourg"
+ },
+ {
+  "q": "Dans quel château luxembourgeois est exposée la collection photographique « The Family of Man » ?",
+  "r": "Clervaux",
+  "d": 3,
+  "t": "Luxembourg"
+ },
+ {
+  "q": "Quel immense réservoir annulaire du Québec occupe un ancien cratère de météorite ?",
+  "r": "Le réservoir Manicouagan",
+  "d": 3,
+  "t": "Québec et Acadie"
+ },
+ {
+  "q": "Quelle île de Gaspésie, face au rocher Percé, abrite une immense colonie de fous de Bassan ?",
+  "r": "L'île Bonaventure",
+  "d": 3,
+  "t": "Québec et Acadie"
+ }
+]

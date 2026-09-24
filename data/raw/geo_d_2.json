@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelle rivière rejoint le Rhône à Lyon, à la pointe sud de la Presqu'île ?",
+  "r": "La Saône",
+  "d": 1,
+  "t": "Rivières"
+ },
+ {
+  "q": "Au-dessus de quelle rivière le château de Chenonceau déploie-t-il sa célèbre galerie ?",
+  "r": "Le Cher",
+  "d": 1,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière doit son nom, selon la tradition, à la réunion de deux torrents du Sancy, la Dore et la Dogne ?",
+  "r": "La Dordogne",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière alpine, que les Provençaux comptaient parmi les trois « fléaux » de leur pays, se jette dans le Rhône près d'Avignon ?",
+  "r": "La Durance",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière, qui a donné son nom à un département, enserre Cahors dans un méandre ?",
+  "r": "Le Lot",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière traverse la ville thermale de Vichy ?",
+  "r": "L'Allier",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière le pont du Gard enjambe-t-il ?",
+  "r": "Le Gardon",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Sur l'estuaire de quel fleuve côtier breton fonctionne depuis 1966 une usine marémotrice ?",
+  "r": "La Rance",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel fleuve traverse Dax puis Bayonne avant de se jeter dans l'Atlantique ?",
+  "r": "L'Adour",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel cours d'eau pyrénéen traverse Lourdes puis Pau ?",
+  "r": "Le gave de Pau",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel affluent de la Sarthe, homonyme masculin d'un grand fleuve, traverse Vendôme ?",
+  "r": "Le Loir",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel fleuve côtier au nom de deux lettres se jette dans la mer du Nord à Gravelines ?",
+  "r": "L'Aa",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel torrent né dans le massif du Mont-Blanc traverse Chamonix ?",
+  "r": "L'Arve",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière traverse Compiègne avant de rejoindre la Seine à Conflans-Sainte-Honorine ?",
+  "r": "L'Oise",
+  "d": 2,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel fleuve a donné son nom à un département qu'il ne traverse plus depuis 1860 ?",
+  "r": "Le Var",
+  "d": 3,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel torrent alpin rejoint l'Isère à Grenoble ?",
+  "r": "Le Drac",
+  "d": 3,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quelle rivière du Doubs, souvent peinte par Gustave Courbet, traverse Ornans ?",
+  "r": "La Loue",
+  "d": 3,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel fleuve côtier sépare Deauville de Trouville-sur-Mer ?",
+  "r": "La Touques",
+  "d": 3,
+  "t": "Rivières"
+ },
+ {
+  "q": "Quel lac de Haute-Savoie, alimenté notamment par une source sous-lacustre, est réputé l'un des plus purs d'Europe ?",
+  "r": "Le lac d'Annecy",
+  "d": 1,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel étang de l'Hérault, bordé par Sète et Bouzigues, est célèbre pour ses huîtres ?",
+  "r": "L'étang de Thau",
+  "d": 1,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel lac artificiel de Champagne, le plus étendu de France métropolitaine, accueille chaque automne des milliers de grues cendrées ?",
+  "r": "Le lac du Der-Chantecoq",
+  "d": 2,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel lac de cratère presque circulaire, en Auvergne, est entouré de légendes inquiétantes ?",
+  "r": "Le lac Pavin",
+  "d": 2,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel lac des Vosges a donné son nom à une station connue pour son festival du film fantastique ?",
+  "r": "Le lac de Gérardmer",
+  "d": 2,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel grand étang des Bouches-du-Rhône borde Martigues et l'aéroport de Marignane ?",
+  "r": "L'étang de Berre",
+  "d": 3,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel lac de Loire-Atlantique, au sud-ouest de Nantes, est le plus grand lac naturel de plaine de France en hiver ?",
+  "r": "Le lac de Grand-Lieu",
+  "d": 3,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quel lac artificiel du Limousin abrite sur son île un centre d'art contemporain ?",
+  "r": "Le lac de Vassivière",
+  "d": 3,
+  "t": "Lacs et étangs"
+ },
+ {
+  "q": "Quelle montée des Alpes, arrivée mythique du Tour de France, compte 21 virages numérotés ?",
+  "r": "L'Alpe d'Huez",
+  "d": 1,
+  "t": "Cols"
+ },
+ {
+  "q": "Dans quel passage des Pyrénées l'arrière-garde de Charlemagne, commandée par Roland, fut-elle anéantie en 778 ?",
+  "r": "Roncevaux",
+  "d": 1,
+  "t": "Cols"
+ },
+ {
+  "q": "Quel col alpin, qui culmine à 2 642 m, relie la Maurienne au col du Lautaret ?",
+  "r": "Le col du Galibier",
+  "d": 2,
+  "t": "Cols"
+ },
+ {
+  "q": "Quel col des Pyrénées-Atlantiques, souvent franchi avec celui du Soulor, est un classique du Tour de France ?",
+  "r": "Le col d'Aubisque",
+  "d": 2,
+  "t": "Cols"
+ },
+ {
+  "q": "Quel col de Savoie, à 2 764 m, relie la vallée de la Tarentaise à celle de la Maurienne ?",
+  "r": "Le col de l'Iseran",
+  "d": 3,
+  "t": "Cols"
+ },
+ {
+  "q": "Quel col des Hautes-Alpes est célèbre pour la « Casse déserte », un paysage minéral traversé par le Tour de France ?",
+  "r": "Le col d'Izoard",
+  "d": 3,
+  "t": "Cols"
+ },
+ {
+  "q": "Quel col des Alpes-Maritimes est une spéciale mythique du rallye Monte-Carlo, surtout de nuit ?",
+  "r": "Le col de Turini",
+  "d": 3,
+  "t": "Cols"
+ },
+ {
+  "q": "Quel massif préalpin, où un maquis fut écrasé par les Allemands en juillet 1944, se dresse entre Grenoble et Valence ?",
+  "r": "Le Vercors",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quelles montagnes Robert Louis Stevenson a-t-il traversées en 1878 en compagnie d'une ânesse ?",
+  "r": "Les Cévennes",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel massif du Vaucluse, aux villages perchés comme Bonnieux ou Lacoste, a donné son nom à un parc naturel régional ?",
+  "r": "Le Luberon",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quelle petite chaîne calcaire des Bouches-du-Rhône abrite le village des Baux-de-Provence ?",
+  "r": "Les Alpilles",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel plateau des Alpes-de-Haute-Provence est célèbre pour ses immenses champs de lavande ?",
+  "r": "Le plateau de Valensole",
+  "d": 1,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel vent violent du nord-ouest souffle sur le Roussillon et le Languedoc ?",
+  "r": "La tramontane",
+  "d": 1,
+  "t": "Vents"
+ },
+ {
+  "q": "Quel parc national des Alpes-Maritimes abrite la vallée des Merveilles et ses gravures rupestres ?",
+  "r": "Le Mercantour",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel massif côtier, aux roches rouges d'origine volcanique, domine la mer entre Saint-Raphaël et Cannes ?",
+  "r": "L'Esterel",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Dans quel massif provençal sainte Marie-Madeleine se serait-elle retirée dans une grotte ?",
+  "r": "La Sainte-Baume",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel massif de Bourgogne, cœur d'un parc naturel régional, est surnommé le « château d'eau de Paris » ?",
+  "r": "Le Morvan",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quelle montagne des Pyrénées-Orientales, symbole de la Catalogne, voit des feux s'allumer à son sommet pour la Saint-Jean ?",
+  "r": "Le Canigou",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel sommet des Cévennes, entre Gard et Lozère, porte un observatoire météorologique ?",
+  "r": "Le mont Aigoual",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel plateau d'altitude, partagé entre l'Aveyron, le Cantal et la Lozère, est célèbre pour ses vaches aux yeux « maquillés » ?",
+  "r": "L'Aubrac",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Dans quels monts du Finistère se trouve le point culminant de la Bretagne ?",
+  "r": "Les monts d'Arrée",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel ancien volcan, point culminant du Cantal, s'élève à 1 855 m ?",
+  "r": "Le plomb du Cantal",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel massif de Haute-Savoie, autour du Grand-Bornand et de La Clusaz, est le berceau du reblochon ?",
+  "r": "Les Aravis",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel est le point culminant de la chaîne des Pyrénées, situé en Espagne ?",
+  "r": "L'Aneto",
+  "d": 2,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel sommet du Vercors, surnommé « le mont Inaccessible », fut gravi dès 1492 sur ordre de Charles VIII ?",
+  "r": "Le mont Aiguille",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quel sommet de l'Oisans, gravi en 1877, fut le dernier grand sommet des Alpes à être conquis ?",
+  "r": "La Meije",
+  "d": 3,
+  "t": "Massifs et sommets"
+ },
+ {
+  "q": "Quelle presqu'île sépare le bassin d'Arcachon de l'océan Atlantique ?",
+  "r": "Le cap Ferret",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle presqu'île du Morbihan, célèbre pour sa Côte sauvage, s'avance vers Belle-Île ?",
+  "r": "La presqu'île de Quiberon",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle presqu'île normande a pour principale ville Cherbourg ?",
+  "r": "Le Cotentin",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Sur quelle île de la Seine se dresse la cathédrale Notre-Dame de Paris ?",
+  "r": "L'île de la Cité",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle presqu'île, longue d'une quarantaine de kilomètres, prolonge la Corse vers le nord au-dessus de Bastia ?",
+  "r": "Le cap Corse",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quel détroit sépare la Corse de la Sardaigne ?",
+  "r": "Les bouches de Bonifacio",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Dans quelle baie les marées, parmi les plus fortes d'Europe, entourent-elles régulièrement un célèbre mont abbatial ?",
+  "r": "La baie du Mont-Saint-Michel",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Dans quelle presqu'île de Loire-Atlantique les paludiers récoltent-ils la fleur de sel ?",
+  "r": "La presqu'île de Guérande",
+  "d": 1,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle presqu'île du Finistère, en forme de croix, s'avance entre la rade de Brest et la baie de Douarnenez ?",
+  "r": "La presqu'île de Crozon",
+  "d": 2,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle presqu'île varoise, rattachée au continent par deux cordons de sable, fait face à Porquerolles ?",
+  "r": "La presqu'île de Giens",
+  "d": 2,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle petite île des Côtes-d'Armor, interdite aux voitures, est surnommée « l'île aux fleurs » ?",
+  "r": "Bréhat",
+  "d": 2,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Les hommes de quelle île bretonne rejoignirent-ils en masse la France libre en juin 1940 ?",
+  "r": "L'île de Sein",
+  "d": 2,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Sur quelle île vendéenne le maréchal Pétain fut-il emprisonné puis enterré ?",
+  "r": "L'île d'Yeu",
+  "d": 2,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quel archipel au large de Cannes comprend les îles Sainte-Marguerite et Saint-Honorat ?",
+  "r": "Les îles de Lérins",
+  "d": 2,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle île du Var est devenue en 1963 le cœur du premier parc national marin d'Europe ?",
+  "r": "Port-Cros",
+  "d": 3,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quel archipel de roches rouges, au large d'Ajaccio, est célèbre pour ses couchers de soleil ?",
+  "r": "Les îles Sanguinaires",
+  "d": 3,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle petite île de la Manche, face à Saint-Vaast-la-Hougue, porte une tour Vauban classée à l'UNESCO ?",
+  "r": "Tatihou",
+  "d": 3,
+  "t": "Îles et presqu'îles"
+ },
+ {
+  "q": "Quelle résurgence, célébrée par Pétrarque, est la plus importante source de France par son débit ?",
+  "r": "La fontaine de Vaucluse",
+  "d": 1,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel cirque, creusé par un méandre abandonné de la Vis entre Gard et Hérault, est un Grand Site de France ?",
+  "r": "Le cirque de Navacelles",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quelle cascade de 27 m, sur une rivière du Jura, marque la frontière franco-suisse près de Villers-le-Lac ?",
+  "r": "Le saut du Doubs",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel « désert » de Haute-Corse, entre Saint-Florent et L'Île-Rousse, est en réalité un maquis sauvage ?",
+  "r": "Le désert des Agriates",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel cap de craie, voisin du cap Gris-Nez, domine la plage de Wissant ?",
+  "r": "Le cap Blanc-Nez",
+  "d": 2,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel surnom donne-t-on aux anciennes carrières d'ocre de Rustrel, dans le Vaucluse ?",
+  "r": "Le Colorado provençal",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel chaos rocheux de l'Aveyron doit son nom à ses formes rappelant une ville en ruine ?",
+  "r": "Montpellier-le-Vieux",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel aven de Lozère, découvert en 1897, abrite une « forêt » de stalagmites géantes ?",
+  "r": "L'aven Armand",
+  "d": 3,
+  "t": "Curiosités naturelles"
+ },
+ {
+  "q": "Quel nom poétique porte le littoral du Nord et du Pas-de-Calais, de la frontière belge à la baie d'Authie ?",
+  "r": "La côte d'Opale",
+  "d": 1,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quel nom porte le littoral breton autour de Saint-Malo et Dinard ?",
+  "r": "La côte d'Émeraude",
+  "d": 1,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quelle plaine céréalière autour de Chartres est surnommée « le grenier à blé de la France » ?",
+  "r": "La Beauce",
+  "d": 1,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quelle région de forêts et d'étangs du Loir-et-Cher a inspiré à Maurice Genevoix son roman Raboliot ?",
+  "r": "La Sologne",
+  "d": 1,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quel nom touristique porte le littoral du Calvados autour de Deauville, Trouville et Cabourg ?",
+  "r": "La Côte fleurie",
+  "d": 2,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quelle région naturelle de l'Ain est célèbre pour ses innombrables étangs ?",
+  "r": "La Dombes",
+  "d": 2,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quel plateau crayeux de Seine-Maritime, bordé par les falaises d'Étretat et de Fécamp, porte le nom d'un « pays » ?",
+  "r": "Le pays de Caux",
+  "d": 2,
+  "t": "Pays et côtes"
+ },
+ {
+  "q": "Quelle plaine caillouteuse des Bouches-du-Rhône, ancien lit de la Durance, produit un foin AOP ?",
+  "r": "La Crau",
+  "d": 3,
+  "t": "Pays et côtes"
+ }
+]
