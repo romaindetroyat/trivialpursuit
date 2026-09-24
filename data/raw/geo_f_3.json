@@ -72,7 +72,7 @@
   "t": "Îles et archipels"
  },
  {
-  "q": "Quelle île au sud de la Grande Terre calédonienne est célèbre pour ses pins colonnaires et son lagon ?",
+  "q": "Quelle île au sud de la Grande Terre calédonienne est célèbre pour ses araucarias colonnaires et son lagon ?",
   "r": "L'île des Pins",
   "d": 2,
   "t": "Îles et archipels"
@@ -90,7 +90,7 @@
   "t": "Îles et archipels"
  },
  {
-  "q": "Quelle île, la deuxième plus grande du monde, est partagée entre l'Indonésie et la Papouasie-Nouvelle-Guinée ?",
+  "q": "Quelle île, la deuxième plus grande du monde, est partagée entre l'Indonésie et l'État dont la capitale est Port Moresby ?",
   "r": "La Nouvelle-Guinée",
   "d": 2,
   "t": "Îles et archipels"
@@ -150,7 +150,7 @@
   "t": "Pôles"
  },
  {
-  "q": "Comment appelle-t-on la période de l'année où le soleil ne se lève pas au-delà du cercle polaire ?",
+  "q": "Comment appelle-t-on la période durant laquelle le soleil ne se lève pas pendant plusieurs jours, voire des mois, aux hautes latitudes ?",
   "r": "La nuit polaire",
   "d": 1,
   "t": "Pôles"
@@ -222,7 +222,7 @@
   "t": "Océans et mers"
  },
  {
-  "q": "Quel courant, le plus puissant du monde, tourne d'ouest en est autour de l'Antarctique ?",
+  "q": "Quel courant marin, le plus puissant du monde, fait le tour du continent austral d'ouest en est ?",
   "r": "Le courant circumpolaire antarctique",
   "d": 2,
   "t": "Océans et mers"
