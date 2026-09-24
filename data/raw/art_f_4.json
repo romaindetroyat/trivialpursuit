@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quelles journées révolutionnaires de juillet 1830 Delacroix a-t-il célébrées dans La Liberté guidant le peuple ?",
+  "r": "Les Trois Glorieuses",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Dans quelle ville italienne peut-on voir La Cène de Léonard de Vinci, peinte sur le mur d'un réfectoire ?",
+  "r": "Milan",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quelle cathédrale normande Claude Monet a-t-il peinte une trentaine de fois, à différentes heures du jour ?",
+  "r": "La cathédrale de Rouen",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel révolutionnaire David a-t-il représenté assassiné dans sa baignoire en 1793 ?",
+  "r": "Marat",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel peintre autrichien, protégé de Klimt, est mort de la grippe espagnole en 1918 à 28 ans ?",
+  "r": "Egon Schiele",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel peintre d'origine russe, maître des empâtements au couteau, a laissé inachevé Le Concert avant sa mort à Antibes en 1955 ?",
+  "r": "Nicolas de Staël",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel peintre lorrain du XVIIe siècle, installé à Rome, est célèbre pour ses ports baignés de lumière au soleil couchant ?",
+  "r": "Claude Lorrain",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel artiste tchèque de l'Art nouveau a dessiné les célèbres affiches de Sarah Bernhardt, comme Gismonda ?",
+  "r": "Alfons Mucha",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quelle marque de soupe en conserve Andy Warhol a-t-il reproduite en 32 sérigraphies en 1962 ?",
+  "r": "Campbell's",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Comment appelle-t-on le fort contraste entre zones d'ombre et de lumière, dont le Caravage fit sa marque ?",
+  "r": "Le clair-obscur",
+  "d": 1,
+  "t": "Techniques artistiques"
+ },
+ {
+  "q": "Comment appelle-t-on la trace d'une modification faite par un peintre en cours de travail, qui réapparaît parfois avec le temps ?",
+  "r": "Un repentir",
+  "d": 3,
+  "t": "Techniques artistiques"
+ },
+ {
+  "q": "Quelle pierre fine bleue, broyée, fournissait le précieux pigment outremer ?",
+  "r": "Le lapis-lazuli",
+  "d": 2,
+  "t": "Techniques artistiques"
+ },
+ {
+  "q": "Quel style décoratif du XVIIIe siècle, fait de courbes et de motifs de coquillages, est associé au règne de Louis XV ?",
+  "r": "Le rococo (style rocaille)",
+  "d": 2,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Quelle sculpture de Rodin, d'abord intitulée Le Poète, devait dominer La Porte de l'Enfer ?",
+  "r": "Le Penseur",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle statue égyptienne du Louvre représente un fonctionnaire assis en tailleur, un papyrus sur les genoux ?",
+  "r": "Le Scribe accroupi",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle statue de bronze, inspirée d'un conte d'Andersen, est assise sur un rocher du port de Copenhague ?",
+  "r": "La Petite Sirène",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel orfèvre et sculpteur florentin a réalisé une salière en or pour François Ier ?",
+  "r": "Benvenuto Cellini",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle technique de fonderie consiste à couler le bronze dans un moule obtenu à partir d'un modèle en cire ?",
+  "r": "La cire perdue",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel nom officiel porte l'unité d'habitation de Le Corbusier à Marseille, surnommée « la maison du fada » ?",
+  "r": "La Cité radieuse",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel système de proportions fondé sur la taille humaine Le Corbusier a-t-il mis au point ?",
+  "r": "Le Modulor",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle abbaye se dresse sur un îlot rocheux, dans une baie à la limite de la Normandie et de la Bretagne ?",
+  "r": "Le Mont-Saint-Michel",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle cathédrale picarde possède le chœur gothique le plus haut du monde (48,5 m), jamais complété d'une nef ?",
+  "r": "La cathédrale de Beauvais",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle cathédrale en grès rose fut le plus haut édifice du monde de 1647 à 1874 ?",
+  "r": "La cathédrale de Strasbourg",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle salle du château de Versailles est ornée de 357 miroirs ?",
+  "r": "La galerie des Glaces",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel monument, construit pour l'Exposition universelle de 1889, ne devait rester debout que vingt ans ?",
+  "r": "La tour Eiffel",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel ensemble de temples cambodgiens, figurant sur le drapeau national, est le plus grand monument religieux du monde ?",
+  "r": "Angkor Vat",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Comment appelle-t-on les galeries en surplomb d'un château fort, percées d'ouvertures pour lancer des projectiles sur les assaillants ?",
+  "r": "Les mâchicoulis",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Comment appelle-t-on l'élément triangulaire qui couronne la façade d'un temple grec ?",
+  "r": "Le fronton",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle basilique parisienne, construite après la guerre de 1870, domine la butte Montmartre ?",
+  "r": "Le Sacré-Cœur",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel musée d'Amsterdam conserve La Ronde de nuit de Rembrandt ?",
+  "r": "Le Rijksmuseum",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée de Saint-Pétersbourg, fondé par Catherine II, occupe notamment le palais d'Hiver ?",
+  "r": "L'Ermitage",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Combien de tapisseries composent la tenture de La Dame à la licorne ?",
+  "r": "Six",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée parisien conserve Impression, soleil levant, de Claude Monet ?",
+  "r": "Le musée Marmottan",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quelle fondation d'art, abritée par un bâtiment de Frank Gehry en forme de voiles, a ouvert en 2014 au bois de Boulogne ?",
+  "r": "La Fondation Louis Vuitton",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quelle ville est né Antonio Vivaldi, surnommé le Prêtre roux ?",
+  "r": "Venise",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quelle œuvre sacrée de Mozart, inachevée à sa mort, fut complétée par son élève Süssmayr ?",
+  "r": "Le Requiem",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel jeune page amoureux chante « Voi che sapete » dans Les Noces de Figaro ?",
+  "r": "Chérubin",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel lied de Schubert, sur un poème de Goethe, raconte la chevauchée d'un père tenant son enfant mourant ?",
+  "r": "Le Roi des aulnes",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel bouffon bossu du duc de Mantoue est le héros d'un opéra de Verdi ?",
+  "r": "Rigoletto",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel opéra de Puccini s'achève par le saut d'une cantatrice du haut du château Saint-Ange, à Rome ?",
+  "r": "Tosca",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel opéra-bouffe d'Offenbach contient le galop infernal devenu la musique du french cancan ?",
+  "r": "Orphée aux Enfers",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel compositeur arménien a écrit la célèbre Danse du sabre pour le ballet Gayaneh ?",
+  "r": "Aram Khatchatourian",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel compositeur argentin, maître du bandonéon, a révolutionné le tango avec Libertango ?",
+  "r": "Astor Piazzolla",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel compositeur anglais du XVIIe siècle a écrit l'opéra Didon et Énée ?",
+  "r": "Henry Purcell",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quelle voix de femme se situe entre la soprano et l'alto ?",
+  "r": "La mezzo-soprano",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel appareil, breveté par Maelzel en 1815, sert à battre la mesure ?",
+  "r": "Le métronome",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Dans quelle ville les Chorégies, plus ancien festival lyrique de France, se tiennent-elles dans un théâtre antique ?",
+  "r": "Orange",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Comment appelle-t-on la petite tige de bois cachée dans le violon, qui relie la table au fond ?",
+  "r": "L'âme",
+  "d": 3,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Quel instrument de la famille du hautbois n'est, malgré son nom, ni un cor ni d'origine britannique ?",
+  "r": "Le cor anglais",
+  "d": 2,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Quel instrument à percussion, fait de lames de bois frappées par des mailloches, tire son nom du grec « bois » et « son » ?",
+  "r": "Le xylophone",
+  "d": 1,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Quel impresario russe a fondé en 1909 à Paris la troupe des Ballets russes ?",
+  "r": "Serge Diaghilev",
+  "d": 2,
+  "t": "Danse"
+ },
+ {
+  "q": "Quelle danseuse américaine a ébloui le Paris de la Belle Époque avec sa « danse serpentine » faite de voiles tournoyants ?",
+  "r": "Loïe Fuller",
+  "d": 2,
+  "t": "Danse"
+ },
+ {
+  "q": "Quel danseur et acteur américain chante et danse sous la pluie dans le film de 1952 ?",
+  "r": "Gene Kelly",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "q": "Quelle danse en rond, où l'on se tient par la main, est l'emblème de la Catalogne ?",
+  "r": "La sardane",
+  "d": 3,
+  "t": "Danse"
+ },
+ {
+  "q": "Quelle danse endiablée des années 1920 doit son nom à une ville de Caroline du Sud ?",
+  "r": "Le charleston",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "q": "Comment appelle-t-on un passage dansé par un couple de solistes dans un ballet ?",
+  "r": "Un pas de deux",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "q": "Quels frères lyonnais ont commercialisé en 1907 l'autochrome, premier procédé photographique en couleurs ?",
+  "r": "Les frères Lumière",
+  "d": 2,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quel photographe français a immortalisé en 1967 une jeune fille tendant une fleur face aux baïonnettes, à Washington ?",
+  "r": "Marc Riboud",
+  "d": 3,
+  "t": "Photographie"
+ },
+ {
+  "q": "Comment appelle-t-on la photographie traditionnelle sur pellicule, par opposition au numérique ?",
+  "r": "La photographie argentique",
+  "d": 1,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quelle photographe américaine, ancienne mannequin et correspondante de guerre, a posé dans la baignoire d'Hitler en 1945 ?",
+  "r": "Lee Miller",
+  "d": 2,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quel designer d'origine française, auteur de La laideur se vend mal, a redessiné le logo de LU et le paquet de Lucky Strike ?",
+  "r": "Raymond Loewy",
+  "d": 2,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quel designer français a dessiné le TGV et les voitures Corail de la SNCF ?",
+  "r": "Roger Tallon",
+  "d": 3,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quelle ville bretonne est réputée pour sa faïence décorée de petits personnages en costume traditionnel ?",
+  "r": "Quimper",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quelle toile imprimée de scènes champêtres doit son nom à une manufacture fondée par Oberkampf en 1760 ?",
+  "r": "La toile de Jouy",
+  "d": 2,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quel joaillier russe a créé des œufs de Pâques précieux pour la famille du tsar ?",
+  "r": "Carl Fabergé",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quel couteau pliant savoyard à virole est reconnaissable à sa « main couronnée » ?",
+  "r": "L'Opinel",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quel couturier anglais, installé rue de la Paix, est considéré comme le père de la haute couture ?",
+  "r": "Charles Frederick Worth",
+  "d": 3,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quel couturier a succédé à Christian Dior en 1957, à seulement 21 ans ?",
+  "r": "Yves Saint Laurent",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quelle pièce de garde-robe Chanel a-t-elle popularisée en 1926, que Vogue compara à une Ford ?",
+  "r": "La petite robe noire",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quelle couturière d'origine italienne a lancé le « rose shocking » et collaboré avec Salvador Dalí ?",
+  "r": "Elsa Schiaparelli",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quelle créatrice française, surnommée la « reine du tricot », affectionnait les rayures ?",
+  "r": "Sonia Rykiel",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quel sac Hermès porte le nom d'une princesse de Monaco qui s'en servit pour cacher sa grossesse ?",
+  "r": "Le Kelly",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quelle cantatrice, surnommée le « rossignol milanais », poursuit le capitaine Haddock de ses assiduités ?",
+  "r": "Bianca Castafiore",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel air d'opéra, tiré du Faust de Gounod, la Castafiore chante-t-elle sans relâche ?",
+  "r": "L'air des bijoux",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel général sud-américain, ami de Tintin, alterne les coups d'État avec son rival Tapioca ?",
+  "r": "Le général Alcazar",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Dans quel album de Tintin l'action reste-t-elle cantonnée à Moulinsart, sans aucun méchant ?",
+  "r": "Les Bijoux de la Castafiore",
+  "d": 3,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Comment s'appelle l'épouse du chef Abraracourcix ?",
+  "r": "Bonemine",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Comment s'appellent les quatre frères bandits ennemis de Lucky Luke ?",
+  "r": "Les Dalton",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel journaliste à la houppette est le fidèle compagnon d'aventures de Spirou ?",
+  "r": "Fantasio",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel instrument de musique assourdissant Gaston Lagaffe a-t-il inventé ?",
+  "r": "Le gaffophone",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Comment s'appelle le cocker roux de la série de Roba ?",
+  "r": "Bill",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel héros amnésique de Van Hamme et Vance porte un chiffre romain tatoué sur la clavicule ?",
+  "r": "XIII",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Comment appelle-t-on le style graphique d'Hergé, aux contours nets et aux aplats de couleur sans ombres ?",
+  "r": "La ligne claire",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel auteur genevois du XIXe siècle est considéré comme l'inventeur de la bande dessinée ?",
+  "r": "Rodolphe Töpffer",
+  "d": 3,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quelle autrice raconte son enfance à Téhéran pendant la révolution islamique dans Persepolis ?",
+  "r": "Marjane Satrapi",
+  "d": 1,
+  "t": "BD franco-belge"
+ }
+]

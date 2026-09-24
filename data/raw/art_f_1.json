@@ -1,0 +1,512 @@
+[
+ {
+  "q": "Quel peintre vénitien de la Renaissance a donné son nom à une nuance de roux présente dans les chevelures qu'il peignait ?",
+  "r": "Titien",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel peintre français a représenté en 1857 trois paysannes ramassant les épis restés au sol après la moisson ?",
+  "r": "Jean-François Millet",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel est le titre courant du grand tableau de Rembrandt représentant la compagnie du capitaine Frans Banninck Cocq ?",
+  "r": "La Ronde de nuit",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel est le prénom du frère de Vincent van Gogh, marchand d'art, qui l'a soutenu toute sa vie ?",
+  "r": "Théo",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quelle peintre américaine, amie de Degas, a exposé avec les impressionnistes à Paris ?",
+  "r": "Mary Cassatt",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quelle peintre animalière du XIXe siècle obtint une permission officielle de porter le pantalon pour fréquenter les foires aux bestiaux ?",
+  "r": "Rosa Bonheur",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel artiste new-yorkais des années 1980, qui dessinait d'abord à la craie dans le métro, est connu pour ses petits bonshommes cernés de noir ?",
+  "r": "Keith Haring",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel artiste colombien est célèbre pour ses personnages et ses animaux aux formes rondes et généreuses ?",
+  "r": "Fernando Botero",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quelle peintre baroque italienne a peint une saisissante Judith décapitant Holopherne ?",
+  "r": "Artemisia Gentileschi",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel maître japonais de l'estampe a réalisé la série des Cinquante-trois Relais du Tōkaidō ?",
+  "r": "Hiroshige",
+  "d": 3,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel tableau de Magritte montre une pipe accompagnée de l'inscription « Ceci n'est pas une pipe » ?",
+  "r": "La Trahison des images",
+  "d": 2,
+  "t": "Peinture"
+ },
+ {
+  "q": "Quel dessin de Léonard de Vinci représente un homme nu inscrit dans un cercle et un carré ?",
+  "r": "L'Homme de Vitruve",
+  "d": 1,
+  "t": "Peinture"
+ },
+ {
+  "q": "Comment appelle-t-on une peinture qui donne l'illusion d'un objet réel en relief, au point de tromper le spectateur ?",
+  "r": "Un trompe-l'œil",
+  "d": 1,
+  "t": "Techniques artistiques"
+ },
+ {
+  "q": "Quelle technique de gravure utilise un acide pour creuser le dessin dans une plaque de cuivre ?",
+  "r": "L'eau-forte",
+  "d": 2,
+  "t": "Techniques artistiques"
+ },
+ {
+  "q": "Quel mouvement, fondé en 1960 autour du critique Pierre Restany, réunissait Yves Klein, Arman et Tinguely ?",
+  "r": "Le Nouveau Réalisme",
+  "d": 3,
+  "t": "Mouvements artistiques"
+ },
+ {
+  "q": "Quelle œuvre monumentale en bronze de Rodin, peuplée de damnés, s'inspire de La Divine Comédie ?",
+  "r": "La Porte de l'Enfer",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel héros biblique vainqueur de Goliath Michel-Ange a-t-il sculpté nu dans le marbre pour Florence ?",
+  "r": "David",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle sculpture de Degas, présentée en 1881, portait un vrai tutu et de vrais cheveux ?",
+  "r": "La Petite Danseuse de quatorze ans",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur français a réalisé le Voltaire assis de la Comédie-Française et des bustes de George Washington ?",
+  "r": "Jean-Antoine Houdon",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Dans quelle fontaine romaine jette-t-on une pièce pour être sûr de revenir, et où se baigne Anita Ekberg dans La Dolce Vita ?",
+  "r": "La fontaine de Trevi",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel architecte danois a conçu l'opéra de Sydney, aux toits en forme de voiles ?",
+  "r": "Jørn Utzon",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Dans quel parc de Barcelone trône la célèbre salamandre en mosaïque de Gaudí ?",
+  "r": "Le parc Güell",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte japonais, ancien boxeur autodidacte, a transformé la Bourse de commerce de Paris pour la collection Pinault ?",
+  "r": "Tadao Ando",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle chapelle gothique de l'île de la Cité, bâtie par Saint Louis, abritait la couronne d'épines ?",
+  "r": "La Sainte-Chapelle",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte des Lumières a conçu la saline royale d'Arc-et-Senans ?",
+  "r": "Claude-Nicolas Ledoux",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel ancien hôpital du XVe siècle, en Bourgogne, est célèbre pour ses toits de tuiles vernissées multicolores ?",
+  "r": "Les Hospices de Beaune",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte du XVIIe siècle a laissé son nom à un comble à deux pentes brisées, où l'on aménage des chambres ?",
+  "r": "François Mansart",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel monument de Bruxelles représente un cristal de fer agrandi 165 milliards de fois ?",
+  "r": "L'Atomium",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Comment s'appelle la nef transversale qui donne à une église son plan en forme de croix ?",
+  "r": "Le transept",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Comment appelle-t-on la partie sculptée qui couronne le fût d'une colonne ?",
+  "r": "Le chapiteau",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel est, malgré son nom, le plus ancien pont de Paris encore debout ?",
+  "r": "Le Pont-Neuf",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel artiste a installé en 1986 des colonnes rayées de noir et de blanc dans la cour d'honneur du Palais-Royal ?",
+  "r": "Daniel Buren",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel musée new-yorkais accueille chaque année, début mai, un gala de mode très médiatisé ?",
+  "r": "Le Metropolitan Museum of Art",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quel musée madrilène peut-on admirer Les Ménines de Velázquez ?",
+  "r": "Le Prado",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée du boulevard Haussmann, ancien hôtel d'un couple de collectionneurs, porte leurs deux noms ?",
+  "r": "Le musée Jacquemart-André",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quel village perché des Alpes-Maritimes se trouve la Fondation Maeght ?",
+  "r": "Saint-Paul-de-Vence",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quelle suite de Haendel fut jouée sur une barge sur la Tamise pour le roi George Ier en 1717 ?",
+  "r": "Water Music",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "À quel personnage historique Beethoven avait-il d'abord dédié sa 3e symphonie, dite Héroïque ?",
+  "r": "Napoléon Bonaparte",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "De quelle infirmité Beethoven fut-il atteint dès la trentaine ?",
+  "r": "La surdité",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel toréador séduit Carmen dans l'opéra de Bizet ?",
+  "r": "Escamillo",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel chef de la police romaine est poignardé par Tosca ?",
+  "r": "Scarpia",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel opéra de Puccini raconte l'histoire d'une geisha abandonnée par un officier américain ?",
+  "r": "Madame Butterfly",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel opéra de Puccini met en scène une princesse chinoise qui soumet ses prétendants à trois énigmes ?",
+  "r": "Turandot",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel compositeur russe a écrit en 1901 un célèbre Concerto pour piano n° 2 en do mineur ?",
+  "r": "Sergueï Rachmaninov",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quelle opérette de Franz Lehár (1905) met en scène une riche héritière du Pontévédro, convoitée pour sa fortune ?",
+  "r": "La Veuve joyeuse",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel compositeur allemand du XVIIe siècle est l'auteur d'un Canon en ré majeur très joué lors des mariages ?",
+  "r": "Johann Pachelbel",
+  "d": 2,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel compositeur italien, mort à 26 ans en 1736, a écrit un Stabat Mater très célèbre ?",
+  "r": "Pergolèse",
+  "d": 3,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Comment appelle-t-on une œuvre pour un instrument soliste accompagné d'un orchestre ?",
+  "r": "Un concerto",
+  "d": 1,
+  "t": "Musique classique"
+ },
+ {
+  "q": "Quel musicien belge a inventé le saxophone ?",
+  "r": "Adolphe Sax",
+  "d": 1,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Avec quelle résine enduit-on les crins de l'archet pour qu'ils accrochent la corde ?",
+  "r": "La colophane",
+  "d": 2,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Quel instrument électronique, inventé vers 1920, se joue sans être touché, en approchant les mains de deux antennes ?",
+  "r": "Le thérémine",
+  "d": 2,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Quel instrument à cordes indien, popularisé en Occident par Ravi Shankar, possède des cordes sympathiques ?",
+  "r": "Le sitar",
+  "d": 1,
+  "t": "Instruments de musique"
+ },
+ {
+  "q": "Pour quelle ballerine russe Michel Fokine a-t-il créé La Mort du cygne en 1905 ?",
+  "r": "Anna Pavlova",
+  "d": 2,
+  "t": "Danse"
+ },
+ {
+  "q": "Quel ballet romantique de 1832, dansé par Marie Taglioni, a imposé le tutu blanc et la danse sur pointes ?",
+  "r": "La Sylphide",
+  "d": 3,
+  "t": "Danse"
+ },
+ {
+  "q": "Quelle danse endiablée, où les danseuses lèvent la jambe et les jupons, est associée au Moulin-Rouge ?",
+  "r": "Le french cancan",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "q": "Quelle danse d'Italie du Sud doit son nom à une araignée dont la morsure était censée pousser à danser ?",
+  "r": "La tarentelle",
+  "d": 2,
+  "t": "Danse"
+ },
+ {
+  "q": "Quelle danse de couple d'origine espagnole mime une corrida ?",
+  "r": "Le paso doble",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "q": "Comment appelle-t-on l'ensemble des danseurs d'une compagnie qui ne sont pas solistes ?",
+  "r": "Le corps de ballet",
+  "d": 1,
+  "t": "Danse"
+ },
+ {
+  "q": "Quel savant anglais a inventé le calotype, premier procédé photographique négatif-positif ?",
+  "r": "William Henry Fox Talbot",
+  "d": 3,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quelle agence photographique coopérative a été fondée en 1947 notamment par Robert Capa et Henri Cartier-Bresson ?",
+  "r": "Magnum Photos",
+  "d": 2,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quelle marque suédoise d'appareils photo a accompagné les astronautes du programme Apollo sur la Lune ?",
+  "r": "Hasselblad",
+  "d": 3,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quel artiste français photographie et colle d'immenses portraits sur les murs du monde entier, comme dans Women Are Heroes ?",
+  "r": "JR",
+  "d": 2,
+  "t": "Photographie"
+ },
+ {
+  "q": "Quel designer français a créé pour Alessi le presse-agrumes Juicy Salif, monté sur trois longues pattes ?",
+  "r": "Philippe Starck",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quel maître verrier et ébéniste a fondé en 1901 l'École de Nancy ?",
+  "r": "Émile Gallé",
+  "d": 2,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quelle ville de la Creuse est la capitale de la tapisserie, dont le savoir-faire est inscrit à l'Unesco ?",
+  "r": "Aubusson",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quelle tenture conservée au château d'Angers est le plus grand ensemble de tapisseries médiévales au monde ?",
+  "r": "La tapisserie de l'Apocalypse",
+  "d": 3,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quelle île de la lagune de Venise est célèbre pour ses souffleurs de verre ?",
+  "r": "Murano",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Quel style décoratif des années 1900, aux lignes végétales, fut surnommé par ses détracteurs « style nouille » ?",
+  "r": "L'Art nouveau",
+  "d": 1,
+  "t": "Design et arts décoratifs"
+ },
+ {
+  "q": "Sur quelle avenue parisienne Christian Dior a-t-il ouvert sa maison de couture ?",
+  "r": "L'avenue Montaigne",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quelle tenue masculine Yves Saint Laurent a-t-il adaptée pour les femmes en 1966 ?",
+  "r": "Le smoking",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quel parfumeur a créé Chanel N° 5 en 1921 ?",
+  "r": "Ernest Beaux",
+  "d": 3,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quel couturier allemand a dirigé la création de la maison Chanel de 1983 à sa mort en 2019 ?",
+  "r": "Karl Lagerfeld",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quel couturier, surnommé « le Magnifique », a libéré les femmes du corset au début du XXe siècle ?",
+  "r": "Paul Poiret",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quel créateur japonais a lancé la ligne de vêtements aux plis permanents Pleats Please ?",
+  "r": "Issey Miyake",
+  "d": 2,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Quelle chanteuse et actrice a donné son nom à un sac Hermès créé en 1984 ?",
+  "r": "Jane Birkin",
+  "d": 1,
+  "t": "Haute couture"
+ },
+ {
+  "q": "Comment s'appelle le majordome du château de Moulinsart ?",
+  "r": "Nestor",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Dans quel royaume imaginaire des Balkans se déroule Le Sceptre d'Ottokar ?",
+  "r": "La Syldavie",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quelle créature mystérieuse Tintin rencontre-t-il dans l'Himalaya dans Tintin au Tibet ?",
+  "r": "Le yéti",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel est le plus grand et le plus bête des frères Dalton ?",
+  "r": "Averell",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Par quoi Lucky Luke a-t-il remplacé sa cigarette au coin des lèvres en 1983 ?",
+  "r": "Un brin d'herbe",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quelle exclamation est la marque de fabrique de Gaston Lagaffe ?",
+  "r": "M'enfin !",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel agent de police tente sans cesse de verbaliser Gaston Lagaffe ?",
+  "r": "L'agent Longtarin",
+  "d": 3,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel colonel est l'ennemi juré de Blake et Mortimer ?",
+  "r": "Olrik",
+  "d": 2,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quel dessinateur belge a créé Le Chat, gros matou philosophe en costume ?",
+  "r": "Philippe Geluck",
+  "d": 1,
+  "t": "BD franco-belge"
+ },
+ {
+  "q": "Quelle petite bonne bretonne, héroïne de BD dès 1905, est dessinée sans bouche ?",
+  "r": "Bécassine",
+  "d": 1,
+  "t": "BD franco-belge"
+ }
+]
