@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quelle statue de bronze, inspirée d'un conte d'Andersen, est devenue l'emblème du port de Copenhague ?",
+  "r": "La Petite Sirène",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel ouvrage, pont et tunnel, relie depuis 2000 Copenhague à la ville suédoise de Malmö ?",
+  "r": "Le pont de l'Øresund",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel archipel de l'Atlantique Nord, rattaché au Danemark, a pour capitale Tórshavn ?",
+  "r": "Les îles Féroé",
+  "d": 3,
+  "t": "Îles"
+ },
+ {
+  "q": "Sur quelle péninsule se trouve la partie continentale du Danemark ?",
+  "r": "Le Jutland",
+  "d": 2,
+  "t": "Pays"
+ },
+ {
+  "q": "Quelle est la capitale de la Finlande ?",
+  "r": "Helsinki",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Comment les Finlandais appellent-ils leur pays dans leur propre langue ?",
+  "r": "Suomi",
+  "d": 3,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle est la capitale de l'Islande ?",
+  "r": "Reykjavik",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel volcan islandais au nom imprononçable a paralysé le trafic aérien européen en avril 2010 ?",
+  "r": "L'Eyjafjallajökull",
+  "d": 2,
+  "t": "Montagnes"
+ },
+ {
+  "q": "De quelle couleur est la croix qui orne le drapeau blanc de la Finlande ?",
+  "r": "Bleue",
+  "d": 2,
+  "t": "Drapeaux"
+ },
+ {
+  "q": "Quelles sont les deux couleurs du drapeau suédois ?",
+  "r": "Bleu et jaune",
+  "d": 1,
+  "t": "Drapeaux"
+ },
+ {
+  "q": "Quel peuple autochtone du nord de la Scandinavie élève traditionnellement des rennes ?",
+  "r": "Les Samis (Lapons)",
+  "d": 2,
+  "t": "Peuples et langues"
+ },
+ {
+  "q": "Quelle monnaie les Danois ont-ils choisi de conserver en rejetant l'euro par référendum en 2000 ?",
+  "r": "La couronne danoise",
+  "d": 2,
+  "t": "Monnaies"
+ },
+ {
+  "q": "Quel golfe, au nord de la mer Baltique, sépare la Suède de la Finlande ?",
+  "r": "Le golfe de Botnie",
+  "d": 2,
+  "t": "Mers et détroits"
+ },
+ {
+  "q": "Quelle est la capitale de l'Estonie ?",
+  "r": "Tallinn",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale de la Lettonie ?",
+  "r": "Riga",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale de la Lituanie ?",
+  "r": "Vilnius",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "De la langue de quel pays voisin l'estonien est-il très proche ?",
+  "r": "La Finlande (le finnois)",
+  "d": 3,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle étroite bande de dunes, classée à l'Unesco, est partagée entre la Lituanie et l'enclave russe de Kaliningrad ?",
+  "r": "L'isthme de Courlande",
+  "d": 3,
+  "t": "Sites célèbres"
+ },
+ {
+  "q": "Quelle est la capitale de la Pologne ?",
+  "r": "Varsovie",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel fleuve traverse à la fois Cracovie et Varsovie ?",
+  "r": "La Vistule",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle ancienne capitale royale polonaise est dominée par le château du Wawel ?",
+  "r": "Cracovie",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Comment s'appelle la monnaie de la Pologne ?",
+  "r": "Le złoty",
+  "d": 2,
+  "t": "Monnaies"
+ },
+ {
+  "q": "Quelle ville portuaire polonaise, berceau du syndicat Solidarność, s'appelait Dantzig en allemand ?",
+  "r": "Gdańsk",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelles sont les deux couleurs du drapeau polonais ?",
+  "r": "Blanc et rouge",
+  "d": 1,
+  "t": "Drapeaux"
+ },
+ {
+  "q": "Quelle est la capitale de la République tchèque ?",
+  "r": "Prague",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle rivière, appelée Moldau en allemand, traverse Prague ?",
+  "r": "La Vltava",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel pont gothique orné de trente statues relie la Vieille Ville au quartier de Malá Strana à Prague ?",
+  "r": "Le pont Charles",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle est la capitale de la Slovaquie ?",
+  "r": "Bratislava",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle chaîne de montagnes en arc s'étend de la Slovaquie à la Roumanie ?",
+  "r": "Les Carpates",
+  "d": 1,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quel massif, le plus élevé des Carpates, est partagé entre la Slovaquie et la Pologne ?",
+  "r": "Les Tatras",
+  "d": 3,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quelle capitale européenne est née en 1873 de la fusion de trois villes situées de part et d'autre du Danube ?",
+  "r": "Budapest",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel grand lac hongrois est surnommé la « mer hongroise » ?",
+  "r": "Le lac Balaton",
+  "d": 2,
+  "t": "Lacs"
+ },
+ {
+  "q": "Comment s'appelle la monnaie de la Hongrie ?",
+  "r": "Le forint",
+  "d": 3,
+  "t": "Monnaies"
+ },
+ {
+  "q": "À quelle famille de langues appartient le hongrois ?",
+  "r": "Finno-ougrienne",
+  "d": 3,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle est la capitale de la Roumanie ?",
+  "r": "Bucarest",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle région roumaine est associée à la légende du comte Dracula ?",
+  "r": "La Transylvanie",
+  "d": 1,
+  "t": "Pays"
+ },
+ {
+  "q": "Dans quelle mer le Danube se jette-t-il ?",
+  "r": "La mer Noire",
+  "d": 1,
+  "t": "Fleuves"
+ },
+ {
+  "q": "À quelle famille de langues le roumain appartient-il ?",
+  "r": "Les langues romanes",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle est la capitale de la Bulgarie ?",
+  "r": "Sofia",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel alphabet sert à écrire le bulgare ?",
+  "r": "L'alphabet cyrillique",
+  "d": 2,
+  "t": "Langues"
+ },
+ {
+  "q": "Quelle est la capitale de la Moldavie ?",
+  "r": "Chișinău",
+  "d": 3,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel fleuve forme la majeure partie de la frontière entre la Roumanie et la Bulgarie ?",
+  "r": "Le Danube",
+  "d": 2,
+  "t": "Frontières"
+ },
+ {
+  "q": "Quelle est la capitale de la Serbie ?",
+  "r": "Belgrade",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Belgrade est située au confluent du Danube et de quelle rivière ?",
+  "r": "La Save",
+  "d": 3,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle est la capitale de la Croatie ?",
+  "r": "Zagreb",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle ville croate ceinte de remparts est surnommée « la perle de l'Adriatique » ?",
+  "r": "Dubrovnik",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle ville croate s'est développée à l'intérieur du palais de l'empereur romain Dioclétien ?",
+  "r": "Split",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel parc national croate est célèbre pour ses seize lacs reliés par des cascades ?",
+  "r": "Plitvice",
+  "d": 2,
+  "t": "Lacs"
+ },
+ {
+  "q": "Quelle est la capitale de la Slovénie ?",
+  "r": "Ljubljana",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel lac slovène des Alpes juliennes abrite une petite île surmontée d'une église ?",
+  "r": "Le lac de Bled",
+  "d": 3,
+  "t": "Lacs"
+ },
+ {
+  "q": "Quelle ville de Bosnie-Herzégovine est célèbre pour son vieux pont ottoman enjambant la Neretva ?",
+  "r": "Mostar",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle est la capitale de la Bosnie-Herzégovine ?",
+  "r": "Sarajevo",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale de l'Albanie ?",
+  "r": "Tirana",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel animal noir figure sur le drapeau rouge de l'Albanie ?",
+  "r": "Un aigle à deux têtes",
+  "d": 2,
+  "t": "Drapeaux"
+ },
+ {
+  "q": "Quel lac des Balkans, l'un des plus anciens d'Europe, a donné son nom à une ville de Macédoine du Nord classée à l'Unesco ?",
+  "r": "Le lac d'Ohrid",
+  "d": 3,
+  "t": "Lacs"
+ },
+ {
+  "q": "Quelle est la capitale de la Macédoine du Nord ?",
+  "r": "Skopje",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale du Monténégro ?",
+  "r": "Podgorica",
+  "d": 3,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quel sommet du massif du Rila est le point culminant de la Bulgarie et de la péninsule balkanique ?",
+  "r": "Le Musala",
+  "d": 3,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quelle colline d'Athènes est couronnée par le Parthénon ?",
+  "r": "L'Acropole",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quel sommet, point culminant de la Grèce, était la demeure des dieux dans la mythologie ?",
+  "r": "Le mont Olympe",
+  "d": 1,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quelle est la plus grande île grecque ?",
+  "r": "La Crète",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel palais minoen, associé au mythe du Minotaure, se trouve près d'Héraklion ?",
+  "r": "Knossos",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle île grecque des Cyclades est célèbre pour sa caldeira et les maisons blanches du village d'Oia ?",
+  "r": "Santorin",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel canal, achevé en 1893, sépare le Péloponnèse du reste de la Grèce continentale ?",
+  "r": "Le canal de Corinthe",
+  "d": 2,
+  "t": "Mers et détroits"
+ },
+ {
+  "q": "Dans quelle région grecque se trouvent les monastères perchés des Météores ?",
+  "r": "La Thessalie",
+  "d": 3,
+  "t": "Sites célèbres"
+ },
+ {
+  "q": "Quelle péninsule du nord de la Grèce abrite une communauté monastique orthodoxe interdite aux femmes ?",
+  "r": "Le mont Athos",
+  "d": 2,
+  "t": "Sites célèbres"
+ },
+ {
+  "q": "Quelle était la monnaie de la Grèce avant l'euro ?",
+  "r": "La drachme",
+  "d": 1,
+  "t": "Monnaies"
+ },
+ {
+  "q": "Quelle île grecque de la mer Ionienne était le royaume d'Ulysse dans l'Odyssée ?",
+  "r": "Ithaque",
+  "d": 2,
+  "t": "Îles"
+ },
+ {
+  "q": "Quelle île grecque du Dodécanèse abritait un Colosse, l'une des Sept Merveilles du monde ?",
+  "r": "Rhodes",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel grand port du nord de la Grèce, sur le golfe Thermaïque, était appelé Salonique en français ?",
+  "r": "Thessalonique",
+  "d": 2,
+  "t": "Villes"
+ },
+ {
+  "q": "Quelle île de Méditerranée orientale a pour capitale Nicosie ?",
+  "r": "Chypre",
+  "d": 1,
+  "t": "Îles"
+ },
+ {
+  "q": "Quel est le plus long fleuve d'Europe ?",
+  "r": "La Volga",
+  "d": 1,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Dans quelle mer fermée la Volga se jette-t-elle ?",
+  "r": "La mer Caspienne",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle chaîne de montagnes marque traditionnellement la limite entre l'Europe et l'Asie en Russie ?",
+  "r": "L'Oural",
+  "d": 1,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quel sommet d'origine volcanique est le point culminant du Caucase ?",
+  "r": "L'Elbrouz",
+  "d": 2,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quelle ville russe fondée en 1703 par Pierre le Grand fut la capitale de l'Empire russe ?",
+  "r": "Saint-Pétersbourg",
+  "d": 1,
+  "t": "Villes"
+ },
+ {
+  "q": "Quel fleuve traverse Saint-Pétersbourg avant de se jeter dans le golfe de Finlande ?",
+  "r": "La Neva",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quel célèbre musée de Saint-Pétersbourg occupe notamment le palais d'Hiver ?",
+  "r": "L'Ermitage",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle cathédrale aux bulbes multicolores se dresse sur la place Rouge à Moscou ?",
+  "r": "Saint-Basile-le-Bienheureux",
+  "d": 1,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle exclave russe sur la Baltique, l'ancienne Königsberg, est coincée entre la Pologne et la Lituanie ?",
+  "r": "Kaliningrad",
+  "d": 2,
+  "t": "Territoires"
+ },
+ {
+  "q": "Quel fleuve traverse Kiev ?",
+  "r": "Le Dniepr",
+  "d": 2,
+  "t": "Fleuves"
+ },
+ {
+  "q": "Quelle est la capitale de la Biélorussie ?",
+  "r": "Minsk",
+  "d": 1,
+  "t": "Capitales"
+ },
+ {
+  "q": "Sur quelle péninsule de la mer Noire se trouvent Sébastopol et Yalta ?",
+  "r": "La Crimée",
+  "d": 1,
+  "t": "Pays"
+ },
+ {
+  "q": "Comment s'appelle la monnaie de la Russie ?",
+  "r": "Le rouble",
+  "d": 1,
+  "t": "Monnaies"
+ },
+ {
+  "q": "Dans quelle ville portuaire se trouve l'escalier monumental rendu célèbre par le film « Le Cuirassé Potemkine » ?",
+  "r": "Odessa",
+  "d": 2,
+  "t": "Monuments"
+ },
+ {
+  "q": "Quelle est la capitale de la Géorgie, dans le Caucase ?",
+  "r": "Tbilissi",
+  "d": 2,
+  "t": "Capitales"
+ },
+ {
+  "q": "Quelle est la capitale de l'Arménie ?",
+  "r": "Erevan",
+  "d": 3,
+  "t": "Capitales"
+ },
+ {
+  "q": "Sur quel mont de l'est de la Turquie l'arche de Noé se serait-elle échouée selon la Bible ?",
+  "r": "Le mont Ararat",
+  "d": 1,
+  "t": "Montagnes"
+ },
+ {
+  "q": "Quelle mer peu profonde, reliée à la mer Noire par le détroit de Kertch, borde l'Ukraine et la Russie ?",
+  "r": "La mer d'Azov",
+  "d": 3,
+  "t": "Mers et détroits"
+ },
+ {
+  "q": "Quel est le plus grand lac d'Europe, situé en Russie au nord-est de Saint-Pétersbourg ?",
+  "r": "Le lac Ladoga",
+  "d": 3,
+  "t": "Lacs"
+ }
+]

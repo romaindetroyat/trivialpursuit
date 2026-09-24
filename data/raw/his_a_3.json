@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quel roi de Babylone détruisit Jérusalem et son Temple au VIe siècle av. J.-C. ?",
+  "r": "Nabuchodonosor II",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quelle civilisation du Yucatán et du Guatemala a développé une écriture glyphique et un calendrier très élaboré ?",
+  "r": "Les Mayas",
+  "d": 1,
+  "t": "Amériques et Afrique antiques"
+ },
+ {
+  "q": "Quelle épidémie ravagea l'Europe à partir de 1347, tuant peut-être un tiers de sa population ?",
+  "r": "La peste noire",
+  "d": 1,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quelle forteresse de Judée fut, vers 73-74, le théâtre du dernier siège de la révolte juive contre Rome ?",
+  "r": "Massada",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quel savant français a déchiffré les hiéroglyphes égyptiens en 1822 ?",
+  "r": "Jean-François Champollion",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel royaume nubien avait pour capitale Méroé, célèbre pour ses nombreuses pyramides ?",
+  "r": "Le royaume de Koush",
+  "d": 3,
+  "t": "Amériques et Afrique antiques"
+ },
+ {
+  "q": "Comment s'appelait le système de cordelettes à nœuds qu'utilisaient les Incas pour compter ?",
+  "r": "Le quipu",
+  "d": 3,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "q": "Comment appelle-t-on l'outil de pierre taillé sur ses deux faces, emblématique de l'Acheuléen ?",
+  "r": "Le biface",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle bataille de 331 av. J.-C. vit Alexandre vaincre définitivement le roi perse Darius III ?",
+  "r": "Gaugamèles",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel livre fut le premier grand ouvrage imprimé par Gutenberg ?",
+  "r": "La Bible",
+  "d": 1,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Quel peuple anatolien de l'âge du bronze avait pour capitale Hattusa ?",
+  "r": "Les Hittites",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quelle reine, dernière souveraine de l'Égypte ptolémaïque, se donna la mort en 30 av. J.-C. ?",
+  "r": "Cléopâtre VII",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel orateur athénien s'est opposé à Philippe II de Macédoine dans ses « Philippiques » ?",
+  "r": "Démosthène",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "En quelle année l'arrière-garde de Charlemagne fut-elle massacrée à Roncevaux ?",
+  "r": "778",
+  "d": 3,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel réformateur tchèque fut brûlé comme hérétique lors du concile de Constance en 1415 ?",
+  "r": "Jan Hus",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quel général carthaginois franchit les Alpes avec des éléphants en 218 av. J.-C. ?",
+  "r": "Hannibal",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle ville andalouse, capitale d'un califat au Xe siècle, possède une célèbre mosquée-cathédrale ?",
+  "r": "Cordoue",
+  "d": 2,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quel recueil médiéval de récits met en scène un goupil rusé face au loup Isengrin ?",
+  "r": "Le Roman de Renart",
+  "d": 1,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quels étaient les noms des trois navires de Christophe Colomb en 1492 ?",
+  "r": "Santa María, Pinta et Niña",
+  "d": 2,
+  "t": "Péninsule ibérique et découvertes"
+ },
+ {
+  "q": "Quel pape lança l'appel à la première croisade à Clermont en 1095 ?",
+  "r": "Urbain II",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quels frères enlumineurs ont illustré les « Très Riches Heures du duc de Berry » ?",
+  "r": "Les frères de Limbourg",
+  "d": 3,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quelle cité médiévale fortifiée de l'Aude fut restaurée au XIXe siècle par Viollet-le-Duc ?",
+  "r": "Carcassonne",
+  "d": 1,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Dans quelle ville massacrée en 1209 aurait été prononcée la phrase « Tuez-les tous, Dieu reconnaîtra les siens » ?",
+  "r": "Béziers",
+  "d": 2,
+  "t": "Croisade des Albigeois"
+ },
+ {
+  "q": "Près de quelle ville de Syrie Ramsès II affronta-t-il les Hittites vers 1274 av. J.-C. ?",
+  "r": "Qadesh",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel temple dédié à Athéna domine l'Acropole d'Athènes ?",
+  "r": "Le Parthénon",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle bataille de 1410 vit la Pologne-Lituanie écraser les chevaliers Teutoniques ?",
+  "r": "Grunwald (Tannenberg)",
+  "d": 3,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Quelle cité inca perchée dans les Andes fut révélée au monde par Hiram Bingham en 1911 ?",
+  "r": "Machu Picchu",
+  "d": 1,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "q": "Quelle grotte ornée des calanques de Marseille n'est accessible que par un tunnel sous-marin ?",
+  "r": "La grotte Cosquer",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle ville assiégée par les Anglais Jeanne d'Arc délivra-t-elle en mai 1429 ?",
+  "r": "Orléans",
+  "d": 1,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "De quel mot latin, désignant la première province romaine de Gaule, vient le nom de la Provence ?",
+  "r": "Provincia",
+  "d": 2,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel penseur chinois des VIe-Ve siècles av. J.-C. prônait le respect des rites et la piété filiale ?",
+  "r": "Confucius",
+  "d": 1,
+  "t": "Chine et Asie antiques"
+ },
+ {
+  "q": "Quelle croisade fut détournée vers Constantinople, que les croisés pillèrent en 1204 ?",
+  "r": "La quatrième croisade",
+  "d": 2,
+  "t": "Byzance"
+ },
+ {
+  "q": "Sous quel arbre du bois de Vincennes Saint Louis rendait-il la justice selon la tradition ?",
+  "r": "Un chêne",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel site de ruines de pierre médiévales a donné son nom à un pays d'Afrique australe ?",
+  "r": "Le Grand Zimbabwe",
+  "d": 2,
+  "t": "Afrique médiévale"
+ },
+ {
+  "q": "Quelle bataille de 1187, près du lac de Tibériade, vit l'armée des croisés anéantie par Saladin ?",
+  "r": "Hattin",
+  "d": 3,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quel dieu égyptien à tête d'ibis était le patron des scribes et de l'écriture ?",
+  "r": "Thot",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quelle dynastie chinoise, fondée en 206 av. J.-C., a donné son nom à l'ethnie majoritaire de Chine ?",
+  "r": "Les Han",
+  "d": 2,
+  "t": "Chine et Asie antiques"
+ },
+ {
+  "q": "Quelle arme, maniée par les archers anglais, fut décisive à Crécy et Azincourt ?",
+  "r": "L'arc long (longbow)",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel riche marchand, argentier de Charles VII, fit bâtir un somptueux palais à Bourges ?",
+  "r": "Jacques Cœur",
+  "d": 2,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quel oppidum arverne vit Vercingétorix repousser l'assaut de César en 52 av. J.-C. ?",
+  "r": "Gergovie",
+  "d": 2,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel roi anglo-saxon du Wessex, seul souverain anglais surnommé « le Grand », résista aux Vikings au IXe siècle ?",
+  "r": "Alfred le Grand",
+  "d": 2,
+  "t": "Vikings et Europe du Nord"
+ },
+ {
+  "q": "Quel titre portaient les chefs militaires qui gouvernèrent le Japon au nom de l'empereur à partir de la fin du XIIe siècle ?",
+  "r": "Shogun",
+  "d": 1,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quel nom les Taïnos donnaient-ils à l'île des Bahamas où Colomb débarqua le 12 octobre 1492 ?",
+  "r": "Guanahani",
+  "d": 3,
+  "t": "Péninsule ibérique et découvertes"
+ },
+ {
+  "q": "Quel conflit opposa, avec des interruptions, la France et l'Angleterre de 1337 à 1453 ?",
+  "r": "La guerre de Cent Ans",
+  "d": 1,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel fils de Charles Martel devint en 751 le premier roi carolingien ?",
+  "r": "Pépin le Bref",
+  "d": 2,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel roi fut le dernier Capétien direct, mort en 1328 ?",
+  "r": "Charles IV le Bel",
+  "d": 3,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel mot d'origine bretonne désigne une grande pierre dressée verticalement par les hommes du Néolithique ?",
+  "r": "Un menhir",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel conquérant mongol, proclamé khan suprême en 1206, fonda un immense empire ?",
+  "r": "Gengis Khan",
+  "d": 1,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quel médecin grec de l'île de Cos est considéré comme le père de la médecine ?",
+  "r": "Hippocrate",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Dans quelle forêt de Germanie trois légions de Varus furent-elles anéanties en l'an 9 ?",
+  "r": "La forêt de Teutobourg",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel abbé de Clairvaux prêcha la deuxième croisade à Vézelay en 1146 ?",
+  "r": "Bernard de Clairvaux",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quel était le nom latin de Lyon, capitale des Gaules ?",
+  "r": "Lugdunum",
+  "d": 1,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quelle branche de la dynastie capétienne accéda au trône de France en 1328 avec Philippe VI ?",
+  "r": "Les Valois",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quelle broderie de près de 70 mètres raconte la conquête de l'Angleterre par les Normands ?",
+  "r": "La tapisserie de Bayeux",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel titre, signifiant « digne de vénération », Octave reçut-il du Sénat en 27 av. J.-C. ?",
+  "r": "Auguste",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel duc de Bourgogne fut assassiné sur le pont de Montereau en 1419 ?",
+  "r": "Jean sans Peur",
+  "d": 3,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quelle coalition de peuples envahisseurs Ramsès III dut-il repousser au XIIe siècle av. J.-C. ?",
+  "r": "Les Peuples de la Mer",
+  "d": 3,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Comment appelle-t-on l'écriture en forme de clous inventée en Mésopotamie ?",
+  "r": "Le cunéiforme",
+  "d": 1,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quel conquérant turco-mongol du XIVe siècle fit de Samarcande sa somptueuse capitale ?",
+  "r": "Tamerlan",
+  "d": 2,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "En quelle année les croisés prirent-ils Jérusalem lors de la première croisade ?",
+  "r": "1099",
+  "d": 2,
+  "t": "Croisades"
+ },
+ {
+  "q": "Quel ordre de moines-soldats, fondé vers 1120 à Jérusalem, fut dissous en 1312 ?",
+  "r": "L'ordre du Temple (Templiers)",
+  "d": 1,
+  "t": "Croisades"
+ },
+ {
+  "q": "Dans quelle ville d'Arabie est né le prophète Mahomet ?",
+  "r": "La Mecque",
+  "d": 1,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Comment appelait-on la cérémonie qui faisait d'un jeune noble un chevalier ?",
+  "r": "L'adoubement",
+  "d": 2,
+  "t": "Féodalité et vie médiévale"
+ },
+ {
+  "q": "Quelle tenture du XIVe siècle, conservée au château d'Angers, illustre la fin du monde selon saint Jean ?",
+  "r": "La tenture de l'Apocalypse",
+  "d": 2,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quel ordre militaire germanique, issu des croisades, conquit la Prusse au XIIIe siècle ?",
+  "r": "L'ordre Teutonique",
+  "d": 3,
+  "t": "Croisades"
+ },
+ {
+  "q": "Quel chef arverne prit la tête de la révolte gauloise contre César en 52 av. J.-C. ?",
+  "r": "Vercingétorix",
+  "d": 1,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel saint italien fonda au VIe siècle l'abbaye du Mont-Cassin et rédigea une règle monastique ?",
+  "r": "Saint Benoît",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quels jeux panhelléniques se déroulaient à Delphes en l'honneur d'Apollon ?",
+  "r": "Les jeux Pythiques",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel archéologue allemand, homme d'affaires passionné d'Homère, a fouillé le site de Troie au XIXe siècle ?",
+  "r": "Heinrich Schliemann",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel marchand vénitien a raconté son séjour en Chine dans « Le Devisement du monde » ?",
+  "r": "Marco Polo",
+  "d": 1,
+  "t": "Italie médiévale"
+ },
+ {
+  "q": "Quel cratère en bronze monumental a été découvert en 1953 dans la tombe d'une princesse celte en Côte-d'Or ?",
+  "r": "Le vase de Vix",
+  "d": 3,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel roi wisigoth mit Rome à sac en 410 ?",
+  "r": "Alaric",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel roi coréen du XVe siècle fit créer l'alphabet hangeul ?",
+  "r": "Sejong le Grand",
+  "d": 3,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quelle ville française, fondée par des Grecs de Phocée vers 600 av. J.-C., s'appelait alors Massalia ?",
+  "r": "Marseille",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle reine d'Égypte, épouse d'Akhenaton, est célèbre pour son buste conservé à Berlin ?",
+  "r": "Néfertiti",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel général romain vainquit Hannibal à Zama en 202 av. J.-C. ?",
+  "r": "Scipion l'Africain",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "À quel conjuré César aurait-il lancé « Toi aussi, mon fils » au moment de son assassinat ?",
+  "r": "Brutus",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel empereur germanique dut s'humilier devant le pape Grégoire VII à Canossa en 1077 ?",
+  "r": "Henri IV",
+  "d": 2,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Quel nom donne-t-on à la dynastie de Clovis ?",
+  "r": "Les Mérovingiens",
+  "d": 1,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quelle île indonésienne a donné son nom à une petite espèce humaine surnommée « le hobbit » ?",
+  "r": "Florès",
+  "d": 3,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle période préhistorique, dont le nom signifie « pierre nouvelle », voit naître l'agriculture et l'élevage ?",
+  "r": "Le Néolithique",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle ville romaine de Campanie fut ensevelie avec Herculanum par l'éruption du Vésuve en 79 ?",
+  "r": "Pompéi",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel peuple de navigateurs établi sur la côte de l'actuel Liban a diffusé l'alphabet en Méditerranée ?",
+  "r": "Les Phéniciens",
+  "d": 1,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quel empereur accorda en 212 la citoyenneté romaine à tous les hommes libres de l'Empire ?",
+  "r": "Caracalla",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle guerre opposa Athènes et Sparte de 431 à 404 av. J.-C. ?",
+  "r": "La guerre du Péloponnèse",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel poète latin a raconté les aventures d'Énée dans l'Énéide ?",
+  "r": "Virgile",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel preux, présenté comme le neveu de Charlemagne, meurt à Roncevaux dans une célèbre chanson de geste ?",
+  "r": "Roland",
+  "d": 1,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel roi de France, frappé de crises de folie, régna de 1380 à 1422 ?",
+  "r": "Charles VI",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel style architectural succède en France à l'art roman au XIIe siècle ?",
+  "r": "Le gothique",
+  "d": 1,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quel roi de Macédoine était le père d'Alexandre le Grand ?",
+  "r": "Philippe II",
+  "d": 1,
+  "t": "Grèce antique"
+ }
+]

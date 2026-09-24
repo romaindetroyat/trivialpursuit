@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quel poète français fut, en 1901, le tout premier lauréat du prix Nobel de littérature ?",
+  "r": "Sully Prudhomme",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète provençal, auteur de « Mirèio », reçut le prix Nobel de littérature en 1904 ?",
+  "r": "Frédéric Mistral",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain britannique né à Bombay reçut le prix Nobel de littérature en 1907 ?",
+  "r": "Rudyard Kipling",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quelle romancière suédoise, autrice du « Merveilleux Voyage de Nils Holgersson », fut en 1909 la première femme Nobel de littérature ?",
+  "r": "Selma Lagerlöf",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète bengali devint en 1913 le premier lauréat non européen du prix Nobel de littérature ?",
+  "r": "Rabindranath Tagore",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français, auteur de « Jean-Christophe », reçut le prix Nobel de littérature en 1915 ?",
+  "r": "Romain Rolland",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français, auteur de « Les dieux ont soif », reçut le prix Nobel de littérature en 1921 ?",
+  "r": "Anatole France",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète irlandais reçut le prix Nobel de littérature en 1923 ?",
+  "r": "William Butler Yeats",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel dramaturge irlandais, auteur de « Pygmalion », reçut le prix Nobel de littérature en 1925 ?",
+  "r": "George Bernard Shaw",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel philosophe français, auteur de « L'Évolution créatrice », reçut le prix Nobel de littérature en 1927 ?",
+  "r": "Henri Bergson",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier allemand, auteur des « Buddenbrook », reçut le prix Nobel de littérature en 1929 ?",
+  "r": "Thomas Mann",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier, auteur de « Babbitt », fut en 1930 le premier Américain lauréat du prix Nobel de littérature ?",
+  "r": "Sinclair Lewis",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français, auteur de la saga « Les Thibault », reçut le prix Nobel de littérature en 1937 ?",
+  "r": "Roger Martin du Gard",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quelle poétesse chilienne devint en 1945 la première lauréate latino-américaine du prix Nobel de littérature ?",
+  "r": "Gabriela Mistral",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français, auteur des « Nourritures terrestres », reçut le prix Nobel de littérature en 1947 ?",
+  "r": "André Gide",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète anglo-américain, auteur de « La Terre vaine », reçut le prix Nobel de littérature en 1948 ?",
+  "r": "T. S. Eliot",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel philosophe et logicien britannique reçut le prix Nobel de littérature en 1950 ?",
+  "r": "Bertrand Russell",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel homme d'État britannique reçut le prix Nobel de littérature en 1953, notamment pour ses écrits historiques ?",
+  "r": "Winston Churchill",
+  "d": 1,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français né en Algérie, auteur de « L'Étranger », reçut le prix Nobel de littérature en 1957 ?",
+  "r": "Albert Camus",
+  "d": 1,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain soviétique, lauréat du prix Nobel de littérature en 1958, fut contraint par le pouvoir de le refuser ?",
+  "r": "Boris Pasternak",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Sous quel pseudonyme le poète et diplomate Alexis Leger reçut-il le prix Nobel de littérature en 1960 ?",
+  "r": "Saint-John Perse",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français refusa le prix Nobel de littérature qui lui fut attribué en 1964 ?",
+  "r": "Jean-Paul Sartre",
+  "d": 1,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain soviétique, auteur du « Don paisible », reçut le prix Nobel de littérature en 1965 ?",
+  "r": "Mikhaïl Cholokhov",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier, auteur de « Pays de neige », fut en 1968 le premier Japonais lauréat du prix Nobel de littérature ?",
+  "r": "Yasunari Kawabata",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier français du Nouveau Roman, auteur de « La Route des Flandres », reçut le prix Nobel de littérature en 1985 ?",
+  "r": "Claude Simon",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel dramaturge nigérian fut en 1986 le premier écrivain d'Afrique noire lauréat du prix Nobel de littérature ?",
+  "r": "Wole Soyinka",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète russe exilé aux États-Unis reçut le prix Nobel de littérature en 1987 ?",
+  "r": "Joseph Brodsky",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier égyptien, auteur de la « Trilogie du Caire », reçut le prix Nobel de littérature en 1988 ?",
+  "r": "Naguib Mahfouz",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète et essayiste mexicain, auteur du « Labyrinthe de la solitude », reçut le prix Nobel de littérature en 1990 ?",
+  "r": "Octavio Paz",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel poète nord-irlandais reçut le prix Nobel de littérature en 1995 ?",
+  "r": "Seamus Heaney",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quelle poétesse polonaise reçut le prix Nobel de littérature en 1996 ?",
+  "r": "Wisława Szymborska",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain allemand, auteur du « Tambour », reçut le prix Nobel de littérature en 1999 ?",
+  "r": "Günter Grass",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier turc, auteur de « Mon nom est Rouge », reçut le prix Nobel de littérature en 2006 ?",
+  "r": "Orhan Pamuk",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain français, auteur de « Désert », reçut le prix Nobel de littérature en 2008 ?",
+  "r": "J. M. G. Le Clézio",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel écrivain chinois, auteur du « Clan du sorgho », reçut le prix Nobel de littérature en 2012 ?",
+  "r": "Mo Yan",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier français, auteur de « Rue des Boutiques obscures », reçut le prix Nobel de littérature en 2014 ?",
+  "r": "Patrick Modiano",
+  "d": 1,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quelle journaliste biélorusse, autrice de « La Supplication » sur Tchernobyl, reçut le prix Nobel de littérature en 2015 ?",
+  "r": "Svetlana Alexievitch",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel auteur-compositeur américain reçut à la surprise générale le prix Nobel de littérature en 2016 ?",
+  "r": "Bob Dylan",
+  "d": 1,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier britannique né à Nagasaki, auteur des « Vestiges du jour », reçut le prix Nobel de littérature en 2017 ?",
+  "r": "Kazuo Ishiguro",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel romancier britannique né à Zanzibar reçut le prix Nobel de littérature en 2021 ?",
+  "r": "Abdulrazak Gurnah",
+  "d": 3,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quelle écrivaine française, autrice des « Années » et de « La Place », reçut le prix Nobel de littérature en 2022 ?",
+  "r": "Annie Ernaux",
+  "d": 1,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel dramaturge norvégien reçut le prix Nobel de littérature en 2023 ?",
+  "r": "Jon Fosse",
+  "d": 2,
+  "t": "Prix Nobel de littérature"
+ },
+ {
+  "q": "Quel est le nom romain de Zeus, roi des dieux ?",
+  "r": "Jupiter",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel est le nom romain d'Aphrodite, déesse de l'amour ?",
+  "r": "Vénus",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu romain de la guerre correspond au grec Arès ?",
+  "r": "Mars",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu romain des marchands et des voyageurs correspond au grec Hermès ?",
+  "r": "Mercure",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu romain des mers, armé d'un trident, correspond au grec Poséidon ?",
+  "r": "Neptune",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu romain du feu et de la forge a donné son nom aux montagnes qui crachent de la lave ?",
+  "r": "Vulcain",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quelle déesse romaine de la sagesse correspond à la grecque Athéna ?",
+  "r": "Minerve",
+  "d": 2,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu romain à deux visages, gardien des portes, a donné son nom au mois de janvier ?",
+  "r": "Janus",
+  "d": 2,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quels jumeaux, allaités par une louve selon la légende, sont les fondateurs de Rome ?",
+  "r": "Romulus et Rémus",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quelle déesse romaine du foyer était servie par des prêtresses vierges chargées d'entretenir son feu sacré ?",
+  "r": "Vesta",
+  "d": 2,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel petit dieu ailé de l'amour, fils de Vénus, décoche des flèches chez les Romains ?",
+  "r": "Cupidon",
+  "d": 1,
+  "t": "Mythologie romaine"
+ },
+ {
+  "q": "Quel dieu nordique du tonnerre manie le marteau Mjöllnir ?",
+  "r": "Thor",
+  "d": 1,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel dieu suprême de la mythologie nordique a sacrifié un œil pour obtenir la sagesse ?",
+  "r": "Odin",
+  "d": 1,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel dieu nordique rusé et métamorphe est le fauteur de troubles du panthéon ?",
+  "r": "Loki",
+  "d": 1,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Comment s'appelle la grande salle où les guerriers morts au combat rejoignent Odin ?",
+  "r": "Le Valhalla",
+  "d": 1,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Comment s'appellent les guerrières qui choisissent les héros morts au combat pour les mener auprès d'Odin ?",
+  "r": "Les Valkyries",
+  "d": 1,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel est le nom du frêne géant, arbre-monde de la mythologie nordique ?",
+  "r": "Yggdrasil",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Comment s'appelle la bataille de la fin du monde dans la mythologie nordique ?",
+  "r": "Le Ragnarök",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel est le nom du cheval à huit jambes d'Odin ?",
+  "r": "Sleipnir",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Comment s'appellent les deux corbeaux qui informent Odin de tout ce qui se passe dans le monde ?",
+  "r": "Hugin et Munin",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel pont arc-en-ciel relie le monde des dieux à celui des hommes dans la mythologie nordique ?",
+  "r": "Bifröst",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel dieu nordique, fils d'Odin et de Frigg, fut tué par une arme taillée dans du gui ?",
+  "r": "Balder",
+  "d": 3,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel jour de la semaine en anglais doit son nom au dieu Thor ?",
+  "r": "Thursday (jeudi)",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel loup monstrueux, enchaîné par les dieux, doit dévorer Odin lors de la fin du monde ?",
+  "r": "Fenrir",
+  "d": 2,
+  "t": "Mythologie nordique"
+ },
+ {
+  "q": "Quel dieu égyptien à tête de chacal préside à l'embaumement des morts ?",
+  "r": "Anubis",
+  "d": 1,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel dieu soleil égyptien traverse chaque jour le ciel à bord de sa barque ?",
+  "r": "Rê (Râ)",
+  "d": 1,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel dieu égyptien, assassiné et démembré par son frère Seth, devint le souverain du monde des morts ?",
+  "r": "Osiris",
+  "d": 1,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle déesse égyptienne rassembla les morceaux du corps de son époux Osiris ?",
+  "r": "Isis",
+  "d": 1,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel dieu égyptien à tête de faucon est le fils d'Isis et d'Osiris ?",
+  "r": "Horus",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel dieu égyptien à tête d'ibis est le patron des scribes et de l'écriture ?",
+  "r": "Thot",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle déesse égyptienne à tête de chatte était vénérée à Bubastis ?",
+  "r": "Bastet",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle déesse égyptienne coiffée d'une plume d'autruche incarne la vérité et l'ordre du monde ?",
+  "r": "Maât",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel dieu représenté par le disque solaire le pharaon Akhenaton imposa-t-il comme dieu unique ?",
+  "r": "Aton",
+  "d": 3,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel insecte représentait le dieu égyptien Khépri, incarnation du soleil levant ?",
+  "r": "Le scarabée",
+  "d": 2,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quel dieu égyptien des eaux est représenté avec une tête de crocodile ?",
+  "r": "Sobek",
+  "d": 3,
+  "t": "Mythologie égyptienne"
+ },
+ {
+  "q": "Quelle nymphe, condamnée par Héra à ne répéter que les derniers mots entendus, se consuma d'amour pour Narcisse ?",
+  "r": "Écho",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel sculpteur chypriote tomba amoureux de la statue d'ivoire qu'il avait façonnée ?",
+  "r": "Pygmalion",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle déesse grecque des moissons parcourut la terre à la recherche de sa fille Perséphone, enlevée par Hadès ?",
+  "r": "Déméter",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel Titan, père de Zeus, dévorait ses enfants à leur naissance de peur d'être détrôné ?",
+  "r": "Cronos",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Comment s'appelait la prêtresse d'Apollon qui rendait les oracles à Delphes ?",
+  "r": "La Pythie",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel héros grec, fils de Zeus et de Danaé, délivra Andromède d'un monstre marin ?",
+  "r": "Persée",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel roi possédait les écuries qu'Héraclès nettoya en un jour en y détournant deux fleuves ?",
+  "r": "Augias",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel dieu grec du vin et de l'ivresse est le fils de Zeus et de la mortelle Sémélé ?",
+  "r": "Dionysos",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quelle déesse grecque de la chasse est la sœur jumelle d'Apollon ?",
+  "r": "Artémis",
+  "d": 1,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Sur quelle île des Cyclades Léto mit-elle au monde le dieu Apollon ?",
+  "r": "Délos",
+  "d": 3,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Comment s'appelle la nourriture des dieux de l'Olympe, qui confère l'immortalité ?",
+  "r": "L'ambroisie",
+  "d": 2,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Comment appelle-t-on les trois divinités grecques qui filent, déroulent et coupent le fil de la vie ?",
+  "r": "Les Moires",
+  "d": 3,
+  "t": "Mythologie grecque"
+ },
+ {
+  "q": "Quel fleuve des Enfers faisait oublier aux âmes des morts leur vie passée ?",
+  "r": "Le Léthé",
+  "d": 3,
+  "t": "Mythologie grecque"
+ }
+]

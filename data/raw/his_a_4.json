@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quelle dynastie de califes établit sa capitale à Damas de 661 à 750 ?",
+  "r": "Les Omeyyades",
+  "d": 2,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Sous quel empereur l'Empire romain atteignit-il sa plus grande extension, vers 117 ?",
+  "r": "Trajan",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel dieu égyptien à tête de chacal présidait à l'embaumement des morts ?",
+  "r": "Anubis",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel empereur fit du christianisme la religion officielle de l'Empire romain en 380 ?",
+  "r": "Théodose Ier",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Entre quels deux fleuves s'étendait la Mésopotamie ?",
+  "r": "Le Tigre et l'Euphrate",
+  "d": 1,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Dans quelle région se tenaient, aux XIIe et XIIIe siècles, les grandes foires réunissant marchands flamands et italiens ?",
+  "r": "La Champagne",
+  "d": 2,
+  "t": "Féodalité et vie médiévale"
+ },
+ {
+  "q": "Comment appelle-t-on les tours à étages qui dominaient les temples mésopotamiens ?",
+  "r": "Les ziggourats",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Le nom de quel mathématicien persan du IXe siècle a donné le mot « algorithme » ?",
+  "r": "Al-Khwârizmî",
+  "d": 3,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Comment appelle-t-on la terre concédée par un seigneur à son vassal ?",
+  "r": "Un fief",
+  "d": 1,
+  "t": "Féodalité et vie médiévale"
+ },
+ {
+  "q": "Quel prévôt des marchands de Paris mena une révolte contre le dauphin Charles en 1358 ?",
+  "r": "Étienne Marcel",
+  "d": 2,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quelle bataille de 338 av. J.-C. assura à Philippe II de Macédoine la domination de la Grèce ?",
+  "r": "Chéronée",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel nom donne-t-on aux premiers Homo sapiens d'Europe, d'après un abri des Eyzies fouillé en 1868 ?",
+  "r": "Cro-Magnon",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel surnom a-t-on donné aux derniers Mérovingiens, qui laissaient gouverner les maires du palais ?",
+  "r": "Les rois fainéants",
+  "d": 1,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quelle stèle gravée en trois écritures a permis le déchiffrement des hiéroglyphes ?",
+  "r": "La pierre de Rosette",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel Athénien, par ses réformes de 508 av. J.-C., est considéré comme le fondateur de la démocratie athénienne ?",
+  "r": "Clisthène",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel est le nom du dernier empereur romain d'Occident, déposé en 476 ?",
+  "r": "Romulus Augustule",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle ville se rendit aux Anglais en 1347, après que six bourgeois se furent livrés au roi Édouard III ?",
+  "r": "Calais",
+  "d": 1,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel roi de Germanie, couronné empereur en 962, est considéré comme le fondateur du Saint-Empire ?",
+  "r": "Otton Ier",
+  "d": 2,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Quel archevêque de Canterbury fut assassiné dans sa cathédrale en 1170 ?",
+  "r": "Thomas Becket",
+  "d": 2,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "q": "Quel pont-aqueduc romain à trois niveaux enjambe le Gardon ?",
+  "r": "Le pont du Gard",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel navigateur portugais franchit le premier le cap de Bonne-Espérance en 1488 ?",
+  "r": "Bartolomeu Dias",
+  "d": 2,
+  "t": "Péninsule ibérique et découvertes"
+ },
+ {
+  "q": "Comment appelait-on les guerriers de la noblesse militaire japonaise ?",
+  "r": "Les samouraïs",
+  "d": 1,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Dans quelle vallée proche de Louxor furent enterrés les pharaons du Nouvel Empire ?",
+  "r": "La Vallée des Rois",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel titre portait le chef élu de la République de Venise ?",
+  "r": "Le doge",
+  "d": 1,
+  "t": "Italie médiévale"
+ },
+ {
+  "q": "Comment appelle-t-on le réseau de routes commerciales qui reliait la Chine au monde méditerranéen ?",
+  "r": "La route de la soie",
+  "d": 1,
+  "t": "Chine et Asie antiques"
+ },
+ {
+  "q": "Quel traité de 1420 fit du roi d'Angleterre Henri V l'héritier du trône de France ?",
+  "r": "Le traité de Troyes",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "En quelle année les Rois catholiques prirent-ils Grenade, achevant la Reconquista ?",
+  "r": "1492",
+  "d": 2,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quel prince de Valachie, surnommé « l'Empaleur », a inspiré le personnage de Dracula ?",
+  "r": "Vlad III",
+  "d": 1,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Dans quelle cathédrale Charles VII fut-il sacré en juillet 1429 ?",
+  "r": "Reims",
+  "d": 1,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel historien grec est surnommé « le père de l'Histoire » ?",
+  "r": "Hérodote",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle forteresse, bâtie par Richard Cœur de Lion, domine la Seine aux Andelys ?",
+  "r": "Château-Gaillard",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel roi des Francs fut baptisé à Reims par l'évêque Remi ?",
+  "r": "Clovis",
+  "d": 1,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel mathématicien grec d'Alexandrie a rédigé les « Éléments », base de la géométrie ?",
+  "r": "Euclide",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel nom portait Paris à l'époque gallo-romaine ?",
+  "r": "Lutèce",
+  "d": 1,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel site archéologique de Terre-Neuve atteste d'une présence viking en Amérique ?",
+  "r": "L'Anse aux Meadows",
+  "d": 3,
+  "t": "Vikings et Europe du Nord"
+ },
+ {
+  "q": "Quel peuple polynésien a érigé les grandes statues moaï de l'île de Pâques ?",
+  "r": "Les Rapanui",
+  "d": 3,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "q": "Quel empereur romain est accusé par la légende d'avoir chanté en contemplant l'incendie de Rome en 64 ?",
+  "r": "Néron",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel poète du XVe siècle a écrit la « Ballade des pendus » ?",
+  "r": "François Villon",
+  "d": 1,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quelle bataille de 1302 vit les milices flamandes écraser la chevalerie française ?",
+  "r": "Courtrai",
+  "d": 3,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quelle dynastie chinoise, fondée en 1368, fit construire la Cité interdite à Pékin ?",
+  "r": "Les Ming",
+  "d": 1,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quelle bataille de 490 av. J.-C. a donné son nom à une célèbre course à pied ?",
+  "r": "Marathon",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle capitale aztèque aurait été fondée en 1325 sur une île du lac Texcoco ?",
+  "r": "Tenochtitlan",
+  "d": 2,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "q": "Quel texte de 842, rédigé en langue romane et en langue tudesque, est considéré comme l'acte de naissance du français écrit ?",
+  "r": "Les serments de Strasbourg",
+  "d": 3,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel roi mésopotamien du XXIVe siècle av. J.-C. est considéré comme le fondateur du premier empire de l'histoire ?",
+  "r": "Sargon d'Akkad",
+  "d": 3,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quelle série de six tapisseries du musée de Cluny illustre notamment les cinq sens ?",
+  "r": "La Dame à la licorne",
+  "d": 2,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quel sénateur romain concluait ses discours en réclamant la destruction de Carthage ?",
+  "r": "Caton l'Ancien",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle ville des Andes était la capitale de l'Empire inca ?",
+  "r": "Cuzco",
+  "d": 1,
+  "t": "Amériques précolombiennes"
+ },
+ {
+  "q": "Quelle loi franque fut invoquée au XIVe siècle pour écarter les femmes de la succession au trône de France ?",
+  "r": "La loi salique",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel instrument, inventé au Paléolithique supérieur, permettait de lancer une sagaie plus loin et plus fort ?",
+  "r": "Le propulseur",
+  "d": 3,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel amiral chinois mena au début du XVe siècle de grandes expéditions maritimes jusqu'en Afrique de l'Est ?",
+  "r": "Zheng He",
+  "d": 2,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quel roi d'Angleterre dut accepter la Magna Carta en 1215 ?",
+  "r": "Jean sans Terre",
+  "d": 1,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "q": "Quel site de temples de Ramsès II fut déplacé dans les années 1960 pour échapper aux eaux du lac Nasser ?",
+  "r": "Abou Simbel",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Dans quelle ville Charlemagne fixa-t-il sa résidence principale et fut-il inhumé ?",
+  "r": "Aix-la-Chapelle",
+  "d": 2,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Dans quel musée est conservée la stèle du code de Hammurabi ?",
+  "r": "Le Louvre",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quelle bataille de 1212 marqua un tournant décisif de la Reconquista ?",
+  "r": "Las Navas de Tolosa",
+  "d": 3,
+  "t": "Péninsule ibérique et découvertes"
+ },
+ {
+  "q": "Quelle cité caravanière de Syrie, gouvernée par la reine Zénobie, défia Rome au IIIe siècle ?",
+  "r": "Palmyre",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quelle forteresse syrienne des Hospitaliers est considérée comme le plus beau château des croisés ?",
+  "r": "Le krak des Chevaliers",
+  "d": 2,
+  "t": "Croisades"
+ },
+ {
+  "q": "Quel fondateur de l'empire du Mali est le héros d'une grande épopée mandingue ?",
+  "r": "Soundiata Keïta",
+  "d": 3,
+  "t": "Afrique médiévale"
+ },
+ {
+  "q": "Quel roi de France, surnommé « le Sage », constitua une célèbre librairie au Louvre ?",
+  "r": "Charles V",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quelle période préhistorique s'intercale entre le Paléolithique et le Néolithique ?",
+  "r": "Le Mésolithique",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel savant de Syracuse se serait écrié « Eurêka ! » dans son bain ?",
+  "r": "Archimède",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel surnom a été donné à l'homme de l'âge du cuivre retrouvé momifié dans un glacier des Alpes en 1991 ?",
+  "r": "Ötzi",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Comment s'appelait le cheval d'Alexandre le Grand ?",
+  "r": "Bucéphale",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle duchesse épousa successivement le roi de France Louis VII et le futur roi d'Angleterre Henri II ?",
+  "r": "Aliénor d'Aquitaine",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel roi, élu en 987, a donné son nom à la dynastie capétienne ?",
+  "r": "Hugues Capet",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel empereur romain, fils de Vespasien, détruisit le Temple de Jérusalem en 70 alors qu'il n'était encore que général ?",
+  "r": "Titus",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle invention est attribuée au fonctionnaire chinois Cai Lun vers 105 ?",
+  "r": "Le papier",
+  "d": 2,
+  "t": "Chine et Asie antiques"
+ },
+ {
+  "q": "Quelle abbaye bourguignonne, fondée en 910, fut à la tête d'un immense réseau de monastères ?",
+  "r": "Cluny",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quelle ville des Bouches-du-Rhône, riche en monuments romains, fut surnommée « la petite Rome des Gaules » ?",
+  "r": "Arles",
+  "d": 2,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel gladiateur thrace mena une grande révolte d'esclaves contre Rome de 73 à 71 av. J.-C. ?",
+  "r": "Spartacus",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Selon la tradition, en quelle année ont eu lieu les premiers Jeux olympiques antiques ?",
+  "r": "776 av. J.-C.",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle bataille de 1346, en Picardie, fut la première grande défaite française de la guerre de Cent Ans ?",
+  "r": "Crécy",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quelle chapelle parisienne Saint Louis fit-il construire pour abriter la couronne d'épines ?",
+  "r": "La Sainte-Chapelle",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quelle bataille de 1453, en Gironde, mit fin à la guerre de Cent Ans ?",
+  "r": "Castillon",
+  "d": 3,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel prince de Novgorod vainquit les chevaliers Teutoniques sur le lac gelé Peïpous en 1242 ?",
+  "r": "Alexandre Nevski",
+  "d": 3,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Quel ouvrage de Jules César raconte sa conquête de la Gaule ?",
+  "r": "La Guerre des Gaules (Commentaires)",
+  "d": 2,
+  "t": "Gaule"
+ },
+ {
+  "q": "Dans quelle place forte assiégée Vercingétorix se rendit-il à César en 52 av. J.-C. ?",
+  "r": "Alésia",
+  "d": 1,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel philosophe et mathématicien grec a donné son nom à un théorème sur le triangle rectangle ?",
+  "r": "Pythagore",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quelle île des Cyclades a connu à l'âge du bronze une éruption volcanique majeure qui ensevelit la ville d'Akrotiri ?",
+  "r": "Santorin (Théra)",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel poème épique en vieil anglais raconte le combat d'un héros contre le monstre Grendel ?",
+  "r": "Beowulf",
+  "d": 3,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quelle espèce humaine doit son nom à une vallée allemande proche de Düsseldorf ?",
+  "r": "L'homme de Néandertal",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel peuple gaulois avait pour capitale l'oppidum de Bibracte, sur le mont Beuvray ?",
+  "r": "Les Éduens",
+  "d": 3,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel royaume antique d'Éthiopie est célèbre pour ses stèles monumentales ?",
+  "r": "Aksoum",
+  "d": 3,
+  "t": "Amériques et Afrique antiques"
+ },
+ {
+  "q": "Quel philosophe et théologien a vécu une célèbre et tragique histoire d'amour avec Héloïse ?",
+  "r": "Pierre Abélard",
+  "d": 2,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quel impôt, versé à l'Église, correspondait à une part d'environ un dixième des récoltes ?",
+  "r": "La dîme",
+  "d": 1,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quel historien athénien, ancien stratège, a raconté la guerre du Péloponnèse ?",
+  "r": "Thucydide",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Dans quelle ville les papes s'installèrent-ils au XIVe siècle ?",
+  "r": "Avignon",
+  "d": 1,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quel théologien dominicain a écrit la « Somme théologique » ?",
+  "r": "Thomas d'Aquin",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Comment appelle-t-on le départ de Mahomet pour Médine en 622, point de départ du calendrier musulman ?",
+  "r": "L'hégire",
+  "d": 1,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quel empereur fit construire un mur fortifié à travers le nord de l'actuelle Angleterre ?",
+  "r": "Hadrien",
+  "d": 1,
+  "t": "Rome antique"
+ }
+]

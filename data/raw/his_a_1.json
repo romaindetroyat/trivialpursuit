@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Pour quel pharaon fut édifiée à Saqqarah la première pyramide, dite à degrés ?",
+  "r": "Djéser",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel soldat romain, futur évêque de Tours, aurait partagé son manteau avec un pauvre à Amiens ?",
+  "r": "Saint Martin",
+  "d": 1,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel peuple germanique, qui pilla Rome en 455, a donné un mot synonyme de destructeur ?",
+  "r": "Les Vandales",
+  "d": 1,
+  "t": "Grandes invasions"
+ },
+ {
+  "q": "Quel nom a été donné au squelette d'australopithèque découvert en Éthiopie en 1974 ?",
+  "r": "Lucy",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle ville d'Éthiopie est célèbre pour ses églises médiévales entièrement taillées dans le roc ?",
+  "r": "Lalibela",
+  "d": 3,
+  "t": "Afrique médiévale"
+ },
+ {
+  "q": "Quelle alliance maritime dirigée par Athènes fut fondée en 478 av. J.-C. contre la menace perse ?",
+  "r": "La ligue de Délos",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel navigateur génois atteignit l'Amérique en 1492 ?",
+  "r": "Christophe Colomb",
+  "d": 1,
+  "t": "Péninsule ibérique et découvertes"
+ },
+ {
+  "q": "Quelle bataille de 1415 fut un désastre pour la chevalerie française face aux archers anglais ?",
+  "r": "Azincourt",
+  "d": 1,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel duc de Normandie conquit l'Angleterre en 1066 ?",
+  "r": "Guillaume le Conquérant",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel empereur philosophe stoïcien a écrit les « Pensées pour moi-même » ?",
+  "r": "Marc Aurèle",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quels deux partis princiers s'affrontèrent dans la guerre civile française du début du XVe siècle ?",
+  "r": "Armagnacs et Bourguignons",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel roi perse envoya l'armée vaincue par les Athéniens à Marathon ?",
+  "r": "Darius Ier",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quelle commune du Morbihan est célèbre pour ses milliers de menhirs alignés ?",
+  "r": "Carnac",
+  "d": 1,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel empereur romain est né à Lugdunum en 10 av. J.-C. ?",
+  "r": "Claude",
+  "d": 3,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel pharaon tenta d'imposer le culte d'un dieu unique, le disque solaire Aton ?",
+  "r": "Akhenaton",
+  "d": 2,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel philosophe et médecin persan est l'auteur du « Canon de la médecine » ?",
+  "r": "Avicenne",
+  "d": 2,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quelle statue géante, l'une des sept merveilles du monde, se dressait à l'entrée du port de Rhodes ?",
+  "r": "Le Colosse de Rhodes",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel empereur germanique se noya dans un fleuve d'Anatolie pendant la troisième croisade ?",
+  "r": "Frédéric Barberousse",
+  "d": 2,
+  "t": "Croisades"
+ },
+ {
+  "q": "Comment appelait-on les prêtres gaulois qui, selon Pline, cueillaient le gui avec une serpe d'or ?",
+  "r": "Les druides",
+  "d": 1,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quelle bataille de 507 vit Clovis vaincre les Wisigoths d'Alaric II ?",
+  "r": "Vouillé",
+  "d": 3,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel « vent divin » aurait dispersé les flottes mongoles lancées contre le Japon au XIIIe siècle ?",
+  "r": "Le kamikaze",
+  "d": 2,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quel abbé de Saint-Denis, conseiller de Louis VI et Louis VII, est considéré comme l'initiateur de l'art gothique ?",
+  "r": "Suger",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Dans quelle ville Jeanne d'Arc fut-elle brûlée vive en 1431 ?",
+  "r": "Rouen",
+  "d": 1,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel roi de France remporta la bataille de Bouvines en 1214 ?",
+  "r": "Philippe Auguste",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel monument égyptien se dresse place de la Concorde à Paris depuis 1836 ?",
+  "r": "L'obélisque de Louxor",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quelle civilisation de l'âge du bronze avait pour grandes cités Harappa et Mohenjo-daro ?",
+  "r": "La civilisation de l'Indus",
+  "d": 2,
+  "t": "Chine et Asie antiques"
+ },
+ {
+  "q": "Quel roi de France, surnommé « l'universelle aragne », régna de 1461 à 1483 ?",
+  "r": "Louis XI",
+  "d": 2,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quels trois hommes formèrent le premier triumvirat en 60 av. J.-C. ?",
+  "r": "César, Pompée et Crassus",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel saint castillan fonda l'ordre des Frères prêcheurs ?",
+  "r": "Saint Dominique",
+  "d": 2,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quel souverain est traditionnellement considéré comme l'unificateur de la Haute et de la Basse-Égypte ?",
+  "r": "Narmer (ou Ménès)",
+  "d": 3,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel roi de France fut fait prisonnier par les Anglais à la bataille de Poitiers en 1356 ?",
+  "r": "Jean II le Bon",
+  "d": 2,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel empereur byzantin fit bâtir la basilique Sainte-Sophie au VIe siècle ?",
+  "r": "Justinien",
+  "d": 1,
+  "t": "Byzance"
+ },
+ {
+  "q": "Quel maire du palais arrêta une armée arabe près de Poitiers en 732 ?",
+  "r": "Charles Martel",
+  "d": 1,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel chef germanique déposa le dernier empereur romain d'Occident en 476 ?",
+  "r": "Odoacre",
+  "d": 3,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle guerre civile anglaise du XVe siècle opposa les maisons de Lancastre et d'York ?",
+  "r": "La guerre des Deux-Roses",
+  "d": 1,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "q": "Quel empereur romain aurait voulu faire de son cheval Incitatus un consul ?",
+  "r": "Caligula",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Pour quel pharaon la grande pyramide de Gizeh a-t-elle été construite ?",
+  "r": "Khéops",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Dans quelle ville Alexandre le Grand mourut-il en 323 av. J.-C. ?",
+  "r": "Babylone",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel savant de Cyrène a estimé la circonférence de la Terre au IIIe siècle av. J.-C. ?",
+  "r": "Ératosthène",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel consul et orateur dénonça la conjuration de Catilina en 63 av. J.-C. ?",
+  "r": "Cicéron",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel seigneur champenois, compagnon de croisade de Saint Louis, écrivit sa biographie ?",
+  "r": "Jean de Joinville",
+  "d": 3,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel roi de France fit arrêter les Templiers en 1307 ?",
+  "r": "Philippe le Bel",
+  "d": 1,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel chef de la croisade des Albigeois fut tué par une pierre lors du siège de Toulouse en 1218 ?",
+  "r": "Simon de Montfort",
+  "d": 3,
+  "t": "Croisade des Albigeois"
+ },
+ {
+  "q": "Quelle cité sumérienne est présentée par la Bible comme la patrie d'Abraham ?",
+  "r": "Ur",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Selon la tradition, quel premier évêque de Paris fut décapité sur la butte Montmartre ?",
+  "r": "Saint Denis",
+  "d": 2,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quelle statuette paléolithique aux formes généreuses a été découverte en Autriche en 1908 ?",
+  "r": "La Vénus de Willendorf",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel écrivain florentin a écrit « Le Décaméron » ?",
+  "r": "Boccace",
+  "d": 2,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quel chevalier castillan du XIe siècle, Rodrigo Díaz de Vivar, est plus connu sous un surnom d'origine arabe ?",
+  "r": "Le Cid",
+  "d": 2,
+  "t": "Péninsule ibérique et découvertes"
+ },
+ {
+  "q": "Quelle bataille navale de 480 av. J.-C. vit la flotte grecque écraser celle des Perses près d'Athènes ?",
+  "r": "Salamine",
+  "d": 2,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Comment appelle-t-on le soulèvement paysan de 1358 dans le nord de la France ?",
+  "r": "La Grande Jacquerie",
+  "d": 2,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quelle dame de la cour japonaise a écrit « Le Dit du Genji » vers l'an 1000 ?",
+  "r": "Murasaki Shikibu",
+  "d": 3,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "En quelle année la grotte de Lascaux a-t-elle été découverte par quatre adolescents ?",
+  "r": "1940",
+  "d": 2,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quelle ville fut fondée en 762 par les Abbassides pour devenir leur capitale ?",
+  "r": "Bagdad",
+  "d": 2,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quelle invention chinoise, née des recherches d'alchimistes, a révolutionné l'art de la guerre ?",
+  "r": "La poudre à canon",
+  "d": 1,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quelle femme, aimée de Pétrarque, lui a inspiré les poèmes du « Canzoniere » ?",
+  "r": "Laure",
+  "d": 3,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quelle duchesse de Bretagne épousa le roi Charles VIII en 1491 ?",
+  "r": "Anne de Bretagne",
+  "d": 1,
+  "t": "Fin du Moyen Âge en France"
+ },
+ {
+  "q": "Quel célèbre traité de stratégie militaire est attribué au Chinois Sun Tzu ?",
+  "r": "L'Art de la guerre",
+  "d": 1,
+  "t": "Chine et Asie antiques"
+ },
+ {
+  "q": "Quelle petite tête en ivoire de mammouth, découverte dans les Landes, est l'une des plus anciennes représentations d'un visage humain ?",
+  "r": "La Dame de Brassempouy",
+  "d": 3,
+  "t": "Préhistoire"
+ },
+ {
+  "q": "Quel peuple germanique, installé en Italie au VIe siècle, a donné son nom à une région autour de Milan ?",
+  "r": "Les Lombards",
+  "d": 2,
+  "t": "Grandes invasions"
+ },
+ {
+  "q": "Quel immense temple khmer du XIIe siècle est représenté sur le drapeau du Cambodge ?",
+  "r": "Angkor Vat",
+  "d": 1,
+  "t": "Asie médiévale"
+ },
+ {
+  "q": "Quel jeune pharaon est célèbre pour son tombeau découvert presque intact en 1922 ?",
+  "r": "Toutânkhamon",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Quel nouveau nom l'antique Byzance reçut-elle en 330 en devenant capitale de l'Empire ?",
+  "r": "Constantinople",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel auteur champenois du XIIe siècle a écrit « Perceval ou le Conte du Graal » ?",
+  "r": "Chrétien de Troyes",
+  "d": 2,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quelle secte ismaélienne, dirigée par le « Vieux de la Montagne », était redoutée pour ses meurtres politiques ?",
+  "r": "Les Assassins",
+  "d": 3,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quel grand-prince de Kiev se convertit au christianisme vers 988 ?",
+  "r": "Vladimir Ier",
+  "d": 3,
+  "t": "Saint-Empire et Europe centrale"
+ },
+ {
+  "q": "Quel moine anglo-saxon surnommé « le Vénérable » a écrit une histoire ecclésiastique du peuple anglais ?",
+  "r": "Bède",
+  "d": 3,
+  "t": "Vikings et Europe du Nord"
+ },
+ {
+  "q": "Comment appelait-on les poètes-musiciens qui composaient en langue d'oc au Moyen Âge ?",
+  "r": "Les troubadours",
+  "d": 1,
+  "t": "Culture médiévale"
+ },
+ {
+  "q": "Quelle ville du Gard possède la Maison carrée et des arènes romaines très bien conservées ?",
+  "r": "Nîmes",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle culture celte du second âge du fer doit son nom à un site du lac de Neuchâtel, en Suisse ?",
+  "r": "La Tène",
+  "d": 3,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quelle reine, mère de Saint Louis, exerça la régence pendant sa minorité ?",
+  "r": "Blanche de Castille",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Quel stratège athénien convainquit sa cité de construire la flotte victorieuse à Salamine ?",
+  "r": "Thémistocle",
+  "d": 3,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel palais-forteresse des émirs nasrides domine la ville de Grenade ?",
+  "r": "L'Alhambra",
+  "d": 1,
+  "t": "Monde musulman médiéval"
+ },
+ {
+  "q": "Quel philosophe athénien fut condamné à boire la ciguë en 399 av. J.-C. ?",
+  "r": "Socrate",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel traité de 843 partagea l'Empire carolingien entre trois petits-fils de Charlemagne ?",
+  "r": "Le traité de Verdun",
+  "d": 2,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel roi d'Angleterre fut mortellement blessé par un carreau d'arbalète au siège de Châlus en 1199 ?",
+  "r": "Richard Cœur de Lion",
+  "d": 2,
+  "t": "Capétiens"
+ },
+ {
+  "q": "Selon la tradition, en quelle année Rome a-t-elle été fondée ?",
+  "r": "753 av. J.-C.",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel dieu égyptien, tué par son frère Seth, devint le souverain du royaume des morts ?",
+  "r": "Osiris",
+  "d": 1,
+  "t": "Égypte ancienne"
+ },
+ {
+  "q": "Vers quelle ville de Galice convergeaient les grands chemins de pèlerinage médiévaux traversant la France ?",
+  "r": "Saint-Jacques-de-Compostelle",
+  "d": 1,
+  "t": "Église médiévale"
+ },
+ {
+  "q": "Quel sultan ottoman s'empara de Constantinople en 1453 ?",
+  "r": "Mehmed II",
+  "d": 2,
+  "t": "Byzance"
+ },
+ {
+  "q": "Quel roi de Sparte tomba avec ses 300 hoplites au défilé des Thermopyles ?",
+  "r": "Léonidas",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Selon la tradition, quelle cité phénicienne a fondé Carthage ?",
+  "r": "Tyr",
+  "d": 3,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quel est le nom du dernier roi de Rome, chassé en 509 av. J.-C. ?",
+  "r": "Tarquin le Superbe",
+  "d": 2,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quelle petite rivière Jules César franchit-il en 49 av. J.-C. en déclarant « Alea jacta est » ?",
+  "r": "Le Rubicon",
+  "d": 1,
+  "t": "Rome antique"
+ },
+ {
+  "q": "Quel roi d'Angleterre fut tué à la bataille de Bosworth en 1485 ?",
+  "r": "Richard III",
+  "d": 2,
+  "t": "Angleterre médiévale"
+ },
+ {
+  "q": "Dans quel sanctuaire la Pythie rendait-elle les oracles d'Apollon ?",
+  "r": "Delphes",
+  "d": 1,
+  "t": "Grèce antique"
+ },
+ {
+  "q": "Quel roi légendaire d'Uruk est le héros de l'une des plus anciennes épopées connues ?",
+  "r": "Gilgamesh",
+  "d": 1,
+  "t": "Mésopotamie et Proche-Orient"
+ },
+ {
+  "q": "Quel roi de France créa en 1445 les compagnies d'ordonnance, première armée permanente ?",
+  "r": "Charles VII",
+  "d": 3,
+  "t": "Guerre de Cent Ans"
+ },
+ {
+  "q": "Quel chef gaulois, après avoir pris Rome vers 390 av. J.-C., aurait lancé « Vae victis » ?",
+  "r": "Brennus",
+  "d": 2,
+  "t": "Gaule"
+ },
+ {
+  "q": "Quel objet liturgique, brisé par un guerrier franc, est au cœur d'une célèbre anecdote sur Clovis ?",
+  "r": "Le vase de Soissons",
+  "d": 1,
+  "t": "Mérovingiens et Carolingiens"
+ },
+ {
+  "q": "Quel roi fonda l'Empire perse achéménide et s'empara de Babylone en 539 av. J.-C. ?",
+  "r": "Cyrus le Grand",
+  "d": 2,
+  "t": "Mésopotamie et Proche-Orient"
+ }
+]

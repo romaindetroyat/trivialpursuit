@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quel savant français a mis au point en 1885 le premier vaccin contre la rage ?",
+  "r": "Louis Pasteur",
+  "d": 1,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Comment s'appelait le jeune Alsacien mordu par un chien enragé et vacciné par Pasteur en 1885 ?",
+  "r": "Joseph Meister",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quel médecin anglais a réalisé en 1796 la première vaccination contre la variole ?",
+  "r": "Edward Jenner",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "De quelle maladie bovine, utilisée par Jenner, vient le mot « vaccin » ?",
+  "r": "La vaccine (variole de la vache)",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quelle maladie infectieuse a été officiellement déclarée éradiquée par l'OMS en 1980 ?",
+  "r": "La variole",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel bactériologiste écossais a découvert la pénicilline en 1928 ?",
+  "r": "Alexander Fleming",
+  "d": 1,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "De quel type d'organisme la pénicilline est-elle issue ?",
+  "r": "Un champignon (moisissure)",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "q": "Quel médecin grec de l'Antiquité, né sur l'île de Cos, est considéré comme le père de la médecine ?",
+  "r": "Hippocrate",
+  "d": 1,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin grec, actif à Rome au IIe siècle, a dominé la pensée médicale pendant plus d'un millénaire ?",
+  "r": "Galien",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Sous quel nom l'Occident connaît-il le médecin persan Ibn Sina, auteur du « Canon de la médecine » ?",
+  "r": "Avicenne",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel chirurgien français du XVIe siècle, qui servit plusieurs rois, est considéré comme le père de la chirurgie moderne ?",
+  "r": "Ambroise Paré",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin breton a inventé le stéthoscope en 1816 ?",
+  "r": "René Laennec",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin anglais a décrit en 1628 la circulation du sang dans le corps ?",
+  "r": "William Harvey",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin hongrois a imposé dès 1847 le lavage des mains à Vienne pour réduire la fièvre puerpérale ?",
+  "r": "Ignace Semmelweis",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel chirurgien britannique a introduit l'antisepsie au phénol dans les années 1860 ?",
+  "r": "Joseph Lister",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin allemand a identifié en 1882 le bacille responsable de la tuberculose ?",
+  "r": "Robert Koch",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin franco-suisse a découvert en 1894, à Hong Kong, le bacille de la peste ?",
+  "r": "Alexandre Yersin",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel insecte transmet le paludisme à l'être humain ?",
+  "r": "Le moustique (anophèle)",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel médecin militaire français a découvert en 1880, en Algérie, le parasite responsable du paludisme ?",
+  "r": "Alphonse Laveran",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quelle épidémie a tué entre un tiers et la moitié des Européens entre 1347 et 1352 ?",
+  "r": "La peste noire",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle pandémie grippale a fait des dizaines de millions de morts dans le monde en 1918-1919 ?",
+  "r": "La grippe espagnole",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel virus est responsable du sida ?",
+  "r": "Le VIH",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quels deux chercheurs français ont reçu le prix Nobel de médecine 2008 pour la découverte du VIH ?",
+  "r": "Barré-Sinoussi et Montagnier",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quelles cellules immunitaires le VIH attaque-t-il en priorité ?",
+  "r": "Les lymphocytes T CD4",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle intoxication, appelée « mal des ardents » au Moyen Âge, était due à un champignon parasite du seigle ?",
+  "r": "L'ergotisme",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle vitamine manquante provoque le scorbut, fléau des marins d'autrefois ?",
+  "r": "La vitamine C",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie de l'enfance entraîne un défaut de minéralisation et des déformations des os ?",
+  "r": "Le rachitisme",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "La carence en quelle vitamine provoque le béribéri ?",
+  "r": "La vitamine B1 (thiamine)",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel organe est touché par l'hépatite ?",
+  "r": "Le foie",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie infectieuse, jadis appelée « phtisie », a emporté de nombreux poètes romantiques ?",
+  "r": "La tuberculose",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel sigle désigne le vaccin antituberculeux mis au point par deux chercheurs de l'Institut Pasteur ?",
+  "r": "Le BCG",
+  "d": 1,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Contre quelle maladie paralysante Jonas Salk a-t-il mis au point un vaccin injectable dans les années 1950 ?",
+  "r": "La poliomyélite",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quel chercheur américain a mis au point le vaccin oral contre la poliomyélite ?",
+  "r": "Albert Sabin",
+  "d": 3,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quelle maladie virale infantile se manifeste par de petites vésicules qui démangent ?",
+  "r": "La varicelle",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle affection douloureuse de la peau et des nerfs est due au réveil du virus de la varicelle ?",
+  "r": "Le zona",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie, surnommée « maladie du baiser », est due au virus d'Epstein-Barr ?",
+  "r": "La mononucléose",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel sigle de trois lettres désigne le vaccin combiné contre trois maladies virales infantiles, dont la rougeole ?",
+  "r": "Le ROR",
+  "d": 1,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quelle maladie virale de l'enfance fait gonfler les glandes parotides, sous les oreilles ?",
+  "r": "Les oreillons",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle technologie vaccinale, utilisée contre la Covid-19, a valu le prix Nobel de médecine 2023 à Katalin Karikó et Drew Weissman ?",
+  "r": "L'ARN messager",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quel virus est responsable de la Covid-19 ?",
+  "r": "Le SARS-CoV-2",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Dans quelle ville chinoise les premiers cas de Covid-19 ont-ils été identifiés fin 2019 ?",
+  "r": "Wuhan",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Dans quel pays, appelé Zaïre à l'époque, coule la rivière qui a donné son nom au virus Ebola en 1976 ?",
+  "r": "La République démocratique du Congo",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle bactérie, dont le rôle dans les ulcères de l'estomac a été récompensé par le Nobel 2005, vit dans l'estomac ?",
+  "r": "Helicobacter pylori",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel chirurgien sud-africain a réalisé la première greffe du cœur humain en 1967 ?",
+  "r": "Christiaan Barnard",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Dans quel pays a été réalisée en 2005 la première greffe partielle du visage ?",
+  "r": "La France (Amiens)",
+  "d": 2,
+  "t": "Chirurgie"
+ },
+ {
+  "q": "Quel organe a été le premier greffé avec succès, en 1954 à Boston, entre deux jumeaux ?",
+  "r": "Le rein",
+  "d": 2,
+  "t": "Chirurgie"
+ },
+ {
+  "q": "Quelle maladie héréditaire empêchant la bonne coagulation du sang a touché plusieurs familles royales européennes ?",
+  "r": "L'hémophilie",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle souveraine britannique a transmis le gène de l'hémophilie à plusieurs cours d'Europe ?",
+  "r": "La reine Victoria",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie neurodégénérative marquée par des tremblements porte le nom d'un médecin anglais qui la décrivit en 1817 ?",
+  "r": "La maladie de Parkinson",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel psychiatre allemand a décrit en 1906 la forme de démence qui porte son nom ?",
+  "r": "Alois Alzheimer",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel nom de neurologue français donne-t-on couramment en France à la sclérose latérale amyotrophique ?",
+  "r": "Charcot (maladie de Charcot)",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel médecin néerlandais, prix Nobel 1924, a inventé l'électrocardiographe ?",
+  "r": "Willem Einthoven",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel physicien allemand a découvert en 1895 les rayons X, révolutionnant le diagnostic médical ?",
+  "r": "Wilhelm Röntgen",
+  "d": 1,
+  "t": "Imagerie médicale"
+ },
+ {
+  "q": "Quelle scientifique a organisé pendant la Première Guerre mondiale des voitures radiologiques surnommées « petites Curie » ?",
+  "r": "Marie Curie",
+  "d": 1,
+  "t": "Imagerie médicale"
+ },
+ {
+  "q": "Quelle technique d'imagerie médicale, sans rayons X, utilise un puissant champ magnétique ?",
+  "r": "L'IRM",
+  "d": 1,
+  "t": "Imagerie médicale"
+ },
+ {
+  "q": "Quel médicament, dérivé d'une substance de l'écorce de saule, est commercialisé par Bayer depuis 1899 ?",
+  "r": "L'aspirine",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "q": "Quelle molécule est le principe actif de l'aspirine ?",
+  "r": "L'acide acétylsalicylique",
+  "d": 2,
+  "t": "Médicaments"
+ },
+ {
+  "q": "Quel chercheur canadien a découvert l'insuline en 1921 avec Charles Best ?",
+  "r": "Frederick Banting",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel type de diabète, d'origine auto-immune, apparaît le plus souvent dans l'enfance ?",
+  "r": "Le diabète de type 1",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel oligo-élément, ajouté au sel de table, permet de prévenir le goitre ?",
+  "r": "L'iode",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle ONG médicale a été fondée en France en 1971, notamment par Bernard Kouchner ?",
+  "r": "Médecins sans frontières",
+  "d": 1,
+  "t": "Santé publique"
+ },
+ {
+  "q": "Quelle infirmière britannique, surnommée « la dame à la lampe », s'illustra pendant la guerre de Crimée ?",
+  "r": "Florence Nightingale",
+  "d": 1,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel homme d'affaires suisse, fondateur de la Croix-Rouge, fut colauréat du premier prix Nobel de la paix en 1901 ?",
+  "r": "Henry Dunant",
+  "d": 2,
+  "t": "Santé publique"
+ },
+ {
+  "q": "Quelle bataille de 1859, dont il vit les blessés abandonnés, inspira à Henry Dunant la création de la Croix-Rouge ?",
+  "r": "Solférino",
+  "d": 2,
+  "t": "Santé publique"
+ },
+ {
+  "q": "Quel médecin alsacien, prix Nobel de la paix 1952, fonda un hôpital à Lambaréné, au Gabon ?",
+  "r": "Albert Schweitzer",
+  "d": 2,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quelle maladie infectieuse chronique est causée par le bacille de Hansen ?",
+  "r": "La lèpre",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie, due à une bactérie présente dans la terre, provoque de violentes contractures musculaires et justifie un rappel vaccinal ?",
+  "r": "Le tétanos",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle infection sexuellement transmissible, due au tréponème pâle, était appelée « mal français » par les Italiens ?",
+  "r": "La syphilis",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie diarrhéique, due à un vibrion transmis par l'eau souillée, fit près de 20 000 morts à Paris en 1832 ?",
+  "r": "Le choléra",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel médecin anglais a démontré en 1854, grâce à une pompe de Broad Street à Londres, que le choléra se transmettait par l'eau ?",
+  "r": "John Snow",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Comment appelle-t-on la spécialité médicale consacrée aux enfants ?",
+  "r": "La pédiatrie",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "q": "Comment appelle-t-on le médecin spécialiste des maladies de la peau ?",
+  "r": "Le dermatologue",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "q": "Quelle spécialité médicale se consacre aux personnes âgées ?",
+  "r": "La gériatrie",
+  "d": 1,
+  "t": "Spécialités médicales"
+ },
+ {
+  "q": "Quel type d'agent infectieux, une simple protéine mal repliée, est responsable de la maladie de la vache folle ?",
+  "r": "Le prion",
+  "d": 3,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel antibiotique, découvert en 1943 aux États-Unis, fut le premier efficace contre la tuberculose ?",
+  "r": "La streptomycine",
+  "d": 3,
+  "t": "Médicaments"
+ },
+ {
+  "q": "Quelle maladie virale transmise par le moustique tigre a frappé plus d'un tiers des habitants de La Réunion en 2005-2006 ?",
+  "r": "Le chikungunya",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Contre quelle maladie virale tropicale la vaccination est-elle obligatoire pour se rendre en Guyane ?",
+  "r": "La fièvre jaune",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Quel médecin cubain a avancé dès 1881 que la fièvre jaune était transmise par un moustique ?",
+  "r": "Carlos Finlay",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Comment appelle-t-on une épidémie qui s'étend à l'échelle de toute la planète ?",
+  "r": "Une pandémie",
+  "d": 1,
+  "t": "Santé publique"
+ },
+ {
+  "q": "Quel physiologiste français a reçu le prix Nobel de médecine 1913 pour la découverte de l'anaphylaxie ?",
+  "r": "Charles Richet",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Quel médecin français, prix Nobel 1928, a démontré à Tunis le rôle du pou dans la transmission du typhus ?",
+  "r": "Charles Nicolle",
+  "d": 3,
+  "t": "Grands médecins"
+ },
+ {
+  "q": "Contre quelle maladie Émile Roux a-t-il mis au point un sérum en 1894 ?",
+  "r": "La diphtérie",
+  "d": 3,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Comment appelle-t-on couramment la rhinite allergique déclenchée par les pollens ?",
+  "r": "Le rhume des foins",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Comment appelle-t-on une substance sans principe actif, administrée comme un médicament lors des essais cliniques ?",
+  "r": "Un placebo",
+  "d": 1,
+  "t": "Médicaments"
+ },
+ {
+  "q": "Quel virus, contre lequel on vaccine les adolescents, est responsable de la plupart des cancers du col de l'utérus ?",
+  "r": "Le papillomavirus (HPV)",
+  "d": 2,
+  "t": "Vaccins"
+ },
+ {
+  "q": "Comment appelle-t-on le cancer de la peau le plus dangereux, qui se développe à partir des cellules pigmentaires ?",
+  "r": "Le mélanome",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quelle maladie auto-immune de l'intestin est déclenchée par l'ingestion de gluten ?",
+  "r": "La maladie cœliaque",
+  "d": 2,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel est le terme médical désignant la crise cardiaque ?",
+  "r": "L'infarctus (du myocarde)",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Que signifie le sigle AVC ?",
+  "r": "Accident vasculaire cérébral",
+  "d": 1,
+  "t": "Maladies"
+ },
+ {
+  "q": "Quel appareil, muni d'un brassard gonflable, mesure la tension artérielle ?",
+  "r": "Le tensiomètre",
+  "d": 1,
+  "t": "Examens médicaux"
+ }
+]

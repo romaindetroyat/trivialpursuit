@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quel est l'os le plus long du corps humain ?",
+  "r": "Le fémur",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Combien d'os compte le squelette d'un adulte humain ?",
+  "r": "206",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quel est le plus petit os du corps humain, logé dans l'oreille moyenne ?",
+  "r": "L'étrier",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quel est le nom de l'os du genou dans la terminologie anatomique moderne, autrefois appelé rotule ?",
+  "r": "La patella",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quels organes en forme de haricot filtrent le sang pour produire l'urine ?",
+  "r": "Les reins",
+  "d": 1,
+  "t": "Organes"
+ },
+ {
+  "q": "Quel est le plus gros organe interne du corps humain ?",
+  "r": "Le foie",
+  "d": 1,
+  "t": "Organes"
+ },
+ {
+  "q": "Combien de cavités compte le cœur humain ?",
+  "r": "Quatre",
+  "d": 1,
+  "t": "Cœur et circulation"
+ },
+ {
+  "q": "Quel est le plus grand organe du corps humain, si l'on compte aussi les organes externes ?",
+  "r": "La peau",
+  "d": 1,
+  "t": "Organes"
+ },
+ {
+  "q": "Quelle valve cardiaque sépare l'oreillette gauche du ventricule gauche ?",
+  "r": "La valve mitrale",
+  "d": 2,
+  "t": "Cœur et circulation"
+ },
+ {
+  "q": "Quelle est la plus grosse artère du corps humain, qui part du ventricule gauche ?",
+  "r": "L'aorte",
+  "d": 1,
+  "t": "Cœur et circulation"
+ },
+ {
+  "q": "Comment s'appellent les minuscules sacs des poumons où se font les échanges gazeux ?",
+  "r": "Les alvéoles pulmonaires",
+  "d": 2,
+  "t": "Respiration"
+ },
+ {
+  "q": "Quel muscle en forme de dôme, situé sous les poumons, assure l'essentiel de l'inspiration ?",
+  "r": "Le diaphragme",
+  "d": 1,
+  "t": "Respiration"
+ },
+ {
+  "q": "Combien de paires de côtes possède habituellement l'être humain ?",
+  "r": "12 paires",
+  "d": 1,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Combien de vertèbres cervicales compte la colonne vertébrale humaine ?",
+  "r": "Sept",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quel nom, emprunté à un titan de la mythologie, porte la première vertèbre cervicale qui soutient le crâne ?",
+  "r": "L'atlas",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Comment se nomme la deuxième vertèbre cervicale, autour de laquelle pivote la première ?",
+  "r": "L'axis",
+  "d": 3,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Comment s'appelle l'os du talon ?",
+  "r": "Le calcanéus (calcanéum)",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quel tendon, portant le nom d'un héros grec, relie le mollet au talon ?",
+  "r": "Le tendon d'Achille",
+  "d": 1,
+  "t": "Muscles"
+ },
+ {
+  "q": "Quel est le muscle le plus volumineux du corps humain ?",
+  "r": "Le grand fessier",
+  "d": 2,
+  "t": "Muscles"
+ },
+ {
+  "q": "Quel muscle de la cuisse, surnommé « couturier », est le plus long du corps humain ?",
+  "r": "Le sartorius",
+  "d": 3,
+  "t": "Muscles"
+ },
+ {
+  "q": "Dans quel petit organe la bile est-elle stockée entre les repas ?",
+  "r": "La vésicule biliaire",
+  "d": 1,
+  "t": "Digestion"
+ },
+ {
+  "q": "Quel organe produit l'insuline ?",
+  "r": "Le pancréas",
+  "d": 1,
+  "t": "Hormones et glandes"
+ },
+ {
+  "q": "Comment appelle-t-on les amas de cellules du pancréas qui sécrètent l'insuline, du nom d'un anatomiste allemand ?",
+  "r": "Les îlots de Langerhans",
+  "d": 2,
+  "t": "Hormones et glandes"
+ },
+ {
+  "q": "Quelle glande en forme de papillon, située à la base du cou, règle le métabolisme ?",
+  "r": "La thyroïde",
+  "d": 1,
+  "t": "Hormones et glandes"
+ },
+ {
+  "q": "Quelle glande, surnommée « chef d'orchestre » du système hormonal, est logée sous le cerveau ?",
+  "r": "L'hypophyse",
+  "d": 2,
+  "t": "Hormones et glandes"
+ },
+ {
+  "q": "Quelle petite glande du cerveau sécrète la mélatonine, l'hormone du sommeil ?",
+  "r": "L'épiphyse (glande pinéale)",
+  "d": 2,
+  "t": "Hormones et glandes"
+ },
+ {
+  "q": "Quelle hormone, sécrétée par les glandes surrénales, accélère le cœur face au danger ?",
+  "r": "L'adrénaline",
+  "d": 1,
+  "t": "Hormones et glandes"
+ },
+ {
+  "q": "Quelle partie de l'encéphale, située à l'arrière sous le cerveau, coordonne l'équilibre et les mouvements ?",
+  "r": "Le cervelet",
+  "d": 1,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Comment s'appelle la large bande de fibres nerveuses qui relie les deux hémisphères cérébraux ?",
+  "r": "Le corps calleux",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quel lobe du cerveau, situé à l'arrière du crâne, traite principalement la vision ?",
+  "r": "Le lobe occipital",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quelle zone du cerveau liée à la production du langage porte le nom d'un médecin français qui la décrivit en 1861 ?",
+  "r": "L'aire de Broca",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Combien de paires de nerfs crâniens possède l'être humain ?",
+  "r": "12 paires",
+  "d": 3,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quel est le nerf le plus long et le plus gros du corps humain, qui descend dans la jambe ?",
+  "r": "Le nerf sciatique",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quelle membrane transparente recouvre l'avant de l'œil ?",
+  "r": "La cornée",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Quelle partie colorée de l'œil règle le diamètre de la pupille ?",
+  "r": "L'iris",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Quelles cellules de la rétine permettent de percevoir les couleurs ?",
+  "r": "Les cônes",
+  "d": 2,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Quelles cellules de la rétine, très sensibles à la lumière, assurent la vision nocturne ?",
+  "r": "Les bâtonnets",
+  "d": 2,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Comment appelle-t-on la zone de la rétine dépourvue de photorécepteurs, là où naît le nerf optique ?",
+  "r": "La tache aveugle",
+  "d": 2,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Comment se nomme la petite dépression au centre de la macula, où la vision est la plus précise ?",
+  "r": "La fovéa",
+  "d": 3,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Comment appelle-t-on le défaut de vision qui empêche de voir nettement de loin ?",
+  "r": "La myopie",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Comment appelle-t-on la baisse de la vision de près qui survient naturellement avec l'âge ?",
+  "r": "La presbytie",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Quelle anomalie de la perception des couleurs porte le nom d'un chimiste anglais qui en était atteint ?",
+  "r": "Le daltonisme",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Quelle maladie de l'œil, souvent liée à une pression intraoculaire trop élevée, abîme le nerf optique ?",
+  "r": "Le glaucome",
+  "d": 2,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Quelle lentille naturelle de l'œil se déforme pour faire la mise au point ?",
+  "r": "Le cristallin",
+  "d": 1,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Comment s'appelle la substance gélatineuse et transparente qui remplit l'essentiel du globe oculaire ?",
+  "r": "Le corps vitré (humeur vitrée)",
+  "d": 3,
+  "t": "Sens : la vue"
+ },
+ {
+  "q": "Comment appelle-t-on la structure de l'oreille interne, en forme de coquille d'escargot, qui permet l'audition ?",
+  "r": "La cochlée",
+  "d": 2,
+  "t": "Sens : l'ouïe"
+ },
+ {
+  "q": "Quelle fine membrane sépare le conduit auditif externe de l'oreille moyenne ?",
+  "r": "Le tympan",
+  "d": 1,
+  "t": "Sens : l'ouïe"
+ },
+ {
+  "q": "Quel conduit, portant le nom d'un anatomiste italien, relie l'oreille moyenne à l'arrière-gorge ?",
+  "r": "La trompe d'Eustache",
+  "d": 3,
+  "t": "Sens : l'ouïe"
+ },
+ {
+  "q": "Quel nom japonais désigne la cinquième saveur de base, identifiée par le chimiste Kikunae Ikeda en 1908 ?",
+  "r": "L'umami",
+  "d": 2,
+  "t": "Sens : le goût"
+ },
+ {
+  "q": "Comment appelle-t-on les petites saillies de la langue qui abritent les bourgeons du goût ?",
+  "r": "Les papilles gustatives",
+  "d": 1,
+  "t": "Sens : le goût"
+ },
+ {
+  "q": "Quel sens est assuré par les corpuscules de Meissner et de Pacini situés dans la peau ?",
+  "r": "Le toucher",
+  "d": 2,
+  "t": "Sens : le toucher"
+ },
+ {
+  "q": "Combien de dents compte la denture définitive complète d'un adulte ?",
+  "r": "32",
+  "d": 1,
+  "t": "Dents"
+ },
+ {
+  "q": "Combien de dents de lait possède un enfant ?",
+  "r": "20",
+  "d": 2,
+  "t": "Dents"
+ },
+ {
+  "q": "Quelle substance, la plus dure du corps humain, recouvre la couronne des dents ?",
+  "r": "L'émail",
+  "d": 1,
+  "t": "Dents"
+ },
+ {
+  "q": "Comment appelle-t-on la couche la plus profonde de la peau, riche en graisse ?",
+  "r": "L'hypoderme",
+  "d": 3,
+  "t": "Peau et phanères"
+ },
+ {
+  "q": "Quel pigment donne leur couleur à la peau et aux cheveux ?",
+  "r": "La mélanine",
+  "d": 1,
+  "t": "Peau et phanères"
+ },
+ {
+  "q": "Quelle protéine fibreuse constitue l'essentiel des cheveux et des ongles ?",
+  "r": "La kératine",
+  "d": 1,
+  "t": "Peau et phanères"
+ },
+ {
+  "q": "Quelle protéine, la plus abondante du corps humain, assure la solidité de la peau, des tendons et des os ?",
+  "r": "Le collagène",
+  "d": 2,
+  "t": "Peau et phanères"
+ },
+ {
+  "q": "Quelles glandes de la peau produisent la transpiration ?",
+  "r": "Les glandes sudoripares",
+  "d": 2,
+  "t": "Peau et phanères"
+ },
+ {
+  "q": "Quel volume de sang, environ, circule dans le corps d'un adulte ?",
+  "r": "Environ 5 litres",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "q": "Quelle protéine des globules rouges transporte l'oxygène ?",
+  "r": "L'hémoglobine",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "q": "Dans quel tissu, situé au cœur des os, sont fabriquées les cellules sanguines ?",
+  "r": "La moelle osseuse",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "q": "Quelle est la durée de vie moyenne d'un globule rouge humain ?",
+  "r": "Environ 120 jours",
+  "d": 3,
+  "t": "Sang"
+ },
+ {
+  "q": "Quel groupe sanguin est qualifié de « donneur universel » pour les transfusions de globules rouges ?",
+  "r": "O négatif",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "q": "Quel scientifique autrichien a découvert les groupes sanguins A, B et O en 1901 ?",
+  "r": "Karl Landsteiner",
+  "d": 3,
+  "t": "Sang"
+ },
+ {
+  "q": "Quels fragments cellulaires du sang jouent un rôle clé dans la coagulation ?",
+  "r": "Les plaquettes",
+  "d": 1,
+  "t": "Sang"
+ },
+ {
+  "q": "Quel organe, situé en haut à gauche de l'abdomen, élimine les globules rouges usés ?",
+  "r": "La rate",
+  "d": 2,
+  "t": "Organes"
+ },
+ {
+  "q": "Quelle est la partie la plus longue du tube digestif ?",
+  "r": "L'intestin grêle",
+  "d": 1,
+  "t": "Digestion"
+ },
+ {
+  "q": "Comment appelle-t-on les minuscules replis en doigt de gant qui tapissent l'intestin grêle et absorbent les nutriments ?",
+  "r": "Les villosités intestinales",
+  "d": 2,
+  "t": "Digestion"
+ },
+ {
+  "q": "Quelle est la première portion de l'intestin grêle, juste après l'estomac ?",
+  "r": "Le duodénum",
+  "d": 2,
+  "t": "Digestion"
+ },
+ {
+  "q": "Quel acide puissant est sécrété par la paroi de l'estomac ?",
+  "r": "L'acide chlorhydrique",
+  "d": 2,
+  "t": "Digestion"
+ },
+ {
+  "q": "Quel petit prolongement du cæcum peut s'enflammer et nécessiter une opération d'urgence ?",
+  "r": "L'appendice",
+  "d": 1,
+  "t": "Digestion"
+ },
+ {
+  "q": "Comment s'appelle l'orifice musculaire qui contrôle le passage des aliments de l'estomac vers l'intestin ?",
+  "r": "Le pylore",
+  "d": 3,
+  "t": "Digestion"
+ },
+ {
+  "q": "Quel cartilage du larynx forme la saillie du cou appelée « pomme d'Adam » ?",
+  "r": "Le cartilage thyroïde",
+  "d": 3,
+  "t": "Respiration"
+ },
+ {
+  "q": "Dans quel organe de la gorge se trouvent les cordes vocales ?",
+  "r": "Le larynx",
+  "d": 1,
+  "t": "Respiration"
+ },
+ {
+  "q": "Combien de lobes compte le poumon droit ?",
+  "r": "Trois",
+  "d": 2,
+  "t": "Respiration"
+ },
+ {
+  "q": "Quel est le nom anatomique moderne de l'omoplate ?",
+  "r": "La scapula",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quel est le nom actuel de l'os de la jambe anciennement appelé péroné ?",
+  "r": "La fibula",
+  "d": 3,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Comment appelle-t-on l'ensemble des huit petits os du poignet ?",
+  "r": "Le carpe",
+  "d": 3,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Quel os triangulaire, situé à la base de la colonne vertébrale, s'articule avec le coccyx ?",
+  "r": "Le sacrum",
+  "d": 2,
+  "t": "Os et squelette"
+ },
+ {
+  "q": "Comment s'appelle la double membrane qui enveloppe le cœur ?",
+  "r": "Le péricarde",
+  "d": 2,
+  "t": "Cœur et circulation"
+ },
+ {
+  "q": "Quel est le nom du « pacemaker » naturel du cœur, situé dans l'oreillette droite ?",
+  "r": "Le nœud sinusal",
+  "d": 3,
+  "t": "Cœur et circulation"
+ },
+ {
+  "q": "Quelles artères, disposées en couronne, irriguent le muscle cardiaque lui-même ?",
+  "r": "Les artères coronaires",
+  "d": 2,
+  "t": "Cœur et circulation"
+ },
+ {
+  "q": "Comment s'appelle l'unité fonctionnelle microscopique du rein, qui filtre le sang ?",
+  "r": "Le néphron",
+  "d": 3,
+  "t": "Organes"
+ },
+ {
+  "q": "Quel liquide transparent baigne le cerveau et la moelle épinière ?",
+  "r": "Le liquide céphalorachidien",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quelles membranes protègent le cerveau, dont l'inflammation provoque une maladie grave ?",
+  "r": "Les méninges",
+  "d": 1,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quelle structure du cerveau, nommée d'après un petit animal marin, joue un rôle clé dans la mémoire ?",
+  "r": "L'hippocampe",
+  "d": 2,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quelle petite structure du cerveau en forme d'amande est au cœur de la gestion de la peur ?",
+  "r": "L'amygdale (cérébrale)",
+  "d": 3,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Quelle région du cerveau régule la faim, la soif et la température corporelle ?",
+  "r": "L'hypothalamus",
+  "d": 3,
+  "t": "Cerveau et nerfs"
+ },
+ {
+  "q": "Comment appelle-t-on l'unité contractile de base des fibres musculaires striées ?",
+  "r": "Le sarcomère",
+  "d": 3,
+  "t": "Muscles"
+ }
+]
