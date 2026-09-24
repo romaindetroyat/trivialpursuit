@@ -1,0 +1,1766 @@
+{
+ "geo": [
+  {
+   "q": "Quel détroit traverse Istanbul et relie la mer Noire à la mer de Marmara ?",
+   "r": "Le Bosphore",
+   "d": 1,
+   "t": "Détroits et canaux"
+  },
+  {
+   "q": "Quelle île indonésienne, majoritairement hindouiste, est célèbre pour ses rizières en terrasses ?",
+   "r": "Bali",
+   "d": 1,
+   "t": "Asie"
+  },
+  {
+   "q": "Quelle île grecque du Dodécanèse abritait un Colosse, l'une des Sept Merveilles du monde ?",
+   "r": "Rhodes",
+   "d": 1,
+   "t": "Îles"
+  },
+  {
+   "q": "Quelle zone humide de l'Ouest de la France est surnommée « la Venise verte » ?",
+   "r": "Le Marais poitevin",
+   "d": 1,
+   "t": "Sites naturels"
+  },
+  {
+   "q": "Quel ouvrage défensif chinois s'étend sur des milliers de kilomètres pour protéger l'empire des invasions du nord ?",
+   "r": "La Grande Muraille",
+   "d": 1,
+   "t": "Monuments et sites"
+  },
+  {
+   "q": "Dans quelle salle du château de Versailles fut signé le traité de paix de 1919 ?",
+   "r": "La galerie des Glaces",
+   "d": 1,
+   "t": "Châteaux"
+  },
+  {
+   "q": "Quelle mer étroite sépare la péninsule Arabique de l'Afrique ?",
+   "r": "La mer Rouge",
+   "d": 1,
+   "t": "Océans et mers"
+  },
+  {
+   "q": "Comment appelle-t-on l'immense forêt de conifères de Sibérie et du Canada ?",
+   "r": "La taïga",
+   "d": 1,
+   "t": "Climats et milieux"
+  },
+  {
+   "q": "Quel lac de Sibérie est le plus profond du monde ?",
+   "r": "Le lac Baïkal",
+   "d": 1,
+   "t": "Asie"
+  },
+  {
+   "q": "Quels sont les trois pays frontaliers du Luxembourg ?",
+   "r": "France, Belgique et Allemagne",
+   "d": 1,
+   "t": "Luxembourg"
+  },
+  {
+   "q": "Comment appelle-t-on la zone de calme située au centre d'un cyclone ?",
+   "r": "L'œil du cyclone",
+   "d": 1,
+   "t": "Climats et milieux"
+  },
+  {
+   "q": "Quel parc national tanzanien, dont le nom signifie « plaine sans fin » en maa, est célèbre pour la grande migration des gnous ?",
+   "r": "Le Serengeti",
+   "d": 1,
+   "t": "Sites célèbres"
+  },
+  {
+   "q": "Quel château de la Loire enjambe le Cher grâce à sa galerie sur arches ?",
+   "r": "Chenonceau",
+   "d": 1,
+   "t": "Châteaux"
+  },
+  {
+   "q": "Quelle langue ancienne, ressuscitée comme langue parlée à partir de la fin du XIXe siècle, est officielle en Israël ?",
+   "r": "L'hébreu",
+   "d": 1,
+   "t": "Langues"
+  },
+  {
+   "q": "Quelle chaîne de montagnes longe toute la côte ouest de l'Amérique du Sud ?",
+   "r": "La cordillère des Andes",
+   "d": 1,
+   "t": "Amériques"
+  },
+  {
+   "q": "Quelle île australienne est séparée du continent par le détroit de Bass ?",
+   "r": "La Tasmanie",
+   "d": 1,
+   "t": "Océanie"
+  },
+  {
+   "q": "Quelles sont les trois couleurs du drapeau allemand, de haut en bas ?",
+   "r": "Noir, rouge, or",
+   "d": 1,
+   "t": "Drapeaux"
+  },
+  {
+   "q": "Quelle ville saoudienne est la première ville sainte de l'islam ?",
+   "r": "La Mecque",
+   "d": 1,
+   "t": "Grandes villes"
+  },
+  {
+   "q": "Dans quelle ville du Finistère se trouve le grand port militaire de la Marine nationale sur l'Atlantique ?",
+   "r": "Brest",
+   "d": 1,
+   "t": "Villes"
+  },
+  {
+   "q": "Quel palais de la rue du Faubourg-Saint-Honoré est la résidence officielle du président de la République ?",
+   "r": "Le palais de l'Élysée",
+   "d": 1,
+   "t": "Monuments"
+  },
+  {
+   "q": "Quelle est la capitale du Kenya ?",
+   "r": "Nairobi",
+   "d": 1,
+   "t": "Capitales"
+  },
+  {
+   "q": "Quelle ville est le chef-lieu de la région Bretagne ?",
+   "r": "Rennes",
+   "d": 1,
+   "t": "Régions"
+  },
+  {
+   "q": "Quelle ville turque s'est successivement appelée Byzance et Constantinople ?",
+   "r": "Istanbul",
+   "d": 1,
+   "t": "Grandes villes"
+  },
+  {
+   "q": "Quel volcan de Martinique a détruit la ville de Saint-Pierre en 1902 ?",
+   "r": "La montagne Pelée",
+   "d": 1,
+   "t": "Outre-mer"
+  },
+  {
+   "q": "Quel canal inauguré en 1869 relie la Méditerranée à la mer Rouge ?",
+   "r": "Le canal de Suez",
+   "d": 1,
+   "t": "Mers et détroits"
+  },
+  {
+   "q": "Comment appelle-t-on le portique traditionnel qui marque l'entrée d'un sanctuaire shinto ?",
+   "r": "Un torii",
+   "d": 2,
+   "t": "Monuments et sites"
+  },
+  {
+   "q": "Dans quel fleuve se jette la Durance, près d'Avignon ?",
+   "r": "Le Rhône",
+   "d": 2,
+   "t": "Fleuves et rivières"
+  },
+  {
+   "q": "Quel large estuaire sépare Buenos Aires de Montevideo ?",
+   "r": "Le Río de la Plata",
+   "d": 2,
+   "t": "Amériques"
+  },
+  {
+   "q": "Quel est le plus ancien pont de Paris encore debout ?",
+   "r": "Le Pont-Neuf",
+   "d": 2,
+   "t": "Monuments"
+  },
+  {
+   "q": "Quelle cité maya du Yucatán est dominée par la pyramide de Kukulcán ?",
+   "r": "Chichén Itzá",
+   "d": 2,
+   "t": "Monuments et sites"
+  },
+  {
+   "q": "Dans quel archipel de Polynésie française Paul Gauguin et Jacques Brel sont-ils enterrés ?",
+   "r": "Les Marquises",
+   "d": 2,
+   "t": "Océanie"
+  },
+  {
+   "q": "Quel fleuve traverse Kiev (Kyiv) ?",
+   "r": "Le Dniepr",
+   "d": 2,
+   "t": "Fleuves"
+  },
+  {
+   "q": "Dans quelle couche de l'atmosphère, la plus proche du sol, se produisent l'essentiel des phénomènes météorologiques ?",
+   "r": "La troposphère",
+   "d": 2,
+   "t": "Climats et milieux"
+  },
+  {
+   "q": "Quelle est la capitale du Ghana ?",
+   "r": "Accra",
+   "d": 2,
+   "t": "Capitales"
+  },
+  {
+   "q": "Quel nom porte la croix blanche en X sur fond bleu du drapeau écossais ?",
+   "r": "La croix de Saint-André",
+   "d": 2,
+   "t": "Drapeaux"
+  },
+  {
+   "q": "Quelle est la capitale de l'Albanie ?",
+   "r": "Tirana",
+   "d": 2,
+   "t": "Capitales"
+  },
+  {
+   "q": "Quel delta intérieur du Botswana se perd dans les sables sans jamais atteindre la mer ?",
+   "r": "Le delta de l'Okavango",
+   "d": 2,
+   "t": "Fleuves"
+  },
+  {
+   "q": "Quel navigateur néerlandais du XVIIe siècle a donné son nom à une île et à une mer d'Océanie ?",
+   "r": "Abel Tasman",
+   "d": 2,
+   "t": "Océanie"
+  },
+  {
+   "q": "Quel mot anglais désigne l'immense arrière-pays aride et peu peuplé de l'Australie ?",
+   "r": "L'outback",
+   "d": 2,
+   "t": "Océanie"
+  },
+  {
+   "q": "Quelle grande île est partagée entre la Malaisie, l'Indonésie et le Brunei ?",
+   "r": "Bornéo",
+   "d": 2,
+   "t": "Asie"
+  },
+  {
+   "q": "Quelle ville du Pays basque est réputée pour son jambon et ses grandes fêtes estivales ?",
+   "r": "Bayonne",
+   "d": 2,
+   "t": "Villes"
+  },
+  {
+   "q": "Comment appelle-t-on la grande fracture géologique qui traverse l'Afrique de l'Est du nord au sud ?",
+   "r": "Le Grand Rift",
+   "d": 2,
+   "t": "Paysages"
+  },
+  {
+   "q": "Quel est le plus grand lac naturel entièrement situé en France ?",
+   "r": "Le lac du Bourget",
+   "d": 2,
+   "t": "Sites naturels"
+  },
+  {
+   "q": "Quelle ville ouzbèke de la route de la soie est célèbre pour sa place du Registan ?",
+   "r": "Samarcande",
+   "d": 2,
+   "t": "Asie"
+  },
+  {
+   "q": "Quelle péninsule du nord de la Grèce abrite une communauté monastique orthodoxe interdite aux femmes ?",
+   "r": "Le mont Athos",
+   "d": 2,
+   "t": "Sites célèbres"
+  },
+  {
+   "q": "Quelle ville algérienne perchée sur un rocher est surnommée « la ville des ponts suspendus » ?",
+   "r": "Constantine",
+   "d": 2,
+   "t": "Villes"
+  },
+  {
+   "q": "Dans quelle ville de Côte-d'Or se trouvent les Hospices fondés en 1443, aux célèbres toits vernissés ?",
+   "r": "Beaune",
+   "d": 2,
+   "t": "Monuments"
+  },
+  {
+   "q": "Quel fleuve forme la majeure partie de la frontière entre la Roumanie et la Bulgarie ?",
+   "r": "Le Danube",
+   "d": 2,
+   "t": "Frontières"
+  },
+  {
+   "q": "Quelle mer de l'Atlantique Nord, dépourvue de côtes, est célèbre pour ses algues flottantes ?",
+   "r": "La mer des Sargasses",
+   "d": 2,
+   "t": "Océans et mers"
+  },
+  {
+   "q": "Quel volcan islandais au nom imprononçable a paralysé le trafic aérien européen en avril 2010 ?",
+   "r": "L'Eyjafjallajökull",
+   "d": 2,
+   "t": "Montagnes"
+  },
+  {
+   "q": "Quel volcan actif est le point culminant de la Guadeloupe ?",
+   "r": "La Soufrière",
+   "d": 2,
+   "t": "Outre-mer"
+  },
+  {
+   "q": "Quelle est la capitale de la Moldavie ?",
+   "r": "Chișinău",
+   "d": 3,
+   "t": "Capitales"
+  },
+  {
+   "q": "Quelle ville cambodgienne sert de point de départ pour visiter les temples d'Angkor ?",
+   "r": "Siem Reap",
+   "d": 3,
+   "t": "Monuments et sites"
+  },
+  {
+   "q": "Quel atoll français isolé du Pacifique nord-est porte le nom d'un pirate anglais ?",
+   "r": "Clipperton",
+   "d": 3,
+   "t": "Outre-mer"
+  },
+  {
+   "q": "Quel détroit indonésien, où se dresse le Krakatoa, sépare Java de Sumatra ?",
+   "r": "Le détroit de la Sonde",
+   "d": 3,
+   "t": "Détroits et canaux"
+  },
+  {
+   "q": "Quelle ville hanséatique allemande est célèbre pour sa porte Holstentor et son massepain ?",
+   "r": "Lübeck",
+   "d": 3,
+   "t": "Villes"
+  },
+  {
+   "q": "Quel détroit sépare la Corée du Sud du Japon ?",
+   "r": "Le détroit de Corée (Tsushima)",
+   "d": 3,
+   "t": "Détroits et canaux"
+  },
+  {
+   "q": "Quelle petite ville du Rif marocain est célèbre pour ses ruelles et ses maisons peintes en bleu ?",
+   "r": "Chefchaouen",
+   "d": 3,
+   "t": "Villes"
+  },
+  {
+   "q": "Comment s'appelle la monnaie du Koweït ?",
+   "r": "Le dinar koweïtien",
+   "d": 3,
+   "t": "Monnaies"
+  },
+  {
+   "q": "Comment s'appelait le supercontinent boréal issu de la fragmentation de la Pangée ?",
+   "r": "La Laurasia",
+   "d": 3,
+   "t": "Plaques et séismes"
+  },
+  {
+   "q": "Quelle courte rivière, formée par la Mayenne et la Sarthe, traverse Angers ?",
+   "r": "La Maine",
+   "d": 3,
+   "t": "Fleuves et rivières"
+  },
+  {
+   "q": "Quel sommet hawaïen est la plus haute montagne du monde si on la mesure depuis sa base sous-marine ?",
+   "r": "Le Mauna Kea",
+   "d": 3,
+   "t": "Volcans"
+  },
+  {
+   "q": "Quel architecte danois a conçu l'Opéra de Sydney ?",
+   "r": "Jørn Utzon",
+   "d": 3,
+   "t": "Monuments et sites"
+  },
+  {
+   "q": "Sur quelle île japonaise un grand torii rouge semble-t-il flotter sur la mer à marée haute ?",
+   "r": "Miyajima (Itsukushima)",
+   "d": 3,
+   "t": "Monuments et sites"
+  }
+ ],
+ "div": [
+  {
+   "q": "Quel acteur incarne James Bond dans « Casino Royale », sorti en 2006 ?",
+   "r": "Daniel Craig",
+   "d": 1,
+   "t": "James Bond"
+  },
+  {
+   "q": "Quel acteur américain incarne Forrest Gump dans le film de 1994 ?",
+   "r": "Tom Hanks",
+   "d": 1,
+   "t": "Acteurs"
+  },
+  {
+   "q": "Quel séducteur en costume de « How I Met Your Mother » répète à tout propos que c'est « légendaire » ?",
+   "r": "Barney Stinson",
+   "d": 1,
+   "t": "Sitcoms"
+  },
+  {
+   "q": "Quel chanteur est le fils de Johnny Hallyday et de Sylvie Vartan ?",
+   "r": "David Hallyday",
+   "d": 1,
+   "t": "Célébrités de la musique"
+  },
+  {
+   "q": "Quel gorille lance des tonneaux dans un jeu d'arcade de Nintendo de 1981 ?",
+   "r": "Donkey Kong",
+   "d": 1,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quel animateur a présenté « Questions pour un champion » de 1988 à 2015 ?",
+   "r": "Julien Lepers",
+   "d": 1,
+   "t": "Jeux télé"
+  },
+  {
+   "q": "Quel petit dinosaure vert à la longue langue sert de monture à Mario ?",
+   "r": "Yoshi",
+   "d": 1,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quelle série de jeux de Rockstar Games doit son nom au vol de voitures ?",
+   "r": "Grand Theft Auto",
+   "d": 1,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quel réseau social, rebaptisé X en 2023, avait pour logo un oiseau bleu ?",
+   "r": "Twitter",
+   "d": 1,
+   "t": "Internet"
+  },
+  {
+   "q": "Quel héros de jeu vidéo français n'a ni bras ni jambes, ses mains et ses pieds flottant autour de son corps ?",
+   "r": "Rayman",
+   "d": 1,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quel éditeur français de jeux vidéo a créé les Lapins crétins ?",
+   "r": "Ubisoft",
+   "d": 1,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quel chanteur a créé en 1967 « Comme d'habitude », qui deviendra « My Way » en anglais ?",
+   "r": "Claude François",
+   "d": 1,
+   "t": "Variété française"
+  },
+  {
+   "q": "Quel chanteur et pianiste aveugle a chanté « Georgia on My Mind » et « Hit the Road Jack » ?",
+   "r": "Ray Charles",
+   "d": 1,
+   "t": "Soul"
+  },
+  {
+   "q": "Quel rappeur canadien a sorti « Hotline Bling » en 2015 ?",
+   "r": "Drake",
+   "d": 1,
+   "t": "Rap américain"
+  },
+  {
+   "q": "Comment s'appellent les récompenses du cinéma français, créées en 1976, équivalent des Oscars ?",
+   "r": "Les César",
+   "d": 1,
+   "t": "Récompenses"
+  },
+  {
+   "q": "Quel chevalier de Cervantès charge des moulins à vent qu'il prend pour des géants ?",
+   "r": "Don Quichotte",
+   "d": 1,
+   "t": "Personnages de fiction"
+  },
+  {
+   "q": "Quelle comédie de Coline Serreau (1985) montre trois célibataires contraints de s'occuper d'un bébé ?",
+   "r": "Trois hommes et un couffin",
+   "d": 1,
+   "t": "Comédies françaises"
+  },
+  {
+   "q": "Quel animal est Bambi, le héros du dessin animé de Disney de 1942 ?",
+   "r": "Un faon",
+   "d": 1,
+   "t": "Animation"
+  },
+  {
+   "q": "Quel gros dinosaure orange était le héros de « L'Île aux enfants » ?",
+   "r": "Casimir",
+   "d": 1,
+   "t": "Émissions jeunesse"
+  },
+  {
+   "q": "Quel Pokémon jaune de type Électrique est la mascotte de la franchise ?",
+   "r": "Pikachu",
+   "d": 1,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quelle héroïne Disney (1998) se déguise en homme pour combattre à la place de son père en Chine ?",
+   "r": "Mulan",
+   "d": 1,
+   "t": "Animation"
+  },
+  {
+   "q": "Quel est le nom français du vagabond à chapeau melon, canne et petite moustache créé par Charlie Chaplin ?",
+   "r": "Charlot",
+   "d": 1,
+   "t": "Cinéma muet"
+  },
+  {
+   "q": "Quelle grande ville indienne, ancien nom de Mumbai, a donné sa première syllabe au mot « Bollywood » ?",
+   "r": "Bombay",
+   "d": 1,
+   "t": "Cinéma asiatique"
+  },
+  {
+   "q": "Quelle chanteuse, surnommée la « Reine de la pop », a sorti « Like a Virgin » en 1984 ?",
+   "r": "Madonna",
+   "d": 1,
+   "t": "Pop américaine"
+  },
+  {
+   "q": "Quel chanteur américain a chanté « Uptown Funk » avec le producteur Mark Ronson ?",
+   "r": "Bruno Mars",
+   "d": 1,
+   "t": "Funk"
+  },
+  {
+   "q": "Quel chanteur à bandana a sorti « Mistral gagnant » en 1985 ?",
+   "r": "Renaud",
+   "d": 1,
+   "t": "Chanson française"
+  },
+  {
+   "q": "Quel télé-crochet met en scène des coachs qui se retournent dans leur fauteuil en entendant une voix ?",
+   "r": "The Voice",
+   "d": 1,
+   "t": "Télévision"
+  },
+  {
+   "q": "Dans quelle ville, sa ville natale, Georges Brassens souhaitait-il être enterré, selon sa célèbre « Supplique » ?",
+   "r": "Sète",
+   "d": 1,
+   "t": "Chanson française"
+  },
+  {
+   "q": "Quel avocat véreux de « Breaking Bad » a eu droit à sa propre série dérivée ?",
+   "r": "Saul Goodman",
+   "d": 2,
+   "t": "Séries américaines"
+  },
+  {
+   "q": "Quel film muet allemand de Fritz Lang (1927) dépeint une cité futuriste où les ouvriers vivent sous terre ?",
+   "r": "Metropolis",
+   "d": 2,
+   "t": "Cinéma muet"
+  },
+  {
+   "q": "Dans quel pays les émojis ont-ils été inventés, pour les téléphones mobiles ?",
+   "r": "Japon",
+   "d": 2,
+   "t": "Internet"
+  },
+  {
+   "q": "Quel dessin animé franco-japonais transpose l'Odyssée d'Homère au XXXIe siècle ?",
+   "r": "Ulysse 31",
+   "d": 2,
+   "t": "Dessins animés"
+  },
+  {
+   "q": "Dans quel film de M. Night Shyamalan (1999) un petit garçon confie-t-il : « Je vois des gens qui sont morts » ?",
+   "r": "Sixième Sens",
+   "d": 2,
+   "t": "Répliques cultes"
+  },
+  {
+   "q": "Dans quelle chanson de Joe Dassin entend-on « Tu sais, je n'ai jamais été aussi heureux que ce matin-là » ?",
+   "r": "L'Été indien",
+   "d": 2,
+   "t": "Paroles célèbres"
+  },
+  {
+   "q": "Quel cinéaste espagnol a réalisé « Tout sur ma mère » (1999) et « Volver » (2006) ?",
+   "r": "Pedro Almodóvar",
+   "d": 2,
+   "t": "Cinéma européen"
+  },
+  {
+   "q": "Quel cinéaste français a réalisé « À bout de souffle » (1960), manifeste de la Nouvelle Vague ?",
+   "r": "Jean-Luc Godard",
+   "d": 2,
+   "t": "Nouvelle Vague"
+  },
+  {
+   "q": "Sous quel surnom est connu le guitariste de U2, David Evans ?",
+   "r": "The Edge",
+   "d": 2,
+   "t": "Rock"
+  },
+  {
+   "q": "Comment s'appelle la main animée qui rend service à « La Famille Addams » ?",
+   "r": "La Chose",
+   "d": 2,
+   "t": "Séries américaines"
+  },
+  {
+   "q": "Quel acteur britannique est la vedette de « Quatre mariages et un enterrement » (1994) ?",
+   "r": "Hugh Grant",
+   "d": 2,
+   "t": "Cinéma britannique"
+  },
+  {
+   "q": "Quel jeu mobile de 2013, retiré des magasins d'applications par son créateur vietnamien, faisait voler un oiseau entre des tuyaux ?",
+   "r": "Flappy Bird",
+   "d": 2,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quel surnom le directeur de cabaret Louis Leplée a-t-il donné à Édith Piaf à ses débuts ?",
+   "r": "La Môme Piaf",
+   "d": 2,
+   "t": "Chanson française"
+  },
+  {
+   "q": "Quel acteur défonce une porte à la hache dans « Shining » (1980) de Stanley Kubrick ?",
+   "r": "Jack Nicholson",
+   "d": 2,
+   "t": "Acteurs"
+  },
+  {
+   "q": "Quelle série de jeux de rôle de Square a pour héros Cloud Strife dans son septième épisode ?",
+   "r": "Final Fantasy",
+   "d": 2,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Quel groupe féminin est issu de la première saison française de « Popstars » en 2001 ?",
+   "r": "L5",
+   "d": 2,
+   "t": "Téléréalité"
+  },
+  {
+   "q": "Quelle actrice chante « Diamonds Are a Girl's Best Friend » en robe rose dans « Les hommes préfèrent les blondes » (1953) ?",
+   "r": "Marilyn Monroe",
+   "d": 2,
+   "t": "Acteurs"
+  },
+  {
+   "q": "Dans quel jeu de la NES tirait-on sur des canards avec un pistolet, sous les ricanements d'un chien ?",
+   "r": "Duck Hunt",
+   "d": 2,
+   "t": "Jeux vidéo"
+  },
+  {
+   "q": "Qui a réalisé « Citizen Kane » (1941), tout en y tenant le rôle principal ?",
+   "r": "Orson Welles",
+   "d": 2,
+   "t": "Classiques hollywoodiens"
+  },
+  {
+   "q": "Quel réalisateur japonais a signé « Le Voyage de Chihiro » (2001) ?",
+   "r": "Hayao Miyazaki",
+   "d": 2,
+   "t": "Animation"
+  },
+  {
+   "q": "Quelle chanteuse était la voix principale des Supremes ?",
+   "r": "Diana Ross",
+   "d": 2,
+   "t": "Soul"
+  },
+  {
+   "q": "Quel film de Roberto Benigni (1997) montre un père faisant croire à son fils qu'un camp de concentration est un jeu ?",
+   "r": "La vie est belle",
+   "d": 2,
+   "t": "Cinéma européen"
+  },
+  {
+   "q": "Quelle émission de radio d'Europe 1, lancée en 1959, a accompagné la vague yé-yé ?",
+   "r": "Salut les copains",
+   "d": 2,
+   "t": "Yé-yé"
+  },
+  {
+   "q": "Quel acteur a incarné le commissaire Maigret à la télévision de 1991 à 2005 ?",
+   "r": "Bruno Cremer",
+   "d": 2,
+   "t": "Séries françaises"
+  },
+  {
+   "q": "Dans quelle ville anglaise se déroule la série « Peaky Blinders » ?",
+   "r": "Birmingham",
+   "d": 2,
+   "t": "Séries britanniques"
+  },
+  {
+   "q": "À quel âge sont morts Jimi Hendrix, Janis Joplin, Jim Morrison et Kurt Cobain ?",
+   "r": "27 ans",
+   "d": 2,
+   "t": "Célébrités de la musique"
+  },
+  {
+   "q": "Quel trio comique signe le film « La Cité de la peur » (1994) ?",
+   "r": "Les Nuls",
+   "d": 2,
+   "t": "Comédies françaises"
+  },
+  {
+   "q": "Dans « Fight Club », quelle est la première règle du club ?",
+   "r": "Ne pas parler du Fight Club",
+   "d": 2,
+   "t": "Répliques cultes"
+  },
+  {
+   "q": "Quelle actrice et chanteuse incarne Sandy face à John Travolta dans « Grease » (1978) ?",
+   "r": "Olivia Newton-John",
+   "d": 2,
+   "t": "Comédies musicales"
+  },
+  {
+   "q": "Dans quelle station balnéaire anglaise ABBA a-t-il remporté l'Eurovision en 1974 ?",
+   "r": "Brighton",
+   "d": 3,
+   "t": "Eurovision"
+  },
+  {
+   "q": "Avec quel groupe de rock le trio Run-DMC a-t-il enregistré une nouvelle version de « Walk This Way » en 1986 ?",
+   "r": "Aerosmith",
+   "d": 3,
+   "t": "Rap américain"
+  },
+  {
+   "q": "Quel était le nom de famille d'origine arménienne de Charles Aznavour ?",
+   "r": "Aznavourian",
+   "d": 3,
+   "t": "Célébrités de la chanson"
+  },
+  {
+   "q": "Quel animateur québécois présentait « Surprise sur prise » ?",
+   "r": "Marcel Béliveau",
+   "d": 3,
+   "t": "Animateurs"
+  },
+  {
+   "q": "Quel cinéaste français a réalisé « Les Enfants du paradis » (1945), avec Arletty ?",
+   "r": "Marcel Carné",
+   "d": 3,
+   "t": "Classiques français"
+  },
+  {
+   "q": "Quel compositeur a écrit la musique de « La Boum » et celle des « Aventures de Rabbi Jacob » ?",
+   "r": "Vladimir Cosma",
+   "d": 3,
+   "t": "Musiques de films"
+  },
+  {
+   "q": "Quel vol s'écrase sur une île mystérieuse au début de la série « Lost » ?",
+   "r": "Oceanic 815",
+   "d": 3,
+   "t": "Séries américaines"
+  },
+  {
+   "q": "Quelle réalisatrice française a remporté la Palme d'or 2021 avec « Titane » ?",
+   "r": "Julia Ducournau",
+   "d": 3,
+   "t": "Festival de Cannes"
+  },
+  {
+   "q": "Quel western de John Ford (1939), avec John Wayne, suit les passagers d'une diligence ?",
+   "r": "La Chevauchée fantastique",
+   "d": 3,
+   "t": "Westerns"
+  },
+  {
+   "q": "Comment s'appelle le ranch de la famille Ewing dans « Dallas » ?",
+   "r": "Southfork",
+   "d": 3,
+   "t": "Séries américaines"
+  },
+  {
+   "q": "Quel était le nom de naissance de Freddie Mercury ?",
+   "r": "Farrokh Bulsara",
+   "d": 3,
+   "t": "Célébrités de la musique"
+  },
+  {
+   "q": "Quelle actrice malaisienne a reçu l'Oscar de la meilleure actrice en 2023 ?",
+   "r": "Michelle Yeoh",
+   "d": 3,
+   "t": "Oscars"
+  },
+  {
+   "q": "Quelle actrice incarnait l'héroïne de la sitcom « Maguy » sur Antenne 2 ?",
+   "r": "Rosy Varte",
+   "d": 3,
+   "t": "Séries françaises"
+  },
+  {
+   "q": "Quelle friandise le petit Elliott utilise-t-il pour attirer l'extraterrestre dans « E.T. » ?",
+   "r": "Des Reese's Pieces",
+   "d": 3,
+   "t": "Science-fiction"
+  }
+ ],
+ "his": [
+  {
+   "q": "Quelle duchesse épousa le roi Charles VIII en 1491, puis son successeur Louis XII ?",
+   "r": "Anne de Bretagne",
+   "d": 1,
+   "t": "Fin du Moyen Âge en France"
+  },
+  {
+   "q": "Quels accords signés en 1985 dans un village du Luxembourg ont prévu la suppression des contrôles aux frontières intérieures ?",
+   "r": "Les accords de Schengen",
+   "d": 1,
+   "t": "Construction européenne"
+  },
+  {
+   "q": "Quelle organisation internationale, ancêtre de l'ONU, est créée par les traités de paix de 1919 ?",
+   "r": "La Société des Nations",
+   "d": 1,
+   "t": "Entre-deux-guerres"
+  },
+  {
+   "q": "Quel nom porte la politique de relance économique lancée par Franklin D. Roosevelt à partir de 1933 ?",
+   "r": "Le New Deal",
+   "d": 1,
+   "t": "Crise de 1929"
+  },
+  {
+   "q": "Quelle coalition de gauche remporte les élections législatives françaises du printemps 1936 ?",
+   "r": "Le Front populaire",
+   "d": 1,
+   "t": "France de l'entre-deux-guerres"
+  },
+  {
+   "q": "Quel président chilien est mort lors du coup d'État militaire du 11 septembre 1973 ?",
+   "r": "Salvador Allende",
+   "d": 1,
+   "t": "Amérique latine"
+  },
+  {
+   "q": "Quel empereur romain aurait voulu faire de son cheval Incitatus un consul ?",
+   "r": "Caligula",
+   "d": 1,
+   "t": "Rome antique"
+  },
+  {
+   "q": "Quel gladiateur thrace mena une grande révolte d'esclaves contre Rome de 73 à 71 av. J.-C. ?",
+   "r": "Spartacus",
+   "d": 1,
+   "t": "Rome antique"
+  },
+  {
+   "q": "Quelle alliance militaire l'URSS et ses alliés d'Europe de l'Est ont-ils créée en 1955 ?",
+   "r": "Le pacte de Varsovie",
+   "d": 1,
+   "t": "Guerre froide"
+  },
+  {
+   "q": "Quel archipel de l'Atlantique Sud l'Argentine et le Royaume-Uni se sont-ils disputé lors d'une guerre en 1982 ?",
+   "r": "Les Malouines",
+   "d": 1,
+   "t": "Conflits"
+  },
+  {
+   "q": "Dans quelle ville thermale de l'Allier s'installe le gouvernement du maréchal Pétain en 1940 ?",
+   "r": "Vichy",
+   "d": 1,
+   "t": "Occupation"
+  },
+  {
+   "q": "Quel preux, présenté comme le neveu de Charlemagne, meurt à Roncevaux dans une célèbre chanson de geste ?",
+   "r": "Roland",
+   "d": 1,
+   "t": "Mérovingiens et Carolingiens"
+  },
+  {
+   "q": "Quel ingénieur militaire de Louis XIV a fortifié les frontières du royaume ?",
+   "r": "Vauban",
+   "d": 1,
+   "t": "Louis XIV"
+  },
+  {
+   "q": "Quel territoire les États-Unis achètent-ils à la Russie en 1867 ?",
+   "r": "L'Alaska",
+   "d": 1,
+   "t": "États-Unis"
+  },
+  {
+   "q": "Quel cardinal, principal ministre de Louis XIII, combat à la fois les protestants et les grands seigneurs du royaume ?",
+   "r": "Richelieu",
+   "d": 1,
+   "t": "Louis XIII"
+  },
+  {
+   "q": "Quel roi de Macédoine était le père d'Alexandre le Grand ?",
+   "r": "Philippe II",
+   "d": 1,
+   "t": "Grèce antique"
+  },
+  {
+   "q": "Quel roi de France fit arrêter les Templiers en 1307 ?",
+   "r": "Philippe le Bel",
+   "d": 1,
+   "t": "Capétiens"
+  },
+  {
+   "q": "Comment appelle-t-on le vaste mouvement de purges lancé par Mao Zedong en 1966 ?",
+   "r": "La Révolution culturelle",
+   "d": 1,
+   "t": "Chine"
+  },
+  {
+   "q": "Quel surnom donnait-on aux soldats français de la Grande Guerre ?",
+   "r": "Les poilus",
+   "d": 1,
+   "t": "Première Guerre mondiale"
+  },
+  {
+   "q": "Quel navigateur malouin remonte le Saint-Laurent pour le compte de François Ier en 1535 ?",
+   "r": "Jacques Cartier",
+   "d": 1,
+   "t": "Grandes découvertes"
+  },
+  {
+   "q": "Dans quel vélodrome parisien des milliers de Juifs furent-ils enfermés lors de la grande rafle de juillet 1942 ?",
+   "r": "Le Vélodrome d'Hiver",
+   "d": 1,
+   "t": "Shoah"
+  },
+  {
+   "q": "Quel dirigeant soviétique a lancé la perestroïka et la glasnost dans les années 1980 ?",
+   "r": "Mikhaïl Gorbatchev",
+   "d": 1,
+   "t": "Fin de la guerre froide"
+  },
+  {
+   "q": "Quelle femme pharaon de la XVIIIe dynastie se faisait représenter avec une barbe postiche ?",
+   "r": "Hatchepsout",
+   "d": 2,
+   "t": "Égypte ancienne"
+  },
+  {
+   "q": "Quelle station spatiale soviétique puis russe, en service à partir de 1986, a été désorbitée en 2001 ?",
+   "r": "Mir",
+   "d": 2,
+   "t": "Conquête spatiale"
+  },
+  {
+   "q": "Quel site de ruines de pierre médiévales a donné son nom à un pays d'Afrique australe ?",
+   "r": "Le Grand Zimbabwe",
+   "d": 2,
+   "t": "Afrique médiévale"
+  },
+  {
+   "q": "Quel roi a accompagné la transition démocratique de l'Espagne après la mort de Franco en 1975 ?",
+   "r": "Juan Carlos Ier",
+   "d": 2,
+   "t": "Europe du Sud"
+  },
+  {
+   "q": "Quelle abbaye bourguignonne, fondée en 910, fut à la tête d'un immense réseau de monastères ?",
+   "r": "Cluny",
+   "d": 2,
+   "t": "Église médiévale"
+  },
+  {
+   "q": "Quelle bataille navale de 1571 voit la victoire de la Sainte Ligue sur la flotte ottomane ?",
+   "r": "Lépante",
+   "d": 2,
+   "t": "Empire ottoman"
+  },
+  {
+   "q": "Quelle capitale aztèque aurait été fondée en 1325 sur une île du lac Texcoco ?",
+   "r": "Tenochtitlan",
+   "d": 2,
+   "t": "Amériques précolombiennes"
+  },
+  {
+   "q": "Quelle fête célèbre le premier anniversaire de la prise de la Bastille, le 14 juillet 1790 ?",
+   "r": "La fête de la Fédération",
+   "d": 2,
+   "t": "Révolution française"
+  },
+  {
+   "q": "Quel chef gaulois, après avoir pris Rome vers 390 av. J.-C., aurait lancé « Vae victis » ?",
+   "r": "Brennus",
+   "d": 2,
+   "t": "Gaule"
+  },
+  {
+   "q": "Quelle civilisation de l'âge du bronze, centrée sur le palais de Cnossos en Crète, fut révélée par Arthur Evans ?",
+   "r": "La civilisation minoenne",
+   "d": 2,
+   "t": "Grèce antique"
+  },
+  {
+   "q": "Quel massif entre Drôme et Isère abritait un vaste maquis anéanti par les troupes allemandes en juillet 1944 ?",
+   "r": "Le Vercors",
+   "d": 2,
+   "t": "Résistance"
+  },
+  {
+   "q": "Quel humaniste anglais, auteur de L'Utopie, est exécuté en 1535 sur ordre d'Henri VIII ?",
+   "r": "Thomas More",
+   "d": 2,
+   "t": "Renaissance"
+  },
+  {
+   "q": "Quelle ville andalouse, capitale d'un califat au Xe siècle, possède une célèbre mosquée-cathédrale ?",
+   "r": "Cordoue",
+   "d": 2,
+   "t": "Monde musulman médiéval"
+  },
+  {
+   "q": "Quel abbé cistercien prêcha la deuxième croisade à Vézelay en 1146 ?",
+   "r": "Saint Bernard (de Clairvaux)",
+   "d": 2,
+   "t": "Église médiévale"
+  },
+  {
+   "q": "Quel pape lança l'appel à la première croisade à Clermont en 1095 ?",
+   "r": "Urbain II",
+   "d": 2,
+   "t": "Croisades"
+  },
+  {
+   "q": "Quel nom donne-t-on aux premiers Homo sapiens d'Europe, d'après un abri des Eyzies fouillé en 1868 ?",
+   "r": "Cro-Magnon",
+   "d": 2,
+   "t": "Préhistoire"
+  },
+  {
+   "q": "Comment appelle-t-on le coup d'État militaire pacifique qui a renversé la dictature portugaise en avril 1974 ?",
+   "r": "La révolution des Œillets",
+   "d": 2,
+   "t": "Europe du Sud"
+  },
+  {
+   "q": "Quelle reine, mère de Saint Louis, exerça la régence pendant sa minorité ?",
+   "r": "Blanche de Castille",
+   "d": 2,
+   "t": "Capétiens"
+  },
+  {
+   "q": "Quelle bataille égyptienne de l'automne 1942 a vu la victoire de Montgomery sur Rommel ?",
+   "r": "El-Alamein",
+   "d": 2,
+   "t": "Guerre du désert"
+  },
+  {
+   "q": "Combien d'astronautes ont marché sur la Lune entre 1969 et 1972 ?",
+   "r": "Douze",
+   "d": 2,
+   "t": "Conquête spatiale"
+  },
+  {
+   "q": "En quelle année les Rois catholiques prirent-ils Grenade, achevant la Reconquista ?",
+   "r": "1492",
+   "d": 2,
+   "t": "Monde musulman médiéval"
+  },
+  {
+   "q": "Quel spationaute est devenu en 1982 le premier Français à aller dans l'espace ?",
+   "r": "Jean-Loup Chrétien",
+   "d": 2,
+   "t": "Conquête spatiale"
+  },
+  {
+   "q": "Quel pays africain l'Italie de Mussolini a-t-elle envahi en 1935 ?",
+   "r": "L'Éthiopie",
+   "d": 2,
+   "t": "Entre-deux-guerres"
+  },
+  {
+   "q": "Quelle insurrection républicaine irlandaise a éclaté à Dublin en avril 1916 ?",
+   "r": "L'insurrection de Pâques",
+   "d": 3,
+   "t": "Europe en guerre"
+  },
+  {
+   "q": "En quelle année l'Union des républiques socialistes soviétiques a-t-elle été officiellement fondée ?",
+   "r": "1922",
+   "d": 3,
+   "t": "URSS"
+  },
+  {
+   "q": "Quel secrétaire général suédois de l'ONU a trouvé la mort dans un accident d'avion en Afrique en 1961 ?",
+   "r": "Dag Hammarskjöld",
+   "d": 3,
+   "t": "Relations internationales"
+  },
+  {
+   "q": "Quelle femme, aimée de Pétrarque, lui a inspiré les poèmes du « Canzoniere » ?",
+   "r": "Laure",
+   "d": 3,
+   "t": "Culture médiévale"
+  },
+  {
+   "q": "Dans quel manoir d'Amboise Léonard de Vinci meurt-il en 1519 ?",
+   "r": "Le Clos Lucé",
+   "d": 3,
+   "t": "Renaissance"
+  },
+  {
+   "q": "Quel barrage du Var a cédé en décembre 1959, provoquant une vague meurtrière sur Fréjus ?",
+   "r": "Le barrage de Malpasset",
+   "d": 3,
+   "t": "Catastrophes"
+  },
+  {
+   "q": "Quel empereur moghol, petit-fils de Babur, est resté célèbre pour sa tolérance religieuse ?",
+   "r": "Akbar",
+   "d": 3,
+   "t": "Asie"
+  },
+  {
+   "q": "Quel maréchal allemand a capitulé à Stalingrad en février 1943 ?",
+   "r": "Friedrich Paulus",
+   "d": 3,
+   "t": "Front de l'Est"
+  },
+  {
+   "q": "Quelle conférence de hauts responsables nazis, tenue près de Berlin en janvier 1942, a organisé la « solution finale » ?",
+   "r": "La conférence de Wannsee",
+   "d": 3,
+   "t": "Shoah"
+  },
+  {
+   "q": "Quel peuple gaulois avait pour capitale l'oppidum de Bibracte, sur le mont Beuvray ?",
+   "r": "Les Éduens",
+   "d": 3,
+   "t": "Gaule"
+  },
+  {
+   "q": "Quel moine dominicain assassine le roi Henri III en 1589 ?",
+   "r": "Jacques Clément",
+   "d": 3,
+   "t": "Guerres de religion"
+  }
+ ],
+ "art": [
+  {
+   "q": "Dans la fable de La Fontaine, que tient le Corbeau dans son bec ?",
+   "r": "Un fromage",
+   "d": 1,
+   "t": "Fables"
+  },
+  {
+   "q": "Quel peintre néerlandais a composé des tableaux de lignes noires et de rectangles rouges, jaunes et bleus ?",
+   "r": "Piet Mondrian",
+   "d": 1,
+   "t": "Art abstrait"
+  },
+  {
+   "q": "Quel peintre américain projetait la peinture sur la toile posée au sol, technique appelée « dripping » ?",
+   "r": "Jackson Pollock",
+   "d": 1,
+   "t": "Art abstrait"
+  },
+  {
+   "q": "Comment appelle-t-on une strophe de quatre vers ?",
+   "r": "Un quatrain",
+   "d": 1,
+   "t": "Versification"
+  },
+  {
+   "q": "Quel conte de Perrault plonge une princesse et tout son château dans un sommeil de cent ans ?",
+   "r": "La Belle au bois dormant",
+   "d": 1,
+   "t": "Contes"
+  },
+  {
+   "q": "Quel gamin de Paris meurt sur une barricade en chantant dans « Les Misérables » ?",
+   "r": "Gavroche",
+   "d": 1,
+   "t": "Personnages"
+  },
+  {
+   "q": "Quel architecte catalan a consacré plus de quarante ans à la Sagrada Família ?",
+   "r": "Antoni Gaudí",
+   "d": 1,
+   "t": "Architectes"
+  },
+  {
+   "q": "Quel monstre ailé à tête de femme posait une énigme aux voyageurs aux portes de Thèbes ?",
+   "r": "Le Sphinx",
+   "d": 1,
+   "t": "Mythologie grecque"
+  },
+  {
+   "q": "Par quelle phrase célèbre se termine « Candide » de Voltaire ?",
+   "r": "Il faut cultiver notre jardin",
+   "d": 1,
+   "t": "Citations"
+  },
+  {
+   "q": "Quel conte d'Andersen raconte l'histoire d'un oisillon moqué pour sa laideur qui devient un magnifique cygne ?",
+   "r": "Le Vilain Petit Canard",
+   "d": 1,
+   "t": "Littérature nordique"
+  },
+  {
+   "q": "Dans quelle pièce de Molière le valet Sganarelle sert-il un grand seigneur séducteur et impie ?",
+   "r": "Dom Juan",
+   "d": 2,
+   "t": "Théâtre"
+  },
+  {
+   "q": "Quel poème de Rimbaud commence par « Comme je descendais des Fleuves impassibles » ?",
+   "r": "Le Bateau ivre",
+   "d": 2,
+   "t": "Poésie"
+  },
+  {
+   "q": "Quelle héroïne de la mythologie grecque, fille d'Œdipe, donne son titre à une pièce de Jean Anouilh jouée en 1944 ?",
+   "r": "Antigone",
+   "d": 2,
+   "t": "Théâtre"
+  },
+  {
+   "q": "Quel roman de Joseph Kessel raconte l'amitié entre une fillette, Patricia, et un lion nommé King au Kenya ?",
+   "r": "Le Lion",
+   "d": 2,
+   "t": "Littérature jeunesse"
+  },
+  {
+   "q": "Quel mouvement littéraire, porté par Césaire, Senghor et Damas, revendique l'identité et la culture noires ?",
+   "r": "La négritude",
+   "d": 2,
+   "t": "Francophonie"
+  },
+  {
+   "q": "Quel dramaturge grec a écrit la trilogie de « L'Orestie » ?",
+   "r": "Eschyle",
+   "d": 2,
+   "t": "Grands textes antiques"
+  },
+  {
+   "q": "Quelle déesse romaine de la sagesse correspond à la grecque Athéna ?",
+   "r": "Minerve",
+   "d": 2,
+   "t": "Mythologie romaine"
+  },
+  {
+   "q": "Comment appelle-t-on le dispositif réglable de l'objectif qui dose la quantité de lumière entrant dans l'appareil ?",
+   "r": "Le diaphragme",
+   "d": 2,
+   "t": "Photographie"
+  },
+  {
+   "q": "Quelle figure de style consiste à dire moins pour suggérer plus, comme « Va, je ne te hais point » ?",
+   "r": "La litote",
+   "d": 2,
+   "t": "Langue française"
+  },
+  {
+   "q": "Quel breuvage bu par erreur unit à jamais Tristan et Iseut ?",
+   "r": "Un philtre d'amour",
+   "d": 2,
+   "t": "Légendes arthuriennes"
+  },
+  {
+   "q": "Quel romancier brésilien de Bahia a écrit « Gabriela, girofle et cannelle » ?",
+   "r": "Jorge Amado",
+   "d": 3,
+   "t": "Littérature latino-américaine"
+  },
+  {
+   "q": "Quel abbé a écrit « Manon Lescaut » au XVIIIe siècle ?",
+   "r": "L'abbé Prévost",
+   "d": 3,
+   "t": "Auteurs"
+  },
+  {
+   "q": "Comment s'appellent les deux fillettes des « Contes du chat perché » de Marcel Aymé ?",
+   "r": "Delphine et Marinette",
+   "d": 3,
+   "t": "Littérature jeunesse"
+  },
+  {
+   "q": "Dans « Marius » de Marcel Pagnol, à quel jeu de cartes joue-t-on pendant la scène du « Tu me fends le cœur » ?",
+   "r": "La manille",
+   "d": 3,
+   "t": "Théâtre"
+  },
+  {
+   "q": "Dans quel roman latin d'Apulée le jeune Lucius est-il accidentellement transformé en âne ?",
+   "r": "L'Âne d'or (Les Métamorphoses)",
+   "d": 3,
+   "t": "Grands textes antiques"
+  }
+ ],
+ "sci": [
+  {
+   "q": "Quel organe est touché par l'hépatite ?",
+   "r": "Le foie",
+   "d": 1,
+   "t": "Maladies"
+  },
+  {
+   "q": "Combien de secondes compte une heure ?",
+   "r": "3 600",
+   "d": 1,
+   "t": "Unités et mesures"
+  },
+  {
+   "q": "Quel est le seul métal liquide à température ambiante ?",
+   "r": "Le mercure",
+   "d": 1,
+   "t": "Chimie : éléments"
+  },
+  {
+   "q": "Quel est le plus gros organe interne du corps humain ?",
+   "r": "Le foie",
+   "d": 1,
+   "t": "Organes"
+  },
+  {
+   "q": "Quelle est l'unité de mesure de la résistance électrique ?",
+   "r": "L'ohm",
+   "d": 1,
+   "t": "Unités et mesures"
+  },
+  {
+   "q": "Comment appelle-t-on un régime qui exclut viande et poisson mais accepte œufs et produits laitiers ?",
+   "r": "Le végétarisme",
+   "d": 1,
+   "t": "Nutrition"
+  },
+  {
+   "q": "Quel est le nom chimique de l'alcool contenu dans le vin et la bière ?",
+   "r": "L'éthanol",
+   "d": 1,
+   "t": "Chimie : molécules"
+  },
+  {
+   "q": "Quel procédé de conservation par chauffage en récipient hermétique porte le nom d'un confiseur français ?",
+   "r": "L'appertisation",
+   "d": 2,
+   "t": "Nutrition"
+  },
+  {
+   "q": "Quelle maxime résume la loi de conservation de la masse attribuée à Lavoisier ?",
+   "r": "Rien ne se perd, rien ne se crée…",
+   "d": 2,
+   "t": "Chimie : histoire"
+  },
+  {
+   "q": "Quel pays est devenu en 2003 le troisième à envoyer un humain dans l'espace par ses propres moyens ?",
+   "r": "La Chine",
+   "d": 2,
+   "t": "Espace : missions"
+  },
+  {
+   "q": "Comment appelle-t-on le bar sur les côtes méditerranéennes ?",
+   "r": "Le loup",
+   "d": 2,
+   "t": "Poissons et animaux marins"
+  },
+  {
+   "q": "Comment appelle-t-on la structure de l'oreille interne, en forme de coquille d'escargot, qui permet l'audition ?",
+   "r": "La cochlée",
+   "d": 2,
+   "t": "Sens : l'ouïe"
+  },
+  {
+   "q": "Quel officier de marine britannique a donné son nom à l'échelle de force du vent graduée de 0 à 12 ?",
+   "r": "Francis Beaufort",
+   "d": 2,
+   "t": "Météorologie"
+  },
+  {
+   "q": "Quelle pierre précieuse verte est une variété de béryl ?",
+   "r": "L'émeraude",
+   "d": 3,
+   "t": "Géologie"
+  },
+  {
+   "q": "Quel type d'agent infectieux, une simple protéine mal repliée, est responsable de la maladie de la vache folle ?",
+   "r": "Le prion",
+   "d": 3,
+   "t": "Maladies"
+  },
+  {
+   "q": "Quel physicien américain a fait fonctionner le premier laser, à rubis, en 1960 ?",
+   "r": "Theodore Maiman",
+   "d": 3,
+   "t": "Inventeurs"
+  },
+  {
+   "q": "Comment appelle-t-on le phénomène, étudié par Konrad Lorenz chez les oies, par lequel un jeune s'attache au premier être qu'il voit ?",
+   "r": "L'empreinte (imprégnation)",
+   "d": 3,
+   "t": "Biologie générale"
+  }
+ ],
+ "spo": [
+  {
+   "q": "Quel demi de mêlée toulousain a été élu meilleur joueur du monde World Rugby en 2021 ?",
+   "r": "Antoine Dupont",
+   "d": 1,
+   "t": "Rugby – champions"
+  },
+  {
+   "q": "Au volley-ball, combien de touches de balle une équipe peut-elle effectuer au maximum avant de la renvoyer ?",
+   "r": "Trois",
+   "d": 1,
+   "t": "Vocabulaire et règles"
+  },
+  {
+   "q": "Quel tournoi annuel réunit l'Angleterre, l'Écosse, la France, l'Irlande, l'Italie et le pays de Galles ?",
+   "r": "Le Tournoi des Six Nations",
+   "d": 1,
+   "t": "Rugby – compétitions"
+  },
+  {
+   "q": "Au baseball, comment appelle-t-on le coup qui expédie la balle hors du terrain et permet de faire le tour des bases ?",
+   "r": "Un home run",
+   "d": 1,
+   "t": "Vocabulaire et règles"
+  },
+  {
+   "q": "Quel fromage normand à pâte molle et croûte fleurie porte le nom d'un village de l'Orne ?",
+   "r": "Le camembert",
+   "d": 1,
+   "t": "Fromages"
+  },
+  {
+   "q": "Quel trophée individuel, créé en 1956 par le magazine France Football, récompense chaque année le meilleur joueur ?",
+   "r": "Le Ballon d'or",
+   "d": 1,
+   "t": "Football – champions"
+  },
+  {
+   "q": "Quelle technique de multiplication des végétaux consiste à planter un fragment de tige pour qu'il produise des racines ?",
+   "r": "Le bouturage",
+   "d": 1,
+   "t": "Jardinage"
+  },
+  {
+   "q": "Quel ragoût hongrois de bœuf est fortement parfumé au paprika ?",
+   "r": "Le goulash",
+   "d": 1,
+   "t": "Cuisine du monde"
+  },
+  {
+   "q": "Quelle expression désigne le concurrent classé en dernière position d'une compétition ?",
+   "r": "La lanterne rouge",
+   "d": 1,
+   "t": "Vocabulaire et règles"
+  },
+  {
+   "q": "Quelle confiserie en forme de losange, à base d'amandes et de melon confit, est la spécialité d'Aix-en-Provence ?",
+   "r": "Le calisson",
+   "d": 1,
+   "t": "Confiserie"
+  },
+  {
+   "q": "Quel club français est surnommé « les Verts » ?",
+   "r": "L'AS Saint-Étienne",
+   "d": 1,
+   "t": "Football – clubs"
+  },
+  {
+   "q": "Quel art martial fondé par Jigoro Kano porte un nom signifiant « la voie de la souplesse » ?",
+   "r": "Le judo",
+   "d": 1,
+   "t": "Arts martiaux"
+  },
+  {
+   "q": "Comment appelle-t-on la remise en jeu latérale au rugby, où des joueurs sont soulevés pour attraper le ballon ?",
+   "r": "La touche",
+   "d": 1,
+   "t": "Rugby – vocabulaire"
+  },
+  {
+   "q": "Quel maillot de bain deux pièces, présenté en 1946 par Louis Réard, porte le nom d'un atoll du Pacifique ?",
+   "r": "Le bikini",
+   "d": 1,
+   "t": "Mode"
+  },
+  {
+   "q": "Quel sport de raquette se joue à deux dans une salle fermée, la balle rebondissant contre les murs ?",
+   "r": "Le squash",
+   "d": 1,
+   "t": "Sports insolites"
+  },
+  {
+   "q": "Au basket, comment appelle-t-on la mise en jeu où l'arbitre lance le ballon à la verticale, disputé en sautant par deux adversaires ?",
+   "r": "L'entre-deux",
+   "d": 1,
+   "t": "Basket – règles"
+  },
+  {
+   "q": "Quel attaquant français a remporté le Ballon d'or en 2022 ?",
+   "r": "Karim Benzema",
+   "d": 1,
+   "t": "Football – champions"
+  },
+  {
+   "q": "Quel pilote français a été champion du monde de Formule 1 en 1985, 1986, 1989 et 1993 ?",
+   "r": "Alain Prost",
+   "d": 1,
+   "t": "Sports mécaniques"
+  },
+  {
+   "q": "Quelle discipline olympique associe ski de fond et tir à la carabine ?",
+   "r": "Le biathlon",
+   "d": 1,
+   "t": "Sports d'hiver"
+  },
+  {
+   "q": "Quel champion de tennis français, surnommé « le crocodile », a donné son nom à une marque de polos ?",
+   "r": "René Lacoste",
+   "d": 1,
+   "t": "Mode"
+  },
+  {
+   "q": "Quelle ville a accueilli les Jeux olympiques d'été en 1908, en 1948 et en 2012 ?",
+   "r": "Londres",
+   "d": 1,
+   "t": "Villes olympiques"
+  },
+  {
+   "q": "Comment appelle-t-on le petit support planté dans le sol sur lequel le golfeur pose sa balle au départ d'un trou ?",
+   "r": "Le tee",
+   "d": 1,
+   "t": "Golf"
+  },
+  {
+   "q": "Quelle pâtisserie formée de deux choux superposés et glacés évoque la silhouette d'une nonne ?",
+   "r": "La religieuse",
+   "d": 1,
+   "t": "Pâtisserie"
+  },
+  {
+   "q": "Quel grand chef a créé la pêche Melba en hommage à une cantatrice australienne ?",
+   "r": "Auguste Escoffier",
+   "d": 2,
+   "t": "Pâtisserie"
+  },
+  {
+   "q": "Quel couvre-chef, dit « basque », est en réalité originaire du Béarn ?",
+   "r": "Le béret",
+   "d": 2,
+   "t": "Mode"
+  },
+  {
+   "q": "Dans quelle localité d'Afrique du Sud les Bleus ont-ils refusé de s'entraîner lors de la Coupe du monde 2010 ?",
+   "r": "Knysna",
+   "d": 2,
+   "t": "Football – équipe de France"
+  },
+  {
+   "q": "Comment appelle-t-on le coup de pied où le ballon est frappé juste après avoir rebondi au sol ?",
+   "r": "Un drop",
+   "d": 2,
+   "t": "Rugby – vocabulaire"
+  },
+  {
+   "q": "Quel art martial coréen, reposant surtout sur les coups de pied, est entré au programme olympique en 2000 ?",
+   "r": "Le taekwondo",
+   "d": 2,
+   "t": "Arts martiaux"
+  },
+  {
+   "q": "Quelle fête hindoue du printemps est célébrée en se lançant des poudres et de l'eau colorées ?",
+   "r": "Holi",
+   "d": 2,
+   "t": "Fêtes et traditions"
+  },
+  {
+   "q": "Quelle ville a accueilli en 1964 les premiers Jeux olympiques d'été organisés en Asie ?",
+   "r": "Tokyo",
+   "d": 2,
+   "t": "Villes olympiques"
+  },
+  {
+   "q": "Comment s'appelle la longue ligne droite du circuit des 24 Heures du Mans, empruntant une route nationale ?",
+   "r": "Les Hunaudières",
+   "d": 2,
+   "t": "Sports mécaniques"
+  },
+  {
+   "q": "Quel Norvégien est devenu champion du monde d'échecs en 2013 en battant Viswanathan Anand ?",
+   "r": "Magnus Carlsen",
+   "d": 2,
+   "t": "Échecs"
+  },
+  {
+   "q": "Combien de petites facettes colorées compte au total un Rubik's Cube classique 3×3×3 ?",
+   "r": "54",
+   "d": 2,
+   "t": "Jouets"
+  },
+  {
+   "q": "Quel sprinteur canadien a été déchu de son titre olympique du 100 m à Séoul en 1988 pour dopage ?",
+   "r": "Ben Johnson",
+   "d": 2,
+   "t": "Histoire des JO"
+  },
+  {
+   "q": "Quel club est devenu en 2003 le premier club français à remporter la Ligue des champions de handball ?",
+   "r": "Montpellier (MHB)",
+   "d": 2,
+   "t": "Handball – clubs"
+  },
+  {
+   "q": "Quel pivot chinois de 2,29 m a évolué sous le maillot des Houston Rockets ?",
+   "r": "Yao Ming",
+   "d": 2,
+   "t": "Basket – champions"
+  },
+  {
+   "q": "Quelle maison de mode italienne a pour emblème une tête de Méduse ?",
+   "r": "Versace",
+   "d": 2,
+   "t": "Mode"
+  },
+  {
+   "q": "Quel club breton a battu le PSG aux tirs au but en finale de la Coupe de France 2019 ?",
+   "r": "Le Stade rennais",
+   "d": 2,
+   "t": "Football – clubs"
+  },
+  {
+   "q": "Combien de titres consécutifs de champion de France l'Olympique lyonnais a-t-il remportés de 2002 à 2008 ?",
+   "r": "7",
+   "d": 2,
+   "t": "Football – clubs"
+  },
+  {
+   "q": "Quelle médaille l'équipe de France masculine de basket a-t-elle remportée aux Jeux olympiques de Tokyo, en 2021 ?",
+   "r": "L'argent",
+   "d": 2,
+   "t": "Basket – compétitions"
+  },
+  {
+   "q": "Comment qualifie-t-on les ascensions les plus difficiles du Tour de France, au-delà de la 1re catégorie ?",
+   "r": "Hors catégorie",
+   "d": 2,
+   "t": "Cyclisme – vocabulaire"
+  },
+  {
+   "q": "Quel est le véritable prénom du meneur des Lakers surnommé « Magic » Johnson ?",
+   "r": "Earvin",
+   "d": 2,
+   "t": "Basket – champions"
+  },
+  {
+   "q": "Quelle infusion, bue dans une calebasse avec une paille métallique appelée bombilla, est populaire en Argentine ?",
+   "r": "Le maté",
+   "d": 2,
+   "t": "Boissons"
+  },
+  {
+   "q": "Quel sport hybride fait alterner des rounds de boxe et des parties d'échecs ?",
+   "r": "Le chess-boxing (échecs-boxe)",
+   "d": 2,
+   "t": "Sports insolites"
+  },
+  {
+   "q": "Quel pivot a marqué 100 points lors d'un même match NBA, en 1962 ?",
+   "r": "Wilt Chamberlain",
+   "d": 2,
+   "t": "Basket – exploits"
+  },
+  {
+   "q": "Dans quel sport, dont les championnats du monde ont lieu en Finlande, les hommes courent-ils un parcours d'obstacles en portant leur femme ?",
+   "r": "Le porter d'épouse",
+   "d": 2,
+   "t": "Sports insolites"
+  },
+  {
+   "q": "Quel plat emblématique du Pérou consiste en poisson cru mariné dans du jus de citron vert ?",
+   "r": "Le ceviche",
+   "d": 2,
+   "t": "Cuisine du monde"
+  },
+  {
+   "q": "Quel coureur britannique est mort d'épuisement sur les pentes du mont Ventoux lors du Tour 1967 ?",
+   "r": "Tom Simpson",
+   "d": 3,
+   "t": "Cyclisme – Tour de France"
+  },
+  {
+   "q": "Quel artiste français, auteur de « Fontaine », délaissa en grande partie l'art pour se consacrer aux échecs ?",
+   "r": "Marcel Duchamp",
+   "d": 3,
+   "t": "Échecs"
+  },
+  {
+   "q": "Au curling, comment appelle-t-on la cible circulaire vers laquelle on fait glisser les pierres ?",
+   "r": "La maison",
+   "d": 3,
+   "t": "Sports d'hiver"
+  },
+  {
+   "q": "Avec quelle partenaire Kristina Mladenovic a-t-elle remporté le double dames de Roland-Garros 2016 ?",
+   "r": "Caroline Garcia",
+   "d": 3,
+   "t": "Tennis – champions"
+  },
+  {
+   "q": "Quel Français est devenu le premier champion olympique de ski de bosses, aux Jeux d'Albertville en 1992 ?",
+   "r": "Edgar Grospiron",
+   "d": 3,
+   "t": "Sports d'hiver"
+  },
+  {
+   "q": "Quel mélange d'épices marocain a un nom arabe signifiant « tête de la boutique » ?",
+   "r": "Le ras el-hanout",
+   "d": 3,
+   "t": "Cuisine du monde"
+  },
+  {
+   "q": "Quel lutteur français a été sacré champion olympique de lutte gréco-romaine aux Jeux de Pékin en 2008 ?",
+   "r": "Steeve Guénot",
+   "d": 3,
+   "t": "Arts martiaux"
+  },
+  {
+   "q": "En quelle année la France a-t-elle réussi son premier Grand Chelem dans le Tournoi des Cinq Nations ?",
+   "r": "1968",
+   "d": 3,
+   "t": "Rugby – exploits"
+  },
+  {
+   "q": "Comment s'appelle la salle mythique du CSP Limoges ?",
+   "r": "Beaublanc",
+   "d": 3,
+   "t": "Basket – stades"
+  },
+  {
+   "q": "Quels biscuits secs toscans aux amandes trempe-t-on traditionnellement dans le vin santo ?",
+   "r": "Les cantucci",
+   "d": 3,
+   "t": "Pâtisserie"
+  },
+  {
+   "q": "Quel rénovateur des Jeux a remporté, sous pseudonyme, la médaille d'or du concours de littérature aux Jeux de Stockholm en 1912 ?",
+   "r": "Pierre de Coubertin",
+   "d": 3,
+   "t": "Histoire des JO"
+  },
+  {
+   "q": "Comment appelle-t-on la collection de cartes postales ?",
+   "r": "La cartophilie",
+   "d": 3,
+   "t": "Collections"
+  }
+ ]
+}

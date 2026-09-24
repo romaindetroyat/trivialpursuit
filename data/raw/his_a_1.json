@@ -51,7 +51,7 @@
   "q": "Quel duc de Normandie conquit l'Angleterre en 1066 ?",
   "r": "Guillaume le Conquérant",
   "d": 1,
-  "t": "Capétiens"
+  "t": "Angleterre médiévale"
  },
  {
   "q": "Quel empereur philosophe stoïcien a écrit les « Pensées pour moi-même » ?",
@@ -96,7 +96,7 @@
   "t": "Monde musulman médiéval"
  },
  {
-  "q": "Quelle statue géante, l'une des sept merveilles du monde, se dressait à l'entrée du port de Rhodes ?",
+  "q": "Quelle statue géante du dieu Hélios, l'une des sept merveilles du monde, fut renversée par un séisme au IIIe siècle av. J.-C. ?",
   "r": "Le Colosse de Rhodes",
   "d": 1,
   "t": "Grèce antique"
@@ -330,7 +330,7 @@
   "t": "Culture médiévale"
  },
  {
-  "q": "Quelle duchesse de Bretagne épousa le roi Charles VIII en 1491 ?",
+  "q": "Quelle duchesse épousa le roi Charles VIII en 1491, puis son successeur Louis XII ?",
   "r": "Anne de Bretagne",
   "d": 1,
   "t": "Fin du Moyen Âge en France"
@@ -393,7 +393,7 @@
   "q": "Quel moine anglo-saxon surnommé « le Vénérable » a écrit une histoire ecclésiastique du peuple anglais ?",
   "r": "Bède",
   "d": 3,
-  "t": "Vikings et Europe du Nord"
+  "t": "Angleterre médiévale"
  },
  {
   "q": "Comment appelait-on les poètes-musiciens qui composaient en langue d'oc au Moyen Âge ?",
@@ -447,7 +447,7 @@
   "q": "Quel roi d'Angleterre fut mortellement blessé par un carreau d'arbalète au siège de Châlus en 1199 ?",
   "r": "Richard Cœur de Lion",
   "d": 2,
-  "t": "Capétiens"
+  "t": "Angleterre médiévale"
  },
  {
   "q": "Selon la tradition, en quelle année Rome a-t-elle été fondée ?",

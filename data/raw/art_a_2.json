@@ -1,91 +1,536 @@
 [
-  {"q": "Quel poète a publié le recueil « Les Fleurs du mal » ?", "r": "Charles Baudelaire", "d": 1, "t": "Poésie"},
-  {"q": "En quelle année paraît « Les Fleurs du mal », aussitôt condamné pour outrage à la morale publique ?", "r": "1857", "d": 2, "t": "Poésie"},
-  {"q": "Quel oiseau marin, « prince des nuées » moqué par les marins, donne son titre à un poème de Baudelaire ?", "r": "L'albatros", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète a écrit « Le Dormeur du val », où un jeune soldat semble dormir dans l'herbe ?", "r": "Arthur Rimbaud", "d": 1, "t": "Poésie"},
-  {"q": "Quel est le prénom du poète Rimbaud ?", "r": "Arthur", "d": 1, "t": "Poésie"},
-  {"q": "Quel poème de Rimbaud commence par « Comme je descendais des Fleuves impassibles » ?", "r": "Le Bateau ivre", "d": 2, "t": "Poésie"},
-  {"q": "Quel poème de Rimbaud commence par « Je m'en allais, les poings dans mes poches crevées » ?", "r": "Ma Bohème", "d": 2, "t": "Poésie"},
-  {"q": "Dans le sonnet « Voyelles » de Rimbaud, quelle couleur est associée à la lettre A ?", "r": "Noir", "d": 3, "t": "Poésie"},
-  {"q": "Quel texte en prose est le seul livre que Rimbaud ait fait imprimer lui-même, en 1873 ?", "r": "Une saison en enfer", "d": 3, "t": "Poésie"},
-  {"q": "Quel poète a blessé Rimbaud d'un coup de revolver à Bruxelles en 1873 ?", "r": "Paul Verlaine", "d": 1, "t": "Poésie"},
-  {"q": "Quel poème de Verlaine, dont les premiers vers furent diffusés par Radio Londres en juin 1944, commence par « Les sanglots longs des violons » ?", "r": "Chanson d'automne", "d": 2, "t": "Poésie"},
-  {"q": "Pour quelle fille, noyée en 1843, Victor Hugo a-t-il écrit « Demain, dès l'aube » ?", "r": "Léopoldine", "d": 2, "t": "Poésie"},
-  {"q": "Dans quel recueil de Victor Hugo, paru en 1856, figure le poème « Demain, dès l'aube » ?", "r": "Les Contemplations", "d": 2, "t": "Poésie"},
-  {"q": "Sur quelle île anglo-normande Victor Hugo a-t-il passé l'essentiel de son exil ?", "r": "Guernesey", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète romantique a écrit « Le Lac », avec le vers « Ô temps ! suspends ton vol » ?", "r": "Alphonse de Lamartine", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète de la Renaissance a écrit « Mignonne, allons voir si la rose » ?", "r": "Pierre de Ronsard", "d": 1, "t": "Poésie"},
-  {"q": "Quel groupe de sept poètes de la Renaissance réunissait notamment Ronsard et Du Bellay ?", "r": "La Pléiade", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète a écrit le sonnet « Heureux qui, comme Ulysse, a fait un beau voyage » ?", "r": "Joachim du Bellay", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète du XVe siècle a écrit la « Ballade des pendus » (« Frères humains, qui après nous vivez ») ?", "r": "François Villon", "d": 2, "t": "Poésie"},
-  {"q": "Quel fabuliste a écrit « La Cigale et la Fourmi » ?", "r": "Jean de La Fontaine", "d": 1, "t": "Fables"},
-  {"q": "Dans la fable de La Fontaine, que tient le Corbeau dans son bec ?", "r": "Un fromage", "d": 1, "t": "Fables"},
-  {"q": "Quelle fable de La Fontaine commence par « La raison du plus fort est toujours la meilleure » ?", "r": "Le Loup et l'Agneau", "d": 2, "t": "Fables"},
-  {"q": "Dans quelle fable de La Fontaine lit-on « Rien ne sert de courir ; il faut partir à point » ?", "r": "Le Lièvre et la Tortue", "d": 1, "t": "Fables"},
-  {"q": "Quel animal de La Fontaine veut se faire aussi gros que le bœuf, et en éclate ?", "r": "La grenouille", "d": 1, "t": "Fables"},
-  {"q": "Dans « Le Loup et le Chien », quel animal préfère sa liberté affamée à un collier ?", "r": "Le loup", "d": 1, "t": "Fables"},
-  {"q": "À qui La Fontaine a-t-il dédié son premier recueil de fables, en 1668 ?", "r": "Au Dauphin, fils de Louis XIV", "d": 3, "t": "Fables"},
-  {"q": "Quel poète a écrit « Sous le pont Mirabeau coule la Seine » ?", "r": "Guillaume Apollinaire", "d": 1, "t": "Poésie"},
-  {"q": "Comment Apollinaire a-t-il appelé ses poèmes dont les vers dessinent des formes (pluie, cravate, tour Eiffel) ?", "r": "Calligrammes", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète a écrit « Déjeuner du matin » et « Pour faire le portrait d'un oiseau » ?", "r": "Jacques Prévert", "d": 1, "t": "Poésie"},
-  {"q": "Sur quelle ville « il pleuvait sans cesse » dans le poème « Barbara » de Prévert ?", "r": "Brest", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète a écrit « Liberté », avec son refrain « J'écris ton nom » ?", "r": "Paul Éluard", "d": 1, "t": "Poésie"},
-  {"q": "Quel mouvement artistique André Breton a-t-il défini dans un manifeste en 1924 ?", "r": "Le surréalisme", "d": 1, "t": "Mouvements"},
-  {"q": "Quel poète sétois a écrit « Le Cimetière marin » ?", "r": "Paul Valéry", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète, premier président du Sénégal, fut le premier Africain élu à l'Académie française ?", "r": "Léopold Sédar Senghor", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète martiniquais a écrit le « Cahier d'un retour au pays natal » ?", "r": "Aimé Césaire", "d": 2, "t": "Poésie"},
-  {"q": "Quel poète symboliste a écrit « Un coup de dés jamais n'abolira le hasard » ?", "r": "Stéphane Mallarmé", "d": 3, "t": "Poésie"},
-  {"q": "Combien de vers compte un sonnet ?", "r": "14", "d": 1, "t": "Versification"},
-  {"q": "Comment appelle-t-on un vers de douze syllabes ?", "r": "Un alexandrin", "d": 1, "t": "Versification"},
-  {"q": "Comment appelle-t-on une strophe de quatre vers ?", "r": "Un quatrain", "d": 1, "t": "Versification"},
-  {"q": "Comment appelle-t-on la répétition d'une même consonne, comme dans « Pour qui sont ces serpents qui sifflent sur vos têtes » ?", "r": "Une allitération", "d": 2, "t": "Versification"},
-  {"q": "Quel poète romantique a écrit « El Desdichado » (« Je suis le Ténébreux, – le Veuf, – l'Inconsolé ») ?", "r": "Gérard de Nerval", "d": 3, "t": "Poésie"},
-  {"q": "Quel est le véritable nom du comte de Lautréamont, auteur des « Chants de Maldoror » ?", "r": "Isidore Ducasse", "d": 3, "t": "Poésie"},
-  {"q": "Quel poète et diplomate, prix Nobel de littérature 1960, a écrit « Anabase » ?", "r": "Saint-John Perse", "d": 3, "t": "Poésie"},
-  {"q": "Quel poète romantique a écrit « La Mort du loup » ?", "r": "Alfred de Vigny", "d": 3, "t": "Poésie"},
-  {"q": "Quelle poétesse lyonnaise de la Renaissance a écrit le sonnet « Je vis, je meurs ; je me brûle et me noie » ?", "r": "Louise Labé", "d": 3, "t": "Poésie"},
-  {"q": "Quel dramaturge a écrit « Le Bourgeois gentilhomme » ?", "r": "Molière", "d": 1, "t": "Théâtre"},
-  {"q": "Quel est le véritable nom de Molière ?", "r": "Jean-Baptiste Poquelin", "d": 1, "t": "Théâtre"},
-  {"q": "Dans quelle pièce de Molière Harpagon se lamente-t-il d'avoir perdu sa cassette ?", "r": "L'Avare", "d": 1, "t": "Théâtre"},
-  {"q": "Quel personnage de Molière découvre qu'il dit de la prose sans le savoir ?", "r": "Monsieur Jourdain", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle pièce de Molière met en scène un faux dévot qui s'installe chez Orgon ?", "r": "Tartuffe", "d": 1, "t": "Théâtre"},
-  {"q": "Dans quelle pièce de Molière Géronte répète-t-il « Que diable allait-il faire dans cette galère ? » ?", "r": "Les Fourberies de Scapin", "d": 1, "t": "Théâtre"},
-  {"q": "En quelle année Molière est-il mort, peu après une représentation du « Malade imaginaire » ?", "r": "1673", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle troupe, fondée en 1680, est surnommée « la Maison de Molière » ?", "r": "La Comédie-Française", "d": 1, "t": "Théâtre"},
-  {"q": "Comment s'appelle le malade imaginaire de Molière, hypocondriaque entouré de médecins ?", "r": "Argan", "d": 3, "t": "Théâtre"},
-  {"q": "Quelle comédie de Molière met en scène Arnolphe, qui veut épouser sa jeune pupille Agnès ?", "r": "L'École des femmes", "d": 3, "t": "Théâtre"},
-  {"q": "Dans quelle pièce de Molière le valet Sganarelle sert-il un grand seigneur séducteur et impie ?", "r": "Dom Juan", "d": 2, "t": "Théâtre"},
-  {"q": "Quel dramaturge a écrit « Le Cid » ?", "r": "Pierre Corneille", "d": 1, "t": "Théâtre"},
-  {"q": "Quel héros de Corneille tue en duel le père de Chimène, qu'il aime ?", "r": "Rodrigue", "d": 2, "t": "Théâtre"},
-  {"q": "Quel dramaturge a écrit la tragédie « Phèdre » en 1677 ?", "r": "Jean Racine", "d": 1, "t": "Théâtre"},
-  {"q": "Quelle règle du théâtre classique impose une seule action, en un seul lieu et en une seule journée ?", "r": "La règle des trois unités", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle tragédie de Racine met en scène la veuve d'Hector, captive de Pyrrhus ?", "r": "Andromaque", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle tragédie de Racine porte le nom d'une reine de Palestine aimée de l'empereur Titus ?", "r": "Bérénice", "d": 3, "t": "Théâtre"},
-  {"q": "Quel dramaturge a écrit « Le Mariage de Figaro » ?", "r": "Beaumarchais", "d": 1, "t": "Théâtre"},
-  {"q": "Quel valet rusé et ancien barbier est le héros de la trilogie de Beaumarchais ?", "r": "Figaro", "d": 1, "t": "Théâtre"},
-  {"q": "Quelle comédie de Beaumarchais, la première de sa trilogie, se déroule en Andalousie ?", "r": "Le Barbier de Séville", "d": 2, "t": "Théâtre"},
-  {"q": "Quel dramaturge a écrit « Le Jeu de l'amour et du hasard » ?", "r": "Marivaux", "d": 2, "t": "Théâtre"},
-  {"q": "Quel mot, tiré du nom d'un dramaturge du XVIIIe siècle, désigne un badinage amoureux raffiné ?", "r": "Le marivaudage", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle pièce d'Edmond Rostand met en scène un cadet de Gascogne affublé d'un long nez ?", "r": "Cyrano de Bergerac", "d": 1, "t": "Théâtre"},
-  {"q": "Quelle célèbre tirade de Cyrano commence par « Ah ! non ! c'est un peu court, jeune homme ! » ?", "r": "La tirade du nez", "d": 1, "t": "Théâtre"},
-  {"q": "Quelle cousine Cyrano aime-t-il en secret, en écrivant pour elle les lettres de Christian ?", "r": "Roxane", "d": 1, "t": "Théâtre"},
-  {"q": "Quelle pièce de Victor Hugo a déclenché une célèbre « bataille » entre classiques et romantiques en 1830 ?", "r": "Hernani", "d": 2, "t": "Théâtre"},
-  {"q": "Quel drame de Victor Hugo met en scène un laquais amoureux de la reine d'Espagne ?", "r": "Ruy Blas", "d": 3, "t": "Théâtre"},
-  {"q": "Quel dramaturge irlandais a écrit en français « En attendant Godot » ?", "r": "Samuel Beckett", "d": 1, "t": "Théâtre"},
-  {"q": "Quel dramaturge d'origine roumaine a écrit « La Cantatrice chauve » ?", "r": "Eugène Ionesco", "d": 2, "t": "Théâtre"},
-  {"q": "Dans quelle pièce de Ionesco les habitants d'une ville se transforment-ils peu à peu en animaux à corne ?", "r": "Rhinocéros", "d": 2, "t": "Théâtre"},
-  {"q": "Dans quelle pièce de Sartre un personnage conclut-il « L'enfer, c'est les autres » ?", "r": "Huis clos", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle héroïne de la mythologie grecque, fille d'Œdipe, donne son titre à une pièce de Jean Anouilh jouée en 1944 ?", "r": "Antigone", "d": 2, "t": "Théâtre"},
-  {"q": "Quel dramaturge a écrit « La guerre de Troie n'aura pas lieu » (1935) ?", "r": "Jean Giraudoux", "d": 3, "t": "Théâtre"},
-  {"q": "Dans « Marius » de Marcel Pagnol, à quel jeu de cartes joue-t-on pendant la scène du « Tu me fends le cœur » ?", "r": "La manille", "d": 3, "t": "Théâtre"},
-  {"q": "Quel dramaturge a créé le personnage grotesque du Père Ubu dans « Ubu roi » ?", "r": "Alfred Jarry", "d": 2, "t": "Théâtre"},
-  {"q": "Quelle dramaturge a écrit « Art », pièce de 1994 autour d'un tableau blanc ?", "r": "Yasmina Reza", "d": 3, "t": "Théâtre"},
-  {"q": "Quel maître du vaudeville a écrit « Un fil à la patte » et « La Dame de chez Maxim » ?", "r": "Georges Feydeau", "d": 2, "t": "Théâtre"},
-  {"q": "Quel personnage de la commedia dell'arte porte un costume fait de losanges multicolores ?", "r": "Arlequin", "d": 1, "t": "Théâtre"},
-  {"q": "Au théâtre, comment appelle-t-on une réplique dite pour le public, que les autres personnages sont censés ne pas entendre ?", "r": "Un aparté", "d": 2, "t": "Théâtre"},
-  {"q": "Au théâtre, comment appelle-t-on la personne qui, cachée, rappelle leur texte aux comédiens ?", "r": "Le souffleur", "d": 1, "t": "Théâtre"},
-  {"q": "Quel mot grossier les comédiens se disent-ils traditionnellement pour se souhaiter bonne chance ?", "r": "Merde", "d": 1, "t": "Théâtre"},
-  {"q": "Quel poète romantique a écrit la pièce « On ne badine pas avec l'amour » ?", "r": "Alfred de Musset", "d": 2, "t": "Théâtre"},
-  {"q": "Quel dramaturge québécois a fait scandale en 1968 avec « Les Belles-sœurs », écrite en joual ?", "r": "Michel Tremblay", "d": 3, "t": "Théâtre"},
-  {"q": "Quel dramaturge libano-québécois a écrit « Incendies », adapté au cinéma par Denis Villeneuve ?", "r": "Wajdi Mouawad", "d": 3, "t": "Théâtre"}
+ {
+  "q": "Quel poète a publié le recueil « Les Fleurs du mal » ?",
+  "r": "Charles Baudelaire",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "En quelle année paraît « Les Fleurs du mal », aussitôt condamné pour outrage à la morale publique ?",
+  "r": "1857",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel oiseau marin, « prince des nuées » moqué par les marins, donne son titre à un poème de Baudelaire ?",
+  "r": "L'albatros",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète a écrit « Le Dormeur du val », où un jeune soldat semble dormir dans l'herbe ?",
+  "r": "Arthur Rimbaud",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel est le prénom du poète Rimbaud ?",
+  "r": "Arthur",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poème de Rimbaud commence par « Comme je descendais des Fleuves impassibles » ?",
+  "r": "Le Bateau ivre",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poème de Rimbaud commence par « Je m'en allais, les poings dans mes poches crevées » ?",
+  "r": "Ma Bohème",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Dans le sonnet « Voyelles » de Rimbaud, quelle couleur est associée à la lettre A ?",
+  "r": "Noir",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel texte en prose est le seul livre que Rimbaud ait fait imprimer lui-même, en 1873 ?",
+  "r": "Une saison en enfer",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète a blessé Rimbaud d'un coup de revolver à Bruxelles en 1873 ?",
+  "r": "Paul Verlaine",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poème de Verlaine, dont les premiers vers furent diffusés par Radio Londres en juin 1944, commence par « Les sanglots longs des violons » ?",
+  "r": "Chanson d'automne",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Pour quelle fille, noyée en 1843, Victor Hugo a-t-il écrit « Demain, dès l'aube » ?",
+  "r": "Léopoldine",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Dans quel recueil de Victor Hugo, paru en 1856, figure le poème « Demain, dès l'aube » ?",
+  "r": "Les Contemplations",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Sur quelle île anglo-normande Victor Hugo a-t-il passé l'essentiel de son exil ?",
+  "r": "Guernesey",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète romantique a écrit « Le Lac », avec le vers « Ô temps ! suspends ton vol » ?",
+  "r": "Alphonse de Lamartine",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète de la Renaissance a écrit « Mignonne, allons voir si la rose » ?",
+  "r": "Pierre de Ronsard",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel groupe de sept poètes de la Renaissance réunissait notamment Ronsard et Du Bellay ?",
+  "r": "La Pléiade",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète a écrit le sonnet « Heureux qui, comme Ulysse, a fait un beau voyage » ?",
+  "r": "Joachim du Bellay",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète du XVe siècle a écrit la « Ballade des pendus » (« Frères humains, qui après nous vivez ») ?",
+  "r": "François Villon",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel fabuliste a écrit « La Cigale et la Fourmi » ?",
+  "r": "Jean de La Fontaine",
+  "d": 1,
+  "t": "Fables"
+ },
+ {
+  "q": "Dans la fable de La Fontaine, que tient le Corbeau dans son bec ?",
+  "r": "Un fromage",
+  "d": 1,
+  "t": "Fables"
+ },
+ {
+  "q": "Quelle fable de La Fontaine commence par « La raison du plus fort est toujours la meilleure » ?",
+  "r": "Le Loup et l'Agneau",
+  "d": 2,
+  "t": "Fables"
+ },
+ {
+  "q": "Dans quelle fable de La Fontaine lit-on « Rien ne sert de courir ; il faut partir à point » ?",
+  "r": "Le Lièvre et la Tortue",
+  "d": 1,
+  "t": "Fables"
+ },
+ {
+  "q": "Quel animal de La Fontaine veut se faire aussi gros que le bœuf, et en éclate ?",
+  "r": "La grenouille",
+  "d": 1,
+  "t": "Fables"
+ },
+ {
+  "q": "Dans « Le Loup et le Chien », quel animal préfère sa liberté affamée à un collier ?",
+  "r": "Le loup",
+  "d": 1,
+  "t": "Fables"
+ },
+ {
+  "q": "À qui La Fontaine a-t-il dédié son premier recueil de fables, en 1668 ?",
+  "r": "Au Dauphin, fils de Louis XIV",
+  "d": 3,
+  "t": "Fables"
+ },
+ {
+  "q": "Quel poète a écrit « Sous le pont Mirabeau coule la Seine » ?",
+  "r": "Guillaume Apollinaire",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Comment Apollinaire a-t-il appelé ses poèmes dont les vers dessinent des formes (pluie, cravate, tour Eiffel) ?",
+  "r": "Calligrammes",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète a écrit « Déjeuner du matin » et « Pour faire le portrait d'un oiseau » ?",
+  "r": "Jacques Prévert",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Sur quelle ville « il pleuvait sans cesse » dans le poème « Barbara » de Prévert ?",
+  "r": "Brest",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète a écrit « Liberté », avec son refrain « J'écris ton nom » ?",
+  "r": "Paul Éluard",
+  "d": 1,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel mouvement artistique André Breton a-t-il défini dans un manifeste en 1924 ?",
+  "r": "Le surréalisme",
+  "d": 1,
+  "t": "Mouvements"
+ },
+ {
+  "q": "Quel poète sétois a écrit « Le Cimetière marin » ?",
+  "r": "Paul Valéry",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète, premier président du Sénégal, fut le premier Africain élu à l'Académie française ?",
+  "r": "Léopold Sédar Senghor",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète martiniquais a écrit le « Cahier d'un retour au pays natal » ?",
+  "r": "Aimé Césaire",
+  "d": 2,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète symboliste a écrit « Un coup de dés jamais n'abolira le hasard » ?",
+  "r": "Stéphane Mallarmé",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Combien de vers compte un sonnet ?",
+  "r": "14",
+  "d": 1,
+  "t": "Versification"
+ },
+ {
+  "q": "Comment appelle-t-on un vers de douze syllabes ?",
+  "r": "Un alexandrin",
+  "d": 1,
+  "t": "Versification"
+ },
+ {
+  "q": "Comment appelle-t-on une strophe de quatre vers ?",
+  "r": "Un quatrain",
+  "d": 1,
+  "t": "Versification"
+ },
+ {
+  "q": "Comment appelle-t-on la répétition d'une même consonne, comme dans « Pour qui sont ces serpents qui sifflent sur vos têtes » ?",
+  "r": "Une allitération",
+  "d": 2,
+  "t": "Versification"
+ },
+ {
+  "q": "Quel poète romantique a écrit « El Desdichado » (« Je suis le Ténébreux, – le Veuf, – l'Inconsolé ») ?",
+  "r": "Gérard de Nerval",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel est le véritable nom du comte de Lautréamont, auteur des « Chants de Maldoror » ?",
+  "r": "Isidore Ducasse",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète et diplomate, prix Nobel de littérature 1960, a écrit « Anabase » ?",
+  "r": "Saint-John Perse",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel poète romantique a écrit « La Mort du loup » ?",
+  "r": "Alfred de Vigny",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quelle poétesse lyonnaise de la Renaissance a écrit le sonnet « Je vis, je meurs ; je me brûle et me noie » ?",
+  "r": "Louise Labé",
+  "d": 3,
+  "t": "Poésie"
+ },
+ {
+  "q": "Quel dramaturge a écrit « Le Bourgeois gentilhomme » ?",
+  "r": "Molière",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel est le véritable nom de Molière ?",
+  "r": "Jean-Baptiste Poquelin",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle pièce de Molière Harpagon se lamente-t-il d'avoir perdu sa cassette ?",
+  "r": "L'Avare",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel personnage de Molière découvre qu'il dit de la prose sans le savoir ?",
+  "r": "Monsieur Jourdain",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle pièce de Molière met en scène un faux dévot qui s'installe chez Orgon ?",
+  "r": "Tartuffe",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle pièce de Molière Géronte répète-t-il « Que diable allait-il faire dans cette galère ? » ?",
+  "r": "Les Fourberies de Scapin",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "En quelle année Molière est-il mort, peu après une représentation du « Malade imaginaire » ?",
+  "r": "1673",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle troupe, fondée en 1680, est surnommée « la Maison de Molière » ?",
+  "r": "La Comédie-Française",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Comment s'appelle le malade imaginaire de Molière, hypocondriaque entouré de médecins ?",
+  "r": "Argan",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle comédie de Molière met en scène Arnolphe, qui veut épouser sa jeune pupille Agnès ?",
+  "r": "L'École des femmes",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle pièce de Molière le valet Sganarelle sert-il un grand seigneur séducteur et impie ?",
+  "r": "Dom Juan",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge a écrit « Le Cid » ?",
+  "r": "Pierre Corneille",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel héros de Corneille tue en duel le père de Chimène, qu'il aime ?",
+  "r": "Rodrigue",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge a écrit la tragédie « Phèdre » en 1677 ?",
+  "r": "Jean Racine",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle règle du théâtre classique impose une seule action, en un seul lieu et en une seule journée ?",
+  "r": "La règle des trois unités",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle tragédie de Racine met en scène la veuve d'Hector, captive de Pyrrhus ?",
+  "r": "Andromaque",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle tragédie de Racine porte le nom d'une reine de Palestine aimée de l'empereur Titus ?",
+  "r": "Bérénice",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge a écrit « Le Mariage de Figaro » ?",
+  "r": "Beaumarchais",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel valet rusé et ancien barbier est le héros de la trilogie de Beaumarchais ?",
+  "r": "Figaro",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle comédie de Beaumarchais, la première de sa trilogie, se déroule en Andalousie ?",
+  "r": "Le Barbier de Séville",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge a écrit « Le Jeu de l'amour et du hasard » ?",
+  "r": "Marivaux",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel mot, tiré du nom d'un dramaturge du XVIIIe siècle, désigne un badinage amoureux raffiné ?",
+  "r": "Le marivaudage",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle pièce d'Edmond Rostand met en scène un cadet de Gascogne affublé d'un long nez ?",
+  "r": "Cyrano de Bergerac",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle célèbre tirade de Cyrano commence par « Ah ! non ! c'est un peu court, jeune homme ! » ?",
+  "r": "La tirade du nez",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle cousine Cyrano aime-t-il en secret, en écrivant pour elle les lettres de Christian ?",
+  "r": "Roxane",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle pièce de Victor Hugo a déclenché une célèbre « bataille » entre classiques et romantiques en 1830 ?",
+  "r": "Hernani",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel drame de Victor Hugo met en scène un laquais amoureux de la reine d'Espagne ?",
+  "r": "Ruy Blas",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge irlandais a écrit en français « En attendant Godot » ?",
+  "r": "Samuel Beckett",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge d'origine roumaine a écrit « La Cantatrice chauve » ?",
+  "r": "Eugène Ionesco",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle pièce de Ionesco les habitants d'une ville se transforment-ils peu à peu en animaux à corne ?",
+  "r": "Rhinocéros",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans quelle pièce de Sartre un personnage conclut-il « L'enfer, c'est les autres » ?",
+  "r": "Huis clos",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle héroïne de la mythologie grecque, fille d'Œdipe, donne son titre à une pièce de Jean Anouilh jouée en 1944 ?",
+  "r": "Antigone",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge a écrit « La guerre de Troie n'aura pas lieu » (1935) ?",
+  "r": "Jean Giraudoux",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Dans « Marius » de Marcel Pagnol, à quel jeu de cartes joue-t-on pendant la scène du « Tu me fends le cœur » ?",
+  "r": "La manille",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge a créé le personnage grotesque du Père Ubu dans « Ubu roi » ?",
+  "r": "Alfred Jarry",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quelle dramaturge a écrit « Art », pièce de 1994 autour d'un tableau blanc ?",
+  "r": "Yasmina Reza",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel maître du vaudeville a écrit « Un fil à la patte » et « La Dame de chez Maxim » ?",
+  "r": "Georges Feydeau",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel personnage de la commedia dell'arte porte un costume fait de losanges multicolores ?",
+  "r": "Arlequin",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Au théâtre, comment appelle-t-on une réplique dite pour le public, que les autres personnages sont censés ne pas entendre ?",
+  "r": "Un aparté",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Au théâtre, comment appelle-t-on la personne qui, cachée, rappelle leur texte aux comédiens ?",
+  "r": "Le souffleur",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel mot grossier les comédiens se disent-ils traditionnellement pour se souhaiter bonne chance ?",
+  "r": "Merde",
+  "d": 1,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel poète romantique a écrit la pièce « On ne badine pas avec l'amour » ?",
+  "r": "Alfred de Musset",
+  "d": 2,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge québécois a fait scandale en 1968 avec « Les Belles-sœurs », écrite en joual ?",
+  "r": "Michel Tremblay",
+  "d": 3,
+  "t": "Théâtre"
+ },
+ {
+  "q": "Quel dramaturge libano-québécois a écrit « Incendies », adapté au cinéma par Denis Villeneuve ?",
+  "r": "Wajdi Mouawad",
+  "d": 3,
+  "t": "Théâtre"
+ }
 ]

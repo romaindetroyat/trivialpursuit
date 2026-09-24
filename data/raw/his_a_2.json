@@ -168,7 +168,7 @@
   "t": "Rome antique"
  },
  {
-  "q": "Quelle espèce humaine, dont le nom latin signifie « homme habile », serait l'une des premières à fabriquer des outils ?",
+  "q": "Quelle espèce du genre Homo, décrite en 1964 d'après des fossiles des gorges d'Olduvai, a longtemps été vue comme la première à fabriquer des outils ?",
   "r": "Homo habilis",
   "d": 2,
   "t": "Préhistoire"
@@ -228,9 +228,9 @@
   "t": "Amériques et Afrique antiques"
  },
  {
-  "q": "Quelle civilisation de l'âge du bronze, centrée sur Cnossos en Crète, doit son nom au roi légendaire Minos ?",
+  "q": "Quelle civilisation de l'âge du bronze, centrée sur le palais de Cnossos en Crète, fut révélée par Arthur Evans ?",
   "r": "La civilisation minoenne",
-  "d": 1,
+  "d": 2,
   "t": "Grèce antique"
  },
  {
@@ -264,7 +264,7 @@
   "t": "Préhistoire"
  },
  {
-  "q": "Quel empereur romain accorda en 313, par l'édit de Milan, la liberté de culte aux chrétiens ?",
+  "q": "Quel empereur romain, vainqueur au pont Milvius, accorda en 313, par l'édit de Milan, la liberté de culte aux chrétiens ?",
   "r": "Constantin",
   "d": 2,
   "t": "Rome antique"
@@ -393,10 +393,10 @@
   "q": "Quelle bataille de 1066 ouvrit à Guillaume de Normandie le trône d'Angleterre ?",
   "r": "Hastings",
   "d": 1,
-  "t": "Capétiens"
+  "t": "Angleterre médiévale"
  },
  {
-  "q": "Le tombeau de quel roi d'Halicarnasse a donné un nom commun désignant un monument funéraire grandiose ?",
+  "q": "Le tombeau de quel souverain de Carie, à Halicarnasse, a donné un nom commun désignant un monument funéraire grandiose ?",
   "r": "Mausole",
   "d": 2,
   "t": "Grèce antique"
@@ -420,7 +420,7 @@
   "t": "Croisades"
  },
  {
-  "q": "Le mur de scène de quel théâtre antique fut qualifié par Louis XIV de « plus belle muraille de mon royaume » ?",
+  "q": "Le mur de scène de quel théâtre antique Louis XIV aurait-il qualifié de « plus belle muraille de mon royaume » ?",
   "r": "Le théâtre d'Orange",
   "d": 2,
   "t": "Rome antique"

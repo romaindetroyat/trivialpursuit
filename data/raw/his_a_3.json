@@ -117,7 +117,7 @@
   "q": "Quel pape lança l'appel à la première croisade à Clermont en 1095 ?",
   "r": "Urbain II",
   "d": 2,
-  "t": "Capétiens"
+  "t": "Croisades"
  },
  {
   "q": "Quels frères enlumineurs ont illustré les « Très Riches Heures du duc de Berry » ?",
@@ -240,7 +240,7 @@
   "t": "Gaule"
  },
  {
-  "q": "Quel roi anglo-saxon du Wessex, seul souverain anglais surnommé « le Grand », résista aux Vikings au IXe siècle ?",
+  "q": "Quel roi anglo-saxon du Wessex, surnommé « le Grand », résista aux Vikings au IXe siècle ?",
   "r": "Alfred le Grand",
   "d": 2,
   "t": "Vikings et Europe du Nord"
@@ -300,8 +300,8 @@
   "t": "Rome antique"
  },
  {
-  "q": "Quel abbé de Clairvaux prêcha la deuxième croisade à Vézelay en 1146 ?",
-  "r": "Bernard de Clairvaux",
+  "q": "Quel abbé cistercien prêcha la deuxième croisade à Vézelay en 1146 ?",
+  "r": "Saint Bernard (de Clairvaux)",
   "d": 2,
   "t": "Église médiévale"
  },
@@ -321,7 +321,7 @@
   "q": "Quelle broderie de près de 70 mètres raconte la conquête de l'Angleterre par les Normands ?",
   "r": "La tapisserie de Bayeux",
   "d": 1,
-  "t": "Capétiens"
+  "t": "Angleterre médiévale"
  },
  {
   "q": "Quel titre, signifiant « digne de vénération », Octave reçut-il du Sénat en 27 av. J.-C. ?",
@@ -462,7 +462,7 @@
   "t": "Rome antique"
  },
  {
-  "q": "Quel empereur germanique dut s'humilier devant le pape Grégoire VII à Canossa en 1077 ?",
+  "q": "Quel roi germanique, futur empereur, dut s'humilier devant le pape Grégoire VII à Canossa en 1077 ?",
   "r": "Henri IV",
   "d": 2,
   "t": "Saint-Empire et Europe centrale"

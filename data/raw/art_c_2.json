@@ -1,98 +1,566 @@
 [
-  {"q": "Quel sculpteur a réalisé « Le Penseur », à l'origine destiné à sa « Porte de l'Enfer » ?", "r": "Auguste Rodin", "d": 1, "t": "Sculpture"},
-  {"q": "Quel artiste a sculpté entre 1501 et 1504 le « David » de marbre de Florence ?", "r": "Michel-Ange", "d": 1, "t": "Sculpture"},
-  {"q": "Quel sculpteur alsacien a conçu la statue de la Liberté offerte aux États-Unis ?", "r": "Auguste Bartholdi", "d": 1, "t": "Sculpture"},
-  {"q": "Dans quel musée parisien est exposée la « Vénus de Milo » ?", "r": "Le Louvre", "d": 1, "t": "Musées"},
-  {"q": "Sur quelle île du Pacifique se dressent les statues géantes appelées moaï ?", "r": "L'île de Pâques", "d": 1, "t": "Sculpture"},
-  {"q": "Dans quelle ville se trouve le musée du Prado ?", "r": "Madrid", "d": 1, "t": "Musées"},
-  {"q": "Quel musée parisien occupe une ancienne gare construite pour l'Exposition universelle de 1900 ?", "r": "Le musée d'Orsay", "d": 1, "t": "Musées"},
-  {"q": "Dans quelle ville se trouve le musée de l'Ermitage ?", "r": "Saint-Pétersbourg", "d": 1, "t": "Musées"},
-  {"q": "Dans quelle ville italienne se trouve la galerie des Offices ?", "r": "Florence", "d": 1, "t": "Musées"},
-  {"q": "Dans quelle ville se trouve le Rijksmuseum, qui expose « La Ronde de nuit » ?", "r": "Amsterdam", "d": 1, "t": "Musées"},
-  {"q": "Dans quelle ville espagnole un musée Guggenheim couvert de titane a-t-il ouvert en 1997 ?", "r": "Bilbao", "d": 1, "t": "Musées"},
-  {"q": "Quel musée parisien, inauguré en 1977, affiche en façade ses tuyaux colorés ?", "r": "Le Centre Pompidou", "d": 1, "t": "Musées"},
-  {"q": "Quel ingénieur a donné son nom à la tour construite pour l'Exposition universelle de 1889 ?", "r": "Gustave Eiffel", "d": 1, "t": "Architecture"},
-  {"q": "Quel architecte catalan a consacré plus de quarante ans à la Sagrada Família ?", "r": "Antoni Gaudí", "d": 1, "t": "Architectes"},
-  {"q": "Quel architecte a construit à Marseille la Cité radieuse, surnommée « la maison du fada » ?", "r": "Le Corbusier", "d": 1, "t": "Architectes"},
-  {"q": "Quel architecte sino-américain a conçu la pyramide du Louvre ?", "r": "Ieoh Ming Pei", "d": 1, "t": "Architectes"},
-  {"q": "Dans quelle ville se trouve l'opéra aux toits en forme de voiles blanches conçu par Jørn Utzon ?", "r": "Sydney", "d": 1, "t": "Architecture"},
-  {"q": "Quel architecte a donné son nom à l'opéra parisien inauguré en 1875 ?", "r": "Charles Garnier", "d": 1, "t": "Architectes"},
-  {"q": "Quel jardinier de Louis XIV a dessiné les jardins à la française de Versailles ?", "r": "André Le Nôtre", "d": 1, "t": "Architectes"},
-  {"q": "Quel préfet de la Seine a dirigé les grands travaux de transformation de Paris sous Napoléon III ?", "r": "Le baron Haussmann", "d": 1, "t": "Urbanisme"},
-  {"q": "Quel style architectural médiéval se caractérise par la croisée d'ogives et l'arc brisé ?", "r": "Le gothique", "d": 1, "t": "Styles architecturaux"},
-  {"q": "Quel style architectural, antérieur au gothique, privilégie l'arc en plein cintre et les murs épais ?", "r": "Le roman", "d": 1, "t": "Styles architecturaux"},
-  {"q": "Comment appelle-t-on les sculptures en saillie qui évacuent l'eau de pluie des toits des cathédrales ?", "r": "Les gargouilles", "d": 1, "t": "Architecture"},
-  {"q": "Quel gratte-ciel Art déco de 102 étages a été inauguré à New York en 1931 ?", "r": "L'Empire State Building", "d": 1, "t": "Architecture"},
-  {"q": "Dans quelle ville italienne se trouve un célèbre campanile penché ?", "r": "Pise", "d": 1, "t": "Architecture"},
-  {"q": "Quel mausolée de marbre blanc l'empereur moghol Shah Jahan fit-il bâtir à Agra pour son épouse ?", "r": "Le Taj Mahal", "d": 1, "t": "Architecture"},
-  {"q": "Dans quelle ville se trouve la basilique Sainte-Sophie, construite sous Justinien ?", "r": "Istanbul", "d": 1, "t": "Architecture"},
-  {"q": "Quel château de la Loire enjambe le Cher sur une galerie à arches ?", "r": "Chenonceau", "d": 1, "t": "Architecture"},
-  {"q": "Dans quelle ville se trouve la Casa Batlló d'Antoni Gaudí ?", "r": "Barcelone", "d": 1, "t": "Architecture"},
-  {"q": "Quel amphithéâtre romain, inauguré en l'an 80 sous Titus, accueillait des combats de gladiateurs ?", "r": "Le Colisée", "d": 1, "t": "Architecture"},
-  {"q": "Quel palais-forteresse nasride domine la ville de Grenade ?", "r": "L'Alhambra", "d": 1, "t": "Architecture"},
-  {"q": "Quelle statue grecque ailée domine l'escalier Daru au Louvre ?", "r": "La Victoire de Samothrace", "d": 1, "t": "Sculpture"},
-  {"q": "Quel château de la Loire possède un escalier à double révolution souvent attribué à Léonard de Vinci ?", "r": "Chambord", "d": 1, "t": "Architecture"},
-  {"q": "Quel sculpteur a donné son nom et la forme de ses compressions aux trophées du cinéma français ?", "r": "César", "d": 1, "t": "Sculpture"},
-  {"q": "Quelle artiste franco-américaine a créé les « Nanas », grandes femmes colorées aux formes rondes ?", "r": "Niki de Saint Phalle", "d": 1, "t": "Sculpture"},
-  {"q": "Quelle ville du Pas-de-Calais accueille depuis 2012 une antenne du musée du Louvre ?", "r": "Lens", "d": 1, "t": "Musées"},
-
-  {"q": "Sur quelle île grecque de la mer Égée la Vénus de Milo a-t-elle été découverte en 1820 ?", "r": "Milo (Milos)", "d": 2, "t": "Sculpture"},
-  {"q": "Quelle sculptrice, élève et compagne de Rodin, a réalisé « La Valse » et « L'Âge mûr » ?", "r": "Camille Claudel", "d": 2, "t": "Sculpture"},
-  {"q": "Quel sculpteur suisse est célèbre pour ses silhouettes filiformes comme « L'Homme qui marche » ?", "r": "Alberto Giacometti", "d": 2, "t": "Sculpture"},
-  {"q": "Quel sculpteur roumain installé à Paris a réalisé la série « L'Oiseau dans l'espace » ?", "r": "Constantin Brancusi", "d": 2, "t": "Sculpture"},
-  {"q": "Quel artiste baroque a sculpté « L'Extase de sainte Thérèse » et dessiné la colonnade de la place Saint-Pierre ?", "r": "Le Bernin", "d": 2, "t": "Sculpture"},
-  {"q": "Quel groupe sculpté de Rodin représente six notables qui se livrèrent au roi d'Angleterre en 1347 ?", "r": "Les Bourgeois de Calais", "d": 2, "t": "Sculpture"},
-  {"q": "Quel sculpteur américain a inventé les mobiles, sculptures suspendues animées par l'air ?", "r": "Alexander Calder", "d": 2, "t": "Sculpture"},
-  {"q": "Quel couple d'artistes a emballé le Pont-Neuf de toile en 1985 ?", "r": "Christo et Jeanne-Claude", "d": 2, "t": "Art contemporain"},
-  {"q": "Près de quelle ville chinoise a-t-on découvert en 1974 l'armée de terre cuite du premier empereur ?", "r": "Xi'an", "d": 2, "t": "Sculpture"},
-  {"q": "De quelle reine égyptienne le Neues Museum de Berlin conserve-t-il un buste polychrome célèbre ?", "r": "Néfertiti", "d": 2, "t": "Sculpture"},
-  {"q": "Quel artiste américain a créé les « Balloon Dogs », chiens en acier inoxydable imitant des ballons ?", "r": "Jeff Koons", "d": 2, "t": "Art contemporain"},
-  {"q": "Quel musée new-yorkais à rampe hélicoïdale a été conçu par Frank Lloyd Wright ?", "r": "Le musée Guggenheim", "d": 2, "t": "Musées"},
-  {"q": "Quel musée londonien d'art moderne occupe une ancienne centrale électrique au bord de la Tamise ?", "r": "La Tate Modern", "d": 2, "t": "Musées"},
-  {"q": "Quel musée parisien expose les grands « Nymphéas » de Monet dans deux salles ovales ?", "r": "Le musée de l'Orangerie", "d": 2, "t": "Musées"},
-  {"q": "Quelle ville de Lorraine accueille depuis 2010 une antenne du Centre Pompidou ?", "r": "Metz", "d": 2, "t": "Musées"},
-  {"q": "Dans quel musée new-yorkais est conservée « La Nuit étoilée » de Van Gogh ?", "r": "Le MoMA", "d": 2, "t": "Musées"},
-  {"q": "Dans quel musée londonien sont exposées une grande partie des frises du Parthénon ?", "r": "Le British Museum", "d": 2, "t": "Musées"},
-  {"q": "Quel architecte français a conçu le Louvre Abou Dabi, inauguré en 2017 ?", "r": "Jean Nouvel", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte américain a construit la « Maison sur la cascade » (Fallingwater) en Pennsylvanie ?", "r": "Frank Lloyd Wright", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte de Louis XIV a conçu la galerie des Glaces de Versailles ?", "r": "Jules Hardouin-Mansart", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte a restauré Notre-Dame de Paris et la cité de Carcassonne au XIXe siècle ?", "r": "Eugène Viollet-le-Duc", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte florentin a conçu la coupole de la cathédrale Santa Maria del Fiore ?", "r": "Filippo Brunelleschi", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte italien a conçu le Centre Pompidou avec Richard Rogers ?", "r": "Renzo Piano", "d": 2, "t": "Architectes"},
-  {"q": "Quelle architecte irako-britannique a été en 2004 la première femme lauréate du prix Pritzker ?", "r": "Zaha Hadid", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte a conçu la Fondation Louis Vuitton au bois de Boulogne, avec ses voiles de verre ?", "r": "Frank Gehry", "d": 2, "t": "Architectes"},
-  {"q": "Quelle abbatiale au nord de Paris est considérée comme le berceau de l'art gothique, sous l'abbé Suger ?", "r": "La basilique de Saint-Denis", "d": 2, "t": "Styles architecturaux"},
-  {"q": "Comment appelle-t-on les arcs extérieurs qui contrebutent les murs des cathédrales gothiques ?", "r": "Les arcs-boutants", "d": 2, "t": "Architecture"},
-  {"q": "Comment appelle-t-on une statue de femme servant de colonne pour soutenir un entablement ?", "r": "Une cariatide", "d": 2, "t": "Architecture"},
-  {"q": "Quels sont les trois ordres de l'architecture grecque classique ?", "r": "Dorique, ionique, corinthien", "d": 2, "t": "Architecture"},
-  {"q": "Quel architecte français a dessiné les entrées de métro parisiennes de style Art nouveau ?", "r": "Hector Guimard", "d": 2, "t": "Architectes"},
-  {"q": "Quelle école allemande d'art et d'architecture Walter Gropius a-t-il fondée à Weimar en 1919 ?", "r": "Le Bauhaus", "d": 2, "t": "Mouvements architecturaux"},
-  {"q": "Quelle formule de Ludwig Mies van der Rohe résume l'esthétique minimaliste ?", "r": "« Less is more »", "d": 2, "t": "Architectes"},
-  {"q": "Quel architecte brésilien a conçu les principaux bâtiments de la capitale Brasília ?", "r": "Oscar Niemeyer", "d": 2, "t": "Architectes"},
-  {"q": "Quel style doit son nom à l'Exposition internationale des arts décoratifs de Paris en 1925 ?", "r": "L'Art déco", "d": 2, "t": "Styles architecturaux"},
-  {"q": "Quel architecte britannique a conçu le viaduc de Millau avec l'ingénieur Michel Virlogeux ?", "r": "Norman Foster", "d": 2, "t": "Architectes"},
-  {"q": "Quel monument parisien, bâti par Soufflot, était à l'origine l'église Sainte-Geneviève ?", "r": "Le Panthéon", "d": 2, "t": "Architecture"},
-  {"q": "Quel architecte danois a conçu la Grande Arche de la Défense ?", "r": "Johan Otto von Spreckelsen", "d": 2, "t": "Architectes"},
-
-  {"q": "Quel sculpteur néoclassique italien a réalisé « Psyché ranimée par le baiser de l'Amour » ?", "r": "Antonio Canova", "d": 3, "t": "Sculpture"},
-  {"q": "Quel sculpteur a réalisé le groupe « La Danse » pour la façade de l'Opéra Garnier ?", "r": "Jean-Baptiste Carpeaux", "d": 3, "t": "Sculpture"},
-  {"q": "Quel artiste des Nouveaux Réalistes est connu pour ses « Accumulations » d'objets identiques ?", "r": "Arman", "d": 3, "t": "Art contemporain"},
-  {"q": "Quel sculpteur florentin a réalisé les « Portes du Paradis » du baptistère de Florence ?", "r": "Lorenzo Ghiberti", "d": 3, "t": "Sculpture"},
-  {"q": "Quel groupe antique, découvert à Rome en 1506, montre un prêtre troyen et ses fils attaqués par des serpents ?", "r": "Le Laocoon", "d": 3, "t": "Sculpture"},
-  {"q": "Quel sculpteur a réalisé « Le Départ des volontaires de 1792 », dit « La Marseillaise », sur l'Arc de triomphe ?", "r": "François Rude", "d": 3, "t": "Sculpture"},
-  {"q": "Quelle artiste a créé « Maman », une araignée géante en bronze de près de dix mètres de haut ?", "r": "Louise Bourgeois", "d": 3, "t": "Sculpture"},
-  {"q": "Quel musée parisien est installé dans l'hôtel Biron, rue de Varenne ?", "r": "Le musée Rodin", "d": 3, "t": "Musées"},
-  {"q": "Dans quel musée madrilène est exposé « Guernica » de Picasso ?", "r": "Le musée Reina Sofía", "d": 3, "t": "Musées"},
-  {"q": "Quelle ville du Nord abrite le musée La Piscine, installé dans d'anciens bains municipaux Art déco ?", "r": "Roubaix", "d": 3, "t": "Musées"},
-  {"q": "Dans quelle ville alsacienne le musée Unterlinden abrite-t-il le retable d'Issenheim ?", "r": "Colmar", "d": 3, "t": "Musées"},
-  {"q": "Quel était le véritable nom de l'architecte Le Corbusier ?", "r": "Charles-Édouard Jeanneret", "d": 3, "t": "Architectes"},
-  {"q": "Dans quelle commune de Haute-Saône Le Corbusier a-t-il bâti la chapelle Notre-Dame-du-Haut ?", "r": "Ronchamp", "d": 3, "t": "Architecture"},
-  {"q": "Quel architecte belge a signé l'hôtel Tassel à Bruxelles, manifeste de l'Art nouveau ?", "r": "Victor Horta", "d": 3, "t": "Architectes"},
-  {"q": "Quel architecte a conçu le Chrysler Building de New York, achevé en 1930 ?", "r": "William Van Alen", "d": 3, "t": "Architectes"},
-  {"q": "Quel architecte de Soliman le Magnifique a construit la mosquée Süleymaniye d'Istanbul ?", "r": "Sinan", "d": 3, "t": "Architectes"},
-  {"q": "Quel architecte a construit le château de Vaux-le-Vicomte pour le surintendant Fouquet ?", "r": "Louis Le Vau", "d": 3, "t": "Architectes"},
-  {"q": "Quel architecte de la Renaissance a bâti de nombreuses villas en Vénétie et écrit « Les Quatre Livres de l'architecture » ?", "r": "Andrea Palladio", "d": 3, "t": "Architectes"},
-  {"q": "Quel architecte a conçu la Bibliothèque nationale de France, dont les quatre tours évoquent des livres ouverts ?", "r": "Dominique Perrault", "d": 3, "t": "Architectes"},
-  {"q": "Quel architecte a été en 1994 le premier Français lauréat du prix Pritzker ?", "r": "Christian de Portzamparc", "d": 3, "t": "Architectes"},
-  {"q": "Comment appelle-t-on la partie semi-circulaire qui termine le chœur d'une église ?", "r": "L'abside", "d": 3, "t": "Architecture"}
+ {
+  "q": "Quel sculpteur a réalisé « Le Penseur », à l'origine destiné à sa « Porte de l'Enfer » ?",
+  "r": "Auguste Rodin",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel artiste a sculpté entre 1501 et 1504 le « David » de marbre de Florence ?",
+  "r": "Michel-Ange",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur alsacien a conçu la statue de la Liberté offerte aux États-Unis ?",
+  "r": "Auguste Bartholdi",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Dans quel musée parisien est exposée la « Vénus de Milo » ?",
+  "r": "Le Louvre",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Sur quelle île du Pacifique se dressent les statues géantes appelées moaï ?",
+  "r": "L'île de Pâques",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Dans quelle ville se trouve le musée du Prado ?",
+  "r": "Madrid",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée parisien occupe une ancienne gare construite pour l'Exposition universelle de 1900 ?",
+  "r": "Le musée d'Orsay",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quelle ville se trouve le musée de l'Ermitage ?",
+  "r": "Saint-Pétersbourg",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quelle ville italienne se trouve la galerie des Offices ?",
+  "r": "Florence",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quelle ville se trouve le Rijksmuseum, qui expose « La Ronde de nuit » ?",
+  "r": "Amsterdam",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quelle ville espagnole un musée Guggenheim couvert de titane a-t-il ouvert en 1997 ?",
+  "r": "Bilbao",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée parisien, inauguré en 1977, affiche en façade ses tuyaux colorés ?",
+  "r": "Le Centre Pompidou",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel ingénieur a donné son nom à la tour construite pour l'Exposition universelle de 1889 ?",
+  "r": "Gustave Eiffel",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte catalan a consacré plus de quarante ans à la Sagrada Família ?",
+  "r": "Antoni Gaudí",
+  "d": 1,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a construit à Marseille la Cité radieuse, surnommée « la maison du fada » ?",
+  "r": "Le Corbusier",
+  "d": 1,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte sino-américain a conçu la pyramide du Louvre ?",
+  "r": "Ieoh Ming Pei",
+  "d": 1,
+  "t": "Architectes"
+ },
+ {
+  "q": "Dans quelle ville se trouve l'opéra aux toits en forme de voiles blanches conçu par Jørn Utzon ?",
+  "r": "Sydney",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte a donné son nom à l'opéra parisien inauguré en 1875 ?",
+  "r": "Charles Garnier",
+  "d": 1,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel jardinier de Louis XIV a dessiné les jardins à la française de Versailles ?",
+  "r": "André Le Nôtre",
+  "d": 1,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel préfet de la Seine a dirigé les grands travaux de transformation de Paris sous Napoléon III ?",
+  "r": "Le baron Haussmann",
+  "d": 1,
+  "t": "Urbanisme"
+ },
+ {
+  "q": "Quel style architectural médiéval se caractérise par la croisée d'ogives et l'arc brisé ?",
+  "r": "Le gothique",
+  "d": 1,
+  "t": "Styles architecturaux"
+ },
+ {
+  "q": "Quel style architectural, antérieur au gothique, privilégie l'arc en plein cintre et les murs épais ?",
+  "r": "Le roman",
+  "d": 1,
+  "t": "Styles architecturaux"
+ },
+ {
+  "q": "Comment appelle-t-on les sculptures en saillie qui évacuent l'eau de pluie des toits des cathédrales ?",
+  "r": "Les gargouilles",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel gratte-ciel Art déco de 102 étages a été inauguré à New York en 1931 ?",
+  "r": "L'Empire State Building",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Dans quelle ville italienne se trouve un célèbre campanile penché ?",
+  "r": "Pise",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel mausolée de marbre blanc l'empereur moghol Shah Jahan fit-il bâtir à Agra pour son épouse ?",
+  "r": "Le Taj Mahal",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Dans quelle ville se trouve la basilique Sainte-Sophie, construite sous Justinien ?",
+  "r": "Istanbul",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel château de la Loire enjambe le Cher sur une galerie à arches ?",
+  "r": "Chenonceau",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Dans quelle ville se trouve la Casa Batlló d'Antoni Gaudí ?",
+  "r": "Barcelone",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel amphithéâtre romain, inauguré en l'an 80 sous Titus, accueillait des combats de gladiateurs ?",
+  "r": "Le Colisée",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel palais-forteresse nasride domine la ville de Grenade ?",
+  "r": "L'Alhambra",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quelle statue grecque ailée domine l'escalier Daru au Louvre ?",
+  "r": "La Victoire de Samothrace",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel château de la Loire possède un escalier à double révolution souvent attribué à Léonard de Vinci ?",
+  "r": "Chambord",
+  "d": 1,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel sculpteur a donné son nom et la forme de ses compressions aux trophées du cinéma français ?",
+  "r": "César",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle artiste franco-américaine a créé les « Nanas », grandes femmes colorées aux formes rondes ?",
+  "r": "Niki de Saint Phalle",
+  "d": 1,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle ville du Pas-de-Calais accueille depuis 2012 une antenne du musée du Louvre ?",
+  "r": "Lens",
+  "d": 1,
+  "t": "Musées"
+ },
+ {
+  "q": "Sur quelle île grecque de la mer Égée la Vénus de Milo a-t-elle été découverte en 1820 ?",
+  "r": "Milo (Milos)",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle sculptrice, élève et compagne de Rodin, a réalisé « La Valse » et « L'Âge mûr » ?",
+  "r": "Camille Claudel",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur suisse est célèbre pour ses silhouettes filiformes comme « L'Homme qui marche » ?",
+  "r": "Alberto Giacometti",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur roumain installé à Paris a réalisé la série « L'Oiseau dans l'espace » ?",
+  "r": "Constantin Brancusi",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel artiste baroque a sculpté « L'Extase de sainte Thérèse » et dessiné la colonnade de la place Saint-Pierre ?",
+  "r": "Le Bernin",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel groupe sculpté de Rodin représente six notables qui se livrèrent au roi d'Angleterre en 1347 ?",
+  "r": "Les Bourgeois de Calais",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur américain a inventé les mobiles, sculptures suspendues animées par l'air ?",
+  "r": "Alexander Calder",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel couple d'artistes a emballé le Pont-Neuf de toile en 1985 ?",
+  "r": "Christo et Jeanne-Claude",
+  "d": 2,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Près de quelle ville chinoise a-t-on découvert en 1974 l'armée de terre cuite du premier empereur ?",
+  "r": "Xi'an",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "De quelle reine égyptienne le Neues Museum de Berlin conserve-t-il un buste polychrome célèbre ?",
+  "r": "Néfertiti",
+  "d": 2,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel artiste américain a créé les « Balloon Dogs », chiens en acier inoxydable imitant des ballons ?",
+  "r": "Jeff Koons",
+  "d": 2,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Quel musée new-yorkais à rampe hélicoïdale a été conçu par Frank Lloyd Wright ?",
+  "r": "Le musée Guggenheim",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée londonien d'art moderne occupe une ancienne centrale électrique au bord de la Tamise ?",
+  "r": "La Tate Modern",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel musée parisien expose les grands « Nymphéas » de Monet dans deux salles ovales ?",
+  "r": "Le musée de l'Orangerie",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quelle ville de Lorraine accueille depuis 2010 une antenne du Centre Pompidou ?",
+  "r": "Metz",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quel musée new-yorkais est conservée « La Nuit étoilée » de Van Gogh ?",
+  "r": "Le MoMA",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quel musée londonien sont exposées une grande partie des frises du Parthénon ?",
+  "r": "Le British Museum",
+  "d": 2,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel architecte français a conçu le Louvre Abou Dabi, inauguré en 2017 ?",
+  "r": "Jean Nouvel",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte américain a construit la « Maison sur la cascade » (Fallingwater) en Pennsylvanie ?",
+  "r": "Frank Lloyd Wright",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte de Louis XIV a conçu la galerie des Glaces de Versailles ?",
+  "r": "Jules Hardouin-Mansart",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a restauré Notre-Dame de Paris et la cité de Carcassonne au XIXe siècle ?",
+  "r": "Eugène Viollet-le-Duc",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte florentin a conçu la coupole de la cathédrale Santa Maria del Fiore ?",
+  "r": "Filippo Brunelleschi",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte italien a conçu le Centre Pompidou avec Richard Rogers ?",
+  "r": "Renzo Piano",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quelle architecte irako-britannique a été en 2004 la première femme lauréate du prix Pritzker ?",
+  "r": "Zaha Hadid",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a conçu la Fondation Louis Vuitton au bois de Boulogne, avec ses voiles de verre ?",
+  "r": "Frank Gehry",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quelle abbatiale au nord de Paris est considérée comme le berceau de l'art gothique, sous l'abbé Suger ?",
+  "r": "La basilique de Saint-Denis",
+  "d": 2,
+  "t": "Styles architecturaux"
+ },
+ {
+  "q": "Comment appelle-t-on les arcs extérieurs qui contrebutent les murs des cathédrales gothiques ?",
+  "r": "Les arcs-boutants",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Comment appelle-t-on une statue de femme servant de colonne pour soutenir un entablement ?",
+  "r": "Une cariatide",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quels sont les trois ordres de l'architecture grecque classique ?",
+  "r": "Dorique, ionique, corinthien",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte français a dessiné les entrées de métro parisiennes de style Art nouveau ?",
+  "r": "Hector Guimard",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quelle école allemande d'art et d'architecture Walter Gropius a-t-il fondée à Weimar en 1919 ?",
+  "r": "Le Bauhaus",
+  "d": 2,
+  "t": "Mouvements architecturaux"
+ },
+ {
+  "q": "Quelle formule de Ludwig Mies van der Rohe résume l'esthétique minimaliste ?",
+  "r": "« Less is more »",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte brésilien a conçu les principaux bâtiments de la capitale Brasília ?",
+  "r": "Oscar Niemeyer",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel style doit son nom à l'Exposition internationale des arts décoratifs de Paris en 1925 ?",
+  "r": "L'Art déco",
+  "d": 2,
+  "t": "Styles architecturaux"
+ },
+ {
+  "q": "Quel architecte britannique a conçu le viaduc de Millau avec l'ingénieur Michel Virlogeux ?",
+  "r": "Norman Foster",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel monument parisien, bâti par Soufflot, était à l'origine l'église Sainte-Geneviève ?",
+  "r": "Le Panthéon",
+  "d": 2,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte danois a conçu la Grande Arche de la Défense ?",
+  "r": "Johan Otto von Spreckelsen",
+  "d": 2,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel sculpteur néoclassique italien a réalisé « Psyché ranimée par le baiser de l'Amour » ?",
+  "r": "Antonio Canova",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur a réalisé le groupe « La Danse » pour la façade de l'Opéra Garnier ?",
+  "r": "Jean-Baptiste Carpeaux",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel artiste des Nouveaux Réalistes est connu pour ses « Accumulations » d'objets identiques ?",
+  "r": "Arman",
+  "d": 3,
+  "t": "Art contemporain"
+ },
+ {
+  "q": "Quel sculpteur florentin a réalisé les « Portes du Paradis » du baptistère de Florence ?",
+  "r": "Lorenzo Ghiberti",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel groupe antique, découvert à Rome en 1506, montre un prêtre troyen et ses fils attaqués par des serpents ?",
+  "r": "Le Laocoon",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel sculpteur a réalisé « Le Départ des volontaires de 1792 », dit « La Marseillaise », sur l'Arc de triomphe ?",
+  "r": "François Rude",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quelle artiste a créé « Maman », une araignée géante en bronze de près de dix mètres de haut ?",
+  "r": "Louise Bourgeois",
+  "d": 3,
+  "t": "Sculpture"
+ },
+ {
+  "q": "Quel musée parisien est installé dans l'hôtel Biron, rue de Varenne ?",
+  "r": "Le musée Rodin",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quel musée madrilène est exposé « Guernica » de Picasso ?",
+  "r": "Le musée Reina Sofía",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "q": "Quelle ville du Nord abrite le musée La Piscine, installé dans d'anciens bains municipaux Art déco ?",
+  "r": "Roubaix",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "q": "Dans quelle ville alsacienne le musée Unterlinden abrite-t-il le retable d'Issenheim ?",
+  "r": "Colmar",
+  "d": 3,
+  "t": "Musées"
+ },
+ {
+  "q": "Quel était le véritable nom de l'architecte Le Corbusier ?",
+  "r": "Charles-Édouard Jeanneret",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Dans quelle commune de Haute-Saône Le Corbusier a-t-il bâti la chapelle Notre-Dame-du-Haut ?",
+  "r": "Ronchamp",
+  "d": 3,
+  "t": "Architecture"
+ },
+ {
+  "q": "Quel architecte belge a signé l'hôtel Tassel à Bruxelles, manifeste de l'Art nouveau ?",
+  "r": "Victor Horta",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a conçu le Chrysler Building de New York, achevé en 1930 ?",
+  "r": "William Van Alen",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte de Soliman le Magnifique a construit la mosquée Süleymaniye d'Istanbul ?",
+  "r": "Sinan",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a construit le château de Vaux-le-Vicomte pour le surintendant Fouquet ?",
+  "r": "Louis Le Vau",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte de la Renaissance a bâti de nombreuses villas en Vénétie et écrit « Les Quatre Livres de l'architecture » ?",
+  "r": "Andrea Palladio",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a conçu la Bibliothèque nationale de France, dont les quatre tours évoquent des livres ouverts ?",
+  "r": "Dominique Perrault",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Quel architecte a été en 1994 le premier Français lauréat du prix Pritzker ?",
+  "r": "Christian de Portzamparc",
+  "d": 3,
+  "t": "Architectes"
+ },
+ {
+  "q": "Comment appelle-t-on la partie semi-circulaire qui termine le chœur d'une église ?",
+  "r": "L'abside",
+  "d": 3,
+  "t": "Architecture"
+ }
 ]
