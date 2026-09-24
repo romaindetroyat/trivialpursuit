@@ -83,10 +83,15 @@ def charger(cat_id):
     return questions, rejets
 
 
-def dedoublonner(questions):
+def dedoublonner(questions, vus=None, par_reponse=None):
+    """Écarte les questions identiques, ou proches avec la même réponse.
+
+    `vus` et `par_reponse` peuvent être partagés entre catégories pour détecter
+    un même fait posé dans deux catégories différentes.
+    """
     gardees, doublons = [], []
-    vus = set()
-    par_reponse = {}
+    vus = set() if vus is None else vus
+    par_reponse = {} if par_reponse is None else par_reponse
     for q in questions:
         cle = normaliser(q["q"])
         if cle in vus:
@@ -151,9 +156,10 @@ def main():
     rng = random.Random(args.graine)
 
     par_cat, reserve, bilan = {}, {}, []
+    vus, par_reponse = set(), {}
     for cat in CATEGORIES:
         brutes, rejets = charger(cat["id"])
-        uniques, doublons = dedoublonner(brutes)
+        uniques, doublons = dedoublonner(brutes, vus, par_reponse)
         choisies, surplus = selectionner(uniques, args.cartes, rng)
         par_cat[cat["id"]] = choisies
         reserve[cat["id"]] = surplus
