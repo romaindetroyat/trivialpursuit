@@ -42,7 +42,6 @@
   {"q": "Quelle ville est la préfecture du département de la Savoie ?", "r": "Chambéry", "d": 2, "t": "Préfectures"},
   {"q": "Quelle ville est la préfecture de l'Aveyron ?", "r": "Rodez", "d": 2, "t": "Préfectures"},
   {"q": "Quelle ville est la préfecture de la Lozère, le département le moins peuplé de France ?", "r": "Mende", "d": 2, "t": "Préfectures"},
-  {"q": "Quelle ville est la préfecture de la Creuse ?", "r": "Guéret", "d": 2, "t": "Préfectures"},
   {"q": "Quelle ville est la préfecture de la Manche ?", "r": "Saint-Lô", "d": 2, "t": "Préfectures"},
   {"q": "Quelle ville est la préfecture du Cantal ?", "r": "Aurillac", "d": 2, "t": "Préfectures"},
   {"q": "Quelle ville, célèbre pour son pont Valentré, est la préfecture du Lot ?", "r": "Cahors", "d": 2, "t": "Préfectures"},

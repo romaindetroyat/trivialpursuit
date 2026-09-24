@@ -1,92 +1,542 @@
 [
-  {"q": "Comment appelle-t-on le petit de la biche ?", "r": "Le faon", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du lièvre ?", "r": "Le levraut", "d": 2, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit de l'âne ?", "r": "L'ânon", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du sanglier, reconnaissable à son pelage rayé ?", "r": "Le marcassin", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit de l'oie ?", "r": "L'oison", "d": 2, "t": "Noms des petits"},
-  {"q": "Quel surnom, qui désigne le petit d'un rapace, fut donné au fils de Napoléon Ier ?", "r": "L'Aiglon", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du renard ?", "r": "Le renardeau", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du blaireau ?", "r": "Le blaireautin", "d": 3, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit de la perdrix ?", "r": "Le perdreau", "d": 2, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du dindon ?", "r": "Le dindonneau", "d": 2, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le jeune loup, nom repris par les scouts pour leurs plus jeunes membres ?", "r": "Le louveteau", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on la larve de la grenouille ?", "r": "Le têtard", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit de la souris ?", "r": "Le souriceau", "d": 2, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du chameau ?", "r": "Le chamelon", "d": 2, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le petit du lapin ?", "r": "Le lapereau", "d": 1, "t": "Noms des petits"},
-  {"q": "Comment appelle-t-on le cri du cerf à la saison des amours ?", "r": "Le brame", "d": 1, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri de l'éléphant ?", "r": "Barrir", "d": 2, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri de la grenouille ?", "r": "Coasser", "d": 1, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri du corbeau ?", "r": "Croasser", "d": 1, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri du hibou ?", "r": "Hululer (ou huer)", "d": 2, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri du chameau ?", "r": "Blatérer", "d": 3, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri de la pie ?", "r": "Jacasser", "d": 2, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri du tigre ?", "r": "Feuler (ou rauquer)", "d": 3, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri du cheval ?", "r": "Hennir", "d": 1, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le chant du pigeon et de la tourterelle ?", "r": "Roucouler", "d": 1, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri de la chouette ?", "r": "Chuinter", "d": 3, "t": "Cris des animaux"},
-  {"q": "Quel verbe désigne le cri du canard ?", "r": "Cancaner (ou nasiller)", "d": 2, "t": "Cris des animaux"},
-  {"q": "Quel oiseau échassier « claquette » ou « craquette » en frappant les deux parties de son bec ?", "r": "La cigogne", "d": 2, "t": "Cris des animaux"},
-  {"q": "Quel est le plus grand animal connu ayant jamais vécu sur Terre ?", "r": "La baleine bleue", "d": 1, "t": "Mammifères"},
-  {"q": "Quel est le seul mammifère capable de voler activement ?", "r": "La chauve-souris", "d": 1, "t": "Mammifères"},
-  {"q": "Quel mammifère australien pond des œufs et possède un bec semblable à celui d'un canard ?", "r": "L'ornithorynque", "d": 1, "t": "Mammifères"},
-  {"q": "En combien de poches se divise l'estomac de la vache ?", "r": "Quatre", "d": 2, "t": "Mammifères"},
-  {"q": "Quel est le mammifère terrestre le plus rapide ?", "r": "Le guépard", "d": 1, "t": "Mammifères"},
-  {"q": "Quel marsupial australien se nourrit presque exclusivement de feuilles d'eucalyptus ?", "r": "Le koala", "d": 1, "t": "Mammifères"},
-  {"q": "Comment appelle-t-on la poche ventrale dans laquelle la femelle kangourou porte son petit ?", "r": "Le marsupium", "d": 2, "t": "Mammifères"},
-  {"q": "Quel est le plus grand des primates actuels ?", "r": "Le gorille", "d": 2, "t": "Mammifères"},
-  {"q": "Combien de vertèbres cervicales possède la girafe ?", "r": "Sept", "d": 2, "t": "Mammifères"},
-  {"q": "Quel nom donne-t-on au Québec à l'élan, le plus grand des cervidés ?", "r": "L'orignal", "d": 2, "t": "Mammifères"},
-  {"q": "De quelle plante se nourrit presque exclusivement le panda géant ?", "r": "Le bambou", "d": 1, "t": "Mammifères"},
-  {"q": "Quel cétacé de l'Arctique, dont le mâle porte une longue défense torsadée, est surnommé « la licorne des mers » ?", "r": "Le narval", "d": 2, "t": "Mammifères"},
-  {"q": "Comment appelle-t-on la femelle du sanglier ?", "r": "La laie", "d": 2, "t": "Mammifères"},
-  {"q": "Comment appelle-t-on la femelle du lièvre ?", "r": "La hase", "d": 2, "t": "Mammifères"},
-  {"q": "Comment appelle-t-on le mâle de la chèvre ?", "r": "Le bouc", "d": 1, "t": "Mammifères"},
-  {"q": "Quel rongeur aquatique construit des barrages avec des branches qu'il abat à l'aide de ses incisives ?", "r": "Le castor", "d": 1, "t": "Mammifères"},
-  {"q": "Quel rongeur des montagnes siffle pour alerter ses congénères et hiberne tout l'hiver ?", "r": "La marmotte", "d": 1, "t": "Mammifères"},
-  {"q": "Quel mammifère d'Amérique du Sud vit suspendu la tête en bas dans les arbres et se déplace avec une extrême lenteur ?", "r": "Le paresseux", "d": 1, "t": "Mammifères"},
-  {"q": "Quelle est la durée approximative de la gestation chez l'éléphante d'Afrique ?", "r": "Environ 22 mois", "d": 2, "t": "Mammifères"},
-  {"q": "Quel est le plus grand des cétacés à dents, héros du roman « Moby Dick » ?", "r": "Le cachalot", "d": 2, "t": "Mammifères"},
-  {"q": "Quel animal de la forêt congolaise, aux pattes rayées comme un zèbre, est le plus proche parent vivant de la girafe ?", "r": "L'okapi", "d": 2, "t": "Mammifères"},
-  {"q": "Quel grand singe roux d'Asie porte un nom qui signifie « homme de la forêt » en malais ?", "r": "L'orang-outan", "d": 1, "t": "Mammifères"},
-  {"q": "Quel petit mammifère d'Amérique du Nord se défend en projetant un liquide à l'odeur pestilentielle ?", "r": "La mouffette", "d": 2, "t": "Mammifères"},
-  {"q": "Sur quelle île vivent exclusivement les lémuriens à l'état sauvage ?", "r": "Madagascar", "d": 1, "t": "Mammifères"},
-  {"q": "Combien de bosses possède le dromadaire ?", "r": "Une", "d": 1, "t": "Mammifères"},
-  {"q": "Quel mammifère marin herbivore des eaux chaudes, cousin du dugong, aurait inspiré la légende des sirènes ?", "r": "Le lamantin", "d": 2, "t": "Mammifères"},
-  {"q": "Quel marsupial carnivore australien porte le nom d'une créature infernale ?", "r": "Le diable de Tasmanie", "d": 2, "t": "Mammifères"},
-  {"q": "Quel est le plus grand oiseau vivant ?", "r": "L'autruche", "d": 1, "t": "Oiseaux"},
-  {"q": "Quel minuscule oiseau est capable de voler en marche arrière ?", "r": "Le colibri (oiseau-mouche)", "d": 1, "t": "Oiseaux"},
-  {"q": "Quel oiseau marin possède la plus grande envergure du monde, jusqu'à 3,5 m ?", "r": "L'albatros hurleur", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel oiseau pond ses œufs dans le nid d'autres espèces qui élèvent ses petits ?", "r": "Le coucou", "d": 1, "t": "Oiseaux"},
-  {"q": "Quel rapace est l'animal le plus rapide du monde lorsqu'il fond en piqué sur sa proie ?", "r": "Le faucon pèlerin", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel oiseau incapable de voler, au long bec, est l'emblème de la Nouvelle-Zélande ?", "r": "Le kiwi", "d": 1, "t": "Oiseaux"},
-  {"q": "Quelle est la plus grande espèce de manchot ?", "r": "Le manchot empereur", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel petit rapace fait du « sur-place » en vol au-dessus des talus pour repérer les campagnols ?", "r": "Le faucon crécerelle", "d": 3, "t": "Oiseaux"},
-  {"q": "Quel échassier doit sa couleur aux pigments des petits crustacés et algues dont il se nourrit ?", "r": "Le flamant rose", "d": 1, "t": "Oiseaux"},
-  {"q": "Quel perroquet africain au plumage gris et à la queue rouge est réputé pour imiter la voix humaine ?", "r": "Le perroquet gris du Gabon", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel est le plus grand rapace nocturne d'Europe, reconnaissable à ses aigrettes ?", "r": "Le grand-duc d'Europe", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel oiseau disparu de l'île Maurice au XVIIe siècle est devenu le symbole de l'extinction ?", "r": "Le dodo (dronte)", "d": 1, "t": "Oiseaux"},
-  {"q": "Quel oiseau marin au bec multicolore, surnommé « perroquet de mer », niche en Bretagne sur l'archipel des Sept-Îles ?", "r": "Le macareux moine", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel oiseau effectue chaque année la plus longue migration connue, de l'Arctique à l'Antarctique ?", "r": "La sterne arctique", "d": 3, "t": "Oiseaux"},
-  {"q": "Combien de doigts compte chaque patte de l'autruche ?", "r": "Deux", "d": 3, "t": "Oiseaux"},
-  {"q": "Quel rapace à tête blanche est l'emblème national des États-Unis ?", "r": "Le pygargue à tête blanche", "d": 2, "t": "Oiseaux"},
-  {"q": "Quel petit oiseau d'Asie construit avec sa salive des nids utilisés pour préparer une soupe réputée ?", "r": "La salangane", "d": 3, "t": "Oiseaux"},
-  {"q": "Quel poisson migrateur quitte la mer pour remonter frayer dans la rivière où il est né ?", "r": "Le saumon", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Quel est le plus grand poisson du monde ?", "r": "Le requin-baleine", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Dans quelle mer de l'Atlantique Nord l'anguille européenne va-t-elle se reproduire ?", "r": "La mer des Sargasses", "d": 2, "t": "Poissons et animaux marins"},
-  {"q": "Chez quel petit poisson à tête de cheval est-ce le mâle qui porte les œufs jusqu'à l'éclosion ?", "r": "L'hippocampe", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Quel poisson, appelé fugu au Japon, peut se gonfler en boule et contient un poison mortel ?", "r": "Le poisson-globe", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Quel poisson orange et blanc vit en symbiose avec les anémones de mer ?", "r": "Le poisson-clown", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Combien de cœurs possède le poulpe ?", "r": "Trois", "d": 2, "t": "Poissons et animaux marins"},
-  {"q": "Sous quel nom la baudroie est-elle généralement vendue chez le poissonnier ?", "r": "La lotte", "d": 2, "t": "Poissons et animaux marins"},
-  {"q": "Quel cétacé noir et blanc, grand prédateur des mers, est aussi appelé « épaulard » ?", "r": "L'orque", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Comment appelle-t-on le bar sur les côtes méditerranéennes ?", "r": "Le loup", "d": 2, "t": "Poissons et animaux marins"},
-  {"q": "Quel poisson d'Amazonie, qui n'est pas une véritable anguille, peut produire des décharges de plusieurs centaines de volts ?", "r": "L'anguille électrique (gymnote)", "d": 2, "t": "Poissons et animaux marins"},
-  {"q": "Comment appelle-t-on le très jeune poisson qui vient d'éclore ?", "r": "L'alevin", "d": 2, "t": "Poissons et animaux marins"},
-  {"q": "Quel crustacé protège son abdomen mou en s'installant dans une coquille vide ?", "r": "Le bernard-l'ermite", "d": 1, "t": "Poissons et animaux marins"},
-  {"q": "Combien de pattes possède un insecte adulte ?", "r": "Six", "d": 1, "t": "Insectes"},
-  {"q": "À quelle classe d'animaux appartiennent les araignées et les scorpions ?", "r": "Les arachnides", "d": 2, "t": "Insectes"},
-  {"q": "Quel papillon orange et noir migre chaque année sur des milliers de kilomètres entre le Canada et le Mexique ?", "r": "Le monarque", "d": 2, "t": "Insectes"},
-  {"q": "Des feuilles de quel arbre se nourrit exclusivement la chenille du ver à soie ?", "r": "Le mûrier (blanc)", "d": 2, "t": "Insectes"},
-  {"q": "Comment appelle-t-on la danse par laquelle une abeille butineuse indique à ses congénères la direction des fleurs ?", "r": "La danse frétillante", "d": 3, "t": "Insectes"}
+  {
+    "q": "Comment appelle-t-on le petit de la biche ?",
+    "r": "Le faon",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du lièvre ?",
+    "r": "Le levraut",
+    "d": 2,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit de l'âne ?",
+    "r": "L'ânon",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du sanglier, reconnaissable à son pelage rayé ?",
+    "r": "Le marcassin",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit de l'oie ?",
+    "r": "L'oison",
+    "d": 2,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Quel surnom, qui désigne le petit d'un rapace, fut donné au fils de Napoléon Ier ?",
+    "r": "L'Aiglon",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du renard ?",
+    "r": "Le renardeau",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du blaireau ?",
+    "r": "Le blaireautin",
+    "d": 3,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit de la perdrix ?",
+    "r": "Le perdreau",
+    "d": 2,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du dindon ?",
+    "r": "Le dindonneau",
+    "d": 2,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le jeune loup, nom repris par les scouts pour leurs plus jeunes membres ?",
+    "r": "Le louveteau",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on la larve de la grenouille ?",
+    "r": "Le têtard",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit de la souris ?",
+    "r": "Le souriceau",
+    "d": 2,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du chameau ?",
+    "r": "Le chamelon",
+    "d": 2,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le petit du lapin ?",
+    "r": "Le lapereau",
+    "d": 1,
+    "t": "Noms des petits"
+  },
+  {
+    "q": "Comment appelle-t-on le cri du cerf à la saison des amours ?",
+    "r": "Le brame",
+    "d": 1,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri de l'éléphant ?",
+    "r": "Barrir",
+    "d": 2,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri de la grenouille ?",
+    "r": "Coasser",
+    "d": 1,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri du corbeau ?",
+    "r": "Croasser",
+    "d": 1,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri du hibou ?",
+    "r": "Hululer (ou huer)",
+    "d": 2,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri du chameau ?",
+    "r": "Blatérer",
+    "d": 3,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri de la pie ?",
+    "r": "Jacasser",
+    "d": 2,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri du tigre ?",
+    "r": "Feuler (ou rauquer)",
+    "d": 3,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri du cheval ?",
+    "r": "Hennir",
+    "d": 1,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le chant du pigeon et de la tourterelle ?",
+    "r": "Roucouler",
+    "d": 1,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri de la chouette ?",
+    "r": "Chuinter",
+    "d": 3,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel verbe désigne le cri du canard ?",
+    "r": "Cancaner (ou nasiller)",
+    "d": 2,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel oiseau échassier « claquette » ou « craquette » en frappant les deux parties de son bec ?",
+    "r": "La cigogne",
+    "d": 2,
+    "t": "Cris des animaux"
+  },
+  {
+    "q": "Quel est le plus grand animal connu ayant jamais vécu sur Terre ?",
+    "r": "La baleine bleue",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel est le seul mammifère capable de voler activement ?",
+    "r": "La chauve-souris",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel mammifère australien pond des œufs et possède un bec semblable à celui d'un canard ?",
+    "r": "L'ornithorynque",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "En combien de poches se divise l'estomac de la vache ?",
+    "r": "Quatre",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel est le mammifère terrestre le plus rapide ?",
+    "r": "Le guépard",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel marsupial australien se nourrit presque exclusivement de feuilles d'eucalyptus ?",
+    "r": "Le koala",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Comment appelle-t-on la poche ventrale dans laquelle la femelle kangourou porte son petit ?",
+    "r": "Le marsupium",
+    "d": 3,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel est le plus grand des primates actuels ?",
+    "r": "Le gorille",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Combien de vertèbres cervicales possède la girafe ?",
+    "r": "Sept",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel nom donne-t-on au Québec à l'élan, le plus grand des cervidés ?",
+    "r": "L'orignal",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "De quelle plante se nourrit presque exclusivement le panda géant ?",
+    "r": "Le bambou",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel cétacé de l'Arctique, dont le mâle porte une longue défense torsadée, est surnommé « la licorne des mers » ?",
+    "r": "Le narval",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Comment appelle-t-on la femelle du sanglier ?",
+    "r": "La laie",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Comment appelle-t-on la femelle du lièvre ?",
+    "r": "La hase",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Comment appelle-t-on le mâle de la chèvre ?",
+    "r": "Le bouc",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel rongeur aquatique construit des barrages avec des branches qu'il abat à l'aide de ses incisives ?",
+    "r": "Le castor",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel rongeur des montagnes siffle pour alerter ses congénères et hiberne tout l'hiver ?",
+    "r": "La marmotte",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel mammifère d'Amérique du Sud vit suspendu la tête en bas dans les arbres et se déplace avec une extrême lenteur ?",
+    "r": "Le paresseux",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quelle est la durée approximative de la gestation chez l'éléphante d'Afrique ?",
+    "r": "Environ 22 mois",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel est le plus grand des cétacés à dents, héros du roman « Moby Dick » ?",
+    "r": "Le cachalot",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel animal de la forêt congolaise, aux pattes rayées comme un zèbre, est le plus proche parent vivant de la girafe ?",
+    "r": "L'okapi",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel grand singe roux d'Asie porte un nom qui signifie « homme de la forêt » en malais ?",
+    "r": "L'orang-outan",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel petit mammifère d'Amérique du Nord se défend en projetant un liquide à l'odeur pestilentielle ?",
+    "r": "La mouffette",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Sur quelle île vivent exclusivement les lémuriens à l'état sauvage ?",
+    "r": "Madagascar",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Combien de bosses possède le dromadaire ?",
+    "r": "Une",
+    "d": 1,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel mammifère marin herbivore des eaux chaudes, cousin du dugong, aurait inspiré la légende des sirènes ?",
+    "r": "Le lamantin",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel marsupial carnivore australien porte le nom d'une créature infernale ?",
+    "r": "Le diable de Tasmanie",
+    "d": 2,
+    "t": "Mammifères"
+  },
+  {
+    "q": "Quel est le plus grand oiseau vivant ?",
+    "r": "L'autruche",
+    "d": 1,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel minuscule oiseau est capable de voler en marche arrière ?",
+    "r": "Le colibri (oiseau-mouche)",
+    "d": 1,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel oiseau marin possède la plus grande envergure du monde, jusqu'à 3,5 m ?",
+    "r": "L'albatros hurleur",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel oiseau pond ses œufs dans le nid d'autres espèces qui élèvent ses petits ?",
+    "r": "Le coucou",
+    "d": 1,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel rapace est l'animal le plus rapide du monde lorsqu'il fond en piqué sur sa proie ?",
+    "r": "Le faucon pèlerin",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel oiseau incapable de voler, au long bec, est l'emblème de la Nouvelle-Zélande ?",
+    "r": "Le kiwi",
+    "d": 1,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quelle est la plus grande espèce de manchot ?",
+    "r": "Le manchot empereur",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel petit rapace fait du « sur-place » en vol au-dessus des talus pour repérer les campagnols ?",
+    "r": "Le faucon crécerelle",
+    "d": 3,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel échassier doit sa couleur aux pigments des petits crustacés et algues dont il se nourrit ?",
+    "r": "Le flamant rose",
+    "d": 1,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel perroquet africain au plumage gris et à la queue rouge est réputé pour imiter la voix humaine ?",
+    "r": "Le perroquet gris du Gabon",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel est le plus grand rapace nocturne d'Europe, reconnaissable à ses aigrettes ?",
+    "r": "Le grand-duc d'Europe",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel oiseau disparu de l'île Maurice au XVIIe siècle est devenu le symbole de l'extinction ?",
+    "r": "Le dodo (dronte)",
+    "d": 1,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel oiseau marin au bec multicolore, surnommé « perroquet de mer », niche en Bretagne sur l'archipel des Sept-Îles ?",
+    "r": "Le macareux moine",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel oiseau effectue chaque année la plus longue migration connue, de l'Arctique à l'Antarctique ?",
+    "r": "La sterne arctique",
+    "d": 3,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Combien de doigts compte chaque patte de l'autruche ?",
+    "r": "Deux",
+    "d": 3,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel rapace à tête blanche est l'emblème national des États-Unis ?",
+    "r": "Le pygargue à tête blanche",
+    "d": 2,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel petit oiseau d'Asie construit avec sa salive des nids utilisés pour préparer une soupe réputée ?",
+    "r": "La salangane",
+    "d": 3,
+    "t": "Oiseaux"
+  },
+  {
+    "q": "Quel poisson migrateur quitte la mer pour remonter frayer dans la rivière où il est né ?",
+    "r": "Le saumon",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Quel est le plus grand poisson du monde ?",
+    "r": "Le requin-baleine",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Dans quelle mer de l'Atlantique Nord l'anguille européenne va-t-elle se reproduire ?",
+    "r": "La mer des Sargasses",
+    "d": 2,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Chez quel petit poisson à tête de cheval est-ce le mâle qui porte les œufs jusqu'à l'éclosion ?",
+    "r": "L'hippocampe",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Quel poisson, appelé fugu au Japon, peut se gonfler en boule et contient un poison mortel ?",
+    "r": "Le poisson-globe",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Quel poisson orange et blanc vit en symbiose avec les anémones de mer ?",
+    "r": "Le poisson-clown",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Combien de cœurs possède le poulpe ?",
+    "r": "Trois",
+    "d": 2,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Sous quel nom la baudroie est-elle généralement vendue chez le poissonnier ?",
+    "r": "La lotte",
+    "d": 2,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Quel cétacé noir et blanc, grand prédateur des mers, est aussi appelé « épaulard » ?",
+    "r": "L'orque",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Comment appelle-t-on le bar sur les côtes méditerranéennes ?",
+    "r": "Le loup",
+    "d": 2,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Quel poisson d'Amazonie, qui n'est pas une véritable anguille, peut produire des décharges de plusieurs centaines de volts ?",
+    "r": "L'anguille électrique (gymnote)",
+    "d": 2,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Comment appelle-t-on le très jeune poisson qui vient d'éclore ?",
+    "r": "L'alevin",
+    "d": 2,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Quel crustacé protège son abdomen mou en s'installant dans une coquille vide ?",
+    "r": "Le bernard-l'ermite",
+    "d": 1,
+    "t": "Poissons et animaux marins"
+  },
+  {
+    "q": "Combien de pattes possède un insecte adulte ?",
+    "r": "Six",
+    "d": 1,
+    "t": "Insectes"
+  },
+  {
+    "q": "À quelle classe d'animaux appartiennent les araignées et les scorpions ?",
+    "r": "Les arachnides",
+    "d": 2,
+    "t": "Insectes"
+  },
+  {
+    "q": "Quel papillon orange et noir migre chaque année sur des milliers de kilomètres entre le Canada et le Mexique ?",
+    "r": "Le monarque",
+    "d": 2,
+    "t": "Insectes"
+  },
+  {
+    "q": "Des feuilles de quel arbre se nourrit exclusivement la chenille du ver à soie ?",
+    "r": "Le mûrier (blanc)",
+    "d": 2,
+    "t": "Insectes"
+  },
+  {
+    "q": "Comment appelle-t-on la danse par laquelle une abeille butineuse indique à ses congénères la direction des fleurs ?",
+    "r": "La danse frétillante",
+    "d": 3,
+    "t": "Insectes"
+  }
 ]

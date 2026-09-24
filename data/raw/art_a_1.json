@@ -28,7 +28,7 @@
   {"q": "Quel roman champêtre de George Sand porte le nom d'une étendue d'eau maléfique ?", "r": "La Mare au diable", "d": 2, "t": "Romans"},
   {"q": "Quel cycle de Zola porte le sous-titre « Histoire naturelle et sociale d'une famille sous le Second Empire » ?", "r": "Les Rougon-Macquart", "d": 2, "t": "Romans"},
   {"q": "Combien de romans compte le cycle des Rougon-Macquart d'Émile Zola ?", "r": "20", "d": 3, "t": "Romans"},
-  {"q": "Dans « Germinal », comment s'appelle le jeune machineur qui arrive à Montsou et mène la grève ?", "r": "Étienne Lantier", "d": 2, "t": "Personnages"},
+  {"q": "Dans « Germinal », comment s'appelle le jeune ouvrier qui arrive à Montsou et mène la grève ?", "r": "Étienne Lantier", "d": 2, "t": "Personnages"},
   {"q": "Quel écrivain a réuni la plupart de ses romans sous le titre « La Comédie humaine » ?", "r": "Honoré de Balzac", "d": 1, "t": "Auteurs"},
   {"q": "Quel personnage de Balzac lance à Paris « À nous deux maintenant ! » à la fin du « Père Goriot » ?", "r": "Eugène de Rastignac", "d": 2, "t": "Personnages"},
   {"q": "Quel est le surnom de Vautrin, le forçat évadé de « La Comédie humaine » ?", "r": "Trompe-la-Mort", "d": 3, "t": "Personnages"},

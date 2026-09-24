@@ -1,92 +1,542 @@
 [
-  {"q": "Quelle forêt tropicale, la plus vaste du monde, est souvent surnommée « le poumon de la planète » ?", "r": "L'Amazonie", "d": 1, "t": "Écologie"},
-  {"q": "La culture de quel palmier, dont l'huile entre dans de nombreux produits industriels, est accusée de déforester l'Indonésie ?", "r": "Le palmier à huile", "d": 1, "t": "Écologie"},
-  {"q": "Quelle militante kényane, fondatrice du mouvement de la ceinture verte, a reçu le prix Nobel de la paix en 2004 ?", "r": "Wangari Maathai", "d": 2, "t": "Écologie"},
-  {"q": "Quelle jeune Suédoise a lancé en août 2018 une grève de l'école pour le climat devant le Parlement de Stockholm ?", "r": "Greta Thunberg", "d": 1, "t": "Écologie"},
-  {"q": "Comment appelle-t-on l'indicateur qui mesure la surface de terre et de mer nécessaire pour subvenir aux besoins d'une population ?", "r": "L'empreinte écologique", "d": 2, "t": "Écologie"},
-  {"q": "Quel photographe français, auteur de « La Terre vue du ciel », a réalisé le film « Home » en 2009 ?", "r": "Yann Arthus-Bertrand", "d": 2, "t": "Écologie"},
-  {"q": "Quel moustique invasif rayé noir et blanc, originaire d'Asie, a été détecté pour la première fois en France métropolitaine en 2004 ?", "r": "Le moustique tigre", "d": 1, "t": "Écologie"},
-  {"q": "Quel insecte prédateur des abeilles est arrivé en France vers 2004, probablement caché dans des poteries importées de Chine ?", "r": "Le frelon asiatique", "d": 2, "t": "Écologie"},
-  {"q": "Quelle algue tropicale, surnommée « algue tueuse », a envahi la Méditerranée après avoir été repérée près de Monaco en 1984 ?", "r": "Caulerpa taxifolia", "d": 3, "t": "Écologie"},
-  {"q": "Quel oiseau d'Amérique du Nord, qui volait autrefois en bandes de millions d'individus, s'est éteint en 1914 ?", "r": "La tourte voyageuse", "d": 3, "t": "Écologie"},
-  {"q": "Dans quelle centrale nucléaire d'Ukraine s'est produite la catastrophe d'avril 1986 ?", "r": "Tchernobyl", "d": 1, "t": "Écologie"},
-  {"q": "Comment qualifie-t-on les organismes, comme les plantes vertes, capables de produire leur matière organique à partir de matière minérale ?", "r": "Autotrophes", "d": 3, "t": "Écologie"},
-  {"q": "Quel terme désigne la variété des espèces vivantes, de leurs gènes et des écosystèmes ?", "r": "La biodiversité", "d": 1, "t": "Écologie"},
-  {"q": "Quelles algues vertes, qui prolifèrent sur certaines plages bretonnes, dégagent un gaz toxique en se décomposant ?", "r": "Les ulves (laitue de mer)", "d": 3, "t": "Écologie"},
-  {"q": "Quel orfèvre de Mayence a mis au point l'imprimerie à caractères mobiles en Europe vers 1450 ?", "r": "Johannes Gutenberg", "d": 1, "t": "Inventeurs"},
-  {"q": "Quel inventeur d'origine écossaise a déposé en 1876 le brevet du téléphone ?", "r": "Alexander Graham Bell", "d": 1, "t": "Télécommunications"},
-  {"q": "Quel inventeur américain, surnommé « le sorcier de Menlo Park », a mis au point en 1879 une lampe à incandescence durable ?", "r": "Thomas Edison", "d": 1, "t": "Inventeurs"},
-  {"q": "Quels frères lyonnais ont organisé à Paris en 1895 la première projection publique payante du cinématographe ?", "r": "Auguste et Louis Lumière", "d": 1, "t": "Inventeurs"},
-  {"q": "Quel inventeur bourguignon a réalisé vers 1827 la plus ancienne photographie conservée ?", "r": "Nicéphore Niépce", "d": 1, "t": "Inventeurs"},
-  {"q": "Quels frères papetiers d'Annonay ont inventé le ballon à air chaud en 1783 ?", "r": "Les frères Montgolfier", "d": 1, "t": "Transports"},
-  {"q": "Quels frères américains ont réalisé en 1903 le premier vol motorisé contrôlé, à Kitty Hawk ?", "r": "Les frères Wright", "d": 1, "t": "Transports"},
-  {"q": "Quel aviateur français a été le premier à traverser la Manche en avion, en 1909 ?", "r": "Louis Blériot", "d": 1, "t": "Transports"},
-  {"q": "Quel ingénieur écossais, qui a perfectionné la machine à vapeur, a donné son nom à l'unité de puissance ?", "r": "James Watt", "d": 1, "t": "Inventeurs"},
-  {"q": "Quel ingénieur allemand a donné son nom à un moteur à allumage par compression breveté en 1892 ?", "r": "Rudolf Diesel", "d": 1, "t": "Transports"},
-  {"q": "Quel Français, aveugle depuis l'enfance, a inventé un système d'écriture en points en relief ?", "r": "Louis Braille", "d": 1, "t": "Inventeurs"},
-  {"q": "Quel inventeur italien, prix Nobel de physique en 1909, est considéré comme le père de la radio (TSF) ?", "r": "Guglielmo Marconi", "d": 1, "t": "Télécommunications"},
-  {"q": "Quel peintre et inventeur américain a donné son nom à un code de traits et de points ?", "r": "Samuel Morse", "d": 1, "t": "Télécommunications"},
-  {"q": "Quel informaticien britannique a inventé le World Wide Web en 1989 ?", "r": "Tim Berners-Lee", "d": 1, "t": "Informatique"},
-  {"q": "Quel terminal télématique, lancé en France au début des années 1980, a été définitivement arrêté en 2012 ?", "r": "Le Minitel", "d": 1, "t": "Télécommunications"},
-  {"q": "Quelle machine de chiffrement allemande de la Seconde Guerre mondiale a été percée par les Britanniques à Bletchley Park ?", "r": "Enigma", "d": 1, "t": "Informatique"},
-  {"q": "Avec Paul Allen, qui a fondé Microsoft en 1975 ?", "r": "Bill Gates", "d": 1, "t": "Informatique"},
-  {"q": "Comment appelle-t-on la plus petite unité d'information en informatique, qui vaut 0 ou 1 ?", "r": "Le bit", "d": 1, "t": "Informatique"},
-  {"q": "Combien de bits compte un octet ?", "r": "Huit", "d": 1, "t": "Informatique"},
-  {"q": "Comment appelle-t-on en français le signe @ des adresses électroniques ?", "r": "L'arobase", "d": 1, "t": "Informatique"},
-  {"q": "Quel jeu vidéo japonais de 1980 met en scène une boule jaune poursuivie par des fantômes dans un labyrinthe ?", "r": "Pac-Man", "d": 1, "t": "Informatique"},
-  {"q": "Quel avion de ligne supersonique franco-britannique a assuré des vols commerciaux de 1976 à 2003 ?", "r": "Le Concorde", "d": 1, "t": "Transports"},
-  {"q": "Quel modèle d'automobile, produit à la chaîne par Henry Ford à partir de 1908, a été surnommé « Tin Lizzie » ?", "r": "La Ford T", "d": 1, "t": "Transports"},
-  {"q": "Quelle voiture populaire Citroën, surnommée « deudeuche », a été présentée au Salon de Paris en 1948 ?", "r": "La 2 CV", "d": 1, "t": "Transports"},
-  {"q": "Quel chimiste suédois, qui a légué sa fortune pour créer des prix, a inventé la dynamite ?", "r": "Alfred Nobel", "d": 1, "t": "Inventeurs"},
-  {"q": "Quel physicien italien a inventé la pile électrique en 1800 ?", "r": "Alessandro Volta", "d": 1, "t": "Inventeurs"},
-  {"q": "Quel ingénieur français a baptisé « avion » ses machines volantes, dont l'Éole qui décolla en 1890 ?", "r": "Clément Ader", "d": 2, "t": "Transports"},
-  {"q": "Quel physicien français a présenté en 1679 un « digesteur », ancêtre de l'autocuiseur ?", "r": "Denis Papin", "d": 2, "t": "Inventeurs"},
-  {"q": "Quel ingénieur allemand a breveté en 1886 la première automobile à moteur à essence ?", "r": "Karl Benz", "d": 2, "t": "Transports"},
-  {"q": "Quel associé de Niépce a donné son nom à un procédé photographique présenté en 1839 ?", "r": "Louis Daguerre", "d": 2, "t": "Inventeurs"},
-  {"q": "Quel confiseur français a inventé la conservation des aliments par la chaleur dans des récipients hermétiques ?", "r": "Nicolas Appert", "d": 2, "t": "Inventeurs"},
-  {"q": "Quel médecin breton a inventé le stéthoscope en 1816 ?", "r": "René Laennec", "d": 2, "t": "Inventeurs"},
-  {"q": "Dans quel centre de recherche situé près de Genève le World Wide Web a-t-il vu le jour ?", "r": "Le CERN", "d": 2, "t": "Informatique"},
-  {"q": "Quel ordinateur américain de 1946, pesant une trentaine de tonnes, fut l'un des premiers ordinateurs électroniques ?", "r": "L'ENIAC", "d": 2, "t": "Informatique"},
-  {"q": "Quel test, proposé par Alan Turing en 1950, vise à déterminer si une machine peut se faire passer pour un humain en conversation ?", "r": "Le test de Turing (jeu de l'imitation)", "d": 2, "t": "Informatique"},
-  {"q": "Quelle mathématicienne britannique, fille de Lord Byron, est considérée comme la première programmeuse de l'histoire ?", "r": "Ada Lovelace", "d": 2, "t": "Informatique"},
-  {"q": "Quel savant français a conçu à 19 ans une machine à calculer pour aider son père, collecteur d'impôts ?", "r": "Blaise Pascal", "d": 2, "t": "Informatique"},
-  {"q": "Avec quel ingénieur Steve Jobs a-t-il fondé Apple en 1976 ?", "r": "Steve Wozniak", "d": 2, "t": "Informatique"},
-  {"q": "Quels deux doctorants de l'université Stanford ont fondé Google en 1998 ?", "r": "Larry Page et Sergey Brin", "d": 2, "t": "Informatique"},
-  {"q": "Quel étudiant finlandais a créé en 1991 le noyau du système d'exploitation libre Linux ?", "r": "Linus Torvalds", "d": 2, "t": "Informatique"},
-  {"q": "Quelle loi empirique, énoncée par un cofondateur d'Intel, prévoit le doublement régulier du nombre de transistors sur une puce ?", "r": "La loi de Moore", "d": 2, "t": "Informatique"},
-  {"q": "Quel réseau militaire et universitaire américain, créé en 1969, est considéré comme l'ancêtre d'Internet ?", "r": "ARPANET", "d": 2, "t": "Informatique"},
-  {"q": "Quel jeu vidéo de blocs à empiler a été créé en 1984 par le Soviétique Alexeï Pajitnov ?", "r": "Tetris", "d": 2, "t": "Informatique"},
-  {"q": "Entre quelles deux villes le premier TGV commercial a-t-il circulé en 1981 ?", "r": "Paris et Lyon", "d": 2, "t": "Transports"},
-  {"q": "Quelle ville a inauguré en 1863 le premier métro du monde ?", "r": "Londres", "d": 2, "t": "Transports"},
-  {"q": "Comment appelle-t-on l'ancêtre de la bicyclette, sans pédales, inventé en 1817 par le baron allemand Karl Drais ?", "r": "La draisienne", "d": 2, "t": "Transports"},
-  {"q": "Quel vétérinaire écossais a breveté en 1888 le pneumatique gonflable pour bicyclette ?", "r": "John Boyd Dunlop", "d": 2, "t": "Transports"},
-  {"q": "Quel composant électronique, inventé en 1947 aux laboratoires Bell, a remplacé les tubes à vide ?", "r": "Le transistor", "d": 2, "t": "Informatique"},
-  {"q": "D'après quel roi viking du Xe siècle la technologie sans fil Bluetooth a-t-elle été nommée ?", "r": "Harald à la Dent bleue", "d": 2, "t": "Télécommunications"},
-  {"q": "Quel superordinateur d'IBM a battu le champion du monde d'échecs Garry Kasparov en 1997 ?", "r": "Deep Blue", "d": 2, "t": "Informatique"},
-  {"q": "Quel appareil ménager a été inventé après qu'un ingénieur américain eut vu une barre chocolatée fondre près d'un magnétron ?", "r": "Le four à micro-ondes", "d": 2, "t": "Inventeurs"},
-  {"q": "Quel appareil l'Américain Elisha Otis a-t-il rendu sûr grâce à un frein de sécurité présenté à New York en 1854 ?", "r": "L'ascenseur", "d": 2, "t": "Inventeurs"},
-  {"q": "Quel Français a enregistré le premier son de l'histoire grâce à son phonautographe, breveté en 1857 ?", "r": "Édouard-Léon Scott de Martinville", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel ingénieur écossais a fait en 1926 la première démonstration publique de la télévision ?", "r": "John Logie Baird", "d": 3, "t": "Télécommunications"},
-  {"q": "Que signifie l'acronyme USB ?", "r": "Universal Serial Bus", "d": 3, "t": "Informatique"},
-  {"q": "Quel ingénieur américain a envoyé en 1971 le premier courriel entre deux ordinateurs en réseau, choisissant le signe @ ?", "r": "Ray Tomlinson", "d": 3, "t": "Informatique"},
-  {"q": "Quelle vitesse une rame TGV a-t-elle atteinte le 3 avril 2007, établissant le record du monde sur rail ?", "r": "574,8 km/h", "d": 3, "t": "Transports"},
-  {"q": "Quel Normand a réalisé en 1907 le premier vol libre d'un hélicoptère avec pilote, près de Lisieux ?", "r": "Paul Cornu", "d": 3, "t": "Transports"},
-  {"q": "Quel physicien américain a fait fonctionner le premier laser, à rubis, en 1960 ?", "r": "Theodore Maiman", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel premier microprocesseur commercialisé par Intel en 1971 portait un numéro à quatre chiffres ?", "r": "L'Intel 4004", "d": 3, "t": "Informatique"},
-  {"q": "Quel journaliste hongrois a breveté à la fin des années 1930 le stylo à bille qui porte son nom dans plusieurs pays ?", "r": "László Bíró", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel tailleur français a breveté en 1830 la première machine à coudre ?", "r": "Barthélemy Thimonnier", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel ingénieur de Motorola a passé en 1973 le premier appel depuis un téléphone portable ?", "r": "Martin Cooper", "d": 3, "t": "Télécommunications"},
-  {"q": "Quel satellite a permis en juillet 1962 la première retransmission télévisée en direct entre les États-Unis et la France ?", "r": "Telstar", "d": 3, "t": "Télécommunications"},
-  {"q": "Quel drapier néerlandais du XVIIe siècle a été le premier à observer des bactéries avec ses microscopes ?", "r": "Antoni van Leeuwenhoek", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel savant néerlandais a construit en 1657 la première horloge à balancier ?", "r": "Christiaan Huygens", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel ingénieur américain a inventé la souris d'ordinateur dans les années 1960 ?", "r": "Douglas Engelbart", "d": 3, "t": "Informatique"},
-  {"q": "Quel informaticien néerlandais a créé le langage de programmation Python ?", "r": "Guido van Rossum", "d": 3, "t": "Informatique"},
-  {"q": "De quelle plante aux fruits crochus le Suisse Georges de Mestral s'est-il inspiré pour inventer le Velcro ?", "r": "La bardane", "d": 3, "t": "Inventeurs"},
-  {"q": "Avec quel ingénieur Jacques-Yves Cousteau a-t-il mis au point en 1943 le détendeur du scaphandre autonome ?", "r": "Émile Gagnan", "d": 3, "t": "Inventeurs"},
-  {"q": "Quel aéronaute français a réalisé en 1797 le premier saut en parachute depuis un ballon, au-dessus de Paris ?", "r": "André-Jacques Garnerin", "d": 3, "t": "Transports"},
-  {"q": "Quel ingénieur militaire lorrain a construit vers 1770 le fardier, premier véhicule automobile à vapeur ?", "r": "Joseph Cugnot", "d": 3, "t": "Transports"},
-  {"q": "Quel inventeur français a conçu le télégraphe optique mis en service entre Paris et Lille en 1794 ?", "r": "Claude Chappe", "d": 3, "t": "Télécommunications"},
-  {"q": "Quel inventeur français a déposé en 1974 le brevet de la carte à puce ?", "r": "Roland Moreno", "d": 3, "t": "Informatique"},
-  {"q": "Quel ingénieur breton est surnommé « le père du métro de Paris », inauguré en 1900 ?", "r": "Fulgence Bienvenüe", "d": 3, "t": "Transports"},
-  {"q": "Quel inventeur lyonnais a mis au point au début du XIXe siècle un métier à tisser programmé par cartes perforées ?", "r": "Joseph-Marie Jacquard", "d": 3, "t": "Inventeurs"}
+  {
+    "q": "Quelle forêt tropicale, la plus vaste du monde, est souvent surnommée « le poumon de la planète » ?",
+    "r": "L'Amazonie",
+    "d": 1,
+    "t": "Écologie"
+  },
+  {
+    "q": "La culture de quel palmier, dont l'huile entre dans de nombreux produits industriels, est accusée de déforester l'Indonésie ?",
+    "r": "Le palmier à huile",
+    "d": 1,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quelle militante kényane, fondatrice du mouvement de la ceinture verte, a reçu le prix Nobel de la paix en 2004 ?",
+    "r": "Wangari Maathai",
+    "d": 2,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quelle jeune Suédoise a lancé en août 2018 une grève de l'école pour le climat devant le Parlement de Stockholm ?",
+    "r": "Greta Thunberg",
+    "d": 1,
+    "t": "Écologie"
+  },
+  {
+    "q": "Comment appelle-t-on l'indicateur qui mesure la surface de terre et de mer nécessaire pour subvenir aux besoins d'une population ?",
+    "r": "L'empreinte écologique",
+    "d": 2,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quel photographe français, auteur de « La Terre vue du ciel », a réalisé le film « Home » en 2009 ?",
+    "r": "Yann Arthus-Bertrand",
+    "d": 2,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quel moustique invasif rayé noir et blanc, originaire d'Asie, a été détecté pour la première fois en France métropolitaine en 2004 ?",
+    "r": "Le moustique tigre",
+    "d": 1,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quel insecte prédateur des abeilles est arrivé en France vers 2004, probablement caché dans des poteries importées de Chine ?",
+    "r": "Le frelon asiatique",
+    "d": 2,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quelle algue tropicale, surnommée « algue tueuse », a envahi la Méditerranée après avoir été repérée près de Monaco en 1984 ?",
+    "r": "Caulerpa taxifolia",
+    "d": 3,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quel oiseau d'Amérique du Nord, qui volait autrefois en bandes de millions d'individus, s'est éteint en 1914 ?",
+    "r": "La tourte voyageuse",
+    "d": 3,
+    "t": "Écologie"
+  },
+  {
+    "q": "Dans quelle centrale nucléaire d'Ukraine s'est produite la catastrophe d'avril 1986 ?",
+    "r": "Tchernobyl",
+    "d": 1,
+    "t": "Écologie"
+  },
+  {
+    "q": "Comment qualifie-t-on les organismes, comme les plantes vertes, capables de produire leur matière organique à partir de matière minérale ?",
+    "r": "Autotrophes",
+    "d": 3,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quel terme désigne la variété des espèces vivantes, de leurs gènes et des écosystèmes ?",
+    "r": "La biodiversité",
+    "d": 1,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quelles algues vertes, qui prolifèrent sur certaines plages bretonnes, dégagent un gaz toxique en se décomposant ?",
+    "r": "Les ulves (laitue de mer)",
+    "d": 3,
+    "t": "Écologie"
+  },
+  {
+    "q": "Quel orfèvre de Mayence a mis au point l'imprimerie à caractères mobiles en Europe vers 1450 ?",
+    "r": "Johannes Gutenberg",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel inventeur d'origine écossaise a déposé en 1876 le brevet du téléphone ?",
+    "r": "Alexander Graham Bell",
+    "d": 1,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel inventeur américain, surnommé « le sorcier de Menlo Park », a mis au point en 1879 une lampe à incandescence durable ?",
+    "r": "Thomas Edison",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quels frères lyonnais ont organisé à Paris en 1895 la première projection publique payante du cinématographe ?",
+    "r": "Auguste et Louis Lumière",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel inventeur bourguignon a réalisé vers 1827 la plus ancienne photographie conservée ?",
+    "r": "Nicéphore Niépce",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quels frères papetiers d'Annonay ont inventé le ballon à air chaud en 1783 ?",
+    "r": "Les frères Montgolfier",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quels frères américains ont réalisé en 1903 le premier vol motorisé contrôlé, à Kitty Hawk ?",
+    "r": "Les frères Wright",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel aviateur français a été le premier à traverser la Manche en avion, en 1909 ?",
+    "r": "Louis Blériot",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel ingénieur écossais, qui a perfectionné la machine à vapeur, a donné son nom à l'unité de puissance ?",
+    "r": "James Watt",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel ingénieur allemand a donné son nom à un moteur à allumage par compression breveté en 1892 ?",
+    "r": "Rudolf Diesel",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel Français, aveugle depuis l'enfance, a inventé un système d'écriture en points en relief ?",
+    "r": "Louis Braille",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel inventeur italien, prix Nobel de physique en 1909, est considéré comme le père de la radio (TSF) ?",
+    "r": "Guglielmo Marconi",
+    "d": 1,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel peintre et inventeur américain a donné son nom à un code de traits et de points ?",
+    "r": "Samuel Morse",
+    "d": 1,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel informaticien britannique a inventé le World Wide Web en 1989 ?",
+    "r": "Tim Berners-Lee",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel terminal télématique, lancé en France au début des années 1980, a été définitivement arrêté en 2012 ?",
+    "r": "Le Minitel",
+    "d": 1,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quelle machine de chiffrement allemande de la Seconde Guerre mondiale a été percée par les Britanniques à Bletchley Park ?",
+    "r": "Enigma",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Avec Paul Allen, qui a fondé Microsoft en 1975 ?",
+    "r": "Bill Gates",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Comment appelle-t-on la plus petite unité d'information en informatique, qui vaut 0 ou 1 ?",
+    "r": "Le bit",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Combien de bits compte un octet ?",
+    "r": "Huit",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Comment appelle-t-on en français le signe @ des adresses électroniques ?",
+    "r": "L'arobase",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel jeu vidéo japonais de 1980 met en scène une boule jaune poursuivie par des fantômes dans un labyrinthe ?",
+    "r": "Pac-Man",
+    "d": 1,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel avion de ligne supersonique franco-britannique a assuré des vols commerciaux de 1976 à 2003 ?",
+    "r": "Le Concorde",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel modèle d'automobile, produit à la chaîne par Henry Ford à partir de 1908, a été surnommé « Tin Lizzie » ?",
+    "r": "La Ford T",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quelle voiture populaire Citroën, surnommée « deudeuche », a été présentée au Salon de Paris en 1948 ?",
+    "r": "La 2 CV",
+    "d": 1,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel chimiste suédois, qui a légué sa fortune pour créer des prix, a inventé la dynamite ?",
+    "r": "Alfred Nobel",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel physicien italien a inventé la pile électrique en 1800 ?",
+    "r": "Alessandro Volta",
+    "d": 1,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel ingénieur français a baptisé « avion » ses machines volantes, dont l'Éole qui décolla en 1890 ?",
+    "r": "Clément Ader",
+    "d": 2,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel physicien français a présenté en 1679 un « digesteur », ancêtre de l'autocuiseur ?",
+    "r": "Denis Papin",
+    "d": 2,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel ingénieur allemand a breveté en 1886 la première automobile à moteur à essence ?",
+    "r": "Karl Benz",
+    "d": 2,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel associé de Niépce a donné son nom à un procédé photographique présenté en 1839 ?",
+    "r": "Louis Daguerre",
+    "d": 2,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel confiseur français a inventé la conservation des aliments par la chaleur dans des récipients hermétiques ?",
+    "r": "Nicolas Appert",
+    "d": 2,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel médecin breton a inventé le stéthoscope en 1816 ?",
+    "r": "René Laennec",
+    "d": 2,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Dans quel centre de recherche situé près de Genève le World Wide Web a-t-il vu le jour ?",
+    "r": "Le CERN",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel ordinateur américain de 1946, pesant une trentaine de tonnes, fut l'un des premiers ordinateurs électroniques ?",
+    "r": "L'ENIAC",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel test, proposé par Alan Turing en 1950, vise à déterminer si une machine peut se faire passer pour un humain en conversation ?",
+    "r": "Le test de Turing (jeu de l'imitation)",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quelle mathématicienne britannique, fille de Lord Byron, est considérée comme la première programmeuse de l'histoire ?",
+    "r": "Ada Lovelace",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel savant français a conçu à 19 ans une machine à calculer pour aider son père, collecteur d'impôts ?",
+    "r": "Blaise Pascal",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Avec quel ingénieur Steve Jobs a-t-il fondé Apple en 1976 ?",
+    "r": "Steve Wozniak",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quels deux doctorants de l'université Stanford ont fondé Google en 1998 ?",
+    "r": "Larry Page et Sergey Brin",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel étudiant finlandais a créé en 1991 le noyau du système d'exploitation libre Linux ?",
+    "r": "Linus Torvalds",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quelle loi empirique, énoncée par un cofondateur d'Intel, prévoit le doublement régulier du nombre de transistors sur une puce ?",
+    "r": "La loi de Moore",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel réseau militaire et universitaire américain, créé en 1969, est considéré comme l'ancêtre d'Internet ?",
+    "r": "ARPANET",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel jeu vidéo de blocs à empiler a été créé en 1984 par le Soviétique Alexeï Pajitnov ?",
+    "r": "Tetris",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Entre quelles deux villes le premier TGV commercial a-t-il circulé en 1981 ?",
+    "r": "Paris et Lyon",
+    "d": 2,
+    "t": "Transports"
+  },
+  {
+    "q": "Quelle ville a inauguré en 1863 le premier métro du monde ?",
+    "r": "Londres",
+    "d": 2,
+    "t": "Transports"
+  },
+  {
+    "q": "Comment appelle-t-on l'ancêtre de la bicyclette, sans pédales, inventé en 1817 par le baron allemand Karl Drais ?",
+    "r": "La draisienne",
+    "d": 2,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel vétérinaire écossais a breveté en 1888 le pneumatique gonflable pour bicyclette ?",
+    "r": "John Boyd Dunlop",
+    "d": 2,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel composant électronique, inventé en 1947 aux laboratoires Bell, a remplacé les tubes à vide ?",
+    "r": "Le transistor",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "D'après quel roi viking du Xe siècle la technologie sans fil Bluetooth a-t-elle été nommée ?",
+    "r": "Harald à la Dent bleue",
+    "d": 2,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel superordinateur d'IBM a battu le champion du monde d'échecs Garry Kasparov en 1997 ?",
+    "r": "Deep Blue",
+    "d": 2,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel appareil ménager a été inventé après qu'un ingénieur américain eut vu une barre chocolatée fondre près d'un magnétron ?",
+    "r": "Le four à micro-ondes",
+    "d": 2,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel appareil l'Américain Elisha Otis a-t-il rendu sûr grâce à un frein de sécurité présenté à New York en 1854 ?",
+    "r": "L'ascenseur",
+    "d": 2,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel Français a enregistré le premier son de l'histoire grâce à son phonautographe, breveté en 1857 ?",
+    "r": "Édouard-Léon Scott de Martinville",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel ingénieur écossais a fait en 1926 la première démonstration publique de la télévision ?",
+    "r": "John Logie Baird",
+    "d": 3,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Que signifie l'acronyme USB ?",
+    "r": "Universal Serial Bus",
+    "d": 3,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel ingénieur américain a envoyé en 1971 le premier courriel entre deux ordinateurs en réseau, choisissant le signe @ ?",
+    "r": "Ray Tomlinson",
+    "d": 3,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quelle vitesse une rame TGV a-t-elle atteinte le 3 avril 2007, établissant le record du monde sur rail ?",
+    "r": "574,8 km/h",
+    "d": 3,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel Normand a réalisé en 1907 le premier vol libre d'un hélicoptère avec pilote, près de Lisieux ?",
+    "r": "Paul Cornu",
+    "d": 3,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel physicien américain a fait fonctionner le premier laser, à rubis, en 1960 ?",
+    "r": "Theodore Maiman",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel fut le premier microprocesseur commercialisé, lancé par Intel en 1971 ?",
+    "r": "L'Intel 4004",
+    "d": 3,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel journaliste hongrois a breveté à la fin des années 1930 le stylo à bille qui porte son nom dans plusieurs pays ?",
+    "r": "László Bíró",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel tailleur français a breveté en 1830 la première machine à coudre ?",
+    "r": "Barthélemy Thimonnier",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel ingénieur de Motorola a passé en 1973 le premier appel depuis un téléphone portable ?",
+    "r": "Martin Cooper",
+    "d": 3,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel satellite a permis en juillet 1962 la première retransmission télévisée en direct entre les États-Unis et la France ?",
+    "r": "Telstar",
+    "d": 3,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel drapier néerlandais du XVIIe siècle a été le premier à observer des bactéries avec ses microscopes ?",
+    "r": "Antoni van Leeuwenhoek",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel savant néerlandais a construit au milieu du XVIIe siècle la première horloge à balancier (pendule) ?",
+    "r": "Christiaan Huygens",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel ingénieur américain a inventé la souris d'ordinateur dans les années 1960 ?",
+    "r": "Douglas Engelbart",
+    "d": 3,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel informaticien néerlandais a créé le langage de programmation Python ?",
+    "r": "Guido van Rossum",
+    "d": 3,
+    "t": "Informatique"
+  },
+  {
+    "q": "De quelle plante aux fruits crochus le Suisse Georges de Mestral s'est-il inspiré pour inventer le Velcro ?",
+    "r": "La bardane",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Avec quel ingénieur Jacques-Yves Cousteau a-t-il mis au point en 1943 le détendeur du scaphandre autonome ?",
+    "r": "Émile Gagnan",
+    "d": 3,
+    "t": "Inventeurs"
+  },
+  {
+    "q": "Quel aéronaute français a réalisé en 1797 le premier saut en parachute depuis un ballon, au-dessus de Paris ?",
+    "r": "André-Jacques Garnerin",
+    "d": 3,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel ingénieur militaire lorrain a construit vers 1770 le fardier, premier véhicule automobile à vapeur ?",
+    "r": "Joseph Cugnot",
+    "d": 3,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel inventeur français a conçu le télégraphe optique mis en service entre Paris et Lille en 1794 ?",
+    "r": "Claude Chappe",
+    "d": 3,
+    "t": "Télécommunications"
+  },
+  {
+    "q": "Quel inventeur français a déposé en 1974 le brevet de la carte à puce ?",
+    "r": "Roland Moreno",
+    "d": 3,
+    "t": "Informatique"
+  },
+  {
+    "q": "Quel ingénieur breton est surnommé « le père du métro de Paris », inauguré en 1900 ?",
+    "r": "Fulgence Bienvenüe",
+    "d": 3,
+    "t": "Transports"
+  },
+  {
+    "q": "Quel inventeur lyonnais a mis au point au début du XIXe siècle un métier à tisser programmé par cartes perforées ?",
+    "r": "Joseph-Marie Jacquard",
+    "d": 3,
+    "t": "Inventeurs"
+  }
 ]
