@@ -7,7 +7,7 @@
  },
  {
   "q": "Quel château de conte de fées trône au centre de Disneyland Paris ?",
-  "r": "La Belle au bois dormant",
+  "r": "Le château de la Belle au bois dormant",
   "d": 1,
   "t": "Parcs d'attractions"
  },
@@ -42,7 +42,7 @@
   "t": "Cirque et magie"
  },
  {
-  "q": "Quel ingénieur américain a cofondé Atari en 1972 ?",
+  "q": "Quel entrepreneur américain, souvent surnommé « le père du jeu vidéo », a fondé Atari en 1972 avec Ted Dabney ?",
   "r": "Nolan Bushnell",
   "d": 3,
   "t": "Jeux vidéo"
@@ -72,7 +72,7 @@
   "t": "Émissions"
  },
  {
-  "q": "Comment s'appelle la seule fille du village des Schtroumpfs, créée à l'origine par Gargamel ?",
+  "q": "Comment s'appelle la première fille du village des Schtroumpfs, créée à l'origine par Gargamel ?",
   "r": "La Schtroumpfette",
   "d": 1,
   "t": "BD franco-belge"

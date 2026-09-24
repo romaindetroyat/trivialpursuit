@@ -109,7 +109,7 @@
  },
  {
   "q": "Comment appelle-t-on le solide à six faces rectangulaires, en forme de boîte à chaussures ?",
-  "r": "Un pavé droit",
+  "r": "Pavé droit (parallélépipède rectangle)",
   "d": 1,
   "t": "Mathématiques"
  },
@@ -198,7 +198,7 @@
   "t": "Chimie"
  },
  {
-  "q": "Comment appelle-t-on le dioxyde de carbone à l'état solide, qui se sublime en fumée blanche ?",
+  "q": "Comment appelle-t-on le dioxyde de carbone à l'état solide, qui se sublime en dégageant une fumée blanche ?",
   "r": "La glace carbonique (carboglace)",
   "d": 1,
   "t": "Chimie"
@@ -259,7 +259,7 @@
  },
  {
   "q": "Comment appelle-t-on la molécule de 60 atomes de carbone en forme de ballon de football ?",
-  "r": "Le fullerène",
+  "r": "Le fullerène (buckminsterfullerène)",
   "d": 3,
   "t": "Chimie"
  },
@@ -312,7 +312,7 @@
   "t": "Histoire des sciences"
  },
  {
-  "q": "Quelle grandeur thermodynamique mesure le désordre d'un système et ne peut qu'augmenter dans un système isolé ?",
+  "q": "Quelle grandeur thermodynamique mesure le désordre d'un système et ne peut pas diminuer dans un système isolé ?",
   "r": "L'entropie",
   "d": 2,
   "t": "Physique"

@@ -42,7 +42,7 @@
   "t": "Fleuves et lacs"
  },
  {
-  "q": "Quelle grande fête de la bière se tient chaque automne à Munich ?",
+  "q": "Quelle grande fête de la bière se tient chaque année à Munich, de fin septembre à début octobre ?",
   "r": "L'Oktoberfest",
   "d": 1,
   "t": "Spécialités"
@@ -438,7 +438,7 @@
   "t": "Villes"
  },
  {
-  "q": "Quel volcan actif, point culminant de l'Afrique de l'Ouest, domine la ville camerounaise de Buéa ?",
+  "q": "Quel volcan actif, point culminant de l'Afrique occidentale et centrale, domine la ville camerounaise de Buéa ?",
   "r": "Le mont Cameroun",
   "d": 3,
   "t": "Massifs et sommets"

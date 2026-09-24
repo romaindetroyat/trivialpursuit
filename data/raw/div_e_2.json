@@ -6,7 +6,7 @@
   "t": "Internet"
  },
  {
-  "q": "Quel ingénieur américain a construit la première grande roue pour l'exposition universelle de Chicago en 1893 ?",
+  "q": "Quel ingénieur américain a conçu la roue géante de l'exposition universelle de Chicago en 1893, qui a donné son nom anglais à la grande roue ?",
   "r": "George Ferris",
   "d": 3,
   "t": "Parcs d'attractions"
@@ -54,7 +54,7 @@
   "t": "Jeux vidéo"
  },
  {
-  "q": "Quel circuit multicolore et sans barrières clôt traditionnellement les coupes de « Mario Kart » ?",
+  "q": "Quel circuit multicolore, souvent dépourvu de barrières, clôt traditionnellement la dernière coupe de « Mario Kart » ?",
   "r": "La Route arc-en-ciel",
   "d": 2,
   "t": "Jeux vidéo"
@@ -67,7 +67,7 @@
  },
  {
   "q": "Quel chanteur russe est devenu un mème en 2010 grâce à sa vocalise surnommée « Trololo » ?",
-  "r": "Edouard Khil",
+  "r": "Édouard Khil",
   "d": 3,
   "t": "Internet"
  },
@@ -253,7 +253,7 @@
  },
  {
   "q": "Quel est le métier d'Obélix ?",
-  "r": "Livreur de menhirs",
+  "r": "Tailleur et livreur de menhirs",
   "d": 1,
   "t": "BD franco-belge"
  },
@@ -403,7 +403,7 @@
  },
  {
   "q": "Par quoi Morris a-t-il remplacé la cigarette de Lucky Luke en 1983 ?",
-  "r": "Un brin d'herbe",
+  "r": "Un brin d'herbe (ou de paille)",
   "d": 2,
   "t": "BD franco-belge"
  },

@@ -12,7 +12,7 @@
   "t": "Première Guerre mondiale"
  },
  {
-  "q": "Quelle chanson antimilitariste, interdite par le commandement, est née parmi les soldats après l'offensive du Chemin des Dames ?",
+  "q": "Quelle chanson antimilitariste, longtemps censurée, est associée aux mutineries qui ont suivi l'offensive du Chemin des Dames ?",
   "r": "La Chanson de Craonne",
   "d": 2,
   "t": "Première Guerre mondiale"
@@ -138,7 +138,7 @@
   "t": "Russie et URSS"
  },
  {
-  "q": "Quel moine guérisseur sibérien, très influent auprès de la tsarine, a été assassiné en décembre 1916 ?",
+  "q": "Quel mystique guérisseur sibérien, très influent auprès de la tsarine, a été assassiné en décembre 1916 ?",
   "r": "Raspoutine",
   "d": 1,
   "t": "Russie et URSS"
@@ -219,19 +219,19 @@
   "q": "Quel dignitaire nazi s'est envolé seul vers l'Écosse en mai 1941 pour tenter de négocier la paix ?",
   "r": "Rudolf Hess",
   "d": 2,
-  "t": "Entre-deux-guerres"
+  "t": "Seconde Guerre mondiale"
  },
  {
   "q": "Quel chef de la SS a été l'un des principaux organisateurs de la Shoah ?",
   "r": "Heinrich Himmler",
   "d": 1,
-  "t": "Entre-deux-guerres"
+  "t": "Seconde Guerre mondiale"
  },
  {
   "q": "Quel organisateur de la déportation des Juifs a été enlevé en Argentine par le Mossad en 1960, puis jugé à Jérusalem ?",
   "r": "Adolf Eichmann",
   "d": 2,
-  "t": "Entre-deux-guerres"
+  "t": "Seconde Guerre mondiale"
  },
  {
   "q": "Quel titre, signifiant « guide », Mussolini portait-il comme chef du fascisme italien ?",
@@ -258,7 +258,7 @@
   "t": "Entre-deux-guerres"
  },
  {
-  "q": "Quel pacte signé en 1928 par une soixantaine d'États prétendait mettre la guerre « hors la loi » ?",
+  "q": "Quel pacte de 1928, signé à terme par une soixantaine d'États, prétendait mettre la guerre « hors la loi » ?",
   "r": "Le pacte Briand-Kellogg",
   "d": 2,
   "t": "Entre-deux-guerres"
@@ -331,7 +331,7 @@
  },
  {
   "q": "Quelle date est restée attachée aux émeutes antiparlementaires sanglantes de la place de la Concorde, en 1934 ?",
-  "r": "Le 6 février 1934",
+  "r": "Le 6 février",
   "d": 2,
   "t": "France de l'entre-deux-guerres"
  },
@@ -499,7 +499,7 @@
  },
  {
   "q": "Quel nom de code désignait l'opération aéroportée alliée qui échoua devant le pont d'Arnhem en septembre 1944 ?",
-  "r": "Opération Market Garden",
+  "r": "Market Garden",
   "d": 2,
   "t": "Seconde Guerre mondiale"
  },

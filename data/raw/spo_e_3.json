@@ -114,8 +114,8 @@
   "t": "Sports mécaniques"
  },
  {
-  "q": "Quel est le plus ancien des tournois majeurs de golf, surnommé « The Open » ?",
-  "r": "Le British Open",
+  "q": "Quel est le plus ancien des tournois majeurs de golf, créé en 1860 en Écosse ?",
+  "r": "L'Open britannique (The Open)",
   "d": 1,
   "t": "Golf"
  },
@@ -348,7 +348,7 @@
   "t": "Sports de combat"
  },
  {
-  "q": "Quel boxeur américain, surnommé « Sugar », a été cinq fois champion du monde des poids moyens dans les années 1950 ?",
+  "q": "Quel boxeur américain a été cinq fois champion du monde des poids moyens dans les années 1950 ?",
   "r": "Sugar Ray Robinson",
   "d": 2,
   "t": "Sports de combat"

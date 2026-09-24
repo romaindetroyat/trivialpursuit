@@ -172,7 +172,8 @@ main {
 
 .astuce { text-align: center; color: var(--texte-doux); font-size: .88rem; margin-top: 14px; }
 
-.barre { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; color: var(--texte-doux); font-size: .92rem; }
+.barre { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px 12px; margin-bottom: 10px; color: var(--texte-doux); font-size: .92rem; }
+.barre select { padding: 6px 10px; font-size: .88rem; flex: 1 1 auto; max-width: 260px; }
 
 /* ---------- Carte ---------- */
 .carte {

@@ -48,7 +48,7 @@
   "t": "Athlétisme"
  },
  {
-  "q": "Quel sprinteur français est devenu en 2010 le premier athlète blanc à courir le 100 m en moins de 10 secondes ?",
+  "q": "Quel sprinteur français est devenu en 2010 le premier athlète de son pays à courir le 100 m en moins de 10 secondes ?",
   "r": "Christophe Lemaitre",
   "d": 1,
   "t": "Athlétisme"
@@ -181,7 +181,7 @@
  },
  {
   "q": "Quelle partie du corps doit franchir la ligne d'arrivée pour déterminer l'ordre des sprinteurs ?",
-  "r": "Le torse",
+  "r": "Le torse (le tronc)",
   "d": 2,
   "t": "Athlétisme"
  },
@@ -390,7 +390,7 @@
   "t": "Sports mécaniques"
  },
  {
-  "q": "Quel est le seul pilote à avoir remporté le Grand Prix de Monaco, les 500 miles d'Indianapolis et les 24 Heures du Mans ?",
+  "q": "Quel pilote a été le premier à remporter le Grand Prix de Monaco, les 500 miles d'Indianapolis et les 24 Heures du Mans ?",
   "r": "Graham Hill",
   "d": 3,
   "t": "Sports mécaniques"
@@ -468,7 +468,7 @@
   "t": "Sports mécaniques"
  },
  {
-  "q": "Quel pilote français, surnommé « Monsieur Dakar », a remporté l'épreuve 14 fois, à moto puis en voiture ?",
+  "q": "Quel pilote français, surnommé « Monsieur Dakar », a remporté l'épreuve 14 fois entre 1991 et 2021, à moto puis en voiture ?",
   "r": "Stéphane Peterhansel",
   "d": 2,
   "t": "Sports mécaniques"

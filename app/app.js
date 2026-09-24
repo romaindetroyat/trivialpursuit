@@ -127,10 +127,23 @@ function rendreCarte(conteneur, index) {
 
 /* ---------------- Pioche ---------------- */
 
+function cartesDuPaquet(choix) {
+  // choix : 'tout' ou l'indice d'une édition (plage de numéros de cartes).
+  const ed = (DATA.editions || [])[choix];
+  if (!ed) return [...DATA.cartes.keys()];
+  return Array.from({ length: ed.a - ed.de + 1 }, (_, i) => ed.de - 1 + i);
+}
+
+function nouvellePioche(choix) {
+  return { paquet: choix, ordre: melanger(cartesDuPaquet(choix)), pos: 0 };
+}
+
 function etatPioche() {
   let etat = lire(CLE_PIOCHE, null);
-  if (!etat || !Array.isArray(etat.ordre) || etat.ordre.length !== DATA.cartes.length) {
-    etat = { ordre: melanger([...DATA.cartes.keys()]), pos: 0 };
+  const choix = etat && etat.paquet != null ? etat.paquet : 'tout';
+  if (!etat || !Array.isArray(etat.ordre) || etat.ordre.length !== cartesDuPaquet(choix).length
+    || etat.ordre.some(i => !DATA.cartes[i])) {
+    etat = nouvellePioche(choix);
     ecrire(CLE_PIOCHE, etat);
   }
   return etat;
@@ -139,10 +152,11 @@ function etatPioche() {
 function afficherPioche(avancer = false) {
   let etat = etatPioche();
   if (avancer) etat.pos++;
-  if (etat.pos >= etat.ordre.length) etat = { ordre: melanger([...DATA.cartes.keys()]), pos: 0 };
+  if (etat.pos >= etat.ordre.length) etat = nouvellePioche(etat.paquet);
   ecrire(CLE_PIOCHE, etat);
   rendreCarte($('#pioche-carte'), etat.ordre[etat.pos]);
-  $('#pioche-info').textContent = `Carte ${etat.pos + 1} sur ${etat.ordre.length} du paquet`;
+  $('#pioche-info').textContent = `Carte ${etat.pos + 1} sur ${etat.ordre.length}`;
+  $('#pioche-paquet').value = String(etat.paquet);
 }
 
 function initPioche() {
@@ -160,9 +174,21 @@ function initPioche() {
   });
   $('#pioche-reset').addEventListener('click', () => {
     if (!confirm('Remélanger tout le paquet ? Les cartes déjà vues pourront ressortir.')) return;
-    effacer(CLE_PIOCHE);
+    ecrire(CLE_PIOCHE, nouvellePioche(etatPioche().paquet));
     afficherPioche();
   });
+  const editions = DATA.editions || [];
+  if (editions.length > 1) {
+    const choix = $('#pioche-paquet');
+    choix.append(
+      h('option', { value: 'tout' }, `Toutes les cartes (1 à ${DATA.cartes.length})`),
+      ...editions.map((ed, i) => h('option', { value: String(i) }, `${ed.nom} (${ed.de} à ${ed.a})`)));
+    choix.hidden = false;
+    choix.addEventListener('change', () => {
+      ecrire(CLE_PIOCHE, nouvellePioche(choix.value === 'tout' ? 'tout' : Number(choix.value)));
+      afficherPioche();
+    });
+  }
 }
 
 /* ---------------- Partie sans plateau ---------------- */

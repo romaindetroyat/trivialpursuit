@@ -211,7 +211,7 @@
  },
  {
   "q": "Quelle membrane blanche et résistante forme le « blanc de l'œil » ?",
-  "r": "La sclérotique",
+  "r": "La sclérotique (sclère)",
   "d": 2,
   "t": "Sens : la vue"
  },
@@ -253,7 +253,7 @@
  },
  {
   "q": "Comment appelle-t-on un médicament qui combat la fièvre ?",
-  "r": "Un antipyrétique",
+  "r": "Un antipyrétique (antithermique)",
   "d": 2,
   "t": "Médicaments"
  },
@@ -300,7 +300,7 @@
   "t": "Reproduction"
  },
  {
-  "q": "Quel trouble psychique fait douter de ses compétences et craindre d'être démasqué, malgré des réussites objectives ?",
+  "q": "Quel phénomène psychologique fait douter de ses compétences et craindre d'être démasqué, malgré des réussites objectives ?",
   "r": "Le syndrome de l'imposteur",
   "d": 1,
   "t": "Psychologie"
@@ -391,7 +391,7 @@
  },
  {
   "q": "Quelle technique chirurgicale opère l'abdomen par de petites incisions, à l'aide d'une caméra ?",
-  "r": "La cœlioscopie",
+  "r": "La cœlioscopie (laparoscopie)",
   "d": 2,
   "t": "Examens médicaux"
  },

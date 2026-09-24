@@ -18,7 +18,7 @@
   "t": "Guerre froide"
  },
  {
-  "q": "Quelle révolution, en Ukraine en 2004, tire son nom de la couleur de ses partisans ?",
+  "q": "Quelle révolution, en Ukraine en 2004, tire son nom de la couleur adoptée par ses partisans ?",
   "r": "La révolution orange",
   "d": 1,
   "t": "Guerre froide"
@@ -390,7 +390,7 @@
   "t": "Proche et Moyen-Orient"
  },
  {
-  "q": "Quel colonel a pris le pouvoir en Libye par un coup d'État en 1969 ?",
+  "q": "Quel jeune officier, futur « colonel », a pris le pouvoir en Libye par un coup d'État en 1969 ?",
   "r": "Mouammar Kadhafi",
   "d": 1,
   "t": "Proche et Moyen-Orient"
@@ -438,7 +438,7 @@
   "t": "Proche et Moyen-Orient"
  },
  {
-  "q": "Quelles statues géantes de la vallée de Bamiyan ont été dynamitées par les talibans en mars 2001 ?",
+  "q": "Quelles statues géantes d'Afghanistan ont été dynamitées par les talibans en mars 2001 ?",
   "r": "Les bouddhas de Bamiyan",
   "d": 2,
   "t": "Proche et Moyen-Orient"

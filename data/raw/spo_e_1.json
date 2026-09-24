@@ -126,7 +126,7 @@
   "t": "JO d'été – histoire"
  },
  {
-  "q": "Dans quel stade de Colombes s'est déroulée la cérémonie d'ouverture des JO de Paris 1924 ?",
+  "q": "Sous quel nom connaît-on aujourd'hui le stade olympique de Colombes, principal site des JO de Paris 1924 ?",
   "r": "Le stade Yves-du-Manoir",
   "d": 2,
   "t": "JO d'été – histoire"
@@ -147,7 +147,7 @@
   "q": "Quel petit skieur stylisé fut, en 1968 à Grenoble, la première mascotte (officieuse) de l'histoire olympique ?",
   "r": "Schuss",
   "d": 3,
-  "t": "JO d'été – histoire"
+  "t": "JO d'hiver"
  },
  {
   "q": "Dans quel hôpital anglais Ludwig Guttmann organisa-t-il en 1948 des jeux pour blessés médullaires, ancêtres des Paralympiques ?",
@@ -193,7 +193,7 @@
  },
  {
   "q": "Selon la légende, quel messager grec courut de Marathon à Athènes pour annoncer la victoire sur les Perses ?",
-  "r": "Philippidès",
+  "r": "Philippidès (Phidippidès)",
   "d": 2,
   "t": "JO d'été – histoire"
  },
@@ -480,7 +480,7 @@
   "t": "Ski et sports d'hiver"
  },
  {
-  "q": "Quelle course de chiens de traîneau de plus de 1 600 km traverse l'Alaska jusqu'à Nome ?",
+  "q": "Quelle course de chiens de traîneau de plus de 1 500 km traverse l'Alaska jusqu'à Nome ?",
   "r": "L'Iditarod",
   "d": 2,
   "t": "Ski et sports d'hiver"

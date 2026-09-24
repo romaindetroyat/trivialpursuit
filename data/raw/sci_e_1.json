@@ -49,7 +49,7 @@
  },
  {
   "q": "Quelle pneumonie bactérienne doit son nom à une épidémie survenue en 1976 lors d'un congrès d'anciens combattants à Philadelphie ?",
-  "r": "La légionellose",
+  "r": "La légionellose (maladie du légionnaire)",
   "d": 3,
   "t": "Maladies"
  },
@@ -103,7 +103,7 @@
  },
  {
   "q": "Quel syndrome associant tics moteurs et vocaux porte le nom d'un élève français de Charcot ?",
-  "r": "Le syndrome Gilles de la Tourette",
+  "r": "Le syndrome de Gilles de la Tourette",
   "d": 2,
   "t": "Maladies"
  },
@@ -180,7 +180,7 @@
   "t": "Immunité"
  },
  {
-  "q": "Quel est l'autre nom du gros intestin ?",
+  "q": "Comment appelle-t-on la principale portion du gros intestin, située entre le cæcum et le rectum ?",
   "r": "Le côlon",
   "d": 1,
   "t": "Digestion"
@@ -397,7 +397,7 @@
  },
  {
   "q": "Comment appelle-t-on la science qui décrit et classe les êtres vivants ?",
-  "r": "La taxinomie",
+  "r": "La taxinomie (taxonomie)",
   "d": 2,
   "t": "Biologie générale"
  },

@@ -90,7 +90,7 @@
   "t": "Éléments chimiques"
  },
  {
-  "q": "Comment appelle-t-on un logiciel malveillant qui se fait passer pour un programme inoffensif, par référence à une ruse de la guerre de Troie ?",
+  "q": "Comment appelle-t-on un logiciel malveillant qui se fait passer pour un programme inoffensif, par référence à une ruse de la mythologie grecque ?",
   "r": "Un cheval de Troie",
   "d": 1,
   "t": "Informatique"
@@ -198,7 +198,7 @@
   "t": "Phénomènes du quotidien"
  },
  {
-  "q": "Quelle lune de Jupiter, recouverte d'une croûte de glace, abriterait un océan d'eau liquide ?",
+  "q": "Quelle lune de Jupiter, le plus petit des quatre satellites galiléens, abriterait un océan d'eau liquide sous sa croûte de glace ?",
   "r": "Europe",
   "d": 2,
   "t": "Astronomie"
@@ -240,7 +240,7 @@
   "t": "Histoire des sciences"
  },
  {
-  "q": "Quel instrument à lentilles Galilée a-t-il pointé vers le ciel en 1609 pour observer la Lune et Jupiter ?",
+  "q": "Quel instrument à lentilles Galilée a-t-il pointé vers le ciel dès 1609, pour observer notamment la Lune et les satellites de Jupiter ?",
   "r": "La lunette astronomique",
   "d": 1,
   "t": "Instruments de mesure"
@@ -318,7 +318,7 @@
   "t": "Physique"
  },
  {
-  "q": "Quel appareil de détection, dont le nom est l'acronyme anglais de « radio detection and ranging », repère les avions grâce à l'écho d'ondes radio ?",
+  "q": "Quel appareil de détection repère les avions grâce à l'écho d'ondes radio ?",
   "r": "Le radar",
   "d": 1,
   "t": "Physique"

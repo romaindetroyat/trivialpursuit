@@ -6,7 +6,7 @@
   "t": "Gastronomie française"
  },
  {
-  "q": "Quelle grande fête de la bière se tient chaque automne à Munich ?",
+  "q": "Quelle grande fête de la bière se tient chaque année à Munich, de fin septembre à début octobre ?",
   "r": "L'Oktoberfest",
   "d": 1,
   "t": "Bières et boissons"
@@ -73,7 +73,7 @@
  },
  {
   "q": "Quel dessert se compose de blancs en neige pochés flottant sur une crème anglaise ?",
-  "r": "L'île flottante",
+  "r": "L'île flottante (œufs à la neige)",
   "d": 1,
   "t": "Pâtisserie"
  },
@@ -114,7 +114,7 @@
   "t": "Jeux de lettres"
  },
  {
-  "q": "Quel mois du calendrier républicain correspondait au temps des vendanges, de fin septembre à fin octobre ?",
+  "q": "Quel mois du calendrier républicain, premier de l'année, tirait son nom des vendanges ?",
   "r": "Vendémiaire",
   "d": 3,
   "t": "Calendrier"

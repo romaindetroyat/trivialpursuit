@@ -132,7 +132,7 @@
   "t": "États et provinces"
  },
  {
-  "q": "Quel territoire du nord-ouest canadien, dont la capitale est Whitehorse, a connu la ruée vers l'or du Klondike ?",
+  "q": "Quel territoire canadien, dont la capitale est Whitehorse, a connu la ruée vers l'or du Klondike ?",
   "r": "Le Yukon",
   "d": 2,
   "t": "États et provinces"
@@ -276,9 +276,9 @@
   "t": "Capitales"
  },
  {
-  "q": "Quelle ville, principal port de l'Équateur, en est aussi la ville la plus peuplée ?",
+  "q": "Quelle ville est le principal port de l'Équateur ?",
   "r": "Guayaquil",
-  "d": 3,
+  "d": 2,
   "t": "Villes"
  },
  {

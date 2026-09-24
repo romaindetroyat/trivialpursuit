@@ -1,6 +1,6 @@
 [
  {
-  "q": "Sur quelle île de la Seine se trouvait le cœur de Lutèce puis du Paris médiéval ?",
+  "q": "Sur quelle île de la Seine se trouvaient le palais royal et la cathédrale Notre-Dame du Paris médiéval ?",
   "r": "L'île de la Cité",
   "d": 1,
   "t": "Villes médiévales"
@@ -408,7 +408,7 @@
   "t": "Croisades"
  },
  {
-  "q": "Quelle croisade de 1396 fut écrasée par le sultan Bayezid Ier sur le Danube ?",
+  "q": "Près de quelle ville du Danube la croisade de 1396 fut-elle écrasée par le sultan Bayezid Ier ?",
   "r": "Nicopolis",
   "d": 3,
   "t": "Batailles médiévales"

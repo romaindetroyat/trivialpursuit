@@ -54,7 +54,7 @@
   "t": "Monuments et sites"
  },
  {
-  "q": "Quelle rivière traverse Berlin ?",
+  "q": "Quelle rivière traverse le centre de Berlin et borde l'île aux Musées ?",
   "r": "La Spree",
   "d": 1,
   "t": "Fleuves et lacs"
@@ -174,7 +174,7 @@
   "t": "Massifs et sommets"
  },
  {
-  "q": "Quel archipel arctique russe fut le principal site d'essais nucléaires soviétiques, dont la Tsar Bomba en 1961 ?",
+  "q": "Dans quel archipel arctique russe les Soviétiques firent-ils exploser en 1961 la Tsar Bomba, la plus puissante bombe jamais testée ?",
   "r": "La Nouvelle-Zemble",
   "d": 2,
   "t": "Îles"
@@ -493,7 +493,7 @@
  },
  {
   "q": "Comment appelle-t-on les habitants de Jérusalem ?",
-  "r": "Les Hiérosolymitains",
+  "r": "Les Hiérosolymitains (Hiérosolymites)",
   "d": 3,
   "t": "Gentilés"
  },

@@ -1,7 +1,7 @@
 [
  {
   "q": "Quel nénuphar géant d'Amazonie, aux feuilles de plus de deux mètres, porte le nom d'une reine britannique ?",
-  "r": "Le Victoria (amazonica)",
+  "r": "Victoria amazonica (V. regia)",
   "d": 3,
   "t": "Botanique"
  },
@@ -19,7 +19,7 @@
  },
  {
   "q": "Comment appelle-t-on les cristaux de glace qui se déposent sur les surfaces par nuit froide ?",
-  "r": "Le givre",
+  "r": "Le givre (gelée blanche)",
   "d": 2,
   "t": "Météorologie"
  },
@@ -108,7 +108,7 @@
   "t": "Volcans et séismes"
  },
  {
-  "q": "Quel petit insecte sauteur, vecteur de la peste par l'intermédiaire du rat, peut bondir à des dizaines de fois sa taille ?",
+  "q": "Quel petit insecte sauteur, vecteur de la peste par l'intermédiaire du rat, peut bondir à plus de cent fois sa taille ?",
   "r": "La puce",
   "d": 1,
   "t": "Insectes"
@@ -319,7 +319,7 @@
  },
  {
   "q": "Quelle volaille française sous appellation d'origine arbore des pattes bleues, un plumage blanc et une crête rouge ?",
-  "r": "La volaille de Bresse",
+  "r": "La volaille (poulet) de Bresse",
   "d": 1,
   "t": "Animaux de ferme"
  },
@@ -330,7 +330,7 @@
   "t": "Animaux de ferme"
  },
  {
-  "q": "Comment s'appelait la voiture électrique qui dépassa la première les 100 km/h, en 1899 ?",
+  "q": "Comment s'appelait la voiture électrique qui, la première, dépassa les 100 km/h, en 1899 ?",
   "r": "La Jamais Contente",
   "d": 2,
   "t": "Transports"

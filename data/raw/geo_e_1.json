@@ -216,7 +216,7 @@
   "t": "Îles"
  },
  {
-  "q": "Quel fleuve africain sert de frontière entre le Sénégal et la Mauritanie ?",
+  "q": "Quel fleuve d'Afrique de l'Ouest marque la frontière entre la Mauritanie et son voisin du sud-ouest ?",
   "r": "Le fleuve Sénégal",
   "d": 1,
   "t": "Fleuves et lacs"
@@ -307,7 +307,7 @@
  },
  {
   "q": "Dans quel site islandais, où l'on voit s'écarter les plaques tectoniques, se réunit le premier parlement, l'Althing, en 930 ?",
-  "r": "Þingvellir",
+  "r": "Þingvellir (Thingvellir)",
   "d": 2,
   "t": "Curiosités naturelles"
  },
@@ -420,7 +420,7 @@
   "t": "Monuments et sites"
  },
  {
-  "q": "Quel massif calcaire des Asturies et de la Cantabrie porte un nom qui évoque tout un continent ?",
+  "q": "Quel massif calcaire, à cheval sur les Asturies, la Cantabrie et la province de León, porte un nom qui évoque tout un continent ?",
   "r": "Les pics d'Europe",
   "d": 2,
   "t": "Massifs et sommets"

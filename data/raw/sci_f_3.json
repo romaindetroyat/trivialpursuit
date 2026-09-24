@@ -18,9 +18,9 @@
   "t": "Mammifères"
  },
  {
-  "q": "Quelle ville française a inauguré en 1983 le premier métro entièrement automatique au monde, le VAL ?",
+  "q": "Quelle ville a inauguré en 1983 le VAL, premier métro automatique sans conducteur de France ?",
   "r": "Lille",
-  "d": 3,
+  "d": 2,
   "t": "Transports"
  },
  {
@@ -85,7 +85,7 @@
  },
  {
   "q": "Comment appelle-t-on l'avalanche brûlante de gaz, de cendres et de blocs qui dévale les pentes d'un volcan ?",
-  "r": "Une nuée ardente",
+  "r": "Une nuée ardente (coulée pyroclastique)",
   "d": 2,
   "t": "Volcans et séismes"
  },
@@ -283,7 +283,7 @@
  },
  {
   "q": "Quelle race de chien d'origine chinoise a la particularité d'avoir la langue bleu-noir ?",
-  "r": "Le chow-chow",
+  "r": "Le chow-chow (ou le shar-pei)",
   "d": 2,
   "t": "Animaux de compagnie"
  },

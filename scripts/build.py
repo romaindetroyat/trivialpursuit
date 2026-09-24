@@ -10,7 +10,7 @@
 - écrit app/cartes.json (données de la PWA), data/cartes.csv (pour relire ou éditer),
   data/paquet.json et data/reserve.json (questions valides non utilisées).
 
-Usage : python3 scripts/build.py [--cartes N] [--graine 2026]
+Usage : python3 scripts/build.py [--cartes N] [--edition NOM] [--graine 2026]
 Sans --cartes, le nombre de cartes du paquet existant est conservé.
 """
 import argparse
@@ -181,23 +181,30 @@ def composer(par_cat, n, rng):
 
 
 def charger_paquet():
+    """Renvoie (cartes, éditions) du paquet enregistré ; chaque édition couvre une plage de cartes."""
     chemin = os.path.join(RACINE, "data", "paquet.json")
     if not os.path.exists(chemin):
-        return []
+        return [], []
     with open(chemin, encoding="utf-8") as f:
-        return json.load(f)["cartes"]
+        paquet = json.load(f)
+    cartes = paquet["cartes"]
+    editions = paquet.get("editions") or ([{"nom": "Base", "de": 1, "a": len(cartes)}] if cartes else [])
+    return cartes, editions
 
 
-def ecrire_paquet(cartes):
+def ecrire_paquet(cartes, editions):
     lignes = ",\n".join("  " + json.dumps([q["id"] for q in c]) for c in cartes)
     with open(os.path.join(RACINE, "data", "paquet.json"), "w", encoding="utf-8") as f:
-        f.write('{"categories": ' + json.dumps([c["id"] for c in CATEGORIES]) + ',\n "cartes": [\n' + lignes + "\n]}\n")
+        f.write('{"categories": ' + json.dumps([c["id"] for c in CATEGORIES])
+                + ',\n "editions": ' + json.dumps(editions, ensure_ascii=False)
+                + ',\n "cartes": [\n' + lignes + "\n]}\n")
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cartes", type=int, default=None, help="nombre total de cartes voulu")
     ap.add_argument("--graine", type=int, default=2026)
+    ap.add_argument("--edition", default=None, help="nom de l'édition regroupant les nouvelles cartes")
     args = ap.parse_args()
     rng = random.Random(args.graine)
 
@@ -212,7 +219,7 @@ def main():
             print(f"  rejet [{source}] {raison} : {item}", file=sys.stderr)
 
     # Cartes déjà composées : on les garde, en notant les questions disparues des sources.
-    paquet = charger_paquet()
+    paquet, editions = charger_paquet()
     cartes, trous = [], []
     for k, ids in enumerate(paquet):
         carte = []
@@ -257,7 +264,10 @@ def main():
         choisies = {}
         for cat in CATEGORIES:
             choisies[cat["id"]], libres[cat["id"]] = selectionner(libres[cat["id"]], a_creer, rng)
+        debut = len(cartes) + 1
         cartes += composer(choisies, a_creer, rng)
+        nom = args.edition or ("Base" if not editions else f"Extension {len(editions)}")
+        editions.append({"nom": nom, "de": debut, "a": len(cartes)})
     reserve = libres
 
     for cat, nb_brutes, nb_rejets, nb_doublons in bilan:
@@ -267,11 +277,12 @@ def main():
               f"  en jeu {len(cartes):>5}  réserve {len(reserve[cat['id']]):>4}"
               f"  (faciles/moyennes/difficiles {niveaux[0]}/{niveaux[1]}/{niveaux[2]})")
 
-    ecrire_paquet(cartes)
+    ecrire_paquet(cartes, editions)
 
     sortie = {
         "version": 1,
         "categories": CATEGORIES,
+        "editions": editions,
         "cartes": [[[q["q"], q["r"], q["d"], q["t"]] for q in carte] for carte in cartes],
     }
     with open(os.path.join(RACINE, "app", "cartes.json"), "w", encoding="utf-8") as f:

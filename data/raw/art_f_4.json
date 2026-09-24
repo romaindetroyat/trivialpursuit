@@ -36,8 +36,8 @@
   "t": "Peinture"
  },
  {
-  "q": "Quel peintre lorrain du XVIIe siècle, installé à Rome, est célèbre pour ses ports baignés de lumière au soleil couchant ?",
-  "r": "Claude Lorrain",
+  "q": "Quel peintre français du XVIIe siècle, installé à Rome, est célèbre pour ses ports baignés de lumière au soleil couchant ?",
+  "r": "Claude Lorrain (Claude Gellée)",
   "d": 3,
   "t": "Peinture"
  },
@@ -48,14 +48,14 @@
   "t": "Peinture"
  },
  {
-  "q": "Quelle marque de soupe en conserve Andy Warhol a-t-il reproduite en 32 sérigraphies en 1962 ?",
+  "q": "Quelle marque de soupe en conserve Andy Warhol a-t-il reproduite sur 32 toiles en 1962 ?",
   "r": "Campbell's",
   "d": 1,
   "t": "Peinture"
  },
  {
   "q": "Comment appelle-t-on le fort contraste entre zones d'ombre et de lumière, dont le Caravage fit sa marque ?",
-  "r": "Le clair-obscur",
+  "r": "Le clair-obscur (ténébrisme)",
   "d": 1,
   "t": "Techniques artistiques"
  },
@@ -108,7 +108,7 @@
   "t": "Sculpture"
  },
  {
-  "q": "Quel nom officiel porte l'unité d'habitation de Le Corbusier à Marseille, surnommée « la maison du fada » ?",
+  "q": "Sous quel nom connaît-on l'unité d'habitation de Le Corbusier à Marseille, surnommée « la maison du fada » ?",
   "r": "La Cité radieuse",
   "d": 2,
   "t": "Architecture"
@@ -150,7 +150,7 @@
   "t": "Architecture"
  },
  {
-  "q": "Quel ensemble de temples cambodgiens, figurant sur le drapeau national, est le plus grand monument religieux du monde ?",
+  "q": "Quel temple cambodgien, figurant sur le drapeau national, est le plus grand monument religieux du monde ?",
   "r": "Angkor Vat",
   "d": 1,
   "t": "Architecture"
@@ -336,13 +336,13 @@
   "t": "Danse"
  },
  {
-  "q": "Quels frères lyonnais ont commercialisé en 1907 l'autochrome, premier procédé photographique en couleurs ?",
+  "q": "Quels frères lyonnais ont commercialisé en 1907 l'autochrome, premier procédé industriel de photographie en couleurs ?",
   "r": "Les frères Lumière",
   "d": 2,
   "t": "Photographie"
  },
  {
-  "q": "Quel photographe français a immortalisé en 1967 une jeune fille tendant une fleur face aux baïonnettes, à Washington ?",
+  "q": "Quel photographe français a immortalisé en 1967 une jeune fille tendant une fleur face aux baïonnettes, devant le Pentagone ?",
   "r": "Marc Riboud",
   "d": 3,
   "t": "Photographie"
@@ -366,7 +366,7 @@
   "t": "Design et arts décoratifs"
  },
  {
-  "q": "Quel designer français a dessiné le TGV et les voitures Corail de la SNCF ?",
+  "q": "Quel designer français a dessiné le TGV Atlantique et les voitures Corail de la SNCF ?",
   "r": "Roger Tallon",
   "d": 3,
   "t": "Design et arts décoratifs"
