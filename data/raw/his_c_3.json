@@ -1,92 +1,542 @@
 [
-  {"q": "Quel homme d'État britannique a dénoncé en 1946, à Fulton, un « rideau de fer » tombé sur l'Europe ?", "r": "Winston Churchill", "d": 1, "t": "Guerre froide"},
-  {"q": "Quel plan américain d'aide à la reconstruction de l'Europe a été lancé en 1947 ?", "r": "Le plan Marshall", "d": 1, "t": "Guerre froide"},
-  {"q": "Quelle ville les Occidentaux ont-ils ravitaillée par un gigantesque pont aérien en 1948-1949 ?", "r": "Berlin-Ouest", "d": 1, "t": "Guerre froide"},
-  {"q": "Quelle alliance militaire l'URSS et ses alliés d'Europe de l'Est ont-ils créée en 1955 ?", "r": "Le pacte de Varsovie", "d": 1, "t": "Guerre froide"},
-  {"q": "En quelle année le mur de Berlin a-t-il été érigé ?", "r": "1961", "d": 2, "t": "Guerre froide"},
-  {"q": "Quel président américain a lancé « Ich bin ein Berliner » lors d'un discours à Berlin-Ouest en 1963 ?", "r": "John F. Kennedy", "d": 1, "t": "Guerre froide"},
-  {"q": "Quel était le surnom du célèbre point de passage entre les secteurs américain et soviétique de Berlin ?", "r": "Checkpoint Charlie", "d": 2, "t": "Guerre froide"},
-  {"q": "Quelle crise d'octobre 1962 a mis le monde au bord de la guerre nucléaire ?", "r": "La crise des missiles de Cuba", "d": 1, "t": "Guerre froide"},
-  {"q": "Quel dirigeant soviétique était au pouvoir lors de la crise des missiles de Cuba ?", "r": "Nikita Khrouchtchev", "d": 1, "t": "Guerre froide"},
-  {"q": "Dans quelle baie cubaine des exilés soutenus par la CIA ont-ils tenté un débarquement raté en avril 1961 ?", "r": "La baie des Cochons", "d": 2, "t": "Guerre froide"},
-  {"q": "Quel révolutionnaire a pris le pouvoir à Cuba en janvier 1959 en renversant Batista ?", "r": "Fidel Castro", "d": 1, "t": "Amérique latine"},
-  {"q": "Dans quel pays Ernesto « Che » Guevara a-t-il été capturé et exécuté en 1967 ?", "r": "La Bolivie", "d": 2, "t": "Amérique latine"},
-  {"q": "Quel président chilien est mort lors du coup d'État militaire du 11 septembre 1973 ?", "r": "Salvador Allende", "d": 1, "t": "Amérique latine"},
-  {"q": "Quel général a dirigé le Chili de 1973 à 1990 ?", "r": "Augusto Pinochet", "d": 1, "t": "Amérique latine"},
-  {"q": "Quel archipel de l'Atlantique Sud l'Argentine et le Royaume-Uni se sont-ils disputé lors d'une guerre en 1982 ?", "r": "Les Malouines", "d": 1, "t": "Conflits"},
-  {"q": "Quel parallèle servait de ligne de démarcation entre les deux Corées avant la guerre de 1950 ?", "r": "Le 38e parallèle", "d": 2, "t": "Guerre de Corée"},
-  {"q": "Quelle offensive nord-vietnamienne de 1968 tire son nom du Nouvel An lunaire ?", "r": "L'offensive du Têt", "d": 2, "t": "Guerre du Vietnam"},
-  {"q": "Quel nom de guerre portait le chef des Khmers rouges, au pouvoir au Cambodge de 1975 à 1979 ?", "r": "Pol Pot", "d": 1, "t": "Asie"},
-  {"q": "Quel dirigeant soviétique a lancé la perestroïka et la glasnost dans les années 1980 ?", "r": "Mikhaïl Gorbatchev", "d": 1, "t": "Fin de la guerre froide"},
-  {"q": "En quelle année l'Union soviétique a-t-elle été dissoute ?", "r": "1991", "d": 1, "t": "Fin de la guerre froide"},
-  {"q": "Quel président russe est monté sur un char devant le Parlement pour s'opposer au putsch d'août 1991 à Moscou ?", "r": "Boris Eltsine", "d": 2, "t": "Fin de la guerre froide"},
-  {"q": "Dans quelle capitale une insurrection populaire contre le régime communiste fut-elle écrasée par les chars soviétiques en 1956 ?", "r": "Budapest", "d": 2, "t": "Guerre froide"},
-  {"q": "Comment appelle-t-on la brève libéralisation du régime communiste tchécoslovaque en 1968 ?", "r": "Le Printemps de Prague", "d": 1, "t": "Guerre froide"},
-  {"q": "Quel dirigeant communiste tchécoslovaque voulait instaurer en 1968 un « socialisme à visage humain » ?", "r": "Alexander Dubček", "d": 3, "t": "Guerre froide"},
-  {"q": "Quel étudiant tchèque s'est immolé par le feu à Prague en janvier 1969 pour protester contre l'occupation soviétique ?", "r": "Jan Palach", "d": 3, "t": "Guerre froide"},
-  {"q": "Quel syndicat indépendant est né en 1980 dans les chantiers navals de Gdańsk, en Pologne ?", "r": "Solidarność", "d": 1, "t": "Fin de la guerre froide"},
-  {"q": "Quel électricien a dirigé Solidarność avant de devenir président de la Pologne en 1990 ?", "r": "Lech Wałęsa", "d": 1, "t": "Fin de la guerre froide"},
-  {"q": "Comment appelle-t-on la révolution pacifique qui a mis fin au régime communiste tchécoslovaque en 1989 ?", "r": "La révolution de Velours", "d": 2, "t": "Fin de la guerre froide"},
-  {"q": "Quel dramaturge dissident est élu président de la Tchécoslovaquie en décembre 1989 ?", "r": "Václav Havel", "d": 2, "t": "Fin de la guerre froide"},
-  {"q": "Quel dictateur communiste a été exécuté avec son épouse le 25 décembre 1989 ?", "r": "Nicolae Ceaușescu", "d": 1, "t": "Fin de la guerre froide"},
-  {"q": "Dans quelle capitale finlandaise a été signé en 1975 l'acte final de la Conférence sur la sécurité et la coopération en Europe ?", "r": "Helsinki", "d": 3, "t": "Guerre froide"},
-  {"q": "Quel sénateur américain a mené une virulente chasse aux communistes au début des années 1950 ?", "r": "Joseph McCarthy", "d": 2, "t": "États-Unis"},
-  {"q": "Quel couple américain fut exécuté en 1953 pour espionnage atomique au profit de l'URSS ?", "r": "Les Rosenberg", "d": 2, "t": "États-Unis"},
-  {"q": "Quel scandale a provoqué la démission du président Richard Nixon en 1974 ?", "r": "Le Watergate", "d": 1, "t": "États-Unis"},
-  {"q": "Quel président américain a effectué en 1972 un voyage historique en Chine populaire ?", "r": "Richard Nixon", "d": 2, "t": "Guerre froide"},
-  {"q": "Quel sport a donné son nom à la « diplomatie » qui a amorcé le rapprochement sino-américain en 1971 ?", "r": "Le ping-pong", "d": 2, "t": "Guerre froide"},
-  {"q": "Quel pasteur a prononcé le discours « I have a dream » à Washington en août 1963 ?", "r": "Martin Luther King", "d": 1, "t": "Droits civiques"},
-  {"q": "Quelle couturière afro-américaine a refusé de céder sa place à un Blanc dans un bus de Montgomery en 1955 ?", "r": "Rosa Parks", "d": 1, "t": "Droits civiques"},
-  {"q": "Dans quelle ville du Tennessee Martin Luther King a-t-il été assassiné en avril 1968 ?", "r": "Memphis", "d": 2, "t": "Droits civiques"},
-  {"q": "Quel militant afro-américain, ancien porte-parole de la Nation of Islam, a été assassiné à New York en 1965 ?", "r": "Malcolm X", "d": 2, "t": "Droits civiques"},
-  {"q": "Quel nom porte le régime de ségrégation raciale institué en Afrique du Sud à partir de 1948 ?", "r": "L'apartheid", "d": 1, "t": "Afrique du Sud"},
-  {"q": "Quel prisonnier politique sud-africain a été libéré en février 1990 après 27 ans de détention ?", "r": "Nelson Mandela", "d": 1, "t": "Afrique du Sud"},
-  {"q": "Sur quelle île au large du Cap Nelson Mandela a-t-il passé dix-huit ans en prison ?", "r": "Robben Island", "d": 2, "t": "Afrique du Sud"},
-  {"q": "Quel président sud-africain a partagé le prix Nobel de la paix 1993 avec Nelson Mandela ?", "r": "Frederik de Klerk", "d": 2, "t": "Afrique du Sud"},
-  {"q": "Quel township de Johannesburg a été le théâtre d'un soulèvement de lycéens noirs en juin 1976 ?", "r": "Soweto", "d": 2, "t": "Afrique du Sud"},
-  {"q": "Comment appelle-t-on la guerre israélo-arabe de juin 1967, remportée très rapidement par Israël ?", "r": "La guerre des Six Jours", "d": 1, "t": "Proche-Orient"},
-  {"q": "Quelle guerre israélo-arabe d'octobre 1973 tire son nom d'une fête religieuse juive ?", "r": "La guerre du Kippour", "d": 2, "t": "Proche-Orient"},
-  {"q": "Dans quelle résidence présidentielle américaine l'Égypte et Israël ont-ils conclu des accords de paix en 1978 ?", "r": "Camp David", "d": 2, "t": "Proche-Orient"},
-  {"q": "Quel président égyptien, artisan de la paix avec Israël, a été assassiné en octobre 1981 ?", "r": "Anouar el-Sadate", "d": 2, "t": "Proche-Orient"},
-  {"q": "Quel Premier ministre israélien, signataire des accords d'Oslo, a été assassiné à Tel-Aviv en 1995 ?", "r": "Yitzhak Rabin", "d": 2, "t": "Proche-Orient"},
-  {"q": "Quel religieux chiite a pris la tête de l'Iran après la révolution de 1979 ?", "r": "L'ayatollah Khomeini", "d": 1, "t": "Moyen-Orient"},
-  {"q": "Dans quelle commune des Yvelines l'ayatollah Khomeini a-t-il vécu en exil avant son retour en Iran en 1979 ?", "r": "Neauphle-le-Château", "d": 3, "t": "Moyen-Orient"},
-  {"q": "Quel pays l'URSS a-t-elle envahi en décembre 1979, s'engageant dans une guerre de près de dix ans ?", "r": "L'Afghanistan", "d": 1, "t": "Guerre froide"},
-  {"q": "Quel émirat du golfe Persique l'Irak de Saddam Hussein a-t-il envahi en août 1990 ?", "r": "Le Koweït", "d": 1, "t": "Moyen-Orient"},
-  {"q": "Quel nom de code désignait l'offensive de la coalition internationale contre l'Irak au début de 1991 ?", "r": "Tempête du désert", "d": 2, "t": "Moyen-Orient"},
-  {"q": "Quelle organisation dirigée par Oussama ben Laden a commis les attentats du 11 septembre 2001 ?", "r": "Al-Qaïda", "d": 1, "t": "Monde contemporain"},
-  {"q": "Sur quelle place de Pékin des manifestations étudiantes ont-elles été réprimées par l'armée en juin 1989 ?", "r": "La place Tian'anmen", "d": 1, "t": "Chine"},
-  {"q": "Comment appelle-t-on le vaste mouvement de purges lancé par Mao Zedong en 1966 ?", "r": "La Révolution culturelle", "d": 1, "t": "Chine"},
-  {"q": "Quelle campagne économique lancée par Mao en 1958 a provoqué une famine de plusieurs dizaines de millions de morts ?", "r": "Le Grand Bond en avant", "d": 2, "t": "Chine"},
-  {"q": "Quel dirigeant chinois a engagé à partir de 1978 les grandes réformes économiques de la Chine ?", "r": "Deng Xiaoping", "d": 2, "t": "Chine"},
-  {"q": "Quel territoire le Royaume-Uni a-t-il rétrocédé à la Chine le 1er juillet 1997 ?", "r": "Hong Kong", "d": 1, "t": "Chine"},
-  {"q": "Quel pays d'Afrique des Grands Lacs a été le théâtre du génocide des Tutsi en 1994 ?", "r": "Le Rwanda", "d": 1, "t": "Monde contemporain"},
-  {"q": "Quelle capitale a subi un siège de près de quatre ans pendant la guerre de Bosnie, de 1992 à 1996 ?", "r": "Sarajevo", "d": 1, "t": "Guerres de Yougoslavie"},
-  {"q": "Dans quelle ville de Bosnie plus de 8 000 hommes et adolescents musulmans ont-ils été massacrés en juillet 1995 ?", "r": "Srebrenica", "d": 2, "t": "Guerres de Yougoslavie"},
-  {"q": "Dans quel État américain ont été négociés en 1995 les accords de paix de Dayton sur la Bosnie ?", "r": "L'Ohio", "d": 3, "t": "Guerres de Yougoslavie"},
-  {"q": "Près de quelle ville d'Ukraine soviétique une centrale nucléaire a-t-elle explosé en avril 1986 ?", "r": "Tchernobyl", "d": 1, "t": "Catastrophes"},
-  {"q": "Dans quelle ville indienne une fuite de gaz toxique d'une usine chimique a-t-elle tué des milliers de personnes en 1984 ?", "r": "Bhopal", "d": 2, "t": "Catastrophes"},
-  {"q": "Quelle Première ministre britannique, en poste de 1979 à 1990, était surnommée la « Dame de fer » ?", "r": "Margaret Thatcher", "d": 1, "t": "Personnalités"},
-  {"q": "Quelle femme politique a dirigé le gouvernement indien de 1966 à 1977 puis de 1980 à 1984 ?", "r": "Indira Gandhi", "d": 2, "t": "Personnalités"},
-  {"q": "Quelle Sri-Lankaise est devenue en 1960 la première femme au monde à diriger un gouvernement ?", "r": "Sirimavo Bandaranaike", "d": 3, "t": "Personnalités"},
-  {"q": "Quel programme de défense antimissile de Ronald Reagan a été surnommé « guerre des étoiles » ?", "r": "L'Initiative de défense stratégique", "d": 3, "t": "Guerre froide"},
-  {"q": "Quel traité international signé en 1968 vise à empêcher la diffusion des armes nucléaires ?", "r": "Le traité de non-prolifération", "d": 3, "t": "Guerre froide"},
-  {"q": "Quel fut le premier satellite artificiel de l'histoire, lancé par l'URSS en octobre 1957 ?", "r": "Spoutnik 1", "d": 1, "t": "Conquête spatiale"},
-  {"q": "Quelle chienne soviétique fut, en novembre 1957, le premier animal placé en orbite autour de la Terre ?", "r": "Laïka", "d": 1, "t": "Conquête spatiale"},
-  {"q": "Quel cosmonaute soviétique est devenu le premier homme dans l'espace le 12 avril 1961 ?", "r": "Youri Gagarine", "d": 1, "t": "Conquête spatiale"},
-  {"q": "Quelle cosmonaute soviétique est devenue en 1963 la première femme dans l'espace ?", "r": "Valentina Terechkova", "d": 2, "t": "Conquête spatiale"},
-  {"q": "Quel cosmonaute soviétique a effectué la première sortie dans l'espace en mars 1965 ?", "r": "Alexeï Leonov", "d": 3, "t": "Conquête spatiale"},
-  {"q": "Quel astronaute est devenu en 1962 le premier Américain à effectuer un vol en orbite autour de la Terre ?", "r": "John Glenn", "d": 3, "t": "Conquête spatiale"},
-  {"q": "Quel astronaute américain a été le premier homme à poser le pied sur la Lune ?", "r": "Neil Armstrong", "d": 1, "t": "Conquête spatiale"},
-  {"q": "Quelle mission a permis les premiers pas de l'homme sur la Lune en juillet 1969 ?", "r": "Apollo 11", "d": 1, "t": "Conquête spatiale"},
-  {"q": "Quel astronaute d'Apollo 11 est resté en orbite lunaire pendant que ses deux coéquipiers marchaient sur la Lune ?", "r": "Michael Collins", "d": 2, "t": "Conquête spatiale"},
-  {"q": "Quelle mission, en décembre 1972, fut la dernière du programme Apollo à se poser sur la Lune ?", "r": "Apollo 17", "d": 3, "t": "Conquête spatiale"},
-  {"q": "Combien d'astronautes ont marché sur la Lune entre 1969 et 1972 ?", "r": "Douze", "d": 2, "t": "Conquête spatiale"},
-  {"q": "Quel ingénieur d'origine allemande, concepteur des V2, a dirigé la mise au point de la fusée Saturn V ?", "r": "Wernher von Braun", "d": 2, "t": "Conquête spatiale"},
-  {"q": "Quelle mission de 1975 a vu, pour la première fois, l'amarrage d'un vaisseau américain et d'un vaisseau soviétique ?", "r": "Apollo-Soyouz", "d": 3, "t": "Conquête spatiale"},
-  {"q": "Quelle navette spatiale américaine a explosé peu après son décollage en janvier 1986 ?", "r": "Challenger", "d": 2, "t": "Conquête spatiale"},
-  {"q": "Quelle navette spatiale américaine s'est désintégrée lors de son retour dans l'atmosphère en février 2003 ?", "r": "Columbia", "d": 3, "t": "Conquête spatiale"},
-  {"q": "Quel spationaute est devenu en 1982 le premier Français à aller dans l'espace ?", "r": "Jean-Loup Chrétien", "d": 2, "t": "Conquête spatiale"},
-  {"q": "Quelle spationaute est devenue en 1996 la première Française à aller dans l'espace ?", "r": "Claudie André-Deshays (Haigneré)", "d": 3, "t": "Conquête spatiale"},
-  {"q": "Quelle station spatiale soviétique puis russe, en service à partir de 1986, a été désorbitée en 2001 ?", "r": "Mir", "d": 2, "t": "Conquête spatiale"}
+ {
+  "q": "Quel homme d'État britannique a dénoncé en 1946, à Fulton, un « rideau de fer » tombé sur l'Europe ?",
+  "r": "Winston Churchill",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel plan américain d'aide à la reconstruction de l'Europe a été lancé en 1947 ?",
+  "r": "Le plan Marshall",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quelle ville les Occidentaux ont-ils ravitaillée par un gigantesque pont aérien en 1948-1949 ?",
+  "r": "Berlin-Ouest",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quelle alliance militaire l'URSS et ses alliés d'Europe de l'Est ont-ils créée en 1955 ?",
+  "r": "Le pacte de Varsovie",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "En quelle année le mur de Berlin a-t-il été érigé ?",
+  "r": "1961",
+  "d": 2,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel président américain a lancé « Ich bin ein Berliner » lors d'un discours à Berlin-Ouest en 1963 ?",
+  "r": "John F. Kennedy",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel était le nom du célèbre point de passage entre les secteurs américain et soviétique de Berlin ?",
+  "r": "Checkpoint Charlie",
+  "d": 2,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quelle crise d'octobre 1962 a mis le monde au bord de la guerre nucléaire ?",
+  "r": "La crise des missiles de Cuba",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel dirigeant soviétique était au pouvoir lors de la crise des missiles de Cuba ?",
+  "r": "Nikita Khrouchtchev",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Dans quelle baie cubaine des exilés soutenus par la CIA ont-ils tenté un débarquement raté en avril 1961 ?",
+  "r": "La baie des Cochons",
+  "d": 2,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel révolutionnaire a pris le pouvoir à Cuba en janvier 1959 en renversant Batista ?",
+  "r": "Fidel Castro",
+  "d": 1,
+  "t": "Amérique latine"
+ },
+ {
+  "q": "Dans quel pays Ernesto « Che » Guevara a-t-il été capturé et exécuté en 1967 ?",
+  "r": "La Bolivie",
+  "d": 2,
+  "t": "Amérique latine"
+ },
+ {
+  "q": "Quel président chilien est mort lors du coup d'État militaire du 11 septembre 1973 ?",
+  "r": "Salvador Allende",
+  "d": 1,
+  "t": "Amérique latine"
+ },
+ {
+  "q": "Quel général a dirigé le Chili de 1973 à 1990 ?",
+  "r": "Augusto Pinochet",
+  "d": 1,
+  "t": "Amérique latine"
+ },
+ {
+  "q": "Quel archipel de l'Atlantique Sud l'Argentine et le Royaume-Uni se sont-ils disputé lors d'une guerre en 1982 ?",
+  "r": "Les Malouines",
+  "d": 1,
+  "t": "Conflits"
+ },
+ {
+  "q": "Quel parallèle servait de ligne de démarcation entre les deux Corées avant la guerre de 1950 ?",
+  "r": "Le 38e parallèle",
+  "d": 2,
+  "t": "Guerre de Corée"
+ },
+ {
+  "q": "Quelle offensive nord-vietnamienne de 1968 tire son nom du Nouvel An lunaire ?",
+  "r": "L'offensive du Têt",
+  "d": 2,
+  "t": "Guerre du Vietnam"
+ },
+ {
+  "q": "Quel nom de guerre portait le chef des Khmers rouges, au pouvoir au Cambodge de 1975 à 1979 ?",
+  "r": "Pol Pot",
+  "d": 1,
+  "t": "Asie"
+ },
+ {
+  "q": "Quel dirigeant soviétique a lancé la perestroïka et la glasnost dans les années 1980 ?",
+  "r": "Mikhaïl Gorbatchev",
+  "d": 1,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "En quelle année l'Union soviétique a-t-elle été dissoute ?",
+  "r": "1991",
+  "d": 1,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Quel président russe est monté sur un char devant le Parlement pour s'opposer au putsch d'août 1991 à Moscou ?",
+  "r": "Boris Eltsine",
+  "d": 2,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Dans quelle capitale une insurrection populaire contre le régime communiste fut-elle écrasée par les chars soviétiques en 1956 ?",
+  "r": "Budapest",
+  "d": 2,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Comment appelle-t-on la brève libéralisation du régime communiste tchécoslovaque en 1968 ?",
+  "r": "Le Printemps de Prague",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel dirigeant communiste tchécoslovaque voulait instaurer en 1968 un « socialisme à visage humain » ?",
+  "r": "Alexander Dubček",
+  "d": 3,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel étudiant tchèque s'est immolé par le feu à Prague en janvier 1969 pour protester contre l'occupation soviétique ?",
+  "r": "Jan Palach",
+  "d": 3,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel syndicat indépendant est né en 1980 dans les chantiers navals de Gdańsk, en Pologne ?",
+  "r": "Solidarność",
+  "d": 1,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Quel électricien a dirigé Solidarność avant de devenir président de la Pologne en 1990 ?",
+  "r": "Lech Wałęsa",
+  "d": 1,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Comment appelle-t-on la révolution pacifique qui a mis fin au régime communiste tchécoslovaque en 1989 ?",
+  "r": "La révolution de Velours",
+  "d": 2,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Quel dramaturge dissident est élu président de la Tchécoslovaquie en décembre 1989 ?",
+  "r": "Václav Havel",
+  "d": 2,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Quel dictateur communiste a été exécuté avec son épouse le 25 décembre 1989 ?",
+  "r": "Nicolae Ceaușescu",
+  "d": 1,
+  "t": "Fin de la guerre froide"
+ },
+ {
+  "q": "Dans quelle capitale finlandaise a été signé en 1975 l'acte final de la Conférence sur la sécurité et la coopération en Europe ?",
+  "r": "Helsinki",
+  "d": 3,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel sénateur américain a mené une virulente chasse aux communistes au début des années 1950 ?",
+  "r": "Joseph McCarthy",
+  "d": 2,
+  "t": "États-Unis"
+ },
+ {
+  "q": "Quel couple américain fut exécuté en 1953 pour espionnage atomique au profit de l'URSS ?",
+  "r": "Les Rosenberg",
+  "d": 2,
+  "t": "États-Unis"
+ },
+ {
+  "q": "Quel scandale a provoqué la démission du président Richard Nixon en 1974 ?",
+  "r": "Le Watergate",
+  "d": 1,
+  "t": "États-Unis"
+ },
+ {
+  "q": "Quel président américain a effectué en 1972 un voyage historique en Chine populaire ?",
+  "r": "Richard Nixon",
+  "d": 2,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel sport a donné son nom à la « diplomatie » qui a amorcé le rapprochement sino-américain en 1971 ?",
+  "r": "Le ping-pong",
+  "d": 2,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel pasteur a prononcé le discours « I have a dream » à Washington en août 1963 ?",
+  "r": "Martin Luther King",
+  "d": 1,
+  "t": "Droits civiques"
+ },
+ {
+  "q": "Quelle couturière afro-américaine a refusé de céder sa place à un Blanc dans un bus de Montgomery en 1955 ?",
+  "r": "Rosa Parks",
+  "d": 1,
+  "t": "Droits civiques"
+ },
+ {
+  "q": "Dans quelle ville du Tennessee Martin Luther King a-t-il été assassiné en avril 1968 ?",
+  "r": "Memphis",
+  "d": 2,
+  "t": "Droits civiques"
+ },
+ {
+  "q": "Quel militant afro-américain, ancien porte-parole de la Nation of Islam, a été assassiné à New York en 1965 ?",
+  "r": "Malcolm X",
+  "d": 2,
+  "t": "Droits civiques"
+ },
+ {
+  "q": "Quel nom porte le régime de ségrégation raciale institué en Afrique du Sud à partir de 1948 ?",
+  "r": "L'apartheid",
+  "d": 1,
+  "t": "Afrique du Sud"
+ },
+ {
+  "q": "Quel prisonnier politique sud-africain a été libéré en février 1990 après 27 ans de détention ?",
+  "r": "Nelson Mandela",
+  "d": 1,
+  "t": "Afrique du Sud"
+ },
+ {
+  "q": "Sur quelle île au large du Cap Nelson Mandela a-t-il passé dix-huit ans en prison ?",
+  "r": "Robben Island",
+  "d": 2,
+  "t": "Afrique du Sud"
+ },
+ {
+  "q": "Quel président sud-africain a partagé le prix Nobel de la paix 1993 avec Nelson Mandela ?",
+  "r": "Frederik de Klerk",
+  "d": 2,
+  "t": "Afrique du Sud"
+ },
+ {
+  "q": "Quel township de Johannesburg a été le théâtre d'un soulèvement de lycéens noirs en juin 1976 ?",
+  "r": "Soweto",
+  "d": 2,
+  "t": "Afrique du Sud"
+ },
+ {
+  "q": "Comment appelle-t-on la guerre israélo-arabe de juin 1967, remportée très rapidement par Israël ?",
+  "r": "La guerre des Six Jours",
+  "d": 1,
+  "t": "Proche-Orient"
+ },
+ {
+  "q": "Quelle guerre israélo-arabe d'octobre 1973 tire son nom d'une fête religieuse juive ?",
+  "r": "La guerre du Kippour",
+  "d": 2,
+  "t": "Proche-Orient"
+ },
+ {
+  "q": "Dans quelle résidence présidentielle américaine l'Égypte et Israël ont-ils conclu des accords de paix en 1978 ?",
+  "r": "Camp David",
+  "d": 2,
+  "t": "Proche-Orient"
+ },
+ {
+  "q": "Quel président égyptien, artisan de la paix avec Israël, a été assassiné en octobre 1981 ?",
+  "r": "Anouar el-Sadate",
+  "d": 2,
+  "t": "Proche-Orient"
+ },
+ {
+  "q": "Quel Premier ministre israélien, signataire des accords d'Oslo, a été assassiné à Tel-Aviv en 1995 ?",
+  "r": "Yitzhak Rabin",
+  "d": 2,
+  "t": "Proche-Orient"
+ },
+ {
+  "q": "Quel religieux chiite a pris la tête de l'Iran après la révolution de 1979 ?",
+  "r": "L'ayatollah Khomeini",
+  "d": 1,
+  "t": "Moyen-Orient"
+ },
+ {
+  "q": "Dans quelle commune des Yvelines l'ayatollah Khomeini a-t-il vécu en exil avant son retour en Iran en 1979 ?",
+  "r": "Neauphle-le-Château",
+  "d": 3,
+  "t": "Moyen-Orient"
+ },
+ {
+  "q": "Quel pays l'URSS a-t-elle envahi en décembre 1979, s'engageant dans une guerre de près de dix ans ?",
+  "r": "L'Afghanistan",
+  "d": 1,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel émirat du golfe Persique l'Irak de Saddam Hussein a-t-il envahi en août 1990 ?",
+  "r": "Le Koweït",
+  "d": 1,
+  "t": "Moyen-Orient"
+ },
+ {
+  "q": "Quel nom de code désignait l'offensive de la coalition internationale contre l'Irak au début de 1991 ?",
+  "r": "Tempête du désert",
+  "d": 2,
+  "t": "Moyen-Orient"
+ },
+ {
+  "q": "Quelle organisation dirigée par Oussama ben Laden a commis les attentats du 11 septembre 2001 ?",
+  "r": "Al-Qaïda",
+  "d": 1,
+  "t": "Monde contemporain"
+ },
+ {
+  "q": "Sur quelle place de Pékin des manifestations étudiantes ont-elles été réprimées par l'armée en juin 1989 ?",
+  "r": "La place Tian'anmen",
+  "d": 1,
+  "t": "Chine"
+ },
+ {
+  "q": "Comment appelle-t-on le vaste mouvement de purges lancé par Mao Zedong en 1966 ?",
+  "r": "La Révolution culturelle",
+  "d": 1,
+  "t": "Chine"
+ },
+ {
+  "q": "Quelle campagne économique lancée par Mao en 1958 a provoqué une famine de plusieurs dizaines de millions de morts ?",
+  "r": "Le Grand Bond en avant",
+  "d": 2,
+  "t": "Chine"
+ },
+ {
+  "q": "Quel dirigeant chinois a engagé à partir de 1978 les grandes réformes économiques de la Chine ?",
+  "r": "Deng Xiaoping",
+  "d": 2,
+  "t": "Chine"
+ },
+ {
+  "q": "Quel territoire le Royaume-Uni a-t-il rétrocédé à la Chine le 1er juillet 1997 ?",
+  "r": "Hong Kong",
+  "d": 1,
+  "t": "Chine"
+ },
+ {
+  "q": "Quel pays d'Afrique des Grands Lacs a été le théâtre du génocide des Tutsi en 1994 ?",
+  "r": "Le Rwanda",
+  "d": 1,
+  "t": "Monde contemporain"
+ },
+ {
+  "q": "Quelle capitale a subi un siège de près de quatre ans pendant la guerre de Bosnie, de 1992 à 1996 ?",
+  "r": "Sarajevo",
+  "d": 1,
+  "t": "Guerres de Yougoslavie"
+ },
+ {
+  "q": "Dans quelle ville de Bosnie plus de 8 000 hommes et adolescents musulmans ont-ils été massacrés en juillet 1995 ?",
+  "r": "Srebrenica",
+  "d": 2,
+  "t": "Guerres de Yougoslavie"
+ },
+ {
+  "q": "Dans quel État américain ont été négociés en 1995 les accords de paix de Dayton sur la Bosnie ?",
+  "r": "L'Ohio",
+  "d": 3,
+  "t": "Guerres de Yougoslavie"
+ },
+ {
+  "q": "Près de quelle ville d'Ukraine soviétique une centrale nucléaire a-t-elle explosé en avril 1986 ?",
+  "r": "Tchernobyl",
+  "d": 1,
+  "t": "Catastrophes"
+ },
+ {
+  "q": "Dans quelle ville indienne une fuite de gaz toxique d'une usine chimique a-t-elle tué des milliers de personnes en 1984 ?",
+  "r": "Bhopal",
+  "d": 2,
+  "t": "Catastrophes"
+ },
+ {
+  "q": "Quelle Première ministre britannique, en poste de 1979 à 1990, était surnommée la « Dame de fer » ?",
+  "r": "Margaret Thatcher",
+  "d": 1,
+  "t": "Personnalités"
+ },
+ {
+  "q": "Quelle femme politique a dirigé le gouvernement indien de 1966 à 1977 puis de 1980 à 1984 ?",
+  "r": "Indira Gandhi",
+  "d": 2,
+  "t": "Personnalités"
+ },
+ {
+  "q": "Quelle Sri-Lankaise est devenue en 1960 la première femme au monde à diriger un gouvernement ?",
+  "r": "Sirimavo Bandaranaike",
+  "d": 3,
+  "t": "Personnalités"
+ },
+ {
+  "q": "Quel programme de défense antimissile de Ronald Reagan a été surnommé « guerre des étoiles » ?",
+  "r": "L'Initiative de défense stratégique",
+  "d": 3,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel traité international signé en 1968 vise à empêcher la diffusion des armes nucléaires ?",
+  "r": "Le traité de non-prolifération",
+  "d": 3,
+  "t": "Guerre froide"
+ },
+ {
+  "q": "Quel fut le premier satellite artificiel de l'histoire, lancé par l'URSS en octobre 1957 ?",
+  "r": "Spoutnik 1",
+  "d": 1,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle chienne soviétique fut, en novembre 1957, le premier animal placé en orbite autour de la Terre ?",
+  "r": "Laïka",
+  "d": 1,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel cosmonaute soviétique est devenu le premier homme dans l'espace le 12 avril 1961 ?",
+  "r": "Youri Gagarine",
+  "d": 1,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle cosmonaute soviétique est devenue en 1963 la première femme dans l'espace ?",
+  "r": "Valentina Terechkova",
+  "d": 2,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel cosmonaute soviétique a effectué la première sortie dans l'espace en mars 1965 ?",
+  "r": "Alexeï Leonov",
+  "d": 3,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel astronaute est devenu en 1962 le premier Américain à effectuer un vol en orbite autour de la Terre ?",
+  "r": "John Glenn",
+  "d": 3,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel astronaute américain a été le premier homme à poser le pied sur la Lune ?",
+  "r": "Neil Armstrong",
+  "d": 1,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle mission a permis les premiers pas de l'homme sur la Lune en juillet 1969 ?",
+  "r": "Apollo 11",
+  "d": 1,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel astronaute d'Apollo 11 est resté en orbite lunaire pendant que ses deux coéquipiers marchaient sur la Lune ?",
+  "r": "Michael Collins",
+  "d": 2,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle mission, en décembre 1972, fut la dernière du programme Apollo à se poser sur la Lune ?",
+  "r": "Apollo 17",
+  "d": 3,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Combien d'astronautes ont marché sur la Lune entre 1969 et 1972 ?",
+  "r": "Douze",
+  "d": 2,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel ingénieur d'origine allemande, concepteur des V2, a dirigé la mise au point de la fusée Saturn V ?",
+  "r": "Wernher von Braun",
+  "d": 2,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle mission de 1975 a vu, pour la première fois, l'amarrage d'un vaisseau américain et d'un vaisseau soviétique ?",
+  "r": "Apollo-Soyouz",
+  "d": 3,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle navette spatiale américaine a explosé peu après son décollage en janvier 1986 ?",
+  "r": "Challenger",
+  "d": 2,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle navette spatiale américaine s'est désintégrée lors de son retour dans l'atmosphère en février 2003 ?",
+  "r": "Columbia",
+  "d": 3,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quel spationaute est devenu en 1982 le premier Français à aller dans l'espace ?",
+  "r": "Jean-Loup Chrétien",
+  "d": 2,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle spationaute est devenue en 1996 la première Française à aller dans l'espace ?",
+  "r": "Claudie André-Deshays (Haigneré)",
+  "d": 3,
+  "t": "Conquête spatiale"
+ },
+ {
+  "q": "Quelle station spatiale soviétique puis russe, en service à partir de 1986, a été désorbitée en 2001 ?",
+  "r": "Mir",
+  "d": 2,
+  "t": "Conquête spatiale"
+ }
 ]

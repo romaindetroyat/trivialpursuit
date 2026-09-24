@@ -1,92 +1,542 @@
 [
-  {"q": "Quel pays l'Allemagne envahit-elle le 1er septembre 1939, déclenchant la Seconde Guerre mondiale ?", "r": "La Pologne", "d": 1, "t": "Seconde Guerre mondiale"},
-  {"q": "Quel pacte de non-agression l'Allemagne nazie et l'URSS signent-elles en août 1939 ?", "r": "Le pacte germano-soviétique", "d": 1, "t": "Seconde Guerre mondiale"},
-  {"q": "Comment appelle-t-on la période quasi sans combats sur le front ouest entre septembre 1939 et mai 1940 ?", "r": "La drôle de guerre", "d": 1, "t": "Seconde Guerre mondiale"},
-  {"q": "De quel port du Nord plus de 300 000 soldats alliés furent-ils évacués vers l'Angleterre en mai-juin 1940 ?", "r": "Dunkerque", "d": 1, "t": "Campagne de France"},
-  {"q": "Quel nom de code désignait l'évacuation des troupes alliées de Dunkerque en 1940 ?", "r": "Opération Dynamo", "d": 3, "t": "Campagne de France"},
-  {"q": "Par quel massif forestier les divisions blindées allemandes ont-elles percé le front français en mai 1940 ?", "r": "Les Ardennes", "d": 2, "t": "Campagne de France"},
-  {"q": "Depuis les studios de quelle radio le général de Gaulle a-t-il lancé son appel du 18 juin 1940 ?", "r": "La BBC", "d": 1, "t": "France libre"},
-  {"q": "Dans quelle ville thermale de l'Allier s'installe le gouvernement du maréchal Pétain en 1940 ?", "r": "Vichy", "d": 1, "t": "Occupation"},
-  {"q": "Quelle devise remplace « Liberté, Égalité, Fraternité » sous le régime de Vichy ?", "r": "Travail, Famille, Patrie", "d": 1, "t": "Occupation"},
-  {"q": "Dans quelle petite ville du Loir-et-Cher Pétain a-t-il rencontré Hitler en octobre 1940 ?", "r": "Montoire-sur-le-Loir", "d": 2, "t": "Occupation"},
-  {"q": "Dans quelle rade algérienne la flotte britannique a-t-elle bombardé des navires français en juillet 1940 ?", "r": "Mers el-Kébir", "d": 2, "t": "Seconde Guerre mondiale"},
-  {"q": "Quelle bataille aérienne de l'été et de l'automne 1940 a opposé la RAF à la Luftwaffe ?", "r": "La bataille d'Angleterre", "d": 1, "t": "Seconde Guerre mondiale"},
-  {"q": "Quel Premier ministre a promis aux Britanniques « du sang, de la peine, des larmes et de la sueur » en mai 1940 ?", "r": "Winston Churchill", "d": 1, "t": "Seconde Guerre mondiale"},
-  {"q": "Quel nom de code désignait l'invasion de l'URSS par l'Allemagne en juin 1941 ?", "r": "Opération Barbarossa", "d": 1, "t": "Front de l'Est"},
-  {"q": "Quelle ville soviétique a subi un siège allemand de près de 900 jours entre 1941 et 1944 ?", "r": "Leningrad", "d": 2, "t": "Front de l'Est"},
-  {"q": "Quelle bataille de l'hiver 1942-1943, sur la Volga, marque le tournant de la guerre à l'Est ?", "r": "Stalingrad", "d": 1, "t": "Front de l'Est"},
-  {"q": "Quel maréchal allemand a capitulé à Stalingrad en février 1943 ?", "r": "Friedrich Paulus", "d": 3, "t": "Front de l'Est"},
-  {"q": "Quelle bataille de juillet 1943 en Russie est souvent présentée comme le plus grand affrontement de chars de l'histoire ?", "r": "La bataille de Koursk", "d": 3, "t": "Front de l'Est"},
-  {"q": "Quelle base navale américaine est attaquée par surprise par l'aviation japonaise le 7 décembre 1941 ?", "r": "Pearl Harbor", "d": 1, "t": "Guerre du Pacifique"},
-  {"q": "Quelle bataille aéronavale de juin 1942, autour d'un atoll du Pacifique, a vu le Japon perdre quatre porte-avions ?", "r": "La bataille de Midway", "d": 2, "t": "Guerre du Pacifique"},
-  {"q": "Quel général américain a déclaré « I shall return » en quittant les Philippines en 1942 ?", "r": "Douglas MacArthur", "d": 2, "t": "Guerre du Pacifique"},
-  {"q": "Quelle île volcanique japonaise a été le théâtre, en 1945, d'une célèbre photo de marines hissant le drapeau américain ?", "r": "Iwo Jima", "d": 2, "t": "Guerre du Pacifique"},
-  {"q": "Quel général allemand, commandant de l'Afrikakorps, était surnommé le « Renard du désert » ?", "r": "Erwin Rommel", "d": 1, "t": "Guerre du désert"},
-  {"q": "Quelle bataille égyptienne de l'automne 1942 a vu la victoire de Montgomery sur Rommel ?", "r": "El-Alamein", "d": 2, "t": "Guerre du désert"},
-  {"q": "Quelle position du désert libyen les Français libres du général Kœnig ont-ils défendue en mai-juin 1942 ?", "r": "Bir Hakeim", "d": 2, "t": "France libre"},
-  {"q": "Dans quelle oasis libyenne Leclerc a-t-il juré en 1941 de ne déposer les armes qu'une fois le drapeau flottant sur Strasbourg ?", "r": "Koufra", "d": 2, "t": "France libre"},
-  {"q": "Quel nom de code désignait le débarquement anglo-américain en Afrique du Nord en novembre 1942 ?", "r": "Opération Torch", "d": 3, "t": "Seconde Guerre mondiale"},
-  {"q": "Dans quelle ville marocaine Roosevelt et Churchill se sont-ils réunis en janvier 1943 ?", "r": "Casablanca", "d": 3, "t": "Seconde Guerre mondiale"},
-  {"q": "Quel préfet, unificateur de la Résistance intérieure, fut arrêté à Caluire, près de Lyon, en juin 1943 ?", "r": "Jean Moulin", "d": 1, "t": "Résistance"},
-  {"q": "Quel organisme, fondé en 1943, rassemblait les mouvements, partis et syndicats de la Résistance ?", "r": "Le Conseil national de la Résistance", "d": 2, "t": "Résistance"},
-  {"q": "Quel chef de la Gestapo de Lyon a été jugé et condamné en France en 1987 ?", "r": "Klaus Barbie", "d": 2, "t": "Résistance"},
-  {"q": "Quelle résistante a organisé en 1943 un coup de main pour libérer son mari Raymond, détenu par la Gestapo à Lyon ?", "r": "Lucie Aubrac", "d": 2, "t": "Résistance"},
-  {"q": "Quel résistant d'origine arménienne, fusillé en 1944, est la figure centrale de l'« Affiche rouge » ?", "r": "Missak Manouchian", "d": 2, "t": "Résistance"},
-  {"q": "Quel chant, écrit en 1943 par Joseph Kessel et Maurice Druon, est devenu l'hymne de la Résistance ?", "r": "Le Chant des partisans", "d": 1, "t": "Résistance"},
-  {"q": "Quel poème de Paul Éluard, publié en 1942, fut parachuté par la RAF au-dessus de la France occupée ?", "r": "Liberté", "d": 3, "t": "Résistance"},
-  {"q": "Quel massif entre Drôme et Isère abritait un vaste maquis anéanti par les troupes allemandes en juillet 1944 ?", "r": "Le Vercors", "d": 2, "t": "Résistance"},
-  {"q": "Que signifie le sigle STO, dispositif qui envoya des centaines de milliers de Français travailler en Allemagne ?", "r": "Service du travail obligatoire", "d": 2, "t": "Occupation"},
-  {"q": "Dans quel vélodrome parisien des milliers de Juifs furent-ils enfermés lors de la grande rafle de juillet 1942 ?", "r": "Le Vélodrome d'Hiver", "d": 1, "t": "Shoah"},
-  {"q": "Quel camp de la banlieue nord de Paris servit de principal lieu de transit vers les camps d'extermination ?", "r": "Drancy", "d": 2, "t": "Shoah"},
-  {"q": "Quel complexe de camps situé en Pologne est devenu le symbole de l'extermination des Juifs d'Europe ?", "r": "Auschwitz-Birkenau", "d": 1, "t": "Shoah"},
-  {"q": "Quelle adolescente juive a tenu un journal durant les deux ans où elle vécut cachée à Amsterdam ?", "r": "Anne Frank", "d": 1, "t": "Shoah"},
-  {"q": "Quelle conférence de hauts responsables nazis, tenue près de Berlin en janvier 1942, a organisé la « solution finale » ?", "r": "La conférence de Wannsee", "d": 3, "t": "Shoah"},
-  {"q": "Quel ghetto s'est soulevé contre les nazis en avril 1943 ?", "r": "Le ghetto de Varsovie", "d": 2, "t": "Shoah"},
-  {"q": "Quel village de Haute-Vienne a été détruit et ses habitants massacrés par une division SS le 10 juin 1944 ?", "r": "Oradour-sur-Glane", "d": 1, "t": "Occupation"},
-  {"q": "Quel nom de code désignait l'ensemble de l'opération de débarquement en Normandie en 1944 ?", "r": "Opération Overlord", "d": 2, "t": "Débarquement"},
-  {"q": "Quelle plage du débarquement, attribuée aux Américains, fut la plus meurtrière le 6 juin 1944 ?", "r": "Omaha Beach", "d": 1, "t": "Débarquement"},
-  {"q": "Sur quelle pointe normande des Rangers américains ont-ils escaladé les falaises au matin du 6 juin 1944 ?", "r": "La pointe du Hoc", "d": 2, "t": "Débarquement"},
-  {"q": "Dans quel village de la Manche un parachutiste américain est-il resté accroché au clocher de l'église le 6 juin 1944 ?", "r": "Sainte-Mère-Église", "d": 2, "t": "Débarquement"},
-  {"q": "Quel nom de code désignait le débarquement allié en Provence en août 1944 ?", "r": "Opération Dragoon", "d": 3, "t": "Débarquement"},
-  {"q": "Quelle division blindée française, commandée par Leclerc, est entrée dans Paris en août 1944 ?", "r": "La 2e DB", "d": 2, "t": "Libération"},
-  {"q": "Quel général allemand, gouverneur militaire de Paris, a signé la reddition de la ville le 25 août 1944 ?", "r": "Dietrich von Choltitz", "d": 3, "t": "Libération"},
-  {"q": "Dans quelle ville belge assiégée le général américain McAuliffe répondit-il « Nuts ! » à une demande de reddition en 1944 ?", "r": "Bastogne", "d": 3, "t": "Seconde Guerre mondiale"},
-  {"q": "Dans quelle station balnéaire de Crimée Roosevelt, Churchill et Staline se sont-ils réunis en février 1945 ?", "r": "Yalta", "d": 1, "t": "Fin de la guerre"},
-  {"q": "Dans quelle ville française l'Allemagne a-t-elle signé une première capitulation sans condition le 7 mai 1945 ?", "r": "Reims", "d": 2, "t": "Fin de la guerre"},
-  {"q": "Quelle ville japonaise a été détruite par la première bombe atomique utilisée en temps de guerre, le 6 août 1945 ?", "r": "Hiroshima", "d": 1, "t": "Fin de la guerre"},
-  {"q": "Quel était le nom du bombardier B-29 qui largua la bombe atomique sur Hiroshima ?", "r": "Enola Gay", "d": 2, "t": "Fin de la guerre"},
-  {"q": "Quel physicien a dirigé le laboratoire de Los Alamos où fut conçue la bombe atomique ?", "r": "Robert Oppenheimer", "d": 2, "t": "Fin de la guerre"},
-  {"q": "À bord de quel cuirassé américain la capitulation du Japon a-t-elle été signée en baie de Tokyo ?", "r": "L'USS Missouri", "d": 3, "t": "Fin de la guerre"},
-  {"q": "Dans quelle ville allemande les principaux dignitaires nazis ont-ils été jugés en 1945-1946 ?", "r": "Nuremberg", "d": 1, "t": "Fin de la guerre"},
-  {"q": "Comment s'appelait la machine de chiffrement allemande dont les messages furent décryptés à Bletchley Park ?", "r": "Enigma", "d": 1, "t": "Renseignement"},
-  {"q": "Quel mathématicien britannique a joué un rôle clé dans le décryptage des codes allemands à Bletchley Park ?", "r": "Alan Turing", "d": 1, "t": "Renseignement"},
-  {"q": "Quelle bataille de 1954 marque la défaite française décisive en Indochine ?", "r": "Diên Biên Phu", "d": 1, "t": "Décolonisation"},
-  {"q": "Quel président du Conseil français a négocié en 1954 les accords mettant fin à la guerre d'Indochine ?", "r": "Pierre Mendès France", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel dirigeant communiste a proclamé l'indépendance du Vietnam à Hanoï le 2 septembre 1945 ?", "r": "Hô Chi Minh", "d": 1, "t": "Décolonisation"},
-  {"q": "Comment appelle-t-on la série d'attentats du 1er novembre 1954 qui marque le début de la guerre d'Algérie ?", "r": "La Toussaint rouge", "d": 2, "t": "Guerre d'Algérie"},
-  {"q": "Quel mouvement indépendantiste algérien a déclenché l'insurrection de novembre 1954 ?", "r": "Le FLN", "d": 1, "t": "Guerre d'Algérie"},
-  {"q": "Quels accords, signés en mars 1962 dans une ville de Haute-Savoie, ont mis fin à la guerre d'Algérie ?", "r": "Les accords d'Évian", "d": 1, "t": "Guerre d'Algérie"},
-  {"q": "Comment appelait-on les supplétifs musulmans engagés aux côtés de l'armée française pendant la guerre d'Algérie ?", "r": "Les harkis", "d": 2, "t": "Guerre d'Algérie"},
-  {"q": "Quelle organisation armée clandestine luttait par la violence contre l'indépendance de l'Algérie à partir de 1961 ?", "r": "L'OAS", "d": 2, "t": "Guerre d'Algérie"},
-  {"q": "Combien de généraux ont mené le putsch d'Alger d'avril 1961, qualifié par de Gaulle de « quarteron » ?", "r": "Quatre", "d": 2, "t": "Guerre d'Algérie"},
-  {"q": "Quel général commandait la division parachutiste lors de la bataille d'Alger en 1957 ?", "r": "Jacques Massu", "d": 3, "t": "Guerre d'Algérie"},
-  {"q": "En quelle année le Maroc et la Tunisie ont-ils obtenu leur indépendance ?", "r": "1956", "d": 2, "t": "Décolonisation"},
-  {"q": "Qui fut le premier président de la République tunisienne, de 1957 à 1987 ?", "r": "Habib Bourguiba", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel pays accède à l'indépendance le 15 août 1947, un jour après le Pakistan ?", "r": "L'Inde", "d": 1, "t": "Décolonisation"},
-  {"q": "Qui fut le premier chef du gouvernement de l'Inde indépendante, de 1947 à 1964 ?", "r": "Jawaharlal Nehru", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel homme politique musulman est considéré comme le fondateur du Pakistan ?", "r": "Muhammad Ali Jinnah", "d": 3, "t": "Décolonisation"},
-  {"q": "Quel dernier vice-roi des Indes a supervisé le partage de l'Inde britannique en 1947 ?", "r": "Lord Mountbatten", "d": 3, "t": "Décolonisation"},
-  {"q": "Dans quelle ville indonésienne s'est tenue en 1955 la première grande conférence des pays afro-asiatiques ?", "r": "Bandung", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel dirigeant a proclamé l'indépendance de l'Indonésie en 1945 et en devint le premier président ?", "r": "Sukarno", "d": 3, "t": "Décolonisation"},
-  {"q": "Quel président égyptien a nationalisé le canal de Suez en juillet 1956 ?", "r": "Gamal Abdel Nasser", "d": 1, "t": "Décolonisation"},
-  {"q": "Quel nom portait le Ghana lorsqu'il était une colonie britannique ?", "r": "La Gold Coast (Côte-de-l'Or)", "d": 3, "t": "Décolonisation"},
-  {"q": "Quel leader indépendantiste est devenu en 1957 le premier dirigeant du Ghana ?", "r": "Kwame Nkrumah", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel poète, chantre de la négritude, fut le premier président du Sénégal indépendant ?", "r": "Léopold Sédar Senghor", "d": 1, "t": "Décolonisation"},
-  {"q": "Quel Premier ministre du Congo indépendant a été assassiné au Katanga en janvier 1961 ?", "r": "Patrice Lumumba", "d": 2, "t": "Décolonisation"},
-  {"q": "Qui a présidé la Côte d'Ivoire de son indépendance en 1960 jusqu'à sa mort en 1993 ?", "r": "Félix Houphouët-Boigny", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel pays européen a mené des guerres coloniales en Angola et au Mozambique jusqu'en 1974 ?", "r": "Le Portugal", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel est le nom du soulèvement armé contre la colonisation britannique au Kenya dans les années 1950 ?", "r": "La révolte des Mau Mau", "d": 3, "t": "Décolonisation"},
-  {"q": "Quel archipel de l'océan Indien s'est déclaré indépendant de la France en 1975, à l'exception de Mayotte ?", "r": "Les Comores", "d": 2, "t": "Décolonisation"},
-  {"q": "Quel territoire de la Corne de l'Afrique fut en 1977 la dernière colonie française du continent à devenir indépendante ?", "r": "Djibouti", "d": 3, "t": "Décolonisation"},
-  {"q": "Quel État est proclamé à Tel-Aviv par David Ben Gourion le 14 mai 1948 ?", "r": "Israël", "d": 1, "t": "Proche-Orient"}
+ {
+  "q": "Quel pays l'Allemagne envahit-elle le 1er septembre 1939, déclenchant la Seconde Guerre mondiale ?",
+  "r": "La Pologne",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Quel pacte de non-agression l'Allemagne nazie et l'URSS signent-elles en août 1939 ?",
+  "r": "Le pacte germano-soviétique",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Comment appelle-t-on la période quasi sans combats sur le front ouest entre septembre 1939 et mai 1940 ?",
+  "r": "La drôle de guerre",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "De quel port du Nord plus de 300 000 soldats alliés furent-ils évacués vers l'Angleterre en mai-juin 1940 ?",
+  "r": "Dunkerque",
+  "d": 1,
+  "t": "Campagne de France"
+ },
+ {
+  "q": "Quel nom de code désignait l'évacuation des troupes alliées de Dunkerque en 1940 ?",
+  "r": "Opération Dynamo",
+  "d": 3,
+  "t": "Campagne de France"
+ },
+ {
+  "q": "Par quel massif forestier les divisions blindées allemandes ont-elles percé le front français en mai 1940 ?",
+  "r": "Les Ardennes",
+  "d": 2,
+  "t": "Campagne de France"
+ },
+ {
+  "q": "Depuis les studios de quelle radio le général de Gaulle a-t-il lancé son appel du 18 juin 1940 ?",
+  "r": "La BBC",
+  "d": 1,
+  "t": "France libre"
+ },
+ {
+  "q": "Dans quelle ville thermale de l'Allier s'installe le gouvernement du maréchal Pétain en 1940 ?",
+  "r": "Vichy",
+  "d": 1,
+  "t": "Occupation"
+ },
+ {
+  "q": "Quelle devise remplace « Liberté, Égalité, Fraternité » sous le régime de Vichy ?",
+  "r": "Travail, Famille, Patrie",
+  "d": 1,
+  "t": "Occupation"
+ },
+ {
+  "q": "Dans quelle petite ville du Loir-et-Cher Pétain a-t-il rencontré Hitler en octobre 1940 ?",
+  "r": "Montoire-sur-le-Loir",
+  "d": 2,
+  "t": "Occupation"
+ },
+ {
+  "q": "Dans quelle rade algérienne la flotte britannique a-t-elle bombardé des navires français en juillet 1940 ?",
+  "r": "Mers el-Kébir",
+  "d": 2,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Quelle bataille aérienne de l'été et de l'automne 1940 a opposé la RAF à la Luftwaffe ?",
+  "r": "La bataille d'Angleterre",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Quel Premier ministre a promis aux Britanniques « du sang, de la peine, des larmes et de la sueur » en mai 1940 ?",
+  "r": "Winston Churchill",
+  "d": 1,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Quel nom de code désignait l'invasion de l'URSS par l'Allemagne en juin 1941 ?",
+  "r": "Opération Barbarossa",
+  "d": 1,
+  "t": "Front de l'Est"
+ },
+ {
+  "q": "Quelle ville soviétique a subi un siège allemand de près de 900 jours entre 1941 et 1944 ?",
+  "r": "Leningrad",
+  "d": 2,
+  "t": "Front de l'Est"
+ },
+ {
+  "q": "Quelle bataille de l'hiver 1942-1943, sur la Volga, marque le tournant de la guerre à l'Est ?",
+  "r": "Stalingrad",
+  "d": 1,
+  "t": "Front de l'Est"
+ },
+ {
+  "q": "Quel maréchal allemand a capitulé à Stalingrad en février 1943 ?",
+  "r": "Friedrich Paulus",
+  "d": 3,
+  "t": "Front de l'Est"
+ },
+ {
+  "q": "Quelle bataille de juillet 1943 en Russie est souvent présentée comme le plus grand affrontement de chars de l'histoire ?",
+  "r": "La bataille de Koursk",
+  "d": 3,
+  "t": "Front de l'Est"
+ },
+ {
+  "q": "Quelle base navale américaine est attaquée par surprise par l'aviation japonaise le 7 décembre 1941 ?",
+  "r": "Pearl Harbor",
+  "d": 1,
+  "t": "Guerre du Pacifique"
+ },
+ {
+  "q": "Quelle bataille aéronavale de juin 1942, autour d'un atoll du Pacifique, a vu le Japon perdre quatre porte-avions ?",
+  "r": "La bataille de Midway",
+  "d": 2,
+  "t": "Guerre du Pacifique"
+ },
+ {
+  "q": "Quel général américain a déclaré « I shall return » en quittant les Philippines en 1942 ?",
+  "r": "Douglas MacArthur",
+  "d": 2,
+  "t": "Guerre du Pacifique"
+ },
+ {
+  "q": "Quelle île volcanique japonaise a été le théâtre, en 1945, d'une célèbre photo de marines hissant le drapeau américain ?",
+  "r": "Iwo Jima",
+  "d": 2,
+  "t": "Guerre du Pacifique"
+ },
+ {
+  "q": "Quel général allemand, commandant de l'Afrikakorps, était surnommé le « Renard du désert » ?",
+  "r": "Erwin Rommel",
+  "d": 1,
+  "t": "Guerre du désert"
+ },
+ {
+  "q": "Quelle bataille égyptienne de l'automne 1942 a vu la victoire de Montgomery sur Rommel ?",
+  "r": "El-Alamein",
+  "d": 2,
+  "t": "Guerre du désert"
+ },
+ {
+  "q": "Quelle position du désert libyen les Français libres du général Kœnig ont-ils défendue en mai-juin 1942 ?",
+  "r": "Bir Hakeim",
+  "d": 2,
+  "t": "France libre"
+ },
+ {
+  "q": "Dans quelle oasis libyenne Leclerc a-t-il juré en 1941 de ne déposer les armes qu'une fois le drapeau flottant sur Strasbourg ?",
+  "r": "Koufra",
+  "d": 2,
+  "t": "France libre"
+ },
+ {
+  "q": "Quel nom de code désignait le débarquement anglo-américain en Afrique du Nord en novembre 1942 ?",
+  "r": "Opération Torch",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Dans quelle ville marocaine Roosevelt et Churchill se sont-ils réunis en janvier 1943 ?",
+  "r": "Casablanca",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Quel préfet, unificateur de la Résistance intérieure, fut arrêté à Caluire, près de Lyon, en juin 1943 ?",
+  "r": "Jean Moulin",
+  "d": 1,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quel organisme, fondé en 1943, rassemblait les mouvements, partis et syndicats de la Résistance ?",
+  "r": "Le Conseil national de la Résistance",
+  "d": 2,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quel chef de la Gestapo de Lyon a été jugé et condamné en France en 1987 ?",
+  "r": "Klaus Barbie",
+  "d": 2,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quelle résistante a organisé en 1943 un coup de main pour libérer son mari Raymond, détenu par la Gestapo à Lyon ?",
+  "r": "Lucie Aubrac",
+  "d": 2,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quel résistant d'origine arménienne, fusillé en 1944, est la figure centrale de l'« Affiche rouge » ?",
+  "r": "Missak Manouchian",
+  "d": 2,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quel chant, dont les paroles furent écrites en 1943 par Joseph Kessel et Maurice Druon, est devenu l'hymne de la Résistance ?",
+  "r": "Le Chant des partisans",
+  "d": 1,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quel poème de Paul Éluard, publié en 1942, fut parachuté par la RAF au-dessus de la France occupée ?",
+  "r": "Liberté",
+  "d": 3,
+  "t": "Résistance"
+ },
+ {
+  "q": "Quel massif entre Drôme et Isère abritait un vaste maquis anéanti par les troupes allemandes en juillet 1944 ?",
+  "r": "Le Vercors",
+  "d": 2,
+  "t": "Résistance"
+ },
+ {
+  "q": "Que signifie le sigle STO, dispositif qui envoya des centaines de milliers de Français travailler en Allemagne ?",
+  "r": "Service du travail obligatoire",
+  "d": 2,
+  "t": "Occupation"
+ },
+ {
+  "q": "Dans quel vélodrome parisien des milliers de Juifs furent-ils enfermés lors de la grande rafle de juillet 1942 ?",
+  "r": "Le Vélodrome d'Hiver",
+  "d": 1,
+  "t": "Shoah"
+ },
+ {
+  "q": "Quel camp de la banlieue nord de Paris servit de principal lieu de transit vers les camps d'extermination ?",
+  "r": "Drancy",
+  "d": 2,
+  "t": "Shoah"
+ },
+ {
+  "q": "Quel complexe de camps situé en Pologne est devenu le symbole de l'extermination des Juifs d'Europe ?",
+  "r": "Auschwitz-Birkenau",
+  "d": 1,
+  "t": "Shoah"
+ },
+ {
+  "q": "Quelle adolescente juive a tenu un journal durant les deux ans où elle vécut cachée à Amsterdam ?",
+  "r": "Anne Frank",
+  "d": 1,
+  "t": "Shoah"
+ },
+ {
+  "q": "Quelle conférence de hauts responsables nazis, tenue près de Berlin en janvier 1942, a organisé la « solution finale » ?",
+  "r": "La conférence de Wannsee",
+  "d": 3,
+  "t": "Shoah"
+ },
+ {
+  "q": "Quel ghetto s'est soulevé contre les nazis en avril 1943 ?",
+  "r": "Le ghetto de Varsovie",
+  "d": 2,
+  "t": "Shoah"
+ },
+ {
+  "q": "Quel village de Haute-Vienne a été détruit et ses habitants massacrés par une division SS le 10 juin 1944 ?",
+  "r": "Oradour-sur-Glane",
+  "d": 1,
+  "t": "Occupation"
+ },
+ {
+  "q": "Quel nom de code désignait l'ensemble de l'opération de débarquement en Normandie en 1944 ?",
+  "r": "Opération Overlord",
+  "d": 2,
+  "t": "Débarquement"
+ },
+ {
+  "q": "Quelle plage du débarquement, attribuée aux Américains, fut la plus meurtrière le 6 juin 1944 ?",
+  "r": "Omaha Beach",
+  "d": 1,
+  "t": "Débarquement"
+ },
+ {
+  "q": "Sur quelle pointe normande des Rangers américains ont-ils escaladé les falaises au matin du 6 juin 1944 ?",
+  "r": "La pointe du Hoc",
+  "d": 2,
+  "t": "Débarquement"
+ },
+ {
+  "q": "Dans quel village de la Manche un parachutiste américain est-il resté accroché au clocher de l'église le 6 juin 1944 ?",
+  "r": "Sainte-Mère-Église",
+  "d": 2,
+  "t": "Débarquement"
+ },
+ {
+  "q": "Quel nom de code désignait le débarquement allié en Provence en août 1944 ?",
+  "r": "Opération Dragoon",
+  "d": 3,
+  "t": "Débarquement"
+ },
+ {
+  "q": "Quelle division blindée française, commandée par Leclerc, est entrée dans Paris en août 1944 ?",
+  "r": "La 2e DB",
+  "d": 2,
+  "t": "Libération"
+ },
+ {
+  "q": "Quel général allemand, gouverneur militaire de Paris, a signé la reddition de la ville le 25 août 1944 ?",
+  "r": "Dietrich von Choltitz",
+  "d": 3,
+  "t": "Libération"
+ },
+ {
+  "q": "Dans quelle ville belge assiégée le général américain McAuliffe répondit-il « Nuts ! » à une demande de reddition en 1944 ?",
+  "r": "Bastogne",
+  "d": 3,
+  "t": "Seconde Guerre mondiale"
+ },
+ {
+  "q": "Dans quelle station balnéaire de Crimée Roosevelt, Churchill et Staline se sont-ils réunis en février 1945 ?",
+  "r": "Yalta",
+  "d": 1,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "Dans quelle ville française l'Allemagne a-t-elle signé une première capitulation sans condition le 7 mai 1945 ?",
+  "r": "Reims",
+  "d": 2,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "Quelle ville japonaise a été détruite par la première bombe atomique utilisée en temps de guerre, le 6 août 1945 ?",
+  "r": "Hiroshima",
+  "d": 1,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "Quel était le nom du bombardier B-29 qui largua la bombe atomique sur Hiroshima ?",
+  "r": "Enola Gay",
+  "d": 2,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "Quel physicien a dirigé le laboratoire de Los Alamos où fut conçue la bombe atomique ?",
+  "r": "Robert Oppenheimer",
+  "d": 2,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "À bord de quel cuirassé américain la capitulation du Japon a-t-elle été signée en baie de Tokyo ?",
+  "r": "L'USS Missouri",
+  "d": 3,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "Dans quelle ville allemande les principaux dignitaires nazis ont-ils été jugés en 1945-1946 ?",
+  "r": "Nuremberg",
+  "d": 1,
+  "t": "Fin de la guerre"
+ },
+ {
+  "q": "Comment s'appelait la machine de chiffrement allemande dont les messages furent décryptés à Bletchley Park ?",
+  "r": "Enigma",
+  "d": 1,
+  "t": "Renseignement"
+ },
+ {
+  "q": "Quel mathématicien britannique a joué un rôle clé dans le décryptage des codes allemands à Bletchley Park ?",
+  "r": "Alan Turing",
+  "d": 1,
+  "t": "Renseignement"
+ },
+ {
+  "q": "Quelle bataille de 1954 marque la défaite française décisive en Indochine ?",
+  "r": "Diên Biên Phu",
+  "d": 1,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel président du Conseil français a négocié en 1954 les accords mettant fin à la guerre d'Indochine ?",
+  "r": "Pierre Mendès France",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel dirigeant communiste a proclamé l'indépendance du Vietnam à Hanoï le 2 septembre 1945 ?",
+  "r": "Hô Chi Minh",
+  "d": 1,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Comment appelle-t-on la série d'attentats du 1er novembre 1954 qui marque le début de la guerre d'Algérie ?",
+  "r": "La Toussaint rouge",
+  "d": 2,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "Quel mouvement indépendantiste algérien a déclenché l'insurrection de novembre 1954 ?",
+  "r": "Le FLN",
+  "d": 1,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "Quels accords, signés en mars 1962 dans une ville de Haute-Savoie, ont mis fin à la guerre d'Algérie ?",
+  "r": "Les accords d'Évian",
+  "d": 1,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "Comment appelait-on les supplétifs musulmans engagés aux côtés de l'armée française pendant la guerre d'Algérie ?",
+  "r": "Les harkis",
+  "d": 2,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "Quelle organisation armée clandestine luttait par la violence contre l'indépendance de l'Algérie à partir de 1961 ?",
+  "r": "L'OAS",
+  "d": 2,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "Combien de généraux ont mené le putsch d'Alger d'avril 1961, qualifié par de Gaulle de « quarteron » ?",
+  "r": "Quatre",
+  "d": 2,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "Quel général commandait la division parachutiste lors de la bataille d'Alger en 1957 ?",
+  "r": "Jacques Massu",
+  "d": 3,
+  "t": "Guerre d'Algérie"
+ },
+ {
+  "q": "En quelle année le Maroc et la Tunisie ont-ils obtenu leur indépendance ?",
+  "r": "1956",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Qui fut le premier président de la République tunisienne, de 1957 à 1987 ?",
+  "r": "Habib Bourguiba",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel pays accède à l'indépendance le 15 août 1947, un jour après le Pakistan ?",
+  "r": "L'Inde",
+  "d": 1,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Qui fut le premier chef du gouvernement de l'Inde indépendante, de 1947 à 1964 ?",
+  "r": "Jawaharlal Nehru",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel homme politique musulman est considéré comme le fondateur du Pakistan ?",
+  "r": "Muhammad Ali Jinnah",
+  "d": 3,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel dernier vice-roi des Indes a supervisé le partage de l'Inde britannique en 1947 ?",
+  "r": "Lord Mountbatten",
+  "d": 3,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Dans quelle ville indonésienne s'est tenue en 1955 la première grande conférence des pays afro-asiatiques ?",
+  "r": "Bandung",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel dirigeant a proclamé l'indépendance de l'Indonésie en 1945 et en devint le premier président ?",
+  "r": "Sukarno",
+  "d": 3,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel président égyptien a nationalisé le canal de Suez en juillet 1956 ?",
+  "r": "Gamal Abdel Nasser",
+  "d": 1,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel nom portait le Ghana lorsqu'il était une colonie britannique ?",
+  "r": "La Gold Coast (Côte-de-l'Or)",
+  "d": 3,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel leader indépendantiste est devenu en 1957 le premier dirigeant du Ghana ?",
+  "r": "Kwame Nkrumah",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel poète, chantre de la négritude, fut le premier président du Sénégal indépendant ?",
+  "r": "Léopold Sédar Senghor",
+  "d": 1,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel Premier ministre du Congo indépendant a été assassiné au Katanga en janvier 1961 ?",
+  "r": "Patrice Lumumba",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Qui a présidé la Côte d'Ivoire de son indépendance en 1960 jusqu'à sa mort en 1993 ?",
+  "r": "Félix Houphouët-Boigny",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel pays européen a mené des guerres coloniales en Angola et au Mozambique jusqu'en 1974 ?",
+  "r": "Le Portugal",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel est le nom du soulèvement armé contre la colonisation britannique au Kenya dans les années 1950 ?",
+  "r": "La révolte des Mau Mau",
+  "d": 3,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel archipel de l'océan Indien s'est déclaré indépendant de la France en 1975, à l'exception de Mayotte ?",
+  "r": "Les Comores",
+  "d": 2,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel territoire de la Corne de l'Afrique fut en 1977 la dernière colonie française du continent à devenir indépendante ?",
+  "r": "Djibouti",
+  "d": 3,
+  "t": "Décolonisation"
+ },
+ {
+  "q": "Quel État est proclamé à Tel-Aviv par David Ben Gourion le 14 mai 1948 ?",
+  "r": "Israël",
+  "d": 1,
+  "t": "Proche-Orient"
+ }
 ]

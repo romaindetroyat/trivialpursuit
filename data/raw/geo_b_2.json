@@ -102,7 +102,7 @@
   "t": "Langues"
  },
  {
-  "q": "Quelle étroite bande de dunes, classée à l'Unesco, est partagée entre la Lituanie et l'enclave russe de Kaliningrad ?",
+  "q": "Quelle étroite bande de dunes, classée à l'Unesco, est partagée entre la Lituanie et l'exclave russe de Kaliningrad ?",
   "r": "L'isthme de Courlande",
   "d": 3,
   "t": "Sites célèbres"
@@ -168,7 +168,7 @@
   "t": "Capitales"
  },
  {
-  "q": "Quelle chaîne de montagnes en arc s'étend de la Slovaquie à la Roumanie ?",
+  "q": "Quelle chaîne de montagnes en arc traverse notamment la Slovaquie, l'Ukraine et la Roumanie ?",
   "r": "Les Carpates",
   "d": 1,
   "t": "Montagnes"
@@ -480,7 +480,7 @@
   "t": "Territoires"
  },
  {
-  "q": "Quel fleuve traverse Kiev ?",
+  "q": "Quel fleuve traverse Kiev (Kyiv) ?",
   "r": "Le Dniepr",
   "d": 2,
   "t": "Fleuves"
