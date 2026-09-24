@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Trivial 1000</title>
+  <meta name="description" content="1000 cartes de questions façon Trivial Pursuit : 6000 questions en 6 catégories, jouables hors ligne.">
+  <meta name="theme-color" content="#16213e">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Trivial 1000">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a href="#accueil" class="brand" aria-label="Accueil">
+      <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><use href="#camembert"/></svg>
+      <span>Trivial <b>1000</b></span>
+    </a>
+    <nav class="topnav">
+      <a href="#carte">Piocher</a>
+      <a href="#partie">Partie</a>
+      <a href="#parcourir">Parcourir</a>
+      <a href="#imprimer">Imprimer</a>
+    </nav>
+  </header>
+
+  <main id="app">
+    <p class="chargement" id="chargement">Chargement des cartes…</p>
+
+    <!-- ACCUEIL -->
+    <section class="vue" data-vue="accueil" hidden>
+      <div class="hero">
+        <svg class="hero-logo" viewBox="0 0 64 64" aria-hidden="true"><use href="#camembert"/></svg>
+        <h1>Trivial <b>1000</b></h1>
+        <p class="hero-sous"><span data-stat="cartes">1000</span> cartes · <span data-stat="questions">6000</span> questions · 6 catégories</p>
+      </div>
+      <div class="menu">
+        <a class="menu-item" href="#carte">
+          <span class="menu-titre">Piocher une carte</span>
+          <span class="menu-desc">Pour jouer avec votre plateau : une carte, six questions, réponses au dos.</span>
+        </a>
+        <a class="menu-item" href="#partie">
+          <span class="menu-titre">Partie sans plateau</span>
+          <span class="menu-desc">2 à 6 joueurs, le dé choisit la couleur, premier à remplir son camembert.</span>
+        </a>
+        <a class="menu-item" href="#parcourir">
+          <span class="menu-titre">Parcourir les questions</span>
+          <span class="menu-desc">Rechercher une question, une réponse ou un numéro de carte.</span>
+        </a>
+        <a class="menu-item" href="#imprimer">
+          <span class="menu-titre">Imprimer les cartes</span>
+          <span class="menu-desc">Planches A4 recto verso, 6 cartes par page, prêtes à découper.</span>
+        </a>
+      </div>
+      <ul class="legende" id="legende"></ul>
+      <p class="installer" id="installer" hidden>
+        <button type="button" class="btn btn-clair" id="btn-installer">Installer l'application</button>
+      </p>
+    </section>
+
+    <!-- PIOCHE -->
+    <section class="vue" data-vue="carte" hidden>
+      <div class="barre">
+        <span class="barre-info" id="pioche-info"></span>
+        <button type="button" class="btn-lien" id="pioche-reset">Remélanger</button>
+      </div>
+      <article class="carte" id="pioche-carte" aria-live="polite"></article>
+      <div class="actions">
+        <button type="button" class="btn btn-clair" id="pioche-retourner">Tout retourner</button>
+        <button type="button" class="btn" id="pioche-suivante">Carte suivante</button>
+      </div>
+      <p class="astuce">Touchez une question pour voir sa réponse.</p>
+    </section>
+
+    <!-- PARTIE -->
+    <section class="vue" data-vue="partie" hidden>
+      <div id="partie-config" hidden>
+        <h2>Nouvelle partie</h2>
+        <form id="form-partie" class="formulaire">
+          <fieldset>
+            <legend>Joueurs</legend>
+            <div id="liste-joueurs" class="liste-joueurs"></div>
+            <button type="button" class="btn-lien" id="ajout-joueur">+ Ajouter un joueur</button>
+          </fieldset>
+          <fieldset>
+            <legend>Difficulté des questions</legend>
+            <div class="choix">
+              <label><input type="radio" name="niveau" value="0" checked> Toutes</label>
+              <label><input type="radio" name="niveau" value="1"> Faciles</label>
+              <label><input type="radio" name="niveau" value="2"> Faciles et moyennes</label>
+              <label><input type="radio" name="niveau" value="3"> Moyennes et difficiles</label>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>Pour gagner un camembert</legend>
+            <div class="choix">
+              <label><input type="radio" name="requis" value="1" checked> 1 bonne réponse</label>
+              <label><input type="radio" name="requis" value="2"> 2 bonnes réponses</label>
+              <label><input type="radio" name="requis" value="3"> 3 bonnes réponses</label>
+            </div>
+          </fieldset>
+          <button type="submit" class="btn">Commencer</button>
+        </form>
+      </div>
+
+      <div id="partie-jeu" hidden>
+        <div class="scores" id="scores"></div>
+        <div class="tour" id="tour"></div>
+        <div class="partie-actions">
+          <button type="button" class="btn-lien" id="partie-abandon">Terminer la partie</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- PARCOURIR -->
+    <section class="vue" data-vue="parcourir" hidden>
+      <h2>Parcourir</h2>
+      <div class="filtres">
+        <input type="search" id="recherche" placeholder="Mot-clé ou n° de carte" autocomplete="off">
+        <select id="filtre-cat" aria-label="Catégorie"><option value="">Toutes catégories</option></select>
+        <select id="filtre-niv" aria-label="Difficulté">
+          <option value="">Toutes difficultés</option>
+          <option value="1">Facile</option>
+          <option value="2">Moyenne</option>
+          <option value="3">Difficile</option>
+        </select>
+      </div>
+      <p class="resultats-info" id="resultats-info"></p>
+      <ol class="resultats" id="resultats"></ol>
+      <button type="button" class="btn btn-clair" id="plus-resultats" hidden>Afficher plus</button>
+    </section>
+
+    <!-- IMPRIMER -->
+    <section class="vue" data-vue="imprimer" hidden>
+      <h2>Imprimer les cartes</h2>
+      <p>Chaque planche A4 contient 6 cartes. Les pages alternent <b>recto (questions)</b> et
+        <b>verso (réponses)</b> : imprimez en recto verso, retournement bord long.</p>
+      <form id="form-impression" class="formulaire ligne">
+        <label>De la carte <input type="number" id="imp-de" min="1" value="1" required></label>
+        <label>à la carte <input type="number" id="imp-a" min="1" value="60" required></label>
+        <button type="submit" class="btn">Imprimer</button>
+      </form>
+      <p class="astuce">Conseil : papier 160 g/m² ou plus, et imprimez par tranches de 60 à 120 cartes.</p>
+    </section>
+  </main>
+
+  <div id="impression" class="impression" aria-hidden="true"></div>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <g id="camembert">
+        <circle cx="32" cy="32" r="30" fill="#fff"/>
+        <path d="M32 32 L32 5 A27 27 0 0 1 55.4 18.5 Z" fill="#1f6fd1"/>
+        <path d="M32 32 L55.4 18.5 A27 27 0 0 1 55.4 45.5 Z" fill="#e0479e"/>
+        <path d="M32 32 L55.4 45.5 A27 27 0 0 1 32 59 Z" fill="#f2c200"/>
+        <path d="M32 32 L32 59 A27 27 0 0 1 8.6 45.5 Z" fill="#8a5a2b"/>
+        <path d="M32 32 L8.6 45.5 A27 27 0 0 1 8.6 18.5 Z" fill="#2e9e4f"/>
+        <path d="M32 32 L8.6 18.5 A27 27 0 0 1 32 5 Z" fill="#f07c1b"/>
+      </g>
+    </defs>
+  </svg>
+
+  <script src="app.js"></script>
+</body>
+</html>
