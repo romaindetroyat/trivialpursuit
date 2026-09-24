@@ -1,539 +1,629 @@
 [
  {
+  "id": "art_b_3-001",
   "q": "Quel poète grec aveugle est traditionnellement considéré comme l'auteur de l'« Iliade » et de l'« Odyssée » ?",
   "r": "Homère",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-002",
   "q": "Sur quelle île Ulysse est-il roi ?",
   "r": "Ithaque",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-003",
   "q": "Comment s'appelle l'épouse d'Ulysse qui défait chaque nuit la toile tissée le jour pour éloigner ses prétendants ?",
   "r": "Pénélope",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-004",
   "q": "Quel cyclope, fils de Poséidon, Ulysse aveugle-t-il pour s'échapper de sa caverne ?",
   "r": "Polyphème",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-005",
   "q": "Sous quel nom Ulysse se présente-t-il au cyclope pour mieux le duper ?",
   "r": "Personne",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-006",
   "q": "Quelle magicienne de l'« Odyssée » change les compagnons d'Ulysse en pourceaux ?",
   "r": "Circé",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-007",
   "q": "Comment s'appelle le vieux chien d'Ulysse qui reconnaît son maître à son retour, avant de mourir ?",
   "r": "Argos",
   "d": 3,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-008",
   "q": "Quelle nymphe retient Ulysse pendant sept ans sur son île d'Ogygie ?",
   "r": "Calypso",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-009",
   "q": "Quel est le nom du fils d'Ulysse et de Pénélope ?",
   "r": "Télémaque",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-010",
   "q": "Par quelle partie du corps le héros Achille était-il vulnérable ?",
   "r": "Le talon",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-011",
   "q": "Quel prince troyen enleva Hélène, déclenchant la guerre de Troie ?",
   "r": "Pâris",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-012",
   "q": "Quel fils du roi Priam, champion des Troyens, est tué par Achille dans l'« Iliade » ?",
   "r": "Hector",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-013",
   "q": "Quelle ruse imaginée par Ulysse permet aux Grecs de pénétrer dans Troie ?",
   "r": "Un cheval de bois",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-014",
   "q": "Quel ami d'Achille est tué par Hector, ce qui pousse Achille à reprendre le combat ?",
   "r": "Patrocle",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-015",
   "q": "Quel roi de Mycènes commande l'armée grecque pendant la guerre de Troie ?",
   "r": "Agamemnon",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-016",
   "q": "Quelle princesse troyenne, fille de Priam, avait reçu le don de prophétie mais n'était jamais crue ?",
   "r": "Cassandre",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-017",
   "q": "Quelle fille d'Agamemnon devait être sacrifiée pour que les vents permettent à la flotte grecque de partir pour Troie ?",
   "r": "Iphigénie",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-018",
   "q": "Quelle déesse de la Discorde lança la pomme d'or « à la plus belle », à l'origine de la guerre de Troie ?",
   "r": "Éris",
   "d": 3,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-019",
   "q": "Quel poète latin a écrit l'« Énéide » à la demande de l'empereur Auguste ?",
   "r": "Virgile",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-020",
   "q": "Quel héros troyen fuit Troie en flammes en portant son père sur ses épaules, et devient l'ancêtre des Romains ?",
   "r": "Énée",
   "d": 1,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-021",
   "q": "Quelle reine de Carthage se donne la mort après avoir été abandonnée par Énée ?",
   "r": "Didon",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-022",
   "q": "Quel poète latin, exilé par Auguste sur les bords de la mer Noire, a écrit « Les Métamorphoses » ?",
   "r": "Ovide",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-023",
   "q": "Quelle épopée mésopotamienne, gravée sur des tablettes d'argile, est considérée comme l'une des plus anciennes œuvres littéraires connues ?",
   "r": "L'Épopée de Gilgamesh",
   "d": 2,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-024",
   "q": "Dans l'épopée de Gilgamesh, comment s'appelle l'homme sauvage devenu l'ami inséparable du héros ?",
   "r": "Enkidu",
   "d": 3,
   "t": "Épopées antiques"
  },
  {
+  "id": "art_b_3-025",
   "q": "Quelle chanson de geste raconte la mort du neveu de Charlemagne au col de Roncevaux ?",
   "r": "La Chanson de Roland",
   "d": 1,
   "t": "Épopées médiévales"
  },
  {
+  "id": "art_b_3-026",
   "q": "Comment s'appelle l'épée de Roland, qu'il tente en vain de briser avant de mourir ?",
   "r": "Durendal",
   "d": 2,
   "t": "Épopées médiévales"
  },
  {
+  "id": "art_b_3-027",
   "q": "Quel poème épique anglo-saxon raconte le combat d'un héros contre le monstre Grendel ?",
   "r": "Beowulf",
   "d": 2,
   "t": "Épopées médiévales"
  },
  {
+  "id": "art_b_3-028",
   "q": "Quelle épopée germanique médiévale met en scène Siegfried, Kriemhild et le trésor du Rhin ?",
   "r": "La Chanson des Nibelungen",
   "d": 2,
   "t": "Épopées médiévales"
  },
  {
+  "id": "art_b_3-029",
   "q": "Quelle immense épopée indienne raconte la guerre entre les Pandava et leurs cousins Kaurava ?",
   "r": "Le Mahabharata",
   "d": 2,
   "t": "Épopées d'Asie"
  },
  {
+  "id": "art_b_3-030",
   "q": "Quel texte sacré inclus dans le Mahabharata rapporte le dialogue entre Krishna et le guerrier Arjuna ?",
   "r": "La Bhagavad-Gita",
   "d": 3,
   "t": "Épopées d'Asie"
  },
  {
+  "id": "art_b_3-031",
   "q": "Quelle épopée indienne raconte les aventures du prince Rama parti délivrer son épouse Sita ?",
   "r": "Le Ramayana",
   "d": 2,
   "t": "Épopées d'Asie"
  },
  {
+  "id": "art_b_3-032",
   "q": "Quelle épopée nationale finlandaise a été compilée au XIXe siècle par Elias Lönnrot ?",
   "r": "Le Kalevala",
   "d": 3,
   "t": "Épopées médiévales"
  },
  {
+  "id": "art_b_3-033",
   "q": "Quel poète persan a composé autour de l'an 1000 le « Livre des Rois » (Shâh-Nâmeh) ?",
   "r": "Ferdowsi",
   "d": 3,
   "t": "Épopées d'Asie"
  },
  {
+  "id": "art_b_3-034",
   "q": "Quel héros castillan, Rodrigo Díaz de Vivar, est célébré par la plus ancienne épopée espagnole ?",
   "r": "Le Cid",
   "d": 2,
   "t": "Épopées médiévales"
  },
  {
+  "id": "art_b_3-035",
   "q": "Quel roi légendaire de Bretagne réunit autour de lui les chevaliers de la Table ronde ?",
   "r": "Le roi Arthur",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_b_3-036",
   "q": "Comment s'appelle l'épée du roi Arthur ?",
   "r": "Excalibur",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_b_3-037",
   "q": "Quel enchanteur est le conseiller du roi Arthur ?",
   "r": "Merlin",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_b_3-038",
   "q": "Quel vase sacré les chevaliers de la Table ronde partent-ils chercher dans leur grande quête ?",
   "r": "Le Graal",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_b_3-039",
   "q": "Quel chevalier de la Table ronde est l'amant de la reine Guenièvre ?",
   "r": "Lancelot du Lac",
   "d": 1,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_b_3-040",
   "q": "Quel breuvage bu par erreur unit à jamais Tristan et Iseut ?",
   "r": "Un philtre d'amour",
   "d": 2,
   "t": "Légendes arthuriennes"
  },
  {
+  "id": "art_b_3-041",
   "q": "Quel poète grec archaïque a écrit « La Théogonie » et « Les Travaux et les Jours » ?",
   "r": "Hésiode",
   "d": 3,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-042",
   "q": "Quel dramaturge grec a écrit la tragédie « Œdipe roi » ?",
   "r": "Sophocle",
   "d": 2,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-043",
   "q": "Quelle fille d'Œdipe brave l'interdit du roi Créon pour donner une sépulture à son frère Polynice ?",
   "r": "Antigone",
   "d": 1,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-044",
   "q": "Quel dramaturge grec a écrit la trilogie de « L'Orestie » ?",
   "r": "Eschyle",
   "d": 2,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-045",
   "q": "Quel auteur comique grec a écrit « Les Grenouilles » et « Lysistrata » ?",
   "r": "Aristophane",
   "d": 2,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-046",
   "q": "Quel fabuliste grec de l'Antiquité a inspiré une grande partie des fables de La Fontaine ?",
   "r": "Ésope",
   "d": 1,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-047",
   "q": "Quelle poétesse grecque de l'île de Lesbos est célèbre pour ses poèmes lyriques amoureux ?",
   "r": "Sappho",
   "d": 2,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-048",
   "q": "Dans quel roman latin d'Apulée le jeune Lucius est-il accidentellement transformé en âne ?",
   "r": "L'Âne d'or (Les Métamorphoses)",
   "d": 3,
   "t": "Grands textes antiques"
  },
  {
+  "id": "art_b_3-049",
   "q": "Quel philosophe athénien, condamné à boire la ciguë en 399 av. J.-C., n'a laissé aucun écrit ?",
   "r": "Socrate",
   "d": 1,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-050",
   "q": "Quel philosophe grec, disciple de Socrate, a fondé l'Académie à Athènes ?",
   "r": "Platon",
   "d": 1,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-051",
   "q": "Quel philosophe grec, précepteur d'Alexandre le Grand, a fondé le Lycée ?",
   "r": "Aristote",
   "d": 1,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-052",
   "q": "Dans quel ouvrage de Platon trouve-t-on l'allégorie de la caverne ?",
   "r": "La République",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-053",
   "q": "Dans quel ouvrage publié en 1637 Descartes écrit-il « Je pense, donc je suis » ?",
   "r": "Discours de la méthode",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-054",
   "q": "Quel philosophe cynique grec vivait, dit-on, dans une jarre et cherchait « un homme » avec une lanterne en plein jour ?",
   "r": "Diogène",
   "d": 1,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-055",
   "q": "Quel philosophe anglais a publié en 1651 « Léviathan », qui justifie un pouvoir souverain absolu ?",
   "r": "Thomas Hobbes",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-056",
   "q": "Quel philosophe genevois a écrit « Du contrat social » ?",
   "r": "Jean-Jacques Rousseau",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-057",
   "q": "Quel philosophe allemand a écrit la « Critique de la raison pure » ?",
   "r": "Emmanuel Kant",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-058",
   "q": "Dans quelle ville de Prusse orientale Emmanuel Kant a-t-il passé presque toute sa vie ?",
   "r": "Königsberg",
   "d": 3,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-059",
   "q": "Quel philosophe allemand a écrit « Ainsi parlait Zarathoustra » ?",
   "r": "Friedrich Nietzsche",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-060",
   "q": "Quel philosophe allemand a publié en 1807 la « Phénoménologie de l'esprit » ?",
   "r": "Georg Wilhelm Friedrich Hegel",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-061",
   "q": "Quel philosophe allemand pessimiste a écrit « Le Monde comme volonté et comme représentation » ?",
   "r": "Arthur Schopenhauer",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-062",
   "q": "Quels deux penseurs allemands ont publié ensemble le « Manifeste du parti communiste » en 1848 ?",
   "r": "Karl Marx et Friedrich Engels",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-063",
   "q": "Quel philosophe néerlandais d'origine portugaise a écrit « L'Éthique », publiée après sa mort en 1677 ?",
   "r": "Baruch Spinoza",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-064",
   "q": "Quel philosophe danois, précurseur de l'existentialisme, a écrit « Ou bien… ou bien » ?",
   "r": "Søren Kierkegaard",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-065",
   "q": "Quel philosophe allemand a publié « Être et Temps » en 1927 ?",
   "r": "Martin Heidegger",
   "d": 2,
   "t": "Philosophie contemporaine"
  },
  {
+  "id": "art_b_3-066",
   "q": "Quel philosophe existentialiste français a écrit « L'Être et le Néant » ?",
   "r": "Jean-Paul Sartre",
   "d": 1,
   "t": "Philosophie contemporaine"
  },
  {
+  "id": "art_b_3-067",
   "q": "Quelle philosophe française a publié en 1949 « Le Deuxième Sexe » ?",
   "r": "Simone de Beauvoir",
   "d": 1,
   "t": "Philosophie contemporaine"
  },
  {
+  "id": "art_b_3-068",
   "q": "Quel penseur français du XVIIe siècle a comparé l'homme à « un roseau pensant » ?",
   "r": "Blaise Pascal",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-069",
   "q": "Quel sage chinois de l'Antiquité voit ses enseignements rassemblés dans les « Entretiens » ?",
   "r": "Confucius",
   "d": 1,
   "t": "Philosophie orientale"
  },
  {
+  "id": "art_b_3-070",
   "q": "Quel texte fondateur du taoïsme est attribué au sage Lao-tseu ?",
   "r": "Le Tao-tö-king",
   "d": 2,
   "t": "Philosophie orientale"
  },
  {
+  "id": "art_b_3-071",
   "q": "Quel philosophe grec d'Éphèse a affirmé qu'on ne se baigne jamais deux fois dans le même fleuve ?",
   "r": "Héraclite",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-072",
   "q": "Quel philosophe grec a fondé à Athènes l'école du Jardin, qui voyait dans l'absence de trouble le vrai bonheur ?",
   "r": "Épicure",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-073",
   "q": "Quelle école philosophique fondée par Zénon de Citium tire son nom d'un portique d'Athènes ?",
   "r": "Le stoïcisme",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-074",
   "q": "Quel empereur romain stoïcien a rédigé en grec ses « Pensées pour moi-même » ?",
   "r": "Marc Aurèle",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-075",
   "q": "Quel philosophe stoïcien, précepteur de Néron, a écrit les « Lettres à Lucilius » ?",
   "r": "Sénèque",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-076",
   "q": "Quel philosophe franciscain anglais du XIVe siècle a donné son nom à un « rasoir », principe d'économie des hypothèses ?",
   "r": "Guillaume d'Ockham",
   "d": 2,
   "t": "Philosophie médiévale"
  },
  {
+  "id": "art_b_3-077",
   "q": "Quel philosophe anglais a publié en 1690 l'« Essai sur l'entendement humain » ?",
   "r": "John Locke",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-078",
   "q": "Quel philosophe écossais des Lumières a écrit le « Traité de la nature humaine » ?",
   "r": "David Hume",
   "d": 3,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-079",
   "q": "Quel penseur français a publié en 1748 « De l'esprit des lois », qui théorise la séparation des pouvoirs ?",
   "r": "Montesquieu",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-080",
   "q": "Quel philosophe des Lumières a dirigé l'« Encyclopédie » avec d'Alembert ?",
   "r": "Denis Diderot",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-081",
   "q": "Quel philosophe autrichien a écrit le « Tractatus logico-philosophicus » ?",
   "r": "Ludwig Wittgenstein",
   "d": 3,
   "t": "Philosophie contemporaine"
  },
  {
+  "id": "art_b_3-082",
   "q": "Quel philosophe français a publié en 1975 « Surveiller et punir », consacré à la naissance de la prison ?",
   "r": "Michel Foucault",
   "d": 2,
   "t": "Philosophie contemporaine"
  },
  {
+  "id": "art_b_3-083",
   "q": "Quel penseur de la Renaissance a écrit les « Essais », avec pour devise « Que sais-je ? » ?",
   "r": "Michel de Montaigne",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-084",
   "q": "Quel philosophe utilitariste anglais a conçu le « panoptique », prison où un gardien peut tout voir sans être vu ?",
   "r": "Jeremy Bentham",
   "d": 3,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-085",
   "q": "Quel philosophe anglais a publié en 1859 l'essai « De la liberté » ?",
   "r": "John Stuart Mill",
   "d": 3,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-086",
   "q": "Quel philosophe allemand soutenait que nous vivons dans « le meilleur des mondes possibles » ?",
   "r": "Gottfried Wilhelm Leibniz",
   "d": 2,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-087",
   "q": "Quel conte philosophique de Voltaire se moque de l'optimisme du précepteur Pangloss ?",
   "r": "Candide",
   "d": 1,
   "t": "Philosophie moderne"
  },
  {
+  "id": "art_b_3-088",
   "q": "Quelle philosophe germano-américaine a écrit « Les Origines du totalitarisme » ?",
   "r": "Hannah Arendt",
   "d": 2,
   "t": "Philosophie contemporaine"
  },
  {
+  "id": "art_b_3-089",
   "q": "Quel dialogue de Platon réunit Socrate et ses amis autour d'un repas pour faire l'éloge d'Éros ?",
   "r": "Le Banquet",
   "d": 2,
   "t": "Philosophie antique"
  },
  {
+  "id": "art_b_3-090",
   "q": "Comment appelle-t-on la méthode de Socrate qui consiste à faire « accoucher » les esprits de la vérité ?",
   "r": "La maïeutique",
   "d": 2,

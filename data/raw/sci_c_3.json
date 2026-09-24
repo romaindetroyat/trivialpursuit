@@ -1,539 +1,629 @@
 [
  {
+  "id": "sci_c_3-001",
   "q": "Comment appelle-t-on la couche solide la plus externe de la Terre ?",
   "r": "La croûte terrestre",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-002",
   "q": "Quelle couche du globe terrestre se situe entre la croûte et le noyau ?",
   "r": "Le manteau",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-003",
   "q": "De quels deux métaux le noyau terrestre est-il principalement composé ?",
   "r": "Le fer et le nickel",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-004",
   "q": "Quel météorologue allemand a formulé au début du XXe siècle la théorie de la dérive des continents ?",
   "r": "Alfred Wegener",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-005",
   "q": "Comment s'appelait le supercontinent qui réunissait presque toutes les terres émergées il y a environ 250 millions d'années ?",
   "r": "La Pangée",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-006",
   "q": "Quel sismologue américain a donné son nom à l'échelle de magnitude des séismes créée en 1935 ?",
   "r": "Charles Richter",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-007",
   "q": "Comment appelle-t-on le point de la surface situé à la verticale du foyer d'un séisme ?",
   "r": "L'épicentre",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-008",
   "q": "Comment appelle-t-on la roche en fusion présente sous la surface de la Terre ?",
   "r": "Le magma",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-009",
   "q": "Quelle roche volcanique très poreuse a la particularité de flotter sur l'eau ?",
   "r": "La pierre ponce",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-010",
   "q": "Quel verre volcanique noir et tranchant était utilisé par les hommes préhistoriques pour tailler des outils ?",
   "r": "L'obsidienne",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-011",
   "q": "Quel minéral, le plus tendre, occupe le rang 1 de l'échelle de dureté de Mohs ?",
   "r": "Le talc",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-012",
   "q": "Quel minéralogiste allemand a créé en 1812 l'échelle de dureté des minéraux graduée de 1 à 10 ?",
   "r": "Friedrich Mohs",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-013",
   "q": "Quelle roche métamorphique issue du calcaire est extraite des célèbres carrières de Carrare ?",
   "r": "Le marbre",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-014",
   "q": "À quelle grande famille de roches appartient le granite, formé par le refroidissement lent d'un magma en profondeur ?",
   "r": "Les roches magmatiques (plutoniques)",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-015",
   "q": "Quel volcan a enseveli les villes de Pompéi et d'Herculanum en 79 ?",
   "r": "Le Vésuve",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-016",
   "q": "Quel volcan de l'île de La Réunion compte parmi les plus actifs du monde ?",
   "r": "Le piton de la Fournaise",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-017",
   "q": "Quel volcan de la Martinique a détruit la ville de Saint-Pierre en 1902 ?",
   "r": "La montagne Pelée",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-018",
   "q": "Comment s'appelle l'alignement d'environ quatre-vingts volcans endormis qui domine Clermont-Ferrand ?",
   "r": "La chaîne des Puys",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-019",
   "q": "Quel sommet volcanique est le point culminant du Massif central ?",
   "r": "Le puy de Sancy",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-020",
   "q": "Comment appelle-t-on la concrétion calcaire qui s'élève du sol d'une grotte ?",
   "r": "La stalagmite",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-021",
   "q": "Comment appelle-t-on une source chaude qui projette par intermittence une colonne d'eau et de vapeur ?",
   "r": "Un geyser",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-022",
   "q": "Quelle célèbre faille traverse la Californie sur plus de 1 000 km ?",
   "r": "La faille de San Andreas",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-023",
   "q": "Quel nom donne-t-on à l'arc de volcans et de zones sismiques qui entoure l'océan Pacifique ?",
   "r": "La ceinture de feu",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-024",
   "q": "Quel couple de volcanologues alsaciens a péri en 1991 lors d'une éruption du mont Unzen, au Japon ?",
   "r": "Katia et Maurice Krafft",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-025",
   "q": "Quel volcanologue français né à Varsovie fut secrétaire d'État chargé des risques majeurs de 1984 à 1986 ?",
   "r": "Haroun Tazieff",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-026",
   "q": "Quelle période géologique doit son nom à un massif montagneux franco-suisse ?",
   "r": "Le Jurassique",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-027",
   "q": "Quelle période géologique doit son nom au mot latin désignant la craie ?",
   "r": "Le Crétacé",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-028",
   "q": "Il y a combien de millions d'années environ les dinosaures non aviens ont-ils disparu ?",
   "r": "66 millions d'années",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-029",
   "q": "Quel cratère d'impact de la péninsule du Yucatán est associé à l'extinction des dinosaures ?",
   "r": "Chicxulub",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-030",
   "q": "Quel est l'âge approximatif de la Terre ?",
   "r": "4,5 milliards d'années",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-031",
   "q": "Quelle pierre précieuse rouge est une variété de corindon, comme le saphir ?",
   "r": "Le rubis",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-032",
   "q": "Quelle pierre précieuse verte est une variété de béryl ?",
   "r": "L'émeraude",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-033",
   "q": "De quel élément chimique le diamant et le graphite sont-ils tous deux constitués ?",
   "r": "Le carbone",
   "d": 1,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-034",
   "q": "Quelle pierre fine violette est une variété de quartz ?",
   "r": "L'améthyste",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-035",
   "q": "Quel minerai d'aluminium tire son nom d'un village des Alpilles où il fut découvert en 1821 ?",
   "r": "La bauxite",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-036",
   "q": "Comment appelle-t-on les amas de débris rocheux transportés puis déposés par un glacier ?",
   "r": "Les moraines",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-037",
   "q": "Comment appelle-t-on le sol gelé en permanence des régions arctiques, en anglais « permafrost » ?",
   "r": "Le pergélisol",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-038",
   "q": "Quelle science étudie les tremblements de terre et la propagation des ondes dans le globe ?",
   "r": "La sismologie",
   "d": 2,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-039",
   "q": "Comment appelle-t-on la longue chaîne de montagnes sous-marine où se forme la nouvelle croûte océanique ?",
   "r": "Une dorsale océanique",
   "d": 3,
   "t": "Géologie"
  },
  {
+  "id": "sci_c_3-040",
   "q": "Quel instrument mesure la pression atmosphérique ?",
   "r": "Le baromètre",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-041",
   "q": "Quel physicien italien, élève de Galilée, a inventé le baromètre à mercure en 1643 ?",
   "r": "Evangelista Torricelli",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-042",
   "q": "Quel instrument mesure la vitesse du vent ?",
   "r": "L'anémomètre",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-043",
   "q": "Quel instrument mesure l'humidité de l'air ?",
   "r": "L'hygromètre",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-044",
   "q": "Quel officier de marine britannique a donné son nom à l'échelle de force du vent graduée de 0 à 12 ?",
   "r": "Francis Beaufort",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-045",
   "q": "Comment appelle-t-on les cyclones tropicaux qui frappent l'Asie de l'Est et le Pacifique Nord-Ouest ?",
   "r": "Les typhons",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-046",
   "q": "Quel nuage d'orage peut s'élever sur plus de 10 km et prendre la forme d'une enclume ?",
   "r": "Le cumulonimbus",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-047",
   "q": "Comment appelle-t-on les nuages de haute altitude, fins et filamenteux, formés de cristaux de glace ?",
   "r": "Les cirrus",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-048",
   "q": "Quel vent froid et violent souffle du nord le long de la vallée du Rhône jusqu'à la Méditerranée ?",
   "r": "Le mistral",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-049",
   "q": "Quel vent froid de nord-ouest souffle sur le Roussillon et le Languedoc ?",
   "r": "La tramontane",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-050",
   "q": "Quel vent chaud et sec venu du Sahara souffle sur le sud de l'Europe ?",
   "r": "Le sirocco",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-051",
   "q": "Quel vent chaud et sec descend les versants des Alpes, notamment en Suisse et en Autriche ?",
   "r": "Le foehn",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-052",
   "q": "Quel phénomène climatique du Pacifique porte un nom espagnol évoquant l'Enfant Jésus ?",
   "r": "El Niño",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-053",
   "q": "Comment appelle-t-on les aurores polaires observées dans l'hémisphère Sud ?",
   "r": "Les aurores australes",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-054",
   "q": "Comment appelle-t-on, sur une carte météo, une ligne reliant les points de même pression ?",
   "r": "Une isobare",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-055",
   "q": "Comment appelle-t-on une zone de hautes pressions atmosphériques, souvent synonyme de beau temps ?",
   "r": "Un anticyclone",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-056",
   "q": "Quels prénoms portaient les deux tempêtes qui ont dévasté la France fin décembre 1999 ?",
   "r": "Lothar et Martin",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-057",
   "q": "Dans quelle couche de l'atmosphère, la plus basse, se produisent la plupart des phénomènes météorologiques ?",
   "r": "La troposphère",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-058",
   "q": "Dans quelle couche de l'atmosphère se trouve l'essentiel de la couche d'ozone ?",
   "r": "La stratosphère",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-059",
   "q": "Quel gaz constitue environ 78 % de l'air que nous respirons ?",
   "r": "L'azote (diazote)",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-060",
   "q": "Comment appelle-t-on la zone calme et dégagée située au centre d'un cyclone ?",
   "r": "L'œil",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-061",
   "q": "Environ combien de secondes le son du tonnerre met-il pour parcourir un kilomètre ?",
   "r": "Environ 3 secondes",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-062",
   "q": "Comment appelle-t-on la température à laquelle la vapeur d'eau de l'air commence à se condenser ?",
   "r": "Le point de rosée",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-063",
   "q": "Quel mot anglais, contraction de « smoke » et « fog », désigne le brouillard de pollution des villes ?",
   "r": "Le smog",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-064",
   "q": "Comment se termine le dicton « Noël au balcon… » ?",
   "r": "« … Pâques au tison »",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-065",
   "q": "Quel saint, fêté le 8 juin, est associé au dicton annonçant quarante jours de pluie s'il pleut ce jour-là ?",
   "r": "Saint Médard",
   "d": 2,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-066",
   "q": "Quelle période de redoux automnal, autour du 11 novembre, porte le nom d'un saint ?",
   "r": "L'été de la Saint-Martin",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-067",
   "q": "Quel météorologue japonais a donné son nom à l'échelle d'intensité des tornades ?",
   "r": "Tetsuya Theodore Fujita",
   "d": 3,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-068",
   "q": "Comment appelle-t-on le régime de vents saisonniers qui apporte de fortes pluies en Inde en été ?",
   "r": "La mousson",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-069",
   "q": "Quel phénomène optique fait apparaître une étendue d'eau illusoire dans le désert ?",
   "r": "Le mirage",
   "d": 1,
   "t": "Météorologie"
  },
  {
+  "id": "sci_c_3-070",
   "q": "Quel protocole international de 1997 fixait pour la première fois des objectifs chiffrés de réduction des gaz à effet de serre ?",
   "r": "Le protocole de Kyoto",
   "d": 1,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-071",
   "q": "Lors de quelle conférence de l'ONU l'accord de Paris sur le climat a-t-il été adopté en 2015 ?",
   "r": "La COP21",
   "d": 1,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-072",
   "q": "Quel groupe d'experts sur le climat, créé en 1988 sous l'égide de l'ONU, a reçu le prix Nobel de la paix en 2007 ?",
   "r": "Le GIEC",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-073",
   "q": "Quels gaz utilisés dans les aérosols et les réfrigérateurs ont été bannis par le protocole de Montréal pour protéger l'ozone ?",
   "r": "Les CFC (chlorofluorocarbures)",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-074",
   "q": "Quelle biologiste américaine a dénoncé les dangers des pesticides dans « Printemps silencieux » en 1962 ?",
   "r": "Rachel Carson",
   "d": 3,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-075",
   "q": "Comment s'appelait le navire océanographique du commandant Cousteau ?",
   "r": "La Calypso",
   "d": 1,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-076",
   "q": "Quel navire de Greenpeace a été coulé par les services secrets français dans le port d'Auckland en 1985 ?",
   "r": "Le Rainbow Warrior",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-077",
   "q": "Quel agronome fut le premier candidat écologiste à une élection présidentielle française, en 1974 ?",
   "r": "René Dumont",
   "d": 3,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-078",
   "q": "Dans quelle ville s'est tenu le Sommet de la Terre de 1992 ?",
   "r": "Rio de Janeiro",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-079",
   "q": "Quel biologiste allemand a inventé le mot « écologie » en 1866 ?",
   "r": "Ernst Haeckel",
   "d": 3,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-080",
   "q": "Quelle organisation internationale publie la Liste rouge des espèces menacées ?",
   "r": "L'UICN",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-081",
   "q": "Quel animal a été réintroduit dans les Pyrénées à partir de 1996 avec des individus venus de Slovénie ?",
   "r": "L'ours brun",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-082",
   "q": "Quel est le premier parc national créé en France, en 1963 ?",
   "r": "Le parc national de la Vanoise",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-083",
   "q": "Quel parc américain, créé en 1872, est considéré comme le premier parc national du monde ?",
   "r": "Yellowstone",
   "d": 1,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-084",
   "q": "Comment appelle-t-on l'ensemble formé par une communauté d'êtres vivants et son milieu ?",
   "r": "Un écosystème",
   "d": 1,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-085",
   "q": "Comment appelle-t-on l'enrichissement excessif d'un milieu aquatique en nutriments, qui provoque une prolifération d'algues ?",
   "r": "L'eutrophisation",
   "d": 3,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-086",
   "q": "Quel pétrolier s'est échoué en 1978 au large de Portsall, provoquant une immense marée noire en Bretagne ?",
   "r": "L'Amoco Cadiz",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-087",
   "q": "Quel pétrolier a fait naufrage au large de la Bretagne en décembre 1999 ?",
   "r": "L'Erika",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-088",
   "q": "Quel estuaire breton accueille depuis 1966 une usine marémotrice ?",
   "r": "La Rance",
   "d": 2,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-089",
   "q": "Comment appelle-t-on l'énergie tirée de la chaleur interne de la Terre ?",
   "r": "La géothermie",
   "d": 1,
   "t": "Écologie"
  },
  {
+  "id": "sci_c_3-090",
   "q": "Quel marsupial carnivore au dos rayé, surnommé « tigre de Tasmanie », s'est éteint au XXe siècle ?",
   "r": "Le thylacine",
   "d": 3,

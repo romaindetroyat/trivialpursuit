@@ -1,557 +1,650 @@
 [
  {
+  "id": "spo_b_3-001",
   "q": "Combien de trous compte un parcours de golf standard ?",
   "r": "18",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-002",
   "q": "Au golf, comment appelle-t-on un trou réussi en un coup de moins que le par ?",
   "r": "Un birdie",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-003",
   "q": "Au golf, comment appelle-t-on un trou réussi en deux coups de moins que le par ?",
   "r": "Un eagle",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-004",
   "q": "Au golf, quel oiseau désigne un trou réussi en trois coups de moins que le par ?",
   "r": "L'albatros",
   "d": 3,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-005",
   "q": "Au golf, comment appelle-t-on un trou joué en un coup de plus que le par ?",
   "r": "Un bogey",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-006",
   "q": "Au golf, comment appelle-t-on l'exploit de rentrer la balle dans le trou dès le coup de départ ?",
   "r": "Un trou en un (hole-in-one)",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-007",
   "q": "Comment appelle-t-on le petit support planté dans le sol sur lequel le golfeur pose sa balle au départ d'un trou ?",
   "r": "Le tee",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-008",
   "q": "Quel club de golf utilise-t-on sur le green pour faire rouler la balle jusqu'au trou ?",
   "r": "Le putter",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-009",
   "q": "Dans quelle ville écossaise se trouve l'Old Course, considéré comme le berceau du golf ?",
   "r": "St Andrews",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-010",
   "q": "Quel tournoi majeur de golf se dispute chaque printemps sur le parcours d'Augusta, en Géorgie ?",
   "r": "Le Masters",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-011",
   "q": "Quel vêtement est remis au vainqueur du Masters d'Augusta ?",
   "r": "Une veste verte",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-012",
   "q": "Quelle compétition de golf oppose tous les deux ans une équipe européenne à une équipe américaine ?",
   "r": "La Ryder Cup",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-013",
   "q": "Sur quel parcours des Yvelines s'est disputée la Ryder Cup de 2018, la première organisée en France ?",
   "r": "Le Golf National",
   "d": 3,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-014",
   "q": "Quel golfeur américain a remporté le Masters d'Augusta en 1997, à seulement 21 ans ?",
   "r": "Tiger Woods",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-015",
   "q": "Quel golfeur américain surnommé « l'Ours d'or » a remporté 18 tournois majeurs ?",
   "r": "Jack Nicklaus",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-016",
   "q": "Quel golfeur français a laissé échapper le British Open 1999 à Carnoustie après avoir mené avant le dernier trou ?",
   "r": "Jean Van de Velde",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-017",
   "q": "Comment appelle-t-on la fosse remplie de sable qui sert d'obstacle sur un parcours de golf ?",
   "r": "Un bunker",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-018",
   "q": "Au golf, comment appelle-t-on la zone d'herbe haute qui borde l'allée tondue ?",
   "r": "Le rough",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-019",
   "q": "Quel mot crie traditionnellement un golfeur pour prévenir que sa balle risque de heurter quelqu'un ?",
   "r": "« Fore ! »",
   "d": 3,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-020",
   "q": "Quel astronaute américain a frappé des balles de golf sur la Lune lors de la mission Apollo 14 en 1971 ?",
   "r": "Alan Shepard",
   "d": 3,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-021",
   "q": "Quel sport a fait son retour au programme olympique en 2016 après 112 ans d'absence ?",
   "r": "Le golf",
   "d": 2,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-022",
   "q": "Quel golfeur espagnol a remporté cinq tournois majeurs, dont trois British Open, entre 1979 et 1988 ?",
   "r": "Severiano Ballesteros",
   "d": 3,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-023",
   "q": "Comment appelle-t-on le nombre de coups de référence fixé pour jouer chaque trou d'un parcours de golf ?",
   "r": "Le par",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-024",
   "q": "Au golf, comment appelle-t-on la zone de gazon très ras qui entoure le trou ?",
   "r": "Le green",
   "d": 1,
   "t": "Golf"
  },
  {
+  "id": "spo_b_3-025",
   "q": "Quelle course à la voile autour du monde, en solitaire, sans escale et sans assistance, part des Sables-d'Olonne ?",
   "r": "Le Vendée Globe",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-026",
   "q": "Quelle course transatlantique en solitaire relie Saint-Malo à Pointe-à-Pitre ?",
   "r": "La Route du Rhum",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-027",
   "q": "Quel navigateur canadien a remporté la première Route du Rhum, en 1978, avec 98 secondes d'avance ?",
   "r": "Mike Birch",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-028",
   "q": "Quel navigateur français a disparu en mer lors de la première Route du Rhum, en 1978 ?",
   "r": "Alain Colas",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-029",
   "q": "Quel navigateur breton a remporté en 1964 la Transat anglaise en solitaire, devenant un héros national ?",
   "r": "Éric Tabarly",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-030",
   "q": "Quel nom portaient les voiliers successifs d'Éric Tabarly ?",
   "r": "Pen Duick",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-031",
   "q": "Quelle compétition de voile, créée en 1851, est considérée comme le plus ancien trophée sportif international ?",
   "r": "La Coupe de l'America",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-032",
   "q": "Quel trophée, nommé d'après un écrivain français, récompense le tour du monde à la voile le plus rapide en équipage ?",
   "r": "Le trophée Jules-Verne",
   "d": 2,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-033",
   "q": "Quelle transatlantique en double partant du Havre est surnommée « la route du café » ?",
   "r": "La Transat Jacques-Vabre",
   "d": 2,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-034",
   "q": "Quelle course à étapes en solitaire, disputée sur des monotypes, est surnommée « l'université de la course au large » ?",
   "r": "La Solitaire du Figaro",
   "d": 2,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-035",
   "q": "Quelle navigatrice britannique a terminé deuxième du Vendée Globe 2000-2001 à 24 ans ?",
   "r": "Ellen MacArthur",
   "d": 2,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-036",
   "q": "Quel navigateur français a remporté la première édition du Vendée Globe, en 1989-1990 ?",
   "r": "Titouan Lamazou",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-037",
   "q": "Quel navigateur français a remporté le Vendée Globe à deux reprises, en 2000-2001 et en 2008-2009 ?",
   "r": "Michel Desjoyeaux",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-038",
   "q": "Comment appelle-t-on le côté gauche d'un bateau lorsqu'on regarde vers l'avant ?",
   "r": "Bâbord",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-039",
   "q": "Comment appelle-t-on un voilier composé de deux coques reliées entre elles ?",
   "r": "Un catamaran",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-040",
   "q": "Comment appelle-t-on un voilier composé d'une coque centrale et de deux flotteurs latéraux ?",
   "r": "Un trimaran",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-041",
   "q": "Quelle grande voile ballonnée, souvent colorée, hisse-t-on à l'avant d'un voilier pour naviguer vent arrière ?",
   "r": "Le spinnaker",
   "d": 2,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-042",
   "q": "Comment appelle-t-on la manœuvre qui consiste à changer d'amure en faisant passer l'avant du voilier face au vent ?",
   "r": "Le virement de bord",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-043",
   "q": "Quelle unité, égale à un mille marin par heure, mesure la vitesse d'un bateau ?",
   "r": "Le nœud",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-044",
   "q": "Quel navigateur français a renoncé à la victoire lors du Golden Globe 1968-1969 pour continuer sa route jusqu'à Tahiti ?",
   "r": "Bernard Moitessier",
   "d": 2,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-045",
   "q": "Quel sport de glisse se pratique debout sur une planche munie d'une voile que l'on tient par un wishbone ?",
   "r": "La planche à voile",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-046",
   "q": "Quel sport de glisse consiste à se faire tracter sur une planche par une grande aile de traction ?",
   "r": "Le kitesurf",
   "d": 1,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-047",
   "q": "Quel navigateur de 62 ans a remporté la Route du Rhum 2018 avec seulement sept minutes d'avance sur François Gabart ?",
   "r": "Francis Joyon",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-048",
   "q": "Quel rocher irlandais surmonté d'un phare a donné son nom à une célèbre course au large ?",
   "r": "Le Fastnet",
   "d": 3,
   "t": "Voile"
  },
  {
+  "id": "spo_b_3-049",
   "q": "Sous quel nom le boxeur Cassius Clay est-il entré dans la légende après sa conversion à l'islam ?",
   "r": "Mohamed Ali",
   "d": 1,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-050",
   "q": "Dans quel pays s'est déroulé en 1974 le combat « Rumble in the Jungle » entre Mohamed Ali et George Foreman ?",
   "r": "Le Zaïre",
   "d": 2,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-051",
   "q": "Quel boxeur français, champion du monde des poids moyens en 1948, fut le grand amour d'Édith Piaf ?",
   "r": "Marcel Cerdan",
   "d": 1,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-052",
   "q": "Quel boxeur américain a mordu l'oreille d'Evander Holyfield lors d'un combat en 1997 ?",
   "r": "Mike Tyson",
   "d": 1,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-053",
   "q": "Combien de minutes dure un round de boxe professionnelle masculine ?",
   "r": "Trois minutes",
   "d": 2,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-054",
   "q": "Comment appelle-t-on l'estrade carrée entourée de cordes où se disputent les combats de boxe ?",
   "r": "Le ring",
   "d": 1,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-055",
   "q": "De quelle expression anglaise l'abréviation K.-O. est-elle tirée ?",
   "r": "Knock-out",
   "d": 1,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-056",
   "q": "Quel champion du monde des poids lourds a pris sa retraite invaincu en 1956, après 49 combats professionnels ?",
   "r": "Rocky Marciano",
   "d": 3,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-057",
   "q": "Quel boxeur français a été sacré champion olympique des mi-mouches aux Jeux de Sydney en 2000 ?",
   "r": "Brahim Asloum",
   "d": 3,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-058",
   "q": "Quel boxeur français a été sacré champion olympique des super-lourds aux Jeux de Rio en 2016 ?",
   "r": "Tony Yoka",
   "d": 2,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-059",
   "q": "Quelle boxeuse française a été sacrée championne olympique des poids légers aux Jeux de Rio en 2016 ?",
   "r": "Estelle Mossely",
   "d": 3,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-060",
   "q": "Sous quel autre nom connaît-on la boxe française, qui autorise les coups de pied ?",
   "r": "La savate",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-061",
   "q": "Quel art martial fondé par Jigoro Kano porte un nom signifiant « la voie de la souplesse » ?",
   "r": "Le judo",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-062",
   "q": "Au judo, quelle couleur de ceinture succède à la marron ?",
   "r": "La noire",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-063",
   "q": "Comment appelle-t-on le tapis sur lequel se pratiquent le judo et d'autres arts martiaux japonais ?",
   "r": "Le tatami",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-064",
   "q": "Au judo, quel mot annonce par l'arbitre désigne l'avantage décisif qui met immédiatement fin au combat ?",
   "r": "Ippon",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-065",
   "q": "Quel art martial coréen, reposant surtout sur les coups de pied, est entré au programme olympique en 2000 ?",
   "r": "Le taekwondo",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-066",
   "q": "Quel art martial japonais se pratique en armure avec des sabres en bambou appelés shinai ?",
   "r": "Le kendo",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-067",
   "q": "Quel art martial brésilien mêle combat, acrobaties et danse au son du berimbau ?",
   "r": "La capoeira",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-068",
   "q": "Quelle lutte japonaise oppose des colosses dans un cercle de terre battue appelé dohyo ?",
   "r": "Le sumo",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-069",
   "q": "Comment s'appelle le grade suprême qu'un lutteur de sumo peut atteindre ?",
   "r": "Yokozuna",
   "d": 3,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-070",
   "q": "Comment appelle-t-on la boxe thaïlandaise, où l'on frappe aussi avec les coudes et les genoux ?",
   "r": "Le muay-thaï",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-071",
   "q": "Quel acteur de films d'arts martiaux a fondé le jeet kune do ?",
   "r": "Bruce Lee",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-072",
   "q": "Quel art martial japonais sans compétition, fondé par Morihei Ueshiba, utilise la force de l'adversaire ?",
   "r": "L'aïkido",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-073",
   "q": "Quel style de lutte olympique interdit toute prise en dessous de la ceinture ?",
   "r": "La lutte gréco-romaine",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-074",
   "q": "Quel lutteur français a été sacré champion olympique de lutte gréco-romaine aux Jeux de Pékin en 2008 ?",
   "r": "Steeve Guénot",
   "d": 3,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-075",
   "q": "Quel judoka français a été sacré champion olympique des poids lourds à Atlanta en 1996 puis à Sydney en 2000 ?",
   "r": "David Douillet",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-076",
   "q": "Que signifie le sigle MMA, désignant un sport de combat légalisé en compétition en France en 2020 ?",
   "r": "Arts martiaux mixtes",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-077",
   "q": "Quelle judokate française a été sacrée championne olympique des moins de 63 kg aux Jeux de Tokyo 2020 ?",
   "r": "Clarisse Agbégnénou",
   "d": 2,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-078",
   "q": "Quel boxeur philippin, devenu sénateur, a été champion du monde dans huit catégories de poids différentes ?",
   "r": "Manny Pacquiao",
   "d": 3,
   "t": "Boxe"
  },
  {
+  "id": "spo_b_3-079",
   "q": "Quel art martial d'origine okinawaïenne, pratiqué en kata et en kumite, a fait son entrée aux Jeux olympiques à Tokyo en 2021 ?",
   "r": "Le karaté",
   "d": 1,
   "t": "Arts martiaux"
  },
  {
+  "id": "spo_b_3-080",
   "q": "Quelle discipline équestre consiste à franchir un parcours de barres et de murs sans les faire tomber ?",
   "r": "Le saut d'obstacles",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-081",
   "q": "Quelle discipline équestre olympique, parfois décrite comme un ballet, consiste à enchaîner des figures imposées ?",
   "r": "Le dressage",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-082",
   "q": "Quelle discipline équestre combine sur plusieurs jours dressage, cross et saut d'obstacles ?",
   "r": "Le concours complet",
   "d": 2,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-083",
   "q": "Quelle prestigieuse course de galop se dispute traditionnellement le premier dimanche d'octobre à Longchamp ?",
   "r": "Le Prix de l'Arc de Triomphe",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-084",
   "q": "Quelle grande course de trot attelé se dispute chaque hiver sur l'hippodrome de Vincennes ?",
   "r": "Le Prix d'Amérique",
   "d": 2,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-085",
   "q": "Quelle célèbre course d'obstacles anglaise se dispute chaque printemps sur l'hippodrome d'Aintree, près de Liverpool ?",
   "r": "Le Grand National",
   "d": 3,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-086",
   "q": "Quel cavalier français a remporté le titre olympique individuel de saut d'obstacles en 1952 et en 1964 ?",
   "r": "Pierre Jonquères d'Oriola",
   "d": 3,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-087",
   "q": "Quel petit cheval noir a mené Pierre Durand au titre olympique de saut d'obstacles à Séoul en 1988 ?",
   "r": "Jappeloup",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-088",
   "q": "Quelles sont les trois allures naturelles du cheval ?",
   "r": "Le pas, le trot, le galop",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-089",
   "q": "Quel sport équestre d'équipe se joue avec un maillet et une balle sur un vaste terrain gazonné ?",
   "r": "Le polo",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-090",
   "q": "Quel sport équestre d'Asie centrale consiste pour les cavaliers à s'emparer d'une carcasse de chèvre ?",
   "r": "Le bouzkachi",
   "d": 3,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-091",
   "q": "Comment appelle-t-on le cavalier professionnel qui monte les chevaux lors des courses de galop ?",
   "r": "Un jockey",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-092",
   "q": "Quel pari hippique français consiste à trouver les cinq premiers chevaux d'une course ?",
   "r": "Le Quinté+",
   "d": 1,
   "t": "Équitation"
  },
  {
+  "id": "spo_b_3-093",
   "q": "Quelle course de galop réservée aux pouliches se dispute chaque mois de juin à Chantilly ?",
   "r": "Le Prix de Diane",
   "d": 3,

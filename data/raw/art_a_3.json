@@ -1,539 +1,629 @@
 [
  {
+  "id": "art_a_3-001",
   "q": "Quel prix littéraire, décerné depuis 1903, est annoncé chaque automne au restaurant Drouant à Paris ?",
   "r": "Le prix Goncourt",
   "d": 1,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_a_3-002",
   "q": "Dans quel restaurant parisien le jury du prix Goncourt se réunit-il pour délibérer ?",
   "r": "Drouant",
   "d": 2,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_a_3-003",
   "q": "Quel est le montant symbolique du chèque remis au lauréat du prix Goncourt ?",
   "r": "10 euros",
   "d": 2,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_a_3-004",
   "q": "Quel roman de John-Antoine Nau a reçu le tout premier prix Goncourt, en 1903 ?",
   "r": "Force ennemie",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-005",
   "q": "Quel roman de Marcel Proust a obtenu le prix Goncourt en 1919 ?",
   "r": "À l'ombre des jeunes filles en fleurs",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-006",
   "q": "Quel écrivain a reçu deux fois le prix Goncourt, la seconde sous le pseudonyme d'Émile Ajar ?",
   "r": "Romain Gary",
   "d": 1,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-007",
   "q": "Quel roman d'Émile Ajar, narré par le petit Momo, a obtenu le prix Goncourt en 1975 ?",
   "r": "La Vie devant soi",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-008",
   "q": "Quel roman de Marguerite Duras, se déroulant en Indochine, a obtenu le prix Goncourt en 1984 ?",
   "r": "L'Amant",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-009",
   "q": "Quel roman d'André Malraux, situé à Shanghai en 1927, a obtenu le prix Goncourt en 1933 ?",
   "r": "La Condition humaine",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-010",
   "q": "Quel écrivain a refusé le prix Goncourt 1951 attribué au « Rivage des Syrtes » ?",
   "r": "Julien Gracq",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-011",
   "q": "Quel écrivain martiniquais a obtenu le prix Goncourt en 1992 pour « Texaco » ?",
   "r": "Patrick Chamoiseau",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-012",
   "q": "Quel écrivain marocain a obtenu le prix Goncourt en 1987 pour « La Nuit sacrée » ?",
   "r": "Tahar Ben Jelloun",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-013",
   "q": "Quel roman de Leïla Slimani, qui s'ouvre sur la mort de deux enfants, a obtenu le prix Goncourt en 2016 ?",
   "r": "Chanson douce",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-014",
   "q": "Quel roman de Michel Houellebecq a obtenu le prix Goncourt en 2010 ?",
   "r": "La Carte et le Territoire",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-015",
   "q": "Quel roman de Pierre Lemaitre, prix Goncourt 2013, suit deux rescapés des tranchées de la Grande Guerre ?",
   "r": "Au revoir là-haut",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-016",
   "q": "Quel écrivain sénégalais a obtenu le prix Goncourt en 2021 pour « La Plus Secrète Mémoire des hommes » ?",
   "r": "Mohamed Mbougar Sarr",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-017",
   "q": "Quel roman d'Hervé Le Tellier, où les passagers d'un même avion atterrissent deux fois, a obtenu le Goncourt en 2020 ?",
   "r": "L'Anomalie",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-018",
   "q": "Quel roman de Jonathan Littell, narré par un officier SS, a obtenu le prix Goncourt en 2006 ?",
   "r": "Les Bienveillantes",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-019",
   "q": "Quel écrivain est devenu en 1921, avec « Batouala », le premier lauréat noir du prix Goncourt ?",
   "r": "René Maran",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-020",
   "q": "Quelle écrivaine est devenue la première femme lauréate du prix Goncourt, au titre de l'année 1944 ?",
   "r": "Elsa Triolet",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-021",
   "q": "Quel écrivain franco-libanais a obtenu le prix Goncourt en 1993 pour « Le Rocher de Tanios » ?",
   "r": "Amin Maalouf",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-022",
   "q": "Quel roman de Patrick Modiano, sur un détective amnésique, a obtenu le prix Goncourt en 1978 ?",
   "r": "Rue des Boutiques obscures",
   "d": 3,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-023",
   "q": "Quel roman de Nicolas Mathieu, sur l'adolescence dans une vallée de l'Est en déclin, a obtenu le Goncourt en 2018 ?",
   "r": "Leurs enfants après eux",
   "d": 2,
   "t": "Prix Goncourt"
  },
  {
+  "id": "art_a_3-024",
   "q": "Quel poète français a été, en 1901, le tout premier lauréat du prix Nobel de littérature ?",
   "r": "Sully Prudhomme",
   "d": 2,
   "t": "Prix Nobel"
  },
  {
+  "id": "art_a_3-025",
   "q": "Quel écrivain et philosophe français a refusé le prix Nobel de littérature en 1964 ?",
   "r": "Jean-Paul Sartre",
   "d": 1,
   "t": "Prix Nobel"
  },
  {
+  "id": "art_a_3-026",
   "q": "Quel romancier français, auteur de « Dora Bruder », a reçu le prix Nobel de littérature en 2014 ?",
   "r": "Patrick Modiano",
   "d": 2,
   "t": "Prix Nobel"
  },
  {
+  "id": "art_a_3-027",
   "q": "Quelle écrivaine française, autrice des « Années », a reçu le prix Nobel de littérature en 2022 ?",
   "r": "Annie Ernaux",
   "d": 1,
   "t": "Prix Nobel"
  },
  {
+  "id": "art_a_3-028",
   "q": "Quel écrivain français, auteur de « Désert », a reçu le prix Nobel de littérature en 2008 ?",
   "r": "J. M. G. Le Clézio",
   "d": 2,
   "t": "Prix Nobel"
  },
  {
+  "id": "art_a_3-029",
   "q": "Dans quel pays est né Georges Simenon, le père du commissaire Maigret ?",
   "r": "La Belgique",
   "d": 1,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-030",
   "q": "Quel écrivain vaudois a écrit « Derborence » et « La Grande Peur dans la montagne » ?",
   "r": "Charles-Ferdinand Ramuz",
   "d": 3,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-031",
   "q": "Quelle romancière belge a raconté son expérience dans une entreprise japonaise dans « Stupeur et tremblements » ?",
   "r": "Amélie Nothomb",
   "d": 1,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-032",
   "q": "Quel roman de Louis Hémon raconte la vie d'une jeune fille dans une famille de défricheurs au Québec ?",
   "r": "Maria Chapdelaine",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-033",
   "q": "Quel écrivain algérien a publié en 1956 le roman « Nedjma » ?",
   "r": "Kateb Yacine",
   "d": 3,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-034",
   "q": "Quelle écrivaine algérienne, autrice de « La Soif », a été élue à l'Académie française en 2005 ?",
   "r": "Assia Djebar",
   "d": 3,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-035",
   "q": "Quel écrivain malien a déclaré à l'Unesco : « En Afrique, quand un vieillard meurt, c'est une bibliothèque qui brûle » ?",
   "r": "Amadou Hampâté Bâ",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-036",
   "q": "Quelle romancière guadeloupéenne a écrit « Ségou » et « Moi, Tituba sorcière… » ?",
   "r": "Maryse Condé",
   "d": 3,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-037",
   "q": "Quel écrivain congolais a écrit « Verre cassé » et « Mémoires de porc-épic » ?",
   "r": "Alain Mabanckou",
   "d": 3,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-038",
   "q": "Quel mouvement littéraire, porté par Césaire, Senghor et Damas, revendique l'identité et la culture noires ?",
   "r": "La négritude",
   "d": 2,
   "t": "Francophonie"
  },
  {
+  "id": "art_a_3-039",
   "q": "Quelle romancière a connu un immense succès en 2006 avec « L'Élégance du hérisson » ?",
   "r": "Muriel Barbery",
   "d": 2,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-040",
   "q": "Quel roman de Michel Tournier (1967) revisite l'histoire de Robinson Crusoé du point de vue de son compagnon ?",
   "r": "Vendredi ou les Limbes du Pacifique",
   "d": 2,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-041",
   "q": "Quel écrivain a créé la tribu Malaussène, à Belleville, dans « Au bonheur des ogres » ?",
   "r": "Daniel Pennac",
   "d": 2,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-042",
   "q": "Quel écrivain a écrit « La Délicatesse », adapté au cinéma avec Audrey Tautou ?",
   "r": "David Foenkinos",
   "d": 2,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-043",
   "q": "Quel écrivain a connu le succès en 1991 avec « Les Fourmis » ?",
   "r": "Bernard Werber",
   "d": 1,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-044",
   "q": "Quelle romancière a écrit « Ensemble, c'est tout » (2004) ?",
   "r": "Anna Gavalda",
   "d": 2,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-045",
   "q": "Quel écrivain a publié en 2000 son premier roman à succès, « Et si c'était vrai… » ?",
   "r": "Marc Levy",
   "d": 1,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-046",
   "q": "Quel écrivain a signé « Et après… » en 2004, avant d'enchaîner les best-sellers ?",
   "r": "Guillaume Musso",
   "d": 1,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-047",
   "q": "Quel écrivain suisse a écrit « La Vérité sur l'affaire Harry Quebert » ?",
   "r": "Joël Dicker",
   "d": 1,
   "t": "Romans contemporains"
  },
  {
+  "id": "art_a_3-048",
   "q": "Quel écrivain a raconté sa fuite d'enfant juif sous l'Occupation dans « Un sac de billes » ?",
   "r": "Joseph Joffo",
   "d": 1,
   "t": "Récits"
  },
  {
+  "id": "art_a_3-049",
   "q": "Quel journaliste, atteint du locked-in syndrome, a dicté « Le Scaphandre et le Papillon » en clignant d'un œil ?",
   "r": "Jean-Dominique Bauby",
   "d": 2,
   "t": "Récits"
  },
  {
+  "id": "art_a_3-050",
   "q": "Quelle épistolière du XVIIe siècle est célèbre pour ses lettres à sa fille, Madame de Grignan ?",
   "r": "Madame de Sévigné",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_3-051",
   "q": "Quel roman commence par « Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas » ?",
   "r": "L'Étranger",
   "d": 1,
   "t": "Incipits"
  },
  {
+  "id": "art_a_3-052",
   "q": "Quel roman commence par « Longtemps, je me suis couché de bonne heure » ?",
   "r": "Du côté de chez Swann",
   "d": 1,
   "t": "Incipits"
  },
  {
+  "id": "art_a_3-053",
   "q": "Quel roman commence par « C'était à Mégara, faubourg de Carthage, dans les jardins d'Hamilcar » ?",
   "r": "Salammbô",
   "d": 3,
   "t": "Incipits"
  },
  {
+  "id": "art_a_3-054",
   "q": "Quel roman commence par « Ça a débuté comme ça » ?",
   "r": "Voyage au bout de la nuit",
   "d": 3,
   "t": "Incipits"
  },
  {
+  "id": "art_a_3-055",
   "q": "Quel roman commence par « Le 24 février 1815, la vigie de Notre-Dame de la Garde signala le trois-mâts le Pharaon » ?",
   "r": "Le Comte de Monte-Cristo",
   "d": 3,
   "t": "Incipits"
  },
  {
+  "id": "art_a_3-056",
   "q": "Quel philosophe a écrit « L'homme est né libre, et partout il est dans les fers » ?",
   "r": "Jean-Jacques Rousseau",
   "d": 2,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-057",
   "q": "Quel philosophe a formulé « Je pense, donc je suis » dans le « Discours de la méthode » ?",
   "r": "René Descartes",
   "d": 1,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-058",
   "q": "Quel penseur a écrit « Le cœur a ses raisons que la raison ne connaît point » ?",
   "r": "Blaise Pascal",
   "d": 1,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-059",
   "q": "Par quelle phrase célèbre se termine « Candide » de Voltaire ?",
   "r": "Il faut cultiver notre jardin",
   "d": 1,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-060",
   "q": "Quel précepteur de Candide répète que « tout est au mieux dans le meilleur des mondes possibles » ?",
   "r": "Pangloss",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "art_a_3-061",
   "q": "Quel moraliste du XVIIe siècle a écrit les « Réflexions ou sentences et maximes morales » ?",
   "r": "La Rochefoucauld",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_3-062",
   "q": "Quel moraliste a brossé des portraits de ses contemporains dans « Les Caractères » (1688) ?",
   "r": "Jean de La Bruyère",
   "d": 2,
   "t": "Auteurs"
  },
  {
+  "id": "art_a_3-063",
   "q": "Quel écrivain a écrit « Ce que l'on conçoit bien s'énonce clairement » dans son « Art poétique » ?",
   "r": "Nicolas Boileau",
   "d": 2,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-064",
   "q": "Quel naturaliste a déclaré « Le style est l'homme même » dans son discours à l'Académie française ?",
   "r": "Buffon",
   "d": 3,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-065",
   "q": "Quel écrivain a écrit « On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux » ?",
   "r": "Antoine de Saint-Exupéry",
   "d": 1,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-066",
   "q": "Quel écrivain a publié « J'accuse… ! » dans le journal L'Aurore en janvier 1898 ?",
   "r": "Émile Zola",
   "d": 1,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-067",
   "q": "Quel écrivain a expliqué son amitié avec La Boétie par « Parce que c'était lui, parce que c'était moi » ?",
   "r": "Montaigne",
   "d": 2,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-068",
   "q": "Quel personnage du « Cid » s'écrie « Ô rage ! ô désespoir ! ô vieillesse ennemie ! » ?",
   "r": "Don Diègue",
   "d": 2,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-069",
   "q": "Quel écrivain a lancé « Familles, je vous hais ! » dans « Les Nourritures terrestres » ?",
   "r": "André Gide",
   "d": 3,
   "t": "Citations"
  },
  {
+  "id": "art_a_3-070",
   "q": "En quelle année le cardinal de Richelieu a-t-il fondé l'Académie française ?",
   "r": "1635",
   "d": 2,
   "t": "Académie française"
  },
  {
+  "id": "art_a_3-071",
   "q": "Combien de membres compte l'Académie française ?",
   "r": "40",
   "d": 1,
   "t": "Académie française"
  },
  {
+  "id": "art_a_3-072",
   "q": "Quel surnom donne-t-on aux membres de l'Académie française ?",
   "r": "Les Immortels",
   "d": 1,
   "t": "Académie française"
  },
  {
+  "id": "art_a_3-073",
   "q": "De quelle couleur sont les broderies de l'habit des membres de l'Académie française ?",
   "r": "Vert",
   "d": 2,
   "t": "Académie française"
  },
  {
+  "id": "art_a_3-074",
   "q": "Quel prix littéraire, créé en 1904, est décerné par un jury exclusivement féminin ?",
   "r": "Le prix Femina",
   "d": 2,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_a_3-075",
   "q": "Quel prix littéraire, fondé par des journalistes en 1926, est annoncé chez Drouant juste après le Goncourt ?",
   "r": "Le prix Renaudot",
   "d": 2,
   "t": "Prix littéraires"
  },
  {
+  "id": "art_a_3-076",
   "q": "Quel mouvement littéraire du XIXe siècle, mené par Zola, veut décrire la réalité sociale avec une rigueur scientifique ?",
   "r": "Le naturalisme",
   "d": 1,
   "t": "Mouvements"
  },
  {
+  "id": "art_a_3-077",
   "q": "De quel mouvement littéraire Victor Hugo fut-il le chef de file en France au XIXe siècle ?",
   "r": "Le romantisme",
   "d": 1,
   "t": "Mouvements"
  },
  {
+  "id": "art_a_3-078",
   "q": "Quel courant philosophique et littéraire, résumé par « l'existence précède l'essence », est associé à Sartre ?",
   "r": "L'existentialisme",
   "d": 1,
   "t": "Mouvements"
  },
  {
+  "id": "art_a_3-079",
   "q": "Quel quartier parisien, avec le Café de Flore et les Deux Magots, fut le repaire des existentialistes ?",
   "r": "Saint-Germain-des-Prés",
   "d": 1,
   "t": "Lieux littéraires"
  },
  {
+  "id": "art_a_3-080",
   "q": "Quel siècle est surnommé en France le « siècle des Lumières » ?",
   "r": "Le XVIIIe siècle",
   "d": 1,
   "t": "Histoire littéraire"
  },
  {
+  "id": "art_a_3-081",
   "q": "Quel siècle, celui de Molière, Racine et Louis XIV, est surnommé le « Grand Siècle » ?",
   "r": "Le XVIIe siècle",
   "d": 1,
   "t": "Histoire littéraire"
  },
  {
+  "id": "art_a_3-082",
   "q": "Dans quel monument parisien reposent notamment Victor Hugo, Émile Zola et Alexandre Dumas ?",
   "r": "Le Panthéon",
   "d": 1,
   "t": "Lieux littéraires"
  },
  {
+  "id": "art_a_3-083",
   "q": "Comment appelle-t-on la première phrase ou les premières lignes d'un roman ?",
   "r": "L'incipit",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-084",
   "q": "Comment appelle-t-on un roman composé uniquement de lettres échangées entre des personnages ?",
   "r": "Un roman épistolaire",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-085",
   "q": "Comment appelle-t-on le récit qu'un auteur fait de sa propre vie ?",
   "r": "Une autobiographie",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-086",
   "q": "Comment appelle-t-on le nom d'emprunt sous lequel un écrivain publie ses livres ?",
   "r": "Un pseudonyme",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-087",
   "q": "Comment appelle-t-on un court récit, souvent en vers et mettant en scène des animaux, qui se termine par une morale ?",
   "r": "Une fable",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-088",
   "q": "Comment appelle-t-on une imitation comique d'une œuvre sérieuse ?",
   "r": "Une parodie",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-089",
   "q": "Comment appelle-t-on le récit de la vie d'une personne réelle écrit par quelqu'un d'autre ?",
   "r": "Une biographie",
   "d": 1,
   "t": "Vocabulaire littéraire"
  },
  {
+  "id": "art_a_3-090",
   "q": "Comment appelle-t-on le texte placé en tête d'un livre pour le présenter, parfois signé d'un autre auteur ?",
   "r": "La préface",
   "d": 1,

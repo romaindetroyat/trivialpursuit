@@ -1,539 +1,629 @@
 [
  {
+  "id": "art_b_1-001",
   "q": "Qui a écrit la tragédie « Roméo et Juliette » ?",
   "r": "William Shakespeare",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-002",
   "q": "Quel détective créé par Arthur Conan Doyle habite au 221B Baker Street ?",
   "r": "Sherlock Holmes",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-003",
   "q": "Quelle romancière anglaise a écrit « Orgueil et Préjugés » ?",
   "r": "Jane Austen",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-004",
   "q": "Dans quel roman de Daniel Defoe un naufragé rencontre-t-il un compagnon qu'il baptise Vendredi ?",
   "r": "Robinson Crusoé",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-005",
   "q": "Quelle autrice britannique a créé le jeune sorcier Harry Potter ?",
   "r": "J. K. Rowling",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-006",
   "q": "Dans quel roman de George Orwell le pays est-il gouverné par un parti dont le chef s'appelle Big Brother ?",
   "r": "1984",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-007",
   "q": "Quel écrivain écossais a écrit « L'Île au trésor » ?",
   "r": "Robert Louis Stevenson",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-008",
   "q": "Quel médecin imaginé par Stevenson se transforme en l'inquiétant Mr Hyde ?",
   "r": "Le docteur Jekyll",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-009",
   "q": "Quel auteur anglais a signé « Les Aventures d'Alice au pays des merveilles » sous un pseudonyme ?",
   "r": "Lewis Carroll",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-010",
   "q": "Dans la pièce de Shakespeare, de quel pays Hamlet est-il le prince ?",
   "r": "Le Danemark",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-011",
   "q": "Quel est le nom de famille des sœurs Charlotte, Emily et Anne, romancières anglaises du XIXe siècle ?",
   "r": "Brontë",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-012",
   "q": "Quel roman d'Emily Brontë raconte la passion destructrice de Heathcliff et Catherine sur les landes du Yorkshire ?",
   "r": "Les Hauts de Hurlevent",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-013",
   "q": "Quel roman de Charlotte Brontë a pour héroïne une gouvernante amoureuse de M. Rochester ?",
   "r": "Jane Eyre",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-014",
   "q": "Quel romancier anglais a créé les personnages d'Oliver Twist et de David Copperfield ?",
   "r": "Charles Dickens",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-015",
   "q": "Dans « Un chant de Noël » de Dickens, comment s'appelle le vieil avare visité par trois esprits ?",
   "r": "Ebenezer Scrooge",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-016",
   "q": "Quelle romancière anglaise a créé Hercule Poirot et Miss Marple ?",
   "r": "Agatha Christie",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-017",
   "q": "Quel écrivain irlandais a écrit « Le Portrait de Dorian Gray » ?",
   "r": "Oscar Wilde",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-018",
   "q": "Quel roman de Mary Shelley, paru en 1818, raconte la création d'une créature par un jeune savant ?",
   "r": "Frankenstein",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-019",
   "q": "Quel écrivain irlandais a publié « Dracula » en 1897 ?",
   "r": "Bram Stoker",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-020",
   "q": "Quel auteur britannique a écrit « Le Seigneur des anneaux » ?",
   "r": "J. R. R. Tolkien",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-021",
   "q": "Dans « Le Hobbit » de Tolkien, comment s'appelle le dragon qui garde le trésor du Mont Solitaire ?",
   "r": "Smaug",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-022",
   "q": "Quel écrivain britannique a écrit « Le Livre de la jungle » ?",
   "r": "Rudyard Kipling",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-023",
   "q": "Dans « Le Livre de la jungle », comment s'appelle la panthère noire qui protège Mowgli ?",
   "r": "Bagheera",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-024",
   "q": "Quel écrivain irlandais a écrit « Les Voyages de Gulliver » ?",
   "r": "Jonathan Swift",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-025",
   "q": "Quel pays peuplé d'habitants minuscules Gulliver découvre-t-il lors de son premier voyage ?",
   "r": "Lilliput",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-026",
   "q": "Quelle romancière anglaise a écrit « Mrs Dalloway » et « Une chambre à soi » ?",
   "r": "Virginia Woolf",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-027",
   "q": "Quel roman de James Joyce se déroule entièrement à Dublin le 16 juin 1904 ?",
   "r": "Ulysse",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-028",
   "q": "Comment appelle-t-on la fête du 16 juin célébrée chaque année par les admirateurs de James Joyce ?",
   "r": "Le Bloomsday",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-029",
   "q": "Quel écrivain britannique a publié « Le Meilleur des mondes » en 1932 ?",
   "r": "Aldous Huxley",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-030",
   "q": "Dans quelle pièce de Shakespeare un vieux roi partage-t-il son royaume entre ses filles Goneril, Régane et Cordelia ?",
   "r": "Le Roi Lear",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-031",
   "q": "Quel poète anglais du XVIIe siècle a écrit l'épopée « Le Paradis perdu » ?",
   "r": "John Milton",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-032",
   "q": "Quel écrivain anglais du XIVe siècle a écrit « Les Contes de Canterbury » ?",
   "r": "Geoffrey Chaucer",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-033",
   "q": "Quelle pièce de Shakespeare met en scène un général maure rendu fou de jalousie par Iago ?",
   "r": "Othello",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-034",
   "q": "Quel humaniste anglais a publié en 1516 un livre dont le titre a donné naissance au mot « utopie » ?",
   "r": "Thomas More",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-035",
   "q": "Quel écrivain écossais a créé Peter Pan, le garçon qui ne voulait pas grandir ?",
   "r": "J. M. Barrie",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-036",
   "q": "Quel écrivain anglais a imaginé une invasion martienne dans « La Guerre des mondes » en 1898 ?",
   "r": "H. G. Wells",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-037",
   "q": "Quel poète romantique anglais, auteur de « Don Juan », est mort à Missolonghi en 1824 en soutenant l'indépendance grecque ?",
   "r": "Lord Byron",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-038",
   "q": "Quel nom de région anglaise, à demi imaginaire, Thomas Hardy donne-t-il au cadre de la plupart de ses romans ?",
   "r": "Le Wessex",
   "d": 3,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-039",
   "q": "Quel romancier britannique a créé l'agent secret James Bond ?",
   "r": "Ian Fleming",
   "d": 1,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-040",
   "q": "Quel écrivain anglais a écrit « Sa Majesté des mouches », où des enfants naufragés retournent à la sauvagerie ?",
   "r": "William Golding",
   "d": 2,
   "t": "Littérature anglaise"
  },
  {
+  "id": "art_b_1-041",
   "q": "Quel écrivain américain a écrit « Les Aventures de Tom Sawyer » ?",
   "r": "Mark Twain",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-042",
   "q": "Quel roman d'Herman Melville raconte la traque d'une gigantesque baleine blanche ?",
   "r": "Moby Dick",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-043",
   "q": "Comment s'appelle le capitaine à la jambe d'ivoire obsédé par la baleine blanche dans « Moby Dick » ?",
   "r": "Achab",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-044",
   "q": "Quel écrivain américain a écrit « Gatsby le Magnifique » ?",
   "r": "F. Scott Fitzgerald",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-045",
   "q": "Quel roman de John Steinbeck, paru en 1939, suit la famille Joad fuyant l'Oklahoma vers la Californie ?",
   "r": "Les Raisins de la colère",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-046",
   "q": "Quel écrivain américain a écrit « Le Vieil Homme et la Mer » ?",
   "r": "Ernest Hemingway",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-047",
   "q": "Quel écrivain américain a écrit le poème « Le Corbeau » et la nouvelle « Double assassinat dans la rue Morgue » ?",
   "r": "Edgar Allan Poe",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-048",
   "q": "Quel poète français a traduit les « Histoires extraordinaires » d'Edgar Allan Poe ?",
   "r": "Charles Baudelaire",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-049",
   "q": "Quelle romancière américaine a écrit « Autant en emporte le vent » ?",
   "r": "Margaret Mitchell",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-050",
   "q": "Quel écrivain américain a publié en 1951 « L'Attrape-cœurs », dont le héros s'appelle Holden Caulfield ?",
   "r": "J. D. Salinger",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-051",
   "q": "Quel roman d'Harper Lee, paru en 1960, est raconté par la petite Scout Finch, fille d'un avocat de l'Alabama ?",
   "r": "Ne tirez pas sur l'oiseau moqueur",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-052",
   "q": "Quelle romancière américaine a écrit « La Case de l'oncle Tom » ?",
   "r": "Harriet Beecher Stowe",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-053",
   "q": "Quel écrivain de la « Beat Generation » a écrit « Sur la route » ?",
   "r": "Jack Kerouac",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-054",
   "q": "Quel roman de Ray Bradbury doit son titre à la température à laquelle le papier s'enflamme ?",
   "r": "Fahrenheit 451",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-055",
   "q": "Quel romancier américain du Sud a écrit « Le Bruit et la Fureur » ?",
   "r": "William Faulkner",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-056",
   "q": "Quel poète américain a écrit le recueil « Feuilles d'herbe » ?",
   "r": "Walt Whitman",
   "d": 3,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-057",
   "q": "Quel maître américain de l'horreur a écrit « Carrie » et « Shining » ?",
   "r": "Stephen King",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-058",
   "q": "Sur quel fleuve Huckleberry Finn descend-il en radeau avec l'esclave en fuite Jim ?",
   "r": "Le Mississippi",
   "d": 1,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-059",
   "q": "Quel écrivain américain a créé le personnage de Tarzan ?",
   "r": "Edgar Rice Burroughs",
   "d": 3,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-060",
   "q": "Quelle romancière afro-américaine, autrice de « Beloved », a reçu le prix Nobel de littérature en 1993 ?",
   "r": "Toni Morrison",
   "d": 2,
   "t": "Littérature américaine"
  },
  {
+  "id": "art_b_1-061",
   "q": "Quel dieu grec règne sur l'Olympe et manie la foudre ?",
   "r": "Zeus",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-062",
   "q": "Quel héros grec, fils de Zeus et d'Alcmène, dut accomplir douze travaux ?",
   "r": "Héraclès (Hercule)",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-063",
   "q": "Quel monstre à corps d'homme et tête de taureau était enfermé dans le Labyrinthe de Crète ?",
   "r": "Le Minotaure",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-064",
   "q": "Quel héros athénien a tué le Minotaure ?",
   "r": "Thésée",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-065",
   "q": "Quelle princesse crétoise a donné à Thésée une pelote de fil pour sortir du Labyrinthe ?",
   "r": "Ariane",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-066",
   "q": "Quel architecte et inventeur a conçu le Labyrinthe du roi Minos avant de s'en évader avec des ailes ?",
   "r": "Dédale",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-067",
   "q": "Quel fils de Dédale périt en mer après s'être trop approché du soleil ?",
   "r": "Icare",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-068",
   "q": "Quelle Gorgone à la chevelure de serpents changeait en pierre ceux qui croisaient son regard ?",
   "r": "Méduse",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-069",
   "q": "Quel cheval ailé est né du cou tranché de Méduse ?",
   "r": "Pégase",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-070",
   "q": "Quel Titan a dérobé le feu aux dieux pour le donner aux hommes ?",
   "r": "Prométhée",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-071",
   "q": "Quelle première femme de la mythologie grecque a ouvert la jarre qui libéra les maux sur le monde ?",
   "r": "Pandore",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-072",
   "q": "Quel frère de Zeus règne sur le royaume des morts ?",
   "r": "Hadès",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-073",
   "q": "Comment s'appelle le chien à trois têtes qui garde l'entrée des Enfers ?",
   "r": "Cerbère",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-074",
   "q": "Quel vieux passeur fait traverser le fleuve des Enfers aux âmes des morts contre une obole ?",
   "r": "Charon",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-075",
   "q": "Quel musicien descendit aux Enfers pour ramener son épouse Eurydice ?",
   "r": "Orphée",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-076",
   "q": "Quelle déesse grecque de l'amour est née de l'écume de la mer ?",
   "r": "Aphrodite",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-077",
   "q": "Quelle déesse grecque de la sagesse est sortie tout armée du crâne de Zeus ?",
   "r": "Athéna",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-078",
   "q": "Quel jeune homme, épris de son propre reflet dans l'eau, fut changé en fleur ?",
   "r": "Narcisse",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-079",
   "q": "Quel roi de Phrygie changeait en or tout ce qu'il touchait ?",
   "r": "Midas",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-080",
   "q": "Quel roi de Corinthe est condamné aux Enfers à pousser éternellement un rocher qui retombe sans cesse ?",
   "r": "Sisyphe",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-081",
   "q": "Quel supplicié des Enfers voit l'eau et les fruits se dérober chaque fois qu'il veut les saisir ?",
   "r": "Tantale",
   "d": 2,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-082",
   "q": "Quel héros mena les Argonautes à la conquête de la Toison d'or ?",
   "r": "Jason",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-083",
   "q": "Quelle magicienne, fille du roi de Colchide, aida Jason avant de tuer leurs propres enfants ?",
   "r": "Médée",
   "d": 2,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-084",
   "q": "Quel monstre ailé à tête de femme posait une énigme aux voyageurs aux portes de Thèbes ?",
   "r": "Le Sphinx",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-085",
   "q": "Quel Titan fut condamné par Zeus à porter la voûte céleste sur ses épaules ?",
   "r": "Atlas",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-086",
   "q": "Quel dieu grec forgeron et boiteux est l'époux d'Aphrodite ?",
   "r": "Héphaïstos",
   "d": 2,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-087",
   "q": "Quel dieu grec messager des dieux porte des sandales ailées ?",
   "r": "Hermès",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-088",
   "q": "Quelles créatures de la mythologie grecque attiraient les marins vers les récifs par leur chant ?",
   "r": "Les Sirènes",
   "d": 1,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-089",
   "q": "Quel monstre dont les têtes repoussaient quand on les coupait Héraclès affronta-t-il dans les marais de Lerne ?",
   "r": "L'Hydre",
   "d": 2,
   "t": "Mythologie grecque"
  },
  {
+  "id": "art_b_1-090",
   "q": "Quel roi, cousin d'Héraclès, lui imposa l'accomplissement des douze travaux ?",
   "r": "Eurysthée",
   "d": 3,

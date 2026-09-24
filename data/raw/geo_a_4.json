@@ -1,539 +1,629 @@
 [
  {
+  "id": "geo_a_4-001",
   "q": "Quelle ville est la capitale de la Belgique ?",
   "r": "Bruxelles",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-002",
   "q": "Quelle petite statue bruxelloise représente un garçonnet en train de faire pipi ?",
   "r": "Le Manneken-Pis",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-003",
   "q": "Quel monument bruxellois, construit pour l'Exposition universelle de 1958, représente un cristal de fer agrandi ?",
   "r": "L'Atomium",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-004",
   "q": "Quelle ville flamande aux nombreux canaux est surnommée « la Venise du Nord » ?",
   "r": "Bruges",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-005",
   "q": "Quelle ville belge, sur l'Escaut, abrite l'un des plus grands ports d'Europe et un célèbre quartier diamantaire ?",
   "r": "Anvers",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-006",
   "q": "Près de quelle commune belge Napoléon fut-il définitivement vaincu en juin 1815 ?",
   "r": "Waterloo",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-007",
   "q": "Quelle ville thermale des Ardennes belges a donné son nom, en anglais, à tous les établissements de bains ?",
   "r": "Spa",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-008",
   "q": "Quelle place de Bruxelles, bordée de maisons de corporations, est inscrite à l'UNESCO depuis 1998 ?",
   "r": "La Grand-Place",
   "d": 1,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-009",
   "q": "Quelle ville est la capitale fédérale de la Suisse ?",
   "r": "Berne",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-010",
   "q": "Quelle est la ville la plus peuplée de Suisse ?",
   "r": "Zurich",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-011",
   "q": "Quelle montagne pyramidale domine la station valaisanne de Zermatt ?",
   "r": "Le Cervin",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-012",
   "q": "Quel grand lac est partagé entre la Suisse et la France, avec Genève à son extrémité ?",
   "r": "Le lac Léman",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-013",
   "q": "Dans quelle ville suisse se trouve le siège du Comité international olympique ?",
   "r": "Lausanne",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-014",
   "q": "Quelle ville suisse au bord du Léman accueille chaque été un célèbre festival de jazz fondé en 1967 ?",
   "r": "Montreux",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-015",
   "q": "Quel col alpin entre le Valais et l'Italie est célèbre pour son hospice et ses chiens sauveteurs ?",
   "r": "Le col du Grand-Saint-Bernard",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-016",
   "q": "Quelle station des Grisons accueille chaque hiver le Forum économique mondial ?",
   "r": "Davos",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-017",
   "q": "Quel fromage suisse à trous porte le nom d'une vallée du canton de Berne ?",
   "r": "L'emmental",
   "d": 1,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-018",
   "q": "Quelle capitale européenne fut surnommée « la Gibraltar du Nord » pour ses puissantes fortifications ?",
   "r": "Luxembourg",
   "d": 2,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-019",
   "q": "Quels sont les trois pays frontaliers du Luxembourg ?",
   "r": "France, Belgique et Allemagne",
   "d": 1,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-020",
   "q": "Quel titre porte le chef de l'État luxembourgeois ?",
   "r": "Grand-duc",
   "d": 1,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-021",
   "q": "Quelle dynastie princière, qui s'empara du Rocher en 1297, règne sur Monaco ?",
   "r": "Les Grimaldi",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-022",
   "q": "Quel quartier de Monaco est célèbre pour son casino ?",
   "r": "Monte-Carlo",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-023",
   "q": "Comment appelle-t-on les habitants de Monaco ?",
   "r": "Les Monégasques",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-024",
   "q": "Quelle actrice américaine est devenue princesse de Monaco en 1956 ?",
   "r": "Grace Kelly",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-025",
   "q": "Après le Vatican, quel est le plus petit État souverain du monde ?",
   "r": "Monaco",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-026",
   "q": "Avec quel pays Monaco partage-t-il son unique frontière terrestre ?",
   "r": "La France",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-027",
   "q": "Quelle couleur figure au-dessus du blanc sur le drapeau de Monaco ?",
   "r": "Le rouge",
   "d": 1,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-028",
   "q": "Quelle est la capitale de la seule province majoritairement francophone du Canada ?",
   "r": "Québec (la ville de Québec)",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-029",
   "q": "Quelle est la ville la plus peuplée du Québec ?",
   "r": "Montréal",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-030",
   "q": "Quel grand fleuve relie les Grands Lacs à l'océan Atlantique en traversant le Québec ?",
   "r": "Le Saint-Laurent",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-031",
   "q": "Quel explorateur français a fondé la ville de Québec en 1608 ?",
   "r": "Samuel de Champlain",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-032",
   "q": "Quel navigateur malouin a exploré le golfe du Saint-Laurent en 1534 ?",
   "r": "Jacques Cartier",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-033",
   "q": "Quel grand hôtel aux allures de château domine le Vieux-Québec ?",
   "r": "Le Château Frontenac",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-034",
   "q": "Quelle colline, au cœur de l'île de Montréal, a donné son nom à la ville ?",
   "r": "Le mont Royal",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-035",
   "q": "Quelle péninsule québécoise est célèbre pour son rocher Percé ?",
   "r": "La Gaspésie",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-036",
   "q": "Quel saint est fêté le 24 juin, jour de la fête nationale du Québec ?",
   "r": "Saint Jean-Baptiste",
   "d": 1,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-037",
   "q": "Combien de régions compte la Belgique ?",
   "r": "Trois",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-038",
   "q": "Quelles sont les trois langues officielles de la Belgique ?",
   "r": "Néerlandais, français et allemand",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-039",
   "q": "Quelle ville, au confluent de la Sambre et de la Meuse, est la capitale de la Wallonie ?",
   "r": "Namur",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-040",
   "q": "Quelle grande ville wallonne est surnommée « la Cité ardente » ?",
   "r": "Liège",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-041",
   "q": "Dans quelle ville du Hainaut les Gilles défilent-ils lors d'un carnaval inscrit au patrimoine immatériel de l'UNESCO ?",
   "r": "Binche",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-042",
   "q": "Dans quelle ville flamande peut-on admirer le retable de l'Agneau mystique des frères Van Eyck ?",
   "r": "Gand",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-043",
   "q": "Quelle ville de Flandre-Occidentale, dévastée en 1914-1918, a donné son nom à un gaz de combat ?",
   "r": "Ypres",
   "d": 2,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-044",
   "q": "Combien de cantons compte la Confédération suisse ?",
   "r": "26",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-045",
   "q": "Quelles sont les quatre langues nationales de la Suisse ?",
   "r": "Allemand, français, italien et romanche",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-046",
   "q": "Quelle ville suisse, où prêcha Jean Calvin, fut surnommée « la Rome protestante » ?",
   "r": "Genève",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-047",
   "q": "Quel château médiéval bâti sur un rocher du Léman, près de Montreux, a inspiré un poème à Lord Byron ?",
   "r": "Le château de Chillon",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-048",
   "q": "Quel est le seul canton suisse dont l'italien est l'unique langue officielle ?",
   "r": "Le Tessin",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-049",
   "q": "Quel est le plus vaste canton suisse ?",
   "r": "Les Grisons",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-050",
   "q": "Quel est le plus long glacier des Alpes ?",
   "r": "Le glacier d'Aletsch",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-051",
   "q": "Quelle célèbre cascade se trouve près de Schaffhouse, dans le nord de la Suisse ?",
   "r": "Les chutes du Rhin",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-052",
   "q": "Quel tunnel ferroviaire suisse, inauguré en 2016, était alors le plus long du monde ?",
   "r": "Le tunnel de base du Saint-Gothard",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-053",
   "q": "Quel canton francophone, entré dans la Confédération en 1979, est le plus récent des cantons suisses ?",
   "r": "Le Jura",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-054",
   "q": "Quelle ville est le chef-lieu du canton du Valais ?",
   "r": "Sion",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-055",
   "q": "Que signifient les lettres CH utilisées pour désigner la Suisse ?",
   "r": "Confoederatio Helvetica",
   "d": 2,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-056",
   "q": "Quelle est la langue nationale du Luxembourg ?",
   "r": "Le luxembourgeois",
   "d": 2,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-057",
   "q": "Quelle rivière aux coteaux viticoles marque la frontière sud-est entre le Luxembourg et l'Allemagne ?",
   "r": "La Moselle",
   "d": 2,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-058",
   "q": "Dans quel village luxembourgeois fut signé en 1985 l'accord sur la libre circulation des personnes en Europe ?",
   "r": "Schengen",
   "d": 2,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-059",
   "q": "Quel musée de Monaco, bâti à flanc de falaise, fut dirigé par le commandant Cousteau ?",
   "r": "Le Musée océanographique",
   "d": 2,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-060",
   "q": "Quel nom familier désigne le promontoire de Monaco-Ville où se dresse le palais princier ?",
   "r": "Le Rocher",
   "d": 2,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-061",
   "q": "Quel prince a régné sur Monaco de 1949 à 2005 ?",
   "r": "Rainier III",
   "d": 2,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-062",
   "q": "Quelle est la devise du Québec, inscrite sur ses plaques d'immatriculation ?",
   "r": "« Je me souviens »",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-063",
   "q": "Sur quel plateau de la ville de Québec les troupes de Montcalm et de Wolfe s'affrontèrent-elles en 1759 ?",
   "r": "Les plaines d'Abraham",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-064",
   "q": "En quelle année Montréal a-t-elle accueilli les Jeux olympiques d'été ?",
   "r": "1976",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-065",
   "q": "Quelle chute d'eau proche de Québec est plus haute que les chutes du Niagara ?",
   "r": "La chute Montmorency",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-066",
   "q": "Quelle rivière québécoise rejoint le Saint-Laurent à Tadoussac après avoir creusé un long fjord ?",
   "r": "Le Saguenay",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-067",
   "q": "Quel archipel du golfe du Saint-Laurent, rattaché au Québec, est réputé pour ses dunes et ses maisons colorées ?",
   "r": "Les îles de la Madeleine",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-068",
   "q": "Quelle île du Saint-Laurent, juste en aval de Québec, porte le nom d'une ville française ?",
   "r": "L'île d'Orléans",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-069",
   "q": "Quelle est la plus vaste province du Canada ?",
   "r": "Le Québec",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-070",
   "q": "Quel quartier historique fortifié de la capitale québécoise est inscrit à l'UNESCO depuis 1985 ?",
   "r": "Le Vieux-Québec",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-071",
   "q": "Quel nom porte le drapeau bleu et blanc du Québec ?",
   "r": "Le Fleurdelisé",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-072",
   "q": "Quel grand lac québécois, d'où sort la rivière Saguenay, est célèbre pour sa traversée internationale à la nage ?",
   "r": "Le lac Saint-Jean",
   "d": 2,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-073",
   "q": "Quel est le point culminant de la Belgique ?",
   "r": "Le signal de Botrange",
   "d": 3,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-074",
   "q": "Quelle ville est le chef-lieu de la province belge du Hainaut ?",
   "r": "Mons",
   "d": 3,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-075",
   "q": "Combien de provinces compte la Belgique ?",
   "r": "Dix",
   "d": 3,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-076",
   "q": "Quelle communauté linguistique belge a son siège à Eupen ?",
   "r": "La Communauté germanophone",
   "d": 3,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-077",
   "q": "Quelle rivière, aujourd'hui en grande partie voûtée, traverse Bruxelles ?",
   "r": "La Senne",
   "d": 3,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-078",
   "q": "Quelle ville wallonne sur la Meuse, dominée par sa citadelle, est la ville natale d'Adolphe Sax ?",
   "r": "Dinant",
   "d": 3,
   "t": "Belgique"
  },
  {
+  "id": "geo_a_4-079",
   "q": "Quel est le point culminant de la Suisse ?",
   "r": "La pointe Dufour",
   "d": 3,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-080",
   "q": "Quel est le plus grand lac situé entièrement en Suisse ?",
   "r": "Le lac de Neuchâtel",
   "d": 3,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-081",
   "q": "Quel pont couvert en bois, orné de peintures, est l'emblème de Lucerne ?",
   "r": "Le pont de la Chapelle (Kapellbrücke)",
   "d": 3,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-082",
   "q": "Quelle gare de l'Oberland bernois, à 3 454 m, est la plus haute d'Europe ?",
   "r": "Le Jungfraujoch",
   "d": 3,
   "t": "Suisse"
  },
  {
+  "id": "geo_a_4-083",
   "q": "Sur quel plateau de la ville de Luxembourg sont installées de nombreuses institutions européennes ?",
   "r": "Le Kirchberg",
   "d": 3,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-084",
   "q": "Quelles galeries souterraines creusées dans le rocher font partie des fortifications de Luxembourg inscrites à l'UNESCO ?",
   "r": "Les casemates du Bock",
   "d": 3,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-085",
   "q": "Quelle est la deuxième ville du Luxembourg ?",
   "r": "Esch-sur-Alzette",
   "d": 3,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-086",
   "q": "Dans quelle petite ville luxembourgeoise dominée par un château Victor Hugo séjourna-t-il en 1871 ?",
   "r": "Vianden",
   "d": 3,
   "t": "Luxembourg"
  },
  {
+  "id": "geo_a_4-087",
   "q": "Quel quartier de Monaco a été gagné sur la mer à partir des années 1970 ?",
   "r": "Fontvieille",
   "d": 3,
   "t": "Monaco"
  },
  {
+  "id": "geo_a_4-088",
   "q": "Quelle ville québécoise a été fondée en 1634 à l'embouchure de la rivière Saint-Maurice ?",
   "r": "Trois-Rivières",
   "d": 3,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-089",
   "q": "Quelle fleur est l'emblème floral du Québec depuis 1999 ?",
   "r": "L'iris versicolore",
   "d": 3,
   "t": "Québec"
  },
  {
+  "id": "geo_a_4-090",
   "q": "Quelle région du Grand Nord québécois est majoritairement peuplée d'Inuits ?",
   "r": "Le Nunavik",
   "d": 3,

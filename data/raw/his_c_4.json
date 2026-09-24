@@ -1,539 +1,629 @@
 [
  {
+  "id": "his_c_4-001",
   "q": "En quelle année la Ve République a-t-elle été instaurée en France ?",
   "r": "1958",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-002",
   "q": "Qui fut le premier président de la Ve République ?",
   "r": "Charles de Gaulle",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-003",
   "q": "Qui fut le premier Premier ministre de la Ve République, nommé en janvier 1959 ?",
   "r": "Michel Debré",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-004",
   "q": "Dans quelle ville a éclaté l'insurrection du 13 mai 1958 qui a précipité le retour au pouvoir du général de Gaulle ?",
   "r": "Alger",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-005",
   "q": "Quel dernier président de la IVe République a fait appel au général de Gaulle en 1958 ?",
   "r": "René Coty",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_c_4-006",
   "q": "Qui fut le premier président de la IVe République, élu en 1947 ?",
   "r": "Vincent Auriol",
   "d": 2,
   "t": "IVe République"
  },
  {
+  "id": "his_c_4-007",
   "q": "Quel article de la Constitution de 1958 permet au président d'exercer des pouvoirs exceptionnels en cas de crise grave ?",
   "r": "L'article 16",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-008",
   "q": "Quel article de la Constitution permet au gouvernement de faire adopter un texte sans vote, sauf motion de censure ?",
   "r": "L'article 49.3",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-009",
   "q": "Depuis la réforme constitutionnelle de 1962, comment le président de la République est-il élu ?",
   "r": "Au suffrage universel direct",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-010",
   "q": "Près de quelle localité des Hauts-de-Seine le général de Gaulle a-t-il échappé à un attentat de l'OAS en août 1962 ?",
   "r": "Le Petit-Clamart",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-011",
   "q": "Dans quel village de Haute-Marne se trouve La Boisserie, la demeure du général de Gaulle ?",
   "r": "Colombey-les-Deux-Églises",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-012",
   "q": "Quelle réforme monétaire de 1960 a créé une monnaie valant cent anciens francs ?",
   "r": "Le nouveau franc",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-013",
   "q": "Quel nom de code portait le premier essai nucléaire français, réalisé dans le Sahara en février 1960 ?",
   "r": "Gerboise bleue",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-014",
   "q": "Dans quelle université de la banlieue parisienne est né le « mouvement du 22 Mars » en 1968 ?",
   "r": "Nanterre",
   "d": 2,
   "t": "Mai 68"
  },
  {
+  "id": "his_c_4-015",
   "q": "Quel leader étudiant de Mai 68 était surnommé « Dany le Rouge » ?",
   "r": "Daniel Cohn-Bendit",
   "d": 1,
   "t": "Mai 68"
  },
  {
+  "id": "his_c_4-016",
   "q": "Quels accords, négociés fin mai 1968 au ministère du Travail, ont prévu une forte hausse du SMIG ?",
   "r": "Les accords de Grenelle",
   "d": 2,
   "t": "Mai 68"
  },
  {
+  "id": "his_c_4-017",
   "q": "Dans quelle ville d'Allemagne le général de Gaulle s'est-il rendu secrètement le 29 mai 1968 ?",
   "r": "Baden-Baden",
   "d": 2,
   "t": "Mai 68"
  },
  {
+  "id": "his_c_4-018",
   "q": "Sur quels thèmes portait le référendum de 1969 dont l'échec a conduit le général de Gaulle à démissionner ?",
   "r": "La régionalisation et le Sénat",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-019",
   "q": "Quel président de la Ve République est mort en cours de mandat, en avril 1974 ?",
   "r": "Georges Pompidou",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-020",
   "q": "Dans quel quartier de Paris le Centre national d'art et de culture Georges-Pompidou a-t-il été inauguré en 1977 ?",
   "r": "Beaubourg",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-021",
   "q": "Quel président a fait abaisser l'âge de la majorité civile et électorale de 21 à 18 ans en 1974 ?",
   "r": "Valéry Giscard d'Estaing",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-022",
   "q": "Quelle ministre de la Santé a défendu en 1975 la loi dépénalisant l'interruption volontaire de grossesse ?",
   "r": "Simone Veil",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_c_4-023",
   "q": "Quelle loi de 1967, du nom d'un député gaulliste, a autorisé la contraception en France ?",
   "r": "La loi Neuwirth",
   "d": 3,
   "t": "Société française"
  },
  {
+  "id": "his_c_4-024",
   "q": "Quel garde des Sceaux a défendu l'abolition de la peine de mort devant l'Assemblée nationale en 1981 ?",
   "r": "Robert Badinter",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-025",
   "q": "Quel ministre de l'Intérieur a donné son nom aux lois de décentralisation de 1982 ?",
   "r": "Gaston Defferre",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-026",
   "q": "Quel Premier ministre, nommé en 1988, a fait créer le revenu minimum d'insertion (RMI) ?",
   "r": "Michel Rocard",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-027",
   "q": "Quelle femme est devenue en 1991 la première à occuper le poste de Premier ministre en France ?",
   "r": "Édith Cresson",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-028",
   "q": "Quelle ministre de l'Emploi a donné son nom aux lois instaurant la semaine de 35 heures ?",
   "r": "Martine Aubry",
   "d": 2,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-029",
   "q": "Quelle durée du mandat présidentiel les Français ont-ils adoptée par référendum en 2000 ?",
   "r": "Cinq ans",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-030",
   "q": "En quelle année la loi suspendant le service militaire obligatoire en France a-t-elle été votée ?",
   "r": "1997",
   "d": 3,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-031",
   "q": "Quel ministre de la Culture du général de Gaulle a créé les maisons de la culture ?",
   "r": "André Malraux",
   "d": 1,
   "t": "Culture et politique"
  },
  {
+  "id": "his_c_4-032",
   "q": "Quel ministre de la Culture a lancé la première Fête de la musique en 1982 ?",
   "r": "Jack Lang",
   "d": 1,
   "t": "Culture et politique"
  },
  {
+  "id": "his_c_4-033",
   "q": "Quel architecte sino-américain a conçu la pyramide de verre du Louvre, inaugurée en 1989 ?",
   "r": "Ieoh Ming Pei",
   "d": 2,
   "t": "Grands travaux"
  },
  {
+  "id": "his_c_4-034",
   "q": "Quel prêtre a lancé à la radio, durant l'hiver 1954, un appel en faveur des sans-abri ?",
   "r": "L'abbé Pierre",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_c_4-035",
   "q": "Quel humoriste a fondé les Restos du cœur en 1985 ?",
   "r": "Coluche",
   "d": 1,
   "t": "Société française"
  },
  {
+  "id": "his_c_4-036",
   "q": "Quel navire de Greenpeace a été coulé par les services secrets français dans le port d'Auckland en 1985 ?",
   "r": "Le Rainbow Warrior",
   "d": 2,
   "t": "Affaires"
  },
  {
+  "id": "his_c_4-037",
   "q": "Quel atoll de Polynésie a été le principal site des essais nucléaires français de 1966 à 1996 ?",
   "r": "Mururoa",
   "d": 1,
   "t": "Ve République"
  },
  {
+  "id": "his_c_4-038",
   "q": "Dans quel territoire français du Pacifique se trouve la grotte d'Ouvéa, théâtre d'une prise d'otages en 1988 ?",
   "r": "La Nouvelle-Calédonie",
   "d": 2,
   "t": "Outre-mer"
  },
  {
+  "id": "his_c_4-039",
   "q": "Quel barrage du Var a cédé en décembre 1959, provoquant une vague meurtrière sur Fréjus ?",
   "r": "Le barrage de Malpasset",
   "d": 3,
   "t": "Catastrophes"
  },
  {
+  "id": "his_c_4-040",
   "q": "Quel pétrolier s'est échoué en 1978 au large de Portsall, provoquant une marée noire en Bretagne ?",
   "r": "L'Amoco Cadiz",
   "d": 3,
   "t": "Catastrophes"
  },
  {
+  "id": "his_c_4-041",
   "q": "Quel pétrolier a fait naufrage au large du Finistère en décembre 1999, souillant les côtes atlantiques ?",
   "r": "L'Erika",
   "d": 2,
   "t": "Catastrophes"
  },
  {
+  "id": "his_c_4-042",
   "q": "Quel avion de ligne supersonique franco-britannique a effectué son premier vol en 1969 ?",
   "r": "Le Concorde",
   "d": 1,
   "t": "Techniques"
  },
  {
+  "id": "his_c_4-043",
   "q": "En quelle année le Concorde a-t-il effectué son dernier vol commercial ?",
   "r": "2003",
   "d": 3,
   "t": "Techniques"
  },
  {
+  "id": "his_c_4-044",
   "q": "Entre quelles deux villes la première ligne de TGV a-t-elle été mise en service en 1981 ?",
   "r": "Paris et Lyon",
   "d": 1,
   "t": "Techniques"
  },
  {
+  "id": "his_c_4-045",
   "q": "Quel ministre français des Affaires étrangères a proposé le 9 mai 1950 de mettre en commun le charbon et l'acier ?",
   "r": "Robert Schuman",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-046",
   "q": "Quel commissaire au Plan, inspirateur de la déclaration du 9 mai 1950, est considéré comme un « père de l'Europe » ?",
   "r": "Jean Monnet",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-047",
   "q": "Quelle communauté européenne, fondée en 1951, est la première étape de la construction européenne ?",
   "r": "La CECA",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-048",
   "q": "Dans quelle capitale a été signé en avril 1951 le traité instituant la Communauté européenne du charbon et de l'acier ?",
   "r": "Paris",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-049",
   "q": "Quel projet d'armée européenne l'Assemblée nationale française a-t-elle rejeté en août 1954 ?",
   "r": "La CED",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-050",
   "q": "Quel traité signé en 1957 a institué la Communauté économique européenne ?",
   "r": "Le traité de Rome",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-051",
   "q": "Combien de pays ont fondé la Communauté économique européenne en 1957 ?",
   "r": "Six",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-052",
   "q": "Quel Allemand fut le premier président de la Commission de la CEE, de 1958 à 1967 ?",
   "r": "Walter Hallstein",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-053",
   "q": "Quelle politique commune, lancée en 1962, soutient les revenus des agriculteurs européens ?",
   "r": "La PAC",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-054",
   "q": "Quel chancelier allemand a signé avec de Gaulle le traité de l'Élysée en 1963 ?",
   "r": "Konrad Adenauer",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-055",
   "q": "Comment appelle-t-on le boycott des réunions européennes décidé par la France en 1965 ?",
   "r": "La politique de la chaise vide",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-056",
   "q": "En quelle année le Royaume-Uni, l'Irlande et le Danemark sont-ils entrés dans la CEE ?",
   "r": "1973",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-057",
   "q": "Quel territoire autonome danois a quitté la Communauté européenne en 1985 ?",
   "r": "Le Groenland",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-058",
   "q": "Quels accords signés en 1985 dans un village du Luxembourg ont prévu la suppression des contrôles aux frontières intérieures ?",
   "r": "Les accords de Schengen",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-059",
   "q": "Quel programme européen d'échanges d'étudiants a été lancé en 1987 ?",
   "r": "Erasmus",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-060",
   "q": "Quel Français a présidé la Commission européenne de 1985 à 1995 ?",
   "r": "Jacques Delors",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-061",
   "q": "Quel chancelier allemand a tenu la main de François Mitterrand lors d'une cérémonie à Verdun en 1984 ?",
   "r": "Helmut Kohl",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-062",
   "q": "Quel traité signé en 1992 dans une ville néerlandaise a créé l'Union européenne ?",
   "r": "Le traité de Maastricht",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-063",
   "q": "Quel pays a d'abord rejeté le traité de Maastricht par référendum en juin 1992 ?",
   "r": "Le Danemark",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-064",
   "q": "Quels trois pays ont rejoint l'Union européenne en 1995 ?",
   "r": "Autriche, Finlande, Suède",
   "d": 3,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-065",
   "q": "Quelle unité de compte européenne, créée en 1979, a précédé l'euro ?",
   "r": "L'écu",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-066",
   "q": "En quelle année les pièces et billets en euros ont-ils été mis en circulation ?",
   "r": "2002",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-067",
   "q": "Combien de pays ont rejoint l'Union européenne lors du grand élargissement de mai 2004 ?",
   "r": "Dix",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-068",
   "q": "Quel traité européen a été rejeté par référendum par les Français et les Néerlandais en 2005 ?",
   "r": "Le traité constitutionnel européen",
   "d": 2,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-069",
   "q": "Dans quelle ville française se trouve le siège officiel du Parlement européen ?",
   "r": "Strasbourg",
   "d": 1,
   "t": "Construction européenne"
  },
  {
+  "id": "his_c_4-070",
   "q": "Dans quelle ville américaine l'Organisation des Nations unies a-t-elle été fondée en 1945 ?",
   "r": "San Francisco",
   "d": 2,
   "t": "Relations internationales"
  },
  {
+  "id": "his_c_4-071",
   "q": "Quel texte l'Assemblée générale de l'ONU a-t-elle adopté à Paris, au palais de Chaillot, en décembre 1948 ?",
   "r": "La Déclaration universelle (DUDH)",
   "d": 1,
   "t": "Relations internationales"
  },
  {
+  "id": "his_c_4-072",
   "q": "Quel juriste français, prix Nobel de la paix 1968, fut l'un des principaux rédacteurs de la Déclaration universelle des droits de l'homme ?",
   "r": "René Cassin",
   "d": 3,
   "t": "Relations internationales"
  },
  {
+  "id": "his_c_4-073",
   "q": "Quel secrétaire général suédois de l'ONU a trouvé la mort dans un accident d'avion en Afrique en 1961 ?",
   "r": "Dag Hammarskjöld",
   "d": 3,
   "t": "Relations internationales"
  },
  {
+  "id": "his_c_4-074",
   "q": "Quel pape a ouvert le concile Vatican II en 1962 ?",
   "r": "Jean XXIII",
   "d": 2,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-075",
   "q": "Quel pape d'origine polonaise a été élu en 1978 ?",
   "r": "Jean-Paul II",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-076",
   "q": "Quelle religieuse, prix Nobel de la paix 1979, a consacré sa vie aux plus pauvres de Calcutta ?",
   "r": "Mère Teresa",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-077",
   "q": "Quel roi du Royaume-Uni a abdiqué en 1936 pour épouser l'Américaine divorcée Wallis Simpson ?",
   "r": "Édouard VIII",
   "d": 2,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-078",
   "q": "Quelle reine a été couronnée à l'abbaye de Westminster en juin 1953 ?",
   "r": "Élisabeth II",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-079",
   "q": "Quelle princesse a trouvé la mort dans un accident de voiture sous le pont de l'Alma, à Paris, en 1997 ?",
   "r": "Diana",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-080",
   "q": "Sous quel surnom l'épouse du président argentin Juan Perón est-elle restée célèbre ?",
   "r": "Evita",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-081",
   "q": "Quel homme d'État a dirigé le Portugal d'une main de fer de 1932 à 1968 ?",
   "r": "António de Oliveira Salazar",
   "d": 3,
   "t": "Europe du Sud"
  },
  {
+  "id": "his_c_4-082",
   "q": "Comment appelle-t-on le coup d'État militaire pacifique qui a renversé la dictature portugaise en avril 1974 ?",
   "r": "La révolution des Œillets",
   "d": 2,
   "t": "Europe du Sud"
  },
  {
+  "id": "his_c_4-083",
   "q": "Quel roi a accompagné la transition démocratique de l'Espagne après la mort de Franco en 1975 ?",
   "r": "Juan Carlos Ier",
   "d": 2,
   "t": "Europe du Sud"
  },
  {
+  "id": "his_c_4-084",
   "q": "Quel régime militaire a gouverné la Grèce de 1967 à 1974 ?",
   "r": "La dictature des colonels",
   "d": 3,
   "t": "Europe du Sud"
  },
  {
+  "id": "his_c_4-085",
   "q": "Quel acteur de cinéma a été élu président des États-Unis en 1980 ?",
   "r": "Ronald Reagan",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-086",
   "q": "Quel homme politique est devenu en 2009 le premier président afro-américain des États-Unis ?",
   "r": "Barack Obama",
   "d": 1,
   "t": "Personnalités"
  },
  {
+  "id": "his_c_4-087",
   "q": "Quelle banque d'investissement américaine a fait faillite en septembre 2008, aggravant la crise financière mondiale ?",
   "r": "Lehman Brothers",
   "d": 2,
   "t": "Monde contemporain"
  },
  {
+  "id": "his_c_4-088",
   "q": "Quel ouragan a dévasté La Nouvelle-Orléans en août 2005 ?",
   "r": "Katrina",
   "d": 1,
   "t": "Catastrophes"
  },
  {
+  "id": "his_c_4-089",
   "q": "Dans quel océan un tsunami a-t-il fait plus de 200 000 morts le 26 décembre 2004 ?",
   "r": "L'océan Indien",
   "d": 1,
   "t": "Catastrophes"
  },
  {
+  "id": "his_c_4-090",
   "q": "Quel pays des Caraïbes a été ravagé par un séisme dévastateur en janvier 2010 ?",
   "r": "Haïti",
   "d": 1,

@@ -1,539 +1,629 @@
 [
  {
+  "id": "spo_a_1-001",
   "q": "Combien de joueurs chaque équipe de football aligne-t-elle sur le terrain au coup d'envoi ?",
   "r": "11",
   "d": 1,
   "t": "Football – règles"
  },
  {
+  "id": "spo_a_1-002",
   "q": "Quelle couleur de carton l'arbitre brandit-il pour expulser un joueur ?",
   "r": "Rouge",
   "d": 1,
   "t": "Football – règles"
  },
  {
+  "id": "spo_a_1-003",
   "q": "Combien de minutes dure un match de football, hors arrêts de jeu et prolongations ?",
   "r": "90 minutes",
   "d": 1,
   "t": "Football – règles"
  },
  {
+  "id": "spo_a_1-004",
   "q": "Quelle règle sanctionne un attaquant placé plus près du but adverse que l'avant-dernier défenseur au moment de la passe ?",
   "r": "Le hors-jeu",
   "d": 1,
   "t": "Football – règles"
  },
  {
+  "id": "spo_a_1-005",
   "q": "Comment appelle-t-on le fait, pour un même joueur, de marquer trois buts dans un match ?",
   "r": "Un coup du chapeau (hat-trick)",
   "d": 1,
   "t": "Football – vocabulaire"
  },
  {
+  "id": "spo_a_1-006",
   "q": "Comment appelle-t-on, par son sigle anglais, l'assistance vidéo à l'arbitrage ?",
   "r": "VAR",
   "d": 1,
   "t": "Football – règles"
  },
  {
+  "id": "spo_a_1-007",
   "q": "Quel nom porte le championnat de France de football de première division depuis 2002 ?",
   "r": "Ligue 1",
   "d": 1,
   "t": "Football – compétitions"
  },
  {
+  "id": "spo_a_1-008",
   "q": "Qui a marqué deux buts de la tête en finale de la Coupe du monde 1998 face au Brésil ?",
   "r": "Zinédine Zidane",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-009",
   "q": "Dans quel stade la France a-t-elle remporté la finale de la Coupe du monde 1998 ?",
   "r": "Stade de France",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-010",
   "q": "Dans quelle commune, au nord de Paris, se trouve le Stade de France ?",
   "r": "Saint-Denis",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-011",
   "q": "Contre quelle équipe la France a-t-elle remporté la finale de la Coupe du monde 2018 (4-2) ?",
   "r": "La Croatie",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-012",
   "q": "Quel pays a organisé la Coupe du monde de football 2022 ?",
   "r": "Le Qatar",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-013",
   "q": "Quel capitaine argentin a soulevé le trophée de la Coupe du monde 2022 ?",
   "r": "Lionel Messi",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-014",
   "q": "Quel pays a remporté la toute première Coupe du monde de football, en 1930 ?",
   "r": "L'Uruguay",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-015",
   "q": "Quelle équipe a infligé un humiliant 7-1 au Brésil en demi-finale de la Coupe du monde 2014 ?",
   "r": "L'Allemagne",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-016",
   "q": "Quel pays a remporté la Coupe du monde 2010 en Afrique du Sud ?",
   "r": "L'Espagne",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-017",
   "q": "Quel pays a remporté la Coupe du monde 2006 en battant la France aux tirs au but ?",
   "r": "L'Italie",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-018",
   "q": "Sur quel défenseur italien Zinédine Zidane a-t-il donné un coup de tête en finale de la Coupe du monde 2006 ?",
   "r": "Marco Materazzi",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-019",
   "q": "Quel pays a remporté à domicile la Coupe du monde 1966 ?",
   "r": "L'Angleterre",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-020",
   "q": "Quel joueur brésilien, surnommé « le Roi », a remporté la Coupe du monde en 1958, 1962 et 1970 ?",
   "r": "Pelé",
   "d": 1,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-021",
   "q": "Quel Argentin a marqué un but de la main contre l'Angleterre en quart de finale de la Coupe du monde 1986 ?",
   "r": "Diego Maradona",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-022",
   "q": "Quel sélectionneur a conduit l'équipe de France au titre mondial en 1998 ?",
   "r": "Aimé Jacquet",
   "d": 1,
   "t": "Football – équipe de France"
  },
  {
+  "id": "spo_a_1-023",
   "q": "Quel ancien capitaine des Bleus de 1998 était le sélectionneur de l'équipe de France championne du monde en 2018 ?",
   "r": "Didier Deschamps",
   "d": 1,
   "t": "Football – équipe de France"
  },
  {
+  "id": "spo_a_1-024",
   "q": "Quel gardien de but était le capitaine de l'équipe de France championne du monde en 2018 ?",
   "r": "Hugo Lloris",
   "d": 1,
   "t": "Football – équipe de France"
  },
  {
+  "id": "spo_a_1-025",
   "q": "Quel trophée individuel, créé en 1956 par le magazine France Football, récompense chaque année le meilleur joueur ?",
   "r": "Le Ballon d'or",
   "d": 1,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-026",
   "q": "Quel attaquant français a remporté le Ballon d'or en 2022 ?",
   "r": "Karim Benzema",
   "d": 1,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-027",
   "q": "Quel club français a remporté la Ligue des champions en 1993 ?",
   "r": "L'Olympique de Marseille",
   "d": 1,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-028",
   "q": "Dans quel stade l'Olympique de Marseille dispute-t-il ses matchs à domicile ?",
   "r": "Le stade Vélodrome",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-029",
   "q": "Quel club français est surnommé « les Verts » ?",
   "r": "L'AS Saint-Étienne",
   "d": 1,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-030",
   "q": "Quel club joue ses matchs à domicile au Parc des Princes ?",
   "r": "Le Paris Saint-Germain",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-031",
   "q": "Quel club espagnol évolue au stade Santiago-Bernabéu ?",
   "r": "Le Real Madrid",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-032",
   "q": "Dans quelle ville se trouve le Camp Nou ?",
   "r": "Barcelone",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-033",
   "q": "Quel club anglais est surnommé « les Red Devils » ?",
   "r": "Manchester United",
   "d": 1,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-034",
   "q": "Quel club italien est surnommé « la Vieille Dame » ?",
   "r": "La Juventus de Turin",
   "d": 1,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-035",
   "q": "Dans quelle ville se trouve le célèbre stade Maracanã ?",
   "r": "Rio de Janeiro",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-036",
   "q": "Quel stade londonien accueille traditionnellement la finale de la FA Cup ?",
   "r": "Wembley",
   "d": 1,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-037",
   "q": "Quel entraîneur français a dirigé Arsenal de 1996 à 2018 ?",
   "r": "Arsène Wenger",
   "d": 1,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-038",
   "q": "Quel attaquant français, au col relevé, était surnommé « King Eric » par les supporters de Manchester United ?",
   "r": "Éric Cantona",
   "d": 1,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-039",
   "q": "Quelle sélection nationale est surnommée la « Squadra Azzurra » ?",
   "r": "L'Italie",
   "d": 1,
   "t": "Football – sélections"
  },
  {
+  "id": "spo_a_1-040",
   "q": "Quelle sélection nationale joue en orange et est surnommée « Oranje » ?",
   "r": "Les Pays-Bas",
   "d": 1,
   "t": "Football – sélections"
  },
  {
+  "id": "spo_a_1-041",
   "q": "Quel milieu de terrain français a marqué le troisième but des Bleus en finale de la Coupe du monde 2018 ?",
   "r": "Paul Pogba",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-042",
   "q": "Quel attaquant a réussi un triplé en finale de la Coupe du monde 2022, sans pouvoir éviter la défaite de la France ?",
   "r": "Kylian Mbappé",
   "d": 1,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-043",
   "q": "Quel défenseur français a marqué les deux buts de la victoire contre la Croatie en demi-finale de la Coupe du monde 1998 ?",
   "r": "Lilian Thuram",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-044",
   "q": "Quel attaquant a offert l'Euro 2000 à la France en marquant le but en or contre l'Italie ?",
   "r": "David Trezeguet",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-045",
   "q": "Quel joueur a égalisé pour la France dans les arrêts de jeu de la finale de l'Euro 2000 ?",
   "r": "Sylvain Wiltord",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-046",
   "q": "Contre quel pays la France a-t-elle remporté la finale de l'Euro 1984 au Parc des Princes ?",
   "r": "L'Espagne",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-047",
   "q": "Quel joueur portugais a marqué le seul but de la finale de l'Euro 2016 contre la France ?",
   "r": "Éder",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-048",
   "q": "Quel pays a créé la surprise en remportant l'Euro 2004 au Portugal ?",
   "r": "La Grèce",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-049",
   "q": "Quel pays, repêché au dernier moment à la place de la Yougoslavie, a remporté l'Euro 1992 ?",
   "r": "Le Danemark",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-050",
   "q": "Quelle équipe a éliminé la France aux tirs au but en huitièmes de finale de l'Euro 2020, disputé en 2021 ?",
   "r": "La Suisse",
   "d": 2,
   "t": "Football – Euro"
  },
  {
+  "id": "spo_a_1-051",
   "q": "Quel joueur français a remporté trois Ballons d'or consécutifs, de 1983 à 1985 ?",
   "r": "Michel Platini",
   "d": 1,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-052",
   "q": "Quel attaquant de l'OM a remporté le Ballon d'or en 1991 ?",
   "r": "Jean-Pierre Papin",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-053",
   "q": "Quel joueur du Stade de Reims et du Real Madrid a été le premier Français Ballon d'or, en 1958 ?",
   "r": "Raymond Kopa",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-054",
   "q": "Quel attaquant français a marqué 13 buts lors de la Coupe du monde 1958 en Suède ?",
   "r": "Just Fontaine",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-055",
   "q": "Quel Libérien a remporté le Ballon d'or en 1995 ?",
   "r": "George Weah",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-056",
   "q": "Quel gardien soviétique, surnommé « l'Araignée noire », a remporté le Ballon d'or en 1963 ?",
   "r": "Lev Yachine",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-057",
   "q": "Quel milieu croate du Real Madrid a remporté le Ballon d'or en 2018 ?",
   "r": "Luka Modrić",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-058",
   "q": "Quelle Norvégienne a reçu le premier Ballon d'or féminin, en 2018 ?",
   "r": "Ada Hegerberg",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-059",
   "q": "Quel défenseur a marqué de la tête le but de la victoire de l'OM en finale de la Ligue des champions 1993 ?",
   "r": "Basile Boli",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-060",
   "q": "Quel Français a présidé la FIFA de 1921 à 1954 et a donné son nom au premier trophée de la Coupe du monde ?",
   "r": "Jules Rimet",
   "d": 2,
   "t": "Football – compétitions"
  },
  {
+  "id": "spo_a_1-061",
   "q": "Quel pays a accueilli la Coupe du monde de football 1938 ?",
   "r": "La France",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-062",
   "q": "Quel pays a remporté la Coupe du monde 1970 au Mexique ?",
   "r": "Le Brésil",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-063",
   "q": "Quel gardien allemand a violemment percuté Patrick Battiston lors de France-RFA à Séville en 1982 ?",
   "r": "Harald Schumacher",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-064",
   "q": "Quel Néerlandais a donné son nom à un célèbre crochet exécuté lors de la Coupe du monde 1974 ?",
   "r": "Johan Cruyff",
   "d": 2,
   "t": "Football – champions"
  },
  {
+  "id": "spo_a_1-065",
   "q": "Quel pays africain a battu la France, tenante du titre, lors du match d'ouverture de la Coupe du monde 2002 ?",
   "r": "Le Sénégal",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-066",
   "q": "Quelle sélection est devenue en 2022 la première nation africaine à atteindre les demi-finales d'une Coupe du monde ?",
   "r": "Le Maroc",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-067",
   "q": "Dans quelle localité d'Afrique du Sud les Bleus ont-ils refusé de s'entraîner lors de la Coupe du monde 2010 ?",
   "r": "Knysna",
   "d": 2,
   "t": "Football – équipe de France"
  },
  {
+  "id": "spo_a_1-068",
   "q": "Quel sélectionneur a conduit l'équipe de France jusqu'à la finale de la Coupe du monde 2006 ?",
   "r": "Raymond Domenech",
   "d": 2,
   "t": "Football – équipe de France"
  },
  {
+  "id": "spo_a_1-069",
   "q": "Dans quelle ville a eu lieu le drame du stade du Heysel, en 1985 ?",
   "r": "Bruxelles",
   "d": 2,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-070",
   "q": "Quel club anglais a été sacré champion sans perdre un seul match de championnat lors de la saison 2003-2004 ?",
   "r": "Arsenal",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-071",
   "q": "Combien de titres consécutifs de champion de France l'Olympique lyonnais a-t-il remportés de 2002 à 2008 ?",
   "r": "7",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-072",
   "q": "Quel club héraultais a été sacré champion de France de football pour la première fois de son histoire en 2012 ?",
   "r": "Montpellier (MHSC)",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-073",
   "q": "Quel club a remporté la Ligue 1 en 2021 en devançant le Paris Saint-Germain ?",
   "r": "Le LOSC Lille",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-074",
   "q": "Quel club breton a battu le PSG aux tirs au but en finale de la Coupe de France 2019 ?",
   "r": "Le Stade rennais",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-075",
   "q": "Quel club de quatrième division a atteint la finale de la Coupe de France en 2000, perdue contre Nantes ?",
   "r": "Calais (CRUFC)",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-076",
   "q": "Quel club français est surnommé « les Canaris » ?",
   "r": "Le FC Nantes",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-077",
   "q": "Dans quelle ville se trouve le stade Bollaert-Delelis ?",
   "r": "Lens",
   "d": 2,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-078",
   "q": "Quel club allemand joue au Westfalenstadion, rebaptisé Signal Iduna Park ?",
   "r": "Le Borussia Dortmund",
   "d": 2,
   "t": "Football – stades"
  },
  {
+  "id": "spo_a_1-079",
   "q": "Quel club italien est surnommé les « Rossoneri » en raison de ses couleurs ?",
   "r": "L'AC Milan",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-080",
   "q": "Comment appelle-t-on le derby de Buenos Aires qui oppose Boca Juniors à River Plate ?",
   "r": "Le Superclásico",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-081",
   "q": "Quelle compétition sud-américaine des clubs est l'équivalent de la Ligue des champions ?",
   "r": "La Copa Libertadores",
   "d": 2,
   "t": "Football – compétitions"
  },
  {
+  "id": "spo_a_1-082",
   "q": "Quel club a remporté la Ligue des champions 2005 après avoir été mené 3-0 à la mi-temps à Istanbul ?",
   "r": "Liverpool",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-083",
   "q": "Quel club a remporté la Ligue des champions pour la première fois de son histoire en 2023 ?",
   "r": "Manchester City",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-084",
   "q": "Quel club a remporté la Ligue des champions 2012 aux tirs au but, à Munich, face au Bayern ?",
   "r": "Chelsea",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-085",
   "q": "Quel club italien entraîné par José Mourinho a remporté la Ligue des champions en 2010 ?",
   "r": "L'Inter Milan",
   "d": 2,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-086",
   "q": "Quel entraîneur écossais a dirigé Manchester United de 1986 à 2013 ?",
   "r": "Alex Ferguson",
   "d": 1,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-087",
   "q": "Quel pays a remporté la Coupe du monde féminine 2019, organisée en France ?",
   "r": "Les États-Unis",
   "d": 2,
   "t": "Football – Coupe du monde"
  },
  {
+  "id": "spo_a_1-088",
   "q": "Comment appelle-t-on un penalty tiré en pichenette au centre du but alors que le gardien plonge ?",
   "r": "Une panenka",
   "d": 2,
   "t": "Football – vocabulaire"
  },
  {
+  "id": "spo_a_1-089",
   "q": "Quel club français a perdu contre le Real Madrid la toute première finale de la Coupe des clubs champions, en 1956 ?",
   "r": "Le Stade de Reims",
   "d": 3,
   "t": "Football – clubs"
  },
  {
+  "id": "spo_a_1-090",
   "q": "Dans quelle ville écossaise Saint-Étienne a-t-il perdu en 1976 la finale de la Coupe des champions dite des « poteaux carrés » ?",
   "r": "Glasgow",
   "d": 3,

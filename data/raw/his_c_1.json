@@ -1,539 +1,629 @@
 [
  {
+  "id": "his_c_1-001",
   "q": "Quel archiduc héritier de l'Autriche-Hongrie est assassiné à Sarajevo le 28 juin 1914 ?",
   "r": "François-Ferdinand",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-002",
   "q": "Quel jeune nationaliste serbe de Bosnie a tiré sur l'archiduc à Sarajevo en juin 1914 ?",
   "r": "Gavrilo Princip",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-003",
   "q": "Quel dirigeant socialiste français est assassiné au café du Croissant, à Paris, le 31 juillet 1914 ?",
   "r": "Jean Jaurès",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-004",
   "q": "Quels véhicules parisiens furent réquisitionnés en septembre 1914 pour acheminer des soldats vers le front de la Marne ?",
   "r": "Les taxis",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-005",
   "q": "Quel général commandait en chef les armées françaises lors de la première bataille de la Marne en 1914 ?",
   "r": "Joseph Joffre",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-006",
   "q": "Comment appelle-t-on la série de manœuvres de l'automne 1914 où chaque armée tente de déborder l'autre vers le nord ?",
   "r": "La course à la mer",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-007",
   "q": "Quelle bataille de 1916, livrée dans la Meuse, est devenue le symbole du sacrifice des soldats français ?",
   "r": "Verdun",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-008",
   "q": "Quel surnom donnait-on aux soldats français de la Grande Guerre ?",
   "r": "Les poilus",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-009",
   "q": "Comment a-t-on appelé la route reliant Bar-le-Duc à Verdun, principale voie de ravitaillement du front en 1916 ?",
   "r": "La Voie sacrée",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-010",
   "q": "Quelle offensive franco-britannique de 1916 a coûté près de 20 000 morts aux Britanniques dès son premier jour ?",
   "r": "La bataille de la Somme",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-011",
   "q": "Quel gaz de combat, surnommé « gaz moutarde », doit son nom à une ville de Belgique ?",
   "r": "L'ypérite",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-012",
   "q": "Quel paquebot britannique, torpillé par un sous-marin allemand en mai 1915, provoqua l'indignation des États-Unis ?",
   "r": "Le Lusitania",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-013",
   "q": "En quelle année les États-Unis entrent-ils en guerre contre l'Allemagne lors de la Première Guerre mondiale ?",
   "r": "1917",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-014",
   "q": "Sur quel plateau de l'Aisne l'offensive meurtrière du général Nivelle, en avril 1917, provoqua-t-elle des mutineries ?",
   "r": "Le Chemin des Dames",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-015",
   "q": "Quel général, futur maréchal, a mis fin aux mutineries de 1917 en améliorant aussi l'ordinaire des soldats ?",
   "r": "Philippe Pétain",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-016",
   "q": "Dans quelle forêt de l'Oise l'armistice du 11 novembre 1918 a-t-il été signé ?",
   "r": "La forêt de Compiègne",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-017",
   "q": "À quelle heure le cessez-le-feu du 11 novembre 1918 est-il entré en vigueur ?",
   "r": "11 heures",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-018",
   "q": "Quel général français est nommé commandant en chef des forces alliées sur le front occidental en 1918 ?",
   "r": "Ferdinand Foch",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-019",
   "q": "Quel président du Conseil français a été surnommé « le Père la Victoire » ?",
   "r": "Georges Clemenceau",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-020",
   "q": "Dans quelle salle du château de Versailles le traité de paix avec l'Allemagne a-t-il été signé en 1919 ?",
   "r": "La galerie des Glaces",
   "d": 1,
   "t": "Traités de paix"
  },
  {
+  "id": "his_c_1-021",
   "q": "Quel président américain a présenté en janvier 1918 un programme de paix en « Quatorze Points » ?",
   "r": "Woodrow Wilson",
   "d": 2,
   "t": "Traités de paix"
  },
  {
+  "id": "his_c_1-022",
   "q": "Quelle organisation internationale, ancêtre de l'ONU, est créée par les traités de paix de 1919 ?",
   "r": "La Société des Nations",
   "d": 1,
   "t": "Entre-deux-guerres"
  },
  {
+  "id": "his_c_1-023",
   "q": "Quelle pandémie a fait des dizaines de millions de morts dans le monde en 1918-1919 ?",
   "r": "La grippe espagnole",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-024",
   "q": "Quel as de l'aviation allemande était surnommé le « Baron rouge » ?",
   "r": "Manfred von Richthofen",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-025",
   "q": "Quel as français de l'aviation, crédité de 53 victoires, a disparu en combat aérien en septembre 1917 ?",
   "r": "Georges Guynemer",
   "d": 3,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-026",
   "q": "Quel pilote français, avec 75 victoires homologuées, fut l'as des as allié de la Grande Guerre ?",
   "r": "René Fonck",
   "d": 3,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-027",
   "q": "Quelle grande bataille navale a opposé les flottes britannique et allemande en mer du Nord en 1916 ?",
   "r": "La bataille du Jutland",
   "d": 3,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-028",
   "q": "Sur quelle péninsule turque les Alliés ont-ils tenté un débarquement désastreux en 1915 ?",
   "r": "Gallipoli",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-029",
   "q": "Sous quel surnom est connu l'officier britannique Thomas Edward Lawrence, qui soutint la révolte arabe de 1916 ?",
   "r": "Lawrence d'Arabie",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-030",
   "q": "Quel traité de mars 1918 a fait sortir la Russie bolchevique de la guerre ?",
   "r": "Le traité de Brest-Litovsk",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-031",
   "q": "Quel peuple a été victime à partir de 1915 d'un génocide perpétré par le gouvernement ottoman ?",
   "r": "Les Arméniens",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-032",
   "q": "Quelle danseuse néerlandaise, accusée d'espionnage au profit de l'Allemagne, fut fusillée par les Français en 1917 ?",
   "r": "Mata Hari",
   "d": 1,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-033",
   "q": "Quels soldats de l'Empire colonial, recrutés en Afrique de l'Ouest, ont combattu pour la France en 1914-1918 ?",
   "r": "Les tirailleurs sénégalais",
   "d": 2,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-034",
   "q": "Quel char léger français à tourelle pivotante a joué un rôle décisif dans les offensives de 1918 ?",
   "r": "Le Renault FT",
   "d": 3,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-035",
   "q": "Quel écrivain a reçu le prix Goncourt 1916 pour Le Feu, récit de la vie d'une escouade dans les tranchées ?",
   "r": "Henri Barbusse",
   "d": 3,
   "t": "Première Guerre mondiale"
  },
  {
+  "id": "his_c_1-036",
   "q": "Quelle insurrection républicaine irlandaise a éclaté à Dublin en avril 1916 ?",
   "r": "L'insurrection de Pâques",
   "d": 3,
   "t": "Europe en guerre"
  },
  {
+  "id": "his_c_1-037",
   "q": "Quel tsar a abdiqué en mars 1917, mettant fin à trois siècles de règne des Romanov ?",
   "r": "Nicolas II",
   "d": 1,
   "t": "Révolution russe"
  },
  {
+  "id": "his_c_1-038",
   "q": "Quel révolutionnaire a dirigé la prise du pouvoir par les bolcheviks en octobre 1917 ?",
   "r": "Lénine",
   "d": 1,
   "t": "Révolution russe"
  },
  {
+  "id": "his_c_1-039",
   "q": "Quel croiseur russe aurait donné, par un tir à blanc, le signal de l'assaut du palais d'Hiver en 1917 ?",
   "r": "L'Aurore",
   "d": 3,
   "t": "Révolution russe"
  },
  {
+  "id": "his_c_1-040",
   "q": "Dans quelle ville se trouvait le palais d'Hiver, pris d'assaut par les bolcheviks en octobre 1917 ?",
   "r": "Petrograd (Saint-Pétersbourg)",
   "d": 1,
   "t": "Révolution russe"
  },
  {
+  "id": "his_c_1-041",
   "q": "Quel révolutionnaire russe a fondé l'Armée rouge avant d'être exclu du pouvoir par Staline ?",
   "r": "Léon Trotski",
   "d": 2,
   "t": "Révolution russe"
  },
  {
+  "id": "his_c_1-042",
   "q": "Dans quel pays Léon Trotski a-t-il été assassiné en 1940 ?",
   "r": "Le Mexique",
   "d": 2,
   "t": "URSS"
  },
  {
+  "id": "his_c_1-043",
   "q": "Par quel mot ukrainien désigne-t-on la grande famine qui a frappé l'Ukraine soviétique en 1932-1933 ?",
   "r": "L'Holodomor",
   "d": 3,
   "t": "URSS"
  },
  {
+  "id": "his_c_1-044",
   "q": "En quelle année l'Union des républiques socialistes soviétiques a-t-elle été officiellement fondée ?",
   "r": "1922",
   "d": 3,
   "t": "URSS"
  },
  {
+  "id": "his_c_1-045",
   "q": "Quel mouvement politique Benito Mussolini a-t-il fondé en Italie après la Première Guerre mondiale ?",
   "r": "Le fascisme",
   "d": 1,
   "t": "Régimes totalitaires"
  },
  {
+  "id": "his_c_1-046",
   "q": "Comment appelle-t-on la démonstration de force des fascistes italiens qui porta Mussolini au pouvoir en octobre 1922 ?",
   "r": "La marche sur Rome",
   "d": 1,
   "t": "Régimes totalitaires"
  },
  {
+  "id": "his_c_1-047",
   "q": "Quels accords signés en 1929 entre l'Italie et le Saint-Siège ont créé l'État de la Cité du Vatican ?",
   "r": "Les accords du Latran",
   "d": 2,
   "t": "Entre-deux-guerres"
  },
  {
+  "id": "his_c_1-048",
   "q": "Quel pays africain l'Italie de Mussolini a-t-elle envahi en 1935 ?",
   "r": "L'Éthiopie",
   "d": 2,
   "t": "Entre-deux-guerres"
  },
  {
+  "id": "his_c_1-049",
   "q": "Comment surnomme-t-on le 24 octobre 1929, premier jour de panique du krach de Wall Street ?",
   "r": "Le Jeudi noir",
   "d": 1,
   "t": "Crise de 1929"
  },
  {
+  "id": "his_c_1-050",
   "q": "Quel nom porte la politique de relance économique lancée par Franklin D. Roosevelt à partir de 1933 ?",
   "r": "Le New Deal",
   "d": 1,
   "t": "Crise de 1929"
  },
  {
+  "id": "his_c_1-051",
   "q": "Dans quelle ville s'est réunie en 1919 l'assemblée qui a donné son nom à la république allemande de l'entre-deux-guerres ?",
   "r": "Weimar",
   "d": 2,
   "t": "Allemagne"
  },
  {
+  "id": "his_c_1-052",
   "q": "Quelle région industrielle allemande la France et la Belgique ont-elles occupée en 1923 pour obtenir les réparations ?",
   "r": "La Ruhr",
   "d": 2,
   "t": "Allemagne"
  },
  {
+  "id": "his_c_1-053",
   "q": "Comment appelle-t-on la tentative de coup d'État menée par Hitler à Munich en novembre 1923 ?",
   "r": "Le putsch de la Brasserie",
   "d": 2,
   "t": "Allemagne nazie"
  },
  {
+  "id": "his_c_1-054",
   "q": "En quelle année Adolf Hitler est-il nommé chancelier du Reich ?",
   "r": "1933",
   "d": 1,
   "t": "Allemagne nazie"
  },
  {
+  "id": "his_c_1-055",
   "q": "Quel bâtiment berlinois, incendié en février 1933, servit de prétexte à la répression des communistes allemands ?",
   "r": "Le Reichstag",
   "d": 2,
   "t": "Allemagne nazie"
  },
  {
+  "id": "his_c_1-056",
   "q": "Comment appelle-t-on la purge sanglante des chefs de la SA ordonnée par Hitler fin juin 1934 ?",
   "r": "La Nuit des longs couteaux",
   "d": 2,
   "t": "Allemagne nazie"
  },
  {
+  "id": "his_c_1-057",
   "q": "Quelles lois de 1935, du nom d'une ville bavaroise, ont privé les Juifs allemands de leur citoyenneté ?",
   "r": "Les lois de Nuremberg",
   "d": 2,
   "t": "Allemagne nazie"
  },
  {
+  "id": "his_c_1-058",
   "q": "Comment appelle-t-on le pogrom organisé dans toute l'Allemagne dans la nuit du 9 au 10 novembre 1938 ?",
   "r": "La Nuit de cristal",
   "d": 2,
   "t": "Allemagne nazie"
  },
  {
+  "id": "his_c_1-059",
   "q": "Quel mot allemand désigne l'annexion de l'Autriche par l'Allemagne nazie en mars 1938 ?",
   "r": "L'Anschluss",
   "d": 2,
   "t": "Marche à la guerre"
  },
  {
+  "id": "his_c_1-060",
   "q": "Quelle région de Tchécoslovaquie Hitler obtient-il par les accords de Munich en septembre 1938 ?",
   "r": "Les Sudètes",
   "d": 2,
   "t": "Marche à la guerre"
  },
  {
+  "id": "his_c_1-061",
   "q": "Quel président du Conseil français a signé les accords de Munich en 1938 ?",
   "r": "Édouard Daladier",
   "d": 2,
   "t": "Marche à la guerre"
  },
  {
+  "id": "his_c_1-062",
   "q": "Quelle ville basque, bombardée en avril 1937 par la légion Condor, a inspiré un célèbre tableau de Picasso ?",
   "r": "Guernica",
   "d": 1,
   "t": "Guerre d'Espagne"
  },
  {
+  "id": "his_c_1-063",
   "q": "Quel général a pris la tête du camp nationaliste pendant la guerre d'Espagne ?",
   "r": "Francisco Franco",
   "d": 1,
   "t": "Guerre d'Espagne"
  },
  {
+  "id": "his_c_1-064",
   "q": "Comment appelait-on les unités de volontaires étrangers venus combattre aux côtés des républicains espagnols ?",
   "r": "Les Brigades internationales",
   "d": 2,
   "t": "Guerre d'Espagne"
  },
  {
+  "id": "his_c_1-065",
   "q": "Quel mot espagnol désigne l'exode de près d'un demi-million de républicains vers la France en 1939 ?",
   "r": "La Retirada",
   "d": 3,
   "t": "Guerre d'Espagne"
  },
  {
+  "id": "his_c_1-066",
   "q": "Quelle coalition de gauche remporte les élections législatives françaises du printemps 1936 ?",
   "r": "Le Front populaire",
   "d": 1,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-067",
   "q": "Qui fut le premier socialiste à diriger un gouvernement français, en juin 1936 ?",
   "r": "Léon Blum",
   "d": 1,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-068",
   "q": "Combien de semaines de congés payés la loi de juin 1936 accorde-t-elle aux salariés français ?",
   "r": "Deux semaines",
   "d": 1,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-069",
   "q": "Quels accords signés en juin 1936 entre patronat et syndicats ont prévu des hausses de salaires en France ?",
   "r": "Les accords de Matignon",
   "d": 2,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-070",
   "q": "Quel escroc, mort mystérieusement en janvier 1934, a donné son nom à un scandale qui a précédé les émeutes du 6 février ?",
   "r": "Alexandre Stavisky",
   "d": 3,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-071",
   "q": "Quel président de la République française fut assassiné en 1932 par un émigré russe ?",
   "r": "Paul Doumer",
   "d": 3,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-072",
   "q": "Quel président de la République est tombé d'un train de nuit en pyjama en mai 1920 ?",
   "r": "Paul Deschanel",
   "d": 2,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-073",
   "q": "Quelle ligne de fortifications la France a-t-elle bâtie le long de sa frontière nord-est dans les années 1930 ?",
   "r": "La ligne Maginot",
   "d": 1,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-074",
   "q": "Quelle grande exposition organisée en 1931 au bois de Vincennes célébrait l'empire français ?",
   "r": "L'Exposition coloniale",
   "d": 2,
   "t": "France de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-075",
   "q": "Quel aviateur américain a réussi en 1927 la première traversée de l'Atlantique en solitaire et sans escale ?",
   "r": "Charles Lindbergh",
   "d": 1,
   "t": "Aviation"
  },
  {
+  "id": "his_c_1-076",
   "q": "Quels aviateurs français ont disparu en mai 1927 à bord de L'Oiseau blanc en tentant de rallier New York ?",
   "r": "Nungesser et Coli",
   "d": 3,
   "t": "Aviation"
  },
  {
+  "id": "his_c_1-077",
   "q": "Quelle aviatrice américaine a disparu dans le Pacifique en 1937 lors d'une tentative de tour du monde ?",
   "r": "Amelia Earhart",
   "d": 2,
   "t": "Aviation"
  },
  {
+  "id": "his_c_1-078",
   "q": "Quel dirigeable allemand a pris feu à son arrivée à Lakehurst, aux États-Unis, en mai 1937 ?",
   "r": "Le Hindenburg",
   "d": 2,
   "t": "Aviation"
  },
  {
+  "id": "his_c_1-079",
   "q": "Quel aviateur de l'Aéropostale, surnommé « l'Archange », a disparu au-dessus de l'Atlantique Sud en 1936 ?",
   "r": "Jean Mermoz",
   "d": 2,
   "t": "Aviation"
  },
  {
+  "id": "his_c_1-080",
   "q": "Quel dirigeant indépendantiste indien a mené la marche du sel en 1930 ?",
   "r": "Gandhi",
   "d": 1,
   "t": "Monde de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-081",
   "q": "Quel officier a fondé la République de Turquie en 1923 et en fut le premier président ?",
   "r": "Mustafa Kemal (Atatürk)",
   "d": 1,
   "t": "Monde de l'entre-deux-guerres"
  },
  {
+  "id": "his_c_1-082",
   "q": "Quel traité de 1920 a amputé la Hongrie d'environ deux tiers de son territoire ?",
   "r": "Le traité de Trianon",
   "d": 3,
   "t": "Traités de paix"
  },
  {
+  "id": "his_c_1-083",
   "q": "Quels accords secrets franco-britanniques de 1916 prévoyaient le partage du Proche-Orient ottoman ?",
   "r": "Les accords Sykes-Picot",
   "d": 3,
   "t": "Proche-Orient"
  },
  {
+  "id": "his_c_1-084",
   "q": "Quelle déclaration britannique de 1917 se prononçait en faveur d'un « foyer national juif » en Palestine ?",
   "r": "La déclaration Balfour",
   "d": 3,
   "t": "Proche-Orient"
  },
  {
+  "id": "his_c_1-085",
   "q": "Comment appelle-t-on la longue retraite de l'armée communiste chinoise en 1934-1935, qui fit la légende de Mao ?",
   "r": "La Longue Marche",
   "d": 1,
   "t": "Chine"
  },
  {
+  "id": "his_c_1-086",
   "q": "Quelle région du nord-est de la Chine le Japon envahit-il en 1931 ?",
   "r": "La Mandchourie",
   "d": 2,
   "t": "Asie"
  },
  {
+  "id": "his_c_1-087",
   "q": "Quel dernier empereur de Chine fut placé par les Japonais à la tête de l'État fantoche du Mandchoukouo ?",
   "r": "Puyi",
   "d": 3,
   "t": "Asie"
  },
  {
+  "id": "his_c_1-088",
   "q": "Quel ministre français des Affaires étrangères, prix Nobel de la paix 1926, était surnommé « le pèlerin de la paix » ?",
   "r": "Aristide Briand",
   "d": 2,
   "t": "Entre-deux-guerres"
  },
  {
+  "id": "his_c_1-089",
   "q": "Quel archéologue britannique a découvert en 1922 le tombeau de Toutânkhamon ?",
   "r": "Howard Carter",
   "d": 2,
   "t": "Grandes découvertes"
  },
  {
+  "id": "his_c_1-090",
   "q": "Quel athlète afro-américain a remporté quatre médailles d'or aux Jeux olympiques de Berlin en 1936 ?",
   "r": "Jesse Owens",
   "d": 1,

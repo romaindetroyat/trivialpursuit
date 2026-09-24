@@ -1,539 +1,629 @@
 [
  {
+  "id": "sci_a_4-001",
   "q": "Quelle est la valeur approchée du nombre pi arrondie au centième ?",
   "r": "3,14",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-002",
   "q": "Combien de côtés possède un hexagone ?",
   "r": "Six",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-003",
   "q": "Comment appelle-t-on un polygone à huit côtés, forme des panneaux « stop » ?",
   "r": "Un octogone",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-004",
   "q": "Combien vaut la somme des angles d'un triangle, en degrés ?",
   "r": "180°",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-005",
   "q": "Quel savant grec a donné son nom au théorème selon lequel, dans un triangle rectangle, a² + b² = c² ?",
   "r": "Pythagore",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-006",
   "q": "Quel savant grec de Milet a donné son nom au théorème sur la proportionnalité dans des triangles coupés par des parallèles ?",
   "r": "Thalès",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-007",
   "q": "Comment appelle-t-on le côté opposé à l'angle droit dans un triangle rectangle ?",
   "r": "L'hypoténuse",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-008",
   "q": "Quel est le seul nombre premier pair ?",
   "r": "2",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-009",
   "q": "Combien vaut factorielle zéro (0!) ?",
   "r": "1",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-010",
   "q": "Quelle est la racine carrée de 144 ?",
   "r": "12",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-011",
   "q": "Quel mathématicien grec d'Alexandrie a rédigé « Les Éléments », fondement de la géométrie ?",
   "r": "Euclide",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-012",
   "q": "Quel savant grec a estimé la circonférence de la Terre au IIIe siècle av. J.-C. en mesurant des ombres ?",
   "r": "Ératosthène",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-013",
   "q": "Quelle suite de nombres commence par 0, 1, 1, 2, 3, 5, 8, 13 ?",
   "r": "La suite de Fibonacci",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-014",
   "q": "Par quelle lettre grecque désigne-t-on souvent le nombre d'or, environ 1,618 ?",
   "r": "Phi (φ)",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-015",
   "q": "Quelle constante mathématique, environ égale à 2,718, est la base du logarithme népérien ?",
   "r": "Le nombre e",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-016",
   "q": "Quel mathématicien écossais a inventé les logarithmes au début du XVIIe siècle ?",
   "r": "John Napier (Neper)",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-017",
   "q": "Quel nombre imaginaire, noté par une seule lettre, a pour carré −1 ?",
   "r": "i",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-018",
   "q": "Quel mathématicien français, mort en duel à 20 ans en 1832, est à l'origine de la théorie des groupes ?",
   "r": "Évariste Galois",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-019",
   "q": "Quel philosophe et mathématicien français a donné son nom au repère orthonormé dit « cartésien » ?",
   "r": "René Descartes",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-020",
   "q": "Quel magistrat toulousain a laissé un « dernier théorème » resté sans démonstration pendant plus de 350 ans ?",
   "r": "Pierre de Fermat",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-021",
   "q": "Quel mathématicien britannique a démontré le dernier théorème de Fermat en 1994 ?",
   "r": "Andrew Wiles",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-022",
   "q": "Quel savant français a inventé en 1642, à 19 ans, une machine à calculer mécanique ?",
   "r": "Blaise Pascal",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-023",
   "q": "Quelle récompense, souvent comparée à un « Nobel des mathématiques », est décernée tous les quatre ans à des moins de 40 ans ?",
   "r": "La médaille Fields",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-024",
   "q": "Quel mathématicien russe a démontré la conjecture de Poincaré et refusé la médaille Fields en 2006 ?",
   "r": "Grigori Perelman",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-025",
   "q": "Combien de faces possède un cube ?",
   "r": "Six",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-026",
   "q": "Comment appelle-t-on un polyèdre à quatre faces triangulaires ?",
   "r": "Un tétraèdre",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-027",
   "q": "Combien existe-t-il de polyèdres réguliers convexes, appelés solides de Platon ?",
   "r": "Cinq",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-028",
   "q": "Combien de faces possède un icosaèdre régulier ?",
   "r": "20",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-029",
   "q": "Comment appelle-t-on la courbe en forme de 8 couché qui ressemble au symbole de l'infini ?",
   "r": "La lemniscate",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-030",
   "q": "Comment appelle-t-on un nombre égal à la somme de ses diviseurs autres que lui-même, comme 6 ou 28 ?",
   "r": "Un nombre parfait",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-031",
   "q": "Quel nombre s'écrit M en chiffres romains ?",
   "r": "1 000",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-032",
   "q": "Quel chiffre, pourtant essentiel, n'existe pas dans la numération romaine ?",
   "r": "Le zéro",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-033",
   "q": "Quel savant persan du IXe siècle a donné son nom au mot « algorithme » ?",
   "r": "Al-Khwârizmî",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-034",
   "q": "Quelle civilisation antique utilisait un système en base 60, dont héritent nos minutes et nos secondes ?",
   "r": "Les Babyloniens (Sumériens)",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-035",
   "q": "Comment appelle-t-on un angle compris entre 90 et 180 degrés ?",
   "r": "Un angle obtus",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-036",
   "q": "Comment qualifie-t-on un triangle qui possède deux côtés de même longueur ?",
   "r": "Isocèle",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-037",
   "q": "Quelle est la formule de l'aire d'un disque de rayon r ?",
   "r": "π × r²",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-038",
   "q": "Quelle surface, obtenue en recollant une bande de papier après une demi-torsion, ne possède qu'une seule face ?",
   "r": "Le ruban de Möbius",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-039",
   "q": "Quel mathématicien suisse a résolu en 1736 le problème des sept ponts de Königsberg ?",
   "r": "Leonhard Euler",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-040",
   "q": "Quel mathématicien allemand, surnommé le « prince des mathématiciens », aurait calculé enfant la somme des entiers de 1 à 100 ?",
   "r": "Carl Friedrich Gauss",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-041",
   "q": "Combien vaut la somme de tous les nombres entiers de 1 à 100 ?",
   "r": "5 050",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-042",
   "q": "Quelle mathématicienne anglaise a écrit au XIXe siècle ce que l'on considère comme le premier programme informatique ?",
   "r": "Ada Lovelace",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-043",
   "q": "Quel mathématicien britannique a contribué à décrypter la machine Enigma pendant la Seconde Guerre mondiale ?",
   "r": "Alan Turing",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-044",
   "q": "Quel mathématicien allemand a présenté en 1900, à Paris, une liste de 23 grands problèmes ouverts ?",
   "r": "David Hilbert",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-045",
   "q": "Quelle conjecture, formulée en 1742, affirme que tout nombre pair supérieur à 2 est la somme de deux nombres premiers ?",
   "r": "La conjecture de Goldbach",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-046",
   "q": "Quel mathématicien français, préfet de l'Isère sous Napoléon, a donné son nom à une décomposition des signaux en sinusoïdes ?",
   "r": "Joseph Fourier",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-047",
   "q": "Quelle mathématicienne française a correspondu avec Gauss sous le pseudonyme masculin de « M. Le Blanc » ?",
   "r": "Sophie Germain",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-048",
   "q": "Sous quel nom collectif un groupe de mathématiciens français publie-t-il depuis les années 1930 ses « Éléments de mathématique » ?",
   "r": "Nicolas Bourbaki",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-049",
   "q": "Combien de degrés compte un tour complet ?",
   "r": "360°",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-050",
   "q": "Quelle est la probabilité d'obtenir un 6 en lançant un dé équilibré à six faces ?",
   "r": "Une chance sur six",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-051",
   "q": "Quel nombre, 10 puissance 100, a inspiré le nom d'un célèbre moteur de recherche ?",
   "r": "Le gogol (googol)",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-052",
   "q": "Comment appelle-t-on un nombre qui se lit de la même façon dans les deux sens, comme 12 321 ?",
   "r": "Un palindrome",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-053",
   "q": "Quel nombre, surnommé « nombre taxicab », est le plus petit à s'écrire de deux façons comme somme de deux cubes ?",
   "r": "1 729",
   "d": 3,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-054",
   "q": "Quel mathématicien indien autodidacte a été invité à Cambridge en 1914 par G. H. Hardy ?",
   "r": "Srinivasa Ramanujan",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-055",
   "q": "Quelle mathématicienne et philosophe d'Alexandrie, assassinée en 415, est l'une des premières femmes scientifiques connues ?",
   "r": "Hypatie",
   "d": 2,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-056",
   "q": "Combien de zéros compte l'écriture d'un milliard ?",
   "r": "Neuf",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-057",
   "q": "Comment appelle-t-on un quadrilatère dont les quatre côtés ont la même longueur, sans angle droit ?",
   "r": "Un losange",
   "d": 1,
   "t": "Mathématiques"
  },
  {
+  "id": "sci_a_4-058",
   "q": "Quelle scientifique d'origine polonaise a été la première personne à recevoir deux prix Nobel ?",
   "r": "Marie Curie",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-059",
   "q": "Dans quelles deux disciplines Marie Curie a-t-elle reçu ses prix Nobel ?",
   "r": "Physique et chimie",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-060",
   "q": "Quelle fille de Marie Curie a reçu le prix Nobel de chimie en 1935 avec son mari ?",
   "r": "Irène Joliot-Curie",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-061",
   "q": "Quel savant français a administré avec succès le premier vaccin contre la rage en 1885 ?",
   "r": "Louis Pasteur",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-062",
   "q": "Quel naturaliste anglais a publié « L'Origine des espèces » en 1859 ?",
   "r": "Charles Darwin",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-063",
   "q": "Dans quel archipel du Pacifique Darwin a-t-il observé les pinsons et tortues qui ont nourri sa théorie ?",
   "r": "Les Galápagos",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-064",
   "q": "Quel moine de Brno est considéré comme le père de la génétique grâce à ses expériences sur les petits pois ?",
   "r": "Gregor Mendel",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-065",
   "q": "Quel bactériologiste écossais a découvert la pénicilline en 1928 ?",
   "r": "Alexander Fleming",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-066",
   "q": "Quel inventeur américain aux plus de 1 000 brevets a mis au point une lampe à incandescence durable en 1879 ?",
   "r": "Thomas Edison",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-067",
   "q": "Quel inventeur d'origine serbe, rival d'Edison, a promu le courant alternatif ?",
   "r": "Nikola Tesla",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-068",
   "q": "Quels frères ardéchois ont réalisé en 1783 le premier vol public d'un ballon à air chaud ?",
   "r": "Les frères Montgolfier",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-069",
   "q": "Quels deux chercheurs ont décrit en 1953 la structure en double hélice de l'ADN ?",
   "r": "Watson et Crick",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-070",
   "q": "Quelle chimiste britannique a dirigé les travaux ayant produit le cliché de diffraction aux rayons X, la « photo 51 », décisif pour comprendre l'ADN ?",
   "r": "Rosalind Franklin",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-071",
   "q": "Quel naturaliste suédois a créé la nomenclature binominale qui désigne chaque espèce par deux noms latins ?",
   "r": "Carl von Linné",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-072",
   "q": "Quel naturaliste français a proposé dès 1809 une théorie de l'évolution, avant Darwin ?",
   "r": "Jean-Baptiste de Lamarck",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-073",
   "q": "Quel virologue français a partagé le prix Nobel de médecine 2008 avec Françoise Barré-Sinoussi pour la découverte du VIH ?",
   "r": "Luc Montagnier",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-074",
   "q": "Quelle chercheuse française a reçu le prix Nobel de chimie 2020 pour les « ciseaux moléculaires » CRISPR-Cas9 ?",
   "r": "Emmanuelle Charpentier",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-075",
   "q": "Quel physicien français a reçu le prix Nobel de physique 2022 pour ses expériences sur l'intrication quantique ?",
   "r": "Alain Aspect",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-076",
   "q": "Quel physicien français a reçu le prix Nobel de physique 2018 pour ses travaux sur les impulsions laser ultra-courtes ?",
   "r": "Gérard Mourou",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-077",
   "q": "Quel physicien britannique, atteint de la maladie de Charcot, a écrit « Une brève histoire du temps » ?",
   "r": "Stephen Hawking",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-078",
   "q": "Quel savant anglais a observé en 1665 des « cellules » dans une fine tranche de liège ?",
   "r": "Robert Hooke",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-079",
   "q": "Quel drapier néerlandais a été le premier à observer des micro-organismes avec ses microscopes ?",
   "r": "Antoni van Leeuwenhoek",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-080",
   "q": "Quel philosophe grec, précepteur d'Alexandre le Grand, a aussi posé les bases de la zoologie ?",
   "r": "Aristote",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-081",
   "q": "Quel physicien français a reçu le prix Nobel de physique 1991 pour ses travaux sur les cristaux liquides et les polymères ?",
   "r": "Pierre-Gilles de Gennes",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-082",
   "q": "Quel inventeur italien, pionnier de la télégraphie sans fil, a reçu le prix Nobel de physique en 1909 ?",
   "r": "Guglielmo Marconi",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-083",
   "q": "Quel officier de marine français a mis au point en 1943, avec Émile Gagnan, le scaphandre autonome ?",
   "r": "Jacques-Yves Cousteau",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-084",
   "q": "Quel physiologiste russe est célèbre pour ses expériences de réflexe conditionné sur des chiens ?",
   "r": "Ivan Pavlov",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-085",
   "q": "Quel savant et homme politique américain a inventé le paratonnerre au XVIIIe siècle ?",
   "r": "Benjamin Franklin",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-086",
   "q": "Quel inventeur né en Écosse a obtenu en 1876 le brevet américain du téléphone ?",
   "r": "Alexander Graham Bell",
   "d": 1,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-087",
   "q": "Quels prix parodiques récompensent chaque année des recherches qui « font d'abord rire, puis réfléchir » ?",
   "r": "Les prix Ig Nobel",
   "d": 2,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-088",
   "q": "Quel médecin breton a inventé le stéthoscope en 1816 ?",
   "r": "René Laennec",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-089",
   "q": "Quel savant français, auteur du « Traité de mécanique céleste », a imaginé un démon capable de prédire tout l'avenir ?",
   "r": "Pierre-Simon de Laplace",
   "d": 3,
   "t": "Grands scientifiques"
  },
  {
+  "id": "sci_a_4-090",
   "q": "Quel naturaliste français est considéré comme le fondateur de la paléontologie et de l'anatomie comparée ?",
   "r": "Georges Cuvier",
   "d": 3,

@@ -1,539 +1,629 @@
 [
  {
+  "id": "spo_c_4-001",
   "q": "Quelle couturière française a lancé en 1926 la célèbre « petite robe noire » ?",
   "r": "Coco Chanel",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-002",
   "q": "Quel couturier a révolutionné la silhouette féminine avec sa ligne « New Look » en 1947 ?",
   "r": "Christian Dior",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-003",
   "q": "Quel couturier a fait entrer le smoking dans le vestiaire féminin en 1966 ?",
   "r": "Yves Saint Laurent",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-004",
   "q": "Quel créateur français de chaussures est reconnaissable à ses semelles rouges ?",
   "r": "Christian Louboutin",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-005",
   "q": "Quel négociant américain a fait breveter en 1873, avec le tailleur Jacob Davis, le pantalon de toile renforcé de rivets ?",
   "r": "Levi Strauss",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-006",
   "q": "De quelle ville française la toile « denim » tirerait-elle son nom ?",
   "r": "Nîmes",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-007",
   "q": "Quel maillot de bain deux pièces, présenté en 1946 par Louis Réard, porte le nom d'un atoll du Pacifique ?",
   "r": "Le bikini",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-008",
   "q": "Quel champion de tennis français, surnommé « le crocodile », a donné son nom à une marque de polos ?",
   "r": "René Lacoste",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-009",
   "q": "Quel créateur allemand fut directeur artistique de la maison Chanel de 1983 à sa mort en 2019 ?",
   "r": "Karl Lagerfeld",
   "d": 1,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-010",
   "q": "Quelle maison fondée à Paris en 1837 par un harnacheur est réputée pour ses carrés de soie ?",
   "r": "Hermès",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-011",
   "q": "Quelle actrice américaine devenue princesse de Monaco a donné son nom à un sac Hermès ?",
   "r": "Grace Kelly",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-012",
   "q": "Quel sac Hermès est né en 1984 d'une rencontre en avion entre Jean-Louis Dumas et une chanteuse anglaise ?",
   "r": "Le Birkin",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-013",
   "q": "Quelle maison de mode italienne a pour emblème une tête de Méduse ?",
   "r": "Versace",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-014",
   "q": "Quel couvre-chef, dit « basque », est en réalité originaire du Béarn ?",
   "r": "Le béret",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-015",
   "q": "Dans quel pays sont traditionnellement tressés les chapeaux de paille appelés « panamas » ?",
   "r": "L'Équateur",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-016",
   "q": "Quel créateur français a habillé Madonna d'un corset à bonnets coniques pour sa tournée de 1990 ?",
   "r": "Jean Paul Gaultier",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-017",
   "q": "Quelle marque au félin bondissant a été fondée par Rudolf Dassler, frère du fondateur d'Adidas ?",
   "r": "Puma",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-018",
   "q": "Quelle maison de mode, fondée à Florence en 1921, a pour logo deux G entrelacés ?",
   "r": "Gucci",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-019",
   "q": "Comment appelait-on les ouvriers tisserands de la soie lyonnaise, célèbres pour leur révolte de 1831 ?",
   "r": "Les canuts",
   "d": 2,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-020",
   "q": "Quel couturier espagnol, né au Pays basque et installé à Paris en 1937, était surnommé « le maître » par ses pairs ?",
   "r": "Cristóbal Balenciaga",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-021",
   "q": "Quelle créatrice britannique, installée sur King's Road à Londres, a popularisé la minijupe dans les années 1960 ?",
   "r": "Mary Quant",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-022",
   "q": "Quelle couturière italienne, rivale de Chanel dans l'entre-deux-guerres, a lancé la couleur « rose shocking » ?",
   "r": "Elsa Schiaparelli",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-023",
   "q": "Quel couturier a été l'un des premiers à présenter une collection de prêt-à-porter dans un grand magasin, en 1959 ?",
   "r": "Pierre Cardin",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-024",
   "q": "Quel mannequin britannique des années 1960 était surnommé « la brindille » ?",
   "r": "Twiggy",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-025",
   "q": "Quel couturier d'origine anglaise, installé à Paris en 1858, est considéré comme le père de la haute couture ?",
   "r": "Charles Frederick Worth",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-026",
   "q": "Quelle créatrice japonaise a fondé la marque Comme des Garçons ?",
   "r": "Rei Kawakubo",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-027",
   "q": "Quel créateur japonais est célèbre pour ses vêtements plissés de la ligne « Pleats Please » ?",
   "r": "Issey Miyake",
   "d": 3,
   "t": "Mode"
  },
  {
+  "id": "spo_c_4-028",
   "q": "Pour quelle Exposition universelle la tour Eiffel a-t-elle été construite ?",
   "r": "Celle de 1889",
   "d": 1,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-029",
   "q": "Quel coquillage est l'emblème des pèlerins en route vers Compostelle ?",
   "r": "La coquille Saint-Jacques",
   "d": 1,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-030",
   "q": "Quel train de luxe de la Compagnie internationale des wagons-lits reliait Paris à Constantinople à partir de 1883 ?",
   "r": "L'Orient-Express",
   "d": 1,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-031",
   "q": "Combien de semaines de congés payés les salariés français ont-ils obtenues en 1936 ?",
   "r": "Deux",
   "d": 1,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-032",
   "q": "Quelle statue de bronze d'un petit garçon qui urine est un symbole de Bruxelles ?",
   "r": "Le Manneken-Pis",
   "d": 1,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-033",
   "q": "Quel canal, reliant Toulouse à l'étang de Thau, est un haut lieu du tourisme fluvial classé à l'UNESCO ?",
   "r": "Le canal du Midi",
   "d": 1,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-034",
   "q": "Quel aqueduc romain à trois niveaux d'arches enjambe le Gardon ?",
   "r": "Le pont du Gard",
   "d": 1,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-035",
   "q": "Quel guide de voyage français, créé en 1973 par Philippe Gloaguen et Michel Duval, s'adresse aux voyageurs sac au dos ?",
   "r": "Le Guide du routard",
   "d": 2,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-036",
   "q": "Quel Anglais a organisé en 1841 un voyage collectif en train, point de départ d'une célèbre agence de voyages ?",
   "r": "Thomas Cook",
   "d": 2,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-037",
   "q": "Quel club de vacances, fondé en 1950 par Gérard Blitz, a popularisé le concept de « village » et de « GO » ?",
   "r": "Le Club Med",
   "d": 2,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-038",
   "q": "Quelle grande place de Marrakech est célèbre pour ses conteurs, ses charmeurs de serpents et ses stands de nourriture ?",
   "r": "Jemaa el-Fna",
   "d": 2,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-039",
   "q": "Quelle île grecque des Cyclades est célèbre pour ses maisons blanches à coupoles bleues du village d'Oia ?",
   "r": "Santorin",
   "d": 2,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-040",
   "q": "Dans quelle ville indienne se trouve le Taj Mahal ?",
   "r": "Agra",
   "d": 2,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-041",
   "q": "Quelle route mythique des États-Unis reliait Chicago à Santa Monica ?",
   "r": "La Route 66",
   "d": 2,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-042",
   "q": "Quelle place de Bruxelles se couvre tous les deux ans d'un immense tapis de fleurs ?",
   "r": "La Grand-Place",
   "d": 2,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-043",
   "q": "Près de quelle ville de la Vienne se trouve le parc du Futuroscope ?",
   "r": "Poitiers",
   "d": 2,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-044",
   "q": "Quelles sont les deux couleurs du balisage des sentiers de grande randonnée (GR) en France ?",
   "r": "Blanc et rouge",
   "d": 2,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-045",
   "q": "Quel palace de la place Vendôme, à Paris, a été ouvert en 1898 par un hôtelier suisse ?",
   "r": "Le Ritz",
   "d": 2,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-046",
   "q": "Quelle ville cambodgienne sert de point de départ pour visiter les temples d'Angkor ?",
   "r": "Siem Reap",
   "d": 3,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-047",
   "q": "Quel sanctuaire de Kyoto est célèbre pour ses allées de milliers de portiques torii vermillon ?",
   "r": "Fushimi Inari-taisha",
   "d": 3,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-048",
   "q": "Dans quelle ville de Californie a ouvert en 1955 le tout premier parc Disneyland ?",
   "r": "Anaheim",
   "d": 3,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-049",
   "q": "Quel ingénieur du XVIIe siècle a conçu et fait creuser le canal du Midi ?",
   "r": "Pierre-Paul Riquet",
   "d": 3,
   "t": "Tourisme"
  },
  {
+  "id": "spo_c_4-050",
   "q": "Dans quel hôtel de Singapour aurait été créé le cocktail Singapore Sling ?",
   "r": "Le Raffles",
   "d": 3,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-051",
   "q": "Quel écrivain écossais a publié en 1879 le récit de sa randonnée avec une ânesse dans les Cévennes ?",
   "r": "Robert Louis Stevenson",
   "d": 3,
   "t": "Voyages"
  },
  {
+  "id": "spo_c_4-052",
   "q": "Quel jour de l'année fête-t-on la Chandeleur en mangeant des crêpes ?",
   "r": "Le 2 février",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-053",
   "q": "Quelle fleur offre-t-on traditionnellement en France le 1er mai pour porter bonheur ?",
   "r": "Le muguet",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-054",
   "q": "Comment appelle-t-on les petites figurines d'argile peintes qui peuplent la crèche provençale ?",
   "r": "Les santons",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-055",
   "q": "Quel sinistre personnage accompagne saint Nicolas pour menacer les enfants désobéissants ?",
   "r": "Le Père Fouettard",
   "d": 1,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-056",
   "q": "Combien de desserts compose la tradition provençale du repas de Noël ?",
   "r": "13",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-057",
   "q": "Dans quelle ville du Nord lance-t-on des harengs depuis le balcon de l'hôtel de ville pendant le carnaval ?",
   "r": "Dunkerque",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-058",
   "q": "Dans quelle ville belge les Gilles, coiffés de plumes d'autruche, lancent-ils des oranges pendant le carnaval ?",
   "r": "Binche",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-059",
   "q": "Quelle fête de Valence, en Espagne, se termine en mars par l'embrasement de gigantesques statues ?",
   "r": "Les Fallas",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-060",
   "q": "Quelle fête hindoue du printemps est célébrée en se lançant des poudres et de l'eau colorées ?",
   "r": "Holi",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-061",
   "q": "Comment appelle-t-on au Japon la tradition de pique-niquer sous les cerisiers en fleurs ?",
   "r": "Hanami",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-062",
   "q": "Quel ministre de la Culture a lancé la première Fête de la musique en 1982 ?",
   "r": "Jack Lang",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-063",
   "q": "Quelle ville du Morbihan accueille chaque été le Festival interceltique ?",
   "r": "Lorient",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-064",
   "q": "Quelle fête juive des lumières dure huit jours, marqués par l'allumage progressif d'un chandelier ?",
   "r": "Hanoucca",
   "d": 2,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-065",
   "q": "Quel légume les Irlandais creusaient-ils pour Halloween avant d'adopter la citrouille en Amérique ?",
   "r": "Le navet",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-066",
   "q": "Dans quelle petite ville espagnole se déroule chaque été la Tomatina, gigantesque bataille de tomates ?",
   "r": "Buñol",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-067",
   "q": "Comment les Écossais appellent-ils les festivités du dernier jour de l'année ?",
   "r": "Hogmanay",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-068",
   "q": "Quelle vieille femme sur son balai apporte, selon la tradition italienne, des cadeaux aux enfants la nuit de l'Épiphanie ?",
   "r": "La Befana",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-069",
   "q": "Comment appelle-t-on l'avenue-stade où défilent les écoles de samba lors du carnaval de Rio ?",
   "r": "Le Sambodrome",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-070",
   "q": "Quel géant processionnel en osier est l'emblème de la ville de Douai ?",
   "r": "Gayant",
   "d": 3,
   "t": "Fêtes et traditions"
  },
  {
+  "id": "spo_c_4-071",
   "q": "Quel art japonais consiste à plier une feuille de papier pour créer des formes, sans la couper ni la coller ?",
   "r": "L'origami",
   "d": 1,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-072",
   "q": "Quel point de broderie, formé de deux traits obliques croisés, sert à réaliser des motifs sur toile quadrillée ?",
   "r": "Le point de croix",
   "d": 1,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-073",
   "q": "Quelle longue broderie du XIe siècle raconte la conquête de l'Angleterre par Guillaume le Conquérant ?",
   "r": "La tapisserie de Bayeux",
   "d": 1,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-074",
   "q": "Comment appelle-t-on la collection et l'étude des timbres-poste ?",
   "r": "La philatélie",
   "d": 1,
   "t": "Collections"
  },
  {
+  "id": "spo_c_4-075",
   "q": "Quel oiseau, symbole de longévité, est la figure la plus célèbre de l'origami japonais ?",
   "r": "La grue",
   "d": 2,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-076",
   "q": "Quel art japonais consiste à réparer les céramiques brisées en soulignant les fissures avec de la laque saupoudrée d'or ?",
   "r": "Le kintsugi",
   "d": 2,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-077",
   "q": "Comment appelle-t-on un collectionneur de pièces de monnaie et de médailles ?",
   "r": "Un numismate",
   "d": 2,
   "t": "Collections"
  },
  {
+  "id": "spo_c_4-078",
   "q": "Quel loisir consiste à rechercher, à l'aide d'un GPS, des boîtes cachées par d'autres joueurs ?",
   "r": "Le géocaching",
   "d": 2,
   "t": "Loisirs"
  },
  {
+  "id": "spo_c_4-079",
   "q": "D'après son origine provençale, avec quelle position des pieds joue-t-on à la pétanque ?",
   "r": "Pieds joints (« pieds tanqués »)",
   "d": 2,
   "t": "Loisirs"
  },
  {
+  "id": "spo_c_4-080",
   "q": "Quelle technique d'impression artisanale fait passer l'encre à travers un écran tendu, traditionnellement de soie ?",
   "r": "La sérigraphie",
   "d": 2,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-081",
   "q": "Comment appelle-t-on la collection de cartes postales ?",
   "r": "La cartophilie",
   "d": 3,
   "t": "Collections"
  },
  {
+  "id": "spo_c_4-082",
   "q": "Comment appelle-t-on la collection des capsules qui coiffent les bouchons de champagne ?",
   "r": "La placomusophilie",
   "d": 3,
   "t": "Collections"
  },
  {
+  "id": "spo_c_4-083",
   "q": "Quel graveur londonien est considéré comme l'inventeur du puzzle, qu'il réalisait dans les années 1760 en découpant des cartes géographiques ?",
   "r": "John Spilsbury",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-084",
   "q": "Comment appelle-t-on une céramique cuite une première fois, avant la pose de l'émail ?",
   "r": "Le biscuit (dégourdi)",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-085",
   "q": "Comment appelle-t-on le fil de coton à brins séparables le plus utilisé en broderie ?",
   "r": "Le mouliné",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-086",
   "q": "Dans quelle ville alsacienne est née la marque de fils à broder DMC ?",
   "r": "Mulhouse",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-087",
   "q": "Quelle ville de Haute-Loire est célèbre pour sa dentelle aux fuseaux ?",
   "r": "Le Puy-en-Velay",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-088",
   "q": "Quelle ville normande a donné son nom à un point de dentelle à l'aiguille surnommé « la reine des dentelles » ?",
   "r": "Alençon",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-089",
   "q": "À quelle échelle de réduction correspond la norme HO en modélisme ferroviaire ?",
   "r": "1/87",
   "d": 3,
   "t": "Loisirs créatifs"
  },
  {
+  "id": "spo_c_4-090",
   "q": "Quels deux Australiens ont formulé dans les années 1970 le concept de permaculture ?",
   "r": "Bill Mollison et David Holmgren",
   "d": 3,

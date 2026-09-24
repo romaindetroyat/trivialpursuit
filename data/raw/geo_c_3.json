@@ -1,539 +1,629 @@
 [
  {
+  "id": "geo_c_3-001",
   "q": "Quel détroit sépare l'Australie de la Nouvelle-Guinée ?",
   "r": "Le détroit de Torres",
   "d": 3,
   "t": "Détroits et canaux"
  },
  {
+  "id": "geo_c_3-002",
   "q": "Quel détroit sépare les îles japonaises de Honshu et d'Hokkaido ?",
   "r": "Le détroit de Tsugaru",
   "d": 3,
   "t": "Détroits et canaux"
  },
  {
+  "id": "geo_c_3-003",
   "q": "Quel détroit indonésien, où se dresse le Krakatoa, sépare Java de Sumatra ?",
   "r": "Le détroit de la Sonde",
   "d": 3,
   "t": "Détroits et canaux"
  },
  {
+  "id": "geo_c_3-004",
   "q": "Quel détroit, large d'environ 180 km, sépare la province chinoise du Fujian de l'île qui lui fait face ?",
   "r": "Le détroit de Taïwan (Formose)",
   "d": 2,
   "t": "Détroits et canaux"
  },
  {
+  "id": "geo_c_3-005",
   "q": "Quel volcan indonésien a connu une éruption cataclysmique en août 1883 ?",
   "r": "Le Krakatoa",
   "d": 1,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-006",
   "q": "Quelle éruption indonésienne de 1815 a provoqué « l'année sans été » en 1816 ?",
   "r": "Le Tambora",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-007",
   "q": "Quel volcan des Philippines a connu en 1991 l'une des plus fortes éruptions du XXe siècle ?",
   "r": "Le Pinatubo",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-008",
   "q": "Quel volcan de l'État de Washington a perdu une partie de son sommet lors de son explosion de mai 1980 ?",
   "r": "Le mont Saint Helens",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-009",
   "q": "Quel volcan hawaïen est le plus volumineux volcan actif de la planète ?",
   "r": "Le Mauna Loa",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-010",
   "q": "Quel sommet hawaïen est la plus haute montagne du monde si on la mesure depuis sa base sous-marine ?",
   "r": "Le Mauna Kea",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-011",
   "q": "Quel volcan hawaïen est resté en éruption quasi continue de 1983 à 2018 ?",
   "r": "Le Kīlauea",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-012",
   "q": "Quel volcan de la Martinique a détruit la ville de Saint-Pierre en 1902 ?",
   "r": "La montagne Pelée",
   "d": 1,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-013",
   "q": "Quel volcan de La Réunion compte parmi les plus actifs du monde ?",
   "r": "Le piton de la Fournaise",
   "d": 1,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-014",
   "q": "Quel volcan mexicain, dont le nom nahuatl signifie « montagne qui fume », domine la vallée de Mexico ?",
   "r": "Le Popocatépetl",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-015",
   "q": "Quel volcan mexicain est apparu en 1943 au milieu d'un champ de maïs ?",
   "r": "Le Paricutín",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-016",
   "q": "Quel est le plus haut volcan du monde, à la frontière entre le Chili et l'Argentine ?",
   "r": "L'Ojos del Salado",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-017",
   "q": "Quel volcan équatorien a le sommet le plus éloigné du centre de la Terre ?",
   "r": "Le Chimborazo",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-018",
   "q": "Comment appelle-t-on la ceinture de volcans et de séismes qui borde l'océan Pacifique ?",
   "r": "La ceinture de feu",
   "d": 1,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-019",
   "q": "Comment appelle-t-on la vaste dépression circulaire formée par l'effondrement d'un volcan ?",
   "r": "Une caldeira",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-020",
   "q": "Comment appelle-t-on l'avalanche brûlante de gaz, de cendres et de blocs qui dévale les pentes d'un volcan ?",
   "r": "Une nuée ardente (coulée pyroclastique)",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-021",
   "q": "Comment appelle-t-on un volcan conique formé de couches alternées de lave et de cendres, comme le Fuji ?",
   "r": "Un stratovolcan",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-022",
   "q": "De quelle langue vient le mot « geyser » ?",
   "r": "L'islandais",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-023",
   "q": "Quel couple de volcanologues alsaciens a trouvé la mort au Japon, sur le mont Unzen, en 1991 ?",
   "r": "Katia et Maurice Krafft",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-024",
   "q": "Quel volcanologue français, né à Varsovie, fut secrétaire d'État chargé des risques majeurs de 1984 à 1986 ?",
   "r": "Haroun Tazieff",
   "d": 3,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-025",
   "q": "Quel volcan islandais a paralysé une grande partie du trafic aérien européen en avril 2010 ?",
   "r": "L'Eyjafjallajökull",
   "d": 2,
   "t": "Volcans"
  },
  {
+  "id": "geo_c_3-026",
   "q": "Comment s'appelle la théorie d'Alfred Wegener selon laquelle les continents se déplacent ?",
   "r": "La dérive des continents",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-027",
   "q": "Quel scientifique allemand a proposé la théorie de la dérive des continents en 1912 ?",
   "r": "Alfred Wegener",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-028",
   "q": "Comment s'appelle le supercontinent unique qui réunissait toutes les terres émergées il y a environ 250 millions d'années ?",
   "r": "La Pangée",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-029",
   "q": "Quel supercontinent austral regroupait l'Amérique du Sud, l'Afrique, l'Inde, l'Australie et l'Antarctique ?",
   "r": "Le Gondwana",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-030",
   "q": "Comment s'appelait le supercontinent boréal issu de la fragmentation de la Pangée ?",
   "r": "La Laurasia",
   "d": 3,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-031",
   "q": "Quelle échelle, créée en 1935 par un sismologue américain, mesure la magnitude des séismes ?",
   "r": "L'échelle de Richter",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-032",
   "q": "Comment appelle-t-on le point de la surface terrestre situé à la verticale du foyer d'un séisme ?",
   "r": "L'épicentre",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-033",
   "q": "Comment appelle-t-on une série de vagues géantes provoquée par un séisme sous-marin ?",
   "r": "Un tsunami",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-034",
   "q": "Quelle faille californienne marque la limite entre la plaque pacifique et la plaque nord-américaine ?",
   "r": "La faille de San Andreas",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-035",
   "q": "Quelle grande ville américaine a été ravagée par un séisme suivi d'incendies en avril 1906 ?",
   "r": "San Francisco",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-036",
   "q": "En quelle année un tsunami a-t-il dévasté les côtes de l'océan Indien un 26 décembre ?",
   "r": "2004",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-037",
   "q": "Quelle centrale nucléaire japonaise a été gravement endommagée par le tsunami de mars 2011 ?",
   "r": "Fukushima Daiichi",
   "d": 1,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-038",
   "q": "La collision de quelle plaque avec la plaque eurasienne a donné naissance à l'Himalaya ?",
   "r": "La plaque indienne",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-039",
   "q": "Comment appelle-t-on l'enveloppe rigide externe de la Terre, découpée en plaques ?",
   "r": "La lithosphère",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-040",
   "q": "Comment appelle-t-on la zone où une plaque tectonique plonge sous une autre ?",
   "r": "Une zone de subduction",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-041",
   "q": "Comment appelle-t-on la chaîne de montagnes sous-marine où se forme la nouvelle croûte océanique ?",
   "r": "Une dorsale océanique",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-042",
   "q": "Quel nom abrégé désigne la discontinuité qui sépare la croûte terrestre du manteau ?",
   "r": "Le Moho",
   "d": 3,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-043",
   "q": "Quelle est la plus grande plaque tectonique du globe ?",
   "r": "La plaque pacifique",
   "d": 2,
   "t": "Plaques et séismes"
  },
  {
+  "id": "geo_c_3-044",
   "q": "Comment appelle-t-on le vent saisonnier qui apporte de fortes pluies en Asie du Sud en été ?",
   "r": "La mousson",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-045",
   "q": "Comment appelle-t-on un cyclone tropical dans le nord-ouest du Pacifique ?",
   "r": "Un typhon",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-046",
   "q": "Comment appelle-t-on la zone de calme située au centre d'un cyclone ?",
   "r": "L'œil du cyclone",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-047",
   "q": "Quelle force, due à la rotation de la Terre, dévie les vents et les courants ?",
   "r": "La force de Coriolis",
   "d": 2,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-048",
   "q": "Quel phénomène de réchauffement anormal du Pacifique Est porte un nom espagnol évoquant l'Enfant Jésus ?",
   "r": "El Niño",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-049",
   "q": "Comment appelle-t-on la phase froide, inverse d'El Niño, dans le Pacifique équatorial ?",
   "r": "La Niña",
   "d": 2,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-050",
   "q": "Comment appelle-t-on les vents réguliers qui soufflent d'est en ouest dans la zone intertropicale ?",
   "r": "Les alizés",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-051",
   "q": "Comment les marins appellent-ils la zone de calmes et d'orages proche de l'équateur ?",
   "r": "Le pot-au-noir",
   "d": 3,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-052",
   "q": "Comment appelle-t-on le sol gelé en permanence des régions froides ?",
   "r": "Le pergélisol (permafrost)",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-053",
   "q": "Comment appelle-t-on la végétation rase de mousses et de lichens des régions arctiques ?",
   "r": "La toundra",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-054",
   "q": "Comment appelle-t-on l'immense forêt de conifères de Sibérie et du Canada ?",
   "r": "La taïga",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-055",
   "q": "Comment appelle-t-on les hautes herbes tropicales parsemées d'arbres, typiques des régions à saison sèche ?",
   "r": "La savane",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-056",
   "q": "Comment appelle-t-on les grandes plaines herbeuses d'Argentine ?",
   "r": "La pampa",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-057",
   "q": "Quel est le plus grand désert chaud du monde ?",
   "r": "Le Sahara",
   "d": 1,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-058",
   "q": "Comment appelle-t-on une dune en forme de croissant ?",
   "r": "Une barkhane",
   "d": 3,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-059",
   "q": "Dans quelle couche de l'atmosphère, la plus proche du sol, se produisent l'essentiel des phénomènes météorologiques ?",
   "r": "La troposphère",
   "d": 2,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-060",
   "q": "Quel vent chaud et sec descend les pentes orientales des Rocheuses en hiver ?",
   "r": "Le chinook",
   "d": 3,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-061",
   "q": "Quel type de climat, à étés secs et hivers doux, règne à la fois en Californie et dans le centre du Chili ?",
   "r": "Le climat méditerranéen",
   "d": 2,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-062",
   "q": "Quel climatologue a donné son nom à la classification des climats la plus utilisée au monde ?",
   "r": "Wladimir Köppen",
   "d": 3,
   "t": "Climats et milieux"
  },
  {
+  "id": "geo_c_3-063",
   "q": "En combien de fuseaux horaires théoriques la Terre est-elle divisée ?",
   "r": "24",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-064",
   "q": "Combien de degrés de longitude couvre un fuseau horaire théorique ?",
   "r": "15°",
   "d": 2,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-065",
   "q": "Quel méridien a été choisi en 1884 comme méridien de référence international ?",
   "r": "Le méridien de Greenwich",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-066",
   "q": "Quelle ligne imaginaire, qui suit à peu près le 180e méridien, marque le passage d'un jour à l'autre ?",
   "r": "La ligne de changement de date",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-067",
   "q": "Grâce à ses territoires d'outre-mer, quel pays compte le plus grand nombre de fuseaux horaires ?",
   "r": "La France",
   "d": 2,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-068",
   "q": "Quel immense pays d'Asie n'utilise qu'un seul fuseau horaire officiel ?",
   "r": "La Chine",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-069",
   "q": "Quel parallèle partage la Terre en hémisphère Nord et hémisphère Sud ?",
   "r": "L'équateur",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-070",
   "q": "Comment appelle-t-on le parallèle situé à environ 23°26' de latitude nord ?",
   "r": "Le tropique du Cancer",
   "d": 2,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-071",
   "q": "Quel tropique traverse à la fois l'Australie, le Brésil et Madagascar ?",
   "r": "Le tropique du Capricorne",
   "d": 2,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-072",
   "q": "Comment appelle-t-on le parallèle situé à environ 66°33' de latitude nord ?",
   "r": "Le cercle polaire arctique",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-073",
   "q": "Quelle est, à peu près, la circonférence de la Terre à l'équateur ?",
   "r": "Environ 40 000 km",
   "d": 2,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-074",
   "q": "En 1791, le mètre fut défini comme quelle fraction du quart du méridien terrestre ?",
   "r": "Un dix-millionième",
   "d": 3,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-075",
   "q": "Comment appelle-t-on les deux moments de l'année où le jour et la nuit ont la même durée ?",
   "r": "Les équinoxes",
   "d": 1,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-076",
   "q": "De combien de degrés environ l'axe de rotation de la Terre est-il incliné ?",
   "r": "Environ 23,4°",
   "d": 2,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-077",
   "q": "Comment appelle-t-on le point de l'orbite terrestre le plus proche du Soleil ?",
   "r": "Le périhélie",
   "d": 3,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-078",
   "q": "Combien de temps dure le jour sidéral, rotation complète de la Terre par rapport aux étoiles ?",
   "r": "23 h 56 min",
   "d": 3,
   "t": "Fuseaux et latitudes"
  },
  {
+  "id": "geo_c_3-079",
   "q": "Quel est le plus grand lac d'eau douce du monde par sa superficie ?",
   "r": "Le lac Supérieur",
   "d": 2,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-080",
   "q": "Quels deux fleuves se disputent le titre de plus long fleuve du monde ?",
   "r": "Le Nil et l'Amazone",
   "d": 2,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-081",
   "q": "Quel fleuve a le plus fort débit du monde ?",
   "r": "L'Amazone",
   "d": 1,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-082",
   "q": "Comment appelle-t-on l'embouchure d'un fleuve qui se divise en plusieurs bras en forme de triangle ?",
   "r": "Un delta",
   "d": 1,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-083",
   "q": "Comment appelle-t-on une île corallienne en forme d'anneau entourant un lagon ?",
   "r": "Un atoll",
   "d": 1,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-084",
   "q": "Quel naturaliste britannique a le premier expliqué la formation des atolls par l'enfoncement des volcans ?",
   "r": "Charles Darwin",
   "d": 3,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-085",
   "q": "Comment appelle-t-on le relief calcaire creusé par l'eau, riche en grottes et en gouffres ?",
   "r": "Le karst",
   "d": 2,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-086",
   "q": "Comment appelle-t-on la concrétion calcaire qui pend du plafond d'une grotte ?",
   "r": "Une stalactite",
   "d": 1,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-087",
   "q": "Comment appelle-t-on un plateau isolé à sommet plat et aux flancs abrupts, typique de l'Ouest américain ?",
   "r": "Une mesa",
   "d": 3,
   "t": "Géographie physique"
  },
  {
+  "id": "geo_c_3-088",
   "q": "Quelle ville américaine est surnommée « la Grosse Pomme » ?",
   "r": "New York",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_3-089",
   "q": "Quel arrondissement de New York occupe une île entre l'Hudson et l'East River ?",
   "r": "Manhattan",
   "d": 1,
   "t": "Grandes villes"
  },
  {
+  "id": "geo_c_3-090",
   "q": "Quelle ville américaine est surnommée « la ville des vents » ?",
   "r": "Chicago",
   "d": 1,

@@ -1,539 +1,629 @@
 [
  {
+  "id": "his_b_4-001",
   "q": "Quel homme politique, surnommé « le père de l'école laïque », fait voter les lois scolaires de 1881-1882 ?",
   "r": "Jules Ferry",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-002",
   "q": "En quelle année est votée en France la loi de séparation des Églises et de l'État ?",
   "r": "1905",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-003",
   "q": "Quel capitaine juif est injustement condamné pour trahison en 1894 ?",
   "r": "Alfred Dreyfus",
   "d": 1,
   "t": "Affaire Dreyfus"
  },
  {
+  "id": "his_b_4-004",
   "q": "Quel écrivain publie « J'accuse… ! » dans le journal L'Aurore en 1898 ?",
   "r": "Émile Zola",
   "d": 1,
   "t": "Affaire Dreyfus"
  },
  {
+  "id": "his_b_4-005",
   "q": "Quel officier était le véritable auteur du bordereau attribué à Dreyfus ?",
   "r": "Ferdinand Walsin Esterhazy",
   "d": 3,
   "t": "Affaire Dreyfus"
  },
  {
+  "id": "his_b_4-006",
   "q": "Quel général, ministre de la Guerre, menace la IIIe République d'un coup de force à la fin des années 1880 ?",
   "r": "Georges Boulanger",
   "d": 2,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-007",
   "q": "Quel scandale financier lié au percement d'un canal en Amérique centrale éclabousse la classe politique en 1892 ?",
   "r": "Le scandale de Panama",
   "d": 2,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-008",
   "q": "Quel ministre de l'Intérieur fait légaliser les syndicats en France en 1884 ?",
   "r": "Pierre Waldeck-Rousseau",
   "d": 3,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-009",
   "q": "Quel monument est construit pour l'Exposition universelle de Paris de 1889 ?",
   "r": "La tour Eiffel",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-010",
   "q": "Quel dirigeant socialiste, fondateur de L'Humanité, est assassiné le 31 juillet 1914 ?",
   "r": "Jean Jaurès",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-011",
   "q": "Quel président de la République est assassiné à Lyon par un anarchiste italien en 1894 ?",
   "r": "Sadi Carnot",
   "d": 2,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-012",
   "q": "Quelles provinces la France perd-elle au profit de l'Allemagne par le traité de Francfort de 1871 ?",
   "r": "L'Alsace et une partie de la Lorraine",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-013",
   "q": "Dans quelle salle du château de Versailles l'Empire allemand est-il proclamé le 18 janvier 1871 ?",
   "r": "La galerie des Glaces",
   "d": 2,
   "t": "Unité allemande"
  },
  {
+  "id": "his_b_4-014",
   "q": "Quel homme d'État, chef du gouvernement installé à Versailles, fait réprimer la Commune de Paris en 1871 ?",
   "r": "Adolphe Thiers",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-015",
   "q": "Quel amendement de 1875, adopté à une voix de majorité, installe durablement la République ?",
   "r": "L'amendement Wallon",
   "d": 3,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-016",
   "q": "Quelle institutrice, figure de la Commune, est déportée en Nouvelle-Calédonie ?",
   "r": "Louise Michel",
   "d": 1,
   "t": "IIIe République"
  },
  {
+  "id": "his_b_4-017",
   "q": "Comment s'appelle l'accord de 1904 qui rapproche la France et le Royaume-Uni ?",
   "r": "L'Entente cordiale",
   "d": 1,
   "t": "Relations internationales"
  },
  {
+  "id": "his_b_4-018",
   "q": "Quel archiduc héritier d'Autriche-Hongrie est assassiné à Sarajevo le 28 juin 1914 ?",
   "r": "François-Ferdinand",
   "d": 1,
   "t": "Relations internationales"
  },
  {
+  "id": "his_b_4-019",
   "q": "Quel jeune nationaliste serbe de Bosnie assassine l'archiduc à Sarajevo en 1914 ?",
   "r": "Gavrilo Princip",
   "d": 2,
   "t": "Relations internationales"
  },
  {
+  "id": "his_b_4-020",
   "q": "Quel explorateur d'origine italienne, naturalisé français, a donné son nom à la capitale de la république du Congo ?",
   "r": "Pierre Savorgnan de Brazza",
   "d": 1,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-021",
   "q": "Quelle conférence de 1884-1885 fixe les règles du partage de l'Afrique entre puissances européennes ?",
   "r": "La conférence de Berlin",
   "d": 1,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-022",
   "q": "Quel roi des Belges possède à titre personnel l'État indépendant du Congo ?",
   "r": "Léopold II",
   "d": 1,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-023",
   "q": "Quelle crise de 1898, dans le haut Nil, manque de provoquer une guerre entre la France et le Royaume-Uni ?",
   "r": "La crise de Fachoda",
   "d": 2,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-024",
   "q": "Quelle dernière reine de Madagascar est exilée par les Français en 1897 ?",
   "r": "Ranavalona III",
   "d": 3,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-025",
   "q": "Quel militaire devient en 1912 le premier résident général de France au Maroc ?",
   "r": "Hubert Lyautey",
   "d": 2,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-026",
   "q": "Quel chef malinké résiste à la conquête française en Afrique de l'Ouest jusqu'à sa capture en 1898 ?",
   "r": "Samory Touré",
   "d": 3,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-027",
   "q": "Quel pays africain inflige à l'Italie une lourde défaite à Adoua en 1896 ?",
   "r": "L'Éthiopie",
   "d": 2,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-028",
   "q": "Quel empereur éthiopien remporte la bataille d'Adoua ?",
   "r": "Ménélik II",
   "d": 3,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-029",
   "q": "Contre quels colons d'origine néerlandaise les Britanniques mènent-ils une guerre en Afrique australe de 1899 à 1902 ?",
   "r": "Les Boers",
   "d": 2,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-030",
   "q": "Quel diplomate français, entrepreneur du canal de Suez, assiste à son inauguration en 1869 ?",
   "r": "Ferdinand de Lesseps",
   "d": 1,
   "t": "Colonisation"
  },
  {
+  "id": "his_b_4-031",
   "q": "Quel Premier ministre britannique fait attribuer à la reine Victoria le titre d'impératrice des Indes en 1876 ?",
   "r": "Benjamin Disraeli",
   "d": 3,
   "t": "Empire britannique"
  },
  {
+  "id": "his_b_4-032",
   "q": "Comment appelle-t-on le soulèvement des soldats indiens contre la Compagnie des Indes en 1857 ?",
   "r": "La révolte des cipayes",
   "d": 2,
   "t": "Empire britannique"
  },
  {
+  "id": "his_b_4-033",
   "q": "Quelle ville du Mali René Caillié est-il le premier Européen à visiter et à en revenir, en 1828 ?",
   "r": "Tombouctou",
   "d": 2,
   "t": "Explorations"
  },
  {
+  "id": "his_b_4-034",
   "q": "Quel missionnaire écossais le journaliste Stanley retrouve-t-il en Afrique en 1871 ?",
   "r": "David Livingstone",
   "d": 2,
   "t": "Explorations"
  },
  {
+  "id": "his_b_4-035",
   "q": "Quelle drogue est au cœur des guerres qui opposent la Chine au Royaume-Uni à partir de 1839 ?",
   "r": "L'opium",
   "d": 1,
   "t": "Chine"
  },
  {
+  "id": "his_b_4-036",
   "q": "Quelle île est cédée au Royaume-Uni par le traité de Nankin en 1842 ?",
   "r": "Hong Kong",
   "d": 1,
   "t": "Chine"
  },
  {
+  "id": "his_b_4-037",
   "q": "Quelle impératrice douairière domine la cour de Chine de 1861 à sa mort en 1908 ?",
   "r": "Cixi",
   "d": 3,
   "t": "Chine"
  },
  {
+  "id": "his_b_4-038",
   "q": "Sous quel nom est connue la révolte xénophobe qui assiège les légations étrangères de Pékin en 1900 ?",
   "r": "La révolte des Boxers",
   "d": 2,
   "t": "Chine"
  },
  {
+  "id": "his_b_4-039",
   "q": "Quel révolutionnaire devient en 1912 le premier président, provisoire, de la République de Chine ?",
   "r": "Sun Yat-sen",
   "d": 2,
   "t": "Chine"
  },
  {
+  "id": "his_b_4-040",
   "q": "Quelle révolte, menée par un homme se disant le frère cadet de Jésus, ravage la Chine de 1850 à 1864 ?",
   "r": "La révolte des Taiping",
   "d": 3,
   "t": "Chine"
  },
  {
+  "id": "his_b_4-041",
   "q": "Quel officier de marine américain force le Japon à s'ouvrir au commerce en 1853-1854 ?",
   "r": "Le commodore Perry",
   "d": 2,
   "t": "Japon"
  },
  {
+  "id": "his_b_4-042",
   "q": "Comment appelle-t-on l'ère de modernisation du Japon ouverte en 1868 ?",
   "r": "L'ère Meiji",
   "d": 1,
   "t": "Japon"
  },
  {
+  "id": "his_b_4-043",
   "q": "Quel pays anéantit la flotte russe lors de la bataille de Tsushima en 1905 ?",
   "r": "Le Japon",
   "d": 1,
   "t": "Japon"
  },
  {
+  "id": "his_b_4-044",
   "q": "Quel tsar abolit le servage en Russie en 1861 ?",
   "r": "Alexandre II",
   "d": 1,
   "t": "Russie"
  },
  {
+  "id": "his_b_4-045",
   "q": "Comment appelle-t-on la journée de janvier 1905 où la troupe tire sur des manifestants pacifiques à Saint-Pétersbourg ?",
   "r": "Le Dimanche rouge",
   "d": 2,
   "t": "Russie"
  },
  {
+  "id": "his_b_4-046",
   "q": "Quel cuirassé de la flotte russe de la mer Noire est le théâtre d'une célèbre mutinerie en 1905 ?",
   "r": "Le Potemkine",
   "d": 1,
   "t": "Russie"
  },
  {
+  "id": "his_b_4-047",
   "q": "Quel chancelier prussien est l'artisan de l'unité allemande ?",
   "r": "Otto von Bismarck",
   "d": 1,
   "t": "Unité allemande"
  },
  {
+  "id": "his_b_4-048",
   "q": "Quel télégramme, habilement modifié par Bismarck, provoque la déclaration de guerre de la France en 1870 ?",
   "r": "La dépêche d'Ems",
   "d": 2,
   "t": "Unité allemande"
  },
  {
+  "id": "his_b_4-049",
   "q": "Quelle bataille de 1866 voit la victoire décisive de la Prusse sur l'Autriche ?",
   "r": "Sadowa",
   "d": 2,
   "t": "Unité allemande"
  },
  {
+  "id": "his_b_4-050",
   "q": "Quel révolutionnaire mène l'expédition des Mille en Sicile en 1860 ?",
   "r": "Giuseppe Garibaldi",
   "d": 1,
   "t": "Unité italienne"
  },
  {
+  "id": "his_b_4-051",
   "q": "Quel ministre du royaume de Piémont-Sardaigne est l'architecte diplomatique de l'unité italienne ?",
   "r": "Camillo Cavour",
   "d": 2,
   "t": "Unité italienne"
  },
  {
+  "id": "his_b_4-052",
   "q": "Quel pays est frappé à partir de 1845 par une grande famine due au mildiou de la pomme de terre ?",
   "r": "L'Irlande",
   "d": 1,
   "t": "Europe au XIXe siècle"
  },
  {
+  "id": "his_b_4-053",
   "q": "Quel pays conquiert son indépendance face à l'Empire ottoman au terme d'une guerre où s'engagea lord Byron ?",
   "r": "La Grèce",
   "d": 2,
   "t": "Europe au XIXe siècle"
  },
  {
+  "id": "his_b_4-054",
   "q": "Comment surnomme-t-on la vague de révolutions qui secoue l'Europe en 1848 ?",
   "r": "Le Printemps des peuples",
   "d": 2,
   "t": "Europe au XIXe siècle"
  },
  {
+  "id": "his_b_4-055",
   "q": "Quels penseurs publient le Manifeste du parti communiste en 1848 ?",
   "r": "Karl Marx et Friedrich Engels",
   "d": 1,
   "t": "Europe au XIXe siècle"
  },
  {
+  "id": "his_b_4-056",
   "q": "Quelle infirmière britannique, surnommée « la Dame à la lampe », s'illustre pendant la guerre de Crimée ?",
   "r": "Florence Nightingale",
   "d": 1,
   "t": "Europe au XIXe siècle"
  },
  {
+  "id": "his_b_4-057",
   "q": "Quel surnom est resté attaché à l'impératrice Élisabeth d'Autriche, épouse de François-Joseph ?",
   "r": "Sissi",
   "d": 1,
   "t": "Europe au XIXe siècle"
  },
  {
+  "id": "his_b_4-058",
   "q": "Quel ingénieur écossais perfectionne la machine à vapeur dans la seconde moitié du XVIIIe siècle ?",
   "r": "James Watt",
   "d": 1,
   "t": "Révolution industrielle"
  },
  {
+  "id": "his_b_4-059",
   "q": "Quel ingénieur anglais est surnommé « le père des chemins de fer » ?",
   "r": "George Stephenson",
   "d": 2,
   "t": "Révolution industrielle"
  },
  {
+  "id": "his_b_4-060",
   "q": "Comment appelle-t-on les ouvriers anglais qui brisaient les machines textiles au début du XIXe siècle ?",
   "r": "Les luddites",
   "d": 3,
   "t": "Révolution industrielle"
  },
  {
+  "id": "his_b_4-061",
   "q": "Quelle famille d'industriels a fait du Creusot un géant de la sidérurgie au XIXe siècle ?",
   "r": "Les Schneider",
   "d": 2,
   "t": "Révolution industrielle"
  },
  {
+  "id": "his_b_4-062",
   "q": "À partir de quel âge la loi française de 1841 autorise-t-elle le travail des enfants dans les manufactures ?",
   "r": "8 ans",
   "d": 3,
   "t": "Révolution industrielle"
  },
  {
+  "id": "his_b_4-063",
   "q": "Quels frères lyonnais organisent à Paris la première projection publique payante du cinématographe en 1895 ?",
   "r": "Les frères Lumière",
   "d": 1,
   "t": "Sciences et techniques"
  },
  {
+  "id": "his_b_4-064",
   "q": "Quel aviateur français réussit la première traversée de la Manche en avion en 1909 ?",
   "r": "Louis Blériot",
   "d": 1,
   "t": "Sciences et techniques"
  },
  {
+  "id": "his_b_4-065",
   "q": "Quel paquebot fait naufrage dans l'Atlantique Nord en avril 1912 lors de son voyage inaugural ?",
   "r": "Le Titanic",
   "d": 1,
   "t": "Sciences et techniques"
  },
  {
+  "id": "his_b_4-066",
   "q": "Quel président des États-Unis, auteur de la Proclamation d'émancipation, est assassiné en 1865 ?",
   "r": "Abraham Lincoln",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-067",
   "q": "Quel général sudiste capitule à Appomattox en avril 1865 ?",
   "r": "Robert E. Lee",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-068",
   "q": "Quelle bataille de 1863, livrée en Pennsylvanie, marque un tournant de la guerre de Sécession ?",
   "r": "Gettysburg",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-069",
   "q": "Quel roman de Harriet Beecher Stowe, paru en 1852, dénonce l'esclavage aux États-Unis ?",
   "r": "La Case de l'oncle Tom",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-070",
   "q": "Quel territoire de l'Ouest américain connaît une ruée vers l'or à partir de 1848 ?",
   "r": "La Californie",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-071",
   "q": "Quel territoire les États-Unis achètent-ils à la Russie en 1867 ?",
   "r": "L'Alaska",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-072",
   "q": "Quelle bataille de 1876 voit la défaite et la mort du lieutenant-colonel Custer face aux Sioux et aux Cheyennes ?",
   "r": "Little Bighorn",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-073",
   "q": "Quel chef apache se rend définitivement à l'armée américaine en 1886 ?",
   "r": "Geronimo",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-074",
   "q": "Quel massacre de Sioux, en 1890, marque symboliquement la fin des guerres indiennes ?",
   "r": "Wounded Knee",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-075",
   "q": "Comment appelle-t-on la déportation forcée des Cherokees vers l'Oklahoma en 1838-1839 ?",
   "r": "La Piste des larmes",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-076",
   "q": "Quel sculpteur alsacien a conçu la statue de la Liberté, inaugurée à New York en 1886 ?",
   "r": "Auguste Bartholdi",
   "d": 1,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-077",
   "q": "Quelle doctrine américaine de 1823 est résumée par la formule « l'Amérique aux Américains » ?",
   "r": "La doctrine Monroe",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-078",
   "q": "À quel pays les États-Unis prennent-ils Porto Rico et les Philippines en 1898 ?",
   "r": "L'Espagne",
   "d": 2,
   "t": "États-Unis"
  },
  {
+  "id": "his_b_4-079",
   "q": "Quel « Libertador » vénézuélien a donné son nom à un pays d'Amérique du Sud ?",
   "r": "Simón Bolívar",
   "d": 1,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-080",
   "q": "Quel général argentin franchit les Andes en 1817 pour libérer le Chili ?",
   "r": "José de San Martín",
   "d": 2,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-081",
   "q": "Quel prêtre lance en 1810 le « cri de Dolores », point de départ de l'indépendance du Mexique ?",
   "r": "Miguel Hidalgo",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-082",
   "q": "Quel fils du roi du Portugal proclame l'indépendance du Brésil en 1822 et en devient l'empereur ?",
   "r": "Pierre Ier (Dom Pedro)",
   "d": 2,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-083",
   "q": "En quelle année le Brésil, dernier pays des Amériques à le faire, abolit-il l'esclavage ?",
   "r": "1888",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-084",
   "q": "Quel président mexicain d'origine zapotèque résiste à l'intervention française des années 1860 ?",
   "r": "Benito Juárez",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-085",
   "q": "Quel chef de la révolution mexicaine s'appelait en réalité José Doroteo Arango ?",
   "r": "Pancho Villa",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-086",
   "q": "Quel poète, héros de l'indépendance cubaine, meurt au combat contre les Espagnols en 1895 ?",
   "r": "José Martí",
   "d": 3,
   "t": "Amérique latine"
  },
  {
+  "id": "his_b_4-087",
   "q": "Quelle ville australienne est fondée en 1788 comme colonie pénitentiaire britannique ?",
   "r": "Sydney",
   "d": 2,
   "t": "Océanie"
  },
  {
+  "id": "his_b_4-088",
   "q": "Quel ingénieur français construit en 1769 le fardier, premier véhicule automobile à vapeur ?",
   "r": "Nicolas-Joseph Cugnot",
   "d": 3,
   "t": "Révolution industrielle"
  },
  {
+  "id": "his_b_4-089",
   "q": "Quel ministre des Affaires étrangères, artisan de l'Entente cordiale, dirige la diplomatie française de 1898 à 1905 ?",
   "r": "Théophile Delcassé",
   "d": 3,
   "t": "Relations internationales"
  },
  {
+  "id": "his_b_4-090",
   "q": "Quel Premier ministre britannique fait abroger les lois protectionnistes sur les céréales, les Corn Laws, en 1846 ?",
   "r": "Robert Peel",
   "d": 3,

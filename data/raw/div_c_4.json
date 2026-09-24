@@ -1,539 +1,629 @@
 [
  {
+  "id": "div_c_4-001",
   "q": "Quel concours de chansons, organisé par l'Union européenne de radio-télévision, existe depuis 1956 ?",
   "r": "L'Eurovision",
   "d": 1,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-002",
   "q": "Avec quelle chanson ABBA a-t-il remporté l'Eurovision en 1974 ?",
   "r": "Waterloo",
   "d": 1,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-003",
   "q": "Dans quelle station balnéaire anglaise ABBA a-t-il remporté l'Eurovision en 1974 ?",
   "r": "Brighton",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-004",
   "q": "Quel pays a remporté le tout premier concours Eurovision, en 1956 ?",
   "r": "La Suisse",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-005",
   "q": "Quelle chanteuse française a remporté l'Eurovision 1965 pour le Luxembourg avec « Poupée de cire, poupée de son » ?",
   "r": "France Gall",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-006",
   "q": "Quelle chanteuse a remporté l'Eurovision 1977 pour la France avec « L'Oiseau et l'Enfant » ?",
   "r": "Marie Myriam",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-007",
   "q": "Quelle chanteuse québécoise a remporté l'Eurovision 1988 en représentant la Suisse ?",
   "r": "Céline Dion",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-008",
   "q": "Quel chanteur irlandais a remporté l'Eurovision comme interprète en 1980 puis en 1987 ?",
   "r": "Johnny Logan",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-009",
   "q": "Quel chanteur italien, connu pour « L'Italiano », a remporté l'Eurovision en 1990 ?",
   "r": "Toto Cutugno",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-010",
   "q": "Quel spectacle de danse irlandaise est né d'un intermède de sept minutes lors de l'Eurovision 1994 ?",
   "r": "Riverdance",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-011",
   "q": "Quelle chanteuse israélienne a remporté l'Eurovision 1998 avec « Diva » ?",
   "r": "Dana International",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-012",
   "q": "Quel pays a remporté l'Eurovision 2006 grâce au groupe de hard rock masqué Lordi ?",
   "r": "La Finlande",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-013",
   "q": "Quelle artiste autrichienne barbue a remporté l'Eurovision 2014 avec « Rise Like a Phoenix » ?",
   "r": "Conchita Wurst",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-014",
   "q": "Avec quelle chanson Amir a-t-il représenté la France à l'Eurovision 2016 ?",
   "r": "J'ai cherché",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-015",
   "q": "Quel groupe de rock italien a remporté l'Eurovision 2021 à Rotterdam ?",
   "r": "Måneskin",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-016",
   "q": "Quelle chanteuse française a terminé deuxième de l'Eurovision 2021 avec « Voilà » ?",
   "r": "Barbara Pravi",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-017",
   "q": "Quel pays a remporté l'Eurovision 2022 avec le Kalush Orchestra ?",
   "r": "L'Ukraine",
   "d": 2,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-018",
   "q": "Quelle chanteuse suédoise a remporté l'Eurovision en 2012 avec « Euphoria » puis en 2023 avec « Tattoo » ?",
   "r": "Loreen",
   "d": 3,
   "t": "Eurovision"
  },
  {
+  "id": "div_c_4-019",
   "q": "Quel spectacle musical de 1998, signé Riccardo Cocciante et Luc Plamondon, a rendu célèbre la chanson « Belle » ?",
   "r": "Notre-Dame de Paris",
   "d": 1,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-020",
   "q": "Quel chanteur québécois à la voix rauque incarnait Quasimodo dans « Notre-Dame de Paris » en 1998 ?",
   "r": "Garou",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-021",
   "q": "Quel opéra-rock de Michel Berger et Luc Plamondon, créé en 1979, contient « Le Blues du businessman » ?",
   "r": "Starmania",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-022",
   "q": "De quel spectacle musical français la chanson « Les Rois du monde » est-elle tirée ?",
   "r": "Roméo et Juliette",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-023",
   "q": "Quel chanteur a composé la musique du spectacle « Les Dix Commandements » en 2000 ?",
   "r": "Pascal Obispo",
   "d": 3,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-024",
   "q": "Quel roi de France est le héros du spectacle musical « Le Roi Soleil » créé en 2005 ?",
   "r": "Louis XIV",
   "d": 1,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-025",
   "q": "Quelle comédie musicale d'Andrew Lloyd Webber met en scène un compositeur masqué hantant l'Opéra Garnier ?",
   "r": "Le Fantôme de l'Opéra",
   "d": 1,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-026",
   "q": "Quelle comédie musicale d'Andrew Lloyd Webber, créée en 1981, s'inspire de poèmes de T. S. Eliot sur des chats ?",
   "r": "Cats",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-027",
   "q": "Quel opéra-rock d'Andrew Lloyd Webber et Tim Rice raconte les derniers jours de Jésus ?",
   "r": "Jesus Christ Superstar",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-028",
   "q": "Quelle comédie musicale adaptée de Victor Hugo a été créée à Paris en 1980 avant de triompher à Londres ?",
   "r": "Les Misérables",
   "d": 2,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-029",
   "q": "Quelle comédie musicale de Broadway de 1957 transpose l'histoire de Roméo et Juliette chez les gangs de New York ?",
   "r": "West Side Story",
   "d": 1,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-030",
   "q": "Quel compositeur et chef d'orchestre américain a écrit la musique de « West Side Story » ?",
   "r": "Leonard Bernstein",
   "d": 3,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-031",
   "q": "Quelle comédie musicale est construite entièrement sur les chansons du groupe ABBA ?",
   "r": "Mamma Mia!",
   "d": 1,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-032",
   "q": "Quelle avenue de New York est synonyme de théâtres de comédies musicales ?",
   "r": "Broadway",
   "d": 1,
   "t": "Comédies musicales"
  },
  {
+  "id": "div_c_4-033",
   "q": "Dans quel film musical de 1978 John Travolta et Olivia Newton-John chantent-ils « You're the One That I Want » ?",
   "r": "Grease",
   "d": 1,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-034",
   "q": "Dans quel dessin animé Disney de 1994 Timon et Pumbaa chantent-ils « Hakuna Matata » ?",
   "r": "Le Roi lion",
   "d": 1,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-035",
   "q": "Dans quel film d'animation Disney de 2013 la reine Elsa chante-t-elle « Libérée, délivrée » ?",
   "r": "La Reine des neiges",
   "d": 1,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-036",
   "q": "Quelle comédie musicale de 2016, avec Ryan Gosling et Emma Stone, se déroule à Los Angeles ?",
   "r": "La La Land",
   "d": 1,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-037",
   "q": "Quel film musical de Jacques Demy de 1967 réunit les sœurs Catherine Deneuve et Françoise Dorléac ?",
   "r": "Les Demoiselles de Rochefort",
   "d": 2,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-038",
   "q": "Quel compositeur a écrit la musique des « Parapluies de Cherbourg » ?",
   "r": "Michel Legrand",
   "d": 2,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-039",
   "q": "Quelle chanteuse a prêté sa voix chantée à Catherine Deneuve dans « Les Parapluies de Cherbourg » ?",
   "r": "Danielle Licari",
   "d": 3,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-040",
   "q": "Quel film de 2018, avec Lady Gaga et Bradley Cooper, raconte l'ascension d'une jeune chanteuse ?",
   "r": "A Star Is Born",
   "d": 1,
   "t": "Films musicaux"
  },
  {
+  "id": "div_c_4-041",
   "q": "Quel film de 2007 retrace la vie d'Édith Piaf, avec Marion Cotillard dans le rôle-titre ?",
   "r": "La Môme",
   "d": 1,
   "t": "Biopics musicaux"
  },
  {
+  "id": "div_c_4-042",
   "q": "Quel acteur a remporté un Oscar pour son interprétation de Freddie Mercury dans « Bohemian Rhapsody » ?",
   "r": "Rami Malek",
   "d": 2,
   "t": "Biopics musicaux"
  },
  {
+  "id": "div_c_4-043",
   "q": "Quel acteur belge incarne Claude François dans le film « Cloclo » en 2012 ?",
   "r": "Jérémie Renier",
   "d": 3,
   "t": "Biopics musicaux"
  },
  {
+  "id": "div_c_4-044",
   "q": "Quelle chanson de Joe Dassin commence par « Je m'baladais sur l'avenue, le cœur ouvert à l'inconnu » ?",
   "r": "Les Champs-Élysées",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-045",
   "q": "Dans quelle chanson de Joe Dassin entend-on « Tu sais, je n'ai jamais été aussi heureux que ce matin-là » ?",
   "r": "L'Été indien",
   "d": 2,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-046",
   "q": "Quelle chanson de Charles Aznavour évoque « un temps que les moins de vingt ans ne peuvent pas connaître » ?",
   "r": "La Bohème",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-047",
   "q": "Quelle chanson de Charles Trenet évoque des « reflets d'argent » qui dansent le long des golfes clairs ?",
   "r": "La Mer",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-048",
   "q": "Quelle chanson d'Édith Piaf commence par « Des yeux qui font baisser les miens » ?",
   "r": "La Vie en rose",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-049",
   "q": "Quelle ville Claude Nougaro chante-t-il avec les mots « Ô mon païs, ô … » ?",
   "r": "Toulouse",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-050",
   "q": "À quel jazzman Claude Nougaro s'adresse-t-il dans une chanson de 1965 en lui disant « je ne suis pas noir » ?",
   "r": "Louis Armstrong",
   "d": 3,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-051",
   "q": "Dans quel pays se déroule l'histoire des « Lacs du Connemara » de Michel Sardou ?",
   "r": "L'Irlande",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-052",
   "q": "Quel chanteur chante « On va s'aimer, sur une étoile ou sur un oreiller » ?",
   "r": "Gilbert Montagné",
   "d": 2,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-053",
   "q": "Quel chanteur a interprété « Une belle histoire » en 1972 avec sa troupe du Big Bazar ?",
   "r": "Michel Fugain",
   "d": 2,
   "t": "Variété française"
  },
  {
+  "id": "div_c_4-054",
   "q": "Quelle chanson de Maxime Le Forestier évoque « une maison bleue adossée à la colline » ?",
   "r": "San Francisco",
   "d": 2,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-055",
   "q": "Quelle chanson des Beatles commence par « When I find myself in times of trouble, Mother Mary comes to me » ?",
   "r": "Let It Be",
   "d": 2,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-056",
   "q": "Quel hymne de Queen est scandé dans les stades sur un rythme de deux frappes de pied et un claquement de mains ?",
   "r": "We Will Rock You",
   "d": 1,
   "t": "Paroles célèbres"
  },
  {
+  "id": "div_c_4-057",
   "q": "Quel album de Michael Jackson, sorti en 1987, porte le nom d'un mot anglais signifiant « mauvais » ?",
   "r": "Bad",
   "d": 1,
   "t": "Albums"
  },
  {
+  "id": "div_c_4-058",
   "q": "Quel est le titre officiel de l'« Album blanc » des Beatles, sorti en 1968 ?",
   "r": "The Beatles",
   "d": 3,
   "t": "Albums"
  },
  {
+  "id": "div_c_4-059",
   "q": "Quel album de Stromae, sorti en 2013, contient « Papaoutai » et « Formidable » ?",
   "r": "Racine carrée",
   "d": 2,
   "t": "Albums"
  },
  {
+  "id": "div_c_4-060",
   "q": "Quel album de Johnny Hallyday, sorti en 1986 et écrit par Jean-Jacques Goldman, contient « Je te promets » ?",
   "r": "Gang",
   "d": 3,
   "t": "Albums"
  },
  {
+  "id": "div_c_4-061",
   "q": "Quelle chanteuse, ancienne mannequin, a sorti l'album « Quelqu'un m'a dit » en 2002 ?",
   "r": "Carla Bruni",
   "d": 2,
   "t": "Albums"
  },
  {
+  "id": "div_c_4-062",
   "q": "Comment appelait-on le petit disque vinyle contenant généralement un titre par face ?",
   "r": "Le 45 tours",
   "d": 1,
   "t": "Supports"
  },
  {
+  "id": "div_c_4-063",
   "q": "Quel instrument est surnommé le « piano à bretelles » ?",
   "r": "L'accordéon",
   "d": 1,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-064",
   "q": "Quel petit instrument à quatre cordes est emblématique de la musique hawaïenne ?",
   "r": "Le ukulélé",
   "d": 1,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-065",
   "q": "Quel tambour d'Afrique de l'Ouest, en forme de calice, se joue à mains nues ?",
   "r": "Le djembé",
   "d": 1,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-066",
   "q": "Combien de cordes compte une guitare basse électrique standard ?",
   "r": "4",
   "d": 1,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-067",
   "q": "Quelle marque américaine fabrique la guitare électrique Stratocaster ?",
   "r": "Fender",
   "d": 2,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-068",
   "q": "Quel instrument à percussion en métal, fabriqué à partir de bidons de pétrole, est né à Trinité-et-Tobago ?",
   "r": "Le steel drum (steelpan)",
   "d": 2,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-069",
   "q": "Quel instrument électronique se joue sans être touché, en approchant les mains de deux antennes ?",
   "r": "Le thérémine",
   "d": 3,
   "t": "Instruments"
  },
  {
+  "id": "div_c_4-070",
   "q": "Quelle accordéoniste aux cheveux flamboyants a suivi la caravane du Tour de France dans les années 1950 ?",
   "r": "Yvette Horner",
   "d": 2,
   "t": "Célébrités de la musique"
  },
  {
+  "id": "div_c_4-071",
   "q": "Quel chef d'orchestre français a connu un numéro un aux États-Unis en 1968 avec « L'amour est bleu » ?",
   "r": "Paul Mauriat",
   "d": 3,
   "t": "Célébrités de la musique"
  },
  {
+  "id": "div_c_4-072",
   "q": "Quelle chanteuse et actrice est la fille de Serge Gainsbourg et de Jane Birkin ?",
   "r": "Charlotte Gainsbourg",
   "d": 1,
   "t": "Célébrités de la musique"
  },
  {
+  "id": "div_c_4-073",
   "q": "Quel chanteur est le fils de Johnny Hallyday et de Sylvie Vartan ?",
   "r": "David Hallyday",
   "d": 1,
   "t": "Célébrités de la musique"
  },
  {
+  "id": "div_c_4-074",
   "q": "Quel chanteur et guitariste de jazz manouche est le fils de Jacques Dutronc et de Françoise Hardy ?",
   "r": "Thomas Dutronc",
   "d": 2,
   "t": "Célébrités de la musique"
  },
  {
+  "id": "div_c_4-075",
   "q": "Quelle chanteuse originaire de la Barbade a lancé la marque de cosmétiques Fenty Beauty ?",
   "r": "Rihanna",
   "d": 2,
   "t": "Célébrités de la musique"
  },
  {
+  "id": "div_c_4-076",
   "q": "Quelle cérémonie française récompense chaque année les artistes musicaux depuis 1985 ?",
   "r": "Les Victoires de la musique",
   "d": 1,
   "t": "Récompenses"
  },
  {
+  "id": "div_c_4-077",
   "q": "Quelle récompense musicale américaine prend la forme d'un gramophone doré ?",
   "r": "Les Grammy Awards",
   "d": 1,
   "t": "Récompenses"
  },
  {
+  "id": "div_c_4-078",
   "q": "Quelle salle de spectacle du boulevard des Capucines, à Paris, a accueilli Piaf, Brel et les Beatles ?",
   "r": "L'Olympia",
   "d": 1,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_c_4-079",
   "q": "Quel homme a dirigé l'Olympia de 1954 jusqu'à sa mort en 1979 ?",
   "r": "Bruno Coquatrix",
   "d": 3,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_c_4-080",
   "q": "Quel cabaret parisien du boulevard de Clichy, surmonté d'un moulin, est le temple du french cancan ?",
   "r": "Le Moulin Rouge",
   "d": 1,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_c_4-081",
   "q": "Quel grand festival de rock se tient chaque été près de Belfort, sur la presqu'île du Malsaucy ?",
   "r": "Les Eurockéennes",
   "d": 2,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_c_4-082",
   "q": "Dans quelle ville du Finistère se tient le festival des Vieilles Charrues ?",
   "r": "Carhaix",
   "d": 2,
   "t": "Salles et festivals"
  },
  {
+  "id": "div_c_4-083",
   "q": "Quel télé-crochet met en scène des coachs qui se retournent dans leur fauteuil en entendant une voix ?",
   "r": "The Voice",
   "d": 1,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-084",
   "q": "Quelle émission de TF1, lancée en 2001, réunissait de jeunes chanteurs dans un château de Dammarie-les-Lys ?",
   "r": "Star Academy",
   "d": 1,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-085",
   "q": "Quelle chanteuse a remporté la toute première saison de la Star Academy ?",
   "r": "Jenifer",
   "d": 2,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-086",
   "q": "Quelle chaîne de télévision musicale américaine a été lancée en 1981 ?",
   "r": "MTV",
   "d": 2,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-087",
   "q": "Quel clip du groupe The Buggles a été le premier diffusé sur MTV lors de son lancement ?",
   "r": "Video Killed the Radio Star",
   "d": 3,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-088",
   "q": "Quelle émission musicale de la BBC, diffusée de 1964 à 2006, présentait les meilleures ventes de disques ?",
   "r": "Top of the Pops",
   "d": 3,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-089",
   "q": "Quel animateur a présenté l'émission de variétés « Champs-Élysées » dans les années 1980 ?",
   "r": "Michel Drucker",
   "d": 2,
   "t": "Télévision"
  },
  {
+  "id": "div_c_4-090",
   "q": "Quel loisir né au Japon consiste à chanter un tube dont les paroles défilent à l'écran ?",
   "r": "Le karaoké",
   "d": 1,

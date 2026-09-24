@@ -1,539 +1,629 @@
 [
  {
+  "id": "geo_b_1-001",
   "q": "Quelle est la capitale du Portugal ?",
   "r": "Lisbonne",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-002",
   "q": "Quel fleuve traverse Lisbonne avant de se jeter dans l'Atlantique ?",
   "r": "Le Tage",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-003",
   "q": "Dans quelle ville espagnole se dresse la basilique de la Sagrada Família ?",
   "r": "Barcelone",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-004",
   "q": "Dans quelle ville d'Andalousie se trouve le palais de l'Alhambra ?",
   "r": "Grenade",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-005",
   "q": "Quel détroit sépare l'Espagne du Maroc ?",
   "r": "Le détroit de Gibraltar",
   "d": 1,
   "t": "Mers et détroits"
  },
  {
+  "id": "geo_b_1-006",
   "q": "Quel territoire britannique, célèbre pour son rocher peuplé de singes magots, se trouve à la pointe sud de l'Espagne ?",
   "r": "Gibraltar",
   "d": 1,
   "t": "Territoires"
  },
  {
+  "id": "geo_b_1-007",
   "q": "À quel archipel espagnol appartiennent Majorque, Minorque et Ibiza ?",
   "r": "Les Baléares",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-008",
   "q": "À quel archipel espagnol appartient l'île de Tenerife ?",
   "r": "Les Canaries",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-009",
   "q": "Quel volcan de l'île de Tenerife est le point culminant de l'Espagne ?",
   "r": "Le Teide",
   "d": 2,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-010",
   "q": "Quelle langue est co-officielle avec le castillan à Barcelone ?",
   "r": "Le catalan",
   "d": 1,
   "t": "Langues"
  },
  {
+  "id": "geo_b_1-011",
   "q": "Quelle ville, capitale de la Galice, est le terme d'un célèbre pèlerinage chrétien ?",
   "r": "Saint-Jacques-de-Compostelle",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-012",
   "q": "Dans quelle ville du Pays basque espagnol se trouve le musée Guggenheim recouvert de titane conçu par Frank Gehry ?",
   "r": "Bilbao",
   "d": 2,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-013",
   "q": "Quel fleuve arrose Séville et Cordoue ?",
   "r": "Le Guadalquivir",
   "d": 3,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-014",
   "q": "Quel fleuve se jette dans l'Atlantique à Porto, donnant son nom à une célèbre vallée viticole ?",
   "r": "Le Douro",
   "d": 2,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-015",
   "q": "À quel pays appartient l'archipel des Açores ?",
   "r": "Le Portugal",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-016",
   "q": "Sur quelle île portugaise se trouve la ville de Funchal ?",
   "r": "Madère",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-017",
   "q": "Quelle était la monnaie de l'Espagne avant l'euro ?",
   "r": "La peseta",
   "d": 1,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_1-018",
   "q": "Quelle était la monnaie du Portugal avant l'euro ?",
   "r": "L'escudo",
   "d": 2,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_1-019",
   "q": "Quel fleuve traverse Rome ?",
   "r": "Le Tibre",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-020",
   "q": "Quel est le plus long fleuve d'Italie ?",
   "r": "Le Pô",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-021",
   "q": "Quel volcan a enseveli Pompéi et Herculanum en l'an 79 ?",
   "r": "Le Vésuve",
   "d": 1,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-022",
   "q": "Sur quelle île italienne se dresse l'Etna ?",
   "r": "La Sicile",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-023",
   "q": "Quel micro-État enclavé en Italie se présente comme la plus ancienne république du monde ?",
   "r": "Saint-Marin",
   "d": 2,
   "t": "Pays"
  },
  {
+  "id": "geo_b_1-024",
   "q": "Quel est le plus petit État du monde par sa superficie ?",
   "r": "Le Vatican",
   "d": 1,
   "t": "Pays"
  },
  {
+  "id": "geo_b_1-025",
   "q": "Dans quelle ville italienne se trouve une célèbre tour penchée, campanile de la cathédrale ?",
   "r": "Pise",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-026",
   "q": "Quel pont bordé de boutiques d'orfèvres enjambe l'Arno à Florence ?",
   "r": "Le Ponte Vecchio",
   "d": 2,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-027",
   "q": "Quel est le plus grand lac d'Italie ?",
   "r": "Le lac de Garde",
   "d": 2,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_1-028",
   "q": "Quel lac italien en forme de Y renversé baigne la ville de Bellagio ?",
   "r": "Le lac de Côme",
   "d": 2,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_1-029",
   "q": "De quelle région italienne Turin est-elle le chef-lieu ?",
   "r": "Le Piémont",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-030",
   "q": "Quelle ville italienne est parcourue par le Grand Canal ?",
   "r": "Venise",
   "d": 1,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-031",
   "q": "À quel archipel italien, au nord de la Sicile, appartiennent Stromboli et Vulcano ?",
   "r": "Les îles Éoliennes",
   "d": 3,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-032",
   "q": "Quelle était la monnaie de l'Italie avant l'euro ?",
   "r": "La lire",
   "d": 1,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_1-033",
   "q": "Quelle chaîne de montagnes forme l'épine dorsale de la péninsule italienne ?",
   "r": "Les Apennins",
   "d": 1,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-034",
   "q": "Quelle est la capitale de la Sardaigne ?",
   "r": "Cagliari",
   "d": 3,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-035",
   "q": "Quel détroit sépare la Sicile de la Calabre ?",
   "r": "Le détroit de Messine",
   "d": 2,
   "t": "Mers et détroits"
  },
  {
+  "id": "geo_b_1-036",
   "q": "Quel État insulaire de Méditerranée, indépendant depuis 1964, a pour capitale La Valette ?",
   "r": "Malte",
   "d": 1,
   "t": "Pays"
  },
  {
+  "id": "geo_b_1-037",
   "q": "Quelles sont les deux langues officielles de Malte ?",
   "r": "Le maltais et l'anglais",
   "d": 3,
   "t": "Langues"
  },
  {
+  "id": "geo_b_1-038",
   "q": "Quel fleuve traverse Londres ?",
   "r": "La Tamise",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-039",
   "q": "Quelle est la capitale de l'Écosse ?",
   "r": "Édimbourg",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-040",
   "q": "Quelle est la capitale du pays de Galles ?",
   "r": "Cardiff",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-041",
   "q": "Quelle est la capitale de l'Irlande du Nord ?",
   "r": "Belfast",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-042",
   "q": "Quel sommet écossais est le point culminant du Royaume-Uni ?",
   "r": "Le Ben Nevis",
   "d": 2,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-043",
   "q": "Quel lac écossais est célèbre pour son monstre légendaire surnommé Nessie ?",
   "r": "Le loch Ness",
   "d": 1,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_1-044",
   "q": "Quel cercle de mégalithes préhistoriques se dresse dans la plaine de Salisbury ?",
   "r": "Stonehenge",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-045",
   "q": "Quel mur défensif, construit sur ordre d'un empereur au IIe siècle, traversait le nord de l'Angleterre ?",
   "r": "Le mur d'Hadrien",
   "d": 2,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-046",
   "q": "Quelle ville anglaise, célèbre pour ses thermes romains, porte un nom qui signifie « bain » ?",
   "r": "Bath",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-047",
   "q": "Quel animal figure sur le drapeau du pays de Galles ?",
   "r": "Un dragon rouge",
   "d": 1,
   "t": "Drapeaux"
  },
  {
+  "id": "geo_b_1-048",
   "q": "Quel nom porte la croix blanche en X sur fond bleu du drapeau écossais ?",
   "r": "La croix de Saint-André",
   "d": 2,
   "t": "Drapeaux"
  },
  {
+  "id": "geo_b_1-049",
   "q": "Quelle ville universitaire anglaise est traversée par la rivière Cam ?",
   "r": "Cambridge",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-050",
   "q": "Quel archipel du nord de l'Écosse a pour chef-lieu Lerwick ?",
   "r": "Les Shetland",
   "d": 3,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-051",
   "q": "À quel groupe d'îles de la Manche appartiennent Jersey et Guernesey ?",
   "r": "Les îles Anglo-Normandes",
   "d": 1,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-052",
   "q": "Quelle île de la mer d'Irlande a donné son nom à une race de chats sans queue ?",
   "r": "L'île de Man",
   "d": 2,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-053",
   "q": "Quel fleuve traverse Dublin ?",
   "r": "La Liffey",
   "d": 3,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-054",
   "q": "Quelles sont les trois couleurs du drapeau irlandais ?",
   "r": "Vert, blanc, orange",
   "d": 1,
   "t": "Drapeaux"
  },
  {
+  "id": "geo_b_1-055",
   "q": "Quel site d'Irlande du Nord, formé de milliers de colonnes de basalte, serait l'œuvre du géant Finn McCool selon la légende ?",
   "r": "La Chaussée des Géants",
   "d": 2,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_1-056",
   "q": "Quel est le plus long fleuve d'Irlande ?",
   "r": "Le Shannon",
   "d": 2,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-057",
   "q": "Quelles falaises spectaculaires du comté de Clare dominent l'Atlantique sur la côte ouest de l'Irlande ?",
   "r": "Les falaises de Moher",
   "d": 3,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_1-058",
   "q": "Quelle langue celtique est la première langue officielle de la république d'Irlande ?",
   "r": "L'irlandais (gaélique)",
   "d": 2,
   "t": "Langues"
  },
  {
+  "id": "geo_b_1-059",
   "q": "Quelle est la capitale des Pays-Bas selon la Constitution ?",
   "r": "Amsterdam",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-060",
   "q": "Dans quelle ville néerlandaise siège la Cour internationale de justice ?",
   "r": "La Haye",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-061",
   "q": "Quel grand port néerlandais, à l'embouchure du Rhin et de la Meuse, fut détruit par un bombardement en mai 1940 ?",
   "r": "Rotterdam",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-062",
   "q": "Comment appelle-t-on les terres gagnées sur la mer et protégées par des digues aux Pays-Bas ?",
   "r": "Les polders",
   "d": 1,
   "t": "Paysages"
  },
  {
+  "id": "geo_b_1-063",
   "q": "Quelle était la monnaie des Pays-Bas avant l'euro ?",
   "r": "Le florin",
   "d": 2,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_1-064",
   "q": "Quel fleuve traverse Hambourg avant de rejoindre la mer du Nord ?",
   "r": "L'Elbe",
   "d": 2,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-065",
   "q": "Quelle rivière traverse Francfort, ville surnommée « Mainhattan » ?",
   "r": "Le Main",
   "d": 3,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-066",
   "q": "Quel monument berlinois surmonté d'un quadrige est devenu le symbole de la réunification allemande ?",
   "r": "La porte de Brandebourg",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-067",
   "q": "Quel sommet des Alpes bavaroises est le point culminant de l'Allemagne ?",
   "r": "La Zugspitze",
   "d": 2,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-068",
   "q": "Quel lac est bordé à la fois par l'Allemagne, l'Autriche et la Suisse ?",
   "r": "Le lac de Constance",
   "d": 1,
   "t": "Lacs"
  },
  {
+  "id": "geo_b_1-069",
   "q": "Quel château bavarois, construit pour Louis II, a inspiré le château de la Belle au bois dormant de Disney ?",
   "r": "Neuschwanstein",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-070",
   "q": "Quel massif montagneux du sud-ouest de l'Allemagne a donné son nom à un célèbre gâteau au chocolat et aux cerises ?",
   "r": "La Forêt-Noire",
   "d": 1,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-071",
   "q": "Quelles sont les trois couleurs du drapeau allemand, de haut en bas ?",
   "r": "Noir, rouge, or",
   "d": 1,
   "t": "Drapeaux"
  },
  {
+  "id": "geo_b_1-072",
   "q": "Quelle était la monnaie de l'Allemagne avant l'euro ?",
   "r": "Le Deutsche Mark",
   "d": 1,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_1-073",
   "q": "Dans quelle ville allemande une immense cathédrale gothique à deux flèches domine-t-elle les rives du Rhin ?",
   "r": "Cologne",
   "d": 1,
   "t": "Monuments"
  },
  {
+  "id": "geo_b_1-074",
   "q": "Quelle ville fut la capitale de la République fédérale d'Allemagne de 1949 à 1990 ?",
   "r": "Bonn",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-075",
   "q": "Quel rocher des bords du Rhin est associé à la légende d'une ondine qui faisait chavirer les bateliers ?",
   "r": "La Lorelei",
   "d": 2,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_1-076",
   "q": "Quelle ville hanséatique allemande est célèbre pour sa porte Holstentor et son massepain ?",
   "r": "Lübeck",
   "d": 3,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-077",
   "q": "Quel fleuve traverse Vienne, Bratislava et Budapest ?",
   "r": "Le Danube",
   "d": 1,
   "t": "Fleuves"
  },
  {
+  "id": "geo_b_1-078",
   "q": "Dans quelle ville autrichienne Mozart est-il né ?",
   "r": "Salzbourg",
   "d": 1,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-079",
   "q": "Quel est le point culminant de l'Autriche ?",
   "r": "Le Grossglockner",
   "d": 3,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-080",
   "q": "Quelle était la monnaie de l'Autriche avant l'euro ?",
   "r": "Le schilling",
   "d": 2,
   "t": "Monnaies"
  },
  {
+  "id": "geo_b_1-081",
   "q": "Quelle ville, deux fois hôte des Jeux olympiques d'hiver, est la capitale du Tyrol autrichien ?",
   "r": "Innsbruck",
   "d": 2,
   "t": "Villes"
  },
  {
+  "id": "geo_b_1-082",
   "q": "Quelle est la capitale de la Norvège ?",
   "r": "Oslo",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-083",
   "q": "Comment appelle-t-on les vallées glaciaires envahies par la mer qui découpent la côte norvégienne ?",
   "r": "Les fjords",
   "d": 1,
   "t": "Paysages"
  },
  {
+  "id": "geo_b_1-084",
   "q": "Quel archipel norvégien de l'Arctique a pour principale localité Longyearbyen ?",
   "r": "Le Svalbard",
   "d": 3,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-085",
   "q": "Quel cap norvégien est souvent présenté comme l'extrémité septentrionale de l'Europe ?",
   "r": "Le cap Nord",
   "d": 1,
   "t": "Sites célèbres"
  },
  {
+  "id": "geo_b_1-086",
   "q": "Quelle capitale scandinave est bâtie sur quatorze îles entre le lac Mälar et la Baltique ?",
   "r": "Stockholm",
   "d": 2,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-087",
   "q": "Quelle île suédoise de la Baltique a pour ville principale la cité médiévale de Visby ?",
   "r": "Gotland",
   "d": 3,
   "t": "Îles"
  },
  {
+  "id": "geo_b_1-088",
   "q": "Quel sommet norvégien est le point culminant de la Scandinavie ?",
   "r": "Le Galdhøpiggen",
   "d": 3,
   "t": "Montagnes"
  },
  {
+  "id": "geo_b_1-089",
   "q": "Quelle est la capitale du Danemark ?",
   "r": "Copenhague",
   "d": 1,
   "t": "Capitales"
  },
  {
+  "id": "geo_b_1-090",
   "q": "Quelle ville portugaise, siège de l'une des plus anciennes universités d'Europe, est traversée par le Mondego ?",
   "r": "Coimbra",
   "d": 3,

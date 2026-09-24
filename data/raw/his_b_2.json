@@ -1,539 +1,629 @@
 [
  {
+  "id": "his_b_2-001",
   "q": "Quel cardinal, principal ministre de Louis XIII, combat à la fois les protestants et les grands seigneurs du royaume ?",
   "r": "Richelieu",
   "d": 1,
   "t": "Louis XIII"
  },
  {
+  "id": "his_b_2-002",
   "q": "Quelle place forte protestante de l'Atlantique est assiégée par Richelieu en 1627-1628 ?",
   "r": "La Rochelle",
   "d": 2,
   "t": "Louis XIII"
  },
  {
+  "id": "his_b_2-003",
   "q": "Quelle institution Richelieu fonde-t-il en 1635 pour veiller sur la langue française ?",
   "r": "L'Académie française",
   "d": 1,
   "t": "Louis XIII"
  },
  {
+  "id": "his_b_2-004",
   "q": "Comment surnomme-t-on la journée de novembre 1630 où Richelieu triomphe contre toute attente de ses ennemis ?",
   "r": "La journée des Dupes",
   "d": 2,
   "t": "Louis XIII"
  },
  {
+  "id": "his_b_2-005",
   "q": "Quelle reine exerce la régence pendant l'enfance de Louis XIV ?",
   "r": "Anne d'Autriche",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-006",
   "q": "Quel cardinal d'origine italienne gouverne la France pendant la minorité de Louis XIV ?",
   "r": "Mazarin",
   "d": 1,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-007",
   "q": "Comment s'appelle la révolte des parlementaires et des princes qui secoue la France entre 1648 et 1653 ?",
   "r": "La Fronde",
   "d": 1,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-008",
   "q": "Quel âge a Louis XIV lorsqu'il devient roi en 1643 ?",
   "r": "4 ans",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-009",
   "q": "Combien d'années dure le règne de Louis XIV, le plus long de l'histoire de France ?",
   "r": "72 ans",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-010",
   "q": "Quel surintendant des finances est arrêté en 1661, peu après une fête somptueuse donnée à Vaux-le-Vicomte ?",
   "r": "Nicolas Fouquet",
   "d": 1,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-011",
   "q": "Quel ministre de Louis XIV développe les manufactures royales et la marine ?",
   "r": "Jean-Baptiste Colbert",
   "d": 1,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-012",
   "q": "Quel jardinier du roi a dessiné le parc du château de Versailles ?",
   "r": "André Le Nôtre",
   "d": 2,
   "t": "Versailles"
  },
  {
+  "id": "his_b_2-013",
   "q": "En quelle année Louis XIV installe-t-il officiellement la cour et le gouvernement à Versailles ?",
   "r": "1682",
   "d": 3,
   "t": "Versailles"
  },
  {
+  "id": "his_b_2-014",
   "q": "Quelle salle du château de Versailles est ornée de 357 miroirs ?",
   "r": "La galerie des Glaces",
   "d": 1,
   "t": "Versailles"
  },
  {
+  "id": "his_b_2-015",
   "q": "En quelle année Louis XIV révoque-t-il l'édit de Nantes ?",
   "r": "1685",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-016",
   "q": "Comment appelle-t-on les persécutions consistant à loger des soldats chez les protestants pour les forcer à se convertir ?",
   "r": "Les dragonnades",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-017",
   "q": "Comment appelle-t-on les protestants des Cévennes révoltés au début du XVIIIe siècle ?",
   "r": "Les camisards",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-018",
   "q": "Quel ingénieur militaire de Louis XIV a fortifié les frontières du royaume ?",
   "r": "Vauban",
   "d": 1,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-019",
   "q": "Sous quel surnom est connu le mystérieux prisonnier mort à la Bastille en 1703 ?",
   "r": "L'Homme au masque de fer",
   "d": 1,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-020",
   "q": "Quelle épouse secrète de Louis XIV fonde la maison royale de Saint-Cyr pour les jeunes filles nobles ?",
   "r": "Madame de Maintenon",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-021",
   "q": "Quelle affaire criminelle, impliquant la sorcière La Voisin, éclabousse la cour de Louis XIV vers 1680 ?",
   "r": "L'affaire des Poisons",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-022",
   "q": "Quel petit-fils de Louis XIV monte sur le trône d'Espagne en 1700 ?",
   "r": "Philippe V (duc d'Anjou)",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-023",
   "q": "Quelle guerre éclate en 1701 après l'accession d'un Bourbon au trône espagnol ?",
   "r": "La guerre de Succession d'Espagne",
   "d": 2,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-024",
   "q": "Quel lien de parenté unit Louis XV à Louis XIV, auquel il succède en 1715 ?",
   "r": "Arrière-petit-fils",
   "d": 2,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-025",
   "q": "Qui exerce la régence au début du règne de Louis XV ?",
   "r": "Philippe d'Orléans",
   "d": 2,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-026",
   "q": "Quel financier écossais crée en France un système de papier-monnaie qui s'effondre en 1720 ?",
   "r": "John Law",
   "d": 2,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-027",
   "q": "Sous quel nom est connue la favorite de Louis XV née Jeanne-Antoinette Poisson ?",
   "r": "Madame de Pompadour",
   "d": 2,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-028",
   "q": "Quelle dernière favorite de Louis XV est guillotinée en 1793 ?",
   "r": "Madame du Barry",
   "d": 2,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-029",
   "q": "Quelle île la France acquiert-elle de la république de Gênes en 1768 ?",
   "r": "La Corse",
   "d": 1,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-030",
   "q": "Quelle bataille de 1745, remportée par le maréchal de Saxe, est associée à la phrase « Messieurs les Anglais, tirez les premiers » ?",
   "r": "Fontenoy",
   "d": 2,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-031",
   "q": "Quel roi détrôné de Pologne, beau-père de Louis XV, reçoit le duché de Lorraine ?",
   "r": "Stanislas Leszczynski",
   "d": 3,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-032",
   "q": "Comment appelle-t-on la guerre de 1756 à 1763 qui oppose notamment la France à la Grande-Bretagne ?",
   "r": "La guerre de Sept Ans",
   "d": 1,
   "t": "Guerre de Sept Ans"
  },
  {
+  "id": "his_b_2-033",
   "q": "Quel traité de 1763 fait perdre à la France le Canada ?",
   "r": "Le traité de Paris",
   "d": 2,
   "t": "Guerre de Sept Ans"
  },
  {
+  "id": "his_b_2-034",
   "q": "Quel général français est mortellement blessé en 1759 à la bataille des plaines d'Abraham, près de Québec ?",
   "r": "Montcalm",
   "d": 2,
   "t": "Guerre de Sept Ans"
  },
  {
+  "id": "his_b_2-035",
   "q": "Par quelle expression méprisante Voltaire a-t-il désigné le Canada ?",
   "r": "« Quelques arpents de neige »",
   "d": 2,
   "t": "Guerre de Sept Ans"
  },
  {
+  "id": "his_b_2-036",
   "q": "Quel gouverneur français tente de bâtir un empire en Inde avant d'être rappelé en France en 1754 ?",
   "r": "Dupleix",
   "d": 3,
   "t": "Colonies"
  },
  {
+  "id": "his_b_2-037",
   "q": "Quelle guerre de 1740 à 1748 oppose notamment la Prusse et la France à l'Autriche de Marie-Thérèse ?",
   "r": "La guerre de Succession d'Autriche",
   "d": 3,
   "t": "Europe au XVIIIe siècle"
  },
  {
+  "id": "his_b_2-038",
   "q": "Quel explorateur descend le Mississippi jusqu'à son embouchure en 1682 et baptise la Louisiane ?",
   "r": "Cavelier de La Salle",
   "d": 3,
   "t": "Colonies"
  },
  {
+  "id": "his_b_2-039",
   "q": "Quelle ville est fondée en 1718 par Bienville sur les bords du Mississippi ?",
   "r": "La Nouvelle-Orléans",
   "d": 2,
   "t": "Colonies"
  },
  {
+  "id": "his_b_2-040",
   "q": "Quel texte promulgué en 1685 réglemente l'esclavage dans les colonies françaises ?",
   "r": "Le Code noir",
   "d": 2,
   "t": "Colonies"
  },
  {
+  "id": "his_b_2-041",
   "q": "Comment appelle-t-on le commerce maritime qui reliait l'Europe, l'Afrique et l'Amérique aux XVIIe et XVIIIe siècles ?",
   "r": "Le commerce triangulaire",
   "d": 1,
   "t": "Colonies"
  },
  {
+  "id": "his_b_2-042",
   "q": "Quel ouvrage collectif dirigé par Diderot et d'Alembert est le symbole des Lumières ?",
   "r": "L'Encyclopédie",
   "d": 1,
   "t": "Lumières"
  },
  {
+  "id": "his_b_2-043",
   "q": "Quel est le véritable nom de Voltaire ?",
   "r": "François-Marie Arouet",
   "d": 2,
   "t": "Lumières"
  },
  {
+  "id": "his_b_2-044",
   "q": "Pour la réhabilitation de quel protestant toulousain, exécuté en 1762, Voltaire se bat-il ?",
   "r": "Jean Calas",
   "d": 2,
   "t": "Lumières"
  },
  {
+  "id": "his_b_2-045",
   "q": "Quel philosophe théorise la séparation des pouvoirs dans De l'esprit des lois ?",
   "r": "Montesquieu",
   "d": 1,
   "t": "Lumières"
  },
  {
+  "id": "his_b_2-046",
   "q": "Quel philosophe genevois publie Du contrat social en 1762 ?",
   "r": "Jean-Jacques Rousseau",
   "d": 1,
   "t": "Lumières"
  },
  {
+  "id": "his_b_2-047",
   "q": "Dans quelle prison parisienne Voltaire est-il enfermé à deux reprises dans sa jeunesse ?",
   "r": "La Bastille",
   "d": 2,
   "t": "Lumières"
  },
  {
+  "id": "his_b_2-048",
   "q": "Quel roi de Prusse, flûtiste et philosophe, accueillit Voltaire à sa cour de Potsdam ?",
   "r": "Frédéric II",
   "d": 2,
   "t": "Europe au XVIIIe siècle"
  },
  {
+  "id": "his_b_2-049",
   "q": "Quel tsar fonde Saint-Pétersbourg en 1703 ?",
   "r": "Pierre le Grand",
   "d": 1,
   "t": "Russie"
  },
  {
+  "id": "his_b_2-050",
   "q": "Quelle impératrice de Russie d'origine allemande a correspondu avec Voltaire et acheté la bibliothèque de Diderot ?",
   "r": "Catherine II",
   "d": 1,
   "t": "Russie"
  },
  {
+  "id": "his_b_2-051",
   "q": "Quel favori de Catherine II a donné son nom à l'expression désignant des villages en trompe-l'œil ?",
   "r": "Grigori Potemkine",
   "d": 2,
   "t": "Russie"
  },
  {
+  "id": "his_b_2-052",
   "q": "Quel cosaque mène une vaste révolte paysanne contre Catherine II à partir de 1773 ?",
   "r": "Emelian Pougatchev",
   "d": 3,
   "t": "Russie"
  },
  {
+  "id": "his_b_2-053",
   "q": "Quelle souveraine règne sur les possessions des Habsbourg d'Autriche de 1740 à 1780 ?",
   "r": "Marie-Thérèse",
   "d": 2,
   "t": "Europe au XVIIIe siècle"
  },
  {
+  "id": "his_b_2-054",
   "q": "Quel roi d'Angleterre est décapité à Londres en 1649 ?",
   "r": "Charles Ier",
   "d": 1,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-055",
   "q": "Quel homme d'État gouverne l'Angleterre avec le titre de Lord Protecteur à partir de 1653 ?",
   "r": "Oliver Cromwell",
   "d": 1,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-056",
   "q": "Comment appelle-t-on la révolution de 1688 qui renverse le roi Jacques II d'Angleterre ?",
   "r": "La Glorieuse Révolution",
   "d": 2,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-057",
   "q": "Quel stathouder hollandais devient roi d'Angleterre en 1689 aux côtés de son épouse Marie ?",
   "r": "Guillaume d'Orange",
   "d": 2,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-058",
   "q": "Quel texte anglais de 1689 limite les pouvoirs du roi au profit du Parlement ?",
   "r": "Le Bill of Rights",
   "d": 2,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-059",
   "q": "Quel acte de 1707 unit les royaumes d'Angleterre et d'Écosse ?",
   "r": "L'Acte d'Union",
   "d": 3,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-060",
   "q": "Quelle dynastie allemande monte sur le trône de Grande-Bretagne en 1714 ?",
   "r": "Les Hanovre",
   "d": 3,
   "t": "Angleterre"
  },
  {
+  "id": "his_b_2-061",
   "q": "Quel savant anglais publie en 1687 les Principia, qui énoncent la loi de la gravitation universelle ?",
   "r": "Isaac Newton",
   "d": 1,
   "t": "Sciences"
  },
  {
+  "id": "his_b_2-062",
   "q": "Comment surnomme-t-on le XVIIe siècle, période de prospérité exceptionnelle des Provinces-Unies ?",
   "r": "Le Siècle d'or",
   "d": 2,
   "t": "Provinces-Unies"
  },
  {
+  "id": "his_b_2-063",
   "q": "Sous quel sigle est connue la compagnie néerlandaise des Indes orientales fondée en 1602 ?",
   "r": "VOC",
   "d": 2,
   "t": "Provinces-Unies"
  },
  {
+  "id": "his_b_2-064",
   "q": "Quel nom portait New York lorsqu'elle était une colonie néerlandaise ?",
   "r": "La Nouvelle-Amsterdam",
   "d": 1,
   "t": "Provinces-Unies"
  },
  {
+  "id": "his_b_2-065",
   "q": "Quelle fleur fait l'objet d'une spéculation effrénée aux Provinces-Unies dans les années 1630 ?",
   "r": "La tulipe",
   "d": 1,
   "t": "Provinces-Unies"
  },
  {
+  "id": "his_b_2-066",
   "q": "Quelle ville du Massachusetts est le théâtre d'un célèbre procès en sorcellerie en 1692 ?",
   "r": "Salem",
   "d": 1,
   "t": "Amérique coloniale"
  },
  {
+  "id": "his_b_2-067",
   "q": "Quel événement de 1773 voit des colons jeter des cargaisons de thé dans le port de Boston ?",
   "r": "La Boston Tea Party",
   "d": 1,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-068",
   "q": "En quelle année la Déclaration d'indépendance des États-Unis est-elle adoptée ?",
   "r": "1776",
   "d": 1,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-069",
   "q": "Qui est le principal rédacteur de la Déclaration d'indépendance américaine ?",
   "r": "Thomas Jefferson",
   "d": 1,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-070",
   "q": "Quel marquis français devient major général de l'armée de Washington à seulement 19 ans ?",
   "r": "La Fayette",
   "d": 1,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-071",
   "q": "Quelle bataille de 1781 marque la victoire décisive des Américains et des Français sur les Britanniques ?",
   "r": "Yorktown",
   "d": 2,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-072",
   "q": "Quel amiral français remporte en 1781 la bataille de la baie de Chesapeake, privant les Britanniques de renforts à Yorktown ?",
   "r": "Le comte de Grasse",
   "d": 3,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-073",
   "q": "Quel savant américain, inventeur du paratonnerre, représente les insurgés à Paris pendant la guerre d'Indépendance ?",
   "r": "Benjamin Franklin",
   "d": 1,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-074",
   "q": "Quel roi de Grande-Bretagne règne lors de l'indépendance des États-Unis ?",
   "r": "George III",
   "d": 2,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-075",
   "q": "Quelle bataille de 1775, livrée le même jour que celle de Concord, ouvre la guerre d'Indépendance américaine ?",
   "r": "Lexington",
   "d": 3,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-076",
   "q": "Dans quelle ville est rédigée en 1787 la Constitution des États-Unis ?",
   "r": "Philadelphie",
   "d": 2,
   "t": "Indépendance américaine"
  },
  {
+  "id": "his_b_2-077",
   "q": "Quel explorateur britannique est tué à Hawaï en 1779 ?",
   "r": "James Cook",
   "d": 1,
   "t": "Explorations"
  },
  {
+  "id": "his_b_2-078",
   "q": "Quel navigateur français disparaît avec ses deux frégates à Vanikoro en 1788 ?",
   "r": "La Pérouse",
   "d": 2,
   "t": "Explorations"
  },
  {
+  "id": "his_b_2-079",
   "q": "Quel navigateur français, auteur d'un Voyage autour du monde paru en 1771, a donné son nom à une plante grimpante ?",
   "r": "Louis-Antoine de Bougainville",
   "d": 2,
   "t": "Explorations"
  },
  {
+  "id": "his_b_2-080",
   "q": "Dans quelle ville ardéchoise les frères Montgolfier font-ils la première démonstration publique de leur ballon en 1783 ?",
   "r": "Annonay",
   "d": 3,
   "t": "Sciences"
  },
  {
+  "id": "his_b_2-081",
   "q": "Quel contrôleur général des finances de Louis XVI libéralise le commerce des grains en 1774 ?",
   "r": "Turgot",
   "d": 3,
   "t": "Louis XVI"
  },
  {
+  "id": "his_b_2-082",
   "q": "Quel banquier genevois, ministre de Louis XVI, publie en 1781 un Compte rendu au roi sur les finances ?",
   "r": "Jacques Necker",
   "d": 3,
   "t": "Louis XVI"
  },
  {
+  "id": "his_b_2-083",
   "q": "Quelle escroquerie de 1785 autour d'un bijou ternit gravement l'image de Marie-Antoinette ?",
   "r": "L'affaire du collier",
   "d": 2,
   "t": "Louis XVI"
  },
  {
+  "id": "his_b_2-084",
   "q": "Dans quelle capitale Marie-Antoinette est-elle née ?",
   "r": "Vienne",
   "d": 1,
   "t": "Louis XVI"
  },
  {
+  "id": "his_b_2-085",
   "q": "Comment appelle-t-on le village champêtre aménagé pour Marie-Antoinette près du Petit Trianon ?",
   "r": "Le Hameau de la Reine",
   "d": 2,
   "t": "Versailles"
  },
  {
+  "id": "his_b_2-086",
   "q": "Quelle capitale européenne est détruite par un tremblement de terre suivi d'un tsunami en 1755 ?",
   "r": "Lisbonne",
   "d": 2,
   "t": "Europe au XVIIIe siècle"
  },
  {
+  "id": "his_b_2-087",
   "q": "Quel ministre de Louis XV, qui dirigea le gouvernement de 1758 à 1770, fut disgracié et exilé dans son château de Chanteloup ?",
   "r": "Le duc de Choiseul",
   "d": 3,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-088",
   "q": "Quel chancelier de Louis XV supprime les parlements en 1771 ?",
   "r": "René de Maupeou",
   "d": 3,
   "t": "Louis XV"
  },
  {
+  "id": "his_b_2-089",
   "q": "Quel architecte de Louis XIV a dessiné la place Vendôme et le dôme des Invalides ?",
   "r": "Jules Hardouin-Mansart",
   "d": 3,
   "t": "Louis XIV"
  },
  {
+  "id": "his_b_2-090",
   "q": "Quel corsaire malouin s'empare de Rio de Janeiro en 1711 ?",
   "r": "René Duguay-Trouin",
   "d": 3,

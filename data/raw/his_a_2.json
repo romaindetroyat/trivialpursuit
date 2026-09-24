@@ -1,539 +1,629 @@
 [
  {
+  "id": "his_a_2-001",
   "q": "Quel connétable breton reprit aux Anglais de nombreuses places sous Charles V ?",
   "r": "Bertrand Du Guesclin",
   "d": 2,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_a_2-002",
   "q": "Quel chef de la résistance écossaise contre l'Angleterre fut exécuté à Londres en 1305 ?",
   "r": "William Wallace",
   "d": 2,
   "t": "Angleterre médiévale"
  },
  {
+  "id": "his_a_2-003",
   "q": "Quels animaux sacrés auraient donné l'alerte lors d'une attaque gauloise nocturne contre le Capitole ?",
   "r": "Les oies",
   "d": 2,
   "t": "Gaule"
  },
  {
+  "id": "his_a_2-004",
   "q": "Quelle porte de Babylone, ornée de briques bleues émaillées, a été reconstituée dans un musée de Berlin ?",
   "r": "La porte d'Ishtar",
   "d": 2,
   "t": "Mésopotamie et Proche-Orient"
  },
  {
+  "id": "his_a_2-005",
   "q": "Quels souverains, surnommés les Rois catholiques, financèrent le voyage de Colomb ?",
   "r": "Isabelle et Ferdinand",
   "d": 1,
   "t": "Péninsule ibérique et découvertes"
  },
  {
+  "id": "his_a_2-006",
   "q": "Quel empereur instaura la tétrarchie, partageant le pouvoir entre quatre empereurs, à la fin du IIIe siècle ?",
   "r": "Dioclétien",
   "d": 3,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-007",
   "q": "Quelle femme de lettres a écrit « La Cité des dames » en 1405 ?",
   "r": "Christine de Pizan",
   "d": 2,
   "t": "Culture médiévale"
  },
  {
+  "id": "his_a_2-008",
   "q": "Quel calife abbasside, contemporain de Charlemagne, apparaît dans les « Mille et Une Nuits » ?",
   "r": "Haroun al-Rachid",
   "d": 2,
   "t": "Monde musulman médiéval"
  },
  {
+  "id": "his_a_2-009",
   "q": "Quel sultan reprit Jérusalem aux croisés en 1187 ?",
   "r": "Saladin",
   "d": 1,
   "t": "Monde musulman médiéval"
  },
  {
+  "id": "his_a_2-010",
   "q": "Quels jardins de Babylone figuraient parmi les sept merveilles du monde antique ?",
   "r": "Les jardins suspendus",
   "d": 1,
   "t": "Mésopotamie et Proche-Orient"
  },
  {
+  "id": "his_a_2-011",
   "q": "Quel grand voyageur marocain du XIVe siècle a parcouru le monde musulman jusqu'en Chine ?",
   "r": "Ibn Battûta",
   "d": 2,
   "t": "Monde musulman médiéval"
  },
  {
+  "id": "his_a_2-012",
   "q": "En quelle année Charlemagne fut-il couronné empereur à Rome ?",
   "r": "800",
   "d": 1,
   "t": "Mérovingiens et Carolingiens"
  },
  {
+  "id": "his_a_2-013",
   "q": "Quel jour de mars de l'an 44 av. J.-C. Jules César fut-il assassiné ?",
   "r": "Le 15 mars (les ides de mars)",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-014",
   "q": "Quelle doctrine religieuse, jugée hérétique, fut combattue par la croisade des Albigeois lancée en 1209 ?",
   "r": "Le catharisme",
   "d": 1,
   "t": "Croisade des Albigeois"
  },
  {
+  "id": "his_a_2-015",
   "q": "Quelle écriture mycénienne a été déchiffrée par l'architecte britannique Michael Ventris en 1952 ?",
   "r": "Le linéaire B",
   "d": 3,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-016",
   "q": "Quel monument mégalithique circulaire se dresse dans la plaine de Salisbury, en Angleterre ?",
   "r": "Stonehenge",
   "d": 1,
   "t": "Préhistoire"
  },
  {
+  "id": "his_a_2-017",
   "q": "Quel peuple gaulois a donné son nom à la ville de Paris ?",
   "r": "Les Parisii",
   "d": 1,
   "t": "Gaule"
  },
  {
+  "id": "his_a_2-018",
   "q": "Dans quelle région des Balkans se déroula en 1389 la bataille du champ des Merles entre Serbes et Ottomans ?",
   "r": "Le Kosovo",
   "d": 3,
   "t": "Saint-Empire et Europe centrale"
  },
  {
+  "id": "his_a_2-019",
   "q": "Près de quelle ville chinoise l'armée de terre cuite du premier empereur a-t-elle été découverte en 1974 ?",
   "r": "Xi'an",
   "d": 2,
   "t": "Chine et Asie antiques"
  },
  {
+  "id": "his_a_2-020",
   "q": "En quelle année Constantinople tomba-t-elle aux mains des Ottomans ?",
   "r": "1453",
   "d": 1,
   "t": "Byzance"
  },
  {
+  "id": "his_a_2-021",
   "q": "Quelle sainte patronne de Paris aurait protégé la ville de l'approche des Huns en 451 ?",
   "r": "Sainte Geneviève",
   "d": 1,
   "t": "Mérovingiens et Carolingiens"
  },
  {
+  "id": "his_a_2-022",
   "q": "Quel empire d'Afrique de l'Ouest, aussi appelé Wagadou, était surnommé « le pays de l'or » ?",
   "r": "L'empire du Ghana",
   "d": 3,
   "t": "Afrique médiévale"
  },
  {
+  "id": "his_a_2-023",
   "q": "Quel roi d'Écosse battit les Anglais à Bannockburn en 1314 ?",
   "r": "Robert Bruce",
   "d": 3,
   "t": "Angleterre médiévale"
  },
  {
+  "id": "his_a_2-024",
   "q": "En quelle année la rupture entre l'Église d'Orient et l'Église d'Occident fut-elle consommée ?",
   "r": "1054",
   "d": 2,
   "t": "Église médiévale"
  },
  {
+  "id": "his_a_2-025",
   "q": "Quelle ville d'Égypte fut fondée par Alexandre le Grand en 331 av. J.-C. ?",
   "r": "Alexandrie",
   "d": 1,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_a_2-026",
   "q": "Quelle famille de banquiers domina la vie politique de Florence au XVe siècle ?",
   "r": "Les Médicis",
   "d": 1,
   "t": "Italie médiévale"
  },
  {
+  "id": "his_a_2-027",
   "q": "Quel Médicis, surnommé « le Magnifique », mourut en 1492 ?",
   "r": "Laurent de Médicis",
   "d": 2,
   "t": "Italie médiévale"
  },
  {
+  "id": "his_a_2-028",
   "q": "Quelle bataille de 216 av. J.-C. vit Hannibal écraser les légions romaines en Apulie ?",
   "r": "Cannes",
   "d": 2,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-029",
   "q": "Quelle espèce du genre Homo, décrite en 1964 d'après des fossiles des gorges d'Olduvai, a longtemps été vue comme la première à fabriquer des outils ?",
   "r": "Homo habilis",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_a_2-030",
   "q": "Quel explorateur islandais aurait atteint l'Amérique du Nord vers l'an 1000 ?",
   "r": "Leif Erikson",
   "d": 2,
   "t": "Vikings et Europe du Nord"
  },
  {
+  "id": "his_a_2-031",
   "q": "Quelle capitale cérémonielle des rois achéménides fut incendiée par Alexandre le Grand ?",
   "r": "Persépolis",
   "d": 2,
   "t": "Mésopotamie et Proche-Orient"
  },
  {
+  "id": "his_a_2-032",
   "q": "Quel chef viking reçut en 911 les terres qui deviendront la Normandie ?",
   "r": "Rollon",
   "d": 2,
   "t": "Mérovingiens et Carolingiens"
  },
  {
+  "id": "his_a_2-033",
   "q": "Dans quel département se trouve la grotte de Lascaux ?",
   "r": "La Dordogne",
   "d": 1,
   "t": "Préhistoire"
  },
  {
+  "id": "his_a_2-034",
   "q": "Quelle jeune esclave chrétienne, martyrisée à Lyon en 177, fut livrée aux bêtes dans l'amphithéâtre ?",
   "r": "Blandine",
   "d": 3,
   "t": "Gaule"
  },
  {
+  "id": "his_a_2-035",
   "q": "Quel bal costumé de 1393 tourna au drame lorsque plusieurs danseurs déguisés en sauvages prirent feu ?",
   "r": "Le bal des Ardents",
   "d": 3,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_a_2-036",
   "q": "Quelle femme pharaon de la XVIIIe dynastie se faisait représenter avec une barbe postiche ?",
   "r": "Hatchepsout",
   "d": 2,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_a_2-037",
   "q": "Quel empereur indien de la dynastie Maurya se convertit au bouddhisme après la sanglante conquête du Kalinga ?",
   "r": "Ashoka",
   "d": 3,
   "t": "Chine et Asie antiques"
  },
  {
+  "id": "his_a_2-038",
   "q": "Quelle grande cité précolombienne proche de Mexico possède les pyramides du Soleil et de la Lune ?",
   "r": "Teotihuacan",
   "d": 2,
   "t": "Amériques et Afrique antiques"
  },
  {
+  "id": "his_a_2-039",
   "q": "Quelle civilisation de l'âge du bronze, centrée sur le palais de Cnossos en Crète, fut révélée par Arthur Evans ?",
   "r": "La civilisation minoenne",
   "d": 2,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-040",
   "q": "Quelle arme incendiaire, projetée sur les navires ennemis, était le secret des Byzantins ?",
   "r": "Le feu grégeois",
   "d": 2,
   "t": "Byzance"
  },
  {
+  "id": "his_a_2-041",
   "q": "Dans quel village, aujourd'hui dans le département des Vosges, Jeanne d'Arc est-elle née ?",
   "r": "Domrémy",
   "d": 1,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_a_2-042",
   "q": "Quel roi de France, canonisé en 1297, mourut devant Tunis en 1270 ?",
   "r": "Louis IX (Saint Louis)",
   "d": 1,
   "t": "Capétiens"
  },
  {
+  "id": "his_a_2-043",
   "q": "Quelle cathédrale fut mise en chantier en 1163 sous l'évêque Maurice de Sully ?",
   "r": "Notre-Dame de Paris",
   "d": 1,
   "t": "Église médiévale"
  },
  {
+  "id": "his_a_2-044",
   "q": "Dans quelle grotte des Pyrénées-Orientales a-t-on découvert l'homme de Tautavel ?",
   "r": "La Caune de l'Arago",
   "d": 3,
   "t": "Préhistoire"
  },
  {
+  "id": "his_a_2-045",
   "q": "Quel empereur romain, vainqueur au pont Milvius, accorda en 313, par l'édit de Milan, la liberté de culte aux chrétiens ?",
   "r": "Constantin",
   "d": 2,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-046",
   "q": "Quel saint d'Assise fonda l'ordre des Frères mineurs au début du XIIIe siècle ?",
   "r": "Saint François",
   "d": 1,
   "t": "Église médiévale"
  },
  {
+  "id": "his_a_2-047",
   "q": "Quel fils de Philippe Auguste ne régna que de 1223 à 1226 ?",
   "r": "Louis VIII",
   "d": 3,
   "t": "Capétiens"
  },
  {
+  "id": "his_a_2-048",
   "q": "Quel souverain unifia la Chine en 221 av. J.-C. et se proclama premier empereur ?",
   "r": "Qin Shi Huang",
   "d": 1,
   "t": "Chine et Asie antiques"
  },
  {
+  "id": "his_a_2-049",
   "q": "Quelle ville du Mali, aux mosquées de terre crue, fut un grand foyer intellectuel au Moyen Âge ?",
   "r": "Tombouctou",
   "d": 1,
   "t": "Afrique médiévale"
  },
  {
+  "id": "his_a_2-050",
   "q": "Quel dernier grand maître de l'ordre du Temple fut brûlé à Paris en 1314 ?",
   "r": "Jacques de Molay",
   "d": 2,
   "t": "Capétiens"
  },
  {
+  "id": "his_a_2-051",
   "q": "Quel poète florentin a écrit la « Divine Comédie » ?",
   "r": "Dante",
   "d": 1,
   "t": "Culture médiévale"
  },
  {
+  "id": "his_a_2-052",
   "q": "Quelle cité grecque imposait à ses garçons une éducation militaire très rude appelée agôgè ?",
   "r": "Sparte",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-053",
   "q": "Quel roi de Babylone fit graver sur une stèle l'un des plus anciens recueils de lois connus ?",
   "r": "Hammurabi",
   "d": 1,
   "t": "Mésopotamie et Proche-Orient"
  },
  {
+  "id": "his_a_2-054",
   "q": "Quel orfèvre de Mayence mit au point l'imprimerie à caractères mobiles au milieu du XVe siècle ?",
   "r": "Gutenberg",
   "d": 1,
   "t": "Saint-Empire et Europe centrale"
  },
  {
+  "id": "his_a_2-055",
   "q": "Quel château de l'Ariège, dernier grand refuge cathare, tomba en 1244 ?",
   "r": "Montségur",
   "d": 2,
   "t": "Croisade des Albigeois"
  },
  {
+  "id": "his_a_2-056",
   "q": "Quel surnom populaire a-t-on donné à Jeanne d'Arc après la levée du siège de 1429 ?",
   "r": "La Pucelle d'Orléans",
   "d": 1,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_a_2-057",
   "q": "Comment appelait-on la grande unité de l'armée romaine forte d'environ 5 000 fantassins ?",
   "r": "La légion",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-058",
   "q": "Quelle bataille navale de 31 av. J.-C. vit Octave vaincre Marc Antoine et Cléopâtre ?",
   "r": "Actium",
   "d": 2,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-059",
   "q": "Comment appelle-t-on la querelle religieuse des VIIIe et IXe siècles qui opposa à Byzance partisans et adversaires des images saintes ?",
   "r": "L'iconoclasme",
   "d": 3,
   "t": "Byzance"
  },
  {
+  "id": "his_a_2-060",
   "q": "Sous quel nom est plus connu le prince indien Siddhartha Gautama ?",
   "r": "Le Bouddha",
   "d": 1,
   "t": "Chine et Asie antiques"
  },
  {
+  "id": "his_a_2-061",
   "q": "Quel petit-fils de Gengis Khan fonda en Chine la dynastie Yuan ?",
   "r": "Kubilai Khan",
   "d": 2,
   "t": "Asie médiévale"
  },
  {
+  "id": "his_a_2-062",
   "q": "Quel grand amphithéâtre de Rome fut inauguré par l'empereur Titus en 80 ?",
   "r": "Le Colisée",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-063",
   "q": "Quelle est la seule des sept merveilles du monde antique encore debout ?",
   "r": "La pyramide de Khéops",
   "d": 1,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_a_2-064",
   "q": "Quel chroniqueur de Valenciennes a raconté une grande partie de la guerre de Cent Ans dans ses « Chroniques » ?",
   "r": "Jean Froissart",
   "d": 3,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_a_2-065",
   "q": "Quel roi des Huns fut arrêté en 451 à la bataille des champs Catalauniques ?",
   "r": "Attila",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-066",
   "q": "Quelle bataille de 1066 ouvrit à Guillaume de Normandie le trône d'Angleterre ?",
   "r": "Hastings",
   "d": 1,
   "t": "Angleterre médiévale"
  },
  {
+  "id": "his_a_2-067",
   "q": "Le tombeau de quel souverain de Carie, à Halicarnasse, a donné un nom commun désignant un monument funéraire grandiose ?",
   "r": "Mausole",
   "d": 2,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-068",
   "q": "Comment appelle-t-on la crise qui vit, de 1378 à 1417, deux puis trois papes rivaux se disputer la chrétienté ?",
   "r": "Le Grand Schisme d'Occident",
   "d": 2,
   "t": "Fin du Moyen Âge en France"
  },
  {
+  "id": "his_a_2-069",
   "q": "Quel archéologue britannique a découvert le tombeau de Toutânkhamon ?",
   "r": "Howard Carter",
   "d": 1,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_a_2-070",
   "q": "Quelle ville, dernière grande place forte des croisés en Terre sainte, tomba en 1291 ?",
   "r": "Saint-Jean-d'Acre",
   "d": 3,
   "t": "Croisades"
  },
  {
+  "id": "his_a_2-071",
   "q": "Le mur de scène de quel théâtre antique Louis XIV aurait-il qualifié de « plus belle muraille de mon royaume » ?",
   "r": "Le théâtre d'Orange",
   "d": 2,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-072",
   "q": "Quelle grotte ornée de l'Ardèche, découverte en 1994, porte le nom de l'un de ses découvreurs ?",
   "r": "La grotte Chauvet",
   "d": 2,
   "t": "Préhistoire"
  },
  {
+  "id": "his_a_2-073",
   "q": "Quel évêque de Beauvais présida le procès de Jeanne d'Arc ?",
   "r": "Pierre Cauchon",
   "d": 2,
   "t": "Guerre de Cent Ans"
  },
  {
+  "id": "his_a_2-074",
   "q": "Quel sultanat musulman domina le nord de l'Inde du XIIIe au début du XVIe siècle ?",
   "r": "Le sultanat de Delhi",
   "d": 3,
   "t": "Asie médiévale"
  },
  {
+  "id": "his_a_2-075",
   "q": "Quel architecte et savant, plus tard divinisé, est crédité de la pyramide à degrés de Saqqarah ?",
   "r": "Imhotep",
   "d": 2,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_a_2-076",
   "q": "Quel homme d'État a donné son nom au « siècle » d'apogée d'Athènes, au Ve siècle av. J.-C. ?",
   "r": "Périclès",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-077",
   "q": "Quel pape couronna Charlemagne empereur ?",
   "r": "Léon III",
   "d": 3,
   "t": "Mérovingiens et Carolingiens"
  },
  {
+  "id": "his_a_2-078",
   "q": "Quel chapelain de Saint Louis fonda en 1257 un collège parisien devenu une université célèbre ?",
   "r": "Robert de Sorbon",
   "d": 2,
   "t": "Église médiévale"
  },
  {
+  "id": "his_a_2-079",
   "q": "Quel instrument d'orientation à aiguille aimantée fut d'abord mis au point en Chine ?",
   "r": "La boussole",
   "d": 1,
   "t": "Asie médiévale"
  },
  {
+  "id": "his_a_2-080",
   "q": "Quels jumeaux, allaités par une louve selon la légende, sont les fondateurs de Rome ?",
   "r": "Romulus et Rémus",
   "d": 1,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-081",
   "q": "Quel philosophe fut le précepteur du jeune Alexandre le Grand ?",
   "r": "Aristote",
   "d": 1,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-082",
   "q": "Quel duc de Bourgogne, grand rival de Louis XI, fut tué devant Nancy en 1477 ?",
   "r": "Charles le Téméraire",
   "d": 2,
   "t": "Fin du Moyen Âge en France"
  },
  {
+  "id": "his_a_2-083",
   "q": "Quelle dynastie perse, fondée au IIIe siècle, fut la grande rivale de Rome puis de Byzance ?",
   "r": "Les Sassanides",
   "d": 3,
   "t": "Mésopotamie et Proche-Orient"
  },
  {
+  "id": "his_a_2-084",
   "q": "Comment appelait-on la cérémonie par laquelle un vassal se déclarait l'homme de son seigneur ?",
   "r": "L'hommage",
   "d": 2,
   "t": "Féodalité et vie médiévale"
  },
  {
+  "id": "his_a_2-085",
   "q": "En quelle année Carthage fut-elle rasée par les Romains, à la fin de la troisième guerre punique ?",
   "r": "146 av. J.-C.",
   "d": 3,
   "t": "Rome antique"
  },
  {
+  "id": "his_a_2-086",
   "q": "Comment s'appelait la procédure athénienne permettant d'exiler un citoyen par un vote sur des tessons de poterie ?",
   "r": "L'ostracisme",
   "d": 2,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-087",
   "q": "Quel sculpteur dirigea la décoration du Parthénon et réalisa la statue chryséléphantine d'Athéna ?",
   "r": "Phidias",
   "d": 2,
   "t": "Grèce antique"
  },
  {
+  "id": "his_a_2-088",
   "q": "Quelle capitale assyrienne abritait la bibliothèque du roi Assurbanipal ?",
   "r": "Ninive",
   "d": 2,
   "t": "Mésopotamie et Proche-Orient"
  },
  {
+  "id": "his_a_2-089",
   "q": "Quel nom, signifiant « la terre noire », les anciens Égyptiens donnaient-ils à leur pays ?",
   "r": "Kemet",
   "d": 3,
   "t": "Égypte ancienne"
  },
  {
+  "id": "his_a_2-090",
   "q": "Quel empereur du Mali est célèbre pour son fastueux pèlerinage à La Mecque en 1324 ?",
   "r": "Mansa Moussa",
   "d": 2,

@@ -1,539 +1,629 @@
 [
  {
+  "id": "div_a_1-001",
   "q": "Qui a réalisé le film « Les Dents de la mer », sorti en 1975 ?",
   "r": "Steven Spielberg",
   "d": 1,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-002",
   "q": "Quel acteur incarne Jack Dawson dans « Titanic » de James Cameron ?",
   "r": "Leonardo DiCaprio",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-003",
   "q": "Dans quel film de 2001 Audrey Tautou joue-t-elle une serveuse de Montmartre qui fait le bonheur des autres en secret ?",
   "r": "Le Fabuleux Destin d'Amélie Poulain",
   "d": 1,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_1-004",
   "q": "Comment s'appelle le petit robot nettoyeur, héros d'un film Pixar sorti en 2008 ?",
   "r": "WALL-E",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-005",
   "q": "Quel acteur incarne Obélix dans « Astérix et Obélix contre César » (1999) ?",
   "r": "Gérard Depardieu",
   "d": 1,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_1-006",
   "q": "Quel est le prénom du lionceau héros du « Roi Lion » de Disney (1994) ?",
   "r": "Simba",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-007",
   "q": "Dans « Bienvenue chez les Ch'tis », dans quelle ville du Nord le directeur de poste Philippe Abrams est-il muté ?",
   "r": "Bergues",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-008",
   "q": "Quel acteur joue le rôle de Driss dans « Intouchables » (2011) ?",
   "r": "Omar Sy",
   "d": 1,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_1-009",
   "q": "Quel acteur britannique a incarné Harry Potter dans les huit films de la saga ?",
   "r": "Daniel Radcliffe",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_1-010",
   "q": "Quel réalisateur américain a signé « Pulp Fiction », Palme d'or en 1994 ?",
   "r": "Quentin Tarantino",
   "d": 1,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-011",
   "q": "Dans la saga « Star Wars », quel personnage au casque noir se révèle être le père de Luke Skywalker ?",
   "r": "Dark Vador",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_1-012",
   "q": "Quel est le nom français du vagabond à chapeau melon, canne et petite moustache créé par Charlie Chaplin ?",
   "r": "Charlot",
   "d": 1,
   "t": "Cinéma muet"
  },
  {
+  "id": "div_a_1-013",
   "q": "Quelle actrice joue Dorothy dans « Le Magicien d'Oz » (1939) ?",
   "r": "Judy Garland",
   "d": 1,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_1-014",
   "q": "Quelle récompense suprême est remise au meilleur film du Festival de Cannes ?",
   "r": "La Palme d'or",
   "d": 1,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_1-015",
   "q": "Comment s'appellent les récompenses du cinéma français, créées en 1976, équivalent des Oscars ?",
   "r": "Les César",
   "d": 1,
   "t": "Récompenses"
  },
  {
+  "id": "div_a_1-016",
   "q": "Quel acteur incarne James Bond dans « Casino Royale », sorti en 2006 ?",
   "r": "Daniel Craig",
   "d": 1,
   "t": "James Bond"
  },
  {
+  "id": "div_a_1-017",
   "q": "Quel archéologue au chapeau et au fouet est incarné par Harrison Ford à partir de 1981 ?",
   "r": "Indiana Jones",
   "d": 1,
   "t": "Personnages"
  },
  {
+  "id": "div_a_1-018",
   "q": "Dans « La Reine des neiges » de Disney (2013), comment s'appelle le bonhomme de neige qui rêve de l'été ?",
   "r": "Olaf",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-019",
   "q": "Comment s'appelle le cow-boy jouet, héros de « Toy Story » ?",
   "r": "Woody",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-020",
   "q": "Quel film de Gérard Oury (1966) réunit Bourvil et Louis de Funès dans la France occupée ?",
   "r": "La Grande Vadrouille",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-021",
   "q": "Dans « Le Dîner de cons » (1998), comment s'appelle le personnage joué par Jacques Villeret ?",
   "r": "François Pignon",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-022",
   "q": "Quel acteur joue Godefroy de Montmirail dans « Les Visiteurs » (1993) ?",
   "r": "Jean Reno",
   "d": 1,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-023",
   "q": "Dans quel dessin animé Disney de 1991 une jeune femme prénommée Belle vit-elle dans le château d'un prince maudit ?",
   "r": "La Belle et la Bête",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-024",
   "q": "Quel acteur d'origine autrichienne incarne le cyborg de « Terminator » (1984) ?",
   "r": "Arnold Schwarzenegger",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-025",
   "q": "Dans « Le Seigneur des anneaux », quel hobbit est chargé de détruire l'Anneau unique ?",
   "r": "Frodon Sacquet",
   "d": 1,
   "t": "Sagas"
  },
  {
+  "id": "div_a_1-026",
   "q": "Dans quelle saga de science-fiction Keanu Reeves incarne-t-il Neo ?",
   "r": "Matrix",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_1-027",
   "q": "Quel film de Luc Besson (1988) a pour cadre le monde de la plongée en apnée ?",
   "r": "Le Grand Bleu",
   "d": 1,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_1-028",
   "q": "Quelle actrice française a reçu l'Oscar de la meilleure actrice pour son rôle d'Édith Piaf dans « La Môme » ?",
   "r": "Marion Cotillard",
   "d": 1,
   "t": "Oscars"
  },
  {
+  "id": "div_a_1-029",
   "q": "Quel ogre vert est le héros d'un film d'animation de DreamWorks sorti en 2001 ?",
   "r": "Shrek",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-030",
   "q": "Quel acteur joue Fernand Naudin dans « Les Tontons flingueurs » (1963) ?",
   "r": "Lino Ventura",
   "d": 1,
   "t": "Classiques français"
  },
  {
+  "id": "div_a_1-031",
   "q": "Quel compositeur américain a écrit la musique de la saga « Star Wars » ?",
   "r": "John Williams",
   "d": 1,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_1-032",
   "q": "Quel singe géant escalade l'Empire State Building dans un film de 1933 ?",
   "r": "King Kong",
   "d": 1,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_1-033",
   "q": "Quel acteur américain incarne Forrest Gump dans le film de 1994 ?",
   "r": "Tom Hanks",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-034",
   "q": "Dans « Retour vers le futur », quel modèle de voiture est transformé en machine à voyager dans le temps ?",
   "r": "Une DeLorean",
   "d": 1,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_1-035",
   "q": "Comment s'appelle le petit poisson-clown que son père Marin recherche dans un film Pixar de 2003 ?",
   "r": "Nemo",
   "d": 1,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-036",
   "q": "Quel réalisateur britannique, auteur de « Psychose », était surnommé « le maître du suspense » ?",
   "r": "Alfred Hitchcock",
   "d": 1,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-037",
   "q": "Quels frères lyonnais ont organisé à Paris, en décembre 1895, la première projection publique payante du cinématographe ?",
   "r": "Les frères Lumière",
   "d": 1,
   "t": "Origines du cinéma"
  },
  {
+  "id": "div_a_1-038",
   "q": "Quel acteur américain incarne le cannibale Hannibal Lecter dans « Le Silence des agneaux » ?",
   "r": "Anthony Hopkins",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-039",
   "q": "Quel acteur joue le gangster Tony Montana dans « Scarface » (1983) ?",
   "r": "Al Pacino",
   "d": 1,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-040",
   "q": "Quel acteur australien incarne le Joker dans « The Dark Knight » (2008) ?",
   "r": "Heath Ledger",
   "d": 2,
   "t": "Personnages"
  },
  {
+  "id": "div_a_1-041",
   "q": "De quelle troupe de théâtre sont issus les acteurs du film « Le Père Noël est une ordure » (1982) ?",
   "r": "Le Splendid",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-042",
   "q": "Dans « Le Père Noël est une ordure », quelle permanence téléphonique tiennent Pierre et Thérèse ?",
   "r": "SOS Détresse Amitié",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-043",
   "q": "Quel personnage de Walt Disney est la vedette du court métrage sonore « Steamboat Willie » (1928) ?",
   "r": "Mickey Mouse",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-044",
   "q": "Quel est le titre original américain du film « SOS Fantômes » (1984) ?",
   "r": "Ghostbusters",
   "d": 2,
   "t": "Titres originaux"
  },
  {
+  "id": "div_a_1-045",
   "q": "Quel acteur incarne le génie du crime Fantômas dans la trilogie d'André Hunebelle des années 1960 ?",
   "r": "Jean Marais",
   "d": 2,
   "t": "Classiques français"
  },
  {
+  "id": "div_a_1-046",
   "q": "Sur quelle lune luxuriante vivent les Na'vi dans « Avatar » de James Cameron ?",
   "r": "Pandora",
   "d": 2,
   "t": "Science-fiction"
  },
  {
+  "id": "div_a_1-047",
   "q": "Quel réalisateur britannique a signé « Gladiator » (2000) avec Russell Crowe ?",
   "r": "Ridley Scott",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-048",
   "q": "Quel acteur incarne le chauffeur de taxi Travis Bickle dans le film de Martin Scorsese ?",
   "r": "Robert De Niro",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-049",
   "q": "Quel film de Martin Scorsese a remporté la Palme d'or au Festival de Cannes en 1976 ?",
   "r": "Taxi Driver",
   "d": 2,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_1-050",
   "q": "Pour quel film muet et en noir et blanc Jean Dujardin a-t-il reçu l'Oscar du meilleur acteur en 2012 ?",
   "r": "The Artist",
   "d": 2,
   "t": "Oscars"
  },
  {
+  "id": "div_a_1-051",
   "q": "Quel est le tout premier long métrage d'animation produit par les studios Disney, sorti en 1937 ?",
   "r": "Blanche-Neige et les Sept Nains",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-052",
   "q": "Quel cinéaste français, fils d'un célèbre peintre impressionniste, a réalisé « La Grande Illusion » (1937) ?",
   "r": "Jean Renoir",
   "d": 2,
   "t": "Classiques français"
  },
  {
+  "id": "div_a_1-053",
   "q": "Dans « Quai des brumes » (1938), à quelle actrice Jean Gabin dit-il « T'as d'beaux yeux, tu sais » ?",
   "r": "Michèle Morgan",
   "d": 2,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_a_1-054",
   "q": "Quelle actrice lance « Atmosphère ! Atmosphère ! Est-ce que j'ai une gueule d'atmosphère ? » dans « Hôtel du Nord » ?",
   "r": "Arletty",
   "d": 2,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_a_1-055",
   "q": "Quel cinéaste français a réalisé « À bout de souffle » (1960), manifeste de la Nouvelle Vague ?",
   "r": "Jean-Luc Godard",
   "d": 2,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_a_1-056",
   "q": "Quel acteur incarne le petit voyou Michel Poiccard dans « À bout de souffle » ?",
   "r": "Jean-Paul Belmondo",
   "d": 2,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_a_1-057",
   "q": "Quel premier long métrage de François Truffaut (1959) raconte l'adolescence difficile d'Antoine Doinel ?",
   "r": "Les Quatre Cents Coups",
   "d": 2,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_a_1-058",
   "q": "Quel film de Jacques Demy (1964), avec Catherine Deneuve, est entièrement chanté ?",
   "r": "Les Parapluies de Cherbourg",
   "d": 2,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_1-059",
   "q": "Quel compositeur français a signé la musique des « Parapluies de Cherbourg » ?",
   "r": "Michel Legrand",
   "d": 2,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_1-060",
   "q": "Quel acteur incarne « Le Grand Blond avec une chaussure noire » dans le film d'Yves Robert (1972) ?",
   "r": "Pierre Richard",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-061",
   "q": "Dans « Le Corniaud » (1965), quelle voiture de Bourvil part en morceaux après un accrochage avec Louis de Funès ?",
   "r": "Une 2 CV Citroën",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-062",
   "q": "Quel acteur interprète le dragueur malchanceux Jean-Claude Dusse dans « Les Bronzés » ?",
   "r": "Michel Blanc",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-063",
   "q": "Quelle comédie de Claude Zidi (1984) met en scène Philippe Noiret et Thierry Lhermitte en policiers corrompus ?",
   "r": "Les Ripoux",
   "d": 2,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-064",
   "q": "Quel acteur joue l'architecte Numérobis dans « Astérix et Obélix : Mission Cléopâtre » (2002) ?",
   "r": "Jamel Debbouze",
   "d": 2,
   "t": "Cinéma français"
  },
  {
+  "id": "div_a_1-065",
   "q": "Qui a réalisé « Astérix et Obélix : Mission Cléopâtre », tout en y jouant Jules César ?",
   "r": "Alain Chabat",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-066",
   "q": "Quel cinéaste a réalisé « La Haine » (1995), tourné en noir et blanc dans une cité de banlieue ?",
   "r": "Mathieu Kassovitz",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-067",
   "q": "Quel acteur incarne Vinz dans « La Haine » (1995) ?",
   "r": "Vincent Cassel",
   "d": 2,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-068",
   "q": "Quel musicien breton a composé la bande originale du « Fabuleux Destin d'Amélie Poulain » ?",
   "r": "Yann Tiersen",
   "d": 2,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_1-069",
   "q": "Quel film de Georges Méliès (1902) montre un obus planté dans l'œil de la Lune ?",
   "r": "Le Voyage dans la Lune",
   "d": 2,
   "t": "Origines du cinéma"
  },
  {
+  "id": "div_a_1-070",
   "q": "Quel cinéaste et acteur français a créé le personnage lunaire de Monsieur Hulot ?",
   "r": "Jacques Tati",
   "d": 2,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-071",
   "q": "Qui a réalisé « Citizen Kane » (1941), tout en y tenant le rôle principal ?",
   "r": "Orson Welles",
   "d": 2,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_1-072",
   "q": "Quel film sud-coréen a remporté la Palme d'or en 2019 puis l'Oscar du meilleur film en 2020 ?",
   "r": "Parasite",
   "d": 2,
   "t": "Récompenses"
  },
  {
+  "id": "div_a_1-073",
   "q": "Quel réalisateur japonais a signé « Le Voyage de Chihiro » (2001) ?",
   "r": "Hayao Miyazaki",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-074",
   "q": "Quel studio d'animation japonais Hayao Miyazaki a-t-il cofondé en 1985 ?",
   "r": "Le studio Ghibli",
   "d": 2,
   "t": "Animation"
  },
  {
+  "id": "div_a_1-075",
   "q": "Quel cinéaste français a réalisé « Les Enfants du paradis » (1945), avec Arletty ?",
   "r": "Marcel Carné",
   "d": 3,
   "t": "Classiques français"
  },
  {
+  "id": "div_a_1-076",
   "q": "Dans « Les Aventures de Rabbi Jacob » (1973), comment s'appelle l'industriel joué par Louis de Funès ?",
   "r": "Victor Pivert",
   "d": 3,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-077",
   "q": "Dans « La Soupe aux choux » (1981), de quelle planète vient l'extraterrestre surnommé la Denrée ?",
   "r": "Oxo",
   "d": 3,
   "t": "Comédies françaises"
  },
  {
+  "id": "div_a_1-078",
   "q": "Quel acteur a incarné Antoine Doinel dans cinq films de François Truffaut ?",
   "r": "Jean-Pierre Léaud",
   "d": 3,
   "t": "Nouvelle Vague"
  },
  {
+  "id": "div_a_1-079",
   "q": "Quel réalisateur américain a signé le remake de « Scarface » en 1983 ?",
   "r": "Brian De Palma",
   "d": 3,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-080",
   "q": "Quel film des frères Lumière, tourné en 1895, montre des ouvriers quittant leur lieu de travail à Lyon ?",
   "r": "La Sortie de l'usine Lumière à Lyon",
   "d": 3,
   "t": "Origines du cinéma"
  },
  {
+  "id": "div_a_1-081",
   "q": "Quel était le véritable nom de l'acteur Bourvil ?",
   "r": "André Raimbourg",
   "d": 3,
   "t": "Acteurs"
  },
  {
+  "id": "div_a_1-082",
   "q": "Quel film de Jacques Tati a remporté l'Oscar du meilleur film en langue étrangère en 1959 ?",
   "r": "Mon oncle",
   "d": 3,
   "t": "Oscars"
  },
  {
+  "id": "div_a_1-083",
   "q": "Dans « Casablanca » (1942), quel établissement tient Rick Blaine, joué par Humphrey Bogart ?",
   "r": "Le Rick's Café Américain",
   "d": 3,
   "t": "Classiques hollywoodiens"
  },
  {
+  "id": "div_a_1-084",
   "q": "Quelle chanson le pianiste Sam joue-t-il à la demande d'Ilsa dans « Casablanca » ?",
   "r": "As Time Goes By",
   "d": 3,
   "t": "Musiques de films"
  },
  {
+  "id": "div_a_1-085",
   "q": "Quel mot mystérieux Charles Foster Kane prononce-t-il en mourant au début de « Citizen Kane » ?",
   "r": "Rosebud",
   "d": 3,
   "t": "Répliques cultes"
  },
  {
+  "id": "div_a_1-086",
   "q": "Quel réalisateur a obtenu la Palme d'or 2013 pour « La Vie d'Adèle », partagée avec ses deux actrices ?",
   "r": "Abdellatif Kechiche",
   "d": 3,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_1-087",
   "q": "Quel film de Michael Haneke, avec Jean-Louis Trintignant et Emmanuelle Riva, a reçu la Palme d'or en 2012 ?",
   "r": "Amour",
   "d": 3,
   "t": "Festival de Cannes"
  },
  {
+  "id": "div_a_1-088",
   "q": "Quel film de guerre aérienne a reçu la toute première récompense du meilleur film à la cérémonie des Oscars de 1929 ?",
   "r": "Les Ailes (Wings)",
   "d": 3,
   "t": "Oscars"
  },
  {
+  "id": "div_a_1-089",
   "q": "Quel cinéaste sud-coréen a réalisé « Parasite » ?",
   "r": "Bong Joon-ho",
   "d": 3,
   "t": "Réalisateurs"
  },
  {
+  "id": "div_a_1-090",
   "q": "Quel film de Laurent Cantet, tourné dans un collège parisien, a remporté la Palme d'or en 2008 ?",
   "r": "Entre les murs",
   "d": 3,
