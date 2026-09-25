@@ -22,6 +22,11 @@ dans une application web progressive (PWA) installable sur téléphone et utilis
   de bonus à partir de 3 bonnes réponses d'affilée. Le record de chaque réglage est conservé, et l'écran
   de fin détaille le score par catégorie et rappelle les réponses manquées. Les questions déjà vues en
   solo ne reviennent qu'une fois toutes les autres épuisées.
+  On répond **à voix haute** (reconnaissance vocale du navigateur) ou au clavier ; la réponse est
+  comparée à celle attendue avec tolérance (articles, accents, fautes légères, nom de famille seul,
+  nombres en lettres, variantes entre parenthèses), et on peut toujours corriger le verdict.
+  L'application peut **lire les questions à voix haute** (aussi en partie à plusieurs), et un mode
+  **mains libres** enchaîne lecture de la question, écoute de la réponse, verdict et question suivante.
 - **Partie sans plateau** : 2 à 6 joueurs. Le dé tire une couleur, une bonne réponse rapporte le
   camembert de la couleur et permet de rejouer. Avec les 6 camemberts, les autres joueurs choisissent
   la catégorie de la question finale. Réglages : difficulté des questions, nombre de bonnes
@@ -36,6 +41,7 @@ dans une application web progressive (PWA) installable sur téléphone et utilis
 ```
 app/                 la PWA (fichiers statiques, aucune dépendance)
   index.html, styles.css, app.js
+  reponse.js         comparaison tolérante des réponses données en solo
   cartes.json        toutes les cartes et leurs éditions (généré)
   manifest.webmanifest, sw.js, icons/
 data/
