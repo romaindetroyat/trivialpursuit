@@ -500,6 +500,7 @@ function repondreSolo(bon) {
     solo.question = tirerQuestionSolo();
     solo.phase = 'question';
   }
+  solo.verdict = null;
   sauverSolo();
   rendreSolo();
 }
@@ -518,6 +519,62 @@ function afficherConfigSolo() {
         h('b', {}, `${r.score} pts`));
     })),
   ] : []));
+}
+
+const Reco = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+function iconeMicro() {
+  const span = h('span', { class: 'micro', 'aria-hidden': 'true' });
+  span.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3" fill="currentColor"/><path d="M5 11a7 7 0 0 0 14 0M12 18v4M8 22h8"/></svg>';
+  return span;
+}
+let ecouteEnCours = null;
+
+function juger(propositions, entendu) {
+  const q = QUESTIONS[solo.question];
+  solo.verdict = { ok: Reponse.verifier(propositions, q.r), entendu };
+  solo.phase = 'reponse';
+  sauverSolo();
+  rendreSolo();
+}
+
+function ecouter() {
+  const bouton = $('#btn-micro');
+  const info = $('#ecoute');
+  if (ecouteEnCours) { ecouteEnCours.stop(); return; }
+  const reco = new Reco();
+  reco.lang = 'fr-FR';
+  reco.interimResults = true;
+  reco.maxAlternatives = 5;
+  let final = null;
+  ecouteEnCours = reco;
+  bouton.classList.add('ecoute-active');
+  bouton.lastChild.textContent = 'J\'écoute…';
+  info.textContent = '';
+  reco.onresult = e => {
+    const res = e.results[e.results.length - 1];
+    info.textContent = `« ${res[0].transcript} »`;
+    if (res.isFinal) final = Array.from(res, alt => alt.transcript);
+  };
+  reco.onerror = e => {
+    const messages = {
+      'not-allowed': 'Micro refusé : autorisez-le dans les réglages du navigateur.',
+      'service-not-allowed': 'La reconnaissance vocale n\'est pas disponible ici.',
+      'no-speech': 'Je n\'ai rien entendu. Réessayez.',
+      'audio-capture': 'Aucun micro détecté.',
+      network: 'La reconnaissance vocale a besoin d\'une connexion internet.',
+    };
+    info.textContent = messages[e.error] || 'La reconnaissance vocale a échoué. Réessayez.';
+  };
+  reco.onend = () => {
+    ecouteEnCours = null;
+    if (final && final.length) { juger(final, final[0]); return; }
+    if (bouton.isConnected) {
+      bouton.classList.remove('ecoute-active');
+      bouton.lastChild.textContent = 'Répondre à voix haute';
+    }
+  };
+  try { reco.start(); } catch { ecouteEnCours = null; }
 }
 
 function rendreSolo() {
@@ -543,18 +600,49 @@ function rendreSolo() {
       h('span', { class: 'num' }, 'N° ' + numero(q.carte + 1))),
     ligneQuestion(cat, [q.q, q.r, q.d], { cliquable: false, ouvert: solo.phase === 'reponse' }));
 
-  const actions = solo.phase === 'question'
-    ? h('button', { type: 'button', class: 'btn', onclick: () => { solo.phase = 'reponse'; sauverSolo(); rendreSolo(); } }, 'Voir la réponse')
-    : h('div', { class: 'actions' },
+  let actions;
+  if (solo.phase === 'question') {
+    actions = h('div', { class: 'repondre' },
+      Reco ? h('button', { type: 'button', class: 'btn btn-micro', id: 'btn-micro', onclick: ecouter },
+        iconeMicro(), 'Répondre à voix haute') : null,
+      h('form', {
+        class: 'saisie',
+        onsubmit: e => {
+          e.preventDefault();
+          const texte = e.target.reponse.value.trim();
+          if (texte) juger([texte], texte);
+        },
+      },
+        h('input', { type: 'text', name: 'reponse', placeholder: 'Ou tapez votre réponse', autocomplete: 'off', 'aria-label': 'Votre réponse' }),
+        h('button', { type: 'submit', class: 'btn btn-clair' }, 'OK')),
+      h('p', { class: 'ecoute', id: 'ecoute', 'aria-live': 'polite' }),
+      h('button', {
+        type: 'button', class: 'btn-lien',
+        onclick: () => { solo.phase = 'reponse'; solo.verdict = null; sauverSolo(); rendreSolo(); },
+      }, 'Voir la réponse sans répondre'));
+  } else if (solo.verdict) {
+    const v = solo.verdict;
+    actions = h('div', {},
+      h('p', { class: 'verdict ' + (v.ok ? 'juste' : 'faux') },
+        v.ok ? 'Bonne réponse !' : 'Ce n\'est pas la réponse attendue.',
+        h('span', { class: 'entendu' }, `Votre réponse : « ${v.entendu} »`)),
+      h('div', { class: 'actions' },
+        h('button', { type: 'button', class: 'btn ' + (v.ok ? 'btn-ok' : 'btn-ko'), onclick: () => repondreSolo(v.ok) }, 'Continuer')),
+      h('button', {
+        type: 'button', class: 'btn-lien', onclick: () => repondreSolo(!v.ok),
+      }, v.ok ? 'Me compter faux' : 'En fait, c\'était juste'));
+  } else {
+    actions = h('div', { class: 'actions' },
       h('button', { type: 'button', class: 'btn btn-ko', onclick: () => repondreSolo(false) }, 'Raté'),
       h('button', { type: 'button', class: 'btn btn-ok', onclick: () => repondreSolo(true) }, 'Je l\'avais'));
+  }
 
   zone.replaceChildren(
     h('div', { class: 'solo-tete' },
       progression,
       h('span', { class: 'solo-score' }, h('b', {}, String(solo.score)), ' pts')),
     h('p', { class: 'solo-info' },
-      derniere ? (derniere.ok ? `Bonne réponse : +${derniere.pts}` : 'Raté') : 'Répondez à voix haute, puis vérifiez.',
+      derniere ? (derniere.ok ? `Bonne réponse : +${derniere.pts}` : 'Raté') : (Reco ? 'Répondez au micro ou au clavier.' : 'Tapez votre réponse, ou affichez-la.'),
       solo.serie >= 2 ? ` · série de ${solo.serie}` : ''),
     carte,
     h('div', { class: 'tour' }, actions),
@@ -729,6 +817,7 @@ function initImpression() {
 const VUES = ['accueil', 'carte', 'solo', 'partie', 'parcourir', 'imprimer'];
 
 function naviguer() {
+  if (ecouteEnCours) ecouteEnCours.abort();
   const vue = VUES.includes(location.hash.slice(1)) ? location.hash.slice(1) : 'accueil';
   document.querySelectorAll('.vue').forEach(v => { v.hidden = v.dataset.vue !== vue; });
   document.querySelectorAll('.topnav a').forEach(a => a.classList.toggle('actif', a.getAttribute('href') === '#' + vue));

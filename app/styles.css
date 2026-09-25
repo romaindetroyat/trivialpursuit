@@ -343,6 +343,21 @@ h3 { font-size: 1.1rem; margin: 24px 0 10px; }
 .barre-chiffre { text-align: right; color: var(--texte-doux); font-variant-numeric: tabular-nums; }
 .ratees { margin-top: 12px; }
 
+/* Réponse au micro ou au clavier */
+.repondre { display: grid; gap: 10px; justify-items: center; }
+.btn-micro { display: inline-flex; align-items: center; gap: 10px; }
+.micro { display: inline-flex; }
+.btn-micro.ecoute-active { background: #d9534f; color: #fff; animation: pulse 1.2s ease-in-out infinite; }
+@keyframes pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(217, 83, 79, .6); } 50% { box-shadow: 0 0 0 12px rgba(217, 83, 79, 0); } }
+.saisie { display: flex; gap: 8px; width: 100%; max-width: 420px; }
+.saisie input { flex: 1; }
+.saisie .btn { padding: 10px 18px; }
+.ecoute { min-height: 1.4em; margin: 0; color: var(--texte-doux); font-style: italic; text-align: center; }
+.verdict { margin: 0 0 12px; font-weight: 800; font-size: 1.15rem; }
+.verdict.juste { color: #5fd68b; }
+.verdict.faux { color: #ff8a80; }
+.verdict .entendu { display: block; margin-top: 4px; font-weight: 400; font-size: .9rem; color: var(--texte-doux); }
+
 /* ---------- Parcourir ---------- */
 .filtres { display: grid; grid-template-columns: 1fr; gap: 8px; }
 @media (min-width: 600px) { .filtres { grid-template-columns: 2fr 1fr 1fr; } }
