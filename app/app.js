@@ -7,6 +7,7 @@ const CLE_JOUEURS = 'trivial1000.joueurs';
 const CLE_SOLO = 'trivial1000.solo';
 const CLE_SOLO_VUES = 'trivial1000.solo.vues';
 const CLE_SOLO_RECORDS = 'trivial1000.solo.records';
+const CLE_VOIX = 'trivial1000.voix';
 
 // Texte lisible sur fond clair pour les couleurs trop pâles (jaune).
 const COULEUR_TEXTE = { his: '#9a7a00' };
@@ -374,11 +375,15 @@ function rendrePartie() {
 
   if (partie.phase === 'question') {
     tour.replaceChildren(entete, carte,
-      h('button', {
-        type: 'button', class: 'btn',
-        onclick: () => { partie.phase = 'reponse'; sauverPartie(); rendrePartie(); },
-      }, 'Voir la réponse'));
+      h('div', { class: 'repondre' },
+        boutonLire(`${cat.nom}. ${q.q}`),
+        h('button', {
+          type: 'button', class: 'btn',
+          onclick: () => { partie.phase = 'reponse'; sauverPartie(); rendrePartie(); },
+        }, 'Voir la réponse')));
+    direUneFois(`partie-q-${partie.utilisees.length}-${partie.question}`, `${j.nom}, ${cat.nom}. ${q.q}`);
   } else {
+    direUneFois(`partie-r-${partie.utilisees.length}-${partie.question}`, `La réponse : ${q.r}.`);
     tour.replaceChildren(entete, carte,
       h('div', { class: 'actions' },
         h('button', { type: 'button', class: 'btn btn-ko', onclick: () => repondre(false) }, 'Mauvaise réponse'),
@@ -401,6 +406,7 @@ function initPartie() {
     liste.append(champ);
     $('input', champ).focus();
   });
+  initReglagesVoix($('#form-partie'));
   $('#form-partie').addEventListener('submit', e => {
     e.preventDefault();
     const form = e.target;
@@ -426,6 +432,74 @@ function initPartie() {
   });
   partie = lire(CLE_PARTIE, null);
   if (partie && (partie.question != null && !QUESTIONS[partie.question])) partie = null;
+}
+
+/* ---------------- Lecture à voix haute ---------------- */
+
+const Synthese = 'speechSynthesis' in window ? window.speechSynthesis : null;
+let voixFr = null;
+let derniereLecture = null; // évite de relire la même question à chaque rafraîchissement
+
+function choisirVoix() {
+  const voix = Synthese.getVoices().filter(v => /^fr([-_]|$)/i.test(v.lang));
+  voixFr = voix.find(v => /fr[-_]FR/i.test(v.lang) && /google|amélie|amelie|thomas|audrey|denise|henri/i.test(v.name))
+    || voix.find(v => /fr[-_]FR/i.test(v.lang)) || voix[0] || null;
+}
+if (Synthese) {
+  choisirVoix();
+  if (Synthese.addEventListener) Synthese.addEventListener('voiceschanged', choisirVoix);
+}
+
+const prefsVoix = () => lire(CLE_VOIX, { lecture: false, mainsLibres: false });
+
+function texteParle(t) {
+  return String(t).replace(/\s*\(([^)]*)\)/g, ', $1').replace(/\s*[«»]\s*/g, ' ').replace(/\bN°\s*/g, 'numéro ');
+}
+
+/** Lit un texte ; `apres` est appelé à la fin de la lecture. */
+function dire(texte, apres) {
+  if (!Synthese) { if (apres) apres(); return; }
+  Synthese.cancel();
+  const u = new SpeechSynthesisUtterance(texteParle(texte));
+  u.lang = 'fr-FR';
+  try { if (voixFr) u.voice = voixFr; } catch { /* voix indisponible : voix par défaut */ }
+  if (apres) u.onend = apres;
+  Synthese.speak(u);
+}
+
+function taire() { if (Synthese) Synthese.cancel(); }
+
+/** Lit une seule fois par clé (question, verdict…) si la lecture automatique est activée. */
+function direUneFois(cle, texte, apres) {
+  if (!prefsVoix().lecture || derniereLecture === cle) return;
+  derniereLecture = cle;
+  dire(texte, apres);
+}
+
+function boutonLire(texte) {
+  if (!Synthese) return null;
+  return h('button', { type: 'button', class: 'btn-lien btn-lire', onclick: () => dire(texte) }, '🔊 Relire la question');
+}
+
+function initReglagesVoix(form) {
+  if (!Synthese) return;
+  const bloc = $('.reglage-voix', form);
+  bloc.hidden = false;
+  const prefs = prefsVoix();
+  form.lecture.checked = prefs.lecture;
+  const mains = form.mainsLibres;
+  if (mains) {
+    if (!Reco) $('.si-micro', form).hidden = true;
+    mains.checked = prefs.mainsLibres && !!Reco;
+    mains.disabled = !prefs.lecture;
+  }
+  bloc.addEventListener('change', () => {
+    const p = { ...prefsVoix(), lecture: form.lecture.checked };
+    if (mains) { mains.disabled = !p.lecture; p.mainsLibres = mains.checked && p.lecture; }
+    ecrire(CLE_VOIX, p);
+    // Garde les deux formulaires (solo, partie) synchronisés.
+    document.querySelectorAll('input[name="lecture"]').forEach(i => { i.checked = p.lecture; });
+  });
 }
 
 /* ---------------- Solo ---------------- */
@@ -603,6 +677,7 @@ function rendreSolo() {
   let actions;
   if (solo.phase === 'question') {
     actions = h('div', { class: 'repondre' },
+      boutonLire(`${cat.nom}. ${q.q}`),
       Reco ? h('button', { type: 'button', class: 'btn btn-micro', id: 'btn-micro', onclick: ecouter },
         iconeMicro(), 'Répondre à voix haute') : null,
       h('form', {
@@ -649,9 +724,30 @@ function rendreSolo() {
     h('div', { class: 'partie-actions' },
       h('button', {
         type: 'button', class: 'btn-lien',
-        onclick: () => { if (confirm('Abandonner cette série ? Le score ne sera pas enregistré.')) { solo = null; effacer(CLE_SOLO); rendreSolo(); } },
+        onclick: () => { if (confirm('Abandonner cette série ? Le score ne sera pas enregistré.')) { taire(); solo = null; effacer(CLE_SOLO); rendreSolo(); } },
       }, 'Abandonner')),
   );
+  lireSolo(q, cat);
+}
+
+function lireSolo(q, cat) {
+  const prefs = prefsVoix();
+  const id = solo.question;
+  if (solo.phase === 'question') {
+    const ecouteAuto = prefs.mainsLibres && Reco
+      ? () => { if (solo && solo.question === id && solo.phase === 'question' && !ecouteEnCours && $('#btn-micro')) ecouter(); }
+      : null;
+    direUneFois(`solo-q-${id}`, `${cat.nom}. ${q.q}`, ecouteAuto);
+  } else if (solo.verdict) {
+    const v = solo.verdict;
+    // Mains libres : après le verdict, on passe seul à la question suivante (sauf correction entre-temps).
+    const suite = prefs.mainsLibres
+      ? () => setTimeout(() => { if (solo && solo.question === id && solo.verdict === v) repondreSolo(v.ok); }, 1500)
+      : null;
+    direUneFois(`solo-v-${id}`, v.ok ? 'Bonne réponse !' : `Non. La réponse était : ${q.r}.`, suite);
+  } else {
+    direUneFois(`solo-r-${id}`, `La réponse : ${q.r}.`);
+  }
 }
 
 function rendreFinSolo(zone) {
@@ -664,6 +760,9 @@ function rendreFinSolo(zone) {
   }).filter(x => x.total);
   const ratees = solo.historique.filter(e => !e.ok).map(e => QUESTIONS[e.id]);
   const reglages = { format: solo.format, cat: solo.cat, niveau: solo.niveau };
+  direUneFois(`solo-fin-${solo.historique.length}-${solo.score}`,
+    `Série terminée : ${solo.score} points, ${bonnes} bonne${bonnes > 1 ? 's' : ''} réponse${bonnes > 1 ? 's' : ''} sur ${total}.`
+    + (record ? ' Nouveau record !' : ''));
 
   zone.replaceChildren(
     h('div', { class: 'solo-fin' },
@@ -681,7 +780,7 @@ function rendreFinSolo(zone) {
           h('span', { class: 'barre-chiffre' }, `${ok}/${t}`)))),
       h('div', { class: 'actions' },
         h('button', { type: 'button', class: 'btn btn-clair', onclick: () => { solo = null; effacer(CLE_SOLO); rendreSolo(); } }, 'Changer les réglages'),
-        h('button', { type: 'button', class: 'btn', onclick: () => nouveauSolo(reglages) }, 'Rejouer')),
+        h('button', { type: 'button', class: 'btn', onclick: () => { derniereLecture = null; nouveauSolo(reglages); } }, 'Rejouer')),
     ),
     ratees.length ? h('div', { class: 'ratees' },
       h('h3', {}, 'Les réponses que vous avez manquées'),
@@ -697,6 +796,7 @@ function initSolo() {
     h('label', {}, h('input', { type: 'radio', name: 'cat', value: '', checked: true }), ' Toutes'),
     ...CATS.map(c => h('label', {}, h('input', { type: 'radio', name: 'cat', value: c.id }), ' ',
       h('span', { class: 'pastille', style: styleCat(c) }), ' ', c.nom)));
+  initReglagesVoix($('#form-solo'));
   $('#form-solo').addEventListener('submit', e => {
     e.preventDefault();
     const f = e.target;
@@ -818,6 +918,7 @@ const VUES = ['accueil', 'carte', 'solo', 'partie', 'parcourir', 'imprimer'];
 
 function naviguer() {
   if (ecouteEnCours) ecouteEnCours.abort();
+  taire();
   const vue = VUES.includes(location.hash.slice(1)) ? location.hash.slice(1) : 'accueil';
   document.querySelectorAll('.vue').forEach(v => { v.hidden = v.dataset.vue !== vue; });
   document.querySelectorAll('.topnav a').forEach(a => a.classList.toggle('actif', a.getAttribute('href') === '#' + vue));

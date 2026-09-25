@@ -358,6 +358,9 @@ h3 { font-size: 1.1rem; margin: 24px 0 10px; }
 .verdict.faux { color: #ff8a80; }
 .verdict .entendu { display: block; margin-top: 4px; font-weight: 400; font-size: .9rem; color: var(--texte-doux); }
 
+.btn-lire { text-decoration: none; font-weight: 700; color: var(--texte); }
+.btn-lire:hover { text-decoration: underline; }
+
 /* ---------- Parcourir ---------- */
 .filtres { display: grid; grid-template-columns: 1fr; gap: 8px; }
 @media (min-width: 600px) { .filtres { grid-template-columns: 2fr 1fr 1fr; } }
