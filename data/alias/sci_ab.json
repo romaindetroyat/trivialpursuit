@@ -1,0 +1,2955 @@
+{
+"sci_a_1-001": {
+"a": [],
+"l": "Quel physicien a formulé la célèbre équation E égale m c au carré ?"
+},
+"sci_a_1-002": {
+"a": []
+},
+"sci_a_1-003": {
+"a": [
+"100",
+"100 degrés"
+]
+},
+"sci_a_1-004": {
+"a": [
+"300 000",
+"300 000 kilomètres par seconde",
+"299 792 km/s",
+"299 792"
+]
+},
+"sci_a_1-005": {
+"a": [
+"Dispersion de la lumière"
+]
+},
+"sci_a_1-006": {
+"a": []
+},
+"sci_a_1-007": {
+"a": []
+},
+"sci_a_1-008": {
+"a": []
+},
+"sci_a_1-009": {
+"a": []
+},
+"sci_a_1-010": {
+"a": []
+},
+"sci_a_1-011": {
+"a": [
+"Large Hadron Collider",
+"Grand collisionneur de hadrons"
+],
+"l": "Quel est le sigle du grand accélérateur de particules de 27 kilomètres de circonférence installé sous la frontière franco-suisse ?"
+},
+"sci_a_1-012": {
+"a": [
+"Higgs",
+"Boson BEH",
+"Boson de Brout-Englert-Higgs"
+]
+},
+"sci_a_1-013": {
+"a": []
+},
+"sci_a_1-014": {
+"a": [
+"La congélation"
+]
+},
+"sci_a_1-015": {
+"a": [
+"-273,15",
+"moins 273,15",
+"moins 273,15 degrés",
+"-273",
+"moins 273"
+]
+},
+"sci_a_1-016": {
+"a": [
+"Doppler",
+"Effet Doppler-Fizeau"
+]
+},
+"sci_a_1-017": {
+"a": []
+},
+"sci_a_1-018": {
+"a": [
+"340",
+"340 mètres par seconde",
+"343 m/s",
+"343"
+],
+"l": "Quelle est la vitesse approximative du son dans l'air à 20 degrés Celsius ?"
+},
+"sci_a_1-019": {
+"a": []
+},
+"sci_a_1-020": {
+"a": [],
+"l": "Quelle loi de l'électricité s'écrit U égale R fois I ?"
+},
+"sci_a_1-021": {
+"a": []
+},
+"sci_a_1-022": {
+"a": []
+},
+"sci_a_1-023": {
+"a": []
+},
+"sci_a_1-024": {
+"a": [
+"Rayons UV",
+"Rayons ultraviolets",
+"UVB"
+]
+},
+"sci_a_1-025": {
+"a": [
+"Roentgen"
+]
+},
+"sci_a_1-026": {
+"a": []
+},
+"sci_a_1-027": {
+"a": []
+},
+"sci_a_1-028": {
+"a": [
+"Photoélectrique"
+]
+},
+"sci_a_1-029": {
+"a": []
+},
+"sci_a_1-030": {
+"a": []
+},
+"sci_a_1-031": {
+"a": [
+"Relations d'incertitude",
+"Principe d'indétermination",
+"Principe d'incertitude de Heisenberg"
+]
+},
+"sci_a_1-032": {
+"a": [
+"Fusion thermonucléaire"
+]
+},
+"sci_a_1-033": {
+"a": []
+},
+"sci_a_1-034": {
+"a": []
+},
+"sci_a_1-035": {
+"a": []
+},
+"sci_a_1-036": {
+"a": []
+},
+"sci_a_1-037": {
+"a": []
+},
+"sci_a_1-038": {
+"a": []
+},
+"sci_a_1-039": {
+"a": []
+},
+"sci_a_1-040": {
+"a": []
+},
+"sci_a_1-041": {
+"a": []
+},
+"sci_a_1-042": {
+"a": []
+},
+"sci_a_1-043": {
+"a": []
+},
+"sci_a_1-044": {
+"a": []
+},
+"sci_a_1-045": {
+"a": []
+},
+"sci_a_1-046": {
+"a": []
+},
+"sci_a_1-047": {
+"a": []
+},
+"sci_a_1-048": {
+"a": [
+"Expérience de Young",
+"Young",
+"Expérience des fentes de Young",
+"Expérience de la double fente",
+"Doubles fentes de Young"
+],
+"l": "Quelle célèbre expérience d'optique, menée au début du dix-neuvième siècle, a révélé des interférences lumineuses à l'aide de deux fentes ?"
+},
+"sci_a_1-049": {
+"a": []
+},
+"sci_a_1-050": {
+"a": [
+"RVB",
+"Rouge, bleu, vert",
+"Vert, rouge, bleu",
+"Vert, bleu, rouge",
+"Bleu, rouge, vert",
+"Bleu, vert, rouge"
+]
+},
+"sci_a_1-051": {
+"a": [
+"Force de frottement",
+"Friction"
+]
+},
+"sci_a_1-052": {
+"a": [
+"Hz"
+]
+},
+"sci_a_1-053": {
+"a": []
+},
+"sci_a_1-054": {
+"a": []
+},
+"sci_a_1-055": {
+"a": []
+},
+"sci_a_1-056": {
+"a": [
+"mol"
+]
+},
+"sci_a_1-057": {
+"a": []
+},
+"sci_a_1-058": {
+"a": []
+},
+"sci_a_1-059": {
+"a": []
+},
+"sci_a_1-060": {
+"a": []
+},
+"sci_a_1-061": {
+"a": [
+"1852",
+"1 852 mètres"
+]
+},
+"sci_a_1-062": {
+"a": [
+"1,852 km/h",
+"1 852 mètres par heure",
+"Un mille nautique par heure",
+"Un mille par heure"
+]
+},
+"sci_a_1-063": {
+"a": [
+"2,54",
+"2.54 cm"
+]
+},
+"sci_a_1-064": {
+"a": [
+"1,6",
+"1,609 km",
+"1 609 mètres",
+"1,61 km"
+]
+},
+"sci_a_1-065": {
+"a": []
+},
+"sci_a_1-066": {
+"a": [
+"UA"
+]
+},
+"sci_a_1-067": {
+"a": [
+"1000",
+"1000 litres"
+]
+},
+"sci_a_1-068": {
+"a": []
+},
+"sci_a_1-069": {
+"a": [
+"Quetta et ronna"
+]
+},
+"sci_a_1-070": {
+"a": []
+},
+"sci_a_1-071": {
+"a": [
+"Méchain et Delambre"
+]
+},
+"sci_a_1-072": {
+"a": []
+},
+"sci_a_1-073": {
+"a": []
+},
+"sci_a_1-074": {
+"a": [
+"3600"
+]
+},
+"sci_a_1-075": {
+"a": [
+"Cheval",
+"Chevaux",
+"Chevaux-vapeur"
+],
+"l": "Quelle unité de puissance, abrégée « c h », sert encore à exprimer la puissance des moteurs de voitures ?"
+},
+"sci_a_1-076": {
+"a": [
+"dB"
+]
+},
+"sci_a_1-077": {
+"a": [
+"32",
+"32 degrés",
+"32 degrés Fahrenheit"
+]
+},
+"sci_a_1-078": {
+"a": [],
+"l": "Quelle unité de surface, notée « h a », vaut 10 000 mètres carrés ?"
+},
+"sci_a_1-079": {
+"a": []
+},
+"sci_a_1-080": {
+"a": []
+},
+"sci_a_1-081": {
+"a": []
+},
+"sci_a_1-082": {
+"a": []
+},
+"sci_a_1-083": {
+"a": []
+},
+"sci_a_1-084": {
+"a": [
+"Calorie",
+"kcal",
+"Grande calorie"
+]
+},
+"sci_a_1-085": {
+"a": []
+},
+"sci_a_1-086": {
+"a": []
+},
+"sci_a_1-087": {
+"a": []
+},
+"sci_a_1-088": {
+"a": [
+"Angstrom"
+],
+"l": "Quelle unité, valant 10 puissance moins 10 mètre, porte le nom d'un physicien suédois et sert à mesurer les atomes ?"
+},
+"sci_a_1-089": {
+"a": [],
+"l": "Depuis 1983, quelle unité est définie comme la distance parcourue par la lumière dans le vide en un deux-cent-quatre-vingt-dix-neuf millions sept-cent-quatre-vingt-douze mille quatre-cent-cinquante-huitième de seconde ?"
+},
+"sci_a_1-090": {
+"a": [
+"Césium 133"
+]
+},
+"sci_a_2-001": {
+"a": [
+"A U"
+]
+},
+"sci_a_2-002": {
+"a": [
+"F E"
+]
+},
+"sci_a_2-003": {
+"a": []
+},
+"sci_a_2-004": {
+"a": [],
+"l": "Quel élément chimique a pour symbole N A ?"
+},
+"sci_a_2-005": {
+"a": [],
+"l": "Quel élément chimique a pour symbole P B ?"
+},
+"sci_a_2-006": {
+"a": [],
+"l": "Quel élément chimique a pour symbole S B ?"
+},
+"sci_a_2-007": {
+"a": [
+"A G"
+]
+},
+"sci_a_2-008": {
+"a": [
+"S N"
+]
+},
+"sci_a_2-009": {
+"a": [
+"C U"
+]
+},
+"sci_a_2-010": {
+"a": [
+"H2O",
+"H 2 O",
+"H deux O"
+]
+},
+"sci_a_2-011": {
+"a": [
+"Mendeleev",
+"Mendeleyev"
+]
+},
+"sci_a_2-012": {
+"a": [
+"N2"
+],
+"l": "Quel gaz représente environ 78 pour cent de l'air que nous respirons ?"
+},
+"sci_a_2-013": {
+"a": [
+"Oxygène",
+"O2"
+],
+"l": "Quel gaz, indispensable à la respiration, représente environ 21 pour cent de l'atmosphère terrestre ?"
+},
+"sci_a_2-014": {
+"a": []
+},
+"sci_a_2-015": {
+"a": []
+},
+"sci_a_2-016": {
+"a": []
+},
+"sci_a_2-017": {
+"a": []
+},
+"sci_a_2-018": {
+"a": [
+"NaCl"
+]
+},
+"sci_a_2-019": {
+"a": []
+},
+"sci_a_2-020": {
+"a": [
+"Rien ne se crée, rien ne se perd",
+"Rien ne se perd, tout se transforme"
+]
+},
+"sci_a_2-021": {
+"a": [],
+"l": "Quelle est la valeur du p H d'une solution neutre comme l'eau pure à 25 degrés Celsius ?"
+},
+"sci_a_2-022": {
+"a": [],
+"l": "Comment qualifie-t-on une solution dont le p H est supérieur à 7 ?"
+},
+"sci_a_2-023": {
+"a": [
+"HCl",
+"Acide muriatique"
+]
+},
+"sci_a_2-024": {
+"a": [
+"Acide éthanoïque"
+]
+},
+"sci_a_2-025": {
+"a": [
+"Acide méthanoïque"
+]
+},
+"sci_a_2-026": {
+"a": []
+},
+"sci_a_2-027": {
+"a": [
+"CO",
+"Oxyde de carbone"
+]
+},
+"sci_a_2-028": {
+"a": [
+"Trioxygène",
+"O3"
+],
+"l": "Quel gaz a pour formule O 3 ?"
+},
+"sci_a_2-029": {
+"a": []
+},
+"sci_a_2-030": {
+"a": [
+"CH4"
+]
+},
+"sci_a_2-031": {
+"a": []
+},
+"sci_a_2-032": {
+"a": []
+},
+"sci_a_2-033": {
+"a": []
+},
+"sci_a_2-034": {
+"a": []
+},
+"sci_a_2-035": {
+"a": []
+},
+"sci_a_2-036": {
+"a": []
+},
+"sci_a_2-037": {
+"a": []
+},
+"sci_a_2-038": {
+"a": []
+},
+"sci_a_2-039": {
+"a": []
+},
+"sci_a_2-040": {
+"a": [
+"Dichlore"
+]
+},
+"sci_a_2-041": {
+"a": [
+"Fluorure",
+"Fluorures"
+]
+},
+"sci_a_2-042": {
+"a": []
+},
+"sci_a_2-043": {
+"a": []
+},
+"sci_a_2-044": {
+"a": []
+},
+"sci_a_2-045": {
+"a": []
+},
+"sci_a_2-046": {
+"a": []
+},
+"sci_a_2-047": {
+"a": []
+},
+"sci_a_2-048": {
+"a": []
+},
+"sci_a_2-049": {
+"a": [],
+"l": "Quel métal, ajouté à l'acier à plus de 10,5 pour cent, le rend inoxydable ?"
+},
+"sci_a_2-050": {
+"a": []
+},
+"sci_a_2-051": {
+"a": []
+},
+"sci_a_2-052": {
+"a": []
+},
+"sci_a_2-053": {
+"a": []
+},
+"sci_a_2-054": {
+"a": [
+"Procédé Haber",
+"Haber"
+],
+"l": "Quel procédé industriel, mis au point par deux chimistes allemands au début du vingtième siècle, synthétise l'ammoniac ?"
+},
+"sci_a_2-055": {
+"a": [
+"NH3",
+"N H 3",
+"N H trois"
+]
+},
+"sci_a_2-056": {
+"a": [
+"CO2",
+"Gaz carbonique",
+"Anhydride carbonique"
+]
+},
+"sci_a_2-057": {
+"a": [
+"Alcool éthylique"
+]
+},
+"sci_a_2-058": {
+"a": []
+},
+"sci_a_2-059": {
+"a": []
+},
+"sci_a_2-060": {
+"a": [],
+"l": "Quel chimiste suédois a proposé, au début du dix-neuvième siècle, de noter les éléments par les initiales de leur nom latin ?"
+},
+"sci_a_2-061": {
+"a": []
+},
+"sci_a_2-062": {
+"a": [
+"Avogadro",
+"Constante d'Avogadro"
+],
+"l": "Quel nombre, environ 6,022 fois 10 puissance 23, correspond au nombre d'entités contenues dans une mole ?"
+},
+"sci_a_2-063": {
+"a": []
+},
+"sci_a_2-064": {
+"a": [
+"Blanc de céruse",
+"Blanc de plomb"
+]
+},
+"sci_a_2-065": {
+"a": []
+},
+"sci_a_2-066": {
+"a": []
+},
+"sci_a_2-067": {
+"a": [
+"Wolfram"
+]
+},
+"sci_a_2-068": {
+"a": []
+},
+"sci_a_2-069": {
+"a": []
+},
+"sci_a_2-070": {
+"a": [
+"Sucrose"
+]
+},
+"sci_a_2-071": {
+"a": []
+},
+"sci_a_2-072": {
+"a": []
+},
+"sci_a_2-073": {
+"a": []
+},
+"sci_a_2-074": {
+"a": [
+"C14",
+"14C"
+]
+},
+"sci_a_2-075": {
+"a": []
+},
+"sci_a_2-076": {
+"a": []
+},
+"sci_a_2-077": {
+"a": []
+},
+"sci_a_2-078": {
+"a": []
+},
+"sci_a_2-079": {
+"a": []
+},
+"sci_a_2-080": {
+"a": []
+},
+"sci_a_2-081": {
+"a": []
+},
+"sci_a_2-082": {
+"a": []
+},
+"sci_a_2-083": {
+"a": [
+"Oxyde nitreux",
+"Oxyde de diazote"
+],
+"l": "Quel gaz de formule N 2 O est surnommé « gaz hilarant » ?"
+},
+"sci_a_2-084": {
+"a": []
+},
+"sci_a_2-085": {
+"a": []
+},
+"sci_a_2-086": {
+"a": [
+"NaOH"
+]
+},
+"sci_a_2-087": {
+"a": []
+},
+"sci_a_2-088": {
+"a": []
+},
+"sci_a_2-089": {
+"a": [
+"Poly(chlorure de vinyle)",
+"Chlorure de polyvinyle"
+],
+"l": "Que désigne le sigle P V C, plastique utilisé pour les canalisations et les fenêtres ?"
+},
+"sci_a_2-090": {
+"a": []
+},
+"sci_a_3-001": {
+"a": []
+},
+"sci_a_3-002": {
+"a": []
+},
+"sci_a_3-003": {
+"a": []
+},
+"sci_a_3-004": {
+"a": []
+},
+"sci_a_3-005": {
+"a": []
+},
+"sci_a_3-006": {
+"a": []
+},
+"sci_a_3-007": {
+"a": []
+},
+"sci_a_3-008": {
+"a": []
+},
+"sci_a_3-009": {
+"a": []
+},
+"sci_a_3-010": {
+"a": []
+},
+"sci_a_3-011": {
+"a": []
+},
+"sci_a_3-012": {
+"a": []
+},
+"sci_a_3-013": {
+"a": [
+"Deimos et Phobos"
+]
+},
+"sci_a_3-014": {
+"a": [
+"Lunes galiléennes",
+"Io, Europe, Ganymède et Callisto"
+]
+},
+"sci_a_3-015": {
+"a": []
+},
+"sci_a_3-016": {
+"a": [
+"Mont Olympe",
+"Olympus"
+],
+"l": "Quel volcan de Mars, haut d'environ 22 kilomètres, est le plus grand volcan connu du Système solaire ?"
+},
+"sci_a_3-017": {
+"a": [
+"8 min 20 s",
+"8 minutes 20 secondes",
+"500 secondes"
+]
+},
+"sci_a_3-018": {
+"a": [
+"29 jours et demi",
+"29,53 jours",
+"29 jours 12 heures"
+]
+},
+"sci_a_3-019": {
+"a": [
+"Verrouillage gravitationnel",
+"Verrouillage par effet de marée",
+"Rotation capturée",
+"Synchronisme"
+]
+},
+"sci_a_3-020": {
+"a": [
+"Éclipse de Soleil",
+"Éclipse"
+]
+},
+"sci_a_3-021": {
+"a": []
+},
+"sci_a_3-022": {
+"a": []
+},
+"sci_a_3-023": {
+"a": []
+},
+"sci_a_3-024": {
+"a": []
+},
+"sci_a_3-025": {
+"a": []
+},
+"sci_a_3-026": {
+"a": []
+},
+"sci_a_3-027": {
+"a": []
+},
+"sci_a_3-028": {
+"a": []
+},
+"sci_a_3-029": {
+"a": []
+},
+"sci_a_3-030": {
+"a": [
+"Gagarin",
+"Iouri Gagarine",
+"Yuri Gagarin"
+]
+},
+"sci_a_3-031": {
+"a": [
+"Vostok"
+]
+},
+"sci_a_3-032": {
+"a": [
+"Spoutnik",
+"Sputnik",
+"Sputnik 1"
+],
+"l": "Quel est le nom du premier satellite artificiel, lancé par l'U R S S en octobre 1957 ?"
+},
+"sci_a_3-033": {
+"a": []
+},
+"sci_a_3-034": {
+"a": [
+"Tereshkova",
+"Valentina Tereshkova"
+]
+},
+"sci_a_3-035": {
+"a": []
+},
+"sci_a_3-036": {
+"a": [
+"Claudie André-Deshays"
+]
+},
+"sci_a_3-037": {
+"a": []
+},
+"sci_a_3-038": {
+"a": []
+},
+"sci_a_3-039": {
+"a": [
+"Guyane française"
+]
+},
+"sci_a_3-040": {
+"a": []
+},
+"sci_a_3-041": {
+"a": []
+},
+"sci_a_3-042": {
+"a": []
+},
+"sci_a_3-043": {
+"a": []
+},
+"sci_a_3-044": {
+"a": [
+"Webb",
+"JWST",
+"Télescope James Webb"
+]
+},
+"sci_a_3-045": {
+"a": []
+},
+"sci_a_3-046": {
+"a": []
+},
+"sci_a_3-047": {
+"a": []
+},
+"sci_a_3-048": {
+"a": [
+"Voyager",
+"Voyager 1 et Voyager 2"
+]
+},
+"sci_a_3-049": {
+"a": []
+},
+"sci_a_3-050": {
+"a": [
+"Pathfinder"
+]
+},
+"sci_a_3-051": {
+"a": []
+},
+"sci_a_3-052": {
+"a": []
+},
+"sci_a_3-053": {
+"a": []
+},
+"sci_a_3-054": {
+"a": []
+},
+"sci_a_3-055": {
+"a": []
+},
+"sci_a_3-056": {
+"a": [
+"Space Exploration Technologies"
+]
+},
+"sci_a_3-057": {
+"a": []
+},
+"sci_a_3-058": {
+"a": [
+"Proxima Centauri",
+"Proxima"
+]
+},
+"sci_a_3-059": {
+"a": [
+"Polaris",
+"Étoile du Nord"
+]
+},
+"sci_a_3-060": {
+"a": []
+},
+"sci_a_3-061": {
+"a": []
+},
+"sci_a_3-062": {
+"a": []
+},
+"sci_a_3-063": {
+"a": []
+},
+"sci_a_3-064": {
+"a": []
+},
+"sci_a_3-065": {
+"a": [
+"Type G",
+"Étoile de type G"
+]
+},
+"sci_a_3-066": {
+"a": []
+},
+"sci_a_3-067": {
+"a": [
+"Couronne solaire"
+]
+},
+"sci_a_3-068": {
+"a": []
+},
+"sci_a_3-069": {
+"a": [
+"M31",
+"Galaxie d'Andromède"
+]
+},
+"sci_a_3-070": {
+"a": []
+},
+"sci_a_3-071": {
+"a": []
+},
+"sci_a_3-072": {
+"a": [
+"Sagittarius A",
+"Sagittarius A étoile",
+"Sgr A*",
+"Sagittaire A*"
+]
+},
+"sci_a_3-073": {
+"a": []
+},
+"sci_a_3-074": {
+"a": []
+},
+"sci_a_3-075": {
+"a": []
+},
+"sci_a_3-076": {
+"a": [
+"13,8 milliards",
+"14 milliards d'années"
+]
+},
+"sci_a_3-077": {
+"a": [
+"4,6 milliards",
+"4,5 milliards d'années",
+"4,57 milliards d'années"
+]
+},
+"sci_a_3-078": {
+"a": [
+"Copernicus",
+"Nicolaus Copernicus"
+],
+"l": "Quel astronome polonais a proposé au seizième siècle que la Terre tourne autour du Soleil ?"
+},
+"sci_a_3-079": {
+"a": []
+},
+"sci_a_3-080": {
+"a": [
+"Tycho"
+]
+},
+"sci_a_3-081": {
+"a": [
+"Galileo Galilei",
+"Galileo"
+]
+},
+"sci_a_3-082": {
+"a": [],
+"l": "Quel astronome français du dix-huitième siècle a dressé un catalogue d'objets nébuleux désignés par la lettre M ?"
+},
+"sci_a_3-083": {
+"a": []
+},
+"sci_a_3-084": {
+"a": [
+"Jupiter et Mars"
+]
+},
+"sci_a_3-085": {
+"a": []
+},
+"sci_a_3-086": {
+"a": []
+},
+"sci_a_3-087": {
+"a": []
+},
+"sci_a_3-088": {
+"a": [
+"Didier Queloz et Michel Mayor",
+"Mayor et Queloz",
+"Queloz et Mayor"
+]
+},
+"sci_a_3-089": {
+"a": []
+},
+"sci_a_3-090": {
+"a": [
+"36000",
+"36 000 kilomètres",
+"35 786 km",
+"35 800 km"
+]
+},
+"sci_a_4-001": {
+"a": [
+"3.14"
+]
+},
+"sci_a_4-002": {
+"a": []
+},
+"sci_a_4-003": {
+"a": []
+},
+"sci_a_4-004": {
+"a": [
+"180",
+"180 degrés"
+]
+},
+"sci_a_4-005": {
+"a": [],
+"l": "Quel savant grec a donné son nom au théorème selon lequel, dans un triangle rectangle, a carré plus b carré égale c carré ?"
+},
+"sci_a_4-006": {
+"a": []
+},
+"sci_a_4-007": {
+"a": []
+},
+"sci_a_4-008": {
+"a": []
+},
+"sci_a_4-009": {
+"a": [],
+"l": "Combien vaut factorielle zéro ?"
+},
+"sci_a_4-010": {
+"a": []
+},
+"sci_a_4-011": {
+"a": []
+},
+"sci_a_4-012": {
+"a": [],
+"l": "Quel savant grec a estimé la circonférence de la Terre au troisième siècle avant Jésus-Christ en mesurant des ombres ?"
+},
+"sci_a_4-013": {
+"a": []
+},
+"sci_a_4-014": {
+"a": []
+},
+"sci_a_4-015": {
+"a": [
+"Nombre d'Euler",
+"Nombre de Néper",
+"Constante de Néper"
+]
+},
+"sci_a_4-016": {
+"a": [],
+"l": "Quel mathématicien écossais a inventé les logarithmes au début du dix-septième siècle ?"
+},
+"sci_a_4-017": {
+"a": [],
+"l": "Quel nombre imaginaire, noté par une seule lettre, a pour carré moins 1 ?"
+},
+"sci_a_4-018": {
+"a": []
+},
+"sci_a_4-019": {
+"a": []
+},
+"sci_a_4-020": {
+"a": []
+},
+"sci_a_4-021": {
+"a": []
+},
+"sci_a_4-022": {
+"a": []
+},
+"sci_a_4-023": {
+"a": []
+},
+"sci_a_4-024": {
+"a": []
+},
+"sci_a_4-025": {
+"a": []
+},
+"sci_a_4-026": {
+"a": []
+},
+"sci_a_4-027": {
+"a": []
+},
+"sci_a_4-028": {
+"a": []
+},
+"sci_a_4-029": {
+"a": []
+},
+"sci_a_4-030": {
+"a": []
+},
+"sci_a_4-031": {
+"a": [
+"1000",
+"Mille"
+],
+"l": "Quel nombre s'écrit avec la lettre M en chiffres romains ?"
+},
+"sci_a_4-032": {
+"a": []
+},
+"sci_a_4-033": {
+"a": [
+"Khwarizmi",
+"Al-Khawarizmi",
+"Al-Kharezmi"
+],
+"l": "Quel savant persan du neuvième siècle a donné son nom au mot « algorithme » ?"
+},
+"sci_a_4-034": {
+"a": [
+"Mésopotamiens",
+"Civilisation mésopotamienne",
+"Babylone"
+]
+},
+"sci_a_4-035": {
+"a": []
+},
+"sci_a_4-036": {
+"a": []
+},
+"sci_a_4-037": {
+"a": [
+"Pi r carré",
+"Pi r au carré",
+"Pi fois r au carré",
+"Pi fois r carré",
+"πr²",
+"Pi r²"
+]
+},
+"sci_a_4-038": {
+"a": [
+"Bande de Möbius",
+"Ruban de Moebius",
+"Bande de Moebius",
+"Moebius"
+]
+},
+"sci_a_4-039": {
+"a": []
+},
+"sci_a_4-040": {
+"a": []
+},
+"sci_a_4-041": {
+"a": [
+"5050"
+]
+},
+"sci_a_4-042": {
+"a": [
+"Ada Byron",
+"Lady Lovelace"
+],
+"l": "Quelle mathématicienne anglaise a écrit au dix-neuvième siècle ce que l'on considère comme le premier programme informatique ?"
+},
+"sci_a_4-043": {
+"a": []
+},
+"sci_a_4-044": {
+"a": []
+},
+"sci_a_4-045": {
+"a": []
+},
+"sci_a_4-046": {
+"a": []
+},
+"sci_a_4-047": {
+"a": [],
+"l": "Quelle mathématicienne française a correspondu avec Gauss sous le pseudonyme masculin de « Monsieur Le Blanc » ?"
+},
+"sci_a_4-048": {
+"a": [
+"Bourbaki"
+]
+},
+"sci_a_4-049": {
+"a": [
+"360",
+"360 degrés"
+]
+},
+"sci_a_4-050": {
+"a": [
+"1/6",
+"1 sur 6",
+"Un sixième"
+]
+},
+"sci_a_4-051": {
+"a": []
+},
+"sci_a_4-052": {
+"a": []
+},
+"sci_a_4-053": {
+"a": [
+"1729",
+"Nombre de Hardy-Ramanujan"
+]
+},
+"sci_a_4-054": {
+"a": [],
+"l": "Quel mathématicien indien autodidacte a été invité à Cambridge en 1914 par le mathématicien Hardy ?"
+},
+"sci_a_4-055": {
+"a": [
+"Hypatia"
+]
+},
+"sci_a_4-056": {
+"a": []
+},
+"sci_a_4-057": {
+"a": []
+},
+"sci_a_4-058": {
+"a": [
+"Marie Sklodowska-Curie",
+"Maria Sklodowska"
+]
+},
+"sci_a_4-059": {
+"a": [
+"Chimie et physique"
+]
+},
+"sci_a_4-060": {
+"a": [
+"Irène Curie",
+"Irène Joliot"
+]
+},
+"sci_a_4-061": {
+"a": []
+},
+"sci_a_4-062": {
+"a": []
+},
+"sci_a_4-063": {
+"a": [
+"Îles Galápagos"
+]
+},
+"sci_a_4-064": {
+"a": []
+},
+"sci_a_4-065": {
+"a": []
+},
+"sci_a_4-066": {
+"a": []
+},
+"sci_a_4-067": {
+"a": []
+},
+"sci_a_4-068": {
+"a": [
+"Joseph et Étienne de Montgolfier"
+]
+},
+"sci_a_4-069": {
+"a": [
+"Crick et Watson",
+"James Watson et Francis Crick"
+]
+},
+"sci_a_4-070": {
+"a": []
+},
+"sci_a_4-071": {
+"a": [
+"Linnaeus",
+"Carl Linnaeus"
+]
+},
+"sci_a_4-072": {
+"a": []
+},
+"sci_a_4-073": {
+"a": [],
+"l": "Quel virologue français a partagé le prix Nobel de médecine 2008 avec Françoise Barré-Sinoussi pour la découverte du V I H ?"
+},
+"sci_a_4-074": {
+"a": [],
+"l": "Quelle chercheuse française a reçu le prix Nobel de chimie 2020 pour les « ciseaux moléculaires » Crisper-Cas 9 ?"
+},
+"sci_a_4-075": {
+"a": []
+},
+"sci_a_4-076": {
+"a": []
+},
+"sci_a_4-077": {
+"a": []
+},
+"sci_a_4-078": {
+"a": []
+},
+"sci_a_4-079": {
+"a": []
+},
+"sci_a_4-080": {
+"a": []
+},
+"sci_a_4-081": {
+"a": [
+"De Gennes"
+]
+},
+"sci_a_4-082": {
+"a": []
+},
+"sci_a_4-083": {
+"a": [
+"Commandant Cousteau"
+]
+},
+"sci_a_4-084": {
+"a": []
+},
+"sci_a_4-085": {
+"a": [],
+"l": "Quel savant et homme politique américain a inventé le paratonnerre au dix-huitième siècle ?"
+},
+"sci_a_4-086": {
+"a": [
+"Graham Bell"
+]
+},
+"sci_a_4-087": {
+"a": []
+},
+"sci_a_4-088": {
+"a": []
+},
+"sci_a_4-089": {
+"a": []
+},
+"sci_a_4-090": {
+"a": []
+},
+"sci_b_1-001": {
+"a": []
+},
+"sci_b_1-002": {
+"a": []
+},
+"sci_b_1-003": {
+"a": [
+"Stapes"
+]
+},
+"sci_b_1-004": {
+"a": []
+},
+"sci_b_1-005": {
+"a": []
+},
+"sci_b_1-006": {
+"a": []
+},
+"sci_b_1-007": {
+"a": []
+},
+"sci_b_1-008": {
+"a": []
+},
+"sci_b_1-009": {
+"a": [
+"Valve bicuspide"
+]
+},
+"sci_b_1-010": {
+"a": []
+},
+"sci_b_1-011": {
+"a": [
+"Alvéoles"
+]
+},
+"sci_b_1-012": {
+"a": []
+},
+"sci_b_1-013": {
+"a": [
+"24 côtes"
+]
+},
+"sci_b_1-014": {
+"a": []
+},
+"sci_b_1-015": {
+"a": []
+},
+"sci_b_1-016": {
+"a": []
+},
+"sci_b_1-017": {
+"a": []
+},
+"sci_b_1-018": {
+"a": []
+},
+"sci_b_1-019": {
+"a": [
+"Gluteus maximus",
+"Grand glutéal"
+]
+},
+"sci_b_1-020": {
+"a": []
+},
+"sci_b_1-021": {
+"a": [
+"Vésicule"
+]
+},
+"sci_b_1-022": {
+"a": []
+},
+"sci_b_1-023": {
+"a": [
+"Langerhans"
+]
+},
+"sci_b_1-024": {
+"a": []
+},
+"sci_b_1-025": {
+"a": [
+"Glande pituitaire",
+"Pituitaire"
+]
+},
+"sci_b_1-026": {
+"a": []
+},
+"sci_b_1-027": {
+"a": [
+"Épinéphrine"
+]
+},
+"sci_b_1-028": {
+"a": []
+},
+"sci_b_1-029": {
+"a": []
+},
+"sci_b_1-030": {
+"a": []
+},
+"sci_b_1-031": {
+"a": []
+},
+"sci_b_1-032": {
+"a": []
+},
+"sci_b_1-033": {
+"a": []
+},
+"sci_b_1-034": {
+"a": []
+},
+"sci_b_1-035": {
+"a": []
+},
+"sci_b_1-036": {
+"a": []
+},
+"sci_b_1-037": {
+"a": []
+},
+"sci_b_1-038": {
+"a": [
+"Point aveugle",
+"Papille optique",
+"Disque optique"
+]
+},
+"sci_b_1-039": {
+"a": [
+"Fovea centralis"
+]
+},
+"sci_b_1-040": {
+"a": []
+},
+"sci_b_1-041": {
+"a": []
+},
+"sci_b_1-042": {
+"a": []
+},
+"sci_b_1-043": {
+"a": []
+},
+"sci_b_1-044": {
+"a": []
+},
+"sci_b_1-045": {
+"a": [
+"Vitré"
+]
+},
+"sci_b_1-046": {
+"a": [
+"Limaçon"
+]
+},
+"sci_b_1-047": {
+"a": []
+},
+"sci_b_1-048": {
+"a": [
+"Trompe auditive",
+"Eustache"
+]
+},
+"sci_b_1-049": {
+"a": []
+},
+"sci_b_1-050": {
+"a": [
+"Papilles"
+]
+},
+"sci_b_1-051": {
+"a": [
+"Tact"
+]
+},
+"sci_b_1-052": {
+"a": []
+},
+"sci_b_1-053": {
+"a": []
+},
+"sci_b_1-054": {
+"a": [
+"Émail dentaire"
+]
+},
+"sci_b_1-055": {
+"a": []
+},
+"sci_b_1-056": {
+"a": []
+},
+"sci_b_1-057": {
+"a": []
+},
+"sci_b_1-058": {
+"a": []
+},
+"sci_b_1-059": {
+"a": []
+},
+"sci_b_1-060": {
+"a": [
+"5 litres",
+"5 L",
+"4 à 6 litres",
+"5 à 6 litres"
+]
+},
+"sci_b_1-061": {
+"a": []
+},
+"sci_b_1-062": {
+"a": [
+"Moelle rouge"
+]
+},
+"sci_b_1-063": {
+"a": [
+"120",
+"4 mois"
+]
+},
+"sci_b_1-064": {
+"a": [
+"O-",
+"O moins",
+"O rhésus négatif"
+]
+},
+"sci_b_1-065": {
+"a": []
+},
+"sci_b_1-066": {
+"a": [
+"Thrombocytes"
+]
+},
+"sci_b_1-067": {
+"a": []
+},
+"sci_b_1-068": {
+"a": []
+},
+"sci_b_1-069": {
+"a": [
+"Villosités"
+]
+},
+"sci_b_1-070": {
+"a": []
+},
+"sci_b_1-071": {
+"a": [
+"HCl"
+]
+},
+"sci_b_1-072": {
+"a": []
+},
+"sci_b_1-073": {
+"a": []
+},
+"sci_b_1-074": {
+"a": []
+},
+"sci_b_1-075": {
+"a": []
+},
+"sci_b_1-076": {
+"a": []
+},
+"sci_b_1-077": {
+"a": []
+},
+"sci_b_1-078": {
+"a": []
+},
+"sci_b_1-079": {
+"a": []
+},
+"sci_b_1-080": {
+"a": []
+},
+"sci_b_1-081": {
+"a": []
+},
+"sci_b_1-082": {
+"a": [
+"Nœud de Keith et Flack",
+"Nœud sinoatrial",
+"Nœud sino-auriculaire"
+]
+},
+"sci_b_1-083": {
+"a": []
+},
+"sci_b_1-084": {
+"a": []
+},
+"sci_b_1-085": {
+"a": [
+"LCR",
+"Liquide cérébrospinal",
+"Liquide céphalo-rachidien"
+]
+},
+"sci_b_1-086": {
+"a": []
+},
+"sci_b_1-087": {
+"a": []
+},
+"sci_b_1-088": {
+"a": [
+"Corps amygdaloïde"
+]
+},
+"sci_b_1-089": {
+"a": []
+},
+"sci_b_1-090": {
+"a": []
+},
+"sci_b_2-001": {
+"a": []
+},
+"sci_b_2-002": {
+"a": []
+},
+"sci_b_2-003": {
+"a": []
+},
+"sci_b_2-004": {
+"a": [
+"Variole bovine",
+"Cowpox"
+]
+},
+"sci_b_2-005": {
+"a": [],
+"l": "Quelle maladie infectieuse a été officiellement déclarée éradiquée par l'O M S en 1980 ?"
+},
+"sci_b_2-006": {
+"a": []
+},
+"sci_b_2-007": {
+"a": [
+"Penicillium"
+]
+},
+"sci_b_2-008": {
+"a": []
+},
+"sci_b_2-009": {
+"a": [
+"Claude Galien",
+"Galenos"
+],
+"l": "Quel médecin grec, actif à Rome au deuxième siècle, a dominé la pensée médicale pendant plus d'un millénaire ?"
+},
+"sci_b_2-010": {
+"a": []
+},
+"sci_b_2-011": {
+"a": [],
+"l": "Quel chirurgien français du seizième siècle, qui servit plusieurs rois, est considéré comme le père de la chirurgie moderne ?"
+},
+"sci_b_2-012": {
+"a": []
+},
+"sci_b_2-013": {
+"a": []
+},
+"sci_b_2-014": {
+"a": []
+},
+"sci_b_2-015": {
+"a": []
+},
+"sci_b_2-016": {
+"a": []
+},
+"sci_b_2-017": {
+"a": []
+},
+"sci_b_2-018": {
+"a": []
+},
+"sci_b_2-019": {
+"a": []
+},
+"sci_b_2-020": {
+"a": [
+"Peste",
+"Grande peste",
+"Mort noire"
+]
+},
+"sci_b_2-021": {
+"a": [
+"Grippe de 1918"
+]
+},
+"sci_b_2-022": {
+"a": [
+"Virus de l'immunodéficience humaine",
+"HIV"
+]
+},
+"sci_b_2-023": {
+"a": [
+"Montagnier et Barré-Sinoussi"
+],
+"l": "Quels deux chercheurs français ont reçu le prix Nobel de médecine 2008 pour la découverte du V I H ?"
+},
+"sci_b_2-024": {
+"a": [
+"Lymphocytes T4",
+"Lymphocytes CD4",
+"T4",
+"CD4"
+],
+"l": "Quelles cellules immunitaires le V I H attaque-t-il en priorité ?"
+},
+"sci_b_2-025": {
+"a": [
+"Feu de Saint-Antoine"
+]
+},
+"sci_b_2-026": {
+"a": [
+"Acide ascorbique"
+]
+},
+"sci_b_2-027": {
+"a": []
+},
+"sci_b_2-028": {
+"a": []
+},
+"sci_b_2-029": {
+"a": []
+},
+"sci_b_2-030": {
+"a": []
+},
+"sci_b_2-031": {
+"a": [
+"Bacille de Calmette et Guérin",
+"Bacille Calmette-Guérin"
+]
+},
+"sci_b_2-032": {
+"a": [
+"Polio"
+]
+},
+"sci_b_2-033": {
+"a": []
+},
+"sci_b_2-034": {
+"a": []
+},
+"sci_b_2-035": {
+"a": [
+"Herpès zoster"
+]
+},
+"sci_b_2-036": {
+"a": []
+},
+"sci_b_2-037": {
+"a": [
+"Rougeole-oreillons-rubéole",
+"Rougeole, oreillons, rubéole"
+]
+},
+"sci_b_2-038": {
+"a": []
+},
+"sci_b_2-039": {
+"a": [
+"ARNm",
+"ARN",
+"Vaccin à ARN messager"
+]
+},
+"sci_b_2-040": {
+"a": [
+"SRAS-CoV-2",
+"SARS-CoV2"
+]
+},
+"sci_b_2-041": {
+"a": []
+},
+"sci_b_2-042": {
+"a": [
+"RDC",
+"Congo-Kinshasa",
+"Congo"
+]
+},
+"sci_b_2-043": {
+"a": [
+"H. pylori",
+"Helicobacter"
+]
+},
+"sci_b_2-044": {
+"a": []
+},
+"sci_b_2-045": {
+"a": []
+},
+"sci_b_2-046": {
+"a": []
+},
+"sci_b_2-047": {
+"a": []
+},
+"sci_b_2-048": {
+"a": [
+"Victoria"
+]
+},
+"sci_b_2-049": {
+"a": []
+},
+"sci_b_2-050": {
+"a": []
+},
+"sci_b_2-051": {
+"a": []
+},
+"sci_b_2-052": {
+"a": []
+},
+"sci_b_2-053": {
+"a": [
+"Roentgen"
+]
+},
+"sci_b_2-054": {
+"a": [
+"Marie Sklodowska-Curie"
+]
+},
+"sci_b_2-055": {
+"a": [
+"Imagerie par résonance magnétique",
+"Résonance magnétique nucléaire"
+]
+},
+"sci_b_2-056": {
+"a": []
+},
+"sci_b_2-057": {
+"a": []
+},
+"sci_b_2-058": {
+"a": []
+},
+"sci_b_2-059": {
+"a": [
+"Diabète insulinodépendant",
+"Diabète juvénile"
+]
+},
+"sci_b_2-060": {
+"a": []
+},
+"sci_b_2-061": {
+"a": [
+"MSF"
+],
+"l": "Quelle O N G médicale a été fondée en France en 1971, notamment par Bernard Kouchner ?"
+},
+"sci_b_2-062": {
+"a": []
+},
+"sci_b_2-063": {
+"a": []
+},
+"sci_b_2-064": {
+"a": []
+},
+"sci_b_2-065": {
+"a": []
+},
+"sci_b_2-066": {
+"a": [
+"Maladie de Hansen"
+]
+},
+"sci_b_2-067": {
+"a": []
+},
+"sci_b_2-068": {
+"a": [
+"Vérole",
+"Grande vérole"
+]
+},
+"sci_b_2-069": {
+"a": []
+},
+"sci_b_2-070": {
+"a": []
+},
+"sci_b_2-071": {
+"a": []
+},
+"sci_b_2-072": {
+"a": [
+"Dermatologiste",
+"Dermato"
+]
+},
+"sci_b_2-073": {
+"a": []
+},
+"sci_b_2-074": {
+"a": []
+},
+"sci_b_2-075": {
+"a": []
+},
+"sci_b_2-076": {
+"a": []
+},
+"sci_b_2-077": {
+"a": []
+},
+"sci_b_2-078": {
+"a": []
+},
+"sci_b_2-079": {
+"a": []
+},
+"sci_b_2-080": {
+"a": []
+},
+"sci_b_2-081": {
+"a": []
+},
+"sci_b_2-082": {
+"a": []
+},
+"sci_b_2-083": {
+"a": [
+"Pollinose"
+]
+},
+"sci_b_2-084": {
+"a": []
+},
+"sci_b_2-085": {
+"a": [
+"Papillomavirus humain",
+"VPH"
+]
+},
+"sci_b_2-086": {
+"a": []
+},
+"sci_b_2-087": {
+"a": []
+},
+"sci_b_2-088": {
+"a": []
+},
+"sci_b_2-089": {
+"a": [],
+"l": "Que signifie le sigle A V C ?"
+},
+"sci_b_2-090": {
+"a": []
+},
+"sci_b_3-001": {
+"a": []
+},
+"sci_b_3-002": {
+"a": [
+"HMS Beagle"
+]
+},
+"sci_b_3-003": {
+"a": [
+"Îles Galápagos"
+]
+},
+"sci_b_3-004": {
+"a": []
+},
+"sci_b_3-005": {
+"a": []
+},
+"sci_b_3-006": {
+"a": []
+},
+"sci_b_3-007": {
+"a": [
+"Brünn"
+]
+},
+"sci_b_3-008": {
+"a": [
+"Acide désoxyribonucléique"
+]
+},
+"sci_b_3-009": {
+"a": [],
+"l": "Que signifie le sigle A D N ?"
+},
+"sci_b_3-010": {
+"a": [
+"Crick et Watson",
+"James Watson et Francis Crick"
+],
+"l": "Quels deux chercheurs ont publié en 1953 le modèle de la double hélice de l'A D N ?"
+},
+"sci_b_3-011": {
+"a": [],
+"l": "Sous la direction de quelle chercheuse britannique a été réalisé le cliché de diffraction de l'A D N appelé « photo 51 » ?"
+},
+"sci_b_3-012": {
+"a": [
+"23 paires"
+]
+},
+"sci_b_3-013": {
+"a": [
+"X et Y",
+"Un X et un Y"
+]
+},
+"sci_b_3-014": {
+"a": [
+"ATGC",
+"A, T, G, C",
+"A, C, G, T",
+"Adénine, guanine, cytosine, thymine",
+"Adénine, thymine, cytosine, guanine",
+"Guanine, cytosine, adénine, thymine"
+],
+"l": "Quelles sont les quatre bases azotées de l'A D N ?"
+},
+"sci_b_3-015": {
+"a": [],
+"l": "Quelle base azotée remplace la thymine dans l'A R N ?"
+},
+"sci_b_3-016": {
+"a": [],
+"l": "Quel sucre entre dans la composition de l'A D N et lui donne une partie de son nom ?"
+},
+"sci_b_3-017": {
+"a": [
+"Ponts hydrogène",
+"Liaisons H"
+],
+"l": "Quel type de liaisons chimiques relie entre eux les deux brins de l'A D N ?"
+},
+"sci_b_3-018": {
+"a": [],
+"l": "Quel organite, doté de son propre A D N, est surnommé la « centrale énergétique » de la cellule ?"
+},
+"sci_b_3-019": {
+"a": [
+"Lignée maternelle",
+"Voie maternelle"
+],
+"l": "Par quel parent l'A D N mitochondrial est-il transmis chez l'être humain ?"
+},
+"sci_b_3-020": {
+"a": [
+"Adénosine triphosphate"
+]
+},
+"sci_b_3-021": {
+"a": []
+},
+"sci_b_3-022": {
+"a": []
+},
+"sci_b_3-023": {
+"a": [
+"O2"
+]
+},
+"sci_b_3-024": {
+"a": [
+"Théorie endosymbiotique"
+]
+},
+"sci_b_3-025": {
+"a": []
+},
+"sci_b_3-026": {
+"a": [],
+"l": "Dans quelle structure de la cellule eucaryote l'A D N est-il principalement enfermé ?"
+},
+"sci_b_3-027": {
+"a": []
+},
+"sci_b_3-028": {
+"a": [
+"Golgi"
+]
+},
+"sci_b_3-029": {
+"a": []
+},
+"sci_b_3-030": {
+"a": []
+},
+"sci_b_3-031": {
+"a": []
+},
+"sci_b_3-032": {
+"a": []
+},
+"sci_b_3-033": {
+"a": [],
+"l": "Quel drapier néerlandais du dix-septième siècle a été le premier à observer des micro-organismes grâce à ses microscopes ?"
+},
+"sci_b_3-034": {
+"a": [
+"Schwann et Schleiden",
+"Matthias Schleiden et Theodor Schwann"
+]
+},
+"sci_b_3-035": {
+"a": [
+"Paroi cellulaire",
+"Paroi végétale"
+]
+},
+"sci_b_3-036": {
+"a": []
+},
+"sci_b_3-037": {
+"a": [
+"Membrane cellulaire",
+"Membrane cytoplasmique"
+]
+},
+"sci_b_3-038": {
+"a": []
+},
+"sci_b_3-039": {
+"a": []
+},
+"sci_b_3-040": {
+"a": []
+},
+"sci_b_3-041": {
+"a": []
+},
+"sci_b_3-042": {
+"a": [
+"CRISPR",
+"Ciseaux moléculaires",
+"Crisper",
+"Crisper Cas 9"
+]
+},
+"sci_b_3-043": {
+"a": [
+"Organisme génétiquement modifié"
+]
+},
+"sci_b_3-044": {
+"a": []
+},
+"sci_b_3-045": {
+"a": []
+},
+"sci_b_3-046": {
+"a": []
+},
+"sci_b_3-047": {
+"a": []
+},
+"sci_b_3-048": {
+"a": [],
+"l": "Comment appelle-t-on une modification héréditaire de la séquence de l'A D N ?"
+},
+"sci_b_3-049": {
+"a": [],
+"l": "Comment appelle-t-on la copie d'un gène d'A D N en A R N ?"
+},
+"sci_b_3-050": {
+"a": [],
+"l": "Comment appelle-t-on l'étape où les ribosomes assemblent une protéine en lisant l'A R N messager ?"
+},
+"sci_b_3-051": {
+"a": []
+},
+"sci_b_3-052": {
+"a": [
+"Réaction en chaîne par polymérase",
+"Amplification en chaîne par polymérase",
+"Polymerase chain reaction"
+],
+"l": "Quelle technique, inventée par Kary Mullis en 1983, permet de copier des millions de fois un fragment d'A D N ?"
+},
+"sci_b_3-053": {
+"a": []
+},
+"sci_b_3-054": {
+"a": [
+"Drosophila",
+"Drosophila melanogaster",
+"Mouche du vinaigre",
+"Mouche des fruits"
+]
+},
+"sci_b_3-055": {
+"a": []
+},
+"sci_b_3-056": {
+"a": []
+},
+"sci_b_3-057": {
+"a": []
+},
+"sci_b_3-058": {
+"a": []
+},
+"sci_b_3-059": {
+"a": []
+},
+"sci_b_3-060": {
+"a": [
+"Œuf fécondé"
+]
+},
+"sci_b_3-061": {
+"a": [
+"Vrais jumeaux",
+"Jumeaux univitellins"
+]
+},
+"sci_b_3-062": {
+"a": []
+},
+"sci_b_3-063": {
+"a": [
+"Dinknesh",
+"Dinkinesh"
+]
+},
+"sci_b_3-064": {
+"a": []
+},
+"sci_b_3-065": {
+"a": []
+},
+"sci_b_3-066": {
+"a": [
+"Neanderthal",
+"Neander"
+]
+},
+"sci_b_3-067": {
+"a": [
+"Archaeopteryx"
+]
+},
+"sci_b_3-068": {
+"a": []
+},
+"sci_b_3-069": {
+"a": [
+"Équilibres intermittents"
+]
+},
+"sci_b_3-070": {
+"a": []
+},
+"sci_b_3-071": {
+"a": [
+"Co-évolution"
+]
+},
+"sci_b_3-072": {
+"a": []
+},
+"sci_b_3-073": {
+"a": [
+"Linnaeus",
+"Carl Linnaeus"
+],
+"l": "Quel naturaliste suédois du dix-huitième siècle a instauré le système de nomenclature à deux noms latins ?"
+},
+"sci_b_3-074": {
+"a": [
+"Homo sapiens sapiens"
+]
+},
+"sci_b_3-075": {
+"a": []
+},
+"sci_b_3-076": {
+"a": [
+"Georges-Louis Leclerc",
+"Comte de Buffon",
+"Leclerc de Buffon"
+],
+"l": "Quel naturaliste français, intendant du Jardin du roi, a rédigé une monumentale « Histoire naturelle » au dix-huitième siècle ?"
+},
+"sci_b_3-077": {
+"a": []
+},
+"sci_b_3-078": {
+"a": [
+"Mimétisme batésien"
+]
+},
+"sci_b_3-079": {
+"a": []
+},
+"sci_b_3-080": {
+"a": [
+"Phages"
+]
+},
+"sci_b_3-081": {
+"a": []
+},
+"sci_b_3-082": {
+"a": []
+},
+"sci_b_3-083": {
+"a": [
+"Monocellulaire"
+]
+},
+"sci_b_3-084": {
+"a": []
+},
+"sci_b_3-085": {
+"a": [
+"Fermentation",
+"Fermentation éthylique"
+]
+},
+"sci_b_3-086": {
+"a": [
+"CO2",
+"Gaz carbonique"
+]
+},
+"sci_b_3-087": {
+"a": []
+},
+"sci_b_3-088": {
+"a": [
+"Empreinte filiale",
+"Imprinting"
+]
+},
+"sci_b_3-089": {
+"a": []
+},
+"sci_b_3-090": {
+"a": [
+"E. coli",
+"Colibacille",
+"Escherichia"
+]
+},
+"sci_b_4-001": {
+"a": [
+"Vitamine D3",
+"Cholécalciférol"
+]
+},
+"sci_b_4-002": {
+"a": []
+},
+"sci_b_4-003": {
+"a": [
+"Phylloquinone"
+]
+},
+"sci_b_4-004": {
+"a": [
+"Carotène",
+"Bêtacarotène"
+]
+},
+"sci_b_4-005": {
+"a": []
+},
+"sci_b_4-006": {
+"a": []
+},
+"sci_b_4-007": {
+"a": [
+"Cobalamine"
+]
+},
+"sci_b_4-008": {
+"a": [
+"Folates"
+]
+},
+"sci_b_4-009": {
+"a": [
+"Protéines, lipides, glucides",
+"Lipides, glucides, protéines",
+"Glucides, protéines, lipides",
+"Lipides, protéines, glucides",
+"Protides, lipides, glucides",
+"Sucres, graisses, protéines"
+]
+},
+"sci_b_4-010": {
+"a": [
+"9",
+"9 kilocalories"
+]
+},
+"sci_b_4-011": {
+"a": []
+},
+"sci_b_4-012": {
+"a": []
+},
+"sci_b_4-013": {
+"a": [
+"Lévulose"
+]
+},
+"sci_b_4-014": {
+"a": [
+"Sucrose"
+]
+},
+"sci_b_4-015": {
+"a": []
+},
+"sci_b_4-016": {
+"a": []
+},
+"sci_b_4-017": {
+"a": []
+},
+"sci_b_4-018": {
+"a": [
+"Acides aminés indispensables"
+]
+},
+"sci_b_4-019": {
+"a": []
+},
+"sci_b_4-020": {
+"a": [
+"BMI"
+]
+},
+"sci_b_4-021": {
+"a": [
+"30 kg/m²"
+],
+"l": "À partir de quelle valeur de l'indice de masse corporelle l'O M S parle-t-elle d'obésité ?"
+},
+"sci_b_4-022": {
+"a": [
+"Indice glycémique",
+"IG"
+]
+},
+"sci_b_4-023": {
+"a": []
+},
+"sci_b_4-024": {
+"a": []
+},
+"sci_b_4-025": {
+"a": [
+"Nutriscore"
+]
+},
+"sci_b_4-026": {
+"a": []
+},
+"sci_b_4-027": {
+"a": []
+},
+"sci_b_4-028": {
+"a": []
+},
+"sci_b_4-029": {
+"a": [
+"Théine"
+]
+},
+"sci_b_4-030": {
+"a": []
+},
+"sci_b_4-031": {
+"a": []
+},
+"sci_b_4-032": {
+"a": [
+"Appert",
+"Procédé Appert"
+]
+},
+"sci_b_4-033": {
+"a": []
+},
+"sci_b_4-034": {
+"a": []
+},
+"sci_b_4-035": {
+"a": [
+"Ferments lactiques",
+"Lactobacilles"
+]
+},
+"sci_b_4-036": {
+"a": []
+},
+"sci_b_4-037": {
+"a": []
+},
+"sci_b_4-038": {
+"a": []
+},
+"sci_b_4-039": {
+"a": []
+},
+"sci_b_4-040": {
+"a": [
+"Régime méditerranéen",
+"Alimentation méditerranéenne"
+]
+},
+"sci_b_4-041": {
+"a": [
+"Végétarien",
+"Régime végétarien",
+"Ovo-lacto-végétarisme"
+]
+},
+"sci_b_4-042": {
+"a": [
+"60 %",
+"60 pour cent",
+"60"
+]
+},
+"sci_b_4-043": {
+"a": [
+"Calorie",
+"kcal"
+]
+},
+"sci_b_4-044": {
+"a": []
+},
+"sci_b_4-045": {
+"a": [
+"Le moi, le ça et le surmoi",
+"Le moi, le surmoi et le ça",
+"Le surmoi, le moi et le ça",
+"Ça, moi, surmoi",
+"Id, ego, superego"
+]
+},
+"sci_b_4-046": {
+"a": [
+"La Science des rêves",
+"Die Traumdeutung"
+]
+},
+"sci_b_4-047": {
+"a": [
+"Complexe d'Oedipe"
+]
+},
+"sci_b_4-048": {
+"a": []
+},
+"sci_b_4-049": {
+"a": []
+},
+"sci_b_4-050": {
+"a": []
+},
+"sci_b_4-051": {
+"a": []
+},
+"sci_b_4-052": {
+"a": []
+},
+"sci_b_4-053": {
+"a": []
+},
+"sci_b_4-054": {
+"a": []
+},
+"sci_b_4-055": {
+"a": []
+},
+"sci_b_4-056": {
+"a": [
+"Comportementalisme",
+"Behaviourisme"
+]
+},
+"sci_b_4-057": {
+"a": []
+},
+"sci_b_4-058": {
+"a": [
+"I comme Icare"
+]
+},
+"sci_b_4-059": {
+"a": []
+},
+"sci_b_4-060": {
+"a": []
+},
+"sci_b_4-061": {
+"a": []
+},
+"sci_b_4-062": {
+"a": [
+"Réalisation de soi",
+"Actualisation de soi",
+"Accomplissement personnel",
+"Besoin d'accomplissement"
+]
+},
+"sci_b_4-063": {
+"a": []
+},
+"sci_b_4-064": {
+"a": []
+},
+"sci_b_4-065": {
+"a": [
+"Taches de Rorschach"
+]
+},
+"sci_b_4-066": {
+"a": []
+},
+"sci_b_4-067": {
+"a": []
+},
+"sci_b_4-068": {
+"a": []
+},
+"sci_b_4-069": {
+"a": []
+},
+"sci_b_4-070": {
+"a": []
+},
+"sci_b_4-071": {
+"a": []
+},
+"sci_b_4-072": {
+"a": []
+},
+"sci_b_4-073": {
+"a": []
+},
+"sci_b_4-074": {
+"a": []
+},
+"sci_b_4-075": {
+"a": [
+"Effet du spectateur",
+"Effet Genovese"
+]
+},
+"sci_b_4-076": {
+"a": []
+},
+"sci_b_4-077": {
+"a": [
+"Gestaltisme",
+"Psychologie de la forme",
+"Gestalt-théorie"
+]
+},
+"sci_b_4-078": {
+"a": []
+},
+"sci_b_4-079": {
+"a": [
+"7 plus ou moins 2",
+"7 ± 2",
+"Entre 5 et 9"
+]
+},
+"sci_b_4-080": {
+"a": []
+},
+"sci_b_4-081": {
+"a": []
+},
+"sci_b_4-082": {
+"a": [
+"Sommeil REM",
+"Phase REM",
+"Sommeil MOR",
+"Sommeil à mouvements oculaires rapides"
+]
+},
+"sci_b_4-083": {
+"a": []
+},
+"sci_b_4-084": {
+"a": []
+},
+"sci_b_4-085": {
+"a": [
+"Psychose maniaco-dépressive",
+"Maniaco-dépression",
+"Bipolarité"
+]
+},
+"sci_b_4-086": {
+"a": []
+},
+"sci_b_4-087": {
+"a": [
+"Trouble obsessionnel compulsif",
+"Troubles obsessionnels compulsifs"
+]
+},
+"sci_b_4-088": {
+"a": []
+},
+"sci_b_4-089": {
+"a": []
+},
+"sci_b_4-090": {
+"a": [
+"Anorexie",
+"Anorexia nervosa"
+]
+}
+}
