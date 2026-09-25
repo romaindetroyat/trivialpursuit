@@ -1,0 +1,2688 @@
+{
+"geo_c_1-001": {
+"a": [
+"Mont Everest",
+"Chomolungma",
+"Sagarmatha"
+]
+},
+"geo_c_1-002": {
+"a": [
+"Ulaanbaatar",
+"Ulan Bator"
+]
+},
+"geo_c_1-003": {
+"a": [
+"Yangtsé-Kiang",
+"Yang-Tseu-Kiang",
+"Chang Jiang",
+"Fleuve Bleu",
+"Yangzi"
+]
+},
+"geo_c_1-004": {
+"a": [
+"Houang-Ho",
+"Hoang Ho",
+"Huanghe"
+]
+},
+"geo_c_1-005": {
+"a": []
+},
+"geo_c_1-006": {
+"a": []
+},
+"geo_c_1-007": {
+"a": []
+},
+"geo_c_1-008": {
+"a": []
+},
+"geo_c_1-009": {
+"a": []
+},
+"geo_c_1-010": {
+"a": []
+},
+"geo_c_1-011": {
+"a": [
+"Samarkand"
+]
+},
+"geo_c_1-012": {
+"a": [
+"Ganga"
+]
+},
+"geo_c_1-013": {
+"a": []
+},
+"geo_c_1-014": {
+"a": []
+},
+"geo_c_1-015": {
+"a": [
+"Puducherry",
+"Pondicherry"
+]
+},
+"geo_c_1-016": {
+"a": [
+"Kotte",
+"Sri Jayawardenapura Kotte"
+]
+},
+"geo_c_1-017": {
+"a": []
+},
+"geo_c_1-018": {
+"a": []
+},
+"geo_c_1-019": {
+"a": [
+"Hô Chi Minh",
+"Ho Chi Minh City",
+"Saïgon-Hô Chi Minh"
+]
+},
+"geo_c_1-020": {
+"a": [
+"Halong",
+"baie d'Halong",
+"Ha Long"
+]
+},
+"geo_c_1-021": {
+"a": []
+},
+"geo_c_1-022": {
+"a": []
+},
+"geo_c_1-023": {
+"a": [
+"Bhutan"
+]
+},
+"geo_c_1-024": {
+"a": [
+"K deux",
+"Chogori",
+"mont Godwin-Austen"
+]
+},
+"geo_c_1-025": {
+"a": []
+},
+"geo_c_1-026": {
+"a": []
+},
+"geo_c_1-027": {
+"a": [
+"Kamchatka"
+]
+},
+"geo_c_1-028": {
+"a": [
+"Sakhalin"
+]
+},
+"geo_c_1-029": {
+"a": [
+"Honshū",
+"Hondo"
+]
+},
+"geo_c_1-030": {
+"a": [
+"Heian-kyō"
+]
+},
+"geo_c_1-031": {
+"a": [
+"Fuji",
+"Fuji-san",
+"Fujiyama"
+]
+},
+"geo_c_1-032": {
+"a": [
+"Macau"
+]
+},
+"geo_c_1-033": {
+"a": []
+},
+"geo_c_1-034": {
+"a": [
+"38e",
+"trente-huitième parallèle",
+"38e parallèle nord"
+]
+},
+"geo_c_1-035": {
+"a": []
+},
+"geo_c_1-036": {
+"a": []
+},
+"geo_c_1-037": {
+"a": []
+},
+"geo_c_1-038": {
+"a": []
+},
+"geo_c_1-039": {
+"a": [
+"l'Euphrate et le Tigre"
+]
+},
+"geo_c_1-040": {
+"a": [
+"Sultanat d'Oman"
+]
+},
+"geo_c_1-041": {
+"a": [
+"Abu Dhabi",
+"Abou Dhabi"
+]
+},
+"geo_c_1-042": {
+"a": [
+"Rub' al Khali",
+"Roub al-Khali",
+"Quart vide"
+]
+},
+"geo_c_1-043": {
+"a": []
+},
+"geo_c_1-044": {
+"a": [
+"Khyber",
+"col de Khyber",
+"Khaïber"
+]
+},
+"geo_c_1-045": {
+"a": []
+},
+"geo_c_1-046": {
+"a": [
+"plateau tibétain",
+"Xizang"
+]
+},
+"geo_c_1-047": {
+"a": [
+"Kirghizie",
+"Kyrgyzstan"
+]
+},
+"geo_c_1-048": {
+"a": [
+"Turkménie"
+]
+},
+"geo_c_1-049": {
+"a": [
+"Ayeyarwady",
+"Irraouaddy"
+]
+},
+"geo_c_1-050": {
+"a": [
+"Siam"
+]
+},
+"geo_c_1-051": {
+"a": []
+},
+"geo_c_1-052": {
+"a": [
+"Timor-Leste"
+]
+},
+"geo_c_1-053": {
+"a": [
+"Andes"
+]
+},
+"geo_c_1-054": {
+"a": []
+},
+"geo_c_1-055": {
+"a": []
+},
+"geo_c_1-056": {
+"a": []
+},
+"geo_c_1-057": {
+"a": []
+},
+"geo_c_1-058": {
+"a": []
+},
+"geo_c_1-059": {
+"a": [
+"Galápagos",
+"archipel de Colón"
+]
+},
+"geo_c_1-060": {
+"a": [
+"Rio"
+]
+},
+"geo_c_1-061": {
+"a": []
+},
+"geo_c_1-062": {
+"a": [
+"Iguazú",
+"Iguaçu",
+"Iguassu"
+]
+},
+"geo_c_1-063": {
+"a": [
+"chutes de l'Ange",
+"Angel Falls",
+"Kerepakupai Merú"
+]
+},
+"geo_c_1-064": {
+"a": [
+"Río Bravo",
+"Rio Bravo del Norte"
+]
+},
+"geo_c_1-065": {
+"a": []
+},
+"geo_c_1-066": {
+"a": [
+"Tierra del Fuego"
+]
+},
+"geo_c_1-067": {
+"a": [
+"La Plata",
+"Plata"
+]
+},
+"geo_c_1-068": {
+"a": [
+"Guyane française"
+]
+},
+"geo_c_1-069": {
+"a": [
+"Surinam"
+]
+},
+"geo_c_1-070": {
+"a": [
+"Cusco"
+]
+},
+"geo_c_1-071": {
+"a": [
+"Ecuador"
+]
+},
+"geo_c_1-072": {
+"a": []
+},
+"geo_c_1-073": {
+"a": []
+},
+"geo_c_1-074": {
+"a": []
+},
+"geo_c_1-075": {
+"a": [],
+"l": "Quelle immense baie du nord du Canada porte le nom d'un navigateur anglais du dix-septième siècle ?"
+},
+"geo_c_1-076": {
+"a": []
+},
+"geo_c_1-077": {
+"a": []
+},
+"geo_c_1-078": {
+"a": []
+},
+"geo_c_1-079": {
+"a": []
+},
+"geo_c_1-080": {
+"a": [
+"McKinley",
+"Denali",
+"mont Denali"
+]
+},
+"geo_c_1-081": {
+"a": [
+"Death Valley"
+]
+},
+"geo_c_1-082": {
+"a": []
+},
+"geo_c_1-083": {
+"a": []
+},
+"geo_c_1-084": {
+"a": []
+},
+"geo_c_1-085": {
+"a": []
+},
+"geo_c_1-086": {
+"a": []
+},
+"geo_c_1-087": {
+"a": []
+},
+"geo_c_1-088": {
+"a": [
+"Baja California"
+]
+},
+"geo_c_1-089": {
+"a": []
+},
+"geo_c_1-090": {
+"a": []
+},
+"geo_c_2-001": {
+"a": []
+},
+"geo_c_2-002": {
+"a": [
+"Española",
+"Saint-Domingue"
+]
+},
+"geo_c_2-003": {
+"a": []
+},
+"geo_c_2-004": {
+"a": [
+"Sint Maarten"
+]
+},
+"geo_c_2-005": {
+"a": []
+},
+"geo_c_2-006": {
+"a": []
+},
+"geo_c_2-007": {
+"a": [
+"Great Barrier Reef",
+"Grande Barrière"
+]
+},
+"geo_c_2-008": {
+"a": []
+},
+"geo_c_2-009": {
+"a": []
+},
+"geo_c_2-010": {
+"a": []
+},
+"geo_c_2-011": {
+"a": []
+},
+"geo_c_2-012": {
+"a": []
+},
+"geo_c_2-013": {
+"a": []
+},
+"geo_c_2-014": {
+"a": []
+},
+"geo_c_2-015": {
+"a": []
+},
+"geo_c_2-016": {
+"a": [],
+"l": "Quel navigateur néerlandais du dix-septième siècle a donné son nom à une île et à une mer d'Océanie ?"
+},
+"geo_c_2-017": {
+"a": []
+},
+"geo_c_2-018": {
+"a": []
+},
+"geo_c_2-019": {
+"a": [
+"îles Marquises"
+]
+},
+"geo_c_2-020": {
+"a": []
+},
+"geo_c_2-021": {
+"a": []
+},
+"geo_c_2-022": {
+"a": [
+"PNG"
+]
+},
+"geo_c_2-023": {
+"a": []
+},
+"geo_c_2-024": {
+"a": []
+},
+"geo_c_2-025": {
+"a": []
+},
+"geo_c_2-026": {
+"a": []
+},
+"geo_c_2-027": {
+"a": []
+},
+"geo_c_2-028": {
+"a": [
+"Kiribas"
+]
+},
+"geo_c_2-029": {
+"a": []
+},
+"geo_c_2-030": {
+"a": []
+},
+"geo_c_2-031": {
+"a": []
+},
+"geo_c_2-032": {
+"a": [
+"Antarctica",
+"Antarctide"
+]
+},
+"geo_c_2-033": {
+"a": [
+"traité de Washington",
+"traité de l'Antarctique"
+]
+},
+"geo_c_2-034": {
+"a": [
+"Érèbe",
+"Erebus"
+]
+},
+"geo_c_2-035": {
+"a": []
+},
+"geo_c_2-036": {
+"a": []
+},
+"geo_c_2-037": {
+"a": [],
+"l": "Quelle station russe de l'Antarctique a relevé une température de moins 89,2 degrés Celsius en juillet 1983 ?"
+},
+"geo_c_2-038": {
+"a": []
+},
+"geo_c_2-039": {
+"a": [
+"plate-forme de Ross",
+"barrière de glace de Ross"
+]
+},
+"geo_c_2-040": {
+"a": [
+"aurore boréale",
+"aurore australe"
+]
+},
+"geo_c_2-041": {
+"a": [
+"glace de mer"
+]
+},
+"geo_c_2-042": {
+"a": [
+"Kalaallit Nunaat"
+]
+},
+"geo_c_2-043": {
+"a": []
+},
+"geo_c_2-044": {
+"a": [
+"Spitzberg",
+"Spitsberg"
+]
+},
+"geo_c_2-045": {
+"a": []
+},
+"geo_c_2-046": {
+"a": []
+},
+"geo_c_2-047": {
+"a": [
+"Inuit"
+]
+},
+"geo_c_2-048": {
+"a": []
+},
+"geo_c_2-049": {
+"a": [
+"jour polaire"
+]
+},
+"geo_c_2-050": {
+"a": []
+},
+"geo_c_2-051": {
+"a": []
+},
+"geo_c_2-052": {
+"a": []
+},
+"geo_c_2-053": {
+"a": [
+"abîme Challenger",
+"Challenger"
+]
+},
+"geo_c_2-054": {
+"a": []
+},
+"geo_c_2-055": {
+"a": []
+},
+"geo_c_2-056": {
+"a": []
+},
+"geo_c_2-057": {
+"a": []
+},
+"geo_c_2-058": {
+"a": [
+"courant du Pérou",
+"courant péruvien"
+]
+},
+"geo_c_2-059": {
+"a": []
+},
+"geo_c_2-060": {
+"a": []
+},
+"geo_c_2-061": {
+"a": [
+"golfe Arabo-Persique"
+]
+},
+"geo_c_2-062": {
+"a": [
+"mer des Antilles",
+"Caraïbes"
+]
+},
+"geo_c_2-063": {
+"a": [
+"mer de Chine du Sud"
+]
+},
+"geo_c_2-064": {
+"a": [
+"océan glacial Arctique"
+]
+},
+"geo_c_2-065": {
+"a": [
+"océan Antarctique"
+]
+},
+"geo_c_2-066": {
+"a": [
+"ZEE"
+]
+},
+"geo_c_2-067": {
+"a": [
+"1852",
+"1852 mètres"
+]
+},
+"geo_c_2-068": {
+"a": [
+"triangle du diable"
+]
+},
+"geo_c_2-069": {
+"a": []
+},
+"geo_c_2-070": {
+"a": []
+},
+"geo_c_2-071": {
+"a": []
+},
+"geo_c_2-072": {
+"a": []
+},
+"geo_c_2-073": {
+"a": []
+},
+"geo_c_2-074": {
+"a": []
+},
+"geo_c_2-075": {
+"a": []
+},
+"geo_c_2-076": {
+"a": []
+},
+"geo_c_2-077": {
+"a": []
+},
+"geo_c_2-078": {
+"a": [
+"Hormuz"
+]
+},
+"geo_c_2-079": {
+"a": []
+},
+"geo_c_2-080": {
+"a": []
+},
+"geo_c_2-081": {
+"a": []
+},
+"geo_c_2-082": {
+"a": [
+"mer de Drake",
+"détroit de Drake"
+]
+},
+"geo_c_2-083": {
+"a": []
+},
+"geo_c_2-084": {
+"a": []
+},
+"geo_c_2-085": {
+"a": []
+},
+"geo_c_2-086": {
+"a": []
+},
+"geo_c_2-087": {
+"a": []
+},
+"geo_c_2-088": {
+"a": [
+"Erie Canal"
+]
+},
+"geo_c_2-089": {
+"a": [
+"canal Pékin-Hangzhou",
+"Jinghang"
+]
+},
+"geo_c_2-090": {
+"a": []
+},
+"geo_c_3-001": {
+"a": []
+},
+"geo_c_3-002": {
+"a": []
+},
+"geo_c_3-003": {
+"a": [
+"détroit de Sunda",
+"Sunda"
+]
+},
+"geo_c_3-004": {
+"a": [],
+"l": "Quel détroit, large d'environ 180 kilomètres, sépare la province chinoise du Fujian de l'île qui lui fait face ?"
+},
+"geo_c_3-005": {
+"a": [
+"Krakatau"
+]
+},
+"geo_c_3-006": {
+"a": []
+},
+"geo_c_3-007": {
+"a": [],
+"l": "Quel volcan des Philippines a connu en 1991 l'une des plus fortes éruptions du vingtième siècle ?"
+},
+"geo_c_3-008": {
+"a": [
+"Saint Helens",
+"Mount St. Helens"
+]
+},
+"geo_c_3-009": {
+"a": []
+},
+"geo_c_3-010": {
+"a": []
+},
+"geo_c_3-011": {
+"a": [
+"Kilauea"
+]
+},
+"geo_c_3-012": {
+"a": [
+"Pelée",
+"mont Pelé"
+]
+},
+"geo_c_3-013": {
+"a": [
+"Fournaise"
+]
+},
+"geo_c_3-014": {
+"a": []
+},
+"geo_c_3-015": {
+"a": []
+},
+"geo_c_3-016": {
+"a": []
+},
+"geo_c_3-017": {
+"a": []
+},
+"geo_c_3-018": {
+"a": [
+"ceinture de feu du Pacifique",
+"cercle de feu"
+]
+},
+"geo_c_3-019": {
+"a": [
+"caldera"
+]
+},
+"geo_c_3-020": {
+"a": [
+"écoulement pyroclastique",
+"flux pyroclastique"
+]
+},
+"geo_c_3-021": {
+"a": [
+"volcan composite"
+]
+},
+"geo_c_3-022": {
+"a": []
+},
+"geo_c_3-023": {
+"a": [
+"les Krafft"
+]
+},
+"geo_c_3-024": {
+"a": []
+},
+"geo_c_3-025": {
+"a": []
+},
+"geo_c_3-026": {
+"a": []
+},
+"geo_c_3-027": {
+"a": []
+},
+"geo_c_3-028": {
+"a": [
+"Pangea"
+]
+},
+"geo_c_3-029": {
+"a": []
+},
+"geo_c_3-030": {
+"a": [
+"Laurasie"
+]
+},
+"geo_c_3-031": {
+"a": []
+},
+"geo_c_3-032": {
+"a": []
+},
+"geo_c_3-033": {
+"a": [
+"raz-de-marée"
+]
+},
+"geo_c_3-034": {
+"a": [
+"San Andrés"
+]
+},
+"geo_c_3-035": {
+"a": []
+},
+"geo_c_3-036": {
+"a": []
+},
+"geo_c_3-037": {
+"a": [
+"Fukushima"
+]
+},
+"geo_c_3-038": {
+"a": []
+},
+"geo_c_3-039": {
+"a": []
+},
+"geo_c_3-040": {
+"a": []
+},
+"geo_c_3-041": {
+"a": [
+"dorsale",
+"ride médio-océanique"
+]
+},
+"geo_c_3-042": {
+"a": [
+"discontinuité de Mohorovičić",
+"Mohorovičić"
+]
+},
+"geo_c_3-043": {
+"a": []
+},
+"geo_c_3-044": {
+"a": []
+},
+"geo_c_3-045": {
+"a": []
+},
+"geo_c_3-046": {
+"a": []
+},
+"geo_c_3-047": {
+"a": []
+},
+"geo_c_3-048": {
+"a": []
+},
+"geo_c_3-049": {
+"a": []
+},
+"geo_c_3-050": {
+"a": []
+},
+"geo_c_3-051": {
+"a": [
+"zone de convergence intertropicale",
+"ZCIT"
+]
+},
+"geo_c_3-052": {
+"a": [
+"permagel"
+]
+},
+"geo_c_3-053": {
+"a": [
+"tundra"
+]
+},
+"geo_c_3-054": {
+"a": []
+},
+"geo_c_3-055": {
+"a": []
+},
+"geo_c_3-056": {
+"a": []
+},
+"geo_c_3-057": {
+"a": []
+},
+"geo_c_3-058": {
+"a": [
+"barkane"
+]
+},
+"geo_c_3-059": {
+"a": []
+},
+"geo_c_3-060": {
+"a": []
+},
+"geo_c_3-061": {
+"a": []
+},
+"geo_c_3-062": {
+"a": [
+"Köppen-Geiger",
+"Koeppen"
+]
+},
+"geo_c_3-063": {
+"a": []
+},
+"geo_c_3-064": {
+"a": [
+"15 degrés",
+"15"
+]
+},
+"geo_c_3-065": {
+"a": []
+},
+"geo_c_3-066": {
+"a": [
+"ligne de date",
+"antiméridien",
+"ligne internationale de date"
+],
+"l": "Quelle ligne imaginaire, qui suit à peu près le cent-quatre-vingtième méridien, marque le passage d'un jour à l'autre ?"
+},
+"geo_c_3-067": {
+"a": []
+},
+"geo_c_3-068": {
+"a": []
+},
+"geo_c_3-069": {
+"a": []
+},
+"geo_c_3-070": {
+"a": [],
+"l": "Comment appelle-t-on le parallèle situé à environ 23 degrés 26 minutes de latitude nord ?"
+},
+"geo_c_3-071": {
+"a": []
+},
+"geo_c_3-072": {
+"a": [],
+"l": "Comment appelle-t-on le parallèle situé à environ 66 degrés 33 minutes de latitude nord ?"
+},
+"geo_c_3-073": {
+"a": [
+"40 000 kilomètres",
+"40000"
+]
+},
+"geo_c_3-074": {
+"a": [
+"1/10 000 000",
+"un dix millionième"
+]
+},
+"geo_c_3-075": {
+"a": []
+},
+"geo_c_3-076": {
+"a": [
+"23,4 degrés",
+"23,5 degrés",
+"23 degrés et demi"
+]
+},
+"geo_c_3-077": {
+"a": []
+},
+"geo_c_3-078": {
+"a": [
+"23 heures 56 minutes",
+"23 h 56",
+"23h56"
+]
+},
+"geo_c_3-079": {
+"a": []
+},
+"geo_c_3-080": {
+"a": [
+"l'Amazone et le Nil"
+]
+},
+"geo_c_3-081": {
+"a": []
+},
+"geo_c_3-082": {
+"a": []
+},
+"geo_c_3-083": {
+"a": []
+},
+"geo_c_3-084": {
+"a": []
+},
+"geo_c_3-085": {
+"a": [
+"relief karstique"
+]
+},
+"geo_c_3-086": {
+"a": []
+},
+"geo_c_3-087": {
+"a": []
+},
+"geo_c_3-088": {
+"a": [
+"NYC",
+"New York City"
+]
+},
+"geo_c_3-089": {
+"a": []
+},
+"geo_c_3-090": {
+"a": []
+},
+"geo_c_4-001": {
+"a": [
+"New Orleans",
+"NOLA"
+]
+},
+"geo_c_4-002": {
+"a": []
+},
+"geo_c_4-003": {
+"a": []
+},
+"geo_c_4-004": {
+"a": []
+},
+"geo_c_4-005": {
+"a": [
+"district de Columbia",
+"district de Colombie"
+],
+"l": "Que signifient les lettres D C dans le nom de Washington D C ?"
+},
+"geo_c_4-006": {
+"a": []
+},
+"geo_c_4-007": {
+"a": [],
+"l": "Quelle ville canadienne est dominée par la tour C N ?"
+},
+"geo_c_4-008": {
+"a": []
+},
+"geo_c_4-009": {
+"a": []
+},
+"geo_c_4-010": {
+"a": [],
+"l": "Quelle plage de Rio de Janeiro s'étire en arc de cercle sur 4 kilomètres, voisine d'Ipanema ?"
+},
+"geo_c_4-011": {
+"a": [
+"Carthagène",
+"Cartagena",
+"Cartagena de Indias"
+]
+},
+"geo_c_4-012": {
+"a": [
+"Mexico City",
+"Ciudad de México"
+]
+},
+"geo_c_4-013": {
+"a": []
+},
+"geo_c_4-014": {
+"a": []
+},
+"geo_c_4-015": {
+"a": [
+"Yedo"
+]
+},
+"geo_c_4-016": {
+"a": []
+},
+"geo_c_4-017": {
+"a": [
+"Beijing"
+]
+},
+"geo_c_4-018": {
+"a": []
+},
+"geo_c_4-019": {
+"a": []
+},
+"geo_c_4-020": {
+"a": []
+},
+"geo_c_4-021": {
+"a": []
+},
+"geo_c_4-022": {
+"a": []
+},
+"geo_c_4-023": {
+"a": []
+},
+"geo_c_4-024": {
+"a": []
+},
+"geo_c_4-025": {
+"a": [
+"Makkah",
+"Mecca"
+]
+},
+"geo_c_4-026": {
+"a": []
+},
+"geo_c_4-027": {
+"a": []
+},
+"geo_c_4-028": {
+"a": []
+},
+"geo_c_4-029": {
+"a": []
+},
+"geo_c_4-030": {
+"a": []
+},
+"geo_c_4-031": {
+"a": []
+},
+"geo_c_4-032": {
+"a": []
+},
+"geo_c_4-033": {
+"a": [
+"NYC",
+"New York City"
+]
+},
+"geo_c_4-034": {
+"a": [
+"Philadelphia"
+]
+},
+"geo_c_4-035": {
+"a": []
+},
+"geo_c_4-036": {
+"a": []
+},
+"geo_c_4-037": {
+"a": []
+},
+"geo_c_4-038": {
+"a": [
+"Salvador de Bahia",
+"São Salvador"
+]
+},
+"geo_c_4-039": {
+"a": []
+},
+"geo_c_4-040": {
+"a": []
+},
+"geo_c_4-041": {
+"a": [
+"Grande Muraille de Chine",
+"muraille de Chine"
+]
+},
+"geo_c_4-042": {
+"a": [
+"Gugong"
+]
+},
+"geo_c_4-043": {
+"a": [
+"Chah Djahan",
+"Shâh Jahân"
+]
+},
+"geo_c_4-044": {
+"a": [
+"Mumtaz",
+"Arjumand Banu Begum"
+]
+},
+"geo_c_4-045": {
+"a": []
+},
+"geo_c_4-046": {
+"a": [
+"Barabudur"
+],
+"l": "Quel immense temple bouddhiste du neuvième siècle se dresse au centre de l'île de Java ?"
+},
+"geo_c_4-047": {
+"a": []
+},
+"geo_c_4-048": {
+"a": [],
+"l": "Quelle capitale cérémonielle de l'Empire perse, fondée par Darius premier, se trouve en Iran ?"
+},
+"geo_c_4-049": {
+"a": [
+"Siem Riep"
+]
+},
+"geo_c_4-050": {
+"a": []
+},
+"geo_c_4-051": {
+"a": [
+"Pagan"
+]
+},
+"geo_c_4-052": {
+"a": []
+},
+"geo_c_4-053": {
+"a": []
+},
+"geo_c_4-054": {
+"a": [
+"Rokuon-ji"
+]
+},
+"geo_c_4-055": {
+"a": []
+},
+"geo_c_4-056": {
+"a": []
+},
+"geo_c_4-057": {
+"a": []
+},
+"geo_c_4-058": {
+"a": []
+},
+"geo_c_4-059": {
+"a": [
+"géoglyphes de Nazca",
+"lignes de Nasca",
+"Nazca"
+]
+},
+"geo_c_4-060": {
+"a": [
+"Statue of Liberty",
+"la Liberté éclairant le monde"
+]
+},
+"geo_c_4-061": {
+"a": []
+},
+"geo_c_4-062": {
+"a": []
+},
+"geo_c_4-063": {
+"a": []
+},
+"geo_c_4-064": {
+"a": []
+},
+"geo_c_4-065": {
+"a": [
+"Empire State"
+]
+},
+"geo_c_4-066": {
+"a": [
+"L'Enfant",
+"Pierre L'Enfant",
+"Peter Charles L'Enfant"
+]
+},
+"geo_c_4-067": {
+"a": []
+},
+"geo_c_4-068": {
+"a": []
+},
+"geo_c_4-069": {
+"a": [
+"Hoover Dam",
+"Boulder Dam"
+]
+},
+"geo_c_4-070": {
+"a": [
+"Rapa Nui"
+]
+},
+"geo_c_4-071": {
+"a": []
+},
+"geo_c_4-072": {
+"a": [
+"Sydney Harbour Bridge"
+]
+},
+"geo_c_4-073": {
+"a": [
+"Gateway of India"
+]
+},
+"geo_c_4-074": {
+"a": [
+"Petronas Towers"
+]
+},
+"geo_c_4-075": {
+"a": [
+"Burj Dubaï"
+]
+},
+"geo_c_4-076": {
+"a": [],
+"l": "Dans quelle ville japonaise proche de Tokyo trône en plein air un grand Bouddha de bronze du treizième siècle ?"
+},
+"geo_c_4-077": {
+"a": [
+"Brooklyn Bridge"
+]
+},
+"geo_c_4-078": {
+"a": []
+},
+"geo_c_4-079": {
+"a": []
+},
+"geo_c_4-080": {
+"a": [
+"Wat Po",
+"Wat Phra Chetuphon"
+]
+},
+"geo_c_4-081": {
+"a": [
+"Phra Kaew Morakot"
+]
+},
+"geo_c_4-082": {
+"a": [
+"Tadmor"
+],
+"l": "Quelle cité caravanière du désert syrien fut gouvernée par la reine Zénobie au troisième siècle ?"
+},
+"geo_c_4-083": {
+"a": [
+"Héliopolis"
+]
+},
+"geo_c_4-084": {
+"a": []
+},
+"geo_c_4-085": {
+"a": []
+},
+"geo_c_4-086": {
+"a": []
+},
+"geo_c_4-087": {
+"a": []
+},
+"geo_c_4-088": {
+"a": []
+},
+"geo_c_4-089": {
+"a": []
+},
+"geo_c_4-090": {
+"a": [
+"Tiantan"
+]
+},
+"geo_d_1-001": {
+"a": []
+},
+"geo_d_1-002": {
+"a": []
+},
+"geo_d_1-003": {
+"a": []
+},
+"geo_d_1-004": {
+"a": []
+},
+"geo_d_1-005": {
+"a": []
+},
+"geo_d_1-006": {
+"a": []
+},
+"geo_d_1-007": {
+"a": []
+},
+"geo_d_1-008": {
+"a": []
+},
+"geo_d_1-009": {
+"a": []
+},
+"geo_d_1-010": {
+"a": []
+},
+"geo_d_1-011": {
+"a": []
+},
+"geo_d_1-012": {
+"a": []
+},
+"geo_d_1-013": {
+"a": []
+},
+"geo_d_1-014": {
+"a": []
+},
+"geo_d_1-015": {
+"a": []
+},
+"geo_d_1-016": {
+"a": []
+},
+"geo_d_1-017": {
+"a": []
+},
+"geo_d_1-018": {
+"a": []
+},
+"geo_d_1-019": {
+"a": []
+},
+"geo_d_1-020": {
+"a": []
+},
+"geo_d_1-021": {
+"a": [
+"Saint-Dié"
+]
+},
+"geo_d_1-022": {
+"a": []
+},
+"geo_d_1-023": {
+"a": []
+},
+"geo_d_1-024": {
+"a": []
+},
+"geo_d_1-025": {
+"a": []
+},
+"geo_d_1-026": {
+"a": [],
+"l": "Quel département de la Côte d'Azur porte le numéro zéro six ?"
+},
+"geo_d_1-027": {
+"a": []
+},
+"geo_d_1-028": {
+"a": []
+},
+"geo_d_1-029": {
+"a": [],
+"l": "Quel département porte le numéro zéro un, le premier de la liste ?"
+},
+"geo_d_1-030": {
+"a": [
+"Belfort"
+]
+},
+"geo_d_1-031": {
+"a": []
+},
+"geo_d_1-032": {
+"a": []
+},
+"geo_d_1-033": {
+"a": [],
+"l": "Quel département corse est désigné par le code deux A ?"
+},
+"geo_d_1-034": {
+"a": []
+},
+"geo_d_1-035": {
+"a": []
+},
+"geo_d_1-036": {
+"a": []
+},
+"geo_d_1-037": {
+"a": []
+},
+"geo_d_1-038": {
+"a": []
+},
+"geo_d_1-039": {
+"a": []
+},
+"geo_d_1-040": {
+"a": [],
+"l": "Quelle ville, où naquit Henri quatre, est la préfecture des Pyrénées-Atlantiques ?"
+},
+"geo_d_1-041": {
+"a": []
+},
+"geo_d_1-042": {
+"a": []
+},
+"geo_d_1-043": {
+"a": []
+},
+"geo_d_1-044": {
+"a": []
+},
+"geo_d_1-045": {
+"a": []
+},
+"geo_d_1-046": {
+"a": []
+},
+"geo_d_1-047": {
+"a": []
+},
+"geo_d_1-048": {
+"a": []
+},
+"geo_d_1-049": {
+"a": [],
+"l": "Quelle préfecture de la Vendée fut fondée sur ordre de Napoléon premier en 1804 ?"
+},
+"geo_d_1-050": {
+"a": []
+},
+"geo_d_1-051": {
+"a": []
+},
+"geo_d_1-052": {
+"a": []
+},
+"geo_d_1-053": {
+"a": [
+"Évry"
+]
+},
+"geo_d_1-054": {
+"a": []
+},
+"geo_d_1-055": {
+"a": []
+},
+"geo_d_1-056": {
+"a": []
+},
+"geo_d_1-057": {
+"a": []
+},
+"geo_d_1-058": {
+"a": []
+},
+"geo_d_1-059": {
+"a": []
+},
+"geo_d_1-060": {
+"a": []
+},
+"geo_d_1-061": {
+"a": []
+},
+"geo_d_1-062": {
+"a": [
+"duché de Savoie"
+],
+"l": "De quel ancien duché Chambéry fut-elle la capitale jusqu'au milieu du seizième siècle ?"
+},
+"geo_d_1-063": {
+"a": []
+},
+"geo_d_1-064": {
+"a": []
+},
+"geo_d_1-065": {
+"a": []
+},
+"geo_d_1-066": {
+"a": []
+},
+"geo_d_1-067": {
+"a": []
+},
+"geo_d_1-068": {
+"a": []
+},
+"geo_d_1-069": {
+"a": []
+},
+"geo_d_1-070": {
+"a": []
+},
+"geo_d_1-071": {
+"a": []
+},
+"geo_d_1-072": {
+"a": []
+},
+"geo_d_1-073": {
+"a": [
+"comté de Bourgogne"
+]
+},
+"geo_d_1-074": {
+"a": [
+"duché de Lorraine"
+]
+},
+"geo_d_1-075": {
+"a": [
+"Nice",
+"pays niçois"
+]
+},
+"geo_d_1-076": {
+"a": []
+},
+"geo_d_1-077": {
+"a": []
+},
+"geo_d_1-078": {
+"a": []
+},
+"geo_d_1-079": {
+"a": [
+"Comtat"
+]
+},
+"geo_d_1-080": {
+"a": [
+"Labourd, Soule et Basse-Navarre",
+"Soule, Labourd et Basse-Navarre",
+"Basse-Navarre, Labourd et Soule",
+"Basse-Navarre, Soule et Labourd",
+"Soule, Basse-Navarre et Labourd"
+]
+},
+"geo_d_1-081": {
+"a": []
+},
+"geo_d_1-082": {
+"a": [
+"comté de la Marche"
+]
+},
+"geo_d_1-083": {
+"a": []
+},
+"geo_d_1-084": {
+"a": []
+},
+"geo_d_1-085": {
+"a": []
+},
+"geo_d_2-001": {
+"a": []
+},
+"geo_d_2-002": {
+"a": []
+},
+"geo_d_2-003": {
+"a": []
+},
+"geo_d_2-004": {
+"a": []
+},
+"geo_d_2-005": {
+"a": []
+},
+"geo_d_2-006": {
+"a": []
+},
+"geo_d_2-007": {
+"a": []
+},
+"geo_d_2-008": {
+"a": []
+},
+"geo_d_2-009": {
+"a": []
+},
+"geo_d_2-010": {
+"a": []
+},
+"geo_d_2-011": {
+"a": []
+},
+"geo_d_2-012": {
+"a": []
+},
+"geo_d_2-013": {
+"a": []
+},
+"geo_d_2-014": {
+"a": []
+},
+"geo_d_2-015": {
+"a": []
+},
+"geo_d_2-016": {
+"a": []
+},
+"geo_d_2-017": {
+"a": []
+},
+"geo_d_2-018": {
+"a": []
+},
+"geo_d_2-019": {
+"a": []
+},
+"geo_d_2-020": {
+"a": []
+},
+"geo_d_2-021": {
+"a": [
+"lac du Der",
+"Der"
+]
+},
+"geo_d_2-022": {
+"a": []
+},
+"geo_d_2-023": {
+"a": []
+},
+"geo_d_2-024": {
+"a": []
+},
+"geo_d_2-025": {
+"a": []
+},
+"geo_d_2-026": {
+"a": []
+},
+"geo_d_2-027": {
+"a": []
+},
+"geo_d_2-028": {
+"a": [
+"col de Roncevaux",
+"Roncesvalles"
+]
+},
+"geo_d_2-029": {
+"a": [],
+"l": "Quel col alpin, qui culmine à 2 642 mètres, relie la Maurienne au col du Lautaret ?"
+},
+"geo_d_2-030": {
+"a": []
+},
+"geo_d_2-031": {
+"a": [],
+"l": "Quel col de Savoie, à plus de 2 700 mètres d'altitude, relie la vallée de la Tarentaise à celle de la Maurienne ?"
+},
+"geo_d_2-032": {
+"a": []
+},
+"geo_d_2-033": {
+"a": []
+},
+"geo_d_2-034": {
+"a": []
+},
+"geo_d_2-035": {
+"a": []
+},
+"geo_d_2-036": {
+"a": []
+},
+"geo_d_2-037": {
+"a": []
+},
+"geo_d_2-038": {
+"a": []
+},
+"geo_d_2-039": {
+"a": []
+},
+"geo_d_2-040": {
+"a": []
+},
+"geo_d_2-041": {
+"a": [
+"Estérel"
+]
+},
+"geo_d_2-042": {
+"a": []
+},
+"geo_d_2-043": {
+"a": []
+},
+"geo_d_2-044": {
+"a": [
+"Canigó"
+]
+},
+"geo_d_2-045": {
+"a": []
+},
+"geo_d_2-046": {
+"a": []
+},
+"geo_d_2-047": {
+"a": []
+},
+"geo_d_2-048": {
+"a": [],
+"l": "Quel ancien volcan, point culminant du Cantal, s'élève à 1 855 mètres ?"
+},
+"geo_d_2-049": {
+"a": []
+},
+"geo_d_2-050": {
+"a": [
+"pic d'Aneto"
+]
+},
+"geo_d_2-051": {
+"a": [],
+"l": "Quel sommet du Vercors, surnommé « le mont Inaccessible », fut gravi dès 1492 sur ordre de Charles huit ?"
+},
+"geo_d_2-052": {
+"a": []
+},
+"geo_d_2-053": {
+"a": [
+"presqu'île du cap Ferret",
+"presqu'île de Lège-Cap-Ferret"
+]
+},
+"geo_d_2-054": {
+"a": []
+},
+"geo_d_2-055": {
+"a": []
+},
+"geo_d_2-056": {
+"a": []
+},
+"geo_d_2-057": {
+"a": []
+},
+"geo_d_2-058": {
+"a": [
+"détroit de Bonifacio",
+"Bonifacio"
+]
+},
+"geo_d_2-059": {
+"a": [
+"Mont-Saint-Michel"
+]
+},
+"geo_d_2-060": {
+"a": []
+},
+"geo_d_2-061": {
+"a": []
+},
+"geo_d_2-062": {
+"a": []
+},
+"geo_d_2-063": {
+"a": [
+"île de Bréhat"
+]
+},
+"geo_d_2-064": {
+"a": []
+},
+"geo_d_2-065": {
+"a": []
+},
+"geo_d_2-066": {
+"a": [
+"Lérins"
+]
+},
+"geo_d_2-067": {
+"a": []
+},
+"geo_d_2-068": {
+"a": []
+},
+"geo_d_2-069": {
+"a": []
+},
+"geo_d_2-070": {
+"a": [
+"Fontaine-de-Vaucluse"
+]
+},
+"geo_d_2-071": {
+"a": []
+},
+"geo_d_2-072": {
+"a": [],
+"l": "Quelle cascade de 27 mètres, sur une rivière du Jura, marque la frontière franco-suisse près de Villers-le-Lac ?"
+},
+"geo_d_2-073": {
+"a": []
+},
+"geo_d_2-074": {
+"a": []
+},
+"geo_d_2-075": {
+"a": []
+},
+"geo_d_2-076": {
+"a": []
+},
+"geo_d_2-077": {
+"a": []
+},
+"geo_d_2-078": {
+"a": []
+},
+"geo_d_2-079": {
+"a": []
+},
+"geo_d_2-080": {
+"a": []
+},
+"geo_d_2-081": {
+"a": []
+},
+"geo_d_2-082": {
+"a": []
+},
+"geo_d_2-083": {
+"a": []
+},
+"geo_d_2-084": {
+"a": []
+},
+"geo_d_2-085": {
+"a": []
+},
+"geo_d_3-001": {
+"a": []
+},
+"geo_d_3-002": {
+"a": []
+},
+"geo_d_3-003": {
+"a": []
+},
+"geo_d_3-004": {
+"a": []
+},
+"geo_d_3-005": {
+"a": []
+},
+"geo_d_3-006": {
+"a": []
+},
+"geo_d_3-007": {
+"a": []
+},
+"geo_d_3-008": {
+"a": [
+"Évian"
+]
+},
+"geo_d_3-009": {
+"a": []
+},
+"geo_d_3-010": {
+"a": []
+},
+"geo_d_3-011": {
+"a": []
+},
+"geo_d_3-012": {
+"a": []
+},
+"geo_d_3-013": {
+"a": []
+},
+"geo_d_3-014": {
+"a": [
+"Colombey"
+]
+},
+"geo_d_3-015": {
+"a": [
+"Domrémy-la-Pucelle"
+]
+},
+"geo_d_3-016": {
+"a": []
+},
+"geo_d_3-017": {
+"a": [
+"Oradour"
+],
+"l": "Quel village de Haute-Vienne, où une division S S massacra la population le 10 juin 1944, a été conservé en ruines ?"
+},
+"geo_d_3-018": {
+"a": []
+},
+"geo_d_3-019": {
+"a": [],
+"l": "Quel site gaulois de Côte-d'Or vit la reddition de Vercingétorix face à César en 52 avant Jésus-Christ ?"
+},
+"geo_d_3-020": {
+"a": []
+},
+"geo_d_3-021": {
+"a": []
+},
+"geo_d_3-022": {
+"a": []
+},
+"geo_d_3-023": {
+"a": []
+},
+"geo_d_3-024": {
+"a": [
+"lentille du Puy"
+]
+},
+"geo_d_3-025": {
+"a": [
+"Espelette"
+]
+},
+"geo_d_3-026": {
+"a": []
+},
+"geo_d_3-027": {
+"a": []
+},
+"geo_d_3-028": {
+"a": [
+"poulet de Bresse",
+"volaille de Bresse"
+]
+},
+"geo_d_3-029": {
+"a": []
+},
+"geo_d_3-030": {
+"a": []
+},
+"geo_d_3-031": {
+"a": []
+},
+"geo_d_3-032": {
+"a": [
+"beaujolais primeur"
+]
+},
+"geo_d_3-033": {
+"a": []
+},
+"geo_d_3-034": {
+"a": []
+},
+"geo_d_3-035": {
+"a": []
+},
+"geo_d_3-036": {
+"a": [
+"tropézienne"
+]
+},
+"geo_d_3-037": {
+"a": []
+},
+"geo_d_3-038": {
+"a": []
+},
+"geo_d_3-039": {
+"a": []
+},
+"geo_d_3-040": {
+"a": []
+},
+"geo_d_3-041": {
+"a": []
+},
+"geo_d_3-042": {
+"a": []
+},
+"geo_d_3-043": {
+"a": []
+},
+"geo_d_3-044": {
+"a": []
+},
+"geo_d_3-045": {
+"a": []
+},
+"geo_d_3-046": {
+"a": []
+},
+"geo_d_3-047": {
+"a": []
+},
+"geo_d_3-048": {
+"a": []
+},
+"geo_d_3-049": {
+"a": []
+},
+"geo_d_3-050": {
+"a": []
+},
+"geo_d_3-051": {
+"a": []
+},
+"geo_d_3-052": {
+"a": [
+"Cordes"
+],
+"l": "Quelle bastide du Tarn, perchée sur un piton, fut fondée en 1222 par le comte de Toulouse Raymond sept ?"
+},
+"geo_d_3-053": {
+"a": []
+},
+"geo_d_3-054": {
+"a": []
+},
+"geo_d_3-055": {
+"a": []
+},
+"geo_d_3-056": {
+"a": []
+},
+"geo_d_3-057": {
+"a": [
+"Fontevrault"
+],
+"l": "Dans quelle abbaye du Maine-et-Loire reposent Aliénor d'Aquitaine et Henri deux Plantagenêt ?"
+},
+"geo_d_3-058": {
+"a": [
+"Saint-Rémy"
+],
+"l": "Dans quelle ville des Alpilles Van Gogh fut-il soigné à l'asile Saint-Paul-de-Mausole en 1889 et 1890 ?"
+},
+"geo_d_3-059": {
+"a": []
+},
+"geo_d_3-060": {
+"a": []
+},
+"geo_d_3-061": {
+"a": [
+"vacherin mont-d'or",
+"vacherin du Haut-Doubs"
+]
+},
+"geo_d_3-062": {
+"a": []
+},
+"geo_d_3-063": {
+"a": []
+},
+"geo_d_3-064": {
+"a": [
+"Chavignol"
+]
+},
+"geo_d_3-065": {
+"a": [
+"broccio"
+]
+},
+"geo_d_3-066": {
+"a": []
+},
+"geo_d_3-067": {
+"a": []
+},
+"geo_d_3-068": {
+"a": []
+},
+"geo_d_3-069": {
+"a": [
+"Tatin"
+]
+},
+"geo_d_3-070": {
+"a": []
+},
+"geo_d_3-071": {
+"a": []
+},
+"geo_d_3-072": {
+"a": [
+"île de la Conférence"
+]
+},
+"geo_d_3-073": {
+"a": [
+"Font-Romeu-Odeillo-Via"
+]
+},
+"geo_d_3-074": {
+"a": []
+},
+"geo_d_3-075": {
+"a": []
+},
+"geo_d_3-076": {
+"a": []
+},
+"geo_d_3-077": {
+"a": []
+},
+"geo_d_3-078": {
+"a": []
+},
+"geo_d_3-079": {
+"a": []
+},
+"geo_d_3-080": {
+"a": []
+},
+"geo_d_3-081": {
+"a": [
+"Flavigny"
+]
+},
+"geo_d_3-082": {
+"a": []
+},
+"geo_d_3-083": {
+"a": []
+},
+"geo_d_3-084": {
+"a": []
+},
+"geo_d_3-085": {
+"a": []
+},
+"geo_d_4-001": {
+"a": [
+"Mo'orea"
+]
+},
+"geo_d_4-002": {
+"a": []
+},
+"geo_d_4-003": {
+"a": []
+},
+"geo_d_4-004": {
+"a": []
+},
+"geo_d_4-005": {
+"a": []
+},
+"geo_d_4-006": {
+"a": []
+},
+"geo_d_4-007": {
+"a": []
+},
+"geo_d_4-008": {
+"a": [
+"tiare",
+"tiaré Tahiti"
+]
+},
+"geo_d_4-009": {
+"a": [
+"Bourbon"
+]
+},
+"geo_d_4-010": {
+"a": []
+},
+"geo_d_4-011": {
+"a": []
+},
+"geo_d_4-012": {
+"a": [
+"Flandres",
+"région flamande"
+]
+},
+"geo_d_4-013": {
+"a": []
+},
+"geo_d_4-014": {
+"a": []
+},
+"geo_d_4-015": {
+"a": []
+},
+"geo_d_4-016": {
+"a": [
+"spéculos",
+"speculaas"
+]
+},
+"geo_d_4-017": {
+"a": []
+},
+"geo_d_4-018": {
+"a": [
+"Luzern"
+]
+},
+"geo_d_4-019": {
+"a": []
+},
+"geo_d_4-020": {
+"a": []
+},
+"geo_d_4-021": {
+"a": [
+"Basel"
+]
+},
+"geo_d_4-022": {
+"a": [
+"1 août",
+"premier août"
+]
+},
+"geo_d_4-023": {
+"a": []
+},
+"geo_d_4-024": {
+"a": []
+},
+"geo_d_4-025": {
+"a": [
+"Wilhelm Tell"
+]
+},
+"geo_d_4-026": {
+"a": [
+"Suisses romands",
+"Welsches"
+]
+},
+"geo_d_4-027": {
+"a": [
+"suisse alémanique",
+"alémanique",
+"schwytzertütsch"
+]
+},
+"geo_d_4-028": {
+"a": []
+},
+"geo_d_4-029": {
+"a": [
+"Casino de Monaco"
+]
+},
+"geo_d_4-030": {
+"a": []
+},
+"geo_d_4-031": {
+"a": []
+},
+"geo_d_4-032": {
+"a": [
+"sucrerie",
+"érablière"
+]
+},
+"geo_d_4-033": {
+"a": [
+"Bonhomme"
+]
+},
+"geo_d_4-034": {
+"a": []
+},
+"geo_d_4-035": {
+"a": []
+},
+"geo_d_4-036": {
+"a": [
+"Cadjins",
+"Acadiens"
+],
+"l": "Comment appelle-t-on les francophones de Louisiane dont les ancêtres furent chassés du Canada au dix-huitième siècle ?"
+},
+"geo_d_4-037": {
+"a": []
+},
+"geo_d_4-038": {
+"a": []
+},
+"geo_d_4-039": {
+"a": []
+},
+"geo_d_4-040": {
+"a": [
+"CFP",
+"XPF"
+]
+},
+"geo_d_4-041": {
+"a": [
+"Kunié"
+]
+},
+"geo_d_4-042": {
+"a": [
+"Loyauté",
+"Loyalty"
+]
+},
+"geo_d_4-043": {
+"a": []
+},
+"geo_d_4-044": {
+"a": []
+},
+"geo_d_4-045": {
+"a": [
+"îles des Saintes"
+]
+},
+"geo_d_4-046": {
+"a": []
+},
+"geo_d_4-047": {
+"a": [
+"rhum de Martinique",
+"rhum martiniquais",
+"rhum AOC Martinique",
+"Martinique"
+]
+},
+"geo_d_4-048": {
+"a": []
+},
+"geo_d_4-049": {
+"a": []
+},
+"geo_d_4-050": {
+"a": [
+"LLN"
+]
+},
+"geo_d_4-051": {
+"a": [
+"Oostende"
+]
+},
+"geo_d_4-052": {
+"a": []
+},
+"geo_d_4-053": {
+"a": []
+},
+"geo_d_4-054": {
+"a": [
+"Han-sur-Lesse"
+]
+},
+"geo_d_4-055": {
+"a": [
+"IJzer"
+]
+},
+"geo_d_4-056": {
+"a": []
+},
+"geo_d_4-057": {
+"a": [
+"Schwytz"
+]
+},
+"geo_d_4-058": {
+"a": []
+},
+"geo_d_4-059": {
+"a": []
+},
+"geo_d_4-060": {
+"a": []
+},
+"geo_d_4-061": {
+"a": []
+},
+"geo_d_4-062": {
+"a": [
+"barrière de rösti",
+"rideau de rösti"
+]
+},
+"geo_d_4-063": {
+"a": []
+},
+"geo_d_4-064": {
+"a": [
+"Epternach",
+"Iechternach"
+]
+},
+"geo_d_4-065": {
+"a": []
+},
+"geo_d_4-066": {
+"a": []
+},
+"geo_d_4-067": {
+"a": []
+},
+"geo_d_4-068": {
+"a": [
+"Saint-Joseph",
+"oratoire Saint-Joseph du Mont-Royal"
+]
+},
+"geo_d_4-069": {
+"a": []
+},
+"geo_d_4-070": {
+"a": [
+"Aoste",
+"Val d'Aoste"
+]
+},
+"geo_d_4-071": {
+"a": []
+},
+"geo_d_4-072": {
+"a": []
+},
+"geo_d_4-073": {
+"a": [
+"île de Sable"
+]
+},
+"geo_d_4-074": {
+"a": []
+},
+"geo_d_4-075": {
+"a": [
+"Tahiti Iti et Tahiti Nui",
+"Nui et Iti",
+"Iti et Nui"
+]
+},
+"geo_d_4-076": {
+"a": []
+},
+"geo_d_4-077": {
+"a": []
+},
+"geo_d_4-078": {
+"a": []
+},
+"geo_d_4-079": {
+"a": []
+},
+"geo_d_4-080": {
+"a": [
+"Bellelay",
+"fromage de Bellelay"
+]
+},
+"geo_d_4-081": {
+"a": []
+},
+"geo_d_4-082": {
+"a": [
+"Müllerthal"
+]
+},
+"geo_d_4-083": {
+"a": [
+"Clerf"
+]
+},
+"geo_d_4-084": {
+"a": [
+"Manic"
+]
+},
+"geo_d_4-085": {
+"a": []
+}
+}

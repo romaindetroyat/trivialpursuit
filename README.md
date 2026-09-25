@@ -24,7 +24,9 @@ dans une application web progressive (PWA) installable sur téléphone et utilis
   solo ne reviennent qu'une fois toutes les autres épuisées.
   On répond **à voix haute** (reconnaissance vocale du navigateur) ou au clavier ; la réponse est
   comparée à celle attendue avec tolérance (articles, accents, fautes légères, nom de famille seul,
-  nombres en lettres, variantes entre parenthèses), et on peut toujours corriger le verdict.
+  nombres en lettres ou en chiffres romains, variantes entre parenthèses, mots déjà présents dans la
+  question) et aux **autres formulations acceptées** préparées par IA pour chaque question
+  (synonymes, graphies, sigles, noms courants). On peut toujours corriger le verdict.
   L'application peut **lire les questions à voix haute** (aussi en partie à plusieurs), et un mode
   **mains libres** enchaîne lecture de la question, écoute de la réponse, verdict et question suivante.
 - **Partie sans plateau** : 2 à 6 joueurs. Le dé tire une couleur, une bonne réponse rapporte le
@@ -49,6 +51,7 @@ data/
   paquet.json        composition figée de chaque carte (identifiants des 6 questions) et éditions
   cartes.csv         toutes les cartes, lisible dans un tableur (généré)
   reserve.json       questions valides non utilisées, pour remplacer une question (généré)
+  alias/*.json       par question : autres réponses acceptées ("a") et texte à lire à voix haute ("l")
 scripts/build.py     assemble data/raw en cartes équilibrées
 ```
 
