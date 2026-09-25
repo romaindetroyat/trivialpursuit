@@ -180,6 +180,38 @@ def composer(par_cat, n, rng):
     return cartes
 
 
+def charger_alias():
+    """Réponses alternatives acceptées et texte à lire, préparés par question (data/alias/*.json)."""
+    alias = {}
+    for chemin in sorted(glob.glob(os.path.join(RACINE, "data", "alias", "*.json"))):
+        with open(chemin, encoding="utf-8") as f:
+            try:
+                alias.update(json.load(f))
+            except json.JSONDecodeError as e:
+                sys.exit(f"JSON invalide dans {os.path.basename(chemin)} : {e}")
+    return alias
+
+
+def enrichir(q, alias):
+    """Renvoie la question au format compact [q, r, d, t] + [alternatives, texte à lire] si présents."""
+    info = alias.get(q["id"], {})
+    reponse = normaliser(q["r"])
+    alternatives = []
+    for a in info.get("a", []):
+        a = " ".join(str(a).split())
+        if a and len(a) <= 50 and normaliser(a) != reponse and a not in alternatives:
+            alternatives.append(a)
+    lecture = " ".join(str(info.get("l", "")).split())
+    if lecture == q["q"]:
+        lecture = ""
+    ligne = [q["q"], q["r"], q["d"], q["t"]]
+    if alternatives or lecture:
+        ligne.append(alternatives)
+    if lecture:
+        ligne.append(lecture)
+    return ligne
+
+
 def charger_paquet():
     """Renvoie (cartes, éditions) du paquet enregistré ; chaque édition couvre une plage de cartes."""
     chemin = os.path.join(RACINE, "data", "paquet.json")
@@ -279,11 +311,12 @@ def main():
 
     ecrire_paquet(cartes, editions)
 
+    alias = charger_alias()
     sortie = {
         "version": 1,
         "categories": CATEGORIES,
         "editions": editions,
-        "cartes": [[[q["q"], q["r"], q["d"], q["t"]] for q in carte] for carte in cartes],
+        "cartes": [[enrichir(q, alias) for q in carte] for carte in cartes],
     }
     with open(os.path.join(RACINE, "app", "cartes.json"), "w", encoding="utf-8") as f:
         json.dump(sortie, f, ensure_ascii=False, separators=(",", ":"))

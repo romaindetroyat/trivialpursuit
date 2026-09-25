@@ -376,12 +376,12 @@ function rendrePartie() {
   if (partie.phase === 'question') {
     tour.replaceChildren(entete, carte,
       h('div', { class: 'repondre' },
-        boutonLire(`${cat.nom}. ${q.q}`),
+        boutonLire(`${cat.nom}. ${q.l}`),
         h('button', {
           type: 'button', class: 'btn',
           onclick: () => { partie.phase = 'reponse'; sauverPartie(); rendrePartie(); },
         }, 'Voir la réponse')));
-    direUneFois(`partie-q-${partie.utilisees.length}-${partie.question}`, `${j.nom}, ${cat.nom}. ${q.q}`);
+    direUneFois(`partie-q-${partie.utilisees.length}-${partie.question}`, `${j.nom}, ${cat.nom}. ${q.l}`);
   } else {
     direUneFois(`partie-r-${partie.utilisees.length}-${partie.question}`, `La réponse : ${q.r}.`);
     tour.replaceChildren(entete, carte,
@@ -606,7 +606,7 @@ let ecouteEnCours = null;
 
 function juger(propositions, entendu) {
   const q = QUESTIONS[solo.question];
-  solo.verdict = { ok: Reponse.verifier(propositions, q.r), entendu };
+  solo.verdict = { ok: Reponse.verifier(propositions, q.r, { question: q.q, alias: q.a }), entendu };
   solo.phase = 'reponse';
   sauverSolo();
   rendreSolo();
@@ -677,7 +677,7 @@ function rendreSolo() {
   let actions;
   if (solo.phase === 'question') {
     actions = h('div', { class: 'repondre' },
-      boutonLire(`${cat.nom}. ${q.q}`),
+      boutonLire(`${cat.nom}. ${q.l}`),
       Reco ? h('button', { type: 'button', class: 'btn btn-micro', id: 'btn-micro', onclick: ecouter },
         iconeMicro(), 'Répondre à voix haute') : null,
       h('form', {
@@ -737,7 +737,7 @@ function lireSolo(q, cat) {
     const ecouteAuto = prefs.mainsLibres && Reco
       ? () => { if (solo && solo.question === id && solo.phase === 'question' && !ecouteEnCours && $('#btn-micro')) ecouter(); }
       : null;
-    direUneFois(`solo-q-${id}`, `${cat.nom}. ${q.q}`, ecouteAuto);
+    direUneFois(`solo-q-${id}`, `${cat.nom}. ${q.l}`, ecouteAuto);
   } else if (solo.verdict) {
     const v = solo.verdict;
     // Mains libres : après le verdict, on passe seul à la question suivante (sauf correction entre-temps).
@@ -957,8 +957,9 @@ async function demarrer() {
   CATS = DATA.categories;
   DATA.cartes.forEach(carte => carte.forEach(q => { q[0] = typo(q[0]); q[1] = typo(q[1]); }));
   QUESTIONS = [];
-  DATA.cartes.forEach((carte, n) => carte.forEach(([q, r, d, t], i) => {
-    QUESTIONS.push({ id: QUESTIONS.length, carte: n, cat: CATS[i].id, q, r, d, t });
+  DATA.cartes.forEach((carte, n) => carte.forEach(([q, r, d, t, a, l], i) => {
+    // a : autres réponses acceptées ; l : texte à lire à voix haute (si différent de l'énoncé).
+    QUESTIONS.push({ id: QUESTIONS.length, carte: n, cat: CATS[i].id, q, r, d, t, a: a || [], l: l || q });
   }));
 
   document.querySelectorAll('[data-stat="cartes"]').forEach(e => { e.textContent = DATA.cartes.length; });

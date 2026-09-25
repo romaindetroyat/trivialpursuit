@@ -113,28 +113,39 @@
     return pleins.length >= 2 && pleins.every(m => /^[A-ZÀ-ÖØ-Þ]/.test(m));
   }
 
-  /** Renvoie true si l'une des propositions (transcriptions) correspond à la réponse attendue. */
-  function verifier(propositions, reponse) {
+  /**
+   * Renvoie true si l'une des propositions (transcriptions ou saisie) correspond à la réponse.
+   * options.question : énoncé ; les mots de la réponse qui y figurent déjà sont facultatifs
+   *   (« indienne » suffit pour « La plaque indienne » quand on demande « Quelle plaque… »).
+   * options.alias : autres réponses acceptées, préparées à l'avance.
+   */
+  function verifier(propositions, reponse, options = {}) {
     const vars = variantes(reponse);
+    for (const a of options.alias || []) vars.push(...variantes(a));
+    const dansQuestion = new Set(options.question ? jetons(options.question) : []);
     for (const prop of [].concat(propositions)) {
       const dits = jetons(prop);
       if (!dits.length) continue;
       const colle = dits.join('');
+      const trouve = a => dits.some(d => proche(d, a));
       for (const v of vars) {
         if (colle === v.jetons.join('')) return true;
-        const trouves = v.jetons.filter(a => dits.some(d => proche(d, a))).length;
+        const trouves = v.jetons.filter(trouve).length;
         if (trouves === v.jetons.length) return true;
-        // Les unités et les années de précision sont facultatives (« 21 » pour « 21 points »,
-        // « Montréal » pour « Montréal 1976 »).
+        const nomPropre = estNomPropre(v.texte);
+        // Réponse longue : deux tiers des mots suffisent, sauf pour un nom de personne ou de lieu.
+        if (!nomPropre && v.jetons.length >= 3 && trouves / v.jetons.length >= 2 / 3) return true;
+        // Mots facultatifs : unités (« 21 » pour « 21 points »), années de précision
+        // (« Montréal » pour « Montréal 1976 ») et mots déjà présents dans la question.
         const mots = v.jetons.filter(a => !/\d/.test(a) && !UNITES.has(a));
-        const essentiels = v.jetons.filter(a => !UNITES.has(a) && !(/^\d{4}$/.test(a) && mots.length));
-        if (essentiels.length && essentiels.length < v.jetons.length
-          && essentiels.every(a => dits.some(d => proche(d, a)))) return true;
-        if (v.jetons.length >= 3 && trouves / v.jetons.length >= 2 / 3) return true;
+        const essentiels = v.jetons.filter(a => !UNITES.has(a)
+          && !(/^\d{4}$/.test(a) && mots.length)
+          && !dansQuestion.has(a));
+        if (essentiels.length && essentiels.length < v.jetons.length && essentiels.every(trouve)) return true;
         // Personne ou lieu en plusieurs mots : le dernier nom suffit (« Hugo » pour « Victor Hugo »).
-        if (estNomPropre(v.texte)) {
+        if (nomPropre) {
           const dernier = v.jetons[v.jetons.length - 1];
-          if (dernier.length >= 4 && dits.some(d => proche(d, dernier))) return true;
+          if (dernier.length >= 4 && dits.some(d => d === dernier || (dernier.length >= 6 && distance(d, dernier) <= 1))) return true;
         }
       }
     }
